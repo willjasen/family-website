@@ -12,6 +12,11 @@ def add_footer_with_gtag_to_all_html(directory, gtag_file):
                 with open(file_path, 'r') as f:
                     content = f.readlines()
 
+                # Check if the file already contains a footer
+                if any("<footer>" in line for line in content):
+                    print(f"Skipping {file_path}, footer already exists.")
+                    continue
+
                 # Find the closing </body> tag and insert the footer before it
                 for i, line in enumerate(content):
                     if "</body>" in line:
