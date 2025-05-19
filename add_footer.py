@@ -1,7 +1,9 @@
 import os
 
-def add_footer_with_gtag_to_all_html(directory):
-    footer_tag = "<footer>\n    <script async src=\"https://www.googletagmanager.com/gtag/js?id=G-VGJ94LX338\"></script>\n    <script>\n      window.dataLayer = window.dataLayer || [];\n      function gtag(){dataLayer.push(arguments);}\n      gtag('js', new Date());\n      gtag('config', 'G-VGJ94LX338');\n    </script>\n</footer>\n"
+def add_footer_with_gtag_to_all_html(directory, gtag_file):
+    # Read the content of gtag.html and wrap it in <footer> tags
+    with open(gtag_file, 'r') as gtag:
+        footer_tag = f"<footer>\n{gtag.read()}\n</footer>"
 
     for root, _, files in os.walk(directory):
         for file in files:
@@ -22,5 +24,8 @@ def add_footer_with_gtag_to_all_html(directory):
 # Directory containing the .html files
 directory = "/Users/willjasen/GitHub/family-website"
 
+# Path to the gtag.html file
+gtag_file = os.path.join(directory, "gtag.html")
+
 # Call the function to add the footer to all .html files
-add_footer_with_gtag_to_all_html(directory)
+add_footer_with_gtag_to_all_html(directory, gtag_file)
