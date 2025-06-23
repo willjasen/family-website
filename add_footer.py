@@ -27,7 +27,7 @@ def add_footer_with_gtag_to_all_html(directory, gtag_file):
                     f.writelines(content)
 
 # Directory containing the .html files
-directory = "/Users/willjasen/GitHub/family-website"
+directory = "/Users/willjasen/Application Data/GitHub/family-website"
 
 # Path to the gtag.html file
 gtag_file = os.path.join(directory, "gtag.html")
