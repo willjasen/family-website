@@ -25,6 +25,7 @@ def add_footer_with_gtag_to_all_html(directory, gtag_file):
 
                 with open(file_path, 'w') as f:
                     f.writelines(content)
+                print(f"Added footer to {file_path}")
 
 # Directory containing the .html files
 directory = "."
