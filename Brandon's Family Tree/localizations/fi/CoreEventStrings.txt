@@ -1,0 +1,357 @@
+﻿/* (No Comment) */
+"_ConclusionType_AssociateRelations" = "Merkittävä henkilötyyppi";
+
+/* Duplicate Conclusion GEDCOM Tag */
+"_ConclusionType_DuplicateGedcomTag" = "Tämä GEDCOM tägi on jo käytössä. Valitse toinen koska kaksois GEDCOM tägi voi johtaa ongelmiin GEDCOM tiedostoja vietäessä,";
+
+/* (No Comment) */
+"_ConclusionType_FamilyEvents" = "Perhetapahtumat";
+
+/* (No Comment) */
+"_ConclusionType_IsNotUserCreatedFlag" = "Sisäinen tyyppi";
+
+/* (No Comment) */
+"_ConclusionType_IsUserCreatedFlag" = "Käyttäjän luoma tyyppi";
+
+/* (No Comment) */
+"_ConclusionType_PersonEvents" = "Henkilötapahtumat";
+
+/* (No Comment) */
+"_ConclusionType_PersonEventsFamilyEvents" = "Tapahtumat";
+
+/* (No Comment) */
+"_ConclusionType_PersonEventsFamilyEventsPersonFacts" = "Tapahtumat & tiedot";
+
+/* (No Comment) */
+"_ConclusionType_PersonEventsFamilyEventsPersonFactsAssociateRelations" = "Tapahtumat, tiedot & vaikuttavat henkilöt";
+
+/* (No Comment) */
+"_ConclusionType_PersonFacts" = "Henkilötiedot";
+
+/* LDS */
+"_Event_LDSNoTemple" = "Ei temppeliä";
+
+/* (No Comment) */
+"_FamilyEvent_Annuled" = "Peruutus";
+
+/* (No Comment) */
+"_FamilyEvent_Bann" = "Kuulutukset";
+
+/* (No Comment) */
+"_FamilyEvent_Census" = "Väestönlaskenta";
+
+/* (No Comment) */
+"_FamilyEvent_Contract" = "Avioehto";
+
+/* (No Comment) */
+"_FamilyEvent_Divorce_Filing" = "Avioeron vahvistaminen";
+
+/* (No Comment) */
+"_FamilyEvent_Divorced" = "Avioero";
+
+/* (No Comment) */
+"_FamilyEvent_Engagement" = "Kihlaus";
+
+/* (No Comment) */
+"_FamilyEvent_LDSSpouseSealing" = "MAP Avioliiton solmiminen";
+
+/* (No Comment) */
+"_FamilyEvent_License" = "Naimalupa";
+
+/* FamilyEvents */
+"_FamilyEvent_Marriage" = "Avioliitto";
+
+/* (No Comment) */
+"_FamilyEvent_MarriageCivil" = "Siviilivihkiminen";
+
+/* (No Comment) */
+"_FamilyEvent_MarriageReligion" = "Kirkollinen vihkiminen";
+
+/* (No Comment) */
+"_FamilyEvent_OtherEvent" = "Muu tapahtuma";
+
+/* (No Comment) */
+"_FamilyEvent_Partnership" = "Elinkumppanuus";
+
+/* (No Comment) */
+"_FamilyEvent_Separation" = "Ero";
+
+/* (No Comment) */
+"_FamilyEvent_Settlement" = "Avioliittosopimus";
+
+/* (No Comment) */
+"_LDSEventStatus_BIC" = "BIC";
+
+/* LDS Event Status */
+"_LDSEventStatus_Canceled" = "Kumottu";
+
+/* (No Comment) */
+"_LDSEventStatus_Child" = "Lapsi";
+
+/* (No Comment) */
+"_LDSEventStatus_Cleared" = "Vapautettu";
+
+/* (No Comment) */
+"_LDSEventStatus_Completed" = "Valmis";
+
+/* (No Comment) */
+"_LDSEventStatus_DNS" = "Ei hyväksytty";
+
+/* (No Comment) */
+"_LDSEventStatus_DNS/CAN" = "Ei hyväksytty (CAN)";
+
+/* (No Comment) */
+"_LDSEventStatus_Infant" = "Vauva";
+
+/* (No Comment) */
+"_LDSEventStatus_Pre1970" = "Ennen 1970";
+
+/* (No Comment) */
+"_LDSEventStatus_Qualified" = "Hyväksytty";
+
+/* (No Comment) */
+"_LDSEventStatus_Stillborn" = "Kuolleena syntynyt";
+
+/* (No Comment) */
+"_LDSEventStatus_Submitted" = "Lähetetty";
+
+/* (No Comment) */
+"_LDSEventStatus_Uncleared" = "Ei vapautettu";
+
+/* PersonEvents */
+"_PersonEvent_Adoption" = "Adoptio";
+
+/* (No Comment) */
+"_PersonEvent_AdultChristening" = "Aikuiskaste";
+
+/* (No Comment) */
+"_PersonEvent_Apprenticeship" = "Oppiaika";
+
+/* (No Comment) */
+"_PersonEvent_Baptism" = "Lapsikaste";
+
+/* (No Comment) */
+"_PersonEvent_BarMitzvah" = "Bar Mitsva";
+
+/* (No Comment) */
+"_PersonEvent_BasMitzvah" = "Bat Mitsva";
+
+/* (No Comment) */
+"_PersonEvent_Birth" = "Syntymä";
+
+/* (No Comment) */
+"_PersonEvent_Blessing" = "Siunaus";
+
+/* (No Comment) */
+"_PersonEvent_Burial" = "Hautaus";
+
+/* (No Comment) */
+"_PersonEvent_Census" = "Väestönlaskenta";
+
+/* (No Comment) */
+"_PersonEvent_Christening" = "Ristiminen";
+
+/* (No Comment) */
+"_PersonEvent_Circumcision" = "Ympärileikkaus";
+
+/* (No Comment) */
+"_PersonEvent_Confirmation" = "Konfirmaatio";
+
+/* (No Comment) */
+"_PersonEvent_Cremation" = "Tuhkaus";
+
+/* (No Comment) */
+"_PersonEvent_Death" = "Kuolema";
+
+/* (No Comment) */
+"_PersonEvent_Deed" = "Dokumentti/asiakirja";
+
+/* (No Comment) */
+"_PersonEvent_Education" = "Koulutus";
+
+/* (No Comment) */
+"_PersonEvent_Emigration" = "Maastamuutto";
+
+/* (No Comment) */
+"_PersonEvent_Excommunication" = "Erottaminen";
+
+/* (No Comment) */
+"_PersonEvent_FirstCommunion" = "Ensimmäinen ehtoollinen";
+
+/* (No Comment) */
+"_PersonEvent_FosterChild" = "Kasvattilapsi";
+
+/* (No Comment) */
+"_PersonEvent_Funeral" = "Hautajaiset";
+
+/* (No Comment) */
+"_PersonEvent_GenericEvent" = "Muu tapahtuma";
+
+/* (No Comment) */
+"_PersonEvent_Graduation" = "Koulututkinto";
+
+/* (No Comment) */
+"_PersonEvent_Illness" = "Sairaus";
+
+/* (No Comment) */
+"_PersonEvent_Immigration" = "Maahanmuutto";
+
+/* (No Comment) */
+"_PersonEvent_LandTransaction" = "Maanhankinta";
+
+/* (No Comment) */
+"_PersonEvent_LDSBaptism" = "MAP kaste";
+
+/* (No Comment) */
+"_PersonEvent_LDSChildSealing" = "MAP vanhempiin sinetöinti";
+
+/* (No Comment) */
+"_PersonEvent_LDSConfirmation" = "MAP konfirmaatio";
+
+/* (No Comment) */
+"_PersonEvent_LDSEndowment" = "MAP temppelipyhitys";
+
+/* (No Comment) */
+"_PersonEvent_LDSInitiatory" = "MAP esitoimitukset";
+
+/* (No Comment) */
+"_PersonEvent_MilitaryAward" = "Sotilasansioista palkitseminen";
+
+/* (No Comment) */
+"_PersonEvent_MilitaryDischarge" = "Sotilaspalvelusta eroaminen";
+
+/* (No Comment) */
+"_PersonEvent_MilitaryInduction" = "Sotilaspalvelun aloittaminen";
+
+/* (No Comment) */
+"_PersonEvent_MilitaryService" = "Asepalvelu";
+
+/* (No Comment) */
+"_PersonEvent_Miscarriage" = "Keskenmeno";
+
+/* (No Comment) */
+"_PersonEvent_Mission" = "Lähetystyö";
+
+/* (No Comment) */
+"_PersonEvent_Nationality" = "Kansalaisuus";
+
+/* (No Comment) */
+"_PersonEvent_Naturalization" = "Kansalaisoikeudet";
+
+/* (No Comment) */
+"_PersonEvent_NickName" = "Lempinimi";
+
+/* (No Comment) */
+"_PersonEvent_NobilityTypeTitle" = "Aatelisarvo";
+
+/* (No Comment) */
+"_PersonEvent_Occupation" = "Ammatti";
+
+/* (No Comment) */
+"_PersonEvent_Ordination" = "Pappisvihkimys";
+
+/* (No Comment) */
+"_PersonEvent_Probate" = "Perintöoikeuden vahvistus";
+
+/* (No Comment) */
+"_PersonEvent_Religion" = "Uskonto";
+
+/* (No Comment) */
+"_PersonEvent_Residence" = "Asuinpaikka";
+
+/* (No Comment) */
+"_PersonEvent_Retirement" = "Eläkkeelle jäänti";
+
+/* (No Comment) */
+"_PersonEvent_Will" = "Testamentti";
+
+/* (No Comment) */
+"_PersonFact_BloodType" = "Veriryhmä";
+
+/* (No Comment) */
+"_PersonFact_CasteName" = "Kasti";
+
+/* (No Comment) */
+"_PersonFact_Clan" = "Klaani";
+
+/* (No Comment) */
+"_PersonFact_CustomFamilySearchFactTitle" = "Oma fakta: %@";
+
+/* (No Comment) */
+"_PersonFact_Email" = "Sähköposti";
+
+/* (No Comment) */
+"_PersonFact_EyeColor" = "Silmien väri";
+
+/* (No Comment) */
+"_PersonFact_HairColor" = "Hiusten väri";
+
+/* (No Comment) */
+"_PersonFact_Height" = "Pituus";
+
+/* (No Comment) */
+"_PersonFact_Hobby" = "Harrastus";
+
+/* (No Comment) */
+"_PersonFact_Honors" = "Kunnianosoitukset";
+
+/* (No Comment) */
+"_PersonFact_NationalID" = "Kansallinen henkilötunnus";
+
+/* (No Comment) */
+"_PersonFact_NationalOrTribalOrigin" = "Kansallinen- tai heimoalkuperä";
+
+/* (No Comment) */
+"_PersonFact_NoChildren" = "Ei lapsia";
+
+/* (No Comment) */
+"_PersonFact_NoCoupleRelationships" = "Ei puolisoita";
+
+/* (No Comment) */
+"_PersonFact_Phone" = "Puhelinnumero";
+
+/* (No Comment) */
+"_PersonFact_PhysicalDescription" = "Fyysinen kuvaus";
+
+/* (No Comment) */
+"_PersonFact_Possession" = "Omaisuus";
+
+/* (No Comment) */
+"_PersonFact_Race" = "Etninen alkuperä";
+
+/* (No Comment) */
+"_PersonFact_SkinColor" = "Ihonväri";
+
+/* Facts */
+"_PersonFact_SocialSecurityNumber" = "Sosiaalivakuutusnumero";
+
+/* (No Comment) */
+"_PersonFact_TribeName" = "Sukuperä";
+
+/* (No Comment) */
+"_PersonFact_Weight" = "Paino";
+
+/* (No Comment) */
+"ConclusionAdditionalNameType_Unnamed" = "Nimeämätön lisänimityyppi";
+
+/* (No Comment) */
+"ConclusionAssociateRelationType_Unnamed" = "Nimetön merkittävä henkilötyyppi";
+
+/* (No Comment) */
+"ConclusionFamilyEventType_Unnamed" = "Nimeämätön perhetapahtumatyyppi";
+
+/* Conclusion Types */
+"ConclusionPersonEventType_Unnamed" = "Nimeämätön henkilötapahtumatyyppi";
+
+/* (No Comment) */
+"ConclusionPersonFactType_Unnamed" = "Nimeämätön henkilötietotyyppi";
+
+/* (No Comment) */
+"ConclusionToDoPriorityType_Unnamed" = "Nimetön Tehtävän tärkeystyyppi";
+
+/* (No Comment) */
+"ConclusionToDoStatusType_Unnamed" = "Nimetön Tehtävän tilatyyppi";
+
+/* (No Comment) */
+"ConclusionToDoTypeType_Unnamed" = "Nimetön Tehtävätyyppi";
+

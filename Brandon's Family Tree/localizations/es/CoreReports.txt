@@ -1,0 +1,1428 @@
+﻿/* (No Comment) */
+"_ReportCSVWriterConfiguration_CSVGroup" = "Grupo";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_CSVSection" = "Sección";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_ExportHeaders" = "Exportar cabecera de título CSV";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_ExportHeadersExplanation" = "Seleccione esta opción si desea inlcuir información en la cabecera de su archivo CSV. La información en la cabecera facilita la localización de información en el archivo CSV resultante.";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_NewLineCharacter" = "Carácter de nueva línea";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_NewLineCharacter_CR" = "Carácter CR (Mac OS clásico)";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_NewLineCharacter_CRLF" = "Carácter CRLF (Windows)";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_NewLineCharacter_LF" = "Carácter LF (Unix, macOS moderno)";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_NewLineCharacterExplanation" = "Seleccione qué carácter se deberá utilizar como indicador de una nueva línea. La mayoría de las aplicaciones modernas aceptan cualquier opción; solo algunos sistemas más antiguos pueden requierir una configuración específica.";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_Separator_Comma" = "Coma (,)";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_Separator_Semicolon" = "Punto y coma (;)";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_SeparatorPopupButtonTitle" = "Signo de separación para CSV";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_SeparatorPopupButtonTitleExplanation" = "Indique aquí qué signo de separación se ha de utilizar en el archivo CSV. La mayoría de las aplicaciones son compatibles con ambas opciones.";
+
+/* CSVWriter */
+"_ReportCSVWriterConfiguration_Title" = "Exportar CSV";
+
+/* (No Comment) */
+"_ReportError_NoDataFoundToExportAsCSV" = "No se ha encontrado ningúna información en este informe que pueda ser exportada como archivo CSV.";
+
+/* (No Comment) */
+"_ReportError_NoDistinctivePersonsFoundError" = "No se ha encontrado ninguna persona especial en este árbol genealógico.";
+
+/* (No Comment) */
+"_ReportError_NoFamiliesFoundMatchingTheSelectedCriteria" = "No se ha encontrado ninguna familia que coincida con los criterios seleccionados.";
+
+/* (No Comment) */
+"_ReportError_NoFamilyFoundInFamilyTreeError" = "Todavía no consta ninguna familia en este árbol genealógico. Para mostrar este informe, utilice la sección Editar para añadir personas y familias.";
+
+/* Errors */
+"_ReportError_NoPersonFoundInFamilyTreeError" = "Todavía no consta ninguna persona en este árbol genealógico. Para mostrar este informe, utilice la sección Editar para añadir personas y familias.";
+
+/* (No Comment) */
+"_ReportError_NoPersonsFoundMatchingTheSelectedCriteria" = "No se ha encontrado ninguna persona que coincida con los criterios seleccionados.";
+
+/* (No Comment) */
+"_ReportError_NoPlaceFoundInFamilyTreeError" = "Todavía no consta ningún lugar en este árbol genealógico. Para mostrar este informe, utilice la sección Editar para añadir lugares para eventos de personas y familias.";
+
+/* (No Comment) */
+"_ReportError_NoPlacesFoundMatchingTheSelectedCriteria" = "No se ha encontrado ningún lugar que coincida con los criterios seleccionados.";
+
+/* (No Comment) */
+"_ReportError_NoPlacesWithCoordinatesFoundForPersonError" = "No se ha encontrado ningún lugar con coordenadas para la entrada seleccionada. Ingrese las coordenadas geográficas de los lugares en la sección Editar para que estos aparezan en el informe.";
+
+/* (No Comment) */
+"_ReportError_NoPlausibilityAnalyzerResultsFound" = "No se ha encontrado ninguna advertencia de plausibilidad.";
+
+/* (No Comment) */
+"_ReportError_NoSelectedFamilySetError" = "No se ha seleccionado ninguna familia para este informe.";
+
+/* (No Comment) */
+"_ReportError_NoSelectedPersonSetError" = "No se ha seleccionado ninguna persona para este informe.";
+
+/* (No Comment) */
+"_ReportError_NoSelectedStorySetError" = "No se ha seleccionado ninguna historia para este informe.";
+
+/* (No Comment) */
+"_ReportError_NoSourceFoundInFamilyTreeError" = "Todavía no consta ninguna fuente en este árbol genealógico. Para mostrar este informe, utilice la sección Editar para añadir fuentes.";
+
+/* (No Comment) */
+"_ReportError_NoSourcesFoundMatchingTheSelectedCriteria" = "No se ha encontrado ninguna fuente que coincida con los criterios seleccionados.";
+
+/* (No Comment) */
+"_ReportError_NoStoryFoundInFamilyTreeError" = "Hasta ahora no se ha añadido ninguna historia en este árbol genealógico. Utilice la sección \"Editar\" para añadir historias y así poder presentar este informe.";
+
+/* (No Comment) */
+"_ReportError_NotEnoughDataPresentError" = "No existe suficiente información en este árbol genealógico para mostrar este informe.";
+
+/* (No Comment) */
+"_ReportError_NoToDoFoundInFamilyTreeError" = "Todavía no hay ninguna tarea pendiente en este árbol genealógico. Para mostrar este informe, utilice la sección Editar para añadir tareas.";
+
+/* (No Comment) */
+"_ReportError_NoToDosFoundMatchingTheSelectedCriteria" = "No se ha encontrado ninguna tarea que coincida con los criterios seleccionados.";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_ChapterColor" = "Color de texto de capítulo";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_ChapterColorMode" = "Modo de color de texto de capítulo";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Opacity" = "Opacidad";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_PageNumberColor" = "Color de texto de número de página";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_PageNumberColorMode" = "Modo de color de texto de número de página";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_PageSetupButton" = "Ajustes de página...";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Scaling" = "Escalar";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_SectionColor" = "Color de texto de sección";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_SectionColorMode" = "Modo de color de texto de sección";
+
+/* Page Background Renderer */
+"_ReportPageBackgroundRendererConfiguration_Style" = "Estilo de fondo";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_BottomBar" = "Barra inferior";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_BottomGradient" = "Gradiente inferior";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_BottomLine" = "Línea inferior";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_BottomPageNumberRect" = "Rectángulo con número de página abajo";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_InlineOuterBar" = "Barra externa en línea";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_InlineTopBar" = "Barra superior en línea";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_InnerBar" = "Barra interna";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_InnerBlocksBar" = "Barra interna de bloque";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_None" = "Ninguno";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_OnlyBackground" = "Solo color de fondo";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_OuterAndInnerBar" = "BArra externa e interna";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_OuterAndInnerBlocksBar" = "Barra externa e interna de bloque";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_OuterBar" = "Barra externa";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_OuterBlocksBar" = "Barra externa de bloque";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_Rectangle" = "Rectángulo";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_RoundInlineTopBar" = "Barra ruperior redondeada en línea";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_RoundRectangle" = "Rectángulo redondeado";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_ThickRectangle" = "Rectángulo ancho";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_ThickRoundRectangle" = "Rectángulo redondeado grueso";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_TopBar" = "Barra superior";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_TopBottomBar" = "Barra superior e inferior";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_TopBottomGradient" = "Gradiente superior e inferior";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_TopBottomLine" = "Línea superior e inferior";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_TopGradient" = "Gradiente superior";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_TopLine" = "Línea superior";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_XAtTop" = "Marca X superior";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_TextColorMode_ContrastToBackground" = "Contraste con el fondo";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_TextColorMode_Custom" = "Personalizado";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_Fill" = "Llenar página";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitBottomCenter" = "Abajo al centro";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitBottomLeft" = "Abajo a la izquierda";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitBottomRight" = "Abajo a la derecha";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitCenterCenter" = "Totalmente centrado";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitCenterLeft" = "Centrado a la izquierda";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitCenterRight" = "Centrado a la derecha";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitFill" = "Llenar página respetando la proporción";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitTopCenter" = "Arriba al centro";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitTopLeft" = "Arriba a la izquierda";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitTopRight" = "Arriba a la derecha";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_WatermarkFloatsAboveContentTitle" = "Poner marca de agua sobre el contenido";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_WatermarkImage" = "Marca de agua";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_WatermarkInsettedByPageMargins" = "Colocar marca de agua al márgen de la página";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_WatermarkPlacement" = "Ubicación";
+
+/* (No Comment) */
+"_Reports_AhnentafelReport_GenerationNumber" = "%d. Generación";
+
+/* (No Comment) */
+"_Reports_AhnentafelReport_Generations" = "Generaciones";
+
+/* (No Comment) */
+"_Reports_AhnentafelReport_List_Header_Kekule" = "Kekulé";
+
+/* (No Comment) */
+"_Reports_AhnentafelReport_List_Header_Narrative" = "Informe narrativo";
+
+/* (No Comment) */
+"_Reports_AhnentafelReport_List_Header_Person" = "Persona";
+
+/* AhnentafelReport */
+"_Reports_AhnentafelReport_Title" = "Informe Ahnentafel";
+
+/* (No Comment) */
+"_Reports_BackgroundColor" = "Color de fondo";
+
+/* (No Comment) */
+"_Reports_BarsColor" = "Color de barras";
+
+/* (No Comment) */
+"_Reports_BaseColorsGroupName" = "Colores básicos";
+
+/* (No Comment) */
+"_Reports_BaseFontsGroupName" = "Fuentes básicas";
+
+/* (No Comment) */
+"_Reports_BaseStyler_Abbreviation_For_Female" = "(f)";
+
+/* (No Comment) */
+"_Reports_BaseStyler_Abbreviation_For_Intersex" = "(i)";
+
+/* Gender Abbreviations */
+"_Reports_BaseStyler_Abbreviation_For_Male" = "(m)";
+
+/* (No Comment) */
+"_Reports_BaseStyler_Abbreviation_For_Unknown" = "(-)";
+
+/* (No Comment) */
+"_Reports_CapitalizeSectionTitles" = "Utilizar mayúsculas en los títulos de secciones";
+
+/* (No Comment) */
+"_Reports_ChapterFont" = "Fuente de capítulo";
+
+/* (No Comment) */
+"_Reports_Citations_CitationsMode" = "Modos de citas";
+
+/* (No Comment) */
+"_Reports_Citations_DisplayPictures" = "Imágenes";
+
+/* (No Comment) */
+"_Reports_Citations_DisplayReferences" = "Entradas con referencias";
+
+/* (No Comment) */
+"_Reports_Citations_DisplaySourceCitationNotes" = "Apuntes de cita fuente";
+
+/* (No Comment) */
+"_Reports_Citations_DisplaySourceNotes" = "Apuntes de fuente";
+
+/* (No Comment) */
+"_Reports_Citations_DisplaySourceRepository" = "Repositorio de fuentes";
+
+/* (No Comment) */
+"_Reports_Citations_DisplayText" = "Texto";
+
+/* (No Comment) */
+"_Reports_Citations_SourcePicturesSize" = "Tamaño de imagen";
+
+/* (No Comment) */
+"_Reports_Citations_SourcePicturesSize_FullAvailableWidth" = "Grande";
+
+/* (No Comment) */
+"_Reports_Citations_SourcePicturesSize_LargeThumbnail" = "Mediano";
+
+/* (No Comment) */
+"_Reports_Citations_SourcePicturesSize_Thumbnail" = "Pequeño";
+
+/* (No Comment) */
+"_Reports_CitationsMajorGroupName" = "Citas";
+
+/* (No Comment) */
+"_Reports_CleanBookStyle" = "Libro simple";
+
+/* (No Comment) */
+"_Reports_CleanTablesStyle" = "Tabla Limpia";
+
+/* (No Comment) */
+"_Reports_CleanTextStyle" = "Texto Limpio";
+
+/* (No Comment) */
+"_Reports_ColorsMajorGroupName" = "Colores";
+
+/* (No Comment) */
+"_Reports_ColumnsMajorGroupName" = "Columnas";
+
+/* Sources */
+"_Reports_Common_Citations_Section_Title" = "Citas";
+
+/* Common */
+"_Reports_CustomReportTitle" = "Título de informe personalizado";
+
+/* (No Comment) */
+"_Reports_DateFormatMinorGroupName" = "Formato de fecha";
+
+/* (No Comment) */
+"_Reports_DateFormatStyle" = "Estilo de formato de fecha";
+
+/* (No Comment) */
+"_Reports_DateFormatStyleExplanation" = "Indique aquí qué estilo de formato de fecha desea utilizar al reformatear las fechas";
+
+/* (No Comment) */
+"_Reports_DateOptionsGroupName" = "Fechas";
+
+/* (No Comment) */
+"_Reports_DefaultHighlightColor" = "Color de realce por defecto";
+
+/* (No Comment) */
+"_Reports_DefaultHighlightColor_Explanation" = "Indique el color de realce por defecto. Podrá definir colores de realce individuales por capítulo en la configuración de capítulo.";
+
+/* (No Comment) */
+"_Reports_DescendancyReport_ChildNumber_Header" = "Hijo/a";
+
+/* DescendancyReport */
+"_Reports_DescendancyReport_DescendantsSectionTitleWithGenerationNumber" = "%d. Generación";
+
+/* (No Comment) */
+"_Reports_DescendancyReport_Marriage_Header" = "matrimonio";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_AddedCell_PlaceholderText" = "Texto";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeBackgroundColor" = "Fondo de celdas";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeBottomBorderColor" = "Color de borde inferior de celda";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeBottomBorderWidth" = "Borde inferior de celda";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeLeftBorderColor" = "Color de borde izquierdo de celda";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeLeftBorderWidth" = "Borde izquierdo de celda";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeRightBorderColor" = "Color de borde derecho de celda";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeRightBorderWidth" = "Borde derecho de celda";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeTopBorderColor" = "Color de borde superior de celda";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeTopBorderWidth" = "Borde superior de celda";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_ContentFrameSize_Height" = "Altura";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_ContentFrameSize_Width" = "Anchura";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_LayoutCellNode_EndPosition" = "Posición final";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_LayoutCellNode_StartPosition" = "Posición inicial";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_LayoutNode_DrawGridLines" = "Mostrar diseño de rejilla";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_BaseNode" = "Nodo";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_Cell" = "Celda";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_Flow" = "Grupo";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_Image" = "Imagen";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_Layout" = "Lista";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_PDF" = "PDF";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_Section" = "Sección";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_Table" = "Tabla";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_Text" = "Texto";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Background" = "Fondo";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Border" = "Borde";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_CellOptions" = "Opciones de celda";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Fonts" = "Fuentes";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Layout" = "Diseño de página";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Margin" = "Márgen";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Options" = "Opciones";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Padding" = "Espaciado";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Size" = "Tamaño";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeBackgroundColor" = "Color de fondo";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeBorderColor" = "Color de borde";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeBorderRadius" = "Radio de borde";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeBottomBorderWidth" = "Ancho inferior";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeBottomMarginWidth" = "Ancho inferior";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeBottomPaddingWidth" = "Ancho inferior";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeHorizontalAlign" = "Alinear horizontalmente";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeHorizontalAlign_Bottom" = "Derecha";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeHorizontalAlign_Middle" = "Centro";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeHorizontalAlign_Top" = "Izquierda";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeLeftBorderWidth" = "Izquierda";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeLeftMarginWidth" = "Izquierda";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeLeftPaddingWidth" = "Izquierda";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeRightBorderWidth" = "Derecha";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeRightMarginWidth" = "Derecha";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeRightPaddingWidth" = "Derecha";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeTopBorderWidth" = "Arriba";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeTopMarginWidth" = "Arriba";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeTopPaddingWidth" = "Arriba";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeVerticalAlign" = "Alineación vertical";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeVerticalAlign_Bottom" = "Abajo";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeVerticalAlign_Middle" = "Al medio";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeVerticalAlign_Top" = "Arriba";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageFlowAreaIdentifier_AnyColumn" = "Cualquier columna";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageFlowAreaIdentifier_LeftColumn" = "Columna izquierda";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageFlowAreaIdentifier_OneColumn" = "Columna principal";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageFlowAreaIdentifier_RightColumn" = "Columna derecha";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageFlowAreaIdentifier_Title" = "Columna";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageOrder_Any" = "Cualquier orden";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageOrder_EvenPage" = "Página par";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageOrder_OddPage" = "Página impar";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageOrder_Title" = "Orden de página";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageType_Any" = "Cualquier página";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageType_EmptyPage" = "Página vacía";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageType_OneColumn" = "Página de una columna";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageType_SmallLeftColumnBigRightColumn" = "Página de columna pequeña a la izquierda y grande a la derecha";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageType_Title" = "Tipo de página";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageType_TwoColumn" = "Página de dos columnas";
+
+/* Edit Configurations */
+"_Reports_Editor_Configurations_PleaseSelectObjectsToEditPlaceholder" = "Seleccione texto u otros elementos a la izquierda del informe para editar los colores, textos y tamaños";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_SelectedObjectsOfDifferentTypePlaceholder" = "Ha seleccionado múltiples objetos de distintos tipos";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_Table_DrawGridLines" = "Mostrar cuadrícula de tabla";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_Table_RepeatHeadersOnEachPage" = "Repetir cabecera de título";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_TableAlternateRowBackgroundColor" = "Alternar color de filas";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_TableRowBackgroundColor" = "Color de filas";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_TextColor" = "Color del texto";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_TextFont" = "Fuente de texto";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WantsNewLayoutPageArea" = "Comenzar en nueva área de página";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WantsNewLine" = "Comenzar después de un salto de línea";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WantsNewPage" = "Comenzar en una nueva página";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WantsSameLine" = "Evitar saltos de línea";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WantsToStickToPreviousObject" = "Ceñirse a el objeto anterior";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_Full" = "Completo";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_Full_ForScaleableNodes" = "Anchura total";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_Needed" = "Requerido";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_Needed_ForScaleableNodes" = "Anchura fija";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_Predefined" = "Factor de anchura";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_Predefined_ForScaleableNodes" = "Factor de anchura y altura fija";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_PredefinedWidthFactor" = "Factor de anchura";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_Title" = "Modo de anchura";
+
+/* (No Comment) */
+"_Reports_EmphasizedFont" = "Fuente realzada";
+
+/* (No Comment) */
+"_Reports_EmphasizedFontColor" = "Color de texto realzado";
+
+/* (No Comment) */
+"_Reports_EnabledSourceTemplateKeyIdentifiers" = "Campos de fuente a mostrar";
+
+/* (No Comment) */
+"_Reports_EventsMajorGroupName" = "Eventos";
+
+/* FactsListReport */
+"_Reports_FactsListReport_TotalFactsCountKey" = "Datos totales";
+
+/* (No Comment) */
+"_Reports_FontsMajorGroupName" = "Fuentes";
+
+/* Major Groups */
+"_Reports_GeneralMajorGroupName" = "General";
+
+/* (No Comment) */
+"_Reports_GridTablesStyle" = "Tabla simple";
+
+/* Fonts */
+"_Reports_HeaderFont" = "Fuente de título";
+
+/* Colors */
+"_Reports_HeaderFontColor" = "Color de texto de cabecera";
+
+/* Private Information */
+"_Reports_HidePrivateInformation" = "Ocultar información marcada como privada";
+
+/* (No Comment) */
+"_Reports_HidePrivateInformationExplanation" = "Si selecciona esta opción, se ocultará cada parte de información marcada como privada en el modo de edición.";
+
+/* (No Comment) */
+"_Reports_InformationColumnsMinorGroupName" = "Columnas de información";
+
+/* (No Comment) */
+"_Reports_InformationGroupName" = "Información";
+
+/* (No Comment) */
+"_Reports_KeyFont" = "Fuente de llaves";
+
+/* (No Comment) */
+"_Reports_KeyFontColor" = "Color de texto de llaves";
+
+/* (No Comment) */
+"_Reports_LeftTitleStyle" = "Título a la izquierda";
+
+/* (No Comment) */
+"_Reports_List_DrawGridLines" = "Mostrar cuadrícula de tabla";
+
+/* (No Comment) */
+"_Reports_List_HeaderBirthDate" = "Fecha de nacimiento";
+
+/* (No Comment) */
+"_Reports_List_HeaderBirthPlace" = "Lugar de nacimiento";
+
+/* (No Comment) */
+"_Reports_List_HeaderDeathDate" = "Fecha de fallecimiento";
+
+/* (No Comment) */
+"_Reports_List_HeaderDeathPlace" = "Lugar de fallecimiento";
+
+/* (No Comment) */
+"_Reports_List_RepeatHeaderOnEachPage" = "Repetir las cabeceras de tablas en nuevas páginas";
+
+/* (No Comment) */
+"_Reports_List_RepeatHeaderOnEachPageExplanation" = "Si activa esta opción, la fila de cabecera de una tabla se repetirá en caso de que la tabla se extienda por más de una página.";
+
+/* (No Comment) */
+"_Reports_ListCellFont" = "Fuente de lista de celdas";
+
+/* (No Comment) */
+"_Reports_ListHeaderFont" = "Fuente de lista de cabecera";
+
+/* (No Comment) */
+"_Reports_ListHeaderFontColor" = "Color de texto de cabecera";
+
+/* (No Comment) */
+"_Reports_ListKeyFont" = "Fuente de lista de palabras clave";
+
+/* (No Comment) */
+"_Reports_ListMode" = "Modo de lista";
+
+/* (No Comment) */
+"_Reports_ListMode_BookSetting" = "Utilizar ajustes de libro";
+
+/* (No Comment) */
+"_Reports_ListMode_DefaultFromStyler" = "Predeterminado por el tema";
+
+/* (No Comment) */
+"_Reports_ListMode_PrefersList" = "Mostrar como lista";
+
+/* (No Comment) */
+"_Reports_ListMode_PrefersTable" = "Mostrar como lista";
+
+/* (No Comment) */
+"_Reports_ListsColorGroupName" = "Colores de lista";
+
+/* Lists */
+"_Reports_ListSectionFont" = "Fuente de lista de secciones";
+
+/* (No Comment) */
+"_Reports_ListSectionFontColor" = "Color de texto de sección";
+
+/* (No Comment) */
+"_Reports_ListsFontGroupName" = "Listas";
+
+/* (No Comment) */
+"_Reports_ListsOptionsGroupName" = "Listas";
+
+/* Localization */
+"_Reports_Localization" = "Localización";
+
+/* (No Comment) */
+"_Reports_LocalizationExplanation" = "Indique la localización para este informe. Toda la información en este informe será localizada en el idioma especificado.";
+
+/* (No Comment) */
+"_Reports_LocalizationMajorGroupName" = "Localización";
+
+/* (No Comment) */
+"_Reports_MainFont" = "Fuente principal";
+
+/* (No Comment) */
+"_Reports_MainFontColor" = "Color del texto principal";
+
+/* (No Comment) */
+"_Reports_MarriageList_OnlyShowFamiliesWithMarriageEvent" = "Mostrar solo las parejas con un evento de matrimonio";
+
+/* (No Comment) */
+"_Reports_MarriageList_ShowBirthDateForPersons" = "Mostrar fecha de nacimiento de personas";
+
+/* (No Comment) */
+"_Reports_MarriageList_ShowMarriageDateAsAdditionalInformation" = "Mostrar fecha de matrimonio con sangrado";
+
+/* (No Comment) */
+"_Reports_MarriageList_ShowMarriagePlaceAsAdditionalInformation" = "Mostrar lugar de matrimonio con sangrado";
+
+/* MarriageList */
+"_Reports_MarriageList_Sort_By_FamilyName" = "Por apellido";
+
+/* (No Comment) */
+"_Reports_MarriageList_Sort_By_ManName" = "Por nombre del esposo";
+
+/* (No Comment) */
+"_Reports_MarriageList_Sort_By_MarriageDate" = "Por fecha de matrimonio";
+
+/* (No Comment) */
+"_Reports_MarriageList_Sort_By_MarriageLocation" = "Por lugar de matrimonio";
+
+/* (No Comment) */
+"_Reports_MarriageList_Sort_By_WomanName" = "Por nombre de la esposa";
+
+/* MediaGalleryReport */
+"_Reports_MediaGalleryReport_GroupingMode" = "Agrupamiento de medios";
+
+/* (No Comment) */
+"_Reports_MediaGalleryReport_GroupingMode_ByDecade" = "Agrupar por década";
+
+/* (No Comment) */
+"_Reports_MediaGalleryReport_GroupingMode_ByLabel" = "Agrupar por etiqueta";
+
+/* (No Comment) */
+"_Reports_MediaGalleryReport_GroupingMode_BySelectedObject" = "Agrupar por entrada asignada";
+
+/* (No Comment) */
+"_Reports_MediaGalleryReport_GroupingMode_None" = "Sin agrupar";
+
+/* (No Comment) */
+"_Reports_MediaGalleryReport_SortingMode" = "Ordenación";
+
+/* (No Comment) */
+"_Reports_MediaGalleryReport_SortingMode_ByDate" = "Por fecha";
+
+/* (No Comment) */
+"_Reports_MediaGalleryReport_SortingMode_ByTitle" = "Por título";
+
+/* (No Comment) */
+"_Reports_MediaSection_FamilyMainSubsectionKey" = "Medios adjuntos a la familia";
+
+/* (No Comment) */
+"_Reports_MediaSection_MediaFromFamiliesSubsectionKey" = "Medios adjuntos a familias";
+
+/* (No Comment) */
+"_Reports_MediaSection_MediaFromFamilyEventsSubsectionKey" = "Medios adjuntos a eventos familiares";
+
+/* (No Comment) */
+"_Reports_MediaSection_MediaFromManSubsectionKey" = "Medios adjuntos a pareja 1";
+
+/* (No Comment) */
+"_Reports_MediaSection_MediaFromPersonEventsSubsectionKey" = "Medios adjuntos a eventos de persona";
+
+/* (No Comment) */
+"_Reports_MediaSection_MediaFromWomanSubsectionKey" = "Medios adjuntos a pareja 2";
+
+/* (No Comment) */
+"_Reports_MediaSection_PersonMainSubsectionKey" = "Medios adjuntos a persona";
+
+/* (No Comment) */
+"_Reports_MediaSize_FullSize" = "Tamaño total";
+
+/* (No Comment) */
+"_Reports_MediaSize_LargeThumbnail" = "Miniatura grande";
+
+/* (No Comment) */
+"_Reports_MediaSize_Thumbnail" = "Miniatura";
+
+/* (No Comment) */
+"_Reports_MediaSize_Title" = "Tamaño del medio";
+
+/* (No Comment) */
+"_Reports_MirrorPageMarginsAndBackgroundOnOddPages" = "Reflejar márgenes y fondos en páginas impares";
+
+/* (No Comment) */
+"_Reports_MirrorPageMarginsAndBackgroundOnOddPagesExplanation" = "Si se activa esta opción, se reflejarán los márgenes derechos e izquierdos en las páginas impares y se ajustará el fondo según corresponda. Especialmente útil para crear informes para libros.";
+
+/* (No Comment) */
+"_Reports_ModernBarsLightTextStyle" = "Barras modernas claras";
+
+/* (No Comment) */
+"_Reports_ModernBarsTextStyle" = "Barras modernas";
+
+/* (No Comment) */
+"_Reports_OtherFontColorsGroupName" = "Otro";
+
+/* (No Comment) */
+"_Reports_OtherFontsGroupName" = "Otros";
+
+/* (No Comment) */
+"_Reports_PageBottomMargin" = "Margen inferior";
+
+/* (No Comment) */
+"_Reports_PageFontsMinorGroupName" = "Fuentes";
+
+/* Page Margins */
+"_Reports_PageLeftMargin" = "Márgen izquierdo";
+
+/* (No Comment) */
+"_Reports_PageMarginsMajorGroupName" = "Márgenes de página";
+
+/* (No Comment) */
+"_Reports_PageMarginsMinorGroupName" = "Márgenes de página";
+
+/* (No Comment) */
+"_Reports_PageNumberFont" = "Fuente de número de página";
+
+/* (No Comment) */
+"_Reports_PageRightMargin" = "Márgen derecho";
+
+/* (No Comment) */
+"_Reports_PageStyleMajorGroupName" = "Estilo de página";
+
+/* (No Comment) */
+"_Reports_PageTextColorsMinorGroupName" = "Colores de texto";
+
+/* (No Comment) */
+"_Reports_PageTopMargin" = "Margen superior";
+
+/* (No Comment) */
+"_Reports_PageWatermarkMajorGroupName" = "Marca de agua";
+
+/* (No Comment) */
+"_Reports_Person_NotSet" = "No se ha indicado la persona";
+
+/* (No Comment) */
+"_Reports_PersonItem_PictureSize" = "Imágenes de personas";
+
+/* (No Comment) */
+"_Reports_PersonItem_PictureSize_Large" = "Mostrar imágenes grandes de personas";
+
+/* (No Comment) */
+"_Reports_PersonItem_PictureSize_Medium" = "Mostrar imágenes medianas de personas";
+
+/* (No Comment) */
+"_Reports_PersonItem_PictureSize_None" = "No mostrar imágenes de persona";
+
+/* (No Comment) */
+"_Reports_PersonItem_PictureSize_Small" = "Mostrar imágenes pequeñas de personas";
+
+/* Pictures */
+"_Reports_PersonPicturesSize" = "Imágenes de personas";
+
+/* (No Comment) */
+"_Reports_PersonPicturesSize_Large" = "Grande";
+
+/* (No Comment) */
+"_Reports_PersonPicturesSize_Medium" = "Mediana";
+
+/* (No Comment) */
+"_Reports_PersonPicturesSize_None" = "Ninguna";
+
+/* (No Comment) */
+"_Reports_PersonPicturesSize_Small" = "Pequeña";
+
+/* (No Comment) */
+"_Reports_PersonReport_Ancestors_Section_Title" = "Antepasados";
+
+/* (No Comment) */
+"_Reports_PersonReport_AncestorsDepth" = "Generaciones de antepasados";
+
+/* (No Comment) */
+"_Reports_PersonReport_AncestorsOrDescendants_Generation_Header" = "Generación";
+
+/* (No Comment) */
+"_Reports_PersonReport_Associates_PersonOrFamily_Header" = "Persona o familia";
+
+/* (No Comment) */
+"_Reports_PersonReport_BornOnKey" = "Nacido el";
+
+/* (No Comment) */
+"_Reports_PersonReport_BornOrDiedInKey" = "en";
+
+/* (No Comment) */
+"_Reports_PersonReport_BrothersAndSisters" = "Hermanos y hermanas";
+
+/* (No Comment) */
+"_Reports_PersonReport_Descendants_Section_Title" = "Descendientes";
+
+/* (No Comment) */
+"_Reports_PersonReport_DescendantsDepth" = "Generaciones de descendientes";
+
+/* (No Comment) */
+"_Reports_PersonReport_DiedOnKey" = "Fallecido el";
+
+/* (No Comment) */
+"_Reports_PersonReport_Event_Date" = "Fecha";
+
+/* (No Comment) */
+"_Reports_PersonReport_Event_Place" = "Lugar";
+
+/* (No Comment) */
+"_Reports_PersonReport_Event_Type" = "Tipo";
+
+/* (No Comment) */
+"_Reports_PersonReport_Events_Section_Title" = "Eventos";
+
+/* (No Comment) */
+"_Reports_PersonReport_Facts_FactDescription_Header" = "Descripción";
+
+/* (No Comment) */
+"_Reports_PersonReport_Facts_FactType_Header" = "Tipo";
+
+/* (No Comment) */
+"_Reports_PersonReport_Facts_Section_Title" = "Datos";
+
+/* (No Comment) */
+"_Reports_PersonReport_HourglassChart_Section_Title" = "Gráfica de reloj de arena";
+
+/* (No Comment) */
+"_Reports_PersonReport_IDs_AncestralFileNumberIDKey" = "Ancestral File Number";
+
+/* (No Comment) */
+"_Reports_PersonReport_IDs_FamilySearchIDKey" = "Identificador de FamilySearch";
+
+/* (No Comment) */
+"_Reports_PersonReport_IDs_GedcomIDKey" = "Identificador GEDCOM";
+
+/* (No Comment) */
+"_Reports_PersonReport_IDs_ReferenceNumberKey" = "Número de referencia";
+
+/* (No Comment) */
+"_Reports_PersonReport_Kinship_Section_Title" = "Parentesco";
+
+/* (No Comment) */
+"_Reports_PersonReport_KinshipDepth" = "Generaciones de parientes";
+
+/* (No Comment) */
+"_Reports_PersonReport_NameDetails_Section_Title" = "Detalles del nombre";
+
+/* (No Comment) */
+"_Reports_PersonReport_NarrativeReport_Section_Title" = "Informe narrativo";
+
+/* (No Comment) */
+"_Reports_PersonReport_OccupationKey" = "Profesión";
+
+/* (No Comment) */
+"_Reports_PersonReport_Parents_Section_Title" = "Padres";
+
+/* (No Comment) */
+"_Reports_PersonReport_Partners_Section_Title" = "Parejas";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowAncestors" = "Antepasados";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowDescendants" = "Descendientes";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowEvents" = "Eventos";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowHourglassChart" = "Gráfica de reloj de arena";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowKinship" = "Parentesco";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowNameDetails" = "Detalles del nombre";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowParents" = "Padres";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowPartners" = "Parejas";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowSources" = "Fuentes";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowWorldHistory" = "Historia universal";
+
+/* PersonReport */
+"_Reports_PersonReport_Title" = "Inform de personas";
+
+/* (No Comment) */
+"_Reports_PersonReport_WorldHistory_Category_Header" = "Categoría";
+
+/* (No Comment) */
+"_Reports_PersonReport_WorldHistory_Section_Title" = "Historia universal";
+
+/* (No Comment) */
+"_Reports_PicturesOptionsGroupName" = "Imágenes";
+
+/* (No Comment) */
+"_Reports_PlaceFormat_Normal" = "Nombre normal de lugar";
+
+/* (No Comment) */
+"_Reports_PlaceFormat_Short" = "Nombre corto del lugar";
+
+/* (No Comment) */
+"_Reports_PlaceFormat_VeryShort" = "Nombre de lugar muy corto";
+
+/* (No Comment) */
+"_Reports_PlaceFormatMinorGroupName" = "Formato de lugar";
+
+/* Place Format */
+"_Reports_PlaceFormatStyle" = "Formato de lugar";
+
+/* (No Comment) */
+"_Reports_PlaceFormatStyleExplanation" = "Especifique aquí si se debe presentar el nombre completo del lugar o solo la abreviatura.";
+
+/* (No Comment) */
+"_Reports_PlainTextStyle" = "Texto sin formato";
+
+/* (No Comment) */
+"_Reports_PrimaryFont" = "Fuente principal";
+
+/* (No Comment) */
+"_Reports_ReformatDatesToSelectedLocale" = "Reformatear fechas";
+
+/* (No Comment) */
+"_Reports_ReformatDatesToSelectedLocaleExplanation" = "Si activa esta opción, todos las fechas serán reformateadas para que coincidan con la localización especificada";
+
+/* RegisterReport */
+"_Reports_RegisterReport_DescendantsSectionTitleWithGenerationNumber" = "%d. Generación";
+
+/* (No Comment) */
+"_Reports_Report_Associates_Section_Title" = "Personas y familias influyentes";
+
+/* (No Comment) */
+"_Reports_Report_Media_Section_Title" = "Medios";
+
+/* (No Comment) */
+"_Reports_Report_Notes_Section_Family_Note_Key" = "Apunte de familia";
+
+/* (No Comment) */
+"_Reports_Report_Notes_Section_Note_Key" = "Apunte";
+
+/* (No Comment) */
+"_Reports_Report_Notes_Section_Person_Note_Key" = "Apunte de persona";
+
+/* (No Comment) */
+"_Reports_Report_Notes_Section_Title" = "Apuntes";
+
+/* (No Comment) */
+"_Reports_Report_Overview_Section_Title" = "Resumen";
+
+/* (No Comment) */
+"_Reports_Report_ShowAssociates" = "Personas influyentes";
+
+/* (No Comment) */
+"_Reports_Report_ShowFacts" = "Datos";
+
+/* (No Comment) */
+"_Reports_Report_ShowNotes" = "Apuntes";
+
+/* (No Comment) */
+"_Reports_Report_ShowOverview" = "Resumen";
+
+/* (No Comment) */
+"_Reports_Report_ShowUserDescription" = "Descripción";
+
+/* (No Comment) */
+"_Reports_ReportBarSectionsTablesStyle" = "Sección de Touch Bar";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_AddImageNode" = "Añadir imagen...";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_AddLayoutCell" = "Añadir celda";
+
+/* ReportEditorController Edit Operations */
+"_Reports_ReportEditorController_EditOperation_AddNodesPopupButton" = "Añadir...";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_AddPDFNode" = "Añadir PDF...";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_AddRow" = "Añadir fila";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_AddTextNode" = "Añadir texto";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_RemoveLayoutCell" = "Eliminar celda";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_RemoveNode" = "Borrar";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_RemoveRow" = "Eliminar fila";
+
+/* (No Comment) */
+"_Reports_ReportForestGreenTablesStyler" = "Verde bosque";
+
+/* (No Comment) */
+"_Reports_ReportFormGridTablesStyle" = "Forma clásica";
+
+/* (No Comment) */
+"_Reports_ReportFormTablesStyle" = "Formulario";
+
+/* (No Comment) */
+"_Reports_ReportTypewriterStyler" = "Máquina de escribir";
+
+/* (No Comment) */
+"_Reports_SecondaryFont" = "Fuente secundaria";
+
+/* (No Comment) */
+"_Reports_SecondaryFontColor" = "Color de texto secundario";
+
+/* (No Comment) */
+"_Reports_SectionFont" = "Fuente de sección";
+
+/* (No Comment) */
+"_Reports_SectionsMinorGroupName" = "Secciones";
+
+/* (No Comment) */
+"_Reports_SeparateSectionsCheckbox" = "Secciones aparte";
+
+/* (No Comment) */
+"_Reports_SeparateSectionsCheckboxExplanation" = "Si activa esta opción, se mostrarán secciones aparte para el modo de ordenamiento seleccionado. Por ejemplo, si se ha ordenado según el apellido, aparecerán en la misma sección todas las personas con el mismo apellido.";
+
+/* (No Comment) */
+"_Reports_ShowAge" = "Mostrar edad";
+
+/* Columns */
+"_Reports_ShowBirthDate" = "Mostrar fecha de nacimiento";
+
+/* (No Comment) */
+"_Reports_ShowBirthPlace" = "Mostrar lugar de nacimiento";
+
+/* (No Comment) */
+"_Reports_ShowChapters" = "Mostrar capítulos";
+
+/* (No Comment) */
+"_Reports_ShowChildren" = "Mostrar hijos";
+
+/* Citations */
+"_Reports_ShowCitations" = "Citas fuente";
+
+/* (No Comment) */
+"_Reports_ShowCitationsExplanation" = "Indicar si se debe anexar una sección con citas al informe.";
+
+/* (No Comment) */
+"_Reports_ShowDeathDate" = "Mostrar fecha de fallecimiento";
+
+/* (No Comment) */
+"_Reports_ShowDeathPlace" = "Mostrar lugar de fallecimiento";
+
+/* (No Comment) */
+"_Reports_ShowKekule" = "Mostrar kekulé";
+
+/* (No Comment) */
+"_Reports_ShowMarriageDate" = "Mostrar fecha de matrimonio";
+
+/* (No Comment) */
+"_Reports_ShowMarriagePlace" = "Mostrar lugar de matrimonio";
+
+/* (No Comment) */
+"_Reports_ShowMedia" = "Medios";
+
+/* (No Comment) */
+"_Reports_ShowNarrative" = "Informe narrativo";
+
+/* Page Numbers, sections */
+"_Reports_ShowPageNumbers" = "Mostrar número de página";
+
+/* (No Comment) */
+"_Reports_ShowParents" = "Mostrar padres";
+
+/* (No Comment) */
+"_Reports_ShowPDFs" = "Mostrar archivos PDF";
+
+/* (No Comment) */
+"_Reports_ShowPicture" = "Mostrar imagen";
+
+/* (No Comment) */
+"_Reports_ShowPictures" = "Mostrar imágenes";
+
+/* (No Comment) */
+"_Reports_ShowSections" = "Mostrar secciones";
+
+/* (No Comment) */
+"_Reports_Sort_By_BirthDate" = "Por fecha de nacimiento";
+
+/* (No Comment) */
+"_Reports_Sort_By_BirthPlace" = "Por lugar de nacimiento";
+
+/* (No Comment) */
+"_Reports_Sort_By_DeathDate" = "Por fecha de fallecimiento";
+
+/* (No Comment) */
+"_Reports_Sort_By_DeathPlace" = "Por lugar de fallecimiento";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventDate" = "Por fecha de evento";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventDescription" = "Por descripción";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventTypeAndDate" = "Por tipo de evento y fecha";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventTypeName" = "Por tipo de evento y nombre";
+
+/* (No Comment) */
+"_Reports_Sort_By_FirstName" = "Por nombre";
+
+/* (No Comment) */
+"_Reports_Sort_By_FullName" = "Por nombre completo";
+
+/* (No Comment) */
+"_Reports_Sort_By_LastName" = "Por apellido";
+
+/* Sorting */
+"_Reports_Sorting" = "Ordenación";
+
+/* (No Comment) */
+"_Reports_SortingExplanation" = "Indique aquí el orden de las entradas que serán mostradas en este informe.";
+
+/* (No Comment) */
+"_Reports_SortingMinorGroupName" = "Ordenamiento";
+
+/* (No Comment) */
+"_Reports_SortOrderAscendingCheckbox" = "Orden ascendente";
+
+/* (No Comment) */
+"_Reports_SourceInformationGroupName" = "Información fuente";
+
+/* (No Comment) */
+"_Reports_Sources_Page_Header" = "Página";
+
+/* (No Comment) */
+"_Reports_Sources_Section_Title" = "Fuentes";
+
+/* (No Comment) */
+"_Reports_StoryReport_ReferencedEntries_Title" = "Entradas con referencias";
+
+/* (No Comment) */
+"_Reports_StoryReport_ReferencedEntriesInSection_Title" = "Entradas con referencias en la sección %@'";
+
+/* (No Comment) */
+"_Reports_StoryReport_Section_Media" = "Medios";
+
+/* (No Comment) */
+"_Reports_StoryReport_Section_ReferencedEntries" = "Entradas con referencias en sección";
+
+/* (No Comment) */
+"_Reports_StoryReport_Section_Text" = "Texto";
+
+/* (No Comment) */
+"_Reports_StoryReport_ShowReferencedEntries" = "Entradas con referencias en historia";
+
+/* (No Comment) */
+"_Reports_StoryReport_ShowReferencedEntriesInStorySections" = "Entradas con referencias en secciones de historia";
+
+/* Story Report */
+"_Reports_StoryReport_UserDescription" = "Descripción";
+
+/* (No Comment) */
+"_Reports_StoryReport_WorldHistory_Category_Header" = "Categoría";
+
+/* (No Comment) */
+"_Reports_StoryReport_WorldHistory_Section_Title" = "Historia mundial";
+
+/* (No Comment) */
+"_Reports_StyleOptionsMajorGroupName" = "Opciones de estilo";
+
+/* (No Comment) */
+"_Reports_SubSectionFont" = "Fuente de subsección";
+
+/* (No Comment) */
+"_Reports_SubSectionFontColor" = "Color de texto de subsecciones";
+
+/* Minor Groups */
+"_Reports_TextGroupName" = "Texto";
+
+/* Style Names */
+"_Reports_TextStyle" = "Texto simple";
+
+/* (No Comment) */
+"_Reports_ThemesMajorGroupName" = "Temas";
+
+/* (No Comment) */
+"_Reports_ToDoReport_Notes" = "Apuntes";
+
+/* (No Comment) */
+"_Reports_ToDoReport_Priority" = "Prioridad";
+
+/* (No Comment) */
+"_Reports_ToDoReport_Status" = "Estado";
+
+/* (No Comment) */
+"_Reports_ToDoReport_Text" = "Texto";
+
+/* ToDoReport */
+"_Reports_ToDoReport_Type" = "Tipo";
+
+/* (No Comment) */
+"_Reports_TopTitleBarTextStyle" = "Barra superior";
+
+/* (No Comment) */
+"_Reports_UseSubsectionsInMediaSection" = "Medios del grupo";
+
+/* (No Comment) */
+"_Reports_WorldHistoryMajorGroupName" = "Historia universal";
+
+/* (No Comment) */
+"_ReportViewConfiguration_PageFormatMode" = "Modo de presentación de página";
+
+/* (No Comment) */
+"_ReportViewConfiguration_PageFormatMode_PageFormatThatFitsReportViewBounds" = "Mostrar informe sin página y lo más grande posible";
+
+/* (No Comment) */
+"_ReportViewConfiguration_PageFormatMode_UseSpecifiedFormat" = "Mostrar páginas utilizando el formato de página especificado";
+
+/* (No Comment) */
+"_ReportViewConfiguration_PageFormatMode_WidthOfSpecifiedFormatButNoPageBreaks" = "Mostrar páginas omitiendo los saltos de página";
+
+/* (No Comment) */
+"_ReportViewConfiguration_PageFormatModeExplanation" = "Aquí podrá controlar como se debe presentar el informe en su pantalla. Puede mostrar el informe en páginas individuales como si fuese en papel o mostrar este del mayor tamaño posible.";
+
+/* ReportView */
+"_ReportViewConfiguration_PaginationMajorGroupName" = "Paginación";
+
+/* Sample Report */
+"_SampleReportTitle" = "Informe de muestra";
+

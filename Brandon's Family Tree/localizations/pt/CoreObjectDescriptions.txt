@@ -1,0 +1,1704 @@
+﻿/* (No Comment) */
+"_AdditionalName_ChangeLog_Added" = "O nome adicional '%@' foi adicionado";
+
+/* (No Comment) */
+"_AdditionalName_ChangeLog_ConflictResolved" = "Conflito de propriedade '%@' foi resolvido para '%@'";
+
+/* (No Comment) */
+"_AdditionalName_ChangeLog_Deleted" = "O nome adicional '%@' foi apagado";
+
+/* (No Comment) */
+"_AdditionalName_ChangeLogPropertyKey_FirstName" = "O nome de '%@' foi alterado de '%@' para '%@'";
+
+/* (No Comment) */
+"_AdditionalName_ChangeLogPropertyKey_LastName" = "O sobrenome de '%@' foi alterado de '%@' para '%@'";
+
+/* (No Comment) */
+"_AdditionalName_ChangeLogPropertyKey_Type" = "Tipo de nome adicional alterado de '%@' para '%@'";
+
+/* (No Comment) */
+"_BaseMedia_ChangeLog_Added" = "Mídia adicionada";
+
+/* (No Comment) */
+"_BaseMedia_ChangeLog_Deleted" = "Mídia '%@' apagada";
+
+/* (No Comment) */
+"_BaseMedia_ChangeLogKey" = "Mídia %@";
+
+/* (No Comment) */
+"_BaseMedia_ChangeLogPropertyKey_Date" = "Data alterada de '%@' para '%@'";
+
+/* (No Comment) */
+"_BaseMedia_ChangeLogPropertyKey_PDFFileIdentifier" = "PDF editado";
+
+/* (No Comment) */
+"_BaseMedia_ChangeLogPropertyKey_PictureFileIdentifier" = "Imagem editada";
+
+/* (No Comment) */
+"_BaseMedia_ChangeLogPropertyKey_Title" = "Título alterado de '%@' para '%@'";
+
+/* Base Object Composite Images Modes */
+"_BaseObject_CompositeImages_Mode_None" = "Sempre mostrar o ícone de espaço reservado";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_PrimaryImageFromPrimaryMediaContainer" = "Mostrar imagem principal";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_PrimaryImageFromPrimaryMediaContainerAndConnectedMediaContainers" = "Mostrar imagem principal, também coletada de entradas conectadas";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_UpToSixImagesFromPrimaryMediaContainer" = "Mostrar até seis imagens";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_UpToSixImagesFromPrimaryMediaContainerAndConnectedMediaContainers" = "Mostrar até seis imagens, também coletadas de entradas conectadas";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_UpToTenImagesFromPrimaryMediaContainer" = "Mostrar até dez imagens";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_UpToTenImagesFromPrimaryMediaContainerAndConnectedMediaContainers" = "Mostrar até dez imagens, também coletadas de entradas conectadas";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_UpToThreeImagesFromPrimaryMediaContainer" = "Mostrar até três imagens";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_UpToThreeImagesFromPrimaryMediaContainerAndConnectedMediaContainers" = "Mostrar até três imagens, também coletadas de entradas conectadas";
+
+/* (No Comment) */
+"_ChangeLog_NoValuePlaceholder" = "Nenhum valor";
+
+/* Change Log */
+"_ChangeLogEntry_ObjectIsStillPresentTooltip" = "Esta entrada ainda está presente na base de dados";
+
+/* (No Comment) */
+"_ChangeLogEntry_ObjectNoLongerPresentTooltip" = "Esta entrada foi apagada do banco de dados e não está mais disponível";
+
+/* (No Comment) */
+"_ChildRelation_ChangeLog_Deleted" = "Filho(a) '%@' removido da família";
+
+/* (No Comment) */
+"_ChildRelation_ChangeLog_Deleted_Child" = "Removido como filho da família '%@'";
+
+/* (No Comment) */
+"_ChildRelation_ChangeLogPropertyKey_Child" = "Filho(a) '%@' adicionado(a)";
+
+/* (No Comment) */
+"_ChildRelation_ChangeLogPropertyKey_Family" = "Adicionado como filho(a) na família '%@'";
+
+/* (No Comment) */
+"_ChildRelation_ChangeLogPropertyKey_RelationTypeToManInFamily" = "Tipo de relação de filho(a) para o pai de '%@' alterado de '%@' para '%@'";
+
+/* (No Comment) */
+"_ChildRelation_ChangeLogPropertyKey_RelationTypeToWomanInFamily" = "Tipo de relação de filho(a) para a mãe de '%@' alterado de '%@' para '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLog_Added" = "Evento '%@' adicionado";
+
+/* (No Comment) */
+"_Event_ChangeLog_ConflictResolvedForAssignedPlace" = "Conflito do local do evento '%@' resolvido para '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLog_ConflictResolvedForAssignedPlaceDetail" = "Conflito do local do evento '%@' resolvido para '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLog_ConflictResolvedForCoordinate" = "Conflito de coordenada do evento '%@' resolvido para '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLog_ConflictResolvedForGenericProperty" = "Conflito de propriedade '%@' do evento '%@' resolvido para '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLog_Deleted" = "Evento '%@' apagado";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_Address" = "Endereço do evento '%@' alterado de '%@' para '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_Agency" = "Agência do evento '%@' alterada de '%@' para '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_AssignedPlace" = "Local do evento '%@' alterado para '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_AssignedPlaceDetail" = "Detalhes do local do evento '%@' alterado para '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_Cause" = "Causa do evento '%@' alterada de '%@' para '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_Coordinate" = "Coordenada do evento '%@' alterada para '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_Date" = "Data do evento '%@' alterada de '%@' para '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_Time" = "O horário do evento '%@' mudou de '%@' para '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_Type" = "Tipo de evento alterado de '%@' para '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_UserDescription" = "Descrição do evento '%@' alterada de '%@' para '%@'";
+
+/* (No Comment) */
+"_Fact_ChangeLog_Added" = "Fato '%@' adicionado";
+
+/* (No Comment) */
+"_Fact_ChangeLog_ConflictResolvedForValue" = "Conflito do fato '%@' resolvido para '%@'";
+
+/* (No Comment) */
+"_Fact_ChangeLog_Deleted" = "Fato '%@' apagado";
+
+/* (No Comment) */
+"_Fact_ChangeLogPropertyKey_Type" = "Tipo de fato alterado de '%@' para '%@'";
+
+/* (No Comment) */
+"_Fact_ChangeLogPropertyKey_Value" = "Fato '%@' alterado de '%@' para '%@'";
+
+/* (No Comment) */
+"_Family_ChangeLog_Added" = "Família adicionada";
+
+/* (No Comment) */
+"_Family_ChangeLog_ConflictResolvedForMan" = "Conflito de atribuição de homem resolvido para '%@'";
+
+/* (No Comment) */
+"_Family_ChangeLog_ConflictResolvedForWoman" = "Conflito de atribuição de mulher resolvido para '%@'";
+
+/* (No Comment) */
+"_Family_ChangeLog_Deleted" = "Família apagada";
+
+/* (No Comment) */
+"_Family_ChangeLogKey" = "Família %@";
+
+/* (No Comment) */
+"_Family_ChangeLogPropertyKey_Man" = "Pessoa '%@' adicionada como homem";
+
+/* (No Comment) */
+"_Family_ChangeLogPropertyKey_Woman" = "Pessoa '%@' adicionada como mulher";
+
+/* (No Comment) */
+"_MediaRelation_ChangeLog_BaseMediaDeleted" = "Mídia '%@' removida";
+
+/* (No Comment) */
+"_MediaRelation_ChangeLog_MediaContainerDeleted" = "Entrada '%@' removida da mídia";
+
+/* (No Comment) */
+"_MediaRelation_ChangeLogPropertyKey_BaseMedia" = "Mídia '%@' adicionada";
+
+/* (No Comment) */
+"_MediaRelation_ChangeLogPropertyKey_MediaContainer" = "Adicionado como mídia para '%@'";
+
+/* (No Comment) */
+"_ObjectDescription_AdditionalName" = "Nome adicional %@ de %@";
+
+/* (No Comment) */
+"_ObjectDescription_AssociateRelation" = "Relação da pessoa influente %@";
+
+/* (No Comment) */
+"_ObjectDescription_Book" = "Livro %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookBaseObjectsBasedReportBuilderObject" = "Objeto da seção do relatório %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookBaseObjectsBasedReportBuilderSection" = "Seção do relatório %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookChapter" = "Capítulo do livro %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookDiagramBaseObject" = "Diagrama da seção de objeto";
+
+/* (No Comment) */
+"_ObjectDescription_BookDiagramReportBuilderSection" = "Seção de Diagrama %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookFamilyBasedReportBuilderSection" = "Seção do relatório %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookFamilySection" = "Seção familiar %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookGenericReportBuilderSection" = "Seção do relatório %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookPersonBasedReportBuilderSection" = "Seção do relatório %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookPersonSection" = "Seção pessoal %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookReportBuilderFamily" = "Seção do relatório da família %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookReportBuilderPerson" = "Seção do relatório da pessoa %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookSerializedBaseObjectReportBuilder" = "Configuração por seção %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookSerializedBaseReportBuilder" = "Configuração por seção %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookSerializedChapterReportBuilder" = "Configuração por capítulo %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookSerializedEditedReportBuilder" = "Configuração por seção editada %@";
+
+/* (No Comment) */
+"_ObjectDescription_ChildRelation" = "Relação do filho(a) %@ - %@";
+
+/* (No Comment) */
+"_ObjectDescription_ConclusionAdditionalNameType" = "Tipo de nome adicional %@";
+
+/* (No Comment) */
+"_ObjectDescription_ConclusionAssociateRelationType" = "Tipo de relação influente %@";
+
+/* (No Comment) */
+"_ObjectDescription_ConclusionFamilyEventType" = "Tipo do evento familiar %@";
+
+/* (No Comment) */
+"_ObjectDescription_ConclusionPersonEventType" = "Tipo do evento pessoal %@";
+
+/* (No Comment) */
+"_ObjectDescription_ConclusionPersonFactType" = "Tipo do fato pessoal %@";
+
+/* (No Comment) */
+"_ObjectDescription_Coordinate" = "Coordenada do local %@";
+
+/* (No Comment) */
+"_ObjectDescription_DNATestATDNASubResult" = "Resultado do teste de DNA – %@";
+
+/* (No Comment) */
+"_ObjectDescription_DNATestMTDNASubResult" = "Resultado do teste de mtDNA – %@";
+
+/* (No Comment) */
+"_ObjectDescription_DNATestMTDNASubResultSNPDifference" = "Diferença de SNP de DNA mtDNA %@";
+
+/* (No Comment) */
+"_ObjectDescription_DNATestResult" = "Resultado do teste de DNA %@";
+
+/* (No Comment) */
+"_ObjectDescription_DNATestYDNASubResult" = "Resultado do teste de Y-DNA – %@";
+
+/* (No Comment) */
+"_ObjectDescription_DNATestYDNASubResultYSTRMarker" = "Marcadore STR do DNA Y-DNA %@";
+
+/* (No Comment) */
+"_ObjectDescription_Family" = "Família %@";
+
+/* (No Comment) */
+"_ObjectDescription_FamilyEvent" = "Evento Familiar %@ de %@";
+
+/* (No Comment) */
+"_ObjectDescription_FamilyEvent_PlaceExtension" = "em %@";
+
+/* (No Comment) */
+"_ObjectDescription_FamilySearchKnownBadFurtherInformationMatch" = "Informações do FamilySearch %@";
+
+/* (No Comment) */
+"_ObjectDescription_FamilySearchKnownBadPersonMatch" = "Informações do FamilySearch %@";
+
+/* (No Comment) */
+"_ObjectDescription_FamilyTreeInformation" = "Informações do Autor da Árvore genealógica";
+
+/* (No Comment) */
+"_ObjectDescription_Label" = "Etiqueta %@";
+
+/* (No Comment) */
+"_ObjectDescription_MediaAudio" = "Áudio %@ de %@";
+
+/* (No Comment) */
+"_ObjectDescription_MediaPDF" = "PDF %@ de %@";
+
+/* (No Comment) */
+"_ObjectDescription_MediaPicture" = "Imagem %@ de %@";
+
+/* (No Comment) */
+"_ObjectDescription_MediaRelation" = "Relação da mídia %@";
+
+/* (No Comment) */
+"_ObjectDescription_MediaRelationAssignment" = "Atribuição de Relação de Mídia %@";
+
+/* (No Comment) */
+"_ObjectDescription_MediaURL" = "Webpage %@ de %@";
+
+/* (No Comment) */
+"_ObjectDescription_MediaVideo" = "Vídeo %@ de %@";
+
+/* (No Comment) */
+"_ObjectDescription_Note" = "Nota em %@";
+
+/* Object Descriptions */
+"_ObjectDescription_Person" = "Pessoa %@";
+
+/* (No Comment) */
+"_ObjectDescription_PersonEvent" = "Evento %@ de %@";
+
+/* (No Comment) */
+"_ObjectDescription_PersonEvent_PlaceExtension" = "em %@";
+
+/* (No Comment) */
+"_ObjectDescription_PersonFact" = "Fato %@ de %@";
+
+/* (No Comment) */
+"_ObjectDescription_PersonGroup" = "Grupo de Pessoas %@";
+
+/* (No Comment) */
+"_ObjectDescription_Place" = "Local %@";
+
+/* (No Comment) */
+"_ObjectDescription_PlaceDetail" = "Detalhe do local %@";
+
+/* (No Comment) */
+"_ObjectDescription_PlaceKeyValue" = "Valor do local – %@: %@";
+
+/* (No Comment) */
+"_ObjectDescription_PlaceTemplate" = "Modelo de local %@";
+
+/* (No Comment) */
+"_ObjectDescription_PlaceTemplateKey" = "Campo modelo de local %@";
+
+/* (No Comment) */
+"_ObjectDescription_PlaceTemplateKeyRelation" = "Relação do campo de modelo de local %@ – %@";
+
+/* (No Comment) */
+"_ObjectDescription_Scope" = "Filtro inteligente %@";
+
+/* (No Comment) */
+"_ObjectDescription_Source" = "Recurso %@";
+
+/* (No Comment) */
+"_ObjectDescription_SourceKeyValue" = "Valor da Origem – %@: %@";
+
+/* (No Comment) */
+"_ObjectDescription_SourceRelation" = "Citação do Recurso - %@ - %@";
+
+/* (No Comment) */
+"_ObjectDescription_SourceTemplate" = "Modelo de Origem %@";
+
+/* (No Comment) */
+"_ObjectDescription_SourceTemplateKey" = "Campo de modelo de origem %@";
+
+/* (No Comment) */
+"_ObjectDescription_SourceTemplateKeyRelation" = "Relação de campo do modelo de origem %@ – %@";
+
+/* (No Comment) */
+"_ObjectDescription_Story" = "História %@";
+
+/* (No Comment) */
+"_ObjectDescription_StorySection" = "Seção de história %@";
+
+/* (No Comment) */
+"_ObjectDescription_ToDo" = "Tarefa %@";
+
+/* (No Comment) */
+"_ObjectProperty_AdditionalName_conclusionType" = "Tipo";
+
+/* AdditionalName */
+"_ObjectProperty_AdditionalName_firstName" = "Nome";
+
+/* (No Comment) */
+"_ObjectProperty_AdditionalName_lastName" = "Sobrenome";
+
+/* (No Comment) */
+"_ObjectProperty_AdditionalName_nameMiddle" = "Nome do Meio";
+
+/* (No Comment) */
+"_ObjectProperty_AdditionalName_namePrefix" = "Título";
+
+/* (No Comment) */
+"_ObjectProperty_AdditionalName_nameSuffix" = "Sufixo";
+
+/* (No Comment) */
+"_ObjectProperty_AdditionalName_person" = "Pessoa";
+
+/* (No Comment) */
+"_ObjectProperty_AssociateRelation_conclusionType" = "Tipo";
+
+/* AssociateRelation */
+"_ObjectProperty_AssociateRelation_date" = "Data";
+
+/* (No Comment) */
+"_ObjectProperty_BaseMedia_canShowAsMediaForMediaContainer" = "Usar como imagem de entrada";
+
+/* (No Comment) */
+"_ObjectProperty_BaseMedia_date" = "Data";
+
+/* (No Comment) */
+"_ObjectProperty_BaseMedia_isBookmarked" = "Catalogado";
+
+/* BaseMedia */
+"_ObjectProperty_BaseMedia_title" = "Título";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_ancestralFileNumberID" = "Número do arquivo de antepassados";
+
+/* BaseObject */
+"_ObjectProperty_BaseObject_changeDate" = "Data de alteração";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_cloudKitChangeTag" = "Alterar informações do CloudTree";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_creationDate" = "Data de criação";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_excludedPlausibilityAnalyzerClassNames" = "Analisar informações de plausabilidade";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_familySearchID" = "ID do FamilySearch";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_gedcomID" = "ID do Gedcom";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_isPrivate" = "Sinalizado como particular";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_referenceNumberID" = "Número de referência próprio";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_researchAssistantCompletedQuestionsMask" = "Informações do assistente de pesquisa";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_uniqueID" = "ID exclusivo interno";
+
+/* (No Comment) */
+"_ObjectProperty_Book_author" = "Autor";
+
+/* (No Comment) */
+"_ObjectProperty_Book_chapterNumeralType" = "Números de capítulos";
+
+/* (No Comment) */
+"_ObjectProperty_Book_chaptersOnSeparatePage" = "Capítulos em páginas separadas";
+
+/* (No Comment) */
+"_ObjectProperty_Book_date" = "Data";
+
+/* (No Comment) */
+"_ObjectProperty_Book_includeCitationsAsDefault" = "Incluir citações para novos relatórios";
+
+/* (No Comment) */
+"_ObjectProperty_Book_languageShouldReformatDates" = "Formatos de data localizadas";
+
+/* (No Comment) */
+"_ObjectProperty_Book_localizationIdentifier" = "Idioma";
+
+/* (No Comment) */
+"_ObjectProperty_Book_onlyColorizeChapterPages" = "Colorir apenas páginas do capítulo";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundChapterNumberColor" = "Cor do número do capítulo";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundChapterTitleColor" = "Cor do título do capítulo";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundPageNumberAlignment" = "Alinhamento dos números de página";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundPageNumberColor" = "Cor do número da página";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundPageNumberEnabled" = "Ativar números de página";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundPageNumberPosition" = "Posições dos números de página";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundRendererStyle" = "Estilo do cabeçalho da página";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundSectionNumberColor" = "Cor do número da seção";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundSectionTitleColor" = "Cor do título da seção";
+
+/* (No Comment) */
+"_ObjectProperty_Book_style" = "Estilo do livro";
+
+/* (No Comment) */
+"_ObjectProperty_Book_styleFontScaling" = "Escala da fonte";
+
+/* (No Comment) */
+"_ObjectProperty_Book_templateClassName" = "Modelo";
+
+/* (No Comment) */
+"_ObjectProperty_Book_title" = "Título";
+
+/* (No Comment) */
+"_ObjectProperty_Book_useTextualStyleAsDefault" = "Usar estilo textual para novos relatórios";
+
+/* Book */
+"_ObjectProperty_BookBaseItem_order" = "Índice";
+
+/* (No Comment) */
+"_ObjectProperty_BookBaseObjectReportBuilder_baseObjectSection" = "Contendo seção";
+
+/* (No Comment) */
+"_ObjectProperty_BookBaseObjectsBasedReportBuilderObject_baseObject" = "Item";
+
+/* (No Comment) */
+"_ObjectProperty_BookBaseObjectsBasedReportBuilderObject_baseObjectsBasedReportBuilderSection" = "Seção";
+
+/* (No Comment) */
+"_ObjectProperty_BookBaseObjectsBasedReportBuilderObject_order" = "Índice";
+
+/* (No Comment) */
+"_ObjectProperty_BookBaseSection_alwaysWantsNewPageForItems" = "Subseções na nova página";
+
+/* (No Comment) */
+"_ObjectProperty_BookBaseSection_bookChapter" = "Contendo capítulo";
+
+/* (No Comment) */
+"_ObjectProperty_BookBaseSection_name" = "Nome";
+
+/* (No Comment) */
+"_ObjectProperty_BookChapter_chapterHighlightColor" = "Cor do realce do capítulo";
+
+/* (No Comment) */
+"_ObjectProperty_BookChapter_chapterPageColor" = "Cor da página do capítulo";
+
+/* (No Comment) */
+"_ObjectProperty_BookChapter_chapterType" = "Tipo do capítulo";
+
+/* (No Comment) */
+"_ObjectProperty_BookChapter_name" = "Nome do capítulo";
+
+/* (No Comment) */
+"_ObjectProperty_BookDiagramBaseObject_baseObject" = "Item";
+
+/* (No Comment) */
+"_ObjectProperty_BookDiagramBaseObject_diagramReportBuilderSection" = "Seção";
+
+/* (No Comment) */
+"_ObjectProperty_BookPersonSection_person" = "Pessoa";
+
+/* (No Comment) */
+"_ObjectProperty_BookReportBuilderFamily_family" = "Família";
+
+/* (No Comment) */
+"_ObjectProperty_BookReportBuilderFamily_familyBasedReportBuilderSection" = "Seção";
+
+/* (No Comment) */
+"_ObjectProperty_BookReportBuilderPerson_person" = "Pessoa";
+
+/* (No Comment) */
+"_ObjectProperty_BookReportBuilderPerson_personBasedReportBuilderSection" = "Seção";
+
+/* (No Comment) */
+"_ObjectProperty_BookSerializedBaseReportBuilder_baseItem" = "Seção do relatório";
+
+/* (No Comment) */
+"_ObjectProperty_BookSerializedReportBuilder_serializedReportBuilderData" = "Configurações do relatório";
+
+/* (No Comment) */
+"_ObjectProperty_ChildRelation_child" = "Criança";
+
+/* (No Comment) */
+"_ObjectProperty_ChildRelation_family" = "Família";
+
+/* (No Comment) */
+"_ObjectProperty_ChildRelation_relationTypeToManInFamily" = "Tipo de Relação do Pai";
+
+/* (No Comment) */
+"_ObjectProperty_ChildRelation_relationTypeToWomanInFamily" = "Tipo de Relação da Mãe";
+
+/* ChildRelation */
+"_ObjectProperty_ChildRelation_type" = "Tipo de relacionamento do filho(a)";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionAssociateRelationType_compatibleAssociatedContainerClassName" = "Associação de destino";
+
+/* ConclusionAssociateRelationType */
+"_ObjectProperty_ConclusionAssociateRelationType_invertedTypeName" = "Nome do tipo invertido";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionAssociateRelationType_invertedTypeName_ForFamily" = "Digite o nome da perspectiva da pessoa";
+
+/* ConclusionToDoPriorityType */
+"_ObjectProperty_ConclusionToDoPriorityType_isDefault" = "Padrão";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionToDoStatusType_isDefault" = "Padrão";
+
+/* ConclusionToDoStatusType */
+"_ObjectProperty_ConclusionToDoStatusType_typeShouldBeConsideredAsDone" = "Deve ser considerado como 'Concluído'";
+
+/* ConclusionToDoTypeType */
+"_ObjectProperty_ConclusionToDoTypeType_isDefault" = "Padrão";
+
+/* ConclusionType */
+"_ObjectProperty_ConclusionType_gedcomTag" = "Etiqueta GEDCOM";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_iconPNGData" = "Ícone";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_identifier" = "Identificador";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_isEnabled" = "Ativado";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_isUserCreated" = "Criado pelo usuário";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_showAsPlaceholder" = "Mostrar como espaço reservado";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_typeName" = "Nome do tipo";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_typeName_ForFamily" = "Digite o nome da perspectiva da família";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_typeNameLocalizationKey" = "Chave de localização do nome";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_generated_coordinate_string" = "Coordenadas";
+
+/* Coordinate */
+"_ObjectProperty_Coordinate_latitude" = "Latitude";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_latitudeDegrees" = "Graus da latitude";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_latitudeIsSouth" = "Orientação da latitude";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_latitudeMinutes" = "Minutos da latitude";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_latitudeSeconds" = "Segundos da latitude";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_longitude" = "Longitude";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_longitudeDegrees" = "Graus da longitude";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_longitudeIsWest" = "Orientação da longitude";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_longitudeMinutes" = "Minutos da longitude";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_longitudeSeconds" = "Segundos da longitude";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_place" = "Local";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_placeDetail" = "Detalhe do local";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestMTDNASubResult_haplogroupString" = "Haplogroup mtDNA";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestMTDNASubResultSNPDifference_differenceString" = "Diferença de SNP";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestMTDNASubResultSNPDifference_order" = "Pedido";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestResult_dateString" = "Data";
+
+/* DNATestResult */
+"_ObjectProperty_DNATestResult_name" = "Nome do Teste";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestResult_person" = "Pessoa";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestResult_templateIdentifier" = "Modelo";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestResult_urlToVendor" = "URL";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestYDNASubResult_haplogroupString" = "Haplogroup Y-DNA";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestYDNASubResultYSTRMarker_order" = "Pedido";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestYDNASubResultYSTRMarker_strName" = "Nome do marcador STR";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestYDNASubResultYSTRMarker_strValueString" = "Valor STR";
+
+/* (No Comment) */
+"_ObjectProperty_Event_address" = "Endereço";
+
+/* (No Comment) */
+"_ObjectProperty_Event_agency" = "Autoridade";
+
+/* (No Comment) */
+"_ObjectProperty_Event_assignedPlace" = "Local";
+
+/* (No Comment) */
+"_ObjectProperty_Event_assignedPlaceDetail" = "Detalhe do local";
+
+/* (No Comment) */
+"_ObjectProperty_Event_cause" = "Causa";
+
+/* Event */
+"_ObjectProperty_Event_date" = "Data";
+
+/* (No Comment) */
+"_ObjectProperty_Event_ldsStatus" = "Status Mórmom";
+
+/* (No Comment) */
+"_ObjectProperty_Event_ldsTempleCode" = "Código do templo Mórmom";
+
+/* (No Comment) */
+"_ObjectProperty_Event_time" = "Horário";
+
+/* (No Comment) */
+"_ObjectProperty_Event_userDescription" = "Descrição";
+
+/* Fact */
+"_ObjectProperty_Fact_value" = "Valor";
+
+/* Family */
+"_ObjectProperty_Family_cached_marriageDate" = "Data de casamento";
+
+/* (No Comment) */
+"_ObjectProperty_Family_cached_marriageDateAsDate" = "Data de casamento";
+
+/* (No Comment) */
+"_ObjectProperty_Family_childRelations" = "Relações do filho(a)";
+
+/* (No Comment) */
+"_ObjectProperty_Family_events" = "Eventos familiares";
+
+/* (No Comment) */
+"_ObjectProperty_Family_isBookmarked" = "Catalogado";
+
+/* (No Comment) */
+"_ObjectProperty_Family_man" = "Homem";
+
+/* (No Comment) */
+"_ObjectProperty_Family_woman" = "Mulher";
+
+/* FamilyEvent */
+"_ObjectProperty_FamilyEvent_conclusionType" = "Tipo de evento";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyEvent_family" = "Família";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressCity" = "Cidade do endereço do autor";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressCountry" = "País do endereço do autor";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressLine" = "Linha 1 do endereço do autor";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressLine1" = "Linha 2 do endereço do autor";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressLine2" = "Linha 3 do endereço do autor";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressLine3" = "Linha 4 do endereço do autor";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressPostalCode" = "Cep do endereço do autor";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressState" = "Estado do endereço do autor";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorEmail" = "E-mail do autor";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorFax" = "Fax do autor";
+
+/* FamilyTreeInformation */
+"_ObjectProperty_FamilyTreeInformation_authorName" = "Nome do autor";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorPhoneNumber" = "Telefone do autor";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorWebAddress" = "Endereço web do autor";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_mediaThumbnailsStyle" = "Estilo da Miniaura da Mídia";
+
+/* Label */
+"_ObjectProperty_Label_colorComponentsString" = "Cor";
+
+/* (No Comment) */
+"_ObjectProperty_Label_title" = "Título";
+
+/* MediaAudio */
+"_ObjectProperty_MediaAudio_audioFileIdentifier" = "Áudio";
+
+/* MediaPDF */
+"_ObjectProperty_MediaPDF_pdfFileIdentifier" = "PDF";
+
+/* (No Comment) */
+"_ObjectProperty_MediaPDF_thumbnailFileIdentifier" = "Miniatura";
+
+/* MediaPicture */
+"_ObjectProperty_MediaPicture_pictureFileIdentifier" = "Imagens";
+
+/* (No Comment) */
+"_ObjectProperty_MediaPicture_thumbnailFileIdentifier" = "Miniatura";
+
+/* MediaRelation */
+"_ObjectProperty_MediaRelation_hasMediaRelationAssignment" = "Possui área de atribuição";
+
+/* MediaURL */
+"_ObjectProperty_MediaURL_url" = "Endereço do site";
+
+/* (No Comment) */
+"_ObjectProperty_MediaVideo_thumbnailFileIdentifier" = "Miniatura";
+
+/* MediaVideo */
+"_ObjectProperty_MediaVideo_videoFileIdentifier" = "Vídeo";
+
+/* Note */
+"_ObjectProperty_Note_text" = "Texto";
+
+/* NoteContainer */
+"_ObjectProperty_NoteContainer_notes" = "Notas";
+
+/* OrderedConclusionType */
+"_ObjectProperty_OrderedConclusionType_order" = "Ordenar";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_birthDate" = "Data de nascimento";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_birthDateAsDate" = "Data de nascimento";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_christeningDate" = "Data de Batismo";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_christeningDateAsDate" = "Data de Batismo";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_deathDate" = "Data de falecimento";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_deathDateAsDate" = "Data de falecimento";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_fullName" = "Nome completo";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_fullNameForSorting" = "Nome completo usado para ordenar";
+
+/* Person */
+"_ObjectProperty_Person_firstName" = "Nome";
+
+/* (No Comment) */
+"_ObjectProperty_Person_firstNameSoundex" = "Pronúncia do nome";
+
+/* (No Comment) */
+"_ObjectProperty_Person_gender" = "Sexo";
+
+/* (No Comment) */
+"_ObjectProperty_Person_isBookmarked" = "Catalogado";
+
+/* (No Comment) */
+"_ObjectProperty_Person_isStartPerson" = "Marcado como pessoa inicial";
+
+/* (No Comment) */
+"_ObjectProperty_Person_lastName" = "Sobrenome";
+
+/* (No Comment) */
+"_ObjectProperty_Person_lastNameSoundex" = "Pronúncia do sobrenome";
+
+/* (No Comment) */
+"_ObjectProperty_Person_marriedName" = "Nome de Casado";
+
+/* (No Comment) */
+"_ObjectProperty_Person_nameMiddle" = "Nome do meio";
+
+/* (No Comment) */
+"_ObjectProperty_Person_nameMiddleSoundex" = "Pronúncia do nome do meio";
+
+/* (No Comment) */
+"_ObjectProperty_Person_namePrefix" = "Título";
+
+/* (No Comment) */
+"_ObjectProperty_Person_namePrefixSoundex" = "Pronúncia do título";
+
+/* (No Comment) */
+"_ObjectProperty_Person_nameSuffix" = "Sufixo";
+
+/* (No Comment) */
+"_ObjectProperty_Person_nameSuffixSoundex" = "Pronúncia do sufixo";
+
+/* PersonEvent */
+"_ObjectProperty_PersonEvent_conclusionType" = "Tipo de evento";
+
+/* (No Comment) */
+"_ObjectProperty_PersonEvent_person" = "Pessoa";
+
+/* PersonFact */
+"_ObjectProperty_PersonFact_conclusionType" = "Tipo de fato";
+
+/* (No Comment) */
+"_ObjectProperty_PersonFact_person" = "Pessoa";
+
+/* PersonGroup */
+"_ObjectProperty_PersonGroup_name" = "Nome";
+
+/* (No Comment) */
+"_ObjectProperty_PersonGroup_personGroupColor" = "Cor";
+
+/* (No Comment) */
+"_ObjectProperty_PersonGroup_userDescription" = "Descrição";
+
+/* (No Comment) */
+"_ObjectProperty_Place_alternatePlaceNames" = "Nomes alternativos";
+
+/* (No Comment) */
+"_ObjectProperty_Place_coordinate" = "Coordenadas";
+
+/* (No Comment) */
+"_ObjectProperty_Place_country" = "País";
+
+/* (No Comment) */
+"_ObjectProperty_Place_county" = "Minicípio";
+
+/* (No Comment) */
+"_ObjectProperty_Place_geoNameID" = "ID GeoName";
+
+/* (No Comment) */
+"_ObjectProperty_Place_isBookmarked" = "Está marcado";
+
+/* (No Comment) */
+"_ObjectProperty_Place_place" = "Local";
+
+/* (No Comment) */
+"_ObjectProperty_Place_state" = "Estado";
+
+/* Place */
+"_ObjectProperty_Place_template" = "Modelo de local";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceDetail_geoNameID" = "ID GeoName";
+
+/* PlaceDetail */
+"_ObjectProperty_PlaceDetail_name" = "Nome";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceDetail_place" = "Local";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceKeyValue_place" = "Local";
+
+/* PlaceKeyValue */
+"_ObjectProperty_PlaceKeyValue_templateKey" = "Campo de modelo";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceKeyValue_value" = "Valor";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplate_countryIdentifier" = "País";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplate_isDefaultTemplate" = "Modelo padrão";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplate_isFavoriteTemplate" = "Modelo favorito";
+
+/* PlaceTemplate */
+"_ObjectProperty_PlaceTemplate_name" = "Nome";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKey_gedcomTag" = "Etiqueta FORM de local do GEDCOM";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKey_internationalName" = "Nome internacional";
+
+/* PlaceTemplateKey */
+"_ObjectProperty_PlaceTemplateKey_localName" = "Nome local";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKey_order" = "Ordem";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_normalCitationBracketMode" = "Colchetes de citação normais";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_normalCitationEnabled" = "Habilitado para citação normal";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_normalCitationOrder" = "Ordem de citação normal";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_normalCitationTrailingMode" = "Separador de citação normal";
+
+/* PlaceTemplateKeyRelation */
+"_ObjectProperty_PlaceTemplateKeyRelation_order" = "Ordem";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_shortCitationBracketMode" = "Ordenar colchetes de citação";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_shortCitationEnabled" = "Habilitado para citação curta";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_shortCitationOrder" = "Ordem de citação curta";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_shortCitationTrailingMode" = "Separador de citação curta";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_veryShortCitationBracketMode" = "Colchetes de citação muito curta";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_veryShortCitationEnabled" = "Habilitado para citação muito curta";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_veryShortCitationOrder" = "Ordem de citação muito curta";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_veryShortCitationTrailingMode" = "Separador de citação muito curta";
+
+/* (No Comment) */
+"_ObjectProperty_SavedBook_author" = "Autor";
+
+/* SavedBook */
+"_ObjectProperty_SavedBook_bookData" = "Livro";
+
+/* (No Comment) */
+"_ObjectProperty_SavedBook_subTitle" = "Subtítulo";
+
+/* (No Comment) */
+"_ObjectProperty_SavedBook_thumbnailData" = "Miniatura";
+
+/* SavedChart */
+"_ObjectProperty_SavedChart_chartObjectsContainerData" = "Gráfico";
+
+/* (No Comment) */
+"_ObjectProperty_SavedChart_thumbnailData" = "Miniatura";
+
+/* SavedReport */
+"_ObjectProperty_SavedReport_reportControllerData" = "Relatório";
+
+/* (No Comment) */
+"_ObjectProperty_SavedReport_thumbnailData" = "Miniatura";
+
+/* (No Comment) */
+"_ObjectProperty_SavedView_date" = "Data";
+
+/* SavedView */
+"_ObjectProperty_SavedView_title" = "Título";
+
+/* (No Comment) */
+"_ObjectProperty_SavedWebsite_changeDate" = "Alterar data";
+
+/* SavedWebsite */
+"_ObjectProperty_SavedWebsite_fileIdentifier" = "Data";
+
+/* (No Comment) */
+"_ObjectProperty_Scope_archivedFiltersContainerData" = "Descrição do filtro inteligente";
+
+/* Scope */
+"_ObjectProperty_Scope_scopeEntity" = "Tipo do filtro inteligente";
+
+/* (No Comment) */
+"_ObjectProperty_Scope_scopeName" = "Nome do Filtro Inteligente";
+
+/* (No Comment) */
+"_ObjectProperty_Source_isBookmarked" = "Catalogado";
+
+/* (No Comment) */
+"_ObjectProperty_Source_sourceRepository" = "Repositório de Recursos";
+
+/* Source */
+"_ObjectProperty_Source_template" = "Modelo de origem";
+
+/* (No Comment) */
+"_ObjectProperty_Source_text" = "Texto";
+
+/* SourceContainer */
+"_ObjectProperty_SourceContainer_sourceRelations" = "Citações de origem";
+
+/* (No Comment) */
+"_ObjectProperty_SourceKeyValue_source" = "Origem";
+
+/* SourceKeyValue */
+"_ObjectProperty_SourceKeyValue_templateKey" = "Campo de modelo";
+
+/* (No Comment) */
+"_ObjectProperty_SourceKeyValue_value" = "Valor";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRelation_certainty" = "Certeza";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRelation_page" = "Página";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRelation_qualityEvidence" = "Qualidade da Evidência";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRelation_qualityInformation" = "Qualidade da Informação";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRelation_qualitySource" = "Qualidade do Recurso";
+
+/* SourceRelation */
+"_ObjectProperty_SourceRelation_source" = "Recurso";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRelation_sourceContainer" = "Entrada de referência";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_address" = "Endereço de E-mail";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_addressLine1" = "Linha de endereço 1";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_addressLine2" = "Linha de endereço 2";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_addressLine3" = "Linha de endereço 3";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_city" = "Cidade";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_country" = "País";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_email" = "E-mail";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_fax" = "Fax";
+
+/* SourceRepository */
+"_ObjectProperty_SourceRepository_name" = "Nome";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_phone" = "Telefone";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_postalCode" = "Código postal";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_state" = "Endereço";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_www" = "WWW";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplate_isDefaultTemplate" = "Modelo padrão";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplate_isFavoriteTemplate" = "Modelo de favorito";
+
+/* SourceTemplate */
+"_ObjectProperty_SourceTemplate_name" = "Nome";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKey_gedcomTag" = "Etiqueta GEDCOM";
+
+/* SourceTemplateKey */
+"_ObjectProperty_SourceTemplateKey_name" = "Nome do campo";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKey_order" = "Ordem";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKey_type" = "Tipo do campo";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_isDateForDisplayComponent" = "Incluído na Data de Origem";
+
+/* SourceTemplateKeyRelation */
+"_ObjectProperty_SourceTemplateKeyRelation_isTitleComponent" = "Incluído no Título de Origem";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_longCitationBracketMode" = "Parênteses de citação longos";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_longCitationEnabled" = "Ativado para citação longa";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_longCitationFontMode" = "Fonte da citação longa";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_longCitationOrder" = "Ordem da citação longa";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_longCitationTrailingMode" = "Separador da citação longa";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_order" = "Ordem";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_shortCitationBracketMode" = "Parêntesis de citação curtos";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_shortCitationEnabled" = "Ativado para citação curta";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_shortCitationFontMode" = "Fonte da citação curta";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_shortCitationOrder" = "Ordem da citação curta";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_shortCitationTrailingMode" = "Separador da citação curta";
+
+/* (No Comment) */
+"_ObjectProperty_Story_fromDate" = "Da data";
+
+/* Story */
+"_ObjectProperty_Story_title" = "Título";
+
+/* (No Comment) */
+"_ObjectProperty_Story_toDate" = "Para data";
+
+/* (No Comment) */
+"_ObjectProperty_Story_userDescription" = "Descrição";
+
+/* (No Comment) */
+"_ObjectProperty_StorySection_order" = "Ordem";
+
+/* StorySection */
+"_ObjectProperty_StorySection_subtitle" = "Tìtulo da seção";
+
+/* (No Comment) */
+"_ObjectProperty_StorySection_text" = "Texto";
+
+/* ToDo */
+"_ObjectProperty_ToDo_dueDate" = "Data de vencimento";
+
+/* (No Comment) */
+"_ObjectProperty_ToDo_priorityConclusionType" = "Prioridade";
+
+/* (No Comment) */
+"_ObjectProperty_ToDo_statusConclusionType" = "Status";
+
+/* (No Comment) */
+"_ObjectProperty_ToDo_text" = "Texto";
+
+/* (No Comment) */
+"_ObjectProperty_ToDo_title" = "Título";
+
+/* (No Comment) */
+"_ObjectProperty_ToDo_typeConclusionType" = "Tipo";
+
+/* (No Comment) */
+"_ObjectType_AdditionalName" = "Nome adicional";
+
+/* (No Comment) */
+"_ObjectType_AssociateRelation" = "Relacionamento da pessoa influente";
+
+/* (No Comment) */
+"_ObjectType_BaseMedia" = "Mídia";
+
+/* (No Comment) */
+"_ObjectType_BaseObjectFamilySearchProperties" = "Informações do FamilySearch";
+
+/* (No Comment) */
+"_ObjectType_Book" = "Livro";
+
+/* (No Comment) */
+"_ObjectType_BookBaseObjectReportBuilder" = "Relatório pessoal/familiar";
+
+/* (No Comment) */
+"_ObjectType_BookBaseObjectsBasedReportBuilderObject" = "Objeto da seção do relatório";
+
+/* (No Comment) */
+"_ObjectType_BookBaseObjectsBasedReportBuilderSection" = "Seção do relatório";
+
+/* (No Comment) */
+"_ObjectType_BookChapter" = "Capítulo do livro";
+
+/* (No Comment) */
+"_ObjectType_BookDiagramBaseObject" = "Diagrama da seção de objeto";
+
+/* (No Comment) */
+"_ObjectType_BookDiagramReportBuilderSection" = "Seção de Diagrama %@";
+
+/* (No Comment) */
+"_ObjectType_BookFamilyBasedReportBuilderSection" = "Seção do relatório";
+
+/* (No Comment) */
+"_ObjectType_BookFamilySection" = "Seção familiar";
+
+/* (No Comment) */
+"_ObjectType_BookGenericReportBuilderSection" = "Seção do relatório";
+
+/* (No Comment) */
+"_ObjectType_BookPersonBasedReportBuilderSection" = "Seção do relatório";
+
+/* (No Comment) */
+"_ObjectType_BookPersonSection" = "Seção pessoal";
+
+/* (No Comment) */
+"_ObjectType_BookReportBuilderFamily" = "Seção do relatório familiar";
+
+/* (No Comment) */
+"_ObjectType_BookReportBuilderPerson" = "Seção do relatório pessoal";
+
+/* (No Comment) */
+"_ObjectType_BookSerializedBaseObjectReportBuilder" = "Configuração do relatório";
+
+/* (No Comment) */
+"_ObjectType_BookSerializedBaseReportBuilder" = "Configurações da seção do relatório";
+
+/* (No Comment) */
+"_ObjectType_BookSerializedChapterReportBuilder" = "Configuração do Relatório de Capítulo";
+
+/* (No Comment) */
+"_ObjectType_BookSerializedEditedReportBuilder" = "Configuração do Relatório Editado";
+
+/* (No Comment) */
+"_ObjectType_ChangeLogEntry" = "Registro de Alterações";
+
+/* (No Comment) */
+"_ObjectType_ChangeLogSubEntry" = "Alterar entrada do registro";
+
+/* (No Comment) */
+"_ObjectType_ChildRelation" = "Relação do filho(a)";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerCloudKitChangesWorklist" = "Informações de sincronização do CloudTree";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerCloudKitChangesWorklistAddVerifyListItem" = "Informações de sincronização do CloudTree";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerCloudKitChangesWorklistForRecordType" = "Informações de sincronização do CloudTree";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerCloudKitChangesWorklistForRecordTypeEntry" = "Informações de sincronização do CloudTree";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerCloudKitChangesWorklistZoneNameServerChangeToken" = "Informações de sincronização do CloudTree";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerLocalChangesWorklist" = "Informações de sincronização do CloudTree";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerLocalChangesWorklistDanglingReferenceEntry" = "Informações de sincronização do CloudTree";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerLocalChangesWorklistFinalDeleteEntry" = "Informações de sincronização do CloudTree";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerLocalChangesWorklistForEntity" = "Informações de sincronização do CloudTree";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerLocalChangesWorklistForEntityEntry" = "Informações de sincronização do CloudTree";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerLocalChangesWorklistPostponedEntry" = "Informações de sincronização do CloudTree";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerSpecialPostDownloadStep" = "Informações de sincronização do CloudTree";
+
+/* (No Comment) */
+"_ObjectType_ConclusionAdditionalNameType" = "Tipo do nome adicional";
+
+/* (No Comment) */
+"_ObjectType_ConclusionAssociateRelationType" = "Tipo de relação influente";
+
+/* (No Comment) */
+"_ObjectType_ConclusionFamilyEventType" = "Tipo de evento familiar";
+
+/* (No Comment) */
+"_ObjectType_ConclusionPersonEventType" = "Tipo de evento pessoal";
+
+/* (No Comment) */
+"_ObjectType_ConclusionPersonFactType" = "Tipo de fato pessoal";
+
+/* (No Comment) */
+"_ObjectType_Coordinate" = "Coordenada";
+
+/* (No Comment) */
+"_ObjectType_DNATestATDNASubResult" = "Informações dos Resultados de DNA Autossômico";
+
+/* (No Comment) */
+"_ObjectType_DNATestBaseSubResultRawDataFile" = "Arquivo de dados brutos do DNA";
+
+/* (No Comment) */
+"_ObjectType_DNATestMTDNASubResult" = "Informações do resultado de mtDNA";
+
+/* (No Comment) */
+"_ObjectType_DNATestMTDNASubResultSNPDifference" = "Diferença de SNP do mtDNA";
+
+/* (No Comment) */
+"_ObjectType_DNATestResult" = "Resultado do teste de DNA";
+
+/* (No Comment) */
+"_ObjectType_DNATestYDNASubResult" = "Informações do resultado do Y-DNA";
+
+/* (No Comment) */
+"_ObjectType_DNATestYDNASubResultYSTRMarker" = "Marcadore STR do DNA";
+
+/* (No Comment) */
+"_ObjectType_Event" = "Evento";
+
+/* (No Comment) */
+"_ObjectType_Fact" = "Fato";
+
+/* (No Comment) */
+"_ObjectType_Family" = "Família";
+
+/* (No Comment) */
+"_ObjectType_FamilyEvent" = "Evento Familiar";
+
+/* (No Comment) */
+"_ObjectType_FamilySearchKnownBadFurtherInformationMatch" = "Informações do FamilySearch";
+
+/* (No Comment) */
+"_ObjectType_FamilySearchKnownBadPersonMatch" = "Informações do FamilySearch";
+
+/* (No Comment) */
+"_ObjectType_FamilyTreeInformation" = "Informações da árvore genealógica";
+
+/* (No Comment) */
+"_ObjectType_Label" = "Etiqueta";
+
+/* (No Comment) */
+"_ObjectType_LabelRelation" = "Etiqueta de relação";
+
+/* (No Comment) */
+"_ObjectType_MediaAudio" = "Mídia de Áudio";
+
+/* (No Comment) */
+"_ObjectType_MediaPDF" = "Mídia de PDF";
+
+/* (No Comment) */
+"_ObjectType_MediaPicture" = "Mídia de Imagem";
+
+/* (No Comment) */
+"_ObjectType_MediaRelation" = "Relação da mídia";
+
+/* (No Comment) */
+"_ObjectType_MediaRelationAssignment" = "Atribuição de Relação de Mídia";
+
+/* (No Comment) */
+"_ObjectType_MediaRelationAssignmentPicture" = "Mídia de imagem de atribuição de relações";
+
+/* (No Comment) */
+"_ObjectType_MediaURL" = "Mídia de URL";
+
+/* (No Comment) */
+"_ObjectType_MediaVideo" = "Mídia de Vídeo";
+
+/* (No Comment) */
+"_ObjectType_Note" = "Notas";
+
+/* Object Types */
+"_ObjectType_Person" = "Pessoa";
+
+/* (No Comment) */
+"_ObjectType_PersonEvent" = "Evento Pessoal";
+
+/* (No Comment) */
+"_ObjectType_PersonFact" = "Fato Pessoal";
+
+/* (No Comment) */
+"_ObjectType_PersonGroup" = "Grupo de pessoas";
+
+/* (No Comment) */
+"_ObjectType_PersonGroupRelation" = "Relação de grupo de pessoas";
+
+/* (No Comment) */
+"_ObjectType_Place" = "Local";
+
+/* (No Comment) */
+"_ObjectType_PlaceDetail" = "Detalhe do local";
+
+/* (No Comment) */
+"_ObjectType_PlaceKeyValue" = "Valor de local";
+
+/* (No Comment) */
+"_ObjectType_PlaceTemplate" = "Modelo de local";
+
+/* (No Comment) */
+"_ObjectType_PlaceTemplateKey" = "Campo de modelo de local";
+
+/* (No Comment) */
+"_ObjectType_PlaceTemplateKeyRelation" = "Relação do campo de modelo de local";
+
+/* (No Comment) */
+"_ObjectType_ResearchAssistantQuestionInfo" = "Informações do assistente de pesquisa";
+
+/* (No Comment) */
+"_ObjectType_SavedBook" = "Livro salvo";
+
+/* (No Comment) */
+"_ObjectType_SavedChart" = "Gráfico";
+
+/* (No Comment) */
+"_ObjectType_SavedReport" = "Relatório";
+
+/* (No Comment) */
+"_ObjectType_SavedWebsite" = "Sire salvo";
+
+/* (No Comment) */
+"_ObjectType_Scope" = "Filtro inteligente";
+
+/* (No Comment) */
+"_ObjectType_Source" = "Recurso";
+
+/* (No Comment) */
+"_ObjectType_SourceKeyValue" = "Valor de origem";
+
+/* (No Comment) */
+"_ObjectType_SourceRelation" = "Citação de Recurso";
+
+/* (No Comment) */
+"_ObjectType_SourceRepository" = "Repositório de Recursos";
+
+/* (No Comment) */
+"_ObjectType_SourceTemplate" = "Modelo de origem";
+
+/* (No Comment) */
+"_ObjectType_SourceTemplateKey" = "Campo modelo de origem";
+
+/* (No Comment) */
+"_ObjectType_SourceTemplateKeyRelation" = "Relação de campo do modelo de origem";
+
+/* (No Comment) */
+"_ObjectType_Story" = "História";
+
+/* (No Comment) */
+"_ObjectType_StoryRelation" = "Relação da história";
+
+/* (No Comment) */
+"_ObjectType_StorySection" = "Seção de história";
+
+/* (No Comment) */
+"_ObjectType_StorySectionRelation" = "Relação da seção de história";
+
+/* (No Comment) */
+"_ObjectType_ToDo" = "Tarefa";
+
+/* (No Comment) */
+"_ObjectType_ToDoRelation" = "Relação de tarefas";
+
+/* (No Comment) */
+"_Person_ChangeLog_Added" = "Pessoa adicionada";
+
+/* (No Comment) */
+"_Person_ChangeLog_ConflictResolved" = "Conflito de propriedade '%@' foi resolvido para '%@'";
+
+/* (No Comment) */
+"_Person_ChangeLog_Deleted" = "A pessoa '%@' foi apagada";
+
+/* (No Comment) */
+"_Person_ChangeLogKey" = "Pessoa %@";
+
+/* (No Comment) */
+"_Person_ChangeLogPropertyKey_FirstName" = "Nome alterado de '%@' para '%@'";
+
+/* (No Comment) */
+"_Person_ChangeLogPropertyKey_Gender" = "Sexo alterado '%@' para '%@'";
+
+/* (No Comment) */
+"_Person_ChangeLogPropertyKey_LastName" = "Sobrenome alterado de '%@' para '%@'";
+
+/* (No Comment) */
+"_Person_ChangeLogPropertyKey_NameMiddle" = "Nome do meio alterado de '%@' para '%@'";
+
+/* (No Comment) */
+"_Person_ChangeLogPropertyKey_NamePrefix" = "Prefixo do nome alterado de '%@' para '%@'";
+
+/* (No Comment) */
+"_Person_ChangeLogPropertyKey_NameSuffix" = "Sufixo do nome alterado de '%@' para '%@'";
+
+/* (No Comment) */
+"_PlaceTemplateKeyRelation_relationUsage" = "Uso";
+
+/* (No Comment) */
+"_Source_ChangeLog_Added" = "Recurso adicionado";
+
+/* (No Comment) */
+"_Source_ChangeLog_ConflictResolved" = "Conflito de propriedade '%@' do recurso resolvido para '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLog_Deleted" = "Recurso '%@' apagado";
+
+/* (No Comment) */
+"_Source_ChangeLogKey" = "Recurso %@";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Abbreviation" = "Abreviação alterada de '%@' para '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Agency" = "Agência alterada de '%@' para '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Author" = "Autor alterado de '%@' para '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Date" = "Data alterada de '%@' para '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Place" = "Local alterado de '%@' para '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Publication" = "Publicação alterada de '%@' para '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_ReferenceNumber" = "Número de referência alterado de '%@' para '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_ReferenceType" = "Tipo de referência altarado de '%@' para '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Text" = "Texto alterado";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Title" = "Título alterado de '%@' para '%@'";
+
+/* (No Comment) */
+"_SourceKeyValue_ChangeLog_Added" = "Valor '%@' adicionado";
+
+/* (No Comment) */
+"_SourceKeyValue_ChangeLog_ConflictResolvedForValueProperty" = "Conflito do valor '%@' resolvido para '%@'";
+
+/* (No Comment) */
+"_SourceKeyValue_ChangeLog_Deleted" = "Valor '%@' apagado";
+
+/* (No Comment) */
+"_SourceKeyValue_ChangeLogPropertyKey_Value" = "Valor '%@' alterado de '%@' para '%@'";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLog_SourceContainerDelete" = "Citação de recurso de '%@' removido";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLog_SourceDelete" = "Citação de recurso '%@' removido";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLogPropertyKey_Page" = "Página da citação de recurso do recurso '%@' alterada de '%@' para '%@'";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLogPropertyKey_QualityEvidence" = "Qualidade da evidência da citação de recurso do recurso '%@' alterada de '%@' para '%@'";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLogPropertyKey_QualityInformation" = "Qualidade da informação da citação de recurso do recurso '%@' alterada de '%@' para '%@'";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLogPropertyKey_QualitySource" = "Qualidade do recurso da citação de recurso do recurso '%@' alterada de '%@' para '%@'";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLogPropertyKey_Source" = "Adicionado como citação de recurso para '%@'";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLogPropertyKey_SourceContainer" = "Citação de recurso '%@' adicionado";
+

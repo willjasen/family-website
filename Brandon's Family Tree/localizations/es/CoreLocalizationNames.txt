@@ -1,0 +1,51 @@
+﻿/* (No Comment) */
+"_LocalizationName_cs" = "Checo";
+
+/* (No Comment) */
+"_LocalizationName_da" = "Danés";
+
+/* LocalizationNames */
+"_LocalizationName_de" = "Alemán";
+
+/* (No Comment) */
+"_LocalizationName_en" = "Inglés";
+
+/* (No Comment) */
+"_LocalizationName_es" = "Español";
+
+/* (No Comment) */
+"_LocalizationName_fi" = "Finlandés";
+
+/* (No Comment) */
+"_LocalizationName_fr" = "Francés";
+
+/* (No Comment) */
+"_LocalizationName_hu" = "Húngaro";
+
+/* (No Comment) */
+"_LocalizationName_INTL" = "Internacional";
+
+/* (No Comment) */
+"_LocalizationName_it" = "Italiano";
+
+/* (No Comment) */
+"_LocalizationName_nb" = "Noruego";
+
+/* (No Comment) */
+"_LocalizationName_nl" = "Neerlandés";
+
+/* (No Comment) */
+"_LocalizationName_pl" = "Polaco";
+
+/* (No Comment) */
+"_LocalizationName_pt" = "Portugués";
+
+/* (No Comment) */
+"_LocalizationName_ru" = "Ruso";
+
+/* (No Comment) */
+"_LocalizationName_sv" = "Sueco";
+
+/* (No Comment) */
+"_LocalizationName_zh" = "Chino simplificado";
+

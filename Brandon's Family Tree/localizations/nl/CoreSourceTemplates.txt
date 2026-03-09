@@ -1,0 +1,594 @@
+﻿/* (No Comment) */
+"_EditSourceTemplateKeysController_MergeTemplateKeysConflictInformative" = "U staat op punt het bronveld '%@' met bronveld '%@' samen te voegen, maar in sommige bronnen in uw kwartierstaat, zijn beide bronvelden aanwezig in één bron. Kies hoe u voor deze bronnen wil verder gaan:";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_MergeTemplateKeysConflictKeepBoth" = "Beide waarden behouden";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_MergeTemplateKeysConflictKeepSingle" = "Behoud waarde van '%@'";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_MergeTemplateKeysConflictMessage" = "Bronvelden samenvoegen";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_MergeTemplateKeysDoneInformative" = "Bronveld '%@' samengevoegd met bronveld '%@'";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_MergeTemplateKeysDoneMessage" = "Bronvelden samengevoegd";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_ReallyMergeTemplateKeysInformative" = "Wenst u de sjabloonvelden '%@' en '%@' echt samen te voegen? Nadien worden ze één enkel sjabloonveld.";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_ReallyMergeTemplateKeysMessage" = "Sjabloonvelden écht samenvoegen?";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_RemoveTemplateKeyInformative" = "Wenst u het geselecteerde sjabloonveld echt te wissen? Er is nog informatie ingevoerd voor dit veld, die permanent zal gewist worden.";
+
+/* EditSourceTemplateKeysController */
+"_EditSourceTemplateKeysController_RemoveTemplateKeyMessage" = "Sjabloonveld echt verwijderen? Alle velden van de bronnen worden definitief verwijderd.";
+
+/* (No Comment) */
+"_EditSourceTemplatesController_MergeTemplateDoneMessage" = "Bronsjablonen samengevoegd";
+
+/* (No Comment) */
+"_EditSourceTemplatesController_MergeTemplatesDoneInformative" = "Bronsjablonen '%@' en '%@' werden succesvol gekoppeld.";
+
+/* (No Comment) */
+"_EditSourceTemplatesController_ReallyMergeTemplateInformative" = "Wenst u écht de sjablonen '%@' en '%@' samen te voegen? Nadien worden ze één enkel sjabloon.";
+
+/* (No Comment) */
+"_EditSourceTemplatesController_ReallyMergeTemplateMessage" = "Sjablonen écht koppelen?";
+
+/* (No Comment) */
+"_EditSourceTemplatesController_RemoveTemplateInformative" = "Wenst u dit bronsjabloon écht te verwijderen? Er zijn bronnen verbonden aan dit sjabloon die eveneens permanent zullen verwijderd worden als u dit bronsjabloon verwijdert.";
+
+/* EditSourceTemplatesController */
+"_EditSourceTemplatesController_RemoveTemplateMessage" = "Bronsjabloon écht verwijderen? Alle verbonden bronnen worden permanent verwijderd.";
+
+/* (No Comment) */
+"_SourceTemplate_SourcesCount" = "%d bronnen";
+
+/* Counts */
+"_SourceTemplate_SourcesCountSingular" = "%d bron";
+
+/* (No Comment) */
+"_SourceTemplateKey_Type_Date" = "Datum";
+
+/* SourceTemplateKey */
+"_SourceTemplateKey_Type_Text" = "tekst";
+
+/* (No Comment) */
+"SourceTemplate_AddressBook" = "Adresboek";
+
+/* (No Comment) */
+"SourceTemplate_Book" = "Boek";
+
+/* (No Comment) */
+"SourceTemplate_BusinessOrganisationalRecord" = "Bedrijfsorganisatie document";
+
+/* (No Comment) */
+"SourceTemplate_CDROM" = "CD-ROM";
+
+/* (No Comment) */
+"SourceTemplate_CemeteryRecord_Digital" = "Begraafplaatsdossier (digitaal)";
+
+/* (No Comment) */
+"SourceTemplate_CemeteryRecord_Microfilm" = "Begraafplaatsdossier (microfilm)";
+
+/* (No Comment) */
+"SourceTemplate_CemeteryRecord_PhysicalCopy" = "Begraafplaatsdossier (papier)";
+
+/* (No Comment) */
+"SourceTemplate_Census_Digital" = "Volkstelling (digitaal)";
+
+/* (No Comment) */
+"SourceTemplate_Census_Microfilm" = "Volkstelling (microfilm)";
+
+/* (No Comment) */
+"SourceTemplate_Census_PhysicalCopy" = "Volkstelling (papier)";
+
+/* (No Comment) */
+"SourceTemplate_ChurchRecord_Books" = "Kerkregister (boek)";
+
+/* (No Comment) */
+"SourceTemplate_ChurchRecord_Digital" = "Kerkregister (digitaal)";
+
+/* (No Comment) */
+"SourceTemplate_ChurchRecord_Microfilm" = "Kerkregister (microfilm)";
+
+/* (No Comment) */
+"SourceTemplate_CorporateRecord_Digital" = "Bedrijfsdossier (digitaal)";
+
+/* (No Comment) */
+"SourceTemplate_CorporateRecord_Microfilm" = "Bedrijfsdossier (microfilm)";
+
+/* (No Comment) */
+"SourceTemplate_CorporateRecord_PhysicalCopy" = "Bedrijfsdossier (papier)";
+
+/* (No Comment) */
+"SourceTemplate_CourtDocuments" = "Gerechtelijke documenten";
+
+/* (No Comment) */
+"SourceTemplate_Deed" = "Akte";
+
+/* (No Comment) */
+"SourceTemplate_DiaryOrJournal" = "Agenda/dagboek";
+
+/* (No Comment) */
+"SourceTemplate_DraftRegistration" = "Kladregistratie";
+
+/* (No Comment) */
+"SourceTemplate_EmailMessage" = "E-mail boodschap";
+
+/* (No Comment) */
+"SourceTemplate_EmigrationRecord_Digital" = "Emigratiedossier (digitaal)";
+
+/* (No Comment) */
+"SourceTemplate_EmigrationRecord_Microfilm" = "Emigratiedossier (microfilm)";
+
+/* (No Comment) */
+"SourceTemplate_EmigrationRecord_PhysicalCopy" = "Emigratiedossier (papier)";
+
+/* (No Comment) */
+"SourceTemplate_FamilyBible" = "Familiebijbel";
+
+/* (No Comment) */
+"SourceTemplate_FamilyChart" = "Familiekaart";
+
+/* (No Comment) */
+"SourceTemplate_FamilySearch" = "FamilySearch";
+
+/* (No Comment) */
+"SourceTemplate_FuneralHomeRecord" = "Dossier funerarium";
+
+/* SourceTemplate */
+"SourceTemplate_Generic" = "Generisch";
+
+/* (No Comment) */
+"SourceTemplate_GraveMarkers" = "Grafstenen";
+
+/* (No Comment) */
+"SourceTemplate_HistoricalLetter_Digital" = "Historische brief (digitaal)";
+
+/* (No Comment) */
+"SourceTemplate_HistoricalLetter_Microfilm" = "Historische brief (microfilm)";
+
+/* (No Comment) */
+"SourceTemplate_HistoricalLetter_PhysicalCopy" = "Historische brief (papier)";
+
+/* (No Comment) */
+"SourceTemplate_HistoricalResearch" = "Historisch onderzoek";
+
+/* (No Comment) */
+"SourceTemplate_ImmigrationRecord_Digital" = "Immigratiedossier (digitaal)";
+
+/* (No Comment) */
+"SourceTemplate_ImmigrationRecord_Microfilm" = "Immigratiedossier (microfilm)";
+
+/* (No Comment) */
+"SourceTemplate_ImmigrationRecord_PhysicalCopy" = "Immigratiedossier (papier)";
+
+/* (No Comment) */
+"SourceTemplate_Interview_Digital" = "Interview (digitaal)";
+
+/* (No Comment) */
+"SourceTemplate_Interview_Microfilm" = "Interview (microfilm";
+
+/* (No Comment) */
+"SourceTemplate_Interview_PhysicalCopy" = "Interview (papier)";
+
+/* _SourceTemplate_KeyName */
+"SourceTemplate_KeyName_Abbreviation" = "Afkorting";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Agency" = "Agentschap";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Author" = "Auteur";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_AuthorAddress" = "Adres auteur";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_AuthorCredentials" = "Referenties auteur";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_BookPeriodicalName" = "Boek/periodieke naam";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_CallNumber" = "Referentienummer";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Cemetery" = "Begraafplaats";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_CensusYear" = "Jaar volkstelling";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Church" = "Kerk";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Collection" = "Verzameling";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Compiler" = "Compiler";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Congress" = "Congres";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_ContactPerson" = "Contactpersoon";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Copyright" = "Copyright";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_County" = "Provincie";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Court" = "Rechtbank";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Date" = "Datum";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_DateViewed" = "Geziene datum";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Detail" = "Detail";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Edition" = "Editie";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_FileNumber" = "Bestandsnummer";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_FilmNumber" = "Nummer film";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_FilmType" = "Soort film";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_FolderLabel" = "Label map";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Format" = "Formaat";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Informant" = "Informant";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_InformantAddress" = "Adres informant";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_InformantName" = "Naam informant";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_InformantRelationship" = "Verwantschap informant";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Interviewee" = "Geïnterviewde";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Interviewer" = "Interviewer";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Issue" = "Uitgave";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_LocationOfSource" = "Plaats van bron";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_MediaType" = "Media-type";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_MicrofilmRollNumber" = "Nummer microfilm";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_MilitaryDivision" = "Militaire eenheid";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_NumberOfRolls" = "Aantal rollen";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_OrderNumber" = "Ordernummer";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Organization" = "Organisatie";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_OtherAuthors" = "Andere auteurs";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_OtherSubjects" = "Andere onderwerpen";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Owner" = "Eigenaar";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_OwnerAddress" = "Adres eigenaar";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_OwnerLocation" = "Plaats eigenaar";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Page" = "Pagina";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Place" = "Plaats";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Presenter" = "Presentator";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Publication" = "Publicatie";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Publisher" = "Uitgever";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Recipient" = "Ontvanger";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Recorder" = "Griffier";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_RecordGroup" = "Bestandsgroep";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_ReferenceNumber" = "Referentienummer";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_ReferenceType" = "Referentietype";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Register" = "Register";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Schedule" = "Schema";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_School" = "School";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_SerialNumber" = "Serienummer";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Series" = "Series";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_SeriesTitle" = "Titel series";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Session" = "Sessie";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_StateOrCountry" = "Deelstaat of land";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_StateTerritory" = "Deelstaat/grondgebied";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Subject" = "Onderwerp";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Submitter" = "Indiener";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Title" = "Titel";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_TownshipCivilDistrict" = "Wijk/gehucht";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Tribe" = "Stam";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Vessel" = "Vaartuig";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_VolumeNumber" = "Volume nummer";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Volumes" = "Volumes";
+
+/* (No Comment) */
+"SourceTemplate_LandGrantRegister" = "Kadastraal register";
+
+/* (No Comment) */
+"SourceTemplate_LandRecord_Digital" = "Uittreksel kadaster (digitaal)";
+
+/* (No Comment) */
+"SourceTemplate_LandRecord_Microfilm" = "Uittreksel kadaster (microfilm)";
+
+/* (No Comment) */
+"SourceTemplate_LandRecord_PhysicalCopy" = "Uittreksel kadaster (papier)";
+
+/* (No Comment) */
+"SourceTemplate_LegalDocument_Digital" = "Wettelijk document (digitaal)";
+
+/* (No Comment) */
+"SourceTemplate_LegalDocument_Microfilm" = "Wettelijk document (microfilm)";
+
+/* (No Comment) */
+"SourceTemplate_LegalDocument_PhysicalCopy" = "Wettelijk document (papier)";
+
+/* (No Comment) */
+"SourceTemplate_LegalGeneticTesting" = "Wettelijke genetische test";
+
+/* (No Comment) */
+"SourceTemplate_Letter" = "Brief";
+
+/* (No Comment) */
+"SourceTemplate_LocalAndStateRecord_Digital" = "Local and State Record (digitaal)";
+
+/* (No Comment) */
+"SourceTemplate_LocalAndStateRecord_Microfilm" = "Local and State Record (microfilm)";
+
+/* (No Comment) */
+"SourceTemplate_LocalAndStateRecord_PhysicalCopy" = "Local and State Record (papier)";
+
+/* (No Comment) */
+"SourceTemplate_ManuscriptRecord" = "Manuscript";
+
+/* (No Comment) */
+"SourceTemplate_Map" = "Kaart";
+
+/* (No Comment) */
+"SourceTemplate_MedicalRecord" = "Medisch dossier";
+
+/* (No Comment) */
+"SourceTemplate_MilitaryRecord" = "Militair dossier";
+
+/* (No Comment) */
+"SourceTemplate_NationalGovernmentRecord_Digital" = "National Government Record (digitaal)";
+
+/* (No Comment) */
+"SourceTemplate_NationalGovernmentRecord_Microfilm" = "National Government Record (microfilm)";
+
+/* (No Comment) */
+"SourceTemplate_NationalGovernmentRecord_PhysicalCopy" = "National Government Record (papier)";
+
+/* (No Comment) */
+"SourceTemplate_NativeAmericanTribalCensus" = "Native American Tribal Census";
+
+/* (No Comment) */
+"SourceTemplate_NaturalizationRecord" = "Naturalisatiedossier";
+
+/* (No Comment) */
+"SourceTemplate_Newspaper" = "Krant";
+
+/* (No Comment) */
+"SourceTemplate_NonLegalPrivateGeneticTesting" = "Niet wettelijke/privé genetische test";
+
+/* (No Comment) */
+"SourceTemplate_PassengerList" = "Passagierslijst";
+
+/* (No Comment) */
+"SourceTemplate_PensionFile" = "Pensioenbestand";
+
+/* (No Comment) */
+"SourceTemplate_Periodical" = "Periodisch";
+
+/* (No Comment) */
+"SourceTemplate_PersonalBible" = "Persoonlijke bijbel";
+
+/* (No Comment) */
+"SourceTemplate_PersonalCorrespondence" = "Persoonlijke briefwisseling";
+
+/* (No Comment) */
+"SourceTemplate_Portrait" = "Portret";
+
+/* (No Comment) */
+"SourceTemplate_PreservationFilm" = "Bewaringsfilm";
+
+/* (No Comment) */
+"SourceTemplate_ResearchReport_Digital" = "Onderzoeksrapport (digitaal)";
+
+/* (No Comment) */
+"SourceTemplate_ResearchReport_Microfilm" = "Onderzoeksrapport (microfilm)";
+
+/* (No Comment) */
+"SourceTemplate_ResearchReport_PhysicalCopy" = "Onderzoeksrapport (papier)";
+
+/* (No Comment) */
+"SourceTemplate_SchoolRecord_Digital" = "Schooldossier (digitaal)";
+
+/* (No Comment) */
+"SourceTemplate_SchoolRecord_Microfilm" = "Schooldossier (microfilm)";
+
+/* (No Comment) */
+"SourceTemplate_SchoolRecord_PhysicalCopy" = "Schooldossier (papier)";
+
+/* (No Comment) */
+"SourceTemplate_TaxList" = "Belastingslijst";
+
+/* (No Comment) */
+"SourceTemplate_UnpublishedNarrative" = "Niet gepubliceerd verhaal";
+
+/* (No Comment) */
+"SourceTemplate_USCongressionalRecord_Digital" = "US Congressional Record (digitaal)";
+
+/* (No Comment) */
+"SourceTemplate_USCongressionalRecord_Microfilm" = "US Congressional Record (microfilm)";
+
+/* (No Comment) */
+"SourceTemplate_VerticalFile" = "Verticaal bestand";
+
+/* (No Comment) */
+"SourceTemplate_Video" = "Video";
+
+/* (No Comment) */
+"SourceTemplate_VitalRecord" = "Akte B.S.";
+
+/* (No Comment) */
+"SourceTemplate_VitalRecord_BirthCertificate" = "Akte B.S. - geboorteakte";
+
+/* (No Comment) */
+"SourceTemplate_VitalRecord_DeathCertificate" = "Akte B.S. - Overlijdensakte";
+
+/* (No Comment) */
+"SourceTemplate_VitalRecord_DivorceCertificate" = "Akte B.S. - scheidingsakte";
+
+/* (No Comment) */
+"SourceTemplate_VitalRecord_MarriageLicense" = "Akte B.S. - huwelijksakte";
+
+/* (No Comment) */
+"SourceTemplate_WebSite" = "Website";
+
+/* (No Comment) */
+"SourceTemplate_Will" = "Testament";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationBracketMode_AngleBrackets" = "Vierkante haakjes";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationBracketMode_Brackets" = "Ronde haakjes";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationBracketMode_CurlyBrackets" = "Krul haakjes";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationBracketMode_DoubleQuotes" = "Dubbele aanhalingstekens";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationBracketMode_None" = "Geen";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationBracketMode_SingleQuotes" = "Enkele aanhalingstekens";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationFontMode_Bold" = "Vet";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationFontMode_Italic" = "Schuin";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationFontMode_Normal" = "Normaal";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationMode_Long" = "Stijl lang citaat";
+
+/* SourceTemplateKeyRelation - Enums */
+"SourceTemplateKeyRelation_CitationMode_Short" = "Stijl kort citaat";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationTrailingMode_Colon" = "Dubbelpunt";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationTrailingMode_Comma" = "Komma";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationTrailingMode_Hyphen" = "Koppelteken";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationTrailingMode_Period" = "Punt";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationTrailingMode_Semicolon" = "Puntkomma";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationTrailingMode_Space" = "Spatie";
+

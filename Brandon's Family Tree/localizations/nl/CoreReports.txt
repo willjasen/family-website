@@ -1,0 +1,1428 @@
+﻿/* (No Comment) */
+"_ReportCSVWriterConfiguration_CSVGroup" = "Groep";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_CSVSection" = "Sectie";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_ExportHeaders" = "CSV-headers exporteren";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_ExportHeadersExplanation" = "Als u kopinformatie wenst in te sluiten in uw CSV-bestand, kies deze optie. Kopinformatie maakt het makkelijker om informatie aan te wijzen in het resulterend CSV-bestand.";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_NewLineCharacter" = "Nieuw lijnteken";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_NewLineCharacter_CR" = "CR Character (Classic Mac OS)";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_NewLineCharacter_CRLF" = "CRLF Character (Windows)";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_NewLineCharacter_LF" = "LF karakter(Modern macOS, Unix)";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_NewLineCharacterExplanation" = "Kies welk karakter gebruikt moet worden om een nieuwe lijn aan te duiden. De meeste moderne apps gebruiken eender welke optie. Enkel oudere systemen vereisen een specifieke instelling.";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_Separator_Comma" = "Komma (,)";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_Separator_Semicolon" = "puntkomma (;)";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_SeparatorPopupButtonTitle" = "CSV scheidingsteken";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_SeparatorPopupButtonTitleExplanation" = "Bepaal het scheidingsteken voor items in het CSV-bestand. De meeste apps gebruiken de komma als scheidingsteken";
+
+/* CSVWriter */
+"_ReportCSVWriterConfiguration_Title" = "CSV-uitvoer";
+
+/* (No Comment) */
+"_ReportError_NoDataFoundToExportAsCSV" = "Geen data gevonden in dit rapport dat als CSV-bestand kan geëxporteerd worden";
+
+/* (No Comment) */
+"_ReportError_NoDistinctivePersonsFoundError" = "Geen kenmerkende personen gevonden in uw kwartierstaat";
+
+/* (No Comment) */
+"_ReportError_NoFamiliesFoundMatchingTheSelectedCriteria" = "Geen families gevonden met geselecteerde criteria.";
+
+/* (No Comment) */
+"_ReportError_NoFamilyFoundInFamilyTreeError" = "Nog geen families ingevoerd in deze kwartierstaat. Gebruik de sectie 'Bewerken' om personen en families in te voeren om ze te tonen in dit rapport.";
+
+/* Errors */
+"_ReportError_NoPersonFoundInFamilyTreeError" = "Nog geen personen ingevoerd in deze kwartierstaat. Gebruik de sectie 'Bewerken' om personen en families in te voeren om ze te tonen in dit rapport.";
+
+/* (No Comment) */
+"_ReportError_NoPersonsFoundMatchingTheSelectedCriteria" = "Geen personen gevonden met geselecteerde criteria.";
+
+/* (No Comment) */
+"_ReportError_NoPlaceFoundInFamilyTreeError" = "Er werden nog geen gebeurtenissen ingevoerd in deze kwartierstaat. Gebruik de sectie 'bewerken' om plaatsen voor persoons- en familiegebeurtenissen in te voeren om dit rapport te kunnen tonen.";
+
+/* (No Comment) */
+"_ReportError_NoPlacesFoundMatchingTheSelectedCriteria" = "Geen plaatsen gevonden met geselecteerde criteria.";
+
+/* (No Comment) */
+"_ReportError_NoPlacesWithCoordinatesFoundForPersonError" = "Geen plaatsen met coördinaten gevonden voor gekozen invoer. Voeg geografische coördinaten toe aan plaatsen in de sectie 'Bewerken' om dit rapport te tonen.";
+
+/* (No Comment) */
+"_ReportError_NoPlausibilityAnalyzerResultsFound" = "Geen waarschijnlijkheidswaarschuwingen gevonden.";
+
+/* (No Comment) */
+"_ReportError_NoSelectedFamilySetError" = "Geen familie geselecteerd voor dit rapport.";
+
+/* (No Comment) */
+"_ReportError_NoSelectedPersonSetError" = "Geen persoon geselecteerd voor dit rapport.";
+
+/* (No Comment) */
+"_ReportError_NoSelectedStorySetError" = "Geen verhaal geselecteerd voor dit rapport.";
+
+/* (No Comment) */
+"_ReportError_NoSourceFoundInFamilyTreeError" = "Nog geen bronnen ingevoerd in deze kwartierstaat. Gebruik de sectie 'Bewerken' om bronnen in te voeren om dit rapport te kunnen tonen.";
+
+/* (No Comment) */
+"_ReportError_NoSourcesFoundMatchingTheSelectedCriteria" = "Geen bronnen gevonden met geselecteerde criteria.";
+
+/* (No Comment) */
+"_ReportError_NoStoryFoundInFamilyTreeError" = "Nog geen verhalen ingevoerd in deze kwartierstaat. Gebruik de sectie \"Bewerken\" kom verhalen in te voeren en te tonen in dit rapport.";
+
+/* (No Comment) */
+"_ReportError_NotEnoughDataPresentError" = "Onvoldoende gegevens in kwartierstaat om dit rapport te tonen";
+
+/* (No Comment) */
+"_ReportError_NoToDoFoundInFamilyTreeError" = "Nog geen taken ingevoerd in deze kwartierstaat. Gebruik de sectie 'Bewerken' om taken in te voeren om dit rapport te kunnen tonen.";
+
+/* (No Comment) */
+"_ReportError_NoToDosFoundMatchingTheSelectedCriteria" = "Geen taken gevonden met geselecteerde criteria.";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_ChapterColor" = "Kleur tekst hoofdstuk";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_ChapterColorMode" = "Modus kleur tekst hoofdstuk";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Opacity" = "Opaciteit";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_PageNumberColor" = "Kleur tekst bladzijde";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_PageNumberColorMode" = "Modus kleur tekst bladzijde";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_PageSetupButton" = "Pagina-instelling...";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Scaling" = "Schaling";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_SectionColor" = "Kleur tekst sectie";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_SectionColorMode" = "Modus kleur tekst sectie";
+
+/* Page Background Renderer */
+"_ReportPageBackgroundRendererConfiguration_Style" = "Stijl achtergrond";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_BottomBar" = "Benedenbalk";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_BottomGradient" = "Verloop beneden";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_BottomLine" = "Lijn beneden";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_BottomPageNumberRect" = "Paginanummer rechthoek beneden";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_InlineOuterBar" = "Inline buitenbalk";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_InlineTopBar" = "Inline bovenbalk";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_InnerBar" = "Binnenbalk";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_InnerBlocksBar" = "Balk met blokken binnen";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_None" = "Geen";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_OnlyBackground" = "Enkel achtergrondkleur";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_OuterAndInnerBar" = "Buiten- en binnenbalk";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_OuterAndInnerBlocksBar" = "Balk met blokken binnen en buiten";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_OuterBar" = "Buitenbalk";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_OuterBlocksBar" = "Balk met blokken buiten";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_Rectangle" = "Rechthoek";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_RoundInlineTopBar" = "Ronde inline bovenbalk";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_RoundRectangle" = "Afgeronde rechthoek";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_ThickRectangle" = "Dikke rechthoek";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_ThickRoundRectangle" = "Dikke, afgeronde rechthoek";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_TopBar" = "Bovenbalk";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_TopBottomBar" = "Boven- en benedenbalk";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_TopBottomGradient" = "Verloop boven en onder";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_TopBottomLine" = "Lijn boven en onder";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_TopGradient" = "Verloop boven";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_TopLine" = "Lijn boven";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_XAtTop" = "X-teken bovenaan";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_TextColorMode_ContrastToBackground" = "Contrast met achtergrond";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_TextColorMode_Custom" = "Eigen";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_Fill" = "Pagina vullen";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitBottomCenter" = "Onderaan midden";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitBottomLeft" = "Onderaan links";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitBottomRight" = "Onderaan rechts";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitCenterCenter" = "Volledig gecentreerd";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitCenterLeft" = "Midden links";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitCenterRight" = "Midden rechts";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitFill" = "Bladzijde vullen met ver";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitTopCenter" = "Bovenaan midden";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitTopLeft" = "Bovenaan links";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitTopRight" = "Bovenaan rechts";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_WatermarkFloatsAboveContentTitle" = "Watermerk boven inhoud plaatsen";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_WatermarkImage" = "Watermerk";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_WatermarkInsettedByPageMargins" = "Plaats watermerk in marges";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_WatermarkPlacement" = "Plaatsing";
+
+/* (No Comment) */
+"_Reports_AhnentafelReport_GenerationNumber" = "%d. generatie";
+
+/* (No Comment) */
+"_Reports_AhnentafelReport_Generations" = "Generaties";
+
+/* (No Comment) */
+"_Reports_AhnentafelReport_List_Header_Kekule" = "Kekulé";
+
+/* (No Comment) */
+"_Reports_AhnentafelReport_List_Header_Narrative" = "Verhalend rapport";
+
+/* (No Comment) */
+"_Reports_AhnentafelReport_List_Header_Person" = "Persoon";
+
+/* AhnentafelReport */
+"_Reports_AhnentafelReport_Title" = "Stamboomrapport";
+
+/* (No Comment) */
+"_Reports_BackgroundColor" = "Achtergrondkleur";
+
+/* (No Comment) */
+"_Reports_BarsColor" = "Kleur balken";
+
+/* (No Comment) */
+"_Reports_BaseColorsGroupName" = "Basiskleuren";
+
+/* (No Comment) */
+"_Reports_BaseFontsGroupName" = "Basislettertypen";
+
+/* (No Comment) */
+"_Reports_BaseStyler_Abbreviation_For_Female" = "(v)";
+
+/* (No Comment) */
+"_Reports_BaseStyler_Abbreviation_For_Intersex" = "(i)";
+
+/* Gender Abbreviations */
+"_Reports_BaseStyler_Abbreviation_For_Male" = "(m)";
+
+/* (No Comment) */
+"_Reports_BaseStyler_Abbreviation_For_Unknown" = "(-)";
+
+/* (No Comment) */
+"_Reports_CapitalizeSectionTitles" = "Kapitaliseer sectietitels";
+
+/* (No Comment) */
+"_Reports_ChapterFont" = "Lettertype Hoofdstuk";
+
+/* (No Comment) */
+"_Reports_Citations_CitationsMode" = "Citaat modus";
+
+/* (No Comment) */
+"_Reports_Citations_DisplayPictures" = "Afbeeldingen";
+
+/* (No Comment) */
+"_Reports_Citations_DisplayReferences" = "Invoer met referentie";
+
+/* (No Comment) */
+"_Reports_Citations_DisplaySourceCitationNotes" = "Source Citation Notes";
+
+/* (No Comment) */
+"_Reports_Citations_DisplaySourceNotes" = "Source Notes";
+
+/* (No Comment) */
+"_Reports_Citations_DisplaySourceRepository" = "Archiefbron";
+
+/* (No Comment) */
+"_Reports_Citations_DisplayText" = "Tekst";
+
+/* (No Comment) */
+"_Reports_Citations_SourcePicturesSize" = "Grootte afbeeldingen";
+
+/* (No Comment) */
+"_Reports_Citations_SourcePicturesSize_FullAvailableWidth" = "Groot";
+
+/* (No Comment) */
+"_Reports_Citations_SourcePicturesSize_LargeThumbnail" = "Medium";
+
+/* (No Comment) */
+"_Reports_Citations_SourcePicturesSize_Thumbnail" = "Klein";
+
+/* (No Comment) */
+"_Reports_CitationsMajorGroupName" = "Citaten";
+
+/* (No Comment) */
+"_Reports_CleanBookStyle" = "Eenvoudig boek";
+
+/* (No Comment) */
+"_Reports_CleanTablesStyle" = "Wis tabel";
+
+/* (No Comment) */
+"_Reports_CleanTextStyle" = "Wis tekst";
+
+/* (No Comment) */
+"_Reports_ColorsMajorGroupName" = "Kleuren";
+
+/* (No Comment) */
+"_Reports_ColumnsMajorGroupName" = "Kolommen";
+
+/* Sources */
+"_Reports_Common_Citations_Section_Title" = "Citaten";
+
+/* Common */
+"_Reports_CustomReportTitle" = "Eigen rapporttitel";
+
+/* (No Comment) */
+"_Reports_DateFormatMinorGroupName" = "Datumformaat";
+
+/* (No Comment) */
+"_Reports_DateFormatStyle" = "Datumformaat stijl";
+
+/* (No Comment) */
+"_Reports_DateFormatStyleExplanation" = "Bepaal hier welke stijl datumformaat te gebruiken bij";
+
+/* (No Comment) */
+"_Reports_DateOptionsGroupName" = "Datums";
+
+/* (No Comment) */
+"_Reports_DefaultHighlightColor" = "Standaard accentkleur";
+
+/* (No Comment) */
+"_Reports_DefaultHighlightColor_Explanation" = "Bepaal het standaard markeringskleur. U kan aparte markeringskleuren instellen per hoofdstuk, in de hoofdstukconfiguratie.";
+
+/* (No Comment) */
+"_Reports_DescendancyReport_ChildNumber_Header" = "Kind";
+
+/* DescendancyReport */
+"_Reports_DescendancyReport_DescendantsSectionTitleWithGenerationNumber" = "%d. generatie";
+
+/* (No Comment) */
+"_Reports_DescendancyReport_Marriage_Header" = "Huwelijk";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_AddedCell_PlaceholderText" = "Tekst";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeBackgroundColor" = "Achtergrond cel";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeBottomBorderColor" = "Bodemkleur cel";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeBottomBorderWidth" = "Bodemrand cel";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeLeftBorderColor" = "Linker kleur cel";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeLeftBorderWidth" = "Linker boord cel";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeRightBorderColor" = "Rechter kleur cel";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeRightBorderWidth" = "Rechter boord cel";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeTopBorderColor" = "Top kleur cel";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeTopBorderWidth" = "Top rand cel";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_ContentFrameSize_Height" = "Hoogte";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_ContentFrameSize_Width" = "Breedte";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_LayoutCellNode_EndPosition" = "Eindpositie";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_LayoutCellNode_StartPosition" = "Beginpositie";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_LayoutNode_DrawGridLines" = "Toon lay-out rooster";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_BaseNode" = "Node";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_Cell" = "Cel";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_Flow" = "Groep";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_Image" = "Afbeelding";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_Layout" = "Lijst";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_PDF" = "PDF";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_Section" = "Sectie";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_Table" = "Tabel";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_Text" = "Tekst";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Background" = "Achtergrond";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Border" = "Rand";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_CellOptions" = "Opties cel";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Fonts" = "Lettertypes";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Layout" = "Layout";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Margin" = "Marge";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Options" = "Opties";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Padding" = "Vulling";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Size" = "Grootte";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeBackgroundColor" = "Achtergrondkleur";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeBorderColor" = "Kleur rand";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeBorderRadius" = "Randstraal";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeBottomBorderWidth" = "Onderaan";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeBottomMarginWidth" = "Onderaan";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeBottomPaddingWidth" = "Onderaan";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeHorizontalAlign" = "Horizontale uitlijning";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeHorizontalAlign_Bottom" = "Rechts";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeHorizontalAlign_Middle" = "Midden";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeHorizontalAlign_Top" = "Links";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeLeftBorderWidth" = "Links";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeLeftMarginWidth" = "Links";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeLeftPaddingWidth" = "Links";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeRightBorderWidth" = "Rechts";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeRightMarginWidth" = "Rechts";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeRightPaddingWidth" = "Rechts";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeTopBorderWidth" = "Bovenaan";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeTopMarginWidth" = "Bovenaan";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeTopPaddingWidth" = "Bovenaan";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeVerticalAlign" = "Verticale uitlijning";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeVerticalAlign_Bottom" = "Onderaan";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeVerticalAlign_Middle" = "Midden";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeVerticalAlign_Top" = "Bovenaan";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageFlowAreaIdentifier_AnyColumn" = "Iedere kolom";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageFlowAreaIdentifier_LeftColumn" = "Linker kolom";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageFlowAreaIdentifier_OneColumn" = "Hoofd kolom";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageFlowAreaIdentifier_RightColumn" = "Rechter kolom";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageFlowAreaIdentifier_Title" = "Kolom";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageOrder_Any" = "Elke volgorde";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageOrder_EvenPage" = "Even pagina";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageOrder_OddPage" = "Oneven pagina";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageOrder_Title" = "Paginavolgorde";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageType_Any" = "Elke pagina";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageType_EmptyPage" = "Lege pagina";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageType_OneColumn" = "Pagina met één kolom";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageType_SmallLeftColumnBigRightColumn" = "Pagina met links kleine en rechts grote kolom";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageType_Title" = "Paginatype";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageType_TwoColumn" = "Pagina met twee kolommen";
+
+/* Edit Configurations */
+"_Reports_Editor_Configurations_PleaseSelectObjectsToEditPlaceholder" = "Selecteer tekst of andere elementen in het rapport links om kleuren, tekst en groottes te bewerken";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_SelectedObjectsOfDifferentTypePlaceholder" = "U selecteerde meerdere objecten van verschillende aard";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_Table_DrawGridLines" = "Toon tabelrooster";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_Table_RepeatHeadersOnEachPage" = "Koppen herhalen";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_TableAlternateRowBackgroundColor" = "Wisselende rijkleur";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_TableRowBackgroundColor" = "Rijkleur";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_TextColor" = "Tekstkleur";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_TextFont" = "Lettertype tekst";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WantsNewLayoutPageArea" = "Begin op deel van nieuwe pagina";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WantsNewLine" = "Start na regeleinde";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WantsNewPage" = "Start op nieuwe pagina";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WantsSameLine" = "Splitsen vermijden";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WantsToStickToPreviousObject" = "Blijf bij vorig project";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_Full" = "Volledige breedte";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_Full_ForScaleableNodes" = "Volledige breedte";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_Needed" = "Passende breedte";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_Needed_ForScaleableNodes" = "Vaste breedte";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_Predefined" = "Breedte factor";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_Predefined_ForScaleableNodes" = "Breedte factor en vaste hoogte";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_PredefinedWidthFactor" = "Breedte factor";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_Title" = "Breedte modus";
+
+/* (No Comment) */
+"_Reports_EmphasizedFont" = "Benadrukt lettertype";
+
+/* (No Comment) */
+"_Reports_EmphasizedFontColor" = "Benadrukte tekstkleur";
+
+/* (No Comment) */
+"_Reports_EnabledSourceTemplateKeyIdentifiers" = "Te tonen bronvelden";
+
+/* (No Comment) */
+"_Reports_EventsMajorGroupName" = "Gebeurtenissen";
+
+/* FactsListReport */
+"_Reports_FactsListReport_TotalFactsCountKey" = "Totaal feiten";
+
+/* (No Comment) */
+"_Reports_FontsMajorGroupName" = "Lettertypes";
+
+/* Major Groups */
+"_Reports_GeneralMajorGroupName" = "Algemeen";
+
+/* (No Comment) */
+"_Reports_GridTablesStyle" = "Eenvoudige tabel";
+
+/* Fonts */
+"_Reports_HeaderFont" = "Lettertype titel";
+
+/* Colors */
+"_Reports_HeaderFontColor" = "Kleur koptekst";
+
+/* Private Information */
+"_Reports_HidePrivateInformation" = "Verberg informatie gemarkeerd als 'privaat'";
+
+/* (No Comment) */
+"_Reports_HidePrivateInformationExplanation" = "Elke informatie gemarkeerd als privaat in de modus 'Bewerken' wordt verborgen als u deze optie aanvinkt.";
+
+/* (No Comment) */
+"_Reports_InformationColumnsMinorGroupName" = "Informatie kolommen";
+
+/* (No Comment) */
+"_Reports_InformationGroupName" = "Informatie";
+
+/* (No Comment) */
+"_Reports_KeyFont" = "Lettertype toetsen";
+
+/* (No Comment) */
+"_Reports_KeyFontColor" = "Kleur tekst toetsen";
+
+/* (No Comment) */
+"_Reports_LeftTitleStyle" = "Linker titel";
+
+/* (No Comment) */
+"_Reports_List_DrawGridLines" = "Toon tabelrooster";
+
+/* (No Comment) */
+"_Reports_List_HeaderBirthDate" = "Geboortedatum";
+
+/* (No Comment) */
+"_Reports_List_HeaderBirthPlace" = "Geboorteplaats";
+
+/* (No Comment) */
+"_Reports_List_HeaderDeathDate" = "Overlijdensdatum";
+
+/* (No Comment) */
+"_Reports_List_HeaderDeathPlace" = "Overlijdensplaats";
+
+/* (No Comment) */
+"_Reports_List_RepeatHeaderOnEachPage" = "Herhaal koppen op nieuwe pagina's";
+
+/* (No Comment) */
+"_Reports_List_RepeatHeaderOnEachPageExplanation" = "Indien actief, wordt de kop van een tabel herhaald als de tabel meer dan één bladzijde beslaat";
+
+/* (No Comment) */
+"_Reports_ListCellFont" = "Lijst lettertype cel";
+
+/* (No Comment) */
+"_Reports_ListHeaderFont" = "Lijst lettertype kop";
+
+/* (No Comment) */
+"_Reports_ListHeaderFontColor" = "Kleur koptekst";
+
+/* (No Comment) */
+"_Reports_ListKeyFont" = "Lijst lettertype sleutel";
+
+/* (No Comment) */
+"_Reports_ListMode" = "Lijst modus";
+
+/* (No Comment) */
+"_Reports_ListMode_BookSetting" = "Gebruik boekinstelling";
+
+/* (No Comment) */
+"_Reports_ListMode_DefaultFromStyler" = "Standaard van thema";
+
+/* (No Comment) */
+"_Reports_ListMode_PrefersList" = "Toon als lijst";
+
+/* (No Comment) */
+"_Reports_ListMode_PrefersTable" = "Toon als tabel";
+
+/* (No Comment) */
+"_Reports_ListsColorGroupName" = "Lijstkleuren";
+
+/* Lists */
+"_Reports_ListSectionFont" = "Lijst lettertype sectie";
+
+/* (No Comment) */
+"_Reports_ListSectionFontColor" = "Kleur sectietekst";
+
+/* (No Comment) */
+"_Reports_ListsFontGroupName" = "Lijsten";
+
+/* (No Comment) */
+"_Reports_ListsOptionsGroupName" = "Lijsten";
+
+/* Localization */
+"_Reports_Localization" = "Localisatie";
+
+/* (No Comment) */
+"_Reports_LocalizationExplanation" = "Kies de te gebruiken localisatie in dit rapport. Alle informatie in dit rapport wordt gelokaliseerd in de opgegeven taal";
+
+/* (No Comment) */
+"_Reports_LocalizationMajorGroupName" = "Localisatie";
+
+/* (No Comment) */
+"_Reports_MainFont" = "Hooflettertype";
+
+/* (No Comment) */
+"_Reports_MainFontColor" = "Kleur hoofdtekst";
+
+/* (No Comment) */
+"_Reports_MarriageList_OnlyShowFamiliesWithMarriageEvent" = "Toon enkel personen met een huwelijksgebeurtenis";
+
+/* (No Comment) */
+"_Reports_MarriageList_ShowBirthDateForPersons" = "Toon geboortedatum voor personen";
+
+/* (No Comment) */
+"_Reports_MarriageList_ShowMarriageDateAsAdditionalInformation" = "Toon huwelijksdatum ingesprongen";
+
+/* (No Comment) */
+"_Reports_MarriageList_ShowMarriagePlaceAsAdditionalInformation" = "Toon huwelijksplaats ingesprongen";
+
+/* MarriageList */
+"_Reports_MarriageList_Sort_By_FamilyName" = "Op familienaam";
+
+/* (No Comment) */
+"_Reports_MarriageList_Sort_By_ManName" = "Op naam man";
+
+/* (No Comment) */
+"_Reports_MarriageList_Sort_By_MarriageDate" = "Op huwelijksdatum";
+
+/* (No Comment) */
+"_Reports_MarriageList_Sort_By_MarriageLocation" = "Op huweljksplaats";
+
+/* (No Comment) */
+"_Reports_MarriageList_Sort_By_WomanName" = "Op naam vrouw";
+
+/* MediaGalleryReport */
+"_Reports_MediaGalleryReport_GroupingMode" = "Groepering media";
+
+/* (No Comment) */
+"_Reports_MediaGalleryReport_GroupingMode_ByDecade" = "Groepeer per decade";
+
+/* (No Comment) */
+"_Reports_MediaGalleryReport_GroupingMode_ByLabel" = "Groepeer per label";
+
+/* (No Comment) */
+"_Reports_MediaGalleryReport_GroupingMode_BySelectedObject" = "Groepeer op toegewezen invoer";
+
+/* (No Comment) */
+"_Reports_MediaGalleryReport_GroupingMode_None" = "Geen groepering";
+
+/* (No Comment) */
+"_Reports_MediaGalleryReport_SortingMode" = "Sorteren";
+
+/* (No Comment) */
+"_Reports_MediaGalleryReport_SortingMode_ByDate" = "Op datum";
+
+/* (No Comment) */
+"_Reports_MediaGalleryReport_SortingMode_ByTitle" = "Op titel";
+
+/* (No Comment) */
+"_Reports_MediaSection_FamilyMainSubsectionKey" = "Media toegewezen aan familie";
+
+/* (No Comment) */
+"_Reports_MediaSection_MediaFromFamiliesSubsectionKey" = "Media toegewezen aan families";
+
+/* (No Comment) */
+"_Reports_MediaSection_MediaFromFamilyEventsSubsectionKey" = "Media toegewezen aan familiegebeurtenissen";
+
+/* (No Comment) */
+"_Reports_MediaSection_MediaFromManSubsectionKey" = "Media toegewezen aan Partner 1";
+
+/* (No Comment) */
+"_Reports_MediaSection_MediaFromPersonEventsSubsectionKey" = "Media toegewezen aan persoonsgebeurtenissen";
+
+/* (No Comment) */
+"_Reports_MediaSection_MediaFromWomanSubsectionKey" = "Media toegewezen aan Partner 2";
+
+/* (No Comment) */
+"_Reports_MediaSection_PersonMainSubsectionKey" = "Media toegewezen aan persoon";
+
+/* (No Comment) */
+"_Reports_MediaSize_FullSize" = "Volledige grootte";
+
+/* (No Comment) */
+"_Reports_MediaSize_LargeThumbnail" = "Grote miniatuurafbeelding";
+
+/* (No Comment) */
+"_Reports_MediaSize_Thumbnail" = "Miniatuurafbeelding";
+
+/* (No Comment) */
+"_Reports_MediaSize_Title" = "Mediagrootte";
+
+/* (No Comment) */
+"_Reports_MirrorPageMarginsAndBackgroundOnOddPages" = "Spiegel marges en achtergrond op oneven bladzijden";
+
+/* (No Comment) */
+"_Reports_MirrorPageMarginsAndBackgroundOnOddPagesExplanation" = "Indien aangevinkt, worden de linker en rechter marges gespiegeld op de oneven pagina's en wordt de achtergrond overeenkomstig aangepast. Handig bij het maken van rapporten voor boeken.";
+
+/* (No Comment) */
+"_Reports_ModernBarsLightTextStyle" = "Lichte moderne balken";
+
+/* (No Comment) */
+"_Reports_ModernBarsTextStyle" = "Moderne balken";
+
+/* (No Comment) */
+"_Reports_OtherFontColorsGroupName" = "Andere";
+
+/* (No Comment) */
+"_Reports_OtherFontsGroupName" = "Andere";
+
+/* (No Comment) */
+"_Reports_PageBottomMargin" = "Onderste marge";
+
+/* (No Comment) */
+"_Reports_PageFontsMinorGroupName" = "Lettertypes";
+
+/* Page Margins */
+"_Reports_PageLeftMargin" = "Linker marge";
+
+/* (No Comment) */
+"_Reports_PageMarginsMajorGroupName" = "Marges";
+
+/* (No Comment) */
+"_Reports_PageMarginsMinorGroupName" = "Marges";
+
+/* (No Comment) */
+"_Reports_PageNumberFont" = "Lettertype paginanummer";
+
+/* (No Comment) */
+"_Reports_PageRightMargin" = "Rechter marge";
+
+/* (No Comment) */
+"_Reports_PageStyleMajorGroupName" = "Paginastijl";
+
+/* (No Comment) */
+"_Reports_PageTextColorsMinorGroupName" = "Tekstkleuren";
+
+/* (No Comment) */
+"_Reports_PageTopMargin" = "Bovenste marge";
+
+/* (No Comment) */
+"_Reports_PageWatermarkMajorGroupName" = "Watermerk";
+
+/* (No Comment) */
+"_Reports_Person_NotSet" = "Persoon niet ingesteld";
+
+/* (No Comment) */
+"_Reports_PersonItem_PictureSize" = "Persoonsafbeeldingen";
+
+/* (No Comment) */
+"_Reports_PersonItem_PictureSize_Large" = "Toon grote persoonsafbeeldingen";
+
+/* (No Comment) */
+"_Reports_PersonItem_PictureSize_Medium" = "Toon medium persoonsafbeeldingen";
+
+/* (No Comment) */
+"_Reports_PersonItem_PictureSize_None" = "Geen persoonsafbeeldingen tonen";
+
+/* (No Comment) */
+"_Reports_PersonItem_PictureSize_Small" = "Toon kleine persoonsafbeeldingen";
+
+/* Pictures */
+"_Reports_PersonPicturesSize" = "Persoonsafbeeldingen";
+
+/* (No Comment) */
+"_Reports_PersonPicturesSize_Large" = "Groot";
+
+/* (No Comment) */
+"_Reports_PersonPicturesSize_Medium" = "Medium";
+
+/* (No Comment) */
+"_Reports_PersonPicturesSize_None" = "Geen";
+
+/* (No Comment) */
+"_Reports_PersonPicturesSize_Small" = "Klein";
+
+/* (No Comment) */
+"_Reports_PersonReport_Ancestors_Section_Title" = "Voorouders";
+
+/* (No Comment) */
+"_Reports_PersonReport_AncestorsDepth" = "Voorouder generaties";
+
+/* (No Comment) */
+"_Reports_PersonReport_AncestorsOrDescendants_Generation_Header" = "Generatie";
+
+/* (No Comment) */
+"_Reports_PersonReport_Associates_PersonOrFamily_Header" = "Persoon of familie";
+
+/* (No Comment) */
+"_Reports_PersonReport_BornOnKey" = "Geboren op";
+
+/* (No Comment) */
+"_Reports_PersonReport_BornOrDiedInKey" = "in";
+
+/* (No Comment) */
+"_Reports_PersonReport_BrothersAndSisters" = "Broers & Zusters";
+
+/* (No Comment) */
+"_Reports_PersonReport_Descendants_Section_Title" = "Afstammelingen";
+
+/* (No Comment) */
+"_Reports_PersonReport_DescendantsDepth" = "Afstammelingen generaties";
+
+/* (No Comment) */
+"_Reports_PersonReport_DiedOnKey" = "Overleden op";
+
+/* (No Comment) */
+"_Reports_PersonReport_Event_Date" = "Datum";
+
+/* (No Comment) */
+"_Reports_PersonReport_Event_Place" = "Plaats";
+
+/* (No Comment) */
+"_Reports_PersonReport_Event_Type" = "Type";
+
+/* (No Comment) */
+"_Reports_PersonReport_Events_Section_Title" = "Gebeurtenissen";
+
+/* (No Comment) */
+"_Reports_PersonReport_Facts_FactDescription_Header" = "Omschrijving";
+
+/* (No Comment) */
+"_Reports_PersonReport_Facts_FactType_Header" = "Type";
+
+/* (No Comment) */
+"_Reports_PersonReport_Facts_Section_Title" = "Feiten";
+
+/* (No Comment) */
+"_Reports_PersonReport_HourglassChart_Section_Title" = "Zandloper tabel";
+
+/* (No Comment) */
+"_Reports_PersonReport_IDs_AncestralFileNumberIDKey" = "Ancestral File nummer";
+
+/* (No Comment) */
+"_Reports_PersonReport_IDs_FamilySearchIDKey" = "FamilySearch ID";
+
+/* (No Comment) */
+"_Reports_PersonReport_IDs_GedcomIDKey" = "GEDCOM-ID";
+
+/* (No Comment) */
+"_Reports_PersonReport_IDs_ReferenceNumberKey" = "Referentienummer";
+
+/* (No Comment) */
+"_Reports_PersonReport_Kinship_Section_Title" = "Verwantschap";
+
+/* (No Comment) */
+"_Reports_PersonReport_KinshipDepth" = "Verwantschap generaties";
+
+/* (No Comment) */
+"_Reports_PersonReport_NameDetails_Section_Title" = "Details naam";
+
+/* (No Comment) */
+"_Reports_PersonReport_NarrativeReport_Section_Title" = "Verhalend rapport";
+
+/* (No Comment) */
+"_Reports_PersonReport_OccupationKey" = "Beroep";
+
+/* (No Comment) */
+"_Reports_PersonReport_Parents_Section_Title" = "Ouders";
+
+/* (No Comment) */
+"_Reports_PersonReport_Partners_Section_Title" = "Partners";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowAncestors" = "Voorouders";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowDescendants" = "Afstammelingen";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowEvents" = "Gebeurtenissen";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowHourglassChart" = "Zandlopergrafiek";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowKinship" = "Verwantschap";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowNameDetails" = "Details naam";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowParents" = "Ouders";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowPartners" = "Partners";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowSources" = "Bronnen";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowWorldHistory" = "Wereldgeschiedenis";
+
+/* PersonReport */
+"_Reports_PersonReport_Title" = "Persoonsrapport";
+
+/* (No Comment) */
+"_Reports_PersonReport_WorldHistory_Category_Header" = "Categorie";
+
+/* (No Comment) */
+"_Reports_PersonReport_WorldHistory_Section_Title" = "Wereldgeschiedenis";
+
+/* (No Comment) */
+"_Reports_PicturesOptionsGroupName" = "Afbeeldingen";
+
+/* (No Comment) */
+"_Reports_PlaceFormat_Normal" = "Normale plaatsnaam";
+
+/* (No Comment) */
+"_Reports_PlaceFormat_Short" = "Korte plaatsnaam";
+
+/* (No Comment) */
+"_Reports_PlaceFormat_VeryShort" = "Zeer korte plaatsnaam";
+
+/* (No Comment) */
+"_Reports_PlaceFormatMinorGroupName" = "Formaat plaats";
+
+/* Place Format */
+"_Reports_PlaceFormatStyle" = "Formaat plaats";
+
+/* (No Comment) */
+"_Reports_PlaceFormatStyleExplanation" = "Stel hier in als de volledige plaatsnaam of enkel een afkorting moet getoond worden.";
+
+/* (No Comment) */
+"_Reports_PlainTextStyle" = "Platte tekst";
+
+/* (No Comment) */
+"_Reports_PrimaryFont" = "Hooflettertype";
+
+/* (No Comment) */
+"_Reports_ReformatDatesToSelectedLocale" = "Datums opnieuw formateren";
+
+/* (No Comment) */
+"_Reports_ReformatDatesToSelectedLocaleExplanation" = "Indien aangevinkt worden alle datums opnieuw ingesteld overeenkomstig de opgegeven lokalisatie";
+
+/* RegisterReport */
+"_Reports_RegisterReport_DescendantsSectionTitleWithGenerationNumber" = "%d e generatie";
+
+/* (No Comment) */
+"_Reports_Report_Associates_Section_Title" = "Invloedrijke personen en families";
+
+/* (No Comment) */
+"_Reports_Report_Media_Section_Title" = "Media";
+
+/* (No Comment) */
+"_Reports_Report_Notes_Section_Family_Note_Key" = "Familienotitie";
+
+/* (No Comment) */
+"_Reports_Report_Notes_Section_Note_Key" = "Notitie";
+
+/* (No Comment) */
+"_Reports_Report_Notes_Section_Person_Note_Key" = "Persoonsnotitie";
+
+/* (No Comment) */
+"_Reports_Report_Notes_Section_Title" = "Notities";
+
+/* (No Comment) */
+"_Reports_Report_Overview_Section_Title" = "Overzicht";
+
+/* (No Comment) */
+"_Reports_Report_ShowAssociates" = "Invloedrijke personen";
+
+/* (No Comment) */
+"_Reports_Report_ShowFacts" = "Feiten";
+
+/* (No Comment) */
+"_Reports_Report_ShowNotes" = "Notities";
+
+/* (No Comment) */
+"_Reports_Report_ShowOverview" = "Overzicht";
+
+/* (No Comment) */
+"_Reports_Report_ShowUserDescription" = "Omschrijving";
+
+/* (No Comment) */
+"_Reports_ReportBarSectionsTablesStyle" = "Balk sectie";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_AddImageNode" = "Afbeelding toevoegen";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_AddLayoutCell" = "Cel toevoegen";
+
+/* ReportEditorController Edit Operations */
+"_Reports_ReportEditorController_EditOperation_AddNodesPopupButton" = "Toevoegen...";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_AddPDFNode" = "PDF toevoegen...";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_AddRow" = "Rij toevoegen";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_AddTextNode" = "Tekst toevoegen";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_RemoveLayoutCell" = "Cel verwijderen";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_RemoveNode" = "Verwijder";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_RemoveRow" = "Rij verwijderen";
+
+/* (No Comment) */
+"_Reports_ReportForestGreenTablesStyler" = "Bosgroen";
+
+/* (No Comment) */
+"_Reports_ReportFormGridTablesStyle" = "Klassieke vorm";
+
+/* (No Comment) */
+"_Reports_ReportFormTablesStyle" = "Formulier";
+
+/* (No Comment) */
+"_Reports_ReportTypewriterStyler" = "Schrijfmachine";
+
+/* (No Comment) */
+"_Reports_SecondaryFont" = "Secundair lettertype";
+
+/* (No Comment) */
+"_Reports_SecondaryFontColor" = "Secundaire tekstkleur";
+
+/* (No Comment) */
+"_Reports_SectionFont" = "Lettertype sectie";
+
+/* (No Comment) */
+"_Reports_SectionsMinorGroupName" = "Secties";
+
+/* (No Comment) */
+"_Reports_SeparateSectionsCheckbox" = "Aparte secties";
+
+/* (No Comment) */
+"_Reports_SeparateSectionsCheckboxExplanation" = "Indien aangevinkt, worden aparte secties getoond voor de geselecteerde sorteringswijze. Bijvoorbeeld: indien gesorteerd wordt op familienaam, worden alle personen met dezelfde familienaam in dezelfde sectie getoond.";
+
+/* (No Comment) */
+"_Reports_ShowAge" = "Toon leefttijd";
+
+/* Columns */
+"_Reports_ShowBirthDate" = "Toon geboortedatum";
+
+/* (No Comment) */
+"_Reports_ShowBirthPlace" = "Toon geboorteplaats";
+
+/* (No Comment) */
+"_Reports_ShowChapters" = "Toon hoofdstukken";
+
+/* (No Comment) */
+"_Reports_ShowChildren" = "Toon kinderen";
+
+/* Citations */
+"_Reports_ShowCitations" = "Broncitaten";
+
+/* (No Comment) */
+"_Reports_ShowCitationsExplanation" = "Bepaal als een sectie 'citaten' moet toegevoegd aan het rapport.";
+
+/* (No Comment) */
+"_Reports_ShowDeathDate" = "Toon overlijdensdatum";
+
+/* (No Comment) */
+"_Reports_ShowDeathPlace" = "Toon overlijdensplaats";
+
+/* (No Comment) */
+"_Reports_ShowKekule" = "Toon Kekulé";
+
+/* (No Comment) */
+"_Reports_ShowMarriageDate" = "Toon huwelijksdatum";
+
+/* (No Comment) */
+"_Reports_ShowMarriagePlace" = "Toon huwelijksplaats";
+
+/* (No Comment) */
+"_Reports_ShowMedia" = "Media";
+
+/* (No Comment) */
+"_Reports_ShowNarrative" = "Verhalend rapport";
+
+/* Page Numbers, sections */
+"_Reports_ShowPageNumbers" = "Toon paginanummers";
+
+/* (No Comment) */
+"_Reports_ShowParents" = "Toon ouders";
+
+/* (No Comment) */
+"_Reports_ShowPDFs" = "Toon PDF's";
+
+/* (No Comment) */
+"_Reports_ShowPicture" = "Toon afbeelding";
+
+/* (No Comment) */
+"_Reports_ShowPictures" = "Toon afbeeldingen";
+
+/* (No Comment) */
+"_Reports_ShowSections" = "Toon secties";
+
+/* (No Comment) */
+"_Reports_Sort_By_BirthDate" = "Op geboortedatum";
+
+/* (No Comment) */
+"_Reports_Sort_By_BirthPlace" = "Op geboorteplaats";
+
+/* (No Comment) */
+"_Reports_Sort_By_DeathDate" = "Op overlijdensdatum";
+
+/* (No Comment) */
+"_Reports_Sort_By_DeathPlace" = "Op overlijdensplaats";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventDate" = "Op gebeurtenisdatum";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventDescription" = "Op beschrijving";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventTypeAndDate" = "Op gebeurtenistype en datum";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventTypeName" = "Op naam van gebeurtenistype";
+
+/* (No Comment) */
+"_Reports_Sort_By_FirstName" = "Op voornaam";
+
+/* (No Comment) */
+"_Reports_Sort_By_FullName" = "Op volledige naam";
+
+/* (No Comment) */
+"_Reports_Sort_By_LastName" = "Op familienaam";
+
+/* Sorting */
+"_Reports_Sorting" = "Rangschikken";
+
+/* (No Comment) */
+"_Reports_SortingExplanation" = "Bepaal hier de volgorde van de weer te geven invoer in dit rapport";
+
+/* (No Comment) */
+"_Reports_SortingMinorGroupName" = "Rangschikken";
+
+/* (No Comment) */
+"_Reports_SortOrderAscendingCheckbox" = "Rangschik stijgend";
+
+/* (No Comment) */
+"_Reports_SourceInformationGroupName" = "Informatie bron";
+
+/* (No Comment) */
+"_Reports_Sources_Page_Header" = "Pagina";
+
+/* (No Comment) */
+"_Reports_Sources_Section_Title" = "Bronnen";
+
+/* (No Comment) */
+"_Reports_StoryReport_ReferencedEntries_Title" = "Invoer met verwijzing";
+
+/* (No Comment) */
+"_Reports_StoryReport_ReferencedEntriesInSection_Title" = "Invoer met verwijzing in sectie '%@'";
+
+/* (No Comment) */
+"_Reports_StoryReport_Section_Media" = "Media";
+
+/* (No Comment) */
+"_Reports_StoryReport_Section_ReferencedEntries" = "Invoer met verwijzing in sectie";
+
+/* (No Comment) */
+"_Reports_StoryReport_Section_Text" = "Tekst";
+
+/* (No Comment) */
+"_Reports_StoryReport_ShowReferencedEntries" = "Invoer met verwijzing in verhaal";
+
+/* (No Comment) */
+"_Reports_StoryReport_ShowReferencedEntriesInStorySections" = "Invoer met verwijzing in verhalensectie";
+
+/* Story Report */
+"_Reports_StoryReport_UserDescription" = "Omschrijving";
+
+/* (No Comment) */
+"_Reports_StoryReport_WorldHistory_Category_Header" = "Categorie";
+
+/* (No Comment) */
+"_Reports_StoryReport_WorldHistory_Section_Title" = "Wereldgeschiedenis";
+
+/* (No Comment) */
+"_Reports_StyleOptionsMajorGroupName" = "Stijlopties";
+
+/* (No Comment) */
+"_Reports_SubSectionFont" = "Lettertype subsectie";
+
+/* (No Comment) */
+"_Reports_SubSectionFontColor" = "Tekstkleur subsectie";
+
+/* Minor Groups */
+"_Reports_TextGroupName" = "Tekst";
+
+/* Style Names */
+"_Reports_TextStyle" = "Eenvoudige tekst";
+
+/* (No Comment) */
+"_Reports_ThemesMajorGroupName" = "Thema's";
+
+/* (No Comment) */
+"_Reports_ToDoReport_Notes" = "Notities";
+
+/* (No Comment) */
+"_Reports_ToDoReport_Priority" = "Prioriteit";
+
+/* (No Comment) */
+"_Reports_ToDoReport_Status" = "Status";
+
+/* (No Comment) */
+"_Reports_ToDoReport_Text" = "Tekst";
+
+/* ToDoReport */
+"_Reports_ToDoReport_Type" = "Type";
+
+/* (No Comment) */
+"_Reports_TopTitleBarTextStyle" = "Bovenbalk";
+
+/* (No Comment) */
+"_Reports_UseSubsectionsInMediaSection" = "Groepeer media";
+
+/* (No Comment) */
+"_Reports_WorldHistoryMajorGroupName" = "Wereldgeschiedenis";
+
+/* (No Comment) */
+"_ReportViewConfiguration_PageFormatMode" = "Displaymodus pagina";
+
+/* (No Comment) */
+"_ReportViewConfiguration_PageFormatMode_PageFormatThatFitsReportViewBounds" = "Toon rapport zonder pagina's en zo groot mogelijk";
+
+/* (No Comment) */
+"_ReportViewConfiguration_PageFormatMode_UseSpecifiedFormat" = "Toon bladzijden gebruik makend van het ingesteld Paginaformaat";
+
+/* (No Comment) */
+"_ReportViewConfiguration_PageFormatMode_WidthOfSpecifiedFormatButNoPageBreaks" = "Toon pagina's zonder pagina-einde";
+
+/* (No Comment) */
+"_ReportViewConfiguration_PageFormatModeExplanation" = "Bepaal hier hoe het rapport moet getoond worden op uw scherm. Ofwel het rapport tonen op individuele pagina's zoals het op papier zou verschijnen of toon het zo groot mogelijk.";
+
+/* ReportView */
+"_ReportViewConfiguration_PaginationMajorGroupName" = "Paginatie";
+
+/* Sample Report */
+"_SampleReportTitle" = "Voorbeeldrapport";
+

@@ -1,0 +1,60 @@
+﻿/* (No Comment) */
+"_AdditionalName_AdoptiveName" = "Adoptienaam";
+
+/* (No Comment) */
+"_AdditionalName_ArtistsName" = "Artiestennaam";
+
+/* (No Comment) */
+"_AdditionalName_DoubleBarrelledName" = "dubbele naam";
+
+/* (No Comment) */
+"_AdditionalName_FamilyName" = "Familienaam";
+
+/* (No Comment) */
+"_AdditionalName_FormalName" = "Formele naam";
+
+/* AdditionalNameType */
+"_AdditionalName_MaidenName" = "Naam bij geboorte";
+
+/* (No Comment) */
+"_AdditionalName_MarriedName" = "Gehuwde naam";
+
+/* (No Comment) */
+"_AdditionalName_NameVariation" = "Naamsvariatie";
+
+/* (No Comment) */
+"_AdditionalName_Nickname" = "Roepnaam";
+
+/* (No Comment) */
+"_AdditionalName_Other" = "andere naam";
+
+/* (No Comment) */
+"_AdditionalName_Prefix_MaidenName_ForFemale" = "geb.";
+
+/* Prefix */
+"_AdditionalName_Prefix_MaidenName_ForMale" = "geb.";
+
+/* (No Comment) */
+"_AdditionalName_ProfessionalName" = "Professionele naam";
+
+/* (No Comment) */
+"_AdditionalName_ReligiousName" = "Religieuze naam";
+
+/* (No Comment) */
+"_AdditionalName_Title" = "Titel";
+
+/* Configs */
+"_Person_AdditionalNamePreferenceConfiguration_All" = "Alle";
+
+/* (No Comment) */
+"_Person_AdditionalNamePreferenceConfiguration_None" = "Geen";
+
+/* (No Comment) */
+"_Person_AdditionalNamePreferenceConfiguration_OnlyFamilyName" = "Enkel familienaam";
+
+/* (No Comment) */
+"_Person_AdditionalNamePreferenceConfiguration_OnlyMarriedName" = "Enkel gehuwde naam";
+
+/* (No Comment) */
+"_Person_AdditionalNamePreferenceConfiguration_OnlyNickName" = "Enkel bijnaam";
+

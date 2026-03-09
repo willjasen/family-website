@@ -1,0 +1,51 @@
+﻿/* (No Comment) */
+"_LocalizationName_cs" = "Tjeckiska";
+
+/* (No Comment) */
+"_LocalizationName_da" = "Danska";
+
+/* LocalizationNames */
+"_LocalizationName_de" = "Tyska";
+
+/* (No Comment) */
+"_LocalizationName_en" = "Engelska";
+
+/* (No Comment) */
+"_LocalizationName_es" = "Spanska";
+
+/* (No Comment) */
+"_LocalizationName_fi" = "Finska";
+
+/* (No Comment) */
+"_LocalizationName_fr" = "Franska";
+
+/* (No Comment) */
+"_LocalizationName_hu" = "Ungerska";
+
+/* (No Comment) */
+"_LocalizationName_INTL" = "Internationell";
+
+/* (No Comment) */
+"_LocalizationName_it" = "Italienska";
+
+/* (No Comment) */
+"_LocalizationName_nb" = "Norska";
+
+/* (No Comment) */
+"_LocalizationName_nl" = "Nederländska";
+
+/* (No Comment) */
+"_LocalizationName_pl" = "Polska";
+
+/* (No Comment) */
+"_LocalizationName_pt" = "Portugisiska";
+
+/* (No Comment) */
+"_LocalizationName_ru" = "Ryska";
+
+/* (No Comment) */
+"_LocalizationName_sv" = "Svenska";
+
+/* (No Comment) */
+"_LocalizationName_zh" = "Förenklad kinesiska";
+

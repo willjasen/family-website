@@ -1,0 +1,357 @@
+﻿/* (No Comment) */
+"_ConclusionType_AssociateRelations" = "Innflytelsesrike relasjoner";
+
+/* Duplicate Conclusion GEDCOM Tag */
+"_ConclusionType_DuplicateGedcomTag" = "Denne GEDCOM-taggen er allerede i bruk. Vennligst bruk en annen fordi doble GEDCOM-tagger kan skape problemer ved eksport av GEDCOM-filer.";
+
+/* (No Comment) */
+"_ConclusionType_FamilyEvents" = "Familiehendelser";
+
+/* (No Comment) */
+"_ConclusionType_IsNotUserCreatedFlag" = "Forhåndsdefinert type";
+
+/* (No Comment) */
+"_ConclusionType_IsUserCreatedFlag" = "Brukeropprettet type";
+
+/* (No Comment) */
+"_ConclusionType_PersonEvents" = "Personhendelser";
+
+/* (No Comment) */
+"_ConclusionType_PersonEventsFamilyEvents" = "Hendelser";
+
+/* (No Comment) */
+"_ConclusionType_PersonEventsFamilyEventsPersonFacts" = "Hendelser og opplysninger";
+
+/* (No Comment) */
+"_ConclusionType_PersonEventsFamilyEventsPersonFactsAssociateRelations" = "Hendelser, opplysninger & innflytelsesrike relasjoner";
+
+/* (No Comment) */
+"_ConclusionType_PersonFacts" = "Personopplysninger";
+
+/* LDS */
+"_Event_LDSNoTemple" = "Intet tempel";
+
+/* (No Comment) */
+"_FamilyEvent_Annuled" = "Annullering";
+
+/* (No Comment) */
+"_FamilyEvent_Bann" = "Lysing til ekteskap";
+
+/* (No Comment) */
+"_FamilyEvent_Census" = "Folketelling";
+
+/* (No Comment) */
+"_FamilyEvent_Contract" = "Ekteskapskontrakt";
+
+/* (No Comment) */
+"_FamilyEvent_Divorce_Filing" = "Søknad om separasjon";
+
+/* (No Comment) */
+"_FamilyEvent_Divorced" = "Skilsmisse";
+
+/* (No Comment) */
+"_FamilyEvent_Engagement" = "Forlovelse";
+
+/* (No Comment) */
+"_FamilyEvent_LDSSpouseSealing" = "LDS partnerbesegling";
+
+/* (No Comment) */
+"_FamilyEvent_License" = "Ekteskapslisens";
+
+/* FamilyEvents */
+"_FamilyEvent_Marriage" = "Vielse";
+
+/* (No Comment) */
+"_FamilyEvent_MarriageCivil" = "Borgerlig vielse";
+
+/* (No Comment) */
+"_FamilyEvent_MarriageReligion" = "Kirkelig vielse";
+
+/* (No Comment) */
+"_FamilyEvent_OtherEvent" = "Annen hendelse";
+
+/* (No Comment) */
+"_FamilyEvent_Partnership" = "Partnerskap";
+
+/* (No Comment) */
+"_FamilyEvent_Separation" = "Separasjon";
+
+/* (No Comment) */
+"_FamilyEvent_Settlement" = "Særeie";
+
+/* (No Comment) */
+"_LDSEventStatus_BIC" = "Født i pakten";
+
+/* LDS Event Status */
+"_LDSEventStatus_Canceled" = "Avbrutt";
+
+/* (No Comment) */
+"_LDSEventStatus_Child" = "Barn";
+
+/* (No Comment) */
+"_LDSEventStatus_Cleared" = "Klarert";
+
+/* (No Comment) */
+"_LDSEventStatus_Completed" = "Fullført";
+
+/* (No Comment) */
+"_LDSEventStatus_DNS" = "Kvalifiserer ikke";
+
+/* (No Comment) */
+"_LDSEventStatus_DNS/CAN" = "DNS/CAN";
+
+/* (No Comment) */
+"_LDSEventStatus_Infant" = "Spedbarn";
+
+/* (No Comment) */
+"_LDSEventStatus_Pre1970" = "Før 1970";
+
+/* (No Comment) */
+"_LDSEventStatus_Qualified" = "Kvalifisert";
+
+/* (No Comment) */
+"_LDSEventStatus_Stillborn" = "Dødfødt";
+
+/* (No Comment) */
+"_LDSEventStatus_Submitted" = "Fremlagt";
+
+/* (No Comment) */
+"_LDSEventStatus_Uncleared" = "Uklarert";
+
+/* PersonEvents */
+"_PersonEvent_Adoption" = "Adopsjon";
+
+/* (No Comment) */
+"_PersonEvent_AdultChristening" = "Voksendåp";
+
+/* (No Comment) */
+"_PersonEvent_Apprenticeship" = "Læretid";
+
+/* (No Comment) */
+"_PersonEvent_Baptism" = "Barnedåp";
+
+/* (No Comment) */
+"_PersonEvent_BarMitzvah" = "Bar Mitzvah";
+
+/* (No Comment) */
+"_PersonEvent_BasMitzvah" = "Bas Mitzvah";
+
+/* (No Comment) */
+"_PersonEvent_Birth" = "Fødsel";
+
+/* (No Comment) */
+"_PersonEvent_Blessing" = "Velsignelse";
+
+/* (No Comment) */
+"_PersonEvent_Burial" = "Begravelse";
+
+/* (No Comment) */
+"_PersonEvent_Census" = "Folketelling";
+
+/* (No Comment) */
+"_PersonEvent_Christening" = "Dåp";
+
+/* (No Comment) */
+"_PersonEvent_Circumcision" = "Omskjæring";
+
+/* (No Comment) */
+"_PersonEvent_Confirmation" = "Konfirmasjon";
+
+/* (No Comment) */
+"_PersonEvent_Cremation" = "Kremasjon";
+
+/* (No Comment) */
+"_PersonEvent_Death" = "Død";
+
+/* (No Comment) */
+"_PersonEvent_Deed" = "Dokument/skjøte";
+
+/* (No Comment) */
+"_PersonEvent_Education" = "Formell utdannelse";
+
+/* (No Comment) */
+"_PersonEvent_Emigration" = "Emigrasjon";
+
+/* (No Comment) */
+"_PersonEvent_Excommunication" = "Bannlysing";
+
+/* (No Comment) */
+"_PersonEvent_FirstCommunion" = "Første nattverd";
+
+/* (No Comment) */
+"_PersonEvent_FosterChild" = "Fosterbarn";
+
+/* (No Comment) */
+"_PersonEvent_Funeral" = "Begravelse";
+
+/* (No Comment) */
+"_PersonEvent_GenericEvent" = "Annen hendelse";
+
+/* (No Comment) */
+"_PersonEvent_Graduation" = "Eksamen";
+
+/* (No Comment) */
+"_PersonEvent_Illness" = "Sykdom";
+
+/* (No Comment) */
+"_PersonEvent_Immigration" = "Immigrasjon";
+
+/* (No Comment) */
+"_PersonEvent_LandTransaction" = "Landtransaksjon";
+
+/* (No Comment) */
+"_PersonEvent_LDSBaptism" = "LDS dåp";
+
+/* (No Comment) */
+"_PersonEvent_LDSChildSealing" = "LDS foreldrebesegling";
+
+/* (No Comment) */
+"_PersonEvent_LDSConfirmation" = "LDS konfirmasjon";
+
+/* (No Comment) */
+"_PersonEvent_LDSEndowment" = "LDS begravelse";
+
+/* (No Comment) */
+"_PersonEvent_LDSInitiatory" = "LDS forberedelse til ordinasjon";
+
+/* (No Comment) */
+"_PersonEvent_MilitaryAward" = "Militær æresbevisning";
+
+/* (No Comment) */
+"_PersonEvent_MilitaryDischarge" = "Militær avskjed";
+
+/* (No Comment) */
+"_PersonEvent_MilitaryInduction" = "Militær innkalling";
+
+/* (No Comment) */
+"_PersonEvent_MilitaryService" = "Militærtjeneste";
+
+/* (No Comment) */
+"_PersonEvent_Miscarriage" = "Spontan abort";
+
+/* (No Comment) */
+"_PersonEvent_Mission" = "Misjon";
+
+/* (No Comment) */
+"_PersonEvent_Nationality" = "Nasjonalitet";
+
+/* (No Comment) */
+"_PersonEvent_Naturalization" = "Naturalisering";
+
+/* (No Comment) */
+"_PersonEvent_NickName" = "Kallenavn";
+
+/* (No Comment) */
+"_PersonEvent_NobilityTypeTitle" = "Adelstittel";
+
+/* (No Comment) */
+"_PersonEvent_Occupation" = "Yrke";
+
+/* (No Comment) */
+"_PersonEvent_Ordination" = "Ordinasjon";
+
+/* (No Comment) */
+"_PersonEvent_Probate" = "Skifte";
+
+/* (No Comment) */
+"_PersonEvent_Religion" = "Tro";
+
+/* (No Comment) */
+"_PersonEvent_Residence" = "Bosted";
+
+/* (No Comment) */
+"_PersonEvent_Retirement" = "Pensjonering";
+
+/* (No Comment) */
+"_PersonEvent_Will" = "Testamente";
+
+/* (No Comment) */
+"_PersonFact_BloodType" = "Blodtype";
+
+/* (No Comment) */
+"_PersonFact_CasteName" = "Kaste";
+
+/* (No Comment) */
+"_PersonFact_Clan" = "Klan";
+
+/* (No Comment) */
+"_PersonFact_CustomFamilySearchFactTitle" = "Brukerdefinert opplysning: %@";
+
+/* (No Comment) */
+"_PersonFact_Email" = "E-postadresse";
+
+/* (No Comment) */
+"_PersonFact_EyeColor" = "Øyefarge";
+
+/* (No Comment) */
+"_PersonFact_HairColor" = "Hårfarge";
+
+/* (No Comment) */
+"_PersonFact_Height" = "Høyde";
+
+/* (No Comment) */
+"_PersonFact_Hobby" = "Hobby";
+
+/* (No Comment) */
+"_PersonFact_Honors" = "Æresbevisninger";
+
+/* (No Comment) */
+"_PersonFact_NationalID" = "Personnummer";
+
+/* (No Comment) */
+"_PersonFact_NationalOrTribalOrigin" = "Nasjonal eller stammesopprinnelse";
+
+/* (No Comment) */
+"_PersonFact_NoChildren" = "Ingen barn";
+
+/* (No Comment) */
+"_PersonFact_NoCoupleRelationships" = "Uten parrelasjoner";
+
+/* (No Comment) */
+"_PersonFact_Phone" = "Telefonnummer";
+
+/* (No Comment) */
+"_PersonFact_PhysicalDescription" = "Beskrivelse av utseende";
+
+/* (No Comment) */
+"_PersonFact_Possession" = "Eiendeler";
+
+/* (No Comment) */
+"_PersonFact_Race" = "Etnisitet";
+
+/* (No Comment) */
+"_PersonFact_SkinColor" = "Hudfarge";
+
+/* Facts */
+"_PersonFact_SocialSecurityNumber" = "Sosialforsikringsnummer";
+
+/* (No Comment) */
+"_PersonFact_TribeName" = "Stamme";
+
+/* (No Comment) */
+"_PersonFact_Weight" = "Vekt";
+
+/* (No Comment) */
+"ConclusionAdditionalNameType_Unnamed" = "Ytterligere navnetyper uten navn";
+
+/* (No Comment) */
+"ConclusionAssociateRelationType_Unnamed" = "Type innflytelsesrik relasjon uten navn";
+
+/* (No Comment) */
+"ConclusionFamilyEventType_Unnamed" = "Familiehendelsestype uten navn";
+
+/* Conclusion Types */
+"ConclusionPersonEventType_Unnamed" = "Personhendelsestype uten navn";
+
+/* (No Comment) */
+"ConclusionPersonFactType_Unnamed" = "Personopplysningstype uten navn";
+
+/* (No Comment) */
+"ConclusionToDoPriorityType_Unnamed" = "Oppgaveprioritetstype uten navn";
+
+/* (No Comment) */
+"ConclusionToDoStatusType_Unnamed" = "Oppgavestatustype uten navn";
+
+/* (No Comment) */
+"ConclusionToDoTypeType_Unnamed" = "Oppgavetype uten navn";
+

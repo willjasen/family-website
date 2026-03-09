@@ -1,0 +1,1704 @@
+﻿/* (No Comment) */
+"_AdditionalName_ChangeLog_Added" = "Дополнительное имя '%@' добавлено";
+
+/* (No Comment) */
+"_AdditionalName_ChangeLog_ConflictResolved" = "Конфликт свойств '%@' был решён как '%@'";
+
+/* (No Comment) */
+"_AdditionalName_ChangeLog_Deleted" = "Дополнительное имя '%@' удалено";
+
+/* (No Comment) */
+"_AdditionalName_ChangeLogPropertyKey_FirstName" = "Имя '%@' было изменено с '%@' на '%@'";
+
+/* (No Comment) */
+"_AdditionalName_ChangeLogPropertyKey_LastName" = "Фамилия '%@' была изменена с '%@' на '%@'";
+
+/* (No Comment) */
+"_AdditionalName_ChangeLogPropertyKey_Type" = "Тип дополнительного имени изменён с '%@' на '%@'";
+
+/* (No Comment) */
+"_BaseMedia_ChangeLog_Added" = "Медиа добавлено";
+
+/* (No Comment) */
+"_BaseMedia_ChangeLog_Deleted" = "Медиа '%@' удалено";
+
+/* (No Comment) */
+"_BaseMedia_ChangeLogKey" = "Медиа %@";
+
+/* (No Comment) */
+"_BaseMedia_ChangeLogPropertyKey_Date" = "Дата изменена с '%@' на '%@'";
+
+/* (No Comment) */
+"_BaseMedia_ChangeLogPropertyKey_PDFFileIdentifier" = "PDF отредактирован";
+
+/* (No Comment) */
+"_BaseMedia_ChangeLogPropertyKey_PictureFileIdentifier" = "Изображение отредактировано";
+
+/* (No Comment) */
+"_BaseMedia_ChangeLogPropertyKey_Title" = "Название изменено с '%@' на '%@'";
+
+/* Base Object Composite Images Modes */
+"_BaseObject_CompositeImages_Mode_None" = "Всегда показывать значок заполнителя";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_PrimaryImageFromPrimaryMediaContainer" = "Показать основное изображение";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_PrimaryImageFromPrimaryMediaContainerAndConnectedMediaContainers" = "Показать основное изображение, также собранное из связанных записей";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_UpToSixImagesFromPrimaryMediaContainer" = "Показывать до шести фотографий";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_UpToSixImagesFromPrimaryMediaContainerAndConnectedMediaContainers" = "Показывать до шести изображений, собранных из связанных записей";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_UpToTenImagesFromPrimaryMediaContainer" = "Показывать до десяти фотографий";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_UpToTenImagesFromPrimaryMediaContainerAndConnectedMediaContainers" = "Показывать до десяти изображений, собранных из связанных записей.";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_UpToThreeImagesFromPrimaryMediaContainer" = "Показывать до трех фотографий";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_UpToThreeImagesFromPrimaryMediaContainerAndConnectedMediaContainers" = "Показывать до трех изображений, собранных из связанных записей.";
+
+/* (No Comment) */
+"_ChangeLog_NoValuePlaceholder" = "Нет значения";
+
+/* Change Log */
+"_ChangeLogEntry_ObjectIsStillPresentTooltip" = "Эта запись всё ещё присутствует в базе данных";
+
+/* (No Comment) */
+"_ChangeLogEntry_ObjectNoLongerPresentTooltip" = "Эта запись была удалена из базы данных и больше недоступна";
+
+/* (No Comment) */
+"_ChildRelation_ChangeLog_Deleted" = "Ребёнок '%@' удалён из семьи";
+
+/* (No Comment) */
+"_ChildRelation_ChangeLog_Deleted_Child" = "Удален(а) как ребёнок из семьи '%@";
+
+/* (No Comment) */
+"_ChildRelation_ChangeLogPropertyKey_Child" = "Ребёнок '%@' добавлен";
+
+/* (No Comment) */
+"_ChildRelation_ChangeLogPropertyKey_Family" = "Добавлен как ребёнок в семью '%@'";
+
+/* (No Comment) */
+"_ChildRelation_ChangeLogPropertyKey_RelationTypeToManInFamily" = "Тип отношения ребёнка к отцу ребёнка '%@' изменён с '%@' на '%@'";
+
+/* (No Comment) */
+"_ChildRelation_ChangeLogPropertyKey_RelationTypeToWomanInFamily" = "Тип отношения ребёнка к матери ребёнка '%@' изменён с '%@' на '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLog_Added" = "Событие '%@' добавлено";
+
+/* (No Comment) */
+"_Event_ChangeLog_ConflictResolvedForAssignedPlace" = "Конфликт места события '%@' решён как '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLog_ConflictResolvedForAssignedPlaceDetail" = "Конфликт места события '%@' решён к '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLog_ConflictResolvedForCoordinate" = "Конфликт координат события '%@' решён как '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLog_ConflictResolvedForGenericProperty" = "Конфликт свойств '%@' события '%@' решён как '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLog_Deleted" = "Событие '%@' удалено";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_Address" = "Адрес события '%@' изменён с '%@' на '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_Agency" = "Деятельность события '%@' изменена с '%@' на '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_AssignedPlace" = "Место события '%@' изменено на '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_AssignedPlaceDetail" = "Детали места события '%@' изменены на '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_Cause" = "Причина события '%@' изменена с '%@' на '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_Coordinate" = "Координаты события '%@' именены на '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_Date" = "Дата события '%@' изменена с '%@' на '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_Time" = "Время события '%@' изменено с '%@' на '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_Type" = "Тип события изменён с '%@' на '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_UserDescription" = "Описание события '%@' изменено с '%@' на '%@'";
+
+/* (No Comment) */
+"_Fact_ChangeLog_Added" = "Факт '%@' добавлен";
+
+/* (No Comment) */
+"_Fact_ChangeLog_ConflictResolvedForValue" = "Конфликт факта '%@' решён как '%@'";
+
+/* (No Comment) */
+"_Fact_ChangeLog_Deleted" = "Факт '%@' удалён";
+
+/* (No Comment) */
+"_Fact_ChangeLogPropertyKey_Type" = "Тип факта изменён с '%@' на '%@'";
+
+/* (No Comment) */
+"_Fact_ChangeLogPropertyKey_Value" = "Факт '%@' изменён с '%@' на '%@'";
+
+/* (No Comment) */
+"_Family_ChangeLog_Added" = "Семья добавлена";
+
+/* (No Comment) */
+"_Family_ChangeLog_ConflictResolvedForMan" = "Конфликт назначения мужчины решён как '%@'";
+
+/* (No Comment) */
+"_Family_ChangeLog_ConflictResolvedForWoman" = "Конфликт назначения женщины решён как '%@'";
+
+/* (No Comment) */
+"_Family_ChangeLog_Deleted" = "Семья удалена";
+
+/* (No Comment) */
+"_Family_ChangeLogKey" = "Семья %@";
+
+/* (No Comment) */
+"_Family_ChangeLogPropertyKey_Man" = "Добавлен человек '%@' как мужчина";
+
+/* (No Comment) */
+"_Family_ChangeLogPropertyKey_Woman" = "Добавлен человек '%@' как женщина";
+
+/* (No Comment) */
+"_MediaRelation_ChangeLog_BaseMediaDeleted" = "Медиа '%@' удалено";
+
+/* (No Comment) */
+"_MediaRelation_ChangeLog_MediaContainerDeleted" = "Запись '%@' удалена из медиа";
+
+/* (No Comment) */
+"_MediaRelation_ChangeLogPropertyKey_BaseMedia" = "Медиа '%@' добавлено";
+
+/* (No Comment) */
+"_MediaRelation_ChangeLogPropertyKey_MediaContainer" = "Добавлено как медиа в '%@'";
+
+/* (No Comment) */
+"_ObjectDescription_AdditionalName" = "Дополнительное имя %@ из %@";
+
+/* (No Comment) */
+"_ObjectDescription_AssociateRelation" = "Связь влиятельного человека %@";
+
+/* (No Comment) */
+"_ObjectDescription_Book" = "Книга %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookBaseObjectsBasedReportBuilderObject" = "Объект раздела отчёта %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookBaseObjectsBasedReportBuilderSection" = "Раздел отчёта %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookChapter" = "Глава книги %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookDiagramBaseObject" = "Раздел диаграмма объекта";
+
+/* (No Comment) */
+"_ObjectDescription_BookDiagramReportBuilderSection" = "Раздел диаграммы %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookFamilyBasedReportBuilderSection" = "Раздел отчёта %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookFamilySection" = "Раздел о семье %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookGenericReportBuilderSection" = "Раздел отчёта %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookPersonBasedReportBuilderSection" = "Раздел отчёта %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookPersonSection" = "Раздел о человеке %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookReportBuilderFamily" = "Семья раздела отчёта %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookReportBuilderPerson" = "Раздел отчёта %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookSerializedBaseObjectReportBuilder" = "Конфигурация для раздела %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookSerializedBaseReportBuilder" = "Конфигурация для раздела %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookSerializedChapterReportBuilder" = "Конфигурация главы %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookSerializedEditedReportBuilder" = "Конфигурация изменённого раздела %@";
+
+/* (No Comment) */
+"_ObjectDescription_ChildRelation" = "Родство ребёнка %@ - %@";
+
+/* (No Comment) */
+"_ObjectDescription_ConclusionAdditionalNameType" = "Тип дополнительного имени %@";
+
+/* (No Comment) */
+"_ObjectDescription_ConclusionAssociateRelationType" = "Тип влиятельного отношения %@";
+
+/* (No Comment) */
+"_ObjectDescription_ConclusionFamilyEventType" = "Семейный тип события %@";
+
+/* (No Comment) */
+"_ObjectDescription_ConclusionPersonEventType" = "Тип события человека %@";
+
+/* (No Comment) */
+"_ObjectDescription_ConclusionPersonFactType" = "Тип факта человека %@";
+
+/* (No Comment) */
+"_ObjectDescription_Coordinate" = "Координата места %@";
+
+/* (No Comment) */
+"_ObjectDescription_DNATestATDNASubResult" = "Результат теста атДНК - %@";
+
+/* (No Comment) */
+"_ObjectDescription_DNATestMTDNASubResult" = "Результат теста мтДНК - %@";
+
+/* (No Comment) */
+"_ObjectDescription_DNATestMTDNASubResultSNPDifference" = "ДНК мтДНК SNP разница %@";
+
+/* (No Comment) */
+"_ObjectDescription_DNATestResult" = "Результат теста ДНК - %@";
+
+/* (No Comment) */
+"_ObjectDescription_DNATestYDNASubResult" = "Результат теста Y-ДНК - %@";
+
+/* (No Comment) */
+"_ObjectDescription_DNATestYDNASubResultYSTRMarker" = "ДНК Y-ДНК STR маркер %@";
+
+/* (No Comment) */
+"_ObjectDescription_Family" = "Семья %@";
+
+/* (No Comment) */
+"_ObjectDescription_FamilyEvent" = "Семейное событие %@ из %@";
+
+/* (No Comment) */
+"_ObjectDescription_FamilyEvent_PlaceExtension" = "в %@";
+
+/* (No Comment) */
+"_ObjectDescription_FamilySearchKnownBadFurtherInformationMatch" = "FamilySearch информация %@";
+
+/* (No Comment) */
+"_ObjectDescription_FamilySearchKnownBadPersonMatch" = "FamilySearch информация %@";
+
+/* (No Comment) */
+"_ObjectDescription_FamilyTreeInformation" = "Информация об авторе семейного древа";
+
+/* (No Comment) */
+"_ObjectDescription_Label" = "Метка %@";
+
+/* (No Comment) */
+"_ObjectDescription_MediaAudio" = "Аудио %@ из %@";
+
+/* (No Comment) */
+"_ObjectDescription_MediaPDF" = "PDF %@ из %@";
+
+/* (No Comment) */
+"_ObjectDescription_MediaPicture" = "Изображение %@ из %@";
+
+/* (No Comment) */
+"_ObjectDescription_MediaRelation" = "Медиа родство %@";
+
+/* (No Comment) */
+"_ObjectDescription_MediaRelationAssignment" = "Назначение изображения %@";
+
+/* (No Comment) */
+"_ObjectDescription_MediaURL" = "Веб-страница %@ из %@";
+
+/* (No Comment) */
+"_ObjectDescription_MediaVideo" = "Видео %@ из %@";
+
+/* (No Comment) */
+"_ObjectDescription_Note" = "Примечание на %@";
+
+/* Object Descriptions */
+"_ObjectDescription_Person" = "Человек %@";
+
+/* (No Comment) */
+"_ObjectDescription_PersonEvent" = "Событие %@ из %@";
+
+/* (No Comment) */
+"_ObjectDescription_PersonEvent_PlaceExtension" = "в %@";
+
+/* (No Comment) */
+"_ObjectDescription_PersonFact" = "Факт %@ из %@";
+
+/* (No Comment) */
+"_ObjectDescription_PersonGroup" = "Группа людей %@";
+
+/* (No Comment) */
+"_ObjectDescription_Place" = "Место %@";
+
+/* (No Comment) */
+"_ObjectDescription_PlaceDetail" = "Сведения о месте %@";
+
+/* (No Comment) */
+"_ObjectDescription_PlaceKeyValue" = "Значение места – %@: %@";
+
+/* (No Comment) */
+"_ObjectDescription_PlaceTemplate" = "Шаблон места %@";
+
+/* (No Comment) */
+"_ObjectDescription_PlaceTemplateKey" = "Поле шаблона места %@";
+
+/* (No Comment) */
+"_ObjectDescription_PlaceTemplateKeyRelation" = "Связь полей шаблона места %@ – %@";
+
+/* (No Comment) */
+"_ObjectDescription_Scope" = "Фильтр %@";
+
+/* (No Comment) */
+"_ObjectDescription_Source" = "Источник %@";
+
+/* (No Comment) */
+"_ObjectDescription_SourceKeyValue" = "Исходное значение – %@: %@";
+
+/* (No Comment) */
+"_ObjectDescription_SourceRelation" = "Источник информации - %@ - %@";
+
+/* (No Comment) */
+"_ObjectDescription_SourceTemplate" = "Исходный шаблон %@";
+
+/* (No Comment) */
+"_ObjectDescription_SourceTemplateKey" = "Поле исходного шаблона %@";
+
+/* (No Comment) */
+"_ObjectDescription_SourceTemplateKeyRelation" = "Отношение полей исходного шаблона %@ – %@";
+
+/* (No Comment) */
+"_ObjectDescription_Story" = "История %@";
+
+/* (No Comment) */
+"_ObjectDescription_StorySection" = "Раздел истории %@";
+
+/* (No Comment) */
+"_ObjectDescription_ToDo" = "Задача %@";
+
+/* (No Comment) */
+"_ObjectProperty_AdditionalName_conclusionType" = "Тип";
+
+/* AdditionalName */
+"_ObjectProperty_AdditionalName_firstName" = "Имя";
+
+/* (No Comment) */
+"_ObjectProperty_AdditionalName_lastName" = "Фамилия";
+
+/* (No Comment) */
+"_ObjectProperty_AdditionalName_nameMiddle" = "Отчество";
+
+/* (No Comment) */
+"_ObjectProperty_AdditionalName_namePrefix" = "Обращение";
+
+/* (No Comment) */
+"_ObjectProperty_AdditionalName_nameSuffix" = "Суффикс";
+
+/* (No Comment) */
+"_ObjectProperty_AdditionalName_person" = "Человек";
+
+/* (No Comment) */
+"_ObjectProperty_AssociateRelation_conclusionType" = "Тип";
+
+/* AssociateRelation */
+"_ObjectProperty_AssociateRelation_date" = "Дата";
+
+/* (No Comment) */
+"_ObjectProperty_BaseMedia_canShowAsMediaForMediaContainer" = "Использовать как вступительное изображение";
+
+/* (No Comment) */
+"_ObjectProperty_BaseMedia_date" = "Дата";
+
+/* (No Comment) */
+"_ObjectProperty_BaseMedia_isBookmarked" = "Отмечено";
+
+/* BaseMedia */
+"_ObjectProperty_BaseMedia_title" = "Название";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_ancestralFileNumberID" = "Наследственный файл-номер";
+
+/* BaseObject */
+"_ObjectProperty_BaseObject_changeDate" = "Дата изменения";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_cloudKitChangeTag" = "Сведения об изменении CloudTree";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_creationDate" = "Дата создания";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_excludedPlausibilityAnalyzerClassNames" = "Анализатор правдоподобности информации";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_familySearchID" = "FamilySearch ID";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_gedcomID" = "Gedcom ID";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_isPrivate" = "Отмечено как личное";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_referenceNumberID" = "Собственный номер ссылки";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_researchAssistantCompletedQuestionsMask" = "Информация по помощнику исследований";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_uniqueID" = "Внутренний уникальный ID";
+
+/* (No Comment) */
+"_ObjectProperty_Book_author" = "Автор";
+
+/* (No Comment) */
+"_ObjectProperty_Book_chapterNumeralType" = "Номера глав";
+
+/* (No Comment) */
+"_ObjectProperty_Book_chaptersOnSeparatePage" = "Главы на отдельной странице";
+
+/* (No Comment) */
+"_ObjectProperty_Book_date" = "Дата";
+
+/* (No Comment) */
+"_ObjectProperty_Book_includeCitationsAsDefault" = "Включать источники для новых отчётов";
+
+/* (No Comment) */
+"_ObjectProperty_Book_languageShouldReformatDates" = "Локализов. форматы дат";
+
+/* (No Comment) */
+"_ObjectProperty_Book_localizationIdentifier" = "Язык";
+
+/* (No Comment) */
+"_ObjectProperty_Book_onlyColorizeChapterPages" = "Цветные - только страницы глав";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundChapterNumberColor" = "Цвет номера главы";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundChapterTitleColor" = "Цвет названия главы";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundPageNumberAlignment" = "Выравнивание номера страницы";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundPageNumberColor" = "Цвет номера страницы";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundPageNumberEnabled" = "Номера страниц включено";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundPageNumberPosition" = "Положение номера страницы";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundRendererStyle" = "Стиль заголовка страницы";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundSectionNumberColor" = "Цвет номера раздела";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundSectionTitleColor" = "Цвет названия раздела";
+
+/* (No Comment) */
+"_ObjectProperty_Book_style" = "Стиль книги";
+
+/* (No Comment) */
+"_ObjectProperty_Book_styleFontScaling" = "Масштабирование шрифта";
+
+/* (No Comment) */
+"_ObjectProperty_Book_templateClassName" = "Шаблон";
+
+/* (No Comment) */
+"_ObjectProperty_Book_title" = "Название";
+
+/* (No Comment) */
+"_ObjectProperty_Book_useTextualStyleAsDefault" = "Использовать стиль текста для новых отчётов";
+
+/* Book */
+"_ObjectProperty_BookBaseItem_order" = "Список";
+
+/* (No Comment) */
+"_ObjectProperty_BookBaseObjectReportBuilder_baseObjectSection" = "Содержащий раздел";
+
+/* (No Comment) */
+"_ObjectProperty_BookBaseObjectsBasedReportBuilderObject_baseObject" = "Элемент";
+
+/* (No Comment) */
+"_ObjectProperty_BookBaseObjectsBasedReportBuilderObject_baseObjectsBasedReportBuilderSection" = "Раздел";
+
+/* (No Comment) */
+"_ObjectProperty_BookBaseObjectsBasedReportBuilderObject_order" = "Алфавитный указатель";
+
+/* (No Comment) */
+"_ObjectProperty_BookBaseSection_alwaysWantsNewPageForItems" = "Подразделы на новой странице";
+
+/* (No Comment) */
+"_ObjectProperty_BookBaseSection_bookChapter" = "Содержащие главу";
+
+/* (No Comment) */
+"_ObjectProperty_BookBaseSection_name" = "Имя";
+
+/* (No Comment) */
+"_ObjectProperty_BookChapter_chapterHighlightColor" = "Цвет выделения главы";
+
+/* (No Comment) */
+"_ObjectProperty_BookChapter_chapterPageColor" = "Цвет страницы главы";
+
+/* (No Comment) */
+"_ObjectProperty_BookChapter_chapterType" = "Тип главы";
+
+/* (No Comment) */
+"_ObjectProperty_BookChapter_name" = "Название главы";
+
+/* (No Comment) */
+"_ObjectProperty_BookDiagramBaseObject_baseObject" = "Item";
+
+/* (No Comment) */
+"_ObjectProperty_BookDiagramBaseObject_diagramReportBuilderSection" = "Раздел";
+
+/* (No Comment) */
+"_ObjectProperty_BookPersonSection_person" = "Человек";
+
+/* (No Comment) */
+"_ObjectProperty_BookReportBuilderFamily_family" = "Семья";
+
+/* (No Comment) */
+"_ObjectProperty_BookReportBuilderFamily_familyBasedReportBuilderSection" = "Раздел";
+
+/* (No Comment) */
+"_ObjectProperty_BookReportBuilderPerson_person" = "Человек";
+
+/* (No Comment) */
+"_ObjectProperty_BookReportBuilderPerson_personBasedReportBuilderSection" = "Раздел";
+
+/* (No Comment) */
+"_ObjectProperty_BookSerializedBaseReportBuilder_baseItem" = "Раздел отчёта";
+
+/* (No Comment) */
+"_ObjectProperty_BookSerializedReportBuilder_serializedReportBuilderData" = "Настройка отчета";
+
+/* (No Comment) */
+"_ObjectProperty_ChildRelation_child" = "Ребёнок";
+
+/* (No Comment) */
+"_ObjectProperty_ChildRelation_family" = "Семья";
+
+/* (No Comment) */
+"_ObjectProperty_ChildRelation_relationTypeToManInFamily" = "Тип связи с отцом";
+
+/* (No Comment) */
+"_ObjectProperty_ChildRelation_relationTypeToWomanInFamily" = "Тип связи с матерью";
+
+/* ChildRelation */
+"_ObjectProperty_ChildRelation_type" = "Тип родства ребёнка";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionAssociateRelationType_compatibleAssociatedContainerClassName" = "Цель ассоциации";
+
+/* ConclusionAssociateRelationType */
+"_ObjectProperty_ConclusionAssociateRelationType_invertedTypeName" = "Инвертированный тип имени";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionAssociateRelationType_invertedTypeName_ForFamily" = "Введите имя с точки зрения человека";
+
+/* ConclusionToDoPriorityType */
+"_ObjectProperty_ConclusionToDoPriorityType_isDefault" = "По умолчанию";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionToDoStatusType_isDefault" = "По умолчанию";
+
+/* ConclusionToDoStatusType */
+"_ObjectProperty_ConclusionToDoStatusType_typeShouldBeConsideredAsDone" = "Следует рассматривать как \"Выполнено\"";
+
+/* ConclusionToDoTypeType */
+"_ObjectProperty_ConclusionToDoTypeType_isDefault" = "По умолчанию";
+
+/* ConclusionType */
+"_ObjectProperty_ConclusionType_gedcomTag" = "GEDCOM тег";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_iconPNGData" = "Значок";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_identifier" = "Идентификатор";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_isEnabled" = "Включено";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_isUserCreated" = "Создано пользователем";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_showAsPlaceholder" = "Показать как заполнитель";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_typeName" = "Тип имени";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_typeName_ForFamily" = "Тип Имя с точки зрения семьи";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_typeNameLocalizationKey" = "Ключ имени локализации";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_generated_coordinate_string" = "Координаты";
+
+/* Coordinate */
+"_ObjectProperty_Coordinate_latitude" = "Широта";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_latitudeDegrees" = "Широта в градусах";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_latitudeIsSouth" = "Широта Ориентация";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_latitudeMinutes" = "Широта в минутах";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_latitudeSeconds" = "Широта в секундах";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_longitude" = "Долгота";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_longitudeDegrees" = "Долгота в градусах";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_longitudeIsWest" = "Долгота Ориентация";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_longitudeMinutes" = "Долгота в минутах";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_longitudeSeconds" = "Долгота в секундах";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_place" = "Место";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_placeDetail" = "Сведения о месте";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestMTDNASubResult_haplogroupString" = "mtDNA гаплогруппа";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestMTDNASubResultSNPDifference_differenceString" = "SNP разница";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestMTDNASubResultSNPDifference_order" = "Порядок";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestResult_dateString" = "Дата";
+
+/* DNATestResult */
+"_ObjectProperty_DNATestResult_name" = "Название теста";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestResult_person" = "Человек";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestResult_templateIdentifier" = "Шаблон";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestResult_urlToVendor" = "URL";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestYDNASubResult_haplogroupString" = "Y-DNA гаплогруппа";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestYDNASubResultYSTRMarker_order" = "Порядок";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestYDNASubResultYSTRMarker_strName" = "Назвние STR маркера";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestYDNASubResultYSTRMarker_strValueString" = "STR значение";
+
+/* (No Comment) */
+"_ObjectProperty_Event_address" = "Адрес";
+
+/* (No Comment) */
+"_ObjectProperty_Event_agency" = "Авторитетность";
+
+/* (No Comment) */
+"_ObjectProperty_Event_assignedPlace" = "Место";
+
+/* (No Comment) */
+"_ObjectProperty_Event_assignedPlaceDetail" = "Сведения о месте";
+
+/* (No Comment) */
+"_ObjectProperty_Event_cause" = "Причина";
+
+/* Event */
+"_ObjectProperty_Event_date" = "Дата";
+
+/* (No Comment) */
+"_ObjectProperty_Event_ldsStatus" = "LDS статус";
+
+/* (No Comment) */
+"_ObjectProperty_Event_ldsTempleCode" = "LDS код храма";
+
+/* (No Comment) */
+"_ObjectProperty_Event_time" = "Время";
+
+/* (No Comment) */
+"_ObjectProperty_Event_userDescription" = "Описание";
+
+/* Fact */
+"_ObjectProperty_Fact_value" = "Значение";
+
+/* Family */
+"_ObjectProperty_Family_cached_marriageDate" = "Дата брака";
+
+/* (No Comment) */
+"_ObjectProperty_Family_cached_marriageDateAsDate" = "Дата брака";
+
+/* (No Comment) */
+"_ObjectProperty_Family_childRelations" = "Родство ребенка";
+
+/* (No Comment) */
+"_ObjectProperty_Family_events" = "Семейные события";
+
+/* (No Comment) */
+"_ObjectProperty_Family_isBookmarked" = "Отмечено";
+
+/* (No Comment) */
+"_ObjectProperty_Family_man" = "Мужчина";
+
+/* (No Comment) */
+"_ObjectProperty_Family_woman" = "Женщина";
+
+/* FamilyEvent */
+"_ObjectProperty_FamilyEvent_conclusionType" = "Тип события";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyEvent_family" = "Семья";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressCity" = "Город проживания автора";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressCountry" = "Страна проживания автора";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressLine" = "Адресная строка 1 автора";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressLine1" = "Адресная строка 2 автора";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressLine2" = "Адресная строка 3 автора";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressLine3" = "Адресная строка 4 автора";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressPostalCode" = "Почтовый код автора";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressState" = "Область проживания автора";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorEmail" = "Email автора";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorFax" = "Факс автора";
+
+/* FamilyTreeInformation */
+"_ObjectProperty_FamilyTreeInformation_authorName" = "Имя автора";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorPhoneNumber" = "Номер телефона автора";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorWebAddress" = "Web адрес автора";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_mediaThumbnailsStyle" = "Стиль миниатюр медиа";
+
+/* Label */
+"_ObjectProperty_Label_colorComponentsString" = "Цвет";
+
+/* (No Comment) */
+"_ObjectProperty_Label_title" = "Название";
+
+/* MediaAudio */
+"_ObjectProperty_MediaAudio_audioFileIdentifier" = "Аудио";
+
+/* MediaPDF */
+"_ObjectProperty_MediaPDF_pdfFileIdentifier" = "PDF";
+
+/* (No Comment) */
+"_ObjectProperty_MediaPDF_thumbnailFileIdentifier" = "Миниатюра";
+
+/* MediaPicture */
+"_ObjectProperty_MediaPicture_pictureFileIdentifier" = "Изображение";
+
+/* (No Comment) */
+"_ObjectProperty_MediaPicture_thumbnailFileIdentifier" = "Миниатюра";
+
+/* MediaRelation */
+"_ObjectProperty_MediaRelation_hasMediaRelationAssignment" = "Имеет область назначения";
+
+/* MediaURL */
+"_ObjectProperty_MediaURL_url" = "Адрес веб-сайта";
+
+/* (No Comment) */
+"_ObjectProperty_MediaVideo_thumbnailFileIdentifier" = "Миниатюра";
+
+/* MediaVideo */
+"_ObjectProperty_MediaVideo_videoFileIdentifier" = "Видео";
+
+/* Note */
+"_ObjectProperty_Note_text" = "Текст";
+
+/* NoteContainer */
+"_ObjectProperty_NoteContainer_notes" = "Примечания";
+
+/* OrderedConclusionType */
+"_ObjectProperty_OrderedConclusionType_order" = "Порядок";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_birthDate" = "Дата рождения";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_birthDateAsDate" = "Дата рождения";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_christeningDate" = "Дата крещения";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_christeningDateAsDate" = "Дата крещения";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_deathDate" = "Дата смерти";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_deathDateAsDate" = "Дата смерти";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_fullName" = "Полное имя";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_fullNameForSorting" = "Полное имя, используемое для сортировки";
+
+/* Person */
+"_ObjectProperty_Person_firstName" = "Имя";
+
+/* (No Comment) */
+"_ObjectProperty_Person_firstNameSoundex" = "Функция soundex имени";
+
+/* (No Comment) */
+"_ObjectProperty_Person_gender" = "Пол";
+
+/* (No Comment) */
+"_ObjectProperty_Person_isBookmarked" = "Отмечено";
+
+/* (No Comment) */
+"_ObjectProperty_Person_isStartPerson" = "Отмечен как первый человек";
+
+/* (No Comment) */
+"_ObjectProperty_Person_lastName" = "Фамилия";
+
+/* (No Comment) */
+"_ObjectProperty_Person_lastNameSoundex" = "Функция soundex фамилии";
+
+/* (No Comment) */
+"_ObjectProperty_Person_marriedName" = "Фамилия в браке";
+
+/* (No Comment) */
+"_ObjectProperty_Person_nameMiddle" = "Отчество";
+
+/* (No Comment) */
+"_ObjectProperty_Person_nameMiddleSoundex" = "Функция soundex отчества";
+
+/* (No Comment) */
+"_ObjectProperty_Person_namePrefix" = "Обращение";
+
+/* (No Comment) */
+"_ObjectProperty_Person_namePrefixSoundex" = "Функция soundex обращения";
+
+/* (No Comment) */
+"_ObjectProperty_Person_nameSuffix" = "Суффикс";
+
+/* (No Comment) */
+"_ObjectProperty_Person_nameSuffixSoundex" = "Функция soundex суффикса";
+
+/* PersonEvent */
+"_ObjectProperty_PersonEvent_conclusionType" = "Тип события";
+
+/* (No Comment) */
+"_ObjectProperty_PersonEvent_person" = "Человек";
+
+/* PersonFact */
+"_ObjectProperty_PersonFact_conclusionType" = "Тип факта";
+
+/* (No Comment) */
+"_ObjectProperty_PersonFact_person" = "Человек";
+
+/* PersonGroup */
+"_ObjectProperty_PersonGroup_name" = "Имя";
+
+/* (No Comment) */
+"_ObjectProperty_PersonGroup_personGroupColor" = "Цвет";
+
+/* (No Comment) */
+"_ObjectProperty_PersonGroup_userDescription" = "Описание";
+
+/* (No Comment) */
+"_ObjectProperty_Place_alternatePlaceNames" = "Альтернативные имена";
+
+/* (No Comment) */
+"_ObjectProperty_Place_coordinate" = "Координаты";
+
+/* (No Comment) */
+"_ObjectProperty_Place_country" = "Страна";
+
+/* (No Comment) */
+"_ObjectProperty_Place_county" = "Округ";
+
+/* (No Comment) */
+"_ObjectProperty_Place_geoNameID" = "GeoName ID";
+
+/* (No Comment) */
+"_ObjectProperty_Place_isBookmarked" = "В закладках";
+
+/* (No Comment) */
+"_ObjectProperty_Place_place" = "Место";
+
+/* (No Comment) */
+"_ObjectProperty_Place_state" = "Область/Штат";
+
+/* Place */
+"_ObjectProperty_Place_template" = "Шаблон места";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceDetail_geoNameID" = "GeoName ID";
+
+/* PlaceDetail */
+"_ObjectProperty_PlaceDetail_name" = "Имя";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceDetail_place" = "Место";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceKeyValue_place" = "Место";
+
+/* PlaceKeyValue */
+"_ObjectProperty_PlaceKeyValue_templateKey" = "Поле шаблона";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceKeyValue_value" = "Значние";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplate_countryIdentifier" = "Страна";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplate_isDefaultTemplate" = "Шаблон по умолчанию";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplate_isFavoriteTemplate" = "Шаблон по умолчанию";
+
+/* PlaceTemplate */
+"_ObjectProperty_PlaceTemplate_name" = "Имя";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKey_gedcomTag" = "Тег ФОРМЫ GEDCOM места:";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKey_internationalName" = "Международное название";
+
+/* PlaceTemplateKey */
+"_ObjectProperty_PlaceTemplateKey_localName" = "Местное название";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKey_order" = "Порядок";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_normalCitationBracketMode" = "Скобки для нормальной ссылки";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_normalCitationEnabled" = "Включено для нормального цитирования";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_normalCitationOrder" = "Обычный порядок цитирования";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_normalCitationTrailingMode" = "Разделитель нормальных ссылок";
+
+/* PlaceTemplateKeyRelation */
+"_ObjectProperty_PlaceTemplateKeyRelation_order" = "Порядок";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_shortCitationBracketMode" = "Скобки для короткой ссылки";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_shortCitationEnabled" = "Включено для краткого цитирования";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_shortCitationOrder" = "Краткий порядок цитирования";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_shortCitationTrailingMode" = "Разделитель коротких ссылок";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_veryShortCitationBracketMode" = "Скобки для очень короткой ссылки";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_veryShortCitationEnabled" = "Включено для очень короткого цитирования";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_veryShortCitationOrder" = "Очень короткий порядок цитирования";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_veryShortCitationTrailingMode" = "Разделитель очень коротких ссылок";
+
+/* (No Comment) */
+"_ObjectProperty_SavedBook_author" = "Автор";
+
+/* SavedBook */
+"_ObjectProperty_SavedBook_bookData" = "Книга";
+
+/* (No Comment) */
+"_ObjectProperty_SavedBook_subTitle" = "Подзаголовок";
+
+/* (No Comment) */
+"_ObjectProperty_SavedBook_thumbnailData" = "Миниатюра";
+
+/* SavedChart */
+"_ObjectProperty_SavedChart_chartObjectsContainerData" = "Диаграмма";
+
+/* (No Comment) */
+"_ObjectProperty_SavedChart_thumbnailData" = "Миниатюра";
+
+/* SavedReport */
+"_ObjectProperty_SavedReport_reportControllerData" = "Отчёт";
+
+/* (No Comment) */
+"_ObjectProperty_SavedReport_thumbnailData" = "Миниатюра";
+
+/* (No Comment) */
+"_ObjectProperty_SavedView_date" = "Дата";
+
+/* SavedView */
+"_ObjectProperty_SavedView_title" = "Название";
+
+/* (No Comment) */
+"_ObjectProperty_SavedWebsite_changeDate" = "Дата изменения";
+
+/* SavedWebsite */
+"_ObjectProperty_SavedWebsite_fileIdentifier" = "Данные";
+
+/* (No Comment) */
+"_ObjectProperty_Scope_archivedFiltersContainerData" = "Описание умного фильтра";
+
+/* Scope */
+"_ObjectProperty_Scope_scopeEntity" = "Тип фильтра";
+
+/* (No Comment) */
+"_ObjectProperty_Scope_scopeName" = "Название фильтра";
+
+/* (No Comment) */
+"_ObjectProperty_Source_isBookmarked" = "Отмечено";
+
+/* (No Comment) */
+"_ObjectProperty_Source_sourceRepository" = "Исходный архив";
+
+/* Source */
+"_ObjectProperty_Source_template" = "Исходный шаблон";
+
+/* (No Comment) */
+"_ObjectProperty_Source_text" = "Текст";
+
+/* SourceContainer */
+"_ObjectProperty_SourceContainer_sourceRelations" = "Источники информации";
+
+/* (No Comment) */
+"_ObjectProperty_SourceKeyValue_source" = "Источник";
+
+/* SourceKeyValue */
+"_ObjectProperty_SourceKeyValue_templateKey" = "Поле шаблона";
+
+/* (No Comment) */
+"_ObjectProperty_SourceKeyValue_value" = "Значение";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRelation_certainty" = "Достоверность";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRelation_page" = "Страница";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRelation_qualityEvidence" = "Качество доказательств";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRelation_qualityInformation" = "Качество информации";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRelation_qualitySource" = "Качество источника";
+
+/* SourceRelation */
+"_ObjectProperty_SourceRelation_source" = "Источник";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRelation_sourceContainer" = "Ссылка на запись";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_address" = "Адрес";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_addressLine1" = "Адресная строка 1";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_addressLine2" = "Адресная строка 2";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_addressLine3" = "Адресная строка 3";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_city" = "Город";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_country" = "Страна";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_email" = "Email";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_fax" = "Факс";
+
+/* SourceRepository */
+"_ObjectProperty_SourceRepository_name" = "Имя";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_phone" = "Телефон";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_postalCode" = "Почтовый индекс";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_state" = "Адрес";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_www" = "WWW";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplate_isDefaultTemplate" = "Шаблон по умолчанию";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplate_isFavoriteTemplate" = "Любимый шаблон";
+
+/* SourceTemplate */
+"_ObjectProperty_SourceTemplate_name" = "Имя";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKey_gedcomTag" = "GEDCOM тег";
+
+/* SourceTemplateKey */
+"_ObjectProperty_SourceTemplateKey_name" = "Название поля";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKey_order" = "Порядок";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKey_type" = "Тип поля";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_isDateForDisplayComponent" = "Включено в исходную дату";
+
+/* SourceTemplateKeyRelation */
+"_ObjectProperty_SourceTemplateKeyRelation_isTitleComponent" = "Включено в заголовок источника";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_longCitationBracketMode" = "Скобки для полной ссылки";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_longCitationEnabled" = "Включено для длинного цитирования";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_longCitationFontMode" = "Шрифт длинного цитирования";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_longCitationOrder" = "Порядок длинного цитирования";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_longCitationTrailingMode" = "Разделитель полных ссылок";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_order" = "Порядок";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_shortCitationBracketMode" = "Скобки для короткой ссылки";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_shortCitationEnabled" = "Включено для короткого цитирования";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_shortCitationFontMode" = "Шрифт короткого цитирования";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_shortCitationOrder" = "Порядок короткого цитирования";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_shortCitationTrailingMode" = "Разделитель коротких ссылок";
+
+/* (No Comment) */
+"_ObjectProperty_Story_fromDate" = "С даты";
+
+/* Story */
+"_ObjectProperty_Story_title" = "Название";
+
+/* (No Comment) */
+"_ObjectProperty_Story_toDate" = "До даты";
+
+/* (No Comment) */
+"_ObjectProperty_Story_userDescription" = "Описание";
+
+/* (No Comment) */
+"_ObjectProperty_StorySection_order" = "Порядок";
+
+/* StorySection */
+"_ObjectProperty_StorySection_subtitle" = "Название раздела";
+
+/* (No Comment) */
+"_ObjectProperty_StorySection_text" = "Текст";
+
+/* ToDo */
+"_ObjectProperty_ToDo_dueDate" = "Дата";
+
+/* (No Comment) */
+"_ObjectProperty_ToDo_priorityConclusionType" = "Приоритет";
+
+/* (No Comment) */
+"_ObjectProperty_ToDo_statusConclusionType" = "Статус";
+
+/* (No Comment) */
+"_ObjectProperty_ToDo_text" = "Текст";
+
+/* (No Comment) */
+"_ObjectProperty_ToDo_title" = "Название";
+
+/* (No Comment) */
+"_ObjectProperty_ToDo_typeConclusionType" = "Тип";
+
+/* (No Comment) */
+"_ObjectType_AdditionalName" = "Дополнительное имя";
+
+/* (No Comment) */
+"_ObjectType_AssociateRelation" = "Отношения с влиятельными людьми";
+
+/* (No Comment) */
+"_ObjectType_BaseMedia" = "Медиа";
+
+/* (No Comment) */
+"_ObjectType_BaseObjectFamilySearchProperties" = "FamilySearch информация";
+
+/* (No Comment) */
+"_ObjectType_Book" = "Книга";
+
+/* (No Comment) */
+"_ObjectType_BookBaseObjectReportBuilder" = "Отчёт о человеке/семье";
+
+/* (No Comment) */
+"_ObjectType_BookBaseObjectsBasedReportBuilderObject" = "Объект раздела отчёта";
+
+/* (No Comment) */
+"_ObjectType_BookBaseObjectsBasedReportBuilderSection" = "Раздел отчёта";
+
+/* (No Comment) */
+"_ObjectType_BookChapter" = "Глава книги";
+
+/* (No Comment) */
+"_ObjectType_BookDiagramBaseObject" = "Объект раздела диаграммы";
+
+/* (No Comment) */
+"_ObjectType_BookDiagramReportBuilderSection" = "Раздел диаграммы %@";
+
+/* (No Comment) */
+"_ObjectType_BookFamilyBasedReportBuilderSection" = "Раздел отчёта";
+
+/* (No Comment) */
+"_ObjectType_BookFamilySection" = "Раздел о семье";
+
+/* (No Comment) */
+"_ObjectType_BookGenericReportBuilderSection" = "Раздел отчёта";
+
+/* (No Comment) */
+"_ObjectType_BookPersonBasedReportBuilderSection" = "Раздел отчёта";
+
+/* (No Comment) */
+"_ObjectType_BookPersonSection" = "Раздел о человеке";
+
+/* (No Comment) */
+"_ObjectType_BookReportBuilderFamily" = "Семейный раздел отчёта";
+
+/* (No Comment) */
+"_ObjectType_BookReportBuilderPerson" = "Раздела отчёта человека";
+
+/* (No Comment) */
+"_ObjectType_BookSerializedBaseObjectReportBuilder" = "Настройка отчёта";
+
+/* (No Comment) */
+"_ObjectType_BookSerializedBaseReportBuilder" = "Настройка раздела отчёта";
+
+/* (No Comment) */
+"_ObjectType_BookSerializedChapterReportBuilder" = "Настройка отчёта главы";
+
+/* (No Comment) */
+"_ObjectType_BookSerializedEditedReportBuilder" = "Настройка отредактированного отчёта";
+
+/* (No Comment) */
+"_ObjectType_ChangeLogEntry" = "Журнал изменений";
+
+/* (No Comment) */
+"_ObjectType_ChangeLogSubEntry" = "Запись журнала изменений";
+
+/* (No Comment) */
+"_ObjectType_ChildRelation" = "Родство ребенка";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerCloudKitChangesWorklist" = "Информация о синхронизации CloudTree";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerCloudKitChangesWorklistAddVerifyListItem" = "Информация о синхронизации CloudTree";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerCloudKitChangesWorklistForRecordType" = "Информация о синхронизации CloudTree";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerCloudKitChangesWorklistForRecordTypeEntry" = "Информация о синхронизации CloudTree";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerCloudKitChangesWorklistZoneNameServerChangeToken" = "Информация о синхронизации CloudTree";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerLocalChangesWorklist" = "Информация о синхронизации CloudTree";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerLocalChangesWorklistDanglingReferenceEntry" = "Информация о синхронизации CloudTree";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerLocalChangesWorklistFinalDeleteEntry" = "Информация о синхронизации CloudTree";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerLocalChangesWorklistForEntity" = "Информация о синхронизации CloudTree";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerLocalChangesWorklistForEntityEntry" = "Информация о синхронизации CloudTree";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerLocalChangesWorklistPostponedEntry" = "Информация о синхронизации CloudTree";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerSpecialPostDownloadStep" = "Информация о синхронизации CloudTree";
+
+/* (No Comment) */
+"_ObjectType_ConclusionAdditionalNameType" = "Тип дополнительного имени";
+
+/* (No Comment) */
+"_ObjectType_ConclusionAssociateRelationType" = "Влиятельный тип отношений";
+
+/* (No Comment) */
+"_ObjectType_ConclusionFamilyEventType" = "Тип семейного события";
+
+/* (No Comment) */
+"_ObjectType_ConclusionPersonEventType" = "Тип события о человеке";
+
+/* (No Comment) */
+"_ObjectType_ConclusionPersonFactType" = "Тип факта о человеке";
+
+/* (No Comment) */
+"_ObjectType_Coordinate" = "Координаты";
+
+/* (No Comment) */
+"_ObjectType_DNATestATDNASubResult" = "Аутосомная информация о результате ДНК";
+
+/* (No Comment) */
+"_ObjectType_DNATestBaseSubResultRawDataFile" = "Файл исходных данных ДНК";
+
+/* (No Comment) */
+"_ObjectType_DNATestMTDNASubResult" = "Информация о результате мтДНК";
+
+/* (No Comment) */
+"_ObjectType_DNATestMTDNASubResultSNPDifference" = "мтДНК SNP разница";
+
+/* (No Comment) */
+"_ObjectType_DNATestResult" = "Результат теста ДНК";
+
+/* (No Comment) */
+"_ObjectType_DNATestYDNASubResult" = "Информация о результате Y-ДНК";
+
+/* (No Comment) */
+"_ObjectType_DNATestYDNASubResultYSTRMarker" = "Y-ДНК STR маркер";
+
+/* (No Comment) */
+"_ObjectType_Event" = "Событие";
+
+/* (No Comment) */
+"_ObjectType_Fact" = "Факт";
+
+/* (No Comment) */
+"_ObjectType_Family" = "Семья";
+
+/* (No Comment) */
+"_ObjectType_FamilyEvent" = "Семейное событие";
+
+/* (No Comment) */
+"_ObjectType_FamilySearchKnownBadFurtherInformationMatch" = "FamilySearch информация";
+
+/* (No Comment) */
+"_ObjectType_FamilySearchKnownBadPersonMatch" = "Информация FamilySearch";
+
+/* (No Comment) */
+"_ObjectType_FamilyTreeInformation" = "Информация о семейном древе";
+
+/* (No Comment) */
+"_ObjectType_Label" = "Метка";
+
+/* (No Comment) */
+"_ObjectType_LabelRelation" = "Отметить отношение";
+
+/* (No Comment) */
+"_ObjectType_MediaAudio" = "Аудио";
+
+/* (No Comment) */
+"_ObjectType_MediaPDF" = "PDF";
+
+/* (No Comment) */
+"_ObjectType_MediaPicture" = "Изображение";
+
+/* (No Comment) */
+"_ObjectType_MediaRelation" = "Медиа родство";
+
+/* (No Comment) */
+"_ObjectType_MediaRelationAssignment" = "Назначение изображения";
+
+/* (No Comment) */
+"_ObjectType_MediaRelationAssignmentPicture" = "Изображение назначения медиа отношений";
+
+/* (No Comment) */
+"_ObjectType_MediaURL" = "URL";
+
+/* (No Comment) */
+"_ObjectType_MediaVideo" = "Видео";
+
+/* (No Comment) */
+"_ObjectType_Note" = "Примечание";
+
+/* Object Types */
+"_ObjectType_Person" = "Человек";
+
+/* (No Comment) */
+"_ObjectType_PersonEvent" = "Событие человека";
+
+/* (No Comment) */
+"_ObjectType_PersonFact" = "Факт человека";
+
+/* (No Comment) */
+"_ObjectType_PersonGroup" = "Группа людей";
+
+/* (No Comment) */
+"_ObjectType_PersonGroupRelation" = "Ссылка на группу людей";
+
+/* (No Comment) */
+"_ObjectType_Place" = "Место";
+
+/* (No Comment) */
+"_ObjectType_PlaceDetail" = "Сведения о месте";
+
+/* (No Comment) */
+"_ObjectType_PlaceKeyValue" = "Значение места";
+
+/* (No Comment) */
+"_ObjectType_PlaceTemplate" = "Шаблон места";
+
+/* (No Comment) */
+"_ObjectType_PlaceTemplateKey" = "Поле шаблона места";
+
+/* (No Comment) */
+"_ObjectType_PlaceTemplateKeyRelation" = "Связь полей шаблона места";
+
+/* (No Comment) */
+"_ObjectType_ResearchAssistantQuestionInfo" = "Информация по помощнику исследований";
+
+/* (No Comment) */
+"_ObjectType_SavedBook" = "Сохранённая книга";
+
+/* (No Comment) */
+"_ObjectType_SavedChart" = "Диаграмма";
+
+/* (No Comment) */
+"_ObjectType_SavedReport" = "Отчет";
+
+/* (No Comment) */
+"_ObjectType_SavedWebsite" = "Сохраненный сайт";
+
+/* (No Comment) */
+"_ObjectType_Scope" = "Фильр";
+
+/* (No Comment) */
+"_ObjectType_Source" = "Источник";
+
+/* (No Comment) */
+"_ObjectType_SourceKeyValue" = "Исходное значение";
+
+/* (No Comment) */
+"_ObjectType_SourceRelation" = "Источник информации";
+
+/* (No Comment) */
+"_ObjectType_SourceRepository" = "Исходный архив";
+
+/* (No Comment) */
+"_ObjectType_SourceTemplate" = "Исходный шаблон";
+
+/* (No Comment) */
+"_ObjectType_SourceTemplateKey" = "Исходное поле шаблона";
+
+/* (No Comment) */
+"_ObjectType_SourceTemplateKeyRelation" = "Связь полей исходного шаблона";
+
+/* (No Comment) */
+"_ObjectType_Story" = "История";
+
+/* (No Comment) */
+"_ObjectType_StoryRelation" = "Справка по истории";
+
+/* (No Comment) */
+"_ObjectType_StorySection" = "Раздел истории";
+
+/* (No Comment) */
+"_ObjectType_StorySectionRelation" = "Ссылка на раздел истории";
+
+/* (No Comment) */
+"_ObjectType_ToDo" = "Задача";
+
+/* (No Comment) */
+"_ObjectType_ToDoRelation" = "Связь задачи с человеком";
+
+/* (No Comment) */
+"_Person_ChangeLog_Added" = "Человек добавлен";
+
+/* (No Comment) */
+"_Person_ChangeLog_ConflictResolved" = "Конфликт свойств '%@' был решён как '%@'";
+
+/* (No Comment) */
+"_Person_ChangeLog_Deleted" = "Человек '%@' удалён";
+
+/* (No Comment) */
+"_Person_ChangeLogKey" = "Человек %@";
+
+/* (No Comment) */
+"_Person_ChangeLogPropertyKey_FirstName" = "Имя измененно с '%@' на '%@'";
+
+/* (No Comment) */
+"_Person_ChangeLogPropertyKey_Gender" = "Пол изменён с '%@' на '%@'";
+
+/* (No Comment) */
+"_Person_ChangeLogPropertyKey_LastName" = "Фамилия изменена с '%@' на '%@'";
+
+/* (No Comment) */
+"_Person_ChangeLogPropertyKey_NameMiddle" = "Отчество изменено '%@' на '%@'";
+
+/* (No Comment) */
+"_Person_ChangeLogPropertyKey_NamePrefix" = "Префикс имени изменён с '%@' на '%@'";
+
+/* (No Comment) */
+"_Person_ChangeLogPropertyKey_NameSuffix" = "Суффикс имени изменён с '%@' на '%@'";
+
+/* (No Comment) */
+"_PlaceTemplateKeyRelation_relationUsage" = "Использование";
+
+/* (No Comment) */
+"_Source_ChangeLog_Added" = "Источник добавлен";
+
+/* (No Comment) */
+"_Source_ChangeLog_ConflictResolved" = "Конфликт свойств \"%@' источника, решено как '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLog_Deleted" = "Источник '%@' удалён";
+
+/* (No Comment) */
+"_Source_ChangeLogKey" = "Источник %@";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Abbreviation" = "Аббревиатура изменена с '%@' на '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Agency" = "Авторитетность изменена с '%@' на '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Author" = "Автор изменён с '%@' на '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Date" = "Дата изменена с '%@' на '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Place" = "Место изменено с '%@' на '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Publication" = "Публикация изменена с '%@' на '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_ReferenceNumber" = "Номер ссылки изменён '%@' на '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_ReferenceType" = "Тип ссылки изменён с '%@' на '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Text" = "Текст изменён";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Title" = "Название изменено с '%@' на '%@'";
+
+/* (No Comment) */
+"_SourceKeyValue_ChangeLog_Added" = "Значение '%@' добавлено";
+
+/* (No Comment) */
+"_SourceKeyValue_ChangeLog_ConflictResolvedForValueProperty" = "Конфликт значения '%@' разрешён к '%@'";
+
+/* (No Comment) */
+"_SourceKeyValue_ChangeLog_Deleted" = "Значение '%@' удалено";
+
+/* (No Comment) */
+"_SourceKeyValue_ChangeLogPropertyKey_Value" = "Значение '%@' изменено с '%@' на '%@'";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLog_SourceContainerDelete" = "Источник информации '%@' удалён";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLog_SourceDelete" = "Источник информации '%@' удалён";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLogPropertyKey_Page" = "Страница источника информации '%@' изменена с '%@' на '%@'";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLogPropertyKey_QualityEvidence" = "Качество доказательства источника информации '%@' изменено с '%@' на '%@'";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLogPropertyKey_QualityInformation" = "Качество информации источника для '%@' изменено с '%@' на '%@'";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLogPropertyKey_QualitySource" = "Качество источника информации '%@' изменено с '%@' на '%@'";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLogPropertyKey_Source" = "Добавлено как источник информации к '%@'";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLogPropertyKey_SourceContainer" = "Источник информации '%@' добавлен";
+

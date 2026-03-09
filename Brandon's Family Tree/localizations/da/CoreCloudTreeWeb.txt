@@ -1,0 +1,207 @@
+﻿/* LoginPage */
+"_CoreCloudTreeWeb__CreateAppleID" = "Opret et Apple ID";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptedShare" = "Accepterede CloudTree-invitation: %@";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptedShare_Needs_To_Sign_In_To_Different_Container" = "Log først ud for at se dette træ. Log derefter på %@.";
+
+/* AcceptShare */
+"_CoreCloudTreeWeb_AcceptShare_ActionsMenu_Title" = "Accepter CloudTree-invitation…";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptShare_Failed" = "Accept af CloudTree-invitation mislykkedes (%@).";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptShare_Failed_No_Matching_Container" = "Accepter CloudTree invitation mislykkedes, delings-link er ikke gyldigt.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptShare_Instruction" = "For at acceptere en invitation til et delt træ, indsæt venligst det link, du modtog i tekstfeltet ovenfor, og tryk på 'OK'.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptShare_NeedLoginOrCreateAppleIDDescription" = "For at deltage i dette familietræ, der deles med dig ved hjælp af CloudTree, skal du logge ind med dit Apple ID. Hvis du ikke har et Apple ID, skal du oprette et gratis Apple ID for at blive medlem af dette familietræ.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptShare_ShareLink" = "Del link";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptShare_Title" = "Bliv medlem af familietræet på CloudTree";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AddingPicturesNotSupportedInSharedDatabaseWarning" = "Tilføjelse af billeder til et delt familietræ understøttes ikke aktuelt, men vil snart være tilgængeligt.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Buy_MacFamilyTree_Or_MobileFamilyTree_Title" = "Køb MacFamilyTree eller MobileFamilyTree i App Store";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Close_Databases" = "Luk familietræ";
+
+/* EventDropDownList */
+"_CoreCloudTreeWeb_CommonEvents" = "Almindelige begivenheder";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_CommonFacts" = "Almindelige fakta";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Description" = "CloudTreeWeb er en tjeneste som lader dig redigere familietræer, delt med dig fra $MFTLINKPLACEHOLDER$ eller $MFTLINKPLACEHOLDER$.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_ErrorMessage_AuthenticationExpired_Error" = "Din session er udløbet. Log venligst ind igen for at fortsætte.";
+
+/* Errors */
+"_CoreCloudTreeWeb_ErrorMessage_Saving_ConflictError" = "Arkivering af dine ændringer mislykkedes, fordi denne post blev ændret af en anden bruger. Du er nødt til at genindlæse siden.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_ErrorMessage_Saving_UnknownError" = "Arkivering af ændringer mislykkedes pga. en ukendt fejl. Genindlæs venligst siden. Vedbliver problemet, da kontakt os venligst.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Go_To_Overview" = "Overblik";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Imprint_Title" = "Impressum";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_1_Text" = "CloudTreeWeb er en gratis service til MacFamilyTree og MobileFamilyTree. Ved at bruge CloudTreeWeb kan du få adgang til familietræer oprettet i MacFamilyTree eller MobileFamilyTree over internettet. Du kan selv få adgang til dine familietræer, men CloudTreeWeb giver dig også mulighed for at samarbejde med brugere på et familietræ, der bruger Windows eller Android. For eksempel kan du invitere familiemedlemmer til at samarbejde, som ikke bruger en Mac, iPhone eller iPad, for at få værdifuld data til dit familietræ.";
+
+/* Instructions */
+"_CoreCloudTreeWeb_Instructions_Section_1_Title" = "Hvad er CloudTreeWeb?";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_2_Text" = "For at få adgang til dine egne familietræer skal du blot logge ind med det Apple ID, du bruger på din Mac, iPhone eller iPad. Dine træer synkroniseret med CloudTree vises derefter automatisk. Ændringer du foretager på CloudTreeWeb vil blive afspejlet i MacFamilyTree eller MobileFamilyTree – og omvendt.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_2_Title" = "Hvordan får jeg adgang til mine egne familietræer?";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_3_Text" = "Hvis du vil invitere en anden bruger til at samarbejde, skal vedkommende først have et Apple ID, som kan $BEGINLINK$registreres her$ENDLINK$ gratis. Når brugeren har fået et Apple ID, inviter det Apple ID til dit familietræ via CloudTree i MacFamilyTree eller MobileFamilyTree. For detaljer om at invitere i MacFamilyTree eller MobileFamilyTree henvises til softwarens brugermanual. Når invitationen er lavet, skal du sende den pågældende person invitationslinket - for eksempel via e-mail eller messenger. Den inviterede logger derefter på CloudTreeWeb med deres Apple-id og accepterer invitationen ved at bruge knappen, der vises nedenfor.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_3_Title" = "Hvordan inviterer jeg en bruger der ikke bruger MacFamilyTree eller MobileFamilyTree?";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_4_Text" = "Hvis en MacFamilyTree- eller MobileFamilyTree-bruger har sendt dig et invitationslink, kan du sammen med dem undersøge et familietræ. Først skal du have et gratis Apple ID, som du kan $BEGINLINK$registrere her$ENDLINK$ gratis. Når du har registreret dit Apple-id, skal du bruge det til at logge ind på CloudTreeWeb. Når registreringen er gennemført, skal du acceptere invitationslinket ved at klikke på linket 'Accepter CloudTree-invitation' nedenfor og indtaste linket der. Familietræet vises derefter på familietræets oversigtsside og kan redigeres. Bemærk, at alle ændringer, du foretager, automatisk afspejles i MacFamilyTree eller MobileFamilyTree.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_4_Title" = "Jeg blev inviteret til et træ, men jeg bruger ikke MacFamilyTree eller MobileFamilyTree. Hvordan kan jeg bidrage med data til familietræet?";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_5_Text" = "Dine data er beskyttet på den bedst mulige måde. Sådan som CloudTreeWeb fungerer, er tredjeparter blokeret fra at få adgang til dine data – selv vi, som udviklere, har ikke adgang til dine familietræsdata. Dette er muligt, fordi CloudTreeWeb forespørger familietræets data direkte fra Apple iCloud fra din computer eller mobiltelefon uden en omvej gennem vores servere. Dermed opfylder CloudTreeWeb de samme sikkerhedsstandarder som Apples egen iCloud.com hjemmeside, f.eks. Sørg for, at dit Apple-id er tilstrækkeligt beskyttet - for eksempel ved at bruge en adgangskode, som du ikke bruger med nogen anden tjeneste, og ved at aktivere to-faktor-godkendelse.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_5_Title" = "Hvordan er mine data beskyttede?";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_6_Text" = "Vi er glade for at høre fra dig. Hvis du har et forslag til forbedring eller har bemærket et problem, bedes du bruge kontaktformularen på $BEGINLINK$www.syniumsoftware.com$ENDLINK$ for at komme i kontakt med os.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_6_Title" = "Jeg har et forslag elle et problem - hvordan kan jeg lade jer vide det?";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Title" = "Hvordan bruges CloudTreeWeb?";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_No_Private_Databases_Explanation" = "Aktuelt har du ikke uploadet nogen familietræer til CloudTree. Brug venligst MacFamilyTree på din Mac eller MobileFamilyTree på din iPhone eller iPad til at uploade familietræer.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_No_Private_Databases_Title" = "Ingen familietræer";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_No_Shared_Databases_Explanation" = "Ingen familietræer er blevet delt med dig på CloudTree. For at deltage i et familietræ for en anden person, beder du ejeren af familietræet om at dele deres familietræ på CloudTree ved hjælp af MacFamilyTree eller MobileFamilyTree med dit Apple ID.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_No_Shared_Databases_Title" = "Ingen familietræer er delt med dig";
+
+/* SelectDatabase */
+"_CoreCloudTreeWeb_Private_Databases" = "Mine familietræer";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Select_MacFamilyTree_Version" = "Vælg din MacFamilyTree- eller MobileFamilyTree-version";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Shared_Databases" = "Familietræer delt med mig";
+
+/* Warnings */
+"_CoreCloudTreeWeb_ThereAreUnsavedChangesWarning" = "Der er ikke arkiverede ændringer. Vil du virkelig forlade visningen?";
+
+/* EditFamily */
+"_EditFamily_SelectFamily_ActionsMenu_Title" = "Vælg familie…";
+
+/* (No Comment) */
+"_EditFamily_SelectFamily_ActionsMenu_Title_Short" = "Familie…";
+
+/* EditMedia */
+"_EditMedia_Download_PDF" = "Download PDF";
+
+/* EditPerson */
+"_EditPerson_SelectPerson_ActionsMenu_Title" = "Vælg person…";
+
+/* (No Comment) */
+"_EditPerson_SelectPerson_ActionsMenu_Title_Short" = "Person…";
+
+/* EditPLace */
+"_EditPerson_SelectPlace_ActionsMenu_Title" = "Vælg sted…";
+
+/* (No Comment) */
+"_EditPerson_SelectPlace_ActionsMenu_Title_Short" = "Sted…";
+
+/* (No Comment) */
+"_EditPlaceMapSection_Title" = "Kort";
+
+/* EditSource */
+"_EditSource_SelectSource_ActionsMenu_Title" = "Rediger kilde…";
+
+/* (No Comment) */
+"_EditSource_SelectSource_ActionsMenu_Title_Short" = "Kilde…";
+
+/* (No Comment) */
+"_FamiliesList_Title" = "Familieliste";
+
+/* (No Comment) */
+"_ItemsList_LoadMore" = "Indlæs flere…";
+
+/* (No Comment) */
+"_ItemsList_NoChanges" = "Ingen ændringer";
+
+/* (No Comment) */
+"_ItemsList_NoFamilies" = "Ingen familier";
+
+/* (No Comment) */
+"_ItemsList_NoPersons" = "Ingen personer";
+
+/* (No Comment) */
+"_ItemsList_NoPlaces" = "Ingen steder";
+
+/* (No Comment) */
+"_ItemsList_NoSources" = "Ingen kilder";
+
+/* (No Comment) */
+"_ItemsList_SearchBar_Description" = "Søgning skelner mellem store/små bogstaver og matcher kun begyndelsen af et navn.";
+
+/* (No Comment) */
+"_ItemsList_Select_Family_Title" = "Vælg familie";
+
+/* ItemsList */
+"_ItemsList_Select_Person_Title" = "Vælg person";
+
+/* (No Comment) */
+"_ItemsList_Select_Place_Title" = "Vælg sted";
+
+/* (No Comment) */
+"_ItemsList_Select_Source_Title" = "Vælg kilde";
+
+/* (No Comment) */
+"_PersonsList_Title" = "Personliste";
+
+/* (No Comment) */
+"_PlacesList_Title" = "Stedliste";
+
+/* (No Comment) */
+"_SourcesList_Title" = "Kildeliste";
+
+/* (No Comment) */
+"iCloud.com.syniumsoftware.familytree10" = "Version 10";
+
+/* (No Comment) */
+"iCloud.com.syniumsoftware.familytree11" = "Version 11";
+

@@ -1,0 +1,207 @@
+﻿/* LoginPage */
+"_CoreCloudTreeWeb__CreateAppleID" = "Luo Apple ID";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptedShare" = "Hyväksytty CloudTree kutsu: %@.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptedShare_Needs_To_Sign_In_To_Different_Container" = "Nähdäksesi tämän puun kirjaudu ensin ulos. Kirjaudu sitten %@.";
+
+/* AcceptShare */
+"_CoreCloudTreeWeb_AcceptShare_ActionsMenu_Title" = "Hyväksy CloudTree kutsu";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptShare_Failed" = "CloudTree kutsun hyväksyminen epäonnistui (%@).";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptShare_Failed_No_Matching_Container" = "CloudTree kutsun hyväksyminen epäonnistui, linkin jako ei ole voimassa.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptShare_Instruction" = "Hyväksyäksesi kutsun jaettuun puuhun sijoita vastaanottamasi linkki tekstikenttään yllä ja osoita 'Ok'.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptShare_NeedLoginOrCreateAppleIDDescription" = "Osallistuaksesi tähän kanssasi CloudTreessä  jaettuun sukupuuhun, sinun täytyy kirjautua Apple ID:lläsi. Jos sinulla ei ole Apple ID:tä niin luo ilmainen Apple ID jotta voit liittyä tähän sukupuuhun.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptShare_ShareLink" = "Jaa linkki";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptShare_Title" = "Liity sukupuuhun CloudTreessä";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AddingPicturesNotSupportedInSharedDatabaseWarning" = "Kuvien lisääminen jaettuun sukupuuhun ei ole vielä tuettu, mutta tulee mahdolliseksi pian.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Buy_MacFamilyTree_Or_MobileFamilyTree_Title" = "Osta MacFamilyTree tai MobileFamilyTree App Storesta";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Close_Databases" = "Sulje sukupuu";
+
+/* EventDropDownList */
+"_CoreCloudTreeWeb_CommonEvents" = "Yleiset tapahtumat";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_CommonFacts" = "Yleiset faktat";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Description" = "CloudTreeWeb on palvelu, jonka avulla voit muokata sukupuita jotka sinulle on jakanut $MFTLINKPLACEHOLDER$ tai $MFTLINKPLACEHOLDER$.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_ErrorMessage_AuthenticationExpired_Error" = "Istuntosi on päättynyt. Kirjaudu uudelleen sisään jatkaaksesi.";
+
+/* Errors */
+"_CoreCloudTreeWeb_ErrorMessage_Saving_ConflictError" = "Muutostesi tallentaminen epäonnistui koska tietuetta on muokannut toinen käyttäjä. Sivu on ladattava uudelleen.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_ErrorMessage_Saving_UnknownError" = "Muutosten tallentaminen epäonnistui tuntemattoma virheen takia. Lataa sivu uudelleen. Jos ongelma jatkuu, ota yhteys meihin.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Go_To_Overview" = "Yleisnäkymä";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Imprint_Title" = "Leima";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_1_Text" = "CloudTreeWeb on maksuton palvelu MacFamilyTreelle ja MobileFamilytreelle. CloudTreeWebiä käyttämällä voit päästä käsiksi MacFamilyTreellä tai MobileFamilytreellä luotuihin sukupuihin internetin kautta. Voit käyttää itse omia sukupuitasi, mutta CloudTreeWeb sallii yhteistyön myös niiden käyttäjien kanssa, jotka käyttävät Windowsia tai Androidia. Voit esimerkiksi kutsua yhteistyöhön suvun jäseniä, jotka eivät käytä Maciä, iPhonea tai iPadia saamaan arvokasta tietoa sukupuustasi.";
+
+/* Instructions */
+"_CoreCloudTreeWeb_Instructions_Section_1_Title" = "Mikä on CloudTreeWeb?";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_2_Text" = "Päästäksesi käsiksi omiin sukupuihisi, kirjaudu Apple ID:llä, jota käytät omassa Macissä, iPhonessa tai iPadissa. Silloin CloudTreehe synkronoidut sukupuusi näkyvät automaattisesti. CloudTreeWebissä tekemäsi muutokset näkyvät MacFamilyTreessä tai MobileFamilyTreessä - ja päinvastoin.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_2_Title" = "Kunka pääsen käsiksi omiin sukupuihini?";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_3_Text" = "Jos haluat kutsua muita käyttäjiä yhteistyöhön, he tarvitsevat Apple ID:n, jonka voi $BEGINLINK$rekisteröidä tässä$ENDLINK$ ilmaiseksi. Kun käyttäjä on saanut Apple ID:n, kutsu se Apple ID sukupuuhusi CloudTreen kautta MacFamilyTreessä tai MobileFamilyTreessä. Yksityiskohtaiset ohjeet kutsumiseen MacFamilyTreessä tai MobileFamilyTreessä löytyvät ohjelmien käyttöohjeista. Kun kutsu on tehty, lähetä henkilölle kutsulinkki - esimerkiksi sähköpostilla tai messengerillä. Kutsuttu kirjautuu sitten CloudTreeWebiin Apple ID:llään ja hyväksyy kutsun painikkeella joka näkyy alla.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_3_Title" = "Kuinka kutsun käyttjän, joka ei käytä MacFamilyTreetä tai MobileFamilyTreetä?";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_4_Text" = "Jos MacFamilyTree tai MobileFamilyTree käyttäjä on lähettänyt sinulle kutsulinkin, voit liittyä siihen tutkimaan sukupuuta. Ensiksi tarvitset ilmaisen Apple ID:n, jonka voit rekisteröidä $BEGINLINK$rekisteröidä tässä$ENDLINK$ ilmaiseksi. Onnistuneen Apple ID:si rekisteröinnin jälkeen käytä sitä CloudTreeWebiin kirjautumiseen. Kun rekisteröinti on tehty, hyväksy kutsulinkki osoittamalla 'Accept CloudTree invitation' linkkiä alla ja syöttämällä linkki siihen. Sukupuu näkyy silloin sukupuu yleisnäkymäsivulla ja on muokattavissa. Huomaa että kaikki tekemäsi muutokset peilautuvat myös MacFamilyTreehen tai MobileFamilyTreehen.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_4_Title" = "Sain kutsun sukupuuhun, mutta en käytä MacFamilyTreetä tai MobileFamilyTreetä. Kuinka voin olla osallisena sukupuuhun tietoihin?";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_5_Text" = "Tietosi ovat suojatut parhaalla mahdollisella tavalla. Tapa millä CloudTreeWeb toimii, kolmansilta osapuolilta estetään pääsy tietohisi - edes meillä, kehittäjillä, ei ole pääsyä sukupuutietoihisi. Tämä on mahdollista koska CloudTreeWeb kyselee sukupuutietoja suoraan Applen iCloudilta tietokoneeltasi tai puhelimeltasi kulkematta meidän palveliemme kautta. Täten CloudTreeWeb saavuttaa samat turvastandardit kuin esimerkiksi Applen oma iCloud.com webbisvu. Varmista että Apple ID:si on riittävästi suojattu - esimerkiksi käyttämällä salasanaa, jota et käytä muissa palveluissa ja käyttämällä kaksivaiheista tunnistautumista.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_5_Title" = "Kuinka tietoni on suojattu?";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_6_Text" = "Olemme mielissämme kuullessamme sinusta. Jos sinulla on ehdotus parannukseksi tai olet huomannut ongelman, käytä yhteydenottolomaketta $BEGINLINK$www.syniumsoftware.com$ENDLINK$ ottaaksesi yhteyttä meihin.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_6_Title" = "Minulla on ehdotus tai ongelma - kuinka saan yhteyden teihin?";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Title" = "Kuinka CloudTreeWebiä käytetään?";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_No_Private_Databases_Explanation" = "Et ole vielä vienyt yhtään sukupuuta CloudTreehen. Käytä MacFamilyTreetä Macissäsi tai MabileFamilyTreetä iPhonessasi tai iPadissasi viedäksesi sukupuita.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_No_Private_Databases_Title" = "Ei sukupuita";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_No_Shared_Databases_Explanation" = "Yhtään sukupuuta ei ole jaettu kanssasi CloudTreessä. Osallistuaksesi toisten henkilöiden sukupuihin, pyydä sukupuiden omistajia jakamaan sukupuunsa CloudTreessä sinun Apple ID:si kanssa käyttäen MacFamilyTreetä tai MobileFamilyTreetä.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_No_Shared_Databases_Title" = "Yhtään sukupuuta ei ole jaettu kanssasi";
+
+/* SelectDatabase */
+"_CoreCloudTreeWeb_Private_Databases" = "Minun sukupuuni";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Select_MacFamilyTree_Version" = "Valitse MacFamilyTreesi tai MobileFamilyTreesi versio";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Shared_Databases" = "Kanssani jaetut tietokannat";
+
+/* Warnings */
+"_CoreCloudTreeWeb_ThereAreUnsavedChangesWarning" = "Ruudulla on tallentamattomia muutoksia. Poistutaanko silti?";
+
+/* EditFamily */
+"_EditFamily_SelectFamily_ActionsMenu_Title" = "Valitse perhe…";
+
+/* (No Comment) */
+"_EditFamily_SelectFamily_ActionsMenu_Title_Short" = "Perhe…";
+
+/* EditMedia */
+"_EditMedia_Download_PDF" = "Lataa PDF";
+
+/* EditPerson */
+"_EditPerson_SelectPerson_ActionsMenu_Title" = "Valitse henkilö…";
+
+/* (No Comment) */
+"_EditPerson_SelectPerson_ActionsMenu_Title_Short" = "Henkilö…";
+
+/* EditPLace */
+"_EditPerson_SelectPlace_ActionsMenu_Title" = "Valitse paikka…";
+
+/* (No Comment) */
+"_EditPerson_SelectPlace_ActionsMenu_Title_Short" = "Paikka…";
+
+/* (No Comment) */
+"_EditPlaceMapSection_Title" = "Kartta";
+
+/* EditSource */
+"_EditSource_SelectSource_ActionsMenu_Title" = "Valitse lähde…";
+
+/* (No Comment) */
+"_EditSource_SelectSource_ActionsMenu_Title_Short" = "Lähde…";
+
+/* (No Comment) */
+"_FamiliesList_Title" = "Perheluettelo";
+
+/* (No Comment) */
+"_ItemsList_LoadMore" = "Lataa lisää…";
+
+/* (No Comment) */
+"_ItemsList_NoChanges" = "Ei muutoksia";
+
+/* (No Comment) */
+"_ItemsList_NoFamilies" = "Ei perheitä";
+
+/* (No Comment) */
+"_ItemsList_NoPersons" = "Ei henkilöitä";
+
+/* (No Comment) */
+"_ItemsList_NoPlaces" = "Ei paikkoja";
+
+/* (No Comment) */
+"_ItemsList_NoSources" = "Ei lähteitä";
+
+/* (No Comment) */
+"_ItemsList_SearchBar_Description" = "Haku tunnistaa kirjainkoot ja löytää osumat vain nimen alusta.";
+
+/* (No Comment) */
+"_ItemsList_Select_Family_Title" = "Valitse perhe";
+
+/* ItemsList */
+"_ItemsList_Select_Person_Title" = "Valitse henkilö";
+
+/* (No Comment) */
+"_ItemsList_Select_Place_Title" = "Valitse paikka";
+
+/* (No Comment) */
+"_ItemsList_Select_Source_Title" = "Valitse lähde";
+
+/* (No Comment) */
+"_PersonsList_Title" = "Henkilöluettelo";
+
+/* (No Comment) */
+"_PlacesList_Title" = "Paikkaluettelo";
+
+/* (No Comment) */
+"_SourcesList_Title" = "Lähdeluettelo";
+
+/* (No Comment) */
+"iCloud.com.syniumsoftware.familytree10" = "Versio 10";
+
+/* (No Comment) */
+"iCloud.com.syniumsoftware.familytree11" = "Versio 11";
+

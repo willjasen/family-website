@@ -1,0 +1,15 @@
+﻿/* (No Comment) */
+"_Coordinate_East" = "Východ";
+
+/* (No Comment) */
+"_Coordinate_North" = "Sever";
+
+/* (No Comment) */
+"_Coordinate_South" = "Jih";
+
+/* User Readable Coordinate */
+"_Coordinate_UserReadableDegree" = "%@° %@' %@\" %@";
+
+/* (No Comment) */
+"_Coordinate_West" = "Západ";
+

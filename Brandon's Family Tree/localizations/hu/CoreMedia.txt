@@ -1,0 +1,36 @@
+﻿/* (No Comment) */
+"_MediaContainerListController_DeleteMediaButton" = "Médium törlése";
+
+/* (No Comment) */
+"_MediaContainerListController_DeleteMediaInformative" = "Valóban szeretné véglegesen törölni a kiválasztott médiumbeírást?";
+
+/* (No Comment) */
+"_MediaContainerListController_DeleteMediaMessage" = "Törölje a médiumot?";
+
+/* (No Comment) */
+"_MediaContainerListController_DeleteMediaOrRelationInformative" = "Szeretné véglegesen törölni a kiválasztott médiumbeírást, vagy csak el akarja távolítani a médiabejegyzés viszonyát, és meg akarja őrizni ezt az adatot az adatbázisban?";
+
+/* MediaContainerListController */
+"_MediaContainerListController_DeleteMediaOrRelationMessage" = "Törölje a médiumot vagy a médiumviszonyt?";
+
+/* (No Comment) */
+"_MediaContainerListController_DeleteMediaRelationButton" = "Médiumviszony törlése";
+
+/* (No Comment) */
+"_MediaContainerListController_FileWithoutTitleName" = "%d fájl";
+
+/* (No Comment) */
+"_MediaContainerListController_NoDateTitle" = "Dátum hiányzik";
+
+/* (No Comment) */
+"_MediaContainerListController_SortingMode_ByDate" = "Születési dátum szerint";
+
+/* (No Comment) */
+"_MediaContainerListController_SortingMode_ByTitle" = "Titulus szerint";
+
+/* Default Titles */
+"_MediaPicture_DefaultTitleWithDate" = "%@ képe";
+
+/* (No Comment) */
+"_MediaVideo_DefaultTitleWithDate" = "%@ videója";
+

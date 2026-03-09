@@ -1,0 +1,627 @@
+﻿/* Actions */
+"_EditPlaceholderPane_ImportFromAddressBookAction" = "Importovat osoby z Kontaktů...";
+
+/* Subtitles */
+"_EditPlaceholderPane_NewTreeWelcomeMessage" = "Vítejte v MacFamilyTree 11! Pro zahájení výzkumu doporučujeme použít interaktivní strom.";
+
+/* (No Comment) */
+"_EditPlaceholderPane_NewTreeWelcomeMessage_InitialCloudKitDownloadInProgress" = "Rodokmen se právě stahuje z aplikace CloudTree - prosím, buďte trpěliví";
+
+/* (No Comment) */
+"_EditPlaceholderPane_NewTreeWelcomeMessage_MobileFamilyTree" = "Vítejte v MobileFamilyTree 11! Pro zahájení výzkumu doporučujeme použít interaktivní strom.";
+
+/* (No Comment) */
+"_FavoritesPlaceholderPane_ConfigureFavoritesAction" = "Vybrat oblíbené…";
+
+/* (No Comment) */
+"_FunctionTitle_AhnentafelReportPaneName" = "Výkaz rodokmenu";
+
+/* (No Comment) */
+"_FunctionTitle_AhnentafelReportPaneName_Abbreviation" = "Rodokmen";
+
+/* (No Comment) */
+"_FunctionTitle_AncestorChartPaneName" = "Graf předků";
+
+/* (No Comment) */
+"_FunctionTitle_AncestorChartPaneName_Abbreviation" = "Předci";
+
+/* (No Comment) */
+"_FunctionTitle_AnniversaryListReportPaneName" = "Seznam výročí";
+
+/* (No Comment) */
+"_FunctionTitle_AnniversaryListReportPaneName_Abbreviation" = "Výročí";
+
+/* (No Comment) */
+"_FunctionTitle_BooksPaneName" = "Kniha rodokmenu";
+
+/* (No Comment) */
+"_FunctionTitle_BooksPaneName_Abbreviation" = "Kniha rodokmenu";
+
+/* (No Comment) */
+"_FunctionTitle_ChangeLogPane" = "Seznam změn";
+
+/* (No Comment) */
+"_FunctionTitle_ChangeLogPane_Abbreviation" = "Změny";
+
+/* (No Comment) */
+"_FunctionTitle_ChangeLogReportPaneName" = "Výkaz seznamu změn";
+
+/* (No Comment) */
+"_FunctionTitle_ChangesListReportPaneName" = "Seznam změn";
+
+/* (No Comment) */
+"_FunctionTitle_ChartsFunctionsPlaceholder" = "Přehled grafů";
+
+/* (No Comment) */
+"_FunctionTitle_ChartsFunctionsPlaceholder_Abbreviation" = "Přehled grafů";
+
+/* (No Comment) */
+"_FunctionTitle_DatabaseMaintenancePaneName" = "Údržba databáze";
+
+/* (No Comment) */
+"_FunctionTitle_DatabaseMaintenancePaneName_Abbreviation" = "Údržba";
+
+/* (No Comment) */
+"_FunctionTitle_DescendancyReportPaneName" = "Výkaz potomků";
+
+/* (No Comment) */
+"_FunctionTitle_DescendancyReportPaneName_Abbreviation" = "Potomci";
+
+/* (No Comment) */
+"_FunctionTitle_DescendantChartPaneName" = "Graf potomků";
+
+/* (No Comment) */
+"_FunctionTitle_DescendantChartPaneName_Abbreviation" = "Potomci";
+
+/* (No Comment) */
+"_FunctionTitle_DistinctivePersonsListReportPaneName" = "Seznam význačných osob";
+
+/* (No Comment) */
+"_FunctionTitle_DistinctivePersonsListReportPaneName_Abbreviation" = "Význační";
+
+/* (No Comment) */
+"_FunctionTitle_DistributionChartPaneName" = "Rozložení";
+
+/* (No Comment) */
+"_FunctionTitle_DistributionChartPaneName_Abbreviation" = "Rozložení";
+
+/* (No Comment) */
+"_FunctionTitle_DoubleAncestorChartPaneName" = "Dvojitý graf předků (vývod)";
+
+/* (No Comment) */
+"_FunctionTitle_DoubleAncestorChartPaneName_Abbreviation" = "Dvojitý předek";
+
+/* (No Comment) */
+"_FunctionTitle_EditChartPaneName" = "Upravit graf";
+
+/* (No Comment) */
+"_FunctionTitle_EditChartPaneName_Abbreviation" = "Upravit graf";
+
+/* (No Comment) */
+"_FunctionTitle_EditFamilyTreeInformationPaneName" = "Informace o autorovi";
+
+/* (No Comment) */
+"_FunctionTitle_EditFamilyTreeInformationPaneName_Abbreviation" = "Autor";
+
+/* Placeholders */
+"_FunctionTitle_EditFunctionsPlaceholder" = "Přehled úprav";
+
+/* Placeholders Abbreviations */
+"_FunctionTitle_EditFunctionsPlaceholder_Abbreviation" = "Přehled úprav";
+
+/* (No Comment) */
+"_FunctionTitle_EditMediaPaneName" = "Upravit média";
+
+/* (No Comment) */
+"_FunctionTitle_EditMediaPaneName_Abbreviation" = "Média";
+
+/* (No Comment) */
+"_FunctionTitle_EditReportInBookPaneName" = "Upravit výkaz v knize";
+
+/* (No Comment) */
+"_FunctionTitle_EditReportInBookPaneName_Abbreviation" = "Upravit výkaz knih";
+
+/* (No Comment) */
+"_FunctionTitle_EditReportPaneName" = "Upravit výkaz";
+
+/* (No Comment) */
+"_FunctionTitle_EditReportPaneName_Abbreviation" = "Upravit výkaz";
+
+/* (No Comment) */
+"_FunctionTitle_EventsListReportPaneName" = "Seznam událostí";
+
+/* (No Comment) */
+"_FunctionTitle_EventsListReportPaneName_Abbreviation" = "Události";
+
+/* (No Comment) */
+"_FunctionTitle_ExportGEDCOMPaneName" = "Exportovat soubor GEDCOM";
+
+/* (No Comment) */
+"_FunctionTitle_ExportGEDCOMPaneName_Abbreviation" = "Soubor GEDCOM";
+
+/* (No Comment) */
+"_FunctionTitle_ExportSubtreePaneName" = "Exportovat podstrom";
+
+/* (No Comment) */
+"_FunctionTitle_ExportSubtreePaneName_Abbreviation" = "Exportovat podstrom";
+
+/* (No Comment) */
+"_FunctionTitle_FactsListReportPaneName" = "Seznam faktů";
+
+/* (No Comment) */
+"_FunctionTitle_FactsListReportPaneName_Abbreviation" = "Fakta";
+
+/* (No Comment) */
+"_FunctionTitle_Family_PluralCount" = "%@ rodin";
+
+/* (No Comment) */
+"_FunctionTitle_Family_SingularCount" = "%@ rodina";
+
+/* (No Comment) */
+"_FunctionTitle_FamilyGroupReportPaneName" = "Rodinný výkaz";
+
+/* (No Comment) */
+"_FunctionTitle_FamilyGroupReportPaneName_Abbreviation" = "Rodina";
+
+/* (No Comment) */
+"_FunctionTitle_FamilyListPaneName" = "Upravit rodiny";
+
+/* (No Comment) */
+"_FunctionTitle_FamilyListPaneName_Abbreviation" = "Rodiny";
+
+/* (No Comment) */
+"_FunctionTitle_FamilyQuizPaneName" = "Rodinný kvíz";
+
+/* (No Comment) */
+"_FunctionTitle_FamilyQuizPaneName_Abbreviation" = "Kvíz";
+
+/* (No Comment) */
+"_FunctionTitle_FamilySearchPaneName" = "FamilySearch";
+
+/* (No Comment) */
+"_FunctionTitle_FamilySearchPaneName_Abbreviation" = "FamilySearch";
+
+/* (No Comment) */
+"_FunctionTitle_FamilySearchTaskResults_PluralCount" = "%@ výsledků";
+
+/* (No Comment) */
+"_FunctionTitle_FamilySearchTaskResults_SingularCount" = "%@ výsledek";
+
+/* (No Comment) */
+"_FunctionTitle_FanChartPaneName" = "Vějířový graf";
+
+/* (No Comment) */
+"_FunctionTitle_FanChartPaneName_Abbreviation" = "Vějíř";
+
+/* (No Comment) */
+"_FunctionTitle_FavoritesFunctionsPlaceholder" = "Přehled oblíbených funkcí";
+
+/* (No Comment) */
+"_FunctionTitle_FavoritesFunctionsPlaceholder_Abbreviation" = "Přehled oblíbených";
+
+/* (No Comment) */
+"_FunctionTitle_FractalCircularTreeChartPaneName" = "Kruhový strom";
+
+/* (No Comment) */
+"_FunctionTitle_FractalCircularTreeChartPaneName_Abbreviation" = "Kruhový";
+
+/* (No Comment) */
+"_FunctionTitle_FractalFractalTreeChartPaneName" = "Fraktální strom";
+
+/* (No Comment) */
+"_FunctionTitle_FractalFractalTreeChartPaneName_Abbreviation" = "Fraktální strom";
+
+/* (No Comment) */
+"_FunctionTitle_FractalHTreeChartPaneName" = "Fraktální H-strom";
+
+/* (No Comment) */
+"_FunctionTitle_FractalHTreeChartPaneName_Abbreviation" = "H-strom";
+
+/* (No Comment) */
+"_FunctionTitle_FractalHVTreeChartPaneName" = "Čtvercový strom";
+
+/* (No Comment) */
+"_FunctionTitle_FractalHVTreeChartPaneName_Abbreviation" = "Čtvercový";
+
+/* (No Comment) */
+"_FunctionTitle_FractalSymmetricalTreeChartPaneName" = "Symetrický strom";
+
+/* (No Comment) */
+"_FunctionTitle_FractalSymmetricalTreeChartPaneName_Abbreviation" = "Symetrický";
+
+/* (No Comment) */
+"_FunctionTitle_GenogramChartPaneName" = "Graf genogram";
+
+/* (No Comment) */
+"_FunctionTitle_GenogramChartPaneName_Abbreviation" = "Genogram";
+
+/* (No Comment) */
+"_FunctionTitle_HourglassChartPaneName" = "Graf rozrod-vývod";
+
+/* (No Comment) */
+"_FunctionTitle_HourglassChartPaneName_Abbreviation" = "Rozrod-vývod";
+
+/* Function Names */
+"_FunctionTitle_InteractiveTreeEditPaneName" = "Interaktivní strom";
+
+/* Function Names Abbreviations */
+"_FunctionTitle_InteractiveTreeEditPaneName_Abbreviation" = "Interaktivní";
+
+/* (No Comment) */
+"_FunctionTitle_KinshipReportPaneName" = "Výkaz příbuznosti";
+
+/* (No Comment) */
+"_FunctionTitle_KinshipReportPaneName_Abbreviation" = "Příbuznosti";
+
+/* (No Comment) */
+"_FunctionTitle_LDSOrdinancesListReportPaneName" = "Seznam obřadů LDS";
+
+/* (No Comment) */
+"_FunctionTitle_ListReportsFunctionsPlaceholder" = "Přehled seznamů";
+
+/* (No Comment) */
+"_FunctionTitle_ListReportsFunctionsPlaceholder_Abbreviation" = "Přehled seznamů";
+
+/* (No Comment) */
+"_FunctionTitle_MapReportPaneName" = "Výkaz míst";
+
+/* (No Comment) */
+"_FunctionTitle_MapReportPaneName_Abbreviation" = "Mapy";
+
+/* (No Comment) */
+"_FunctionTitle_MapsDiagramPaneName" = "Statistické mapy";
+
+/* (No Comment) */
+"_FunctionTitle_MapsDiagramPaneName_Abbreviation" = "Statistické mapy";
+
+/* (No Comment) */
+"_FunctionTitle_MarriageListReportPaneName" = "Seznam sňatků";
+
+/* (No Comment) */
+"_FunctionTitle_MarriageListReportPaneName_Abbreviation" = "Sňatky";
+
+/* (No Comment) */
+"_FunctionTitle_Media_PluralCount" = "%@ médií";
+
+/* (No Comment) */
+"_FunctionTitle_Media_SingularCount" = "%@ médií";
+
+/* (No Comment) */
+"_FunctionTitle_MediaGalleryName" = "Galerie médií";
+
+/* (No Comment) */
+"_FunctionTitle_MediaGalleryName_Abbreviation" = "Galerie";
+
+/* (No Comment) */
+"_FunctionTitle_MediaGalleryReportPaneName" = "Výkaz galerie médií";
+
+/* (No Comment) */
+"_FunctionTitle_NarrativeReportPaneName" = "Popisný výkaz";
+
+/* (No Comment) */
+"_FunctionTitle_NarrativeReportPaneName_Abbreviation" = "Popis";
+
+/* (No Comment) */
+"_FunctionTitle_Person_PluralCount" = "%@ osob";
+
+/* Count Strings */
+"_FunctionTitle_Person_SingularCount" = "%@ osoba";
+
+/* (No Comment) */
+"_FunctionTitle_PersonAnalysisListReportPaneName" = "Osobní analýza";
+
+/* (No Comment) */
+"_FunctionTitle_PersonAnalysisListReportPaneName_Abbreviation" = "Analýza";
+
+/* (No Comment) */
+"_FunctionTitle_PersonEventsReportPaneName" = "Výkaz osobních událostí";
+
+/* (No Comment) */
+"_FunctionTitle_PersonEventsReportPaneName_Abbreviation" = "Osobní události";
+
+/* (No Comment) */
+"_FunctionTitle_PersonGroup_PluralCount" = "%@ skupin osob";
+
+/* (No Comment) */
+"_FunctionTitle_PersonGroup_SingularCount" = "%@ skupina osob";
+
+/* (No Comment) */
+"_FunctionTitle_PersonGroupPaneName" = "Upravit skupiny osob";
+
+/* (No Comment) */
+"_FunctionTitle_PersonGroupPaneName_Abbreviation" = "Skupiny";
+
+/* (No Comment) */
+"_FunctionTitle_PersonListPaneName" = "Upravit osoby";
+
+/* (No Comment) */
+"_FunctionTitle_PersonListPaneName_Abbreviation" = "Osoby";
+
+/* (No Comment) */
+"_FunctionTitle_PersonListReportPaneName" = "Seznam osob";
+
+/* (No Comment) */
+"_FunctionTitle_PersonListReportPaneName_Abbreviation" = "Osoby";
+
+/* (No Comment) */
+"_FunctionTitle_PersonReportPaneName" = "Osobní výkaz";
+
+/* (No Comment) */
+"_FunctionTitle_PersonReportPaneName_Abbreviation" = "Osoba";
+
+/* (No Comment) */
+"_FunctionTitle_Place_PluralCount" = "%@ míst";
+
+/* (No Comment) */
+"_FunctionTitle_Place_SingularCount" = "%@ místo";
+
+/* (No Comment) */
+"_FunctionTitle_PlaceListPaneName" = "Upravit místa";
+
+/* (No Comment) */
+"_FunctionTitle_PlaceListPaneName_Abbreviation" = "Místa";
+
+/* (No Comment) */
+"_FunctionTitle_PlacesListReportPaneName" = "Seznam míst";
+
+/* (No Comment) */
+"_FunctionTitle_PlacesListReportPaneName_Abbreviation" = "Místa";
+
+/* (No Comment) */
+"_FunctionTitle_PlausibilityListReportPaneName" = "Seznam nesrovnalosti";
+
+/* (No Comment) */
+"_FunctionTitle_PlausibilityListReportPaneName_Abbreviation" = "Nesrovnalosti";
+
+/* (No Comment) */
+"_FunctionTitle_PublishFunctionsPlaceholder" = "Přehled možností publikování";
+
+/* (No Comment) */
+"_FunctionTitle_PublishFunctionsPlaceholder_Abbreviation" = "Přehled publikování";
+
+/* (No Comment) */
+"_FunctionTitle_RegisterReportPaneName" = "Výkaz rejstříku";
+
+/* (No Comment) */
+"_FunctionTitle_RelationshipChartPaneName" = "Graf příbuznosti";
+
+/* (No Comment) */
+"_FunctionTitle_RelationshipChartPaneName_Abbreviation" = "Příbuznosti";
+
+/* (No Comment) */
+"_FunctionTitle_RemoveSubtreePaneName" = "Odebrat podstrom";
+
+/* (No Comment) */
+"_FunctionTitle_RemoveSubtreePaneName_Abbreviation" = "Odebrat podstrom";
+
+/* (No Comment) */
+"_FunctionTitle_ReportsFunctionsPlaceholder" = "Přehled výkazů";
+
+/* (No Comment) */
+"_FunctionTitle_ReportsFunctionsPlaceholder_Abbreviation" = "Přehled výkazů";
+
+/* (No Comment) */
+"_FunctionTitle_ResearchAssistantPaneName" = "Asistent výzkumu";
+
+/* (No Comment) */
+"_FunctionTitle_ResearchAssistantPaneName_Abbreviation" = "Asistent";
+
+/* (No Comment) */
+"_FunctionTitle_SavedBook_PluralCount" = "%@ knih";
+
+/* (No Comment) */
+"_FunctionTitle_SavedBook_SingularCount" = "%@ kniha";
+
+/* (No Comment) */
+"_FunctionTitle_SavedChart_PluralCount" = "%@ uložených pohledů";
+
+/* (No Comment) */
+"_FunctionTitle_SavedChart_SingularCount" = "%@ uložený pohled";
+
+/* (No Comment) */
+"_FunctionTitle_SavedChartsPaneName" = "Uložené grafy";
+
+/* (No Comment) */
+"_FunctionTitle_SavedChartsPaneName_Abbreviation" = "Uložené grafy";
+
+/* (No Comment) */
+"_FunctionTitle_SavedReport_PluralCount" = "%@ uložených výkazů";
+
+/* (No Comment) */
+"_FunctionTitle_SavedReport_SingularCount" = "%@ uložený výkaz";
+
+/* (No Comment) */
+"_FunctionTitle_SavedReportsPaneName" = "Uložené výkazy";
+
+/* (No Comment) */
+"_FunctionTitle_SavedReportsPaneName_Abbreviation" = "Uložené výkazy";
+
+/* (No Comment) */
+"_FunctionTitle_SavedWebsite_PluralCount" = "%@ webových stránek";
+
+/* (No Comment) */
+"_FunctionTitle_SavedWebsite_SingularCount" = "%@ webová stránka";
+
+/* (No Comment) */
+"_FunctionTitle_SearchAndReplacePaneName" = "Hledat a nahradit";
+
+/* (No Comment) */
+"_FunctionTitle_SearchPaneName" = "Prohledat databázi";
+
+/* (No Comment) */
+"_FunctionTitle_SearchPaneName_Abbreviation" = "Hledat";
+
+/* (No Comment) */
+"_FunctionTitle_SociogramChartPaneName" = "Graf sociogramu";
+
+/* (No Comment) */
+"_FunctionTitle_SociogramChartPaneName_Abbreviation" = "Sociogram";
+
+/* (No Comment) */
+"_FunctionTitle_Source_PluralCount" = "%@ zdrojů";
+
+/* (No Comment) */
+"_FunctionTitle_Source_SingularCount" = "%@ zdroj";
+
+/* (No Comment) */
+"_FunctionTitle_SourceListPaneName" = "Upravit zdroje";
+
+/* (No Comment) */
+"_FunctionTitle_SourceListPaneName_Abbreviation" = "Zdroje";
+
+/* (No Comment) */
+"_FunctionTitle_SourcesListReportPaneName" = "Seznam zdrojů";
+
+/* (No Comment) */
+"_FunctionTitle_SourcesListReportPaneName_Abbreviation" = "Zdroje";
+
+/* (No Comment) */
+"_FunctionTitle_StatisticsChartPaneName" = "Statistiky";
+
+/* (No Comment) */
+"_FunctionTitle_StatisticsChartPaneName_Abbreviation" = "Statistiky";
+
+/* (No Comment) */
+"_FunctionTitle_StatusReportPaneName" = "Výkaz o stavu";
+
+/* (No Comment) */
+"_FunctionTitle_Story_PluralCount" = "%@ příběhů";
+
+/* (No Comment) */
+"_FunctionTitle_Story_SingularCount" = "%@ příběh";
+
+/* (No Comment) */
+"_FunctionTitle_StoryPaneName" = "Upravit příběhy";
+
+/* (No Comment) */
+"_FunctionTitle_StoryPaneName_Abbreviation" = "Příběhy";
+
+/* (No Comment) */
+"_FunctionTitle_StoryReportPaneName" = "Výkaz příběhu";
+
+/* (No Comment) */
+"_FunctionTitle_StoryReportPaneName_Abbreviation" = "Příběh";
+
+/* (No Comment) */
+"_FunctionTitle_TimelineChartPaneName" = "Časová osa";
+
+/* (No Comment) */
+"_FunctionTitle_TimelineChartPaneName_Abbreviation" = "Časová osa";
+
+/* (No Comment) */
+"_FunctionTitle_TimelineReportPaneName" = "Výkaz časové osy";
+
+/* (No Comment) */
+"_FunctionTitle_TodayReportPaneName" = "Dnešní výkaz";
+
+/* (No Comment) */
+"_FunctionTitle_ToDo_PluralCount" = "%@ úkolů";
+
+/* (No Comment) */
+"_FunctionTitle_ToDo_PluralCount_Overdue" = "%@ po termínu";
+
+/* (No Comment) */
+"_FunctionTitle_ToDo_SingularCount" = "%@ úkol";
+
+/* (No Comment) */
+"_FunctionTitle_ToDo_SingularCount_Overdue" = "%@ po termínu";
+
+/* (No Comment) */
+"_FunctionTitle_ToDoListReportPaneName" = "Seznam úkolů";
+
+/* (No Comment) */
+"_FunctionTitle_ToDoListReportPaneName_Abbreviation" = "Úkoly";
+
+/* (No Comment) */
+"_FunctionTitle_ToDosPaneName" = "Upravit seznam úkolů";
+
+/* (No Comment) */
+"_FunctionTitle_ToDosPaneName_Abbreviation" = "Úkoly";
+
+/* (No Comment) */
+"_FunctionTitle_TreeChartPaneName" = "Úplný stromový graf";
+
+/* (No Comment) */
+"_FunctionTitle_TreeChartPaneName_Abbreviation" = "Stromový";
+
+/* (No Comment) */
+"_FunctionTitle_ViewsFunctionsPlaceholder" = "Přehled pohledů";
+
+/* (No Comment) */
+"_FunctionTitle_ViewsFunctionsPlaceholder_Abbreviation" = "Přehled pohledů";
+
+/* (No Comment) */
+"_FunctionTitle_VirtualGlobeChartPaneName_Abbreviation" = "Zeměkoule";
+
+/* (No Comment) */
+"_FunctionTitle_VirtualGlobePaneName" = "Virtuální zeměkoule";
+
+/* (No Comment) */
+"_FunctionTitle_VirtualTreeDiagramPaneName" = "Virtuální strom";
+
+/* (No Comment) */
+"_FunctionTitle_VirtualTreeDiagramPaneName_Abbreviation" = "Virtuální strom";
+
+/* (No Comment) */
+"_FunctionTitle_WebSearchPaneName" = "Vyhledávání na webu";
+
+/* (No Comment) */
+"_FunctionTitle_WebSearchPaneName_Abbreviation" = "Vyhledávání na webu";
+
+/* (No Comment) */
+"_FunctionTitle_WebSiteExportWebSitesPaneName" = "Webové stránky";
+
+/* (No Comment) */
+"_FunctionTitle_WebSiteExportWebSitesPaneName_Abbreviation" = "Webové stránky";
+
+/* (No Comment) */
+"_FunctionTitle_WebSitePaneName" = "Webová stránka";
+
+/* (No Comment) */
+"_FunctionTitle_WebSitePaneName_Abbreviation" = "Webová stránka";
+
+/* More Function */
+"_MoreFunctionPanesTitle" = "Více…";
+
+/* (No Comment) */
+"_PaneCategory_Charts" = "Grafy";
+
+/* Categories */
+"_PaneCategory_Edit" = "Úpravy";
+
+/* (No Comment) */
+"_PaneCategory_Favorites" = "Oblíbené";
+
+/* (No Comment) */
+"_PaneCategory_ListReports" = "Seznamy";
+
+/* (No Comment) */
+"_PaneCategory_Publish" = "Publikovat";
+
+/* (No Comment) */
+"_PaneCategory_Reports" = "Výkazy";
+
+/* (No Comment) */
+"_PaneCategory_View" = "Pohledy";
+
+/* (No Comment) */
+"_PaneCategoryBaseFunction_Emphasized" = "Zvýrazněno";
+
+/* (No Comment) */
+"_PaneCategoryBaseFunction_Emphasized_Explanation" = "Pokud je funkce zvýrazněna, zobrazuje se výrazně v úvodní části každé kategorie.";
+
+/* PaneCategoryFunction Configuration User Interface */
+"_PaneCategoryBaseFunction_Enabled" = "Povoleno";
+
+/* (No Comment) */
+"_PaneCategoryBaseFunction_Enabled_Explanation" = "Zde zvolte, zda se má tato funkce zobrazovat jako výchozí. Pokud je zakázána, bude funkce z uživatelského rozhraní odstraněna. Zde ji můžete kdykoli znovu povolit.";
+
+/* (No Comment) */
+"_PaneCategoryBaseFunction_Favorite" = "Označit jako oblíbené";
+
+/* (No Comment) */
+"_PaneCategoryBaseFunction_Favorite_Explanation" = "Důležité funkce, které často používáte, označte jako oblíbené. Ty se zobrazí v kategorii „Oblíbené“ pro snadný a rychlý přístup.";
+
+/* (No Comment) */
+"_PaneCategoryBaseFunction_RemoveFromFavoritesButton" = "Odebrat z oblíbených";
+

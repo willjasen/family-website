@@ -1,0 +1,36 @@
+﻿/* (No Comment) */
+"_MediaContainerListController_DeleteMediaButton" = "Удалить медиа";
+
+/* (No Comment) */
+"_MediaContainerListController_DeleteMediaInformative" = "Вы действительно хотите окончательно удалить выбранный элемент медиа?";
+
+/* (No Comment) */
+"_MediaContainerListController_DeleteMediaMessage" = "Удалить медиа?";
+
+/* (No Comment) */
+"_MediaContainerListController_DeleteMediaOrRelationInformative" = "Вы хотите окончательно удалить выбранный элемент медиа, или вы просто хотите удалить связь медиазаписи и сохранить медиа в вашей базе данных?";
+
+/* MediaContainerListController */
+"_MediaContainerListController_DeleteMediaOrRelationMessage" = "Удалить медиа или медиасвязь?";
+
+/* (No Comment) */
+"_MediaContainerListController_DeleteMediaRelationButton" = "Удалить медиасвязь";
+
+/* (No Comment) */
+"_MediaContainerListController_FileWithoutTitleName" = "Файл %d";
+
+/* (No Comment) */
+"_MediaContainerListController_NoDateTitle" = "Нет даты";
+
+/* (No Comment) */
+"_MediaContainerListController_SortingMode_ByDate" = "По дате рождения";
+
+/* (No Comment) */
+"_MediaContainerListController_SortingMode_ByTitle" = "По названию";
+
+/* Default Titles */
+"_MediaPicture_DefaultTitleWithDate" = "Фото из %@";
+
+/* (No Comment) */
+"_MediaVideo_DefaultTitleWithDate" = "Видео из %@";
+

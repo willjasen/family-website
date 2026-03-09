@@ -1,0 +1,837 @@
+﻿/* (No Comment) */
+"_Common_Accept" = "Elfogadás";
+
+/* (No Comment) */
+"_Common_Actions" = "Akciók";
+
+/* (No Comment) */
+"_Common_AddButton" = "Hozzáfűzés";
+
+/* (No Comment) */
+"_Common_Age" = "Kor";
+
+/* (No Comment) */
+"_Common_AscendingSortOrder" = "Növekvő sorrendben";
+
+/* (No Comment) */
+"_Common_AssignButton" = "Hozzárendelés";
+
+/* (No Comment) */
+"_Common_Assigned_Entries" = "Hozzárendelt beírások";
+
+/* (No Comment) */
+"_Common_Authority" = "Hatóság";
+
+/* (No Comment) */
+"_Common_Back" = "Vissza";
+
+/* (No Comment) */
+"_Common_BackgroundColor" = "Háttérszín";
+
+/* (No Comment) */
+"_Common_BirthDate" = "Születési dátum";
+
+/* (No Comment) */
+"_Common_BirthPlace" = "Születési hely";
+
+/* (No Comment) */
+"_Common_Black" = "Fekete";
+
+/* (No Comment) */
+"_Common_BrothersAndSisters" = "Testvérek";
+
+/* (No Comment) */
+"_Common_CancelButton" = "Megszakítás";
+
+/* (No Comment) */
+"_Common_Cause" = "Ok";
+
+/* (No Comment) */
+"_Common_ChangeButton" = "Változtatás";
+
+/* (No Comment) */
+"_Common_ChangeDate" = "Változtatás dátuma";
+
+/* (No Comment) */
+"_Common_Chart" = "Diagram";
+
+/* (No Comment) */
+"_Common_Child" = "Gyermek";
+
+/* (No Comment) */
+"_Common_ChildCountPlural" = "%d gyermekek";
+
+/* (No Comment) */
+"_Common_ChildCountPluralString" = "%@ gyermekek";
+
+/* (No Comment) */
+"_Common_ChildCountSingular" = "%d gyermek";
+
+/* (No Comment) */
+"_Common_ChildCountSingularString" = "%@ gyermek";
+
+/* (No Comment) */
+"_Common_Children" = "Gyermekek";
+
+/* (No Comment) */
+"_Common_Childs" = "Gyermekek";
+
+/* (No Comment) */
+"_Common_ChristeningDate" = "Keresztelési dátum";
+
+/* (No Comment) */
+"_Common_ChristeningPlace" = "Keresztelési hely";
+
+/* (No Comment) */
+"_Common_Citation_Notes" = "Idézetjegyzetek";
+
+/* (No Comment) */
+"_Common_CloseButton" = "Bezárás";
+
+/* (No Comment) */
+"_Common_Color" = "Szín";
+
+/* (No Comment) */
+"_Common_Colors_Blue" = "Kék";
+
+/* (No Comment) */
+"_Common_Colors_Green" = "Zöld";
+
+/* (No Comment) */
+"_Common_Colors_Magenta" = "Magenta";
+
+/* (No Comment) */
+"_Common_Colors_Orange" = "Narancssárga";
+
+/* Colors */
+"_Common_Colors_Red" = "Piros";
+
+/* (No Comment) */
+"_Common_Colors_Turquoise" = "Türkiz";
+
+/* (No Comment) */
+"_Common_Colors_Yellow" = "Sárga";
+
+/* Keys */
+"_Common_CommandKey" = "⌘";
+
+/* Contextual */
+"_Common_ContextualMenu_ChangeLabel" = "Címke megváltoztatása";
+
+/* (No Comment) */
+"_Common_ContinueButton" = "Folytatás";
+
+/* (No Comment) */
+"_Common_ControlKey" = "CTRL";
+
+/* (No Comment) */
+"_Common_CopyButton" = "Másolás";
+
+/* (No Comment) */
+"_Common_Count" = "Szám";
+
+/* (No Comment) */
+"_Common_Country" = "Ország";
+
+/* (No Comment) */
+"_Common_County" = "Megye";
+
+/* (No Comment) */
+"_Common_Create" = "Létrehozás";
+
+/* (No Comment) */
+"_Common_CreationDate" = "Elkészítés dátuma";
+
+/* (No Comment) */
+"_Common_Date" = "Dátum";
+
+/* (No Comment) */
+"_Common_DeathDate" = "Elhalálozási időpont";
+
+/* (No Comment) */
+"_Common_DeathPlace" = "Elhalálozási hely";
+
+/* (No Comment) */
+"_Common_Decline" = "Visszautasítás";
+
+/* (No Comment) */
+"_Common_Default" = "Standard";
+
+/* (No Comment) */
+"_Common_DeleteAllButton" = "Mindent töröl";
+
+/* (No Comment) */
+"_Common_DeleteButton" = "Törlés";
+
+/* (No Comment) */
+"_Common_DeleteWithObject" = "'%@' törlése";
+
+/* (No Comment) */
+"_Common_DescendingSortOrder" = "Csökkenő sorrendben";
+
+/* (No Comment) */
+"_Common_Description" = "Leírás";
+
+/* (No Comment) */
+"_Common_DisableButton" = "Kikapcsolás";
+
+/* (No Comment) */
+"_Common_Discard" = "Eldobás";
+
+/* (No Comment) */
+"_Common_DisplayButton" = "Kijelző";
+
+/* (No Comment) */
+"_Common_Done" = "Kész";
+
+/* (No Comment) */
+"_Common_DontAskAgainButton" = "Ne kérdezze újra";
+
+/* (No Comment) */
+"_Common_Download" = "Letöltés";
+
+/* (No Comment) */
+"_Common_DuplicateButton" = "Duplikátum";
+
+/* (No Comment) */
+"_Common_Edit" = "Szerkesztés";
+
+/* (No Comment) */
+"_Common_EditWithObject" = "'%@' szerkesztése";
+
+/* (No Comment) */
+"_Common_EnableButton" = "Engedélyez";
+
+/* (No Comment) */
+"_Common_Entries" = "Beírások";
+
+/* (No Comment) */
+"_Common_EntryCountPlural" = "%d beírások";
+
+/* (No Comment) */
+"_Common_EntryCountPluralString" = "%@ beírások";
+
+/* (No Comment) */
+"_Common_EntryCountSingular" = "%d beírás";
+
+/* (No Comment) */
+"_Common_EntryCountSingularString" = "%@ beírás";
+
+/* (No Comment) */
+"_Common_Error" = "Hiba";
+
+/* Errors */
+"_Common_Errors_NoInternetConnection" = "Nem áll rendelkezésre internet kapcsolat";
+
+/* (No Comment) */
+"_Common_Event" = "Esemény";
+
+/* (No Comment) */
+"_Common_EventCountPlural" = "%d események";
+
+/* (No Comment) */
+"_Common_EventCountSingular" = "%d esemény";
+
+/* (No Comment) */
+"_Common_Events" = "Események";
+
+/* (No Comment) */
+"_Common_EventsAtThisPlace" = "Események ezen a helyen";
+
+/* (No Comment) */
+"_Common_Example" = "Példa";
+
+/* (No Comment) */
+"_Common_Export" = "Exportálás";
+
+/* (No Comment) */
+"_Common_Fact" = "Tény";
+
+/* (No Comment) */
+"_Common_Facts" = "Tények";
+
+/* (No Comment) */
+"_Common_Families" = "Családok";
+
+/* (No Comment) */
+"_Common_Family" = "Család";
+
+/* (No Comment) */
+"_Common_FamilyEvents" = "Családesemények";
+
+/* (No Comment) */
+"_Common_FamilyTree" = "Családfa";
+
+/* (No Comment) */
+"_Common_Father" = "Apa";
+
+/* (No Comment) */
+"_Common_Favorite" = "Kedvenc";
+
+/* (No Comment) */
+"_Common_Favorites" = "Kedvencek";
+
+/* (No Comment) */
+"_Common_Female" = "Nőnemű";
+
+/* (No Comment) */
+"_Common_FirstName" = "Keresztnév";
+
+/* (No Comment) */
+"_Common_FontStyle_Bold" = "Kövér betű";
+
+/* (No Comment) */
+"_Common_FontStyle_BoldItalic" = "Kövér dőlt betű";
+
+/* (No Comment) */
+"_Common_FontStyle_Italic" = "Dőlt betű";
+
+/* (No Comment) */
+"_Common_FontStyle_Light" = "Világos";
+
+/* (No Comment) */
+"_Common_FontStyle_Medium" = "Közepes";
+
+/* Font Styles */
+"_Common_FontStyle_Normal" = "Normális";
+
+/* (No Comment) */
+"_Common_FontStyle_SemiBold" = "Félkövér betű";
+
+/* Common */
+"_Common_Gender" = "Neme";
+
+/* (No Comment) */
+"_Common_Generation" = "Generáció";
+
+/* (No Comment) */
+"_Common_GenerationsPluralString" = "%d generáció";
+
+/* (No Comment) */
+"_Common_GenerationsSingularString" = "%d generáció";
+
+/* (No Comment) */
+"_Common_Generic" = "Generikus";
+
+/* (No Comment) */
+"_Common_Help" = "Segítség";
+
+/* (No Comment) */
+"_Common_HideKeyboard" = "Billentyűzet elrejtése";
+
+/* (No Comment) */
+"_Common_IgnoreButton" = "Figyelmen kívűl hagy";
+
+/* (No Comment) */
+"_Common_Image" = "Kép";
+
+/* (No Comment) */
+"_Common_ImportButton" = "Importálás";
+
+/* Localization */
+"_Common_InternationalLocalization" = "Nemzetközi";
+
+/* (No Comment) */
+"_Common_Intersex" = "Interszexuális";
+
+/* (No Comment) */
+"_Common_IsAssignedToFamilySearch" = "Hozzárendelve a Family Search-höz";
+
+/* (No Comment) */
+"_Common_IsBookmarked" = "Könyvjelzős";
+
+/* (No Comment) */
+"_Common_IsNotAssignedToFamilySearch" = "Nincs hozzárendelve a Family Search-höz";
+
+/* (No Comment) */
+"_Common_IsNotBookmarked" = "Nem könyvjelzős";
+
+/* (No Comment) */
+"_Common_Label" = "Címke";
+
+/* (No Comment) */
+"_Common_Labels" = "Címkék";
+
+/* (No Comment) */
+"_Common_LastName" = "Vezetéknév";
+
+/* (No Comment) */
+"_Common_LaterButton" = "Később";
+
+/* (No Comment) */
+"_Common_Link" = "Link";
+
+/* (No Comment) */
+"_Common_LoginButton" = "Bejelentkezés";
+
+/* (No Comment) */
+"_Common_LogoutButton" = "Kijelentkezés";
+
+/* (No Comment) */
+"_Common_Male" = "Férfi";
+
+/* (No Comment) */
+"_Common_Man" = "Férfi";
+
+/* (No Comment) */
+"_Common_MarkAsSeen" = "Kijelölés látottként";
+
+/* (No Comment) */
+"_Common_Marriage" = "Házasság";
+
+/* (No Comment) */
+"_Common_MarriageDate" = "Házasságkötési dátum";
+
+/* (No Comment) */
+"_Common_MarriagePlace" = "Házasságkötési hely";
+
+/* (No Comment) */
+"_Common_Media" = "Médium";
+
+/* (No Comment) */
+"_Common_MergeButton" = "Összevonás";
+
+/* (No Comment) */
+"_Common_MiddleName" = "Második keresztnév";
+
+/* (No Comment) */
+"_Common_Mother" = "Anya";
+
+/* (No Comment) */
+"_Common_MultipleSelected" = "%d kiválasztva";
+
+/* (No Comment) */
+"_Common_Name" = "Név";
+
+/* (No Comment) */
+"_Common_NeverButton" = "Soha";
+
+/* (No Comment) */
+"_Common_NextButton" = "Következő";
+
+/* (No Comment) */
+"_Common_No" = "Nem";
+
+/* (No Comment) */
+"_Common_NoChildrenPlaceholder" = "Nincsenek gyermekek";
+
+/* (No Comment) */
+"_Common_NoConclusionTypesPlaceholder" = "Nincs adat";
+
+/* (No Comment) */
+"_Common_NoDatePlaceholder" = "Dátum hiányzik";
+
+/* Empty */
+"_Common_NoInformationEnteredTooltip" = "Nem írt be információt";
+
+/* (No Comment) */
+"_Common_NoLabelsPlaceholder" = "Címkék hiányoznak";
+
+/* (No Comment) */
+"_Common_NoManPlaceholder" = "Nem férfi";
+
+/* (No Comment) */
+"_Common_NoNameAvailable" = "Nem áll rendelkezésre név";
+
+/* (No Comment) */
+"_Common_None" = "Nincs";
+
+/* Selected Counts */
+"_Common_NoneSelected" = "Nem választotta ki";
+
+/* (No Comment) */
+"_Common_NoPartnerPlaceholder" = "Nincs partner";
+
+/* (No Comment) */
+"_Common_NoPersonGroupsPlaceholder" = "Nincsen személycsoport";
+
+/* Placeholders */
+"_Common_NoPersonPlaceholder" = "Nincs személy";
+
+/* (No Comment) */
+"_Common_NoPlacePlaceholder" = "Hely hiányzik";
+
+/* (No Comment) */
+"_Common_NoSourceTemplateKeysPlaceholder" = "Nincs forrássablon-mező";
+
+/* (No Comment) */
+"_Common_Note" = "Jegyzet";
+
+/* (No Comment) */
+"_Common_Notes" = "Jegyzetek";
+
+/* (No Comment) */
+"_Common_NothingToSelected" = "Nincs mit kiválasztani";
+
+/* (No Comment) */
+"_Common_Now" = "Ma";
+
+/* (No Comment) */
+"_Common_NoWomanPlaceholder" = "Nem nő";
+
+/* (No Comment) */
+"_Common_NumberingSystem" = "Számozási rendszer";
+
+/* Buttons */
+"_Common_OKButton" = "OK";
+
+/* (No Comment) */
+"_Common_OKDontAskAgainButton" = "Ok. Ne kérdezze újra";
+
+/* (No Comment) */
+"_Common_OneSelected" = "Egyet választott ki";
+
+/* (No Comment) */
+"_Common_OpenButton" = "Kinyitás";
+
+/* (No Comment) */
+"_Common_OpenInBrowser" = "Kinyitás a böngészőben";
+
+/* (No Comment) */
+"_Common_OptionsButton" = "Opciók";
+
+/* (No Comment) */
+"_Common_Order" = "Sorrend";
+
+/* (No Comment) */
+"_Common_OtherNames" = "Más nevek";
+
+/* (No Comment) */
+"_Common_Others" = "Mások";
+
+/* (No Comment) */
+"_Common_Page" = "Oldalszám";
+
+/* (No Comment) */
+"_Common_Parent1" = "1. szülő";
+
+/* (No Comment) */
+"_Common_Parent2" = "2. szülő";
+
+/* (No Comment) */
+"_Common_Parents" = "Szülők";
+
+/* (No Comment) */
+"_Common_Partner" = "Partnerek";
+
+/* (No Comment) */
+"_Common_Partner1" = "1. Partner";
+
+/* (No Comment) */
+"_Common_Partner2" = "2. Partner";
+
+/* (No Comment) */
+"_Common_Partners" = "Partnerek";
+
+/* (No Comment) */
+"_Common_Person" = "Személy";
+
+/* (No Comment) */
+"_Common_PersonCountPlural" = "%d személyek";
+
+/* (No Comment) */
+"_Common_PersonCountPluralString" = "%@ személyek";
+
+/* Counts */
+"_Common_PersonCountSingular" = "%d személy";
+
+/* (No Comment) */
+"_Common_PersonCountSingularString" = "%@ személy";
+
+/* Events & Facts */
+"_Common_PersonEvents" = "Személyesemények";
+
+/* (No Comment) */
+"_Common_PersonFacts" = "Személytények";
+
+/* (No Comment) */
+"_Common_Persons" = "Személyek";
+
+/* (No Comment) */
+"_Common_Picture" = "Kép";
+
+/* (No Comment) */
+"_Common_Pictures" = "Képek";
+
+/* (No Comment) */
+"_Common_Place" = "Hely";
+
+/* (No Comment) */
+"_Common_PlaceDetail" = "Helyrész";
+
+/* (No Comment) */
+"_Common_Places" = "Helyek";
+
+/* (No Comment) */
+"_Common_PleaseWaitPlaceholder" = "Kérem várjon…";
+
+/* Population Prefix */
+"_Common_Population" = "Népesség: %@";
+
+/* (No Comment) */
+"_Common_PrefixName" = "Titulus";
+
+/* (No Comment) */
+"_Common_PreviousButton" = "Előző";
+
+/* (No Comment) */
+"_Common_Print" = "Nyomtatás";
+
+/* Progress Counts */
+"_Common_ProgressCount" = "%d %d-ból";
+
+/* (No Comment) */
+"_Common_ProgressCountAsString" = "%@-ból %@";
+
+/* (No Comment) */
+"_Common_QuitButton" = "Kilépés";
+
+/* (No Comment) */
+"_Common_ReferenceNumber" = "Hivatkozási szám";
+
+/* (No Comment) */
+"_Common_RejectButton" = "Elutasítás";
+
+/* (No Comment) */
+"_Common_RemoveButton" = "Törlés";
+
+/* (No Comment) */
+"_Common_RenameButton" = "Átnevezés";
+
+/* (No Comment) */
+"_Common_ReplaceButton" = "Csere";
+
+/* (No Comment) */
+"_Common_ResetButton" = "Visszaállítás";
+
+/* (No Comment) */
+"_Common_RetryButton" = "Ismétlés";
+
+/* (No Comment) */
+"_Common_Save" = "Mentés";
+
+/* (No Comment) */
+"_Common_SaveButton" = "Mentés";
+
+/* (No Comment) */
+"_Common_Search" = "Keresés";
+
+/* (No Comment) */
+"_Common_Search_Clear" = "Világos";
+
+/* (No Comment) */
+"_Common_Search_Menu_Title" = "Keresésmenü";
+
+/* (No Comment) */
+"_Common_Search_Options" = "Keresési opciók...";
+
+/* (No Comment) */
+"_Common_Search_Recent" = "Legutóbbi keresések";
+
+/* (No Comment) */
+"_Common_Section" = "Szakasz";
+
+/* (No Comment) */
+"_Common_SelectButton" = "Kiválasztás";
+
+/* (No Comment) */
+"_Common_Settings" = "Beállítások";
+
+/* (No Comment) */
+"_Common_SkipButton" = "Kihagyás";
+
+/* (No Comment) */
+"_Common_Sorting_ByBirthDate" = "Születési dátum szerint";
+
+/* (No Comment) */
+"_Common_Sorting_ByBirthPlace" = "Születési hely szerint";
+
+/* (No Comment) */
+"_Common_Sorting_ByDate" = "Dátum szerint";
+
+/* (No Comment) */
+"_Common_Sorting_ByDeathDate" = "Elhalálozási dátum szerint";
+
+/* (No Comment) */
+"_Common_Sorting_ByDeathPlace" = "lhalálozási hely szerint";
+
+/* (No Comment) */
+"_Common_Sorting_ByFirstName" = "Keresztnév szerint";
+
+/* (No Comment) */
+"_Common_Sorting_ByLastName" = "Vezetéknév szerint";
+
+/* Sorting */
+"_Common_Sorting_ByName" = "Név szerint";
+
+/* (No Comment) */
+"_Common_Sorting_ByScore" = "Értékelés szerint";
+
+/* (No Comment) */
+"_Common_Source" = "Forrás";
+
+/* (No Comment) */
+"_Common_SourceCitationsPlural" = "%d idézetek";
+
+/* (No Comment) */
+"_Common_SourceCitationsPluralString" = "%@ idézetek";
+
+/* (No Comment) */
+"_Common_SourceCitationsSingular" = "%d idézet";
+
+/* (No Comment) */
+"_Common_SourceCitationsSingularString" = "%@ idézet";
+
+/* (No Comment) */
+"_Common_Sources" = "Források";
+
+/* (No Comment) */
+"_Common_State" = "Állam";
+
+/* (No Comment) */
+"_Common_StopSharingButton" = "Közös használat befejezése";
+
+/* (No Comment) */
+"_Common_SuffixName" = "Névrag";
+
+/* (No Comment) */
+"_Common_Text" = "Szöveg";
+
+/* (No Comment) */
+"_Common_Title" = "Titulus";
+
+/* (No Comment) */
+"_Common_ToDo" = "Feladat";
+
+/* (No Comment) */
+"_Common_ToDos" = "Feladatok";
+
+/* (No Comment) */
+"_Common_Toggle" = "Mindent átvált";
+
+/* (No Comment) */
+"_Common_Type" = "Típus";
+
+/* (No Comment) */
+"_Common_Unknown" = "Ismeretlen";
+
+/* (No Comment) */
+"_Common_UnknownGender" = "Neme ismeretlen";
+
+/* (No Comment) */
+"_Common_UnknownPerson" = "Ismeretlen személy";
+
+/* (No Comment) */
+"_Common_Unlimited" = "Korlátlan";
+
+/* (No Comment) */
+"_Common_UnnamedChart" = "Megnevezetlen diagram";
+
+/* (No Comment) */
+"_Common_UnnamedFamily" = "Megnevezetlen család";
+
+/* (No Comment) */
+"_Common_UnnamedLabel" = "Megnevezetlen címke";
+
+/* (No Comment) */
+"_Common_UnnamedMedia" = "Megnevezetlen médium";
+
+/* (No Comment) */
+"_Common_UnnamedPerson" = "Megnevezetlen személy";
+
+/* (No Comment) */
+"_Common_UnnamedPersonGroup" = "Megnevezetlen személycsoport";
+
+/* (No Comment) */
+"_Common_UnnamedPlace" = "Megnevezetlen hely";
+
+/* (No Comment) */
+"_Common_UnnamedPlaceDetail" = "Megnevezetlen helyrészlet";
+
+/* (No Comment) */
+"_Common_UnnamedPlaceTemplate" = "Megnevezetlen helysablon";
+
+/* (No Comment) */
+"_Common_UnnamedPlaceTemplateKey" = "Megnevezetlen sablonmező";
+
+/* (No Comment) */
+"_Common_UnnamedSource" = "Megnevezetlen forrás";
+
+/* (No Comment) */
+"_Common_UnnamedSourceRepository" = "Megnevezetlen forrásarhívumok";
+
+/* (No Comment) */
+"_Common_UnnamedSourceTemplate" = "Megnevezetlen forrássablon";
+
+/* (No Comment) */
+"_Common_UnnamedSourceTemplateKey" = "Megnevezetlen forrássablon mező";
+
+/* (No Comment) */
+"_Common_UnnamedStory" = "Névtelen történetek";
+
+/* (No Comment) */
+"_Common_UnnamedStorySection" = "Névtelen történetszakaszok";
+
+/* (No Comment) */
+"_Common_UnnamedTitle" = "Megnevezetlen";
+
+/* (No Comment) */
+"_Common_UnnamedToDo" = "Megnevezetlen feladatok";
+
+/* (No Comment) */
+"_Common_UpdateButton" = "Frissítés";
+
+/* (No Comment) */
+"_Common_UploadButton" = "Feltöltés";
+
+/* (No Comment) */
+"_Common_Value" = "Érték";
+
+/* (No Comment) */
+"_Common_Version" = "Verzió";
+
+/* (No Comment) */
+"_Common_White" = "Fehér";
+
+/* (No Comment) */
+"_Common_Width" = "Szélesség";
+
+/* (No Comment) */
+"_Common_Woman" = "Nő";
+
+/* (No Comment) */
+"_Common_Year" = "Év";
+
+/* (No Comment) */
+"_Common_Years" = "Évek";
+
+/* (No Comment) */
+"_Common_Yes" = "Igen";
+
+/* (No Comment) */
+"_Person_NameFormat_FirstName_MiddleName_LastName_Suffix_Comma_Title" = "\"Keresztnév\" \"második keresztnév\" \"vezetéknév\" névrag, titulus";
+
+/* (No Comment) */
+"_Person_NameFormat_LastName_Comma_FirstName_Comma_MiddleName_Comma_Suffix_Comma_Title" = "\"Vezetéknév\", \"keresztnév\", \"második keresztnév\", névrag, titulus";
+
+/* (No Comment) */
+"_Person_NameFormat_LastName_Suffix_Comma_FirstName_MiddleName_Comma_Title" = "\"Vezetéknév\" névrag, \"keresztnév\" \"második keresztnév\", titulus";
+
+/* (No Comment) */
+"_Person_NameFormat_Title_Comma_FirstName_Suffix_Bracket_MiddleName_Bracket" = "Titulus \"vezetéknév\", \"keresztnév\" névrag (\"második keresztnév\")";
+
+/* (No Comment) */
+"_Person_NameFormat_Title_FirstName_Comma_LastName_Comma_MiddleName_Comma_Suffix" = "Titulus \"keresztnév\", \"vezetéknév\", \"második keresztnév\", névrag";
+
+/* Person Name Formats */
+"_Person_NameFormat_Title_FirstName_MiddleName_LastName_Suffix" = "Titulus \"keresztnév\" \"második keresztnév\", \"vezetéknév\", névrag";
+
+/* (No Comment) */
+"_Person_NameFormat_Title_LastName_MiddleName_FirstName_Suffix" = "Titulus \"vezetéknév\", \"második keresztnév\", \"keresztnév\", névrag";
+
+/* (No Comment) */
+"_Person_NameFormat_Title_LastName_Suffix_Comma_FirstName_MiddleName" = "Titulus \"vezetéknév \"névrag, \"keresztnév\" \"második keresztnév\"";
+
+/* (No Comment) */
+"_Person_NameFormat_Title_LastName_Suffix_FirstName_MiddleName" = "Titulus \"vezetéknév\" névrag \"keresztnév\" \"második keresztnév\"";
+

@@ -1,0 +1,15 @@
+﻿/* (No Comment) */
+"_Coordinate_East" = "Kelet";
+
+/* (No Comment) */
+"_Coordinate_North" = "Észak";
+
+/* (No Comment) */
+"_Coordinate_South" = "Dél";
+
+/* User Readable Coordinate */
+"_Coordinate_UserReadableDegree" = "%@° %@' %@\" %@";
+
+/* (No Comment) */
+"_Coordinate_West" = "Nyugat";
+

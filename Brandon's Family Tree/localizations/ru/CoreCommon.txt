@@ -1,0 +1,837 @@
+﻿/* (No Comment) */
+"_Common_Accept" = "Принять";
+
+/* (No Comment) */
+"_Common_Actions" = "Действия";
+
+/* (No Comment) */
+"_Common_AddButton" = "Добавить";
+
+/* (No Comment) */
+"_Common_Age" = "Возраст";
+
+/* (No Comment) */
+"_Common_AscendingSortOrder" = "По возрастанию";
+
+/* (No Comment) */
+"_Common_AssignButton" = "Назначить";
+
+/* (No Comment) */
+"_Common_Assigned_Entries" = "Назначенные записи";
+
+/* (No Comment) */
+"_Common_Authority" = "Авторитетность";
+
+/* (No Comment) */
+"_Common_Back" = "Назад";
+
+/* (No Comment) */
+"_Common_BackgroundColor" = "Цвет фона";
+
+/* (No Comment) */
+"_Common_BirthDate" = "Дата рождения";
+
+/* (No Comment) */
+"_Common_BirthPlace" = "Место рождения";
+
+/* (No Comment) */
+"_Common_Black" = "Чёрный";
+
+/* (No Comment) */
+"_Common_BrothersAndSisters" = "Братья и сёстры";
+
+/* (No Comment) */
+"_Common_CancelButton" = "Отмена";
+
+/* (No Comment) */
+"_Common_Cause" = "Причина";
+
+/* (No Comment) */
+"_Common_ChangeButton" = "Изменить";
+
+/* (No Comment) */
+"_Common_ChangeDate" = "Дата изменения";
+
+/* (No Comment) */
+"_Common_Chart" = "Диаграмма";
+
+/* (No Comment) */
+"_Common_Child" = "Ребёнок";
+
+/* (No Comment) */
+"_Common_ChildCountPlural" = "%d детей";
+
+/* (No Comment) */
+"_Common_ChildCountPluralString" = "%@ детей";
+
+/* (No Comment) */
+"_Common_ChildCountSingular" = "%d ребёнок";
+
+/* (No Comment) */
+"_Common_ChildCountSingularString" = "%@ ребёнок";
+
+/* (No Comment) */
+"_Common_Children" = "Дети";
+
+/* (No Comment) */
+"_Common_Childs" = "Дети";
+
+/* (No Comment) */
+"_Common_ChristeningDate" = "Дата крещения";
+
+/* (No Comment) */
+"_Common_ChristeningPlace" = "Место крещения";
+
+/* (No Comment) */
+"_Common_Citation_Notes" = "Примечания к цитированию";
+
+/* (No Comment) */
+"_Common_CloseButton" = "Закрыть";
+
+/* (No Comment) */
+"_Common_Color" = "Цвет";
+
+/* (No Comment) */
+"_Common_Colors_Blue" = "Синий";
+
+/* (No Comment) */
+"_Common_Colors_Green" = "Зедёный";
+
+/* (No Comment) */
+"_Common_Colors_Magenta" = "Пурпурный";
+
+/* (No Comment) */
+"_Common_Colors_Orange" = "Оранжевый";
+
+/* Colors */
+"_Common_Colors_Red" = "Красный";
+
+/* (No Comment) */
+"_Common_Colors_Turquoise" = "Бирюзовый";
+
+/* (No Comment) */
+"_Common_Colors_Yellow" = "Жёлтый";
+
+/* Keys */
+"_Common_CommandKey" = "⌘";
+
+/* Contextual */
+"_Common_ContextualMenu_ChangeLabel" = "Изменить метку";
+
+/* (No Comment) */
+"_Common_ContinueButton" = "Продолжить";
+
+/* (No Comment) */
+"_Common_ControlKey" = "CTRL";
+
+/* (No Comment) */
+"_Common_CopyButton" = "Копировать";
+
+/* (No Comment) */
+"_Common_Count" = "Подсчёт";
+
+/* (No Comment) */
+"_Common_Country" = "Страна";
+
+/* (No Comment) */
+"_Common_County" = "Округ";
+
+/* (No Comment) */
+"_Common_Create" = "Создать";
+
+/* (No Comment) */
+"_Common_CreationDate" = "Дата создания";
+
+/* (No Comment) */
+"_Common_Date" = "Дата";
+
+/* (No Comment) */
+"_Common_DeathDate" = "Дата смерти";
+
+/* (No Comment) */
+"_Common_DeathPlace" = "Место смерти";
+
+/* (No Comment) */
+"_Common_Decline" = "Отклонить";
+
+/* (No Comment) */
+"_Common_Default" = "По умолчанию";
+
+/* (No Comment) */
+"_Common_DeleteAllButton" = "Удалить все";
+
+/* (No Comment) */
+"_Common_DeleteButton" = "Удалить";
+
+/* (No Comment) */
+"_Common_DeleteWithObject" = "Удалить '%@'";
+
+/* (No Comment) */
+"_Common_DescendingSortOrder" = "По убыванию";
+
+/* (No Comment) */
+"_Common_Description" = "Описание";
+
+/* (No Comment) */
+"_Common_DisableButton" = "Выключить";
+
+/* (No Comment) */
+"_Common_Discard" = "Отклонить";
+
+/* (No Comment) */
+"_Common_DisplayButton" = "Отображать";
+
+/* (No Comment) */
+"_Common_Done" = "Готово";
+
+/* (No Comment) */
+"_Common_DontAskAgainButton" = "Больше не спрашивать";
+
+/* (No Comment) */
+"_Common_Download" = "Загрузить";
+
+/* (No Comment) */
+"_Common_DuplicateButton" = "Дублировать";
+
+/* (No Comment) */
+"_Common_Edit" = "Изменить";
+
+/* (No Comment) */
+"_Common_EditWithObject" = "Изменить '%@'";
+
+/* (No Comment) */
+"_Common_EnableButton" = "Включить";
+
+/* (No Comment) */
+"_Common_Entries" = "Записи";
+
+/* (No Comment) */
+"_Common_EntryCountPlural" = "%d записей";
+
+/* (No Comment) */
+"_Common_EntryCountPluralString" = "%@ записей";
+
+/* (No Comment) */
+"_Common_EntryCountSingular" = "%d запись";
+
+/* (No Comment) */
+"_Common_EntryCountSingularString" = "%@ запись";
+
+/* (No Comment) */
+"_Common_Error" = "Ошибка";
+
+/* Errors */
+"_Common_Errors_NoInternetConnection" = "Подключение к интернету недоступно";
+
+/* (No Comment) */
+"_Common_Event" = "Событие";
+
+/* (No Comment) */
+"_Common_EventCountPlural" = "%d событий";
+
+/* (No Comment) */
+"_Common_EventCountSingular" = "%d событие";
+
+/* (No Comment) */
+"_Common_Events" = "События";
+
+/* (No Comment) */
+"_Common_EventsAtThisPlace" = "События в этом месте";
+
+/* (No Comment) */
+"_Common_Example" = "Пример";
+
+/* (No Comment) */
+"_Common_Export" = "Экспорт";
+
+/* (No Comment) */
+"_Common_Fact" = "Факт";
+
+/* (No Comment) */
+"_Common_Facts" = "Факты";
+
+/* (No Comment) */
+"_Common_Families" = "Семьи";
+
+/* (No Comment) */
+"_Common_Family" = "Семья";
+
+/* (No Comment) */
+"_Common_FamilyEvents" = "Семейные события";
+
+/* (No Comment) */
+"_Common_FamilyTree" = "Семейное древо";
+
+/* (No Comment) */
+"_Common_Father" = "Отец";
+
+/* (No Comment) */
+"_Common_Favorite" = "Избранное";
+
+/* (No Comment) */
+"_Common_Favorites" = "Избранные";
+
+/* (No Comment) */
+"_Common_Female" = "Женский";
+
+/* (No Comment) */
+"_Common_FirstName" = "Имя";
+
+/* (No Comment) */
+"_Common_FontStyle_Bold" = "Жирный";
+
+/* (No Comment) */
+"_Common_FontStyle_BoldItalic" = "Жирный курсив";
+
+/* (No Comment) */
+"_Common_FontStyle_Italic" = "Курсив";
+
+/* (No Comment) */
+"_Common_FontStyle_Light" = "Светлый";
+
+/* (No Comment) */
+"_Common_FontStyle_Medium" = "Средний";
+
+/* Font Styles */
+"_Common_FontStyle_Normal" = "Нормальный";
+
+/* (No Comment) */
+"_Common_FontStyle_SemiBold" = "Полужирный";
+
+/* Common */
+"_Common_Gender" = "Пол";
+
+/* (No Comment) */
+"_Common_Generation" = "Поколение";
+
+/* (No Comment) */
+"_Common_GenerationsPluralString" = "%d поколений";
+
+/* (No Comment) */
+"_Common_GenerationsSingularString" = "%d поколение";
+
+/* (No Comment) */
+"_Common_Generic" = "Общий";
+
+/* (No Comment) */
+"_Common_Help" = "Справка";
+
+/* (No Comment) */
+"_Common_HideKeyboard" = "Скрыть клавиатуру";
+
+/* (No Comment) */
+"_Common_IgnoreButton" = "Игнорировать";
+
+/* (No Comment) */
+"_Common_Image" = "Изображение";
+
+/* (No Comment) */
+"_Common_ImportButton" = "Импортировать";
+
+/* Localization */
+"_Common_InternationalLocalization" = "Международный";
+
+/* (No Comment) */
+"_Common_Intersex" = "Интерсекс";
+
+/* (No Comment) */
+"_Common_IsAssignedToFamilySearch" = "назначено в Family Search";
+
+/* (No Comment) */
+"_Common_IsBookmarked" = "в закладках";
+
+/* (No Comment) */
+"_Common_IsNotAssignedToFamilySearch" = "не назначено в Family Search";
+
+/* (No Comment) */
+"_Common_IsNotBookmarked" = "не в закладках";
+
+/* (No Comment) */
+"_Common_Label" = "Метка";
+
+/* (No Comment) */
+"_Common_Labels" = "Метки";
+
+/* (No Comment) */
+"_Common_LastName" = "Фамилия";
+
+/* (No Comment) */
+"_Common_LaterButton" = "Позже";
+
+/* (No Comment) */
+"_Common_Link" = "Ссылка";
+
+/* (No Comment) */
+"_Common_LoginButton" = "Логин";
+
+/* (No Comment) */
+"_Common_LogoutButton" = "Выйти";
+
+/* (No Comment) */
+"_Common_Male" = "Мужской";
+
+/* (No Comment) */
+"_Common_Man" = "Мужчина";
+
+/* (No Comment) */
+"_Common_MarkAsSeen" = "Отметить как просмотренное";
+
+/* (No Comment) */
+"_Common_Marriage" = "Брак";
+
+/* (No Comment) */
+"_Common_MarriageDate" = "Дата заключения брака";
+
+/* (No Comment) */
+"_Common_MarriagePlace" = "Место заключения брака";
+
+/* (No Comment) */
+"_Common_Media" = "Медиа";
+
+/* (No Comment) */
+"_Common_MergeButton" = "Объединить";
+
+/* (No Comment) */
+"_Common_MiddleName" = "Отчество";
+
+/* (No Comment) */
+"_Common_Mother" = "Мать";
+
+/* (No Comment) */
+"_Common_MultipleSelected" = "%d выбрано";
+
+/* (No Comment) */
+"_Common_Name" = "Имя";
+
+/* (No Comment) */
+"_Common_NeverButton" = "Никогда";
+
+/* (No Comment) */
+"_Common_NextButton" = "Далее";
+
+/* (No Comment) */
+"_Common_No" = "Нет";
+
+/* (No Comment) */
+"_Common_NoChildrenPlaceholder" = "Нет детей";
+
+/* (No Comment) */
+"_Common_NoConclusionTypesPlaceholder" = "Нет объектов";
+
+/* (No Comment) */
+"_Common_NoDatePlaceholder" = "Нет даты";
+
+/* Empty */
+"_Common_NoInformationEnteredTooltip" = "Информация не введена";
+
+/* (No Comment) */
+"_Common_NoLabelsPlaceholder" = "Нет меток";
+
+/* (No Comment) */
+"_Common_NoManPlaceholder" = "Нет мужчины";
+
+/* (No Comment) */
+"_Common_NoNameAvailable" = "Имя недоступно";
+
+/* (No Comment) */
+"_Common_None" = "Нет";
+
+/* Selected Counts */
+"_Common_NoneSelected" = "Не выбрано";
+
+/* (No Comment) */
+"_Common_NoPartnerPlaceholder" = "Нет партнёра";
+
+/* (No Comment) */
+"_Common_NoPersonGroupsPlaceholder" = "Нет группы людей";
+
+/* Placeholders */
+"_Common_NoPersonPlaceholder" = "Нет человека";
+
+/* (No Comment) */
+"_Common_NoPlacePlaceholder" = "Нет места";
+
+/* (No Comment) */
+"_Common_NoSourceTemplateKeysPlaceholder" = "Нет поля исходного шаблона";
+
+/* (No Comment) */
+"_Common_Note" = "Примечание";
+
+/* (No Comment) */
+"_Common_Notes" = "Примечания";
+
+/* (No Comment) */
+"_Common_NothingToSelected" = "Нечего не выбрано";
+
+/* (No Comment) */
+"_Common_Now" = "Сегодня";
+
+/* (No Comment) */
+"_Common_NoWomanPlaceholder" = "Нет женщины";
+
+/* (No Comment) */
+"_Common_NumberingSystem" = "Система нумерации";
+
+/* Buttons */
+"_Common_OKButton" = "OK";
+
+/* (No Comment) */
+"_Common_OKDontAskAgainButton" = "OK. Больше не спрашивать";
+
+/* (No Comment) */
+"_Common_OneSelected" = "Один выбран";
+
+/* (No Comment) */
+"_Common_OpenButton" = "Открыть";
+
+/* (No Comment) */
+"_Common_OpenInBrowser" = "Открыть в браузере";
+
+/* (No Comment) */
+"_Common_OptionsButton" = "Параметры";
+
+/* (No Comment) */
+"_Common_Order" = "Порядок";
+
+/* (No Comment) */
+"_Common_OtherNames" = "Другие имена";
+
+/* (No Comment) */
+"_Common_Others" = "Прочее";
+
+/* (No Comment) */
+"_Common_Page" = "Страница";
+
+/* (No Comment) */
+"_Common_Parent1" = "Родитель 1";
+
+/* (No Comment) */
+"_Common_Parent2" = "Родитель 2";
+
+/* (No Comment) */
+"_Common_Parents" = "Родители";
+
+/* (No Comment) */
+"_Common_Partner" = "Партнёр";
+
+/* (No Comment) */
+"_Common_Partner1" = "Партнёр 1";
+
+/* (No Comment) */
+"_Common_Partner2" = "Партнёр 2";
+
+/* (No Comment) */
+"_Common_Partners" = "Партнёров";
+
+/* (No Comment) */
+"_Common_Person" = "Человек";
+
+/* (No Comment) */
+"_Common_PersonCountPlural" = "%d лиц";
+
+/* (No Comment) */
+"_Common_PersonCountPluralString" = "%@ людей";
+
+/* Counts */
+"_Common_PersonCountSingular" = "%d человек";
+
+/* (No Comment) */
+"_Common_PersonCountSingularString" = "%@ человек";
+
+/* Events & Facts */
+"_Common_PersonEvents" = "События человека";
+
+/* (No Comment) */
+"_Common_PersonFacts" = "Факты человека";
+
+/* (No Comment) */
+"_Common_Persons" = "Люди";
+
+/* (No Comment) */
+"_Common_Picture" = "Изображение";
+
+/* (No Comment) */
+"_Common_Pictures" = "Изображение";
+
+/* (No Comment) */
+"_Common_Place" = "Место";
+
+/* (No Comment) */
+"_Common_PlaceDetail" = "Сведения о месте";
+
+/* (No Comment) */
+"_Common_Places" = "Места";
+
+/* (No Comment) */
+"_Common_PleaseWaitPlaceholder" = "Пожалуйста, подождите…";
+
+/* Population Prefix */
+"_Common_Population" = "Население: %@";
+
+/* (No Comment) */
+"_Common_PrefixName" = "Название";
+
+/* (No Comment) */
+"_Common_PreviousButton" = "Назад";
+
+/* (No Comment) */
+"_Common_Print" = "Напечатать";
+
+/* Progress Counts */
+"_Common_ProgressCount" = "%d из %d";
+
+/* (No Comment) */
+"_Common_ProgressCountAsString" = "%@ из %@";
+
+/* (No Comment) */
+"_Common_QuitButton" = "Завершить";
+
+/* (No Comment) */
+"_Common_ReferenceNumber" = "Номер ссылки";
+
+/* (No Comment) */
+"_Common_RejectButton" = "Отклонить";
+
+/* (No Comment) */
+"_Common_RemoveButton" = "Удалить";
+
+/* (No Comment) */
+"_Common_RenameButton" = "Переименовать";
+
+/* (No Comment) */
+"_Common_ReplaceButton" = "Заменить";
+
+/* (No Comment) */
+"_Common_ResetButton" = "Сброс";
+
+/* (No Comment) */
+"_Common_RetryButton" = "Повторить";
+
+/* (No Comment) */
+"_Common_Save" = "Сохранить";
+
+/* (No Comment) */
+"_Common_SaveButton" = "Сохранить";
+
+/* (No Comment) */
+"_Common_Search" = "Найти";
+
+/* (No Comment) */
+"_Common_Search_Clear" = "Очистить";
+
+/* (No Comment) */
+"_Common_Search_Menu_Title" = "Меню поиска";
+
+/* (No Comment) */
+"_Common_Search_Options" = "Параметры поиска...";
+
+/* (No Comment) */
+"_Common_Search_Recent" = "Последние поиски";
+
+/* (No Comment) */
+"_Common_Section" = "Раздел";
+
+/* (No Comment) */
+"_Common_SelectButton" = "Выбрать";
+
+/* (No Comment) */
+"_Common_Settings" = "Параметры";
+
+/* (No Comment) */
+"_Common_SkipButton" = "Неродной";
+
+/* (No Comment) */
+"_Common_Sorting_ByBirthDate" = "По дате рождения";
+
+/* (No Comment) */
+"_Common_Sorting_ByBirthPlace" = "По месту рождения";
+
+/* (No Comment) */
+"_Common_Sorting_ByDate" = "По дате";
+
+/* (No Comment) */
+"_Common_Sorting_ByDeathDate" = "По дате смерти";
+
+/* (No Comment) */
+"_Common_Sorting_ByDeathPlace" = "По месту смерти";
+
+/* (No Comment) */
+"_Common_Sorting_ByFirstName" = "По имени";
+
+/* (No Comment) */
+"_Common_Sorting_ByLastName" = "По фамилии";
+
+/* Sorting */
+"_Common_Sorting_ByName" = "По имени";
+
+/* (No Comment) */
+"_Common_Sorting_ByScore" = "По баллам";
+
+/* (No Comment) */
+"_Common_Source" = "Источник";
+
+/* (No Comment) */
+"_Common_SourceCitationsPlural" = "%d цитирований";
+
+/* (No Comment) */
+"_Common_SourceCitationsPluralString" = "%@ цитирований";
+
+/* (No Comment) */
+"_Common_SourceCitationsSingular" = "%d цитирование";
+
+/* (No Comment) */
+"_Common_SourceCitationsSingularString" = "%@ цитирование";
+
+/* (No Comment) */
+"_Common_Sources" = "Источники";
+
+/* (No Comment) */
+"_Common_State" = "Область/Штат";
+
+/* (No Comment) */
+"_Common_StopSharingButton" = "Завершить общий доступ";
+
+/* (No Comment) */
+"_Common_SuffixName" = "Суффикс";
+
+/* (No Comment) */
+"_Common_Text" = "Текст";
+
+/* (No Comment) */
+"_Common_Title" = "Название";
+
+/* (No Comment) */
+"_Common_ToDo" = "Задача";
+
+/* (No Comment) */
+"_Common_ToDos" = "Задачи";
+
+/* (No Comment) */
+"_Common_Toggle" = "Выбрать все";
+
+/* (No Comment) */
+"_Common_Type" = "Тип";
+
+/* (No Comment) */
+"_Common_Unknown" = "Неизвестный";
+
+/* (No Comment) */
+"_Common_UnknownGender" = "Пол неизвестен";
+
+/* (No Comment) */
+"_Common_UnknownPerson" = "Незнакомый человек";
+
+/* (No Comment) */
+"_Common_Unlimited" = "Безлимитный";
+
+/* (No Comment) */
+"_Common_UnnamedChart" = "Безымянная диаграмма";
+
+/* (No Comment) */
+"_Common_UnnamedFamily" = "Безымянная семья";
+
+/* (No Comment) */
+"_Common_UnnamedLabel" = "Безымянная метка";
+
+/* (No Comment) */
+"_Common_UnnamedMedia" = "Безымянные медиа";
+
+/* (No Comment) */
+"_Common_UnnamedPerson" = "Безымянный человек";
+
+/* (No Comment) */
+"_Common_UnnamedPersonGroup" = "Группа людей без названия";
+
+/* (No Comment) */
+"_Common_UnnamedPlace" = "Безымянное место";
+
+/* (No Comment) */
+"_Common_UnnamedPlaceDetail" = "Безымянные сведения о месте";
+
+/* (No Comment) */
+"_Common_UnnamedPlaceTemplate" = "Шаблон безымянного места";
+
+/* (No Comment) */
+"_Common_UnnamedPlaceTemplateKey" = "Безымянное поле шаблона";
+
+/* (No Comment) */
+"_Common_UnnamedSource" = "Безымянный источник";
+
+/* (No Comment) */
+"_Common_UnnamedSourceRepository" = "Безымянный исходный репозиторий";
+
+/* (No Comment) */
+"_Common_UnnamedSourceTemplate" = "Безымянный исходный шаблон";
+
+/* (No Comment) */
+"_Common_UnnamedSourceTemplateKey" = "Безымянный поле шаблона";
+
+/* (No Comment) */
+"_Common_UnnamedStory" = "Безымянная история";
+
+/* (No Comment) */
+"_Common_UnnamedStorySection" = "Безымянный раздел истории";
+
+/* (No Comment) */
+"_Common_UnnamedTitle" = "Без имени";
+
+/* (No Comment) */
+"_Common_UnnamedToDo" = "Безымянный задача";
+
+/* (No Comment) */
+"_Common_UpdateButton" = "Обновить";
+
+/* (No Comment) */
+"_Common_UploadButton" = "Загрузить";
+
+/* (No Comment) */
+"_Common_Value" = "Значение";
+
+/* (No Comment) */
+"_Common_Version" = "Версия";
+
+/* (No Comment) */
+"_Common_White" = "Белый";
+
+/* (No Comment) */
+"_Common_Width" = "Ширина";
+
+/* (No Comment) */
+"_Common_Woman" = "Женщина";
+
+/* (No Comment) */
+"_Common_Year" = "Год";
+
+/* (No Comment) */
+"_Common_Years" = "года (лет)";
+
+/* (No Comment) */
+"_Common_Yes" = "Да";
+
+/* (No Comment) */
+"_Person_NameFormat_FirstName_MiddleName_LastName_Suffix_Comma_Title" = "\"Имя\" \"Отчество\" \"Фамилия\" суффикс, обращение";
+
+/* (No Comment) */
+"_Person_NameFormat_LastName_Comma_FirstName_Comma_MiddleName_Comma_Suffix_Comma_Title" = "\"Фамилия\", \"Имя\", \"Отчество\", суффикс, обращение";
+
+/* (No Comment) */
+"_Person_NameFormat_LastName_Suffix_Comma_FirstName_MiddleName_Comma_Title" = "\"Фамилия\" суффикс, \"Имя\" \"Отчество\", обращение";
+
+/* (No Comment) */
+"_Person_NameFormat_Title_Comma_FirstName_Suffix_Bracket_MiddleName_Bracket" = "Обращение \"Фамилия\", \"Имя\" суффикс (\"Отчество\")";
+
+/* (No Comment) */
+"_Person_NameFormat_Title_FirstName_Comma_LastName_Comma_MiddleName_Comma_Suffix" = "Обращение \"Имя\", \"Фамилия\", \"Отчество\", суффикс";
+
+/* Person Name Formats */
+"_Person_NameFormat_Title_FirstName_MiddleName_LastName_Suffix" = "Обращение \"Имя\" \"Отчество\" \"Фамилия\" суффикс";
+
+/* (No Comment) */
+"_Person_NameFormat_Title_LastName_MiddleName_FirstName_Suffix" = "Обращение \"Фамилия\" \"Отчество\" \"Имя\" суффикс";
+
+/* (No Comment) */
+"_Person_NameFormat_Title_LastName_Suffix_Comma_FirstName_MiddleName" = "Обращение \"Фамилия\" суффикс, \"Имя\" \"Отчество\"";
+
+/* (No Comment) */
+"_Person_NameFormat_Title_LastName_Suffix_FirstName_MiddleName" = "Обращение \"Фамилия\" суффикс \"Имя\" \"Отчество\"";
+

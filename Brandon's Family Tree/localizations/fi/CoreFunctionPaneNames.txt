@@ -1,0 +1,627 @@
+﻿/* Actions */
+"_EditPlaceholderPane_ImportFromAddressBookAction" = "Tuo henkilöitä Osoitekirjasta…";
+
+/* Subtitles */
+"_EditPlaceholderPane_NewTreeWelcomeMessage" = "Tervetuloa MacFamilyTree 11! Aloittaaksesi tutkimuksesi suosittelemme vuorovaikutteisen puun käyttöä.";
+
+/* (No Comment) */
+"_EditPlaceholderPane_NewTreeWelcomeMessage_InitialCloudKitDownloadInProgress" = "Puu latautuu CloudTreestä - Ole kärsivällinen";
+
+/* (No Comment) */
+"_EditPlaceholderPane_NewTreeWelcomeMessage_MobileFamilyTree" = "Tervetuloa MobileFamilyTree 11! Aloittaaksesi tutkimuksesi suosittelemme vuorovaikutteisen puun käyttöä.";
+
+/* (No Comment) */
+"_FavoritesPlaceholderPane_ConfigureFavoritesAction" = "Valitse suosikit…";
+
+/* (No Comment) */
+"_FunctionTitle_AhnentafelReportPaneName" = "Sukutauluraportti";
+
+/* (No Comment) */
+"_FunctionTitle_AhnentafelReportPaneName_Abbreviation" = "Sukutaulu";
+
+/* (No Comment) */
+"_FunctionTitle_AncestorChartPaneName" = "Esipolvikuvaaja";
+
+/* (No Comment) */
+"_FunctionTitle_AncestorChartPaneName_Abbreviation" = "Esipolvet";
+
+/* (No Comment) */
+"_FunctionTitle_AnniversaryListReportPaneName" = "Vuosipäiväluettelo";
+
+/* (No Comment) */
+"_FunctionTitle_AnniversaryListReportPaneName_Abbreviation" = "Vuosipäivät";
+
+/* (No Comment) */
+"_FunctionTitle_BooksPaneName" = "Sukupuukirja";
+
+/* (No Comment) */
+"_FunctionTitle_BooksPaneName_Abbreviation" = "Sukupuukirja";
+
+/* (No Comment) */
+"_FunctionTitle_ChangeLogPane" = "Muutosloki";
+
+/* (No Comment) */
+"_FunctionTitle_ChangeLogPane_Abbreviation" = "Muutokset";
+
+/* (No Comment) */
+"_FunctionTitle_ChangeLogReportPaneName" = "Muutoslokiraportti";
+
+/* (No Comment) */
+"_FunctionTitle_ChangesListReportPaneName" = "Muutosluettelo";
+
+/* (No Comment) */
+"_FunctionTitle_ChartsFunctionsPlaceholder" = "Kuvaajatoimintojen yleiskuva";
+
+/* (No Comment) */
+"_FunctionTitle_ChartsFunctionsPlaceholder_Abbreviation" = "Kaavioiden yleiskuva";
+
+/* (No Comment) */
+"_FunctionTitle_DatabaseMaintenancePaneName" = "Tietokannan huolto";
+
+/* (No Comment) */
+"_FunctionTitle_DatabaseMaintenancePaneName_Abbreviation" = "Huolto";
+
+/* (No Comment) */
+"_FunctionTitle_DescendancyReportPaneName" = "Jälkeläisraportti";
+
+/* (No Comment) */
+"_FunctionTitle_DescendancyReportPaneName_Abbreviation" = "Jälkeläiset";
+
+/* (No Comment) */
+"_FunctionTitle_DescendantChartPaneName" = "Jälkeläiskuvaaja";
+
+/* (No Comment) */
+"_FunctionTitle_DescendantChartPaneName_Abbreviation" = "Jälkeläiset";
+
+/* (No Comment) */
+"_FunctionTitle_DistinctivePersonsListReportPaneName" = "Luettelo erikoisista henkilöistä";
+
+/* (No Comment) */
+"_FunctionTitle_DistinctivePersonsListReportPaneName_Abbreviation" = "Erikoisuus";
+
+/* (No Comment) */
+"_FunctionTitle_DistributionChartPaneName" = "Jakautuminen";
+
+/* (No Comment) */
+"_FunctionTitle_DistributionChartPaneName_Abbreviation" = "Jakautuminen";
+
+/* (No Comment) */
+"_FunctionTitle_DoubleAncestorChartPaneName" = "Kaksois esipolvikuvaaja";
+
+/* (No Comment) */
+"_FunctionTitle_DoubleAncestorChartPaneName_Abbreviation" = "Kaksoisesipolvet";
+
+/* (No Comment) */
+"_FunctionTitle_EditChartPaneName" = "Muokkaa kuvaajaa";
+
+/* (No Comment) */
+"_FunctionTitle_EditChartPaneName_Abbreviation" = "Muokkaa kuvaajaa";
+
+/* (No Comment) */
+"_FunctionTitle_EditFamilyTreeInformationPaneName" = "Tekijätiedot";
+
+/* (No Comment) */
+"_FunctionTitle_EditFamilyTreeInformationPaneName_Abbreviation" = "Tekijä";
+
+/* Placeholders */
+"_FunctionTitle_EditFunctionsPlaceholder" = "Muokkaustoimintojen yleiskuva";
+
+/* Placeholders Abbreviations */
+"_FunctionTitle_EditFunctionsPlaceholder_Abbreviation" = "Muokkaus yleiskuva";
+
+/* (No Comment) */
+"_FunctionTitle_EditMediaPaneName" = "Muokkaa mediaa";
+
+/* (No Comment) */
+"_FunctionTitle_EditMediaPaneName_Abbreviation" = "Media";
+
+/* (No Comment) */
+"_FunctionTitle_EditReportInBookPaneName" = "Muokkaa raporttia kirjassa";
+
+/* (No Comment) */
+"_FunctionTitle_EditReportInBookPaneName_Abbreviation" = "Muokkaa kirjan raporttia";
+
+/* (No Comment) */
+"_FunctionTitle_EditReportPaneName" = "Muokkausraportti";
+
+/* (No Comment) */
+"_FunctionTitle_EditReportPaneName_Abbreviation" = "Muokkaa raporttia";
+
+/* (No Comment) */
+"_FunctionTitle_EventsListReportPaneName" = "Tapahtumaluettelo";
+
+/* (No Comment) */
+"_FunctionTitle_EventsListReportPaneName_Abbreviation" = "Tapahtumat";
+
+/* (No Comment) */
+"_FunctionTitle_ExportGEDCOMPaneName" = "Vie GEDCOM-tiedosto";
+
+/* (No Comment) */
+"_FunctionTitle_ExportGEDCOMPaneName_Abbreviation" = "GEDCOM-tiedosto";
+
+/* (No Comment) */
+"_FunctionTitle_ExportSubtreePaneName" = "Vie alipuu";
+
+/* (No Comment) */
+"_FunctionTitle_ExportSubtreePaneName_Abbreviation" = "Vie alipuu";
+
+/* (No Comment) */
+"_FunctionTitle_FactsListReportPaneName" = "Faktaluettelo";
+
+/* (No Comment) */
+"_FunctionTitle_FactsListReportPaneName_Abbreviation" = "Faktat";
+
+/* (No Comment) */
+"_FunctionTitle_Family_PluralCount" = "%@ perhettä";
+
+/* (No Comment) */
+"_FunctionTitle_Family_SingularCount" = "%@ perhe";
+
+/* (No Comment) */
+"_FunctionTitle_FamilyGroupReportPaneName" = "Perheraportti";
+
+/* (No Comment) */
+"_FunctionTitle_FamilyGroupReportPaneName_Abbreviation" = "Perhe";
+
+/* (No Comment) */
+"_FunctionTitle_FamilyListPaneName" = "Muokkaa perheitä";
+
+/* (No Comment) */
+"_FunctionTitle_FamilyListPaneName_Abbreviation" = "Perheet";
+
+/* (No Comment) */
+"_FunctionTitle_FamilyQuizPaneName" = "Perhekysely";
+
+/* (No Comment) */
+"_FunctionTitle_FamilyQuizPaneName_Abbreviation" = "Kysely";
+
+/* (No Comment) */
+"_FunctionTitle_FamilySearchPaneName" = "FamilySearch";
+
+/* (No Comment) */
+"_FunctionTitle_FamilySearchPaneName_Abbreviation" = "FamilySearch";
+
+/* (No Comment) */
+"_FunctionTitle_FamilySearchTaskResults_PluralCount" = "%@ tulosta";
+
+/* (No Comment) */
+"_FunctionTitle_FamilySearchTaskResults_SingularCount" = "%@ tulos";
+
+/* (No Comment) */
+"_FunctionTitle_FanChartPaneName" = "Viuhkakuvaaja";
+
+/* (No Comment) */
+"_FunctionTitle_FanChartPaneName_Abbreviation" = "Viuhka";
+
+/* (No Comment) */
+"_FunctionTitle_FavoritesFunctionsPlaceholder" = "Suosikkitoimintojen yleiskuva";
+
+/* (No Comment) */
+"_FunctionTitle_FavoritesFunctionsPlaceholder_Abbreviation" = "Suosikkien yleiskuva";
+
+/* (No Comment) */
+"_FunctionTitle_FractalCircularTreeChartPaneName" = "Pyöreä puu";
+
+/* (No Comment) */
+"_FunctionTitle_FractalCircularTreeChartPaneName_Abbreviation" = "Pyöreä";
+
+/* (No Comment) */
+"_FunctionTitle_FractalFractalTreeChartPaneName" = "Fraktaalipuu";
+
+/* (No Comment) */
+"_FunctionTitle_FractalFractalTreeChartPaneName_Abbreviation" = "Fraktaali";
+
+/* (No Comment) */
+"_FunctionTitle_FractalHTreeChartPaneName" = "Fraktaali H-puu";
+
+/* (No Comment) */
+"_FunctionTitle_FractalHTreeChartPaneName_Abbreviation" = "H-puu";
+
+/* (No Comment) */
+"_FunctionTitle_FractalHVTreeChartPaneName" = "Neliöpuu";
+
+/* (No Comment) */
+"_FunctionTitle_FractalHVTreeChartPaneName_Abbreviation" = "Neliö";
+
+/* (No Comment) */
+"_FunctionTitle_FractalSymmetricalTreeChartPaneName" = "Symmetrinen puu";
+
+/* (No Comment) */
+"_FunctionTitle_FractalSymmetricalTreeChartPaneName_Abbreviation" = "Symmetrinen";
+
+/* (No Comment) */
+"_FunctionTitle_GenogramChartPaneName" = "Genogrammi- kuvaaja";
+
+/* (No Comment) */
+"_FunctionTitle_GenogramChartPaneName_Abbreviation" = "Genogrammi";
+
+/* (No Comment) */
+"_FunctionTitle_HourglassChartPaneName" = "Tiimalasikuvaaja";
+
+/* (No Comment) */
+"_FunctionTitle_HourglassChartPaneName_Abbreviation" = "Tiimalasi";
+
+/* Function Names */
+"_FunctionTitle_InteractiveTreeEditPaneName" = "Vuorovaikutteinen puu";
+
+/* Function Names Abbreviations */
+"_FunctionTitle_InteractiveTreeEditPaneName_Abbreviation" = "Vuorovaikutteinen";
+
+/* (No Comment) */
+"_FunctionTitle_KinshipReportPaneName" = "Sukulaisuusraportti";
+
+/* (No Comment) */
+"_FunctionTitle_KinshipReportPaneName_Abbreviation" = "Sukulaisuudet";
+
+/* (No Comment) */
+"_FunctionTitle_LDSOrdinancesListReportPaneName" = "MAP Toimitusluettelo";
+
+/* (No Comment) */
+"_FunctionTitle_ListReportsFunctionsPlaceholder" = "Raporttiluettelotoimintojen yleiskuva";
+
+/* (No Comment) */
+"_FunctionTitle_ListReportsFunctionsPlaceholder_Abbreviation" = "Luetteloiden yleiskuva";
+
+/* (No Comment) */
+"_FunctionTitle_MapReportPaneName" = "Karttaraportti";
+
+/* (No Comment) */
+"_FunctionTitle_MapReportPaneName_Abbreviation" = "Kartat";
+
+/* (No Comment) */
+"_FunctionTitle_MapsDiagramPaneName" = "Tilastokartat";
+
+/* (No Comment) */
+"_FunctionTitle_MapsDiagramPaneName_Abbreviation" = "Tilastokartat";
+
+/* (No Comment) */
+"_FunctionTitle_MarriageListReportPaneName" = "Avioliittoluettelo";
+
+/* (No Comment) */
+"_FunctionTitle_MarriageListReportPaneName_Abbreviation" = "Avioliitot";
+
+/* (No Comment) */
+"_FunctionTitle_Media_PluralCount" = "%@ mediaa";
+
+/* (No Comment) */
+"_FunctionTitle_Media_SingularCount" = "%@ media";
+
+/* (No Comment) */
+"_FunctionTitle_MediaGalleryName" = "Mediagalleria";
+
+/* (No Comment) */
+"_FunctionTitle_MediaGalleryName_Abbreviation" = "Galleria";
+
+/* (No Comment) */
+"_FunctionTitle_MediaGalleryReportPaneName" = "Mediagalleriaraportti";
+
+/* (No Comment) */
+"_FunctionTitle_NarrativeReportPaneName" = "Sanallinen raportti";
+
+/* (No Comment) */
+"_FunctionTitle_NarrativeReportPaneName_Abbreviation" = "Sanallinen";
+
+/* (No Comment) */
+"_FunctionTitle_Person_PluralCount" = "%@ henkilöä";
+
+/* Count Strings */
+"_FunctionTitle_Person_SingularCount" = "%@ henkilö";
+
+/* (No Comment) */
+"_FunctionTitle_PersonAnalysisListReportPaneName" = "Henkilöanalyysi";
+
+/* (No Comment) */
+"_FunctionTitle_PersonAnalysisListReportPaneName_Abbreviation" = "Analyysi";
+
+/* (No Comment) */
+"_FunctionTitle_PersonEventsReportPaneName" = "Henkilötapahtumaraportti";
+
+/* (No Comment) */
+"_FunctionTitle_PersonEventsReportPaneName_Abbreviation" = "Henkilötapahtumat";
+
+/* (No Comment) */
+"_FunctionTitle_PersonGroup_PluralCount" = "%@ henkilöryhmää";
+
+/* (No Comment) */
+"_FunctionTitle_PersonGroup_SingularCount" = "%@ henkilöryhmä";
+
+/* (No Comment) */
+"_FunctionTitle_PersonGroupPaneName" = "Muokkaa henkilöryhmiä";
+
+/* (No Comment) */
+"_FunctionTitle_PersonGroupPaneName_Abbreviation" = "Ryhmät";
+
+/* (No Comment) */
+"_FunctionTitle_PersonListPaneName" = "Muokkaa henkilöitä";
+
+/* (No Comment) */
+"_FunctionTitle_PersonListPaneName_Abbreviation" = "Henkilöt";
+
+/* (No Comment) */
+"_FunctionTitle_PersonListReportPaneName" = "Henkilöluettelo";
+
+/* (No Comment) */
+"_FunctionTitle_PersonListReportPaneName_Abbreviation" = "Henkilöt";
+
+/* (No Comment) */
+"_FunctionTitle_PersonReportPaneName" = "Henkilöraportti";
+
+/* (No Comment) */
+"_FunctionTitle_PersonReportPaneName_Abbreviation" = "Henkilö";
+
+/* (No Comment) */
+"_FunctionTitle_Place_PluralCount" = "%@ paikkaa";
+
+/* (No Comment) */
+"_FunctionTitle_Place_SingularCount" = "%@ paikka";
+
+/* (No Comment) */
+"_FunctionTitle_PlaceListPaneName" = "Muokkaa paikkakuntia";
+
+/* (No Comment) */
+"_FunctionTitle_PlaceListPaneName_Abbreviation" = "Paikkakunnat";
+
+/* (No Comment) */
+"_FunctionTitle_PlacesListReportPaneName" = "Paikkaluettelo";
+
+/* (No Comment) */
+"_FunctionTitle_PlacesListReportPaneName_Abbreviation" = "Paikat";
+
+/* (No Comment) */
+"_FunctionTitle_PlausibilityListReportPaneName" = "Uskottavuus- luettelo";
+
+/* (No Comment) */
+"_FunctionTitle_PlausibilityListReportPaneName_Abbreviation" = "Uskottavuus";
+
+/* (No Comment) */
+"_FunctionTitle_PublishFunctionsPlaceholder" = "Julkaisutoimintojen yleiskuva";
+
+/* (No Comment) */
+"_FunctionTitle_PublishFunctionsPlaceholder_Abbreviation" = "Julkaise yleiskuva";
+
+/* (No Comment) */
+"_FunctionTitle_RegisterReportPaneName" = "Rekisteriraportti";
+
+/* (No Comment) */
+"_FunctionTitle_RelationshipChartPaneName" = "Sukulaisuus- kuvaaja";
+
+/* (No Comment) */
+"_FunctionTitle_RelationshipChartPaneName_Abbreviation" = "Sukulaisuudet";
+
+/* (No Comment) */
+"_FunctionTitle_RemoveSubtreePaneName" = "Poista alipuu";
+
+/* (No Comment) */
+"_FunctionTitle_RemoveSubtreePaneName_Abbreviation" = "Poista alipuu";
+
+/* (No Comment) */
+"_FunctionTitle_ReportsFunctionsPlaceholder" = "Raporttitoimintojen yleiskuva";
+
+/* (No Comment) */
+"_FunctionTitle_ReportsFunctionsPlaceholder_Abbreviation" = "Raporttien yleiskuva";
+
+/* (No Comment) */
+"_FunctionTitle_ResearchAssistantPaneName" = "Tutkimusapuri";
+
+/* (No Comment) */
+"_FunctionTitle_ResearchAssistantPaneName_Abbreviation" = "Apuri";
+
+/* (No Comment) */
+"_FunctionTitle_SavedBook_PluralCount" = "%@ kirjaa";
+
+/* (No Comment) */
+"_FunctionTitle_SavedBook_SingularCount" = "%@ kirja";
+
+/* (No Comment) */
+"_FunctionTitle_SavedChart_PluralCount" = "%@ tallennettua näkymää";
+
+/* (No Comment) */
+"_FunctionTitle_SavedChart_SingularCount" = "%@ tallennettu näkymä";
+
+/* (No Comment) */
+"_FunctionTitle_SavedChartsPaneName" = "Tallennetut kuvaajat";
+
+/* (No Comment) */
+"_FunctionTitle_SavedChartsPaneName_Abbreviation" = "Tallennetut";
+
+/* (No Comment) */
+"_FunctionTitle_SavedReport_PluralCount" = "%@ tallennettua raporttia";
+
+/* (No Comment) */
+"_FunctionTitle_SavedReport_SingularCount" = "%@ tallennettu raportti";
+
+/* (No Comment) */
+"_FunctionTitle_SavedReportsPaneName" = "Tallennetut raportit";
+
+/* (No Comment) */
+"_FunctionTitle_SavedReportsPaneName_Abbreviation" = "Tallennetut raportit";
+
+/* (No Comment) */
+"_FunctionTitle_SavedWebsite_PluralCount" = "%@ Webbisivua";
+
+/* (No Comment) */
+"_FunctionTitle_SavedWebsite_SingularCount" = "%@ Webbisivu";
+
+/* (No Comment) */
+"_FunctionTitle_SearchAndReplacePaneName" = "Hae ja korvaa";
+
+/* (No Comment) */
+"_FunctionTitle_SearchPaneName" = "Tietokantahaku";
+
+/* (No Comment) */
+"_FunctionTitle_SearchPaneName_Abbreviation" = "Haku";
+
+/* (No Comment) */
+"_FunctionTitle_SociogramChartPaneName" = "Sosiogrammi kuvaaja";
+
+/* (No Comment) */
+"_FunctionTitle_SociogramChartPaneName_Abbreviation" = "Sosiogrammi";
+
+/* (No Comment) */
+"_FunctionTitle_Source_PluralCount" = "%@ lähdettä";
+
+/* (No Comment) */
+"_FunctionTitle_Source_SingularCount" = "%@ lähde";
+
+/* (No Comment) */
+"_FunctionTitle_SourceListPaneName" = "Muokkaa lähteitä";
+
+/* (No Comment) */
+"_FunctionTitle_SourceListPaneName_Abbreviation" = "Lähteet";
+
+/* (No Comment) */
+"_FunctionTitle_SourcesListReportPaneName" = "Lähdeluettelo";
+
+/* (No Comment) */
+"_FunctionTitle_SourcesListReportPaneName_Abbreviation" = "Lähteet";
+
+/* (No Comment) */
+"_FunctionTitle_StatisticsChartPaneName" = "Tilastot";
+
+/* (No Comment) */
+"_FunctionTitle_StatisticsChartPaneName_Abbreviation" = "Tilastot";
+
+/* (No Comment) */
+"_FunctionTitle_StatusReportPaneName" = "Tilaraportti";
+
+/* (No Comment) */
+"_FunctionTitle_Story_PluralCount" = "%@ tarinaa";
+
+/* (No Comment) */
+"_FunctionTitle_Story_SingularCount" = "%@ tarina";
+
+/* (No Comment) */
+"_FunctionTitle_StoryPaneName" = "Muokkaa tarinoita";
+
+/* (No Comment) */
+"_FunctionTitle_StoryPaneName_Abbreviation" = "Tarinat";
+
+/* (No Comment) */
+"_FunctionTitle_StoryReportPaneName" = "Tarinaraportti";
+
+/* (No Comment) */
+"_FunctionTitle_StoryReportPaneName_Abbreviation" = "Tarina";
+
+/* (No Comment) */
+"_FunctionTitle_TimelineChartPaneName" = "Aikajana";
+
+/* (No Comment) */
+"_FunctionTitle_TimelineChartPaneName_Abbreviation" = "Aikajana";
+
+/* (No Comment) */
+"_FunctionTitle_TimelineReportPaneName" = "Aikajanaraportti";
+
+/* (No Comment) */
+"_FunctionTitle_TodayReportPaneName" = "Tämän päivän raportti";
+
+/* (No Comment) */
+"_FunctionTitle_ToDo_PluralCount" = "%@ Tehtävää";
+
+/* (No Comment) */
+"_FunctionTitle_ToDo_PluralCount_Overdue" = "%@ erääntynyt";
+
+/* (No Comment) */
+"_FunctionTitle_ToDo_SingularCount" = "%@ tehtävä";
+
+/* (No Comment) */
+"_FunctionTitle_ToDo_SingularCount_Overdue" = "%@ erääntynyt";
+
+/* (No Comment) */
+"_FunctionTitle_ToDoListReportPaneName" = "Tehtäväluettelo";
+
+/* (No Comment) */
+"_FunctionTitle_ToDoListReportPaneName_Abbreviation" = "Tehtävät";
+
+/* (No Comment) */
+"_FunctionTitle_ToDosPaneName" = "Muokkaa tehtäväluetteloa";
+
+/* (No Comment) */
+"_FunctionTitle_ToDosPaneName_Abbreviation" = "Tehtävät";
+
+/* (No Comment) */
+"_FunctionTitle_TreeChartPaneName" = "Täydellinen puukuvaaja";
+
+/* (No Comment) */
+"_FunctionTitle_TreeChartPaneName_Abbreviation" = "Puu";
+
+/* (No Comment) */
+"_FunctionTitle_ViewsFunctionsPlaceholder" = "Katselutoimintojen yleiskuva";
+
+/* (No Comment) */
+"_FunctionTitle_ViewsFunctionsPlaceholder_Abbreviation" = "Näkymäyleiskuva";
+
+/* (No Comment) */
+"_FunctionTitle_VirtualGlobeChartPaneName_Abbreviation" = "Maapallo";
+
+/* (No Comment) */
+"_FunctionTitle_VirtualGlobePaneName" = "Virtuaalimaapallo";
+
+/* (No Comment) */
+"_FunctionTitle_VirtualTreeDiagramPaneName" = "Virtuaalipuu";
+
+/* (No Comment) */
+"_FunctionTitle_VirtualTreeDiagramPaneName_Abbreviation" = "Virtuaalipuu";
+
+/* (No Comment) */
+"_FunctionTitle_WebSearchPaneName" = "Webbihaku";
+
+/* (No Comment) */
+"_FunctionTitle_WebSearchPaneName_Abbreviation" = "Webbihaku";
+
+/* (No Comment) */
+"_FunctionTitle_WebSiteExportWebSitesPaneName" = "Webbisivut";
+
+/* (No Comment) */
+"_FunctionTitle_WebSiteExportWebSitesPaneName_Abbreviation" = "Webbisivut";
+
+/* (No Comment) */
+"_FunctionTitle_WebSitePaneName" = "Webbisivu";
+
+/* (No Comment) */
+"_FunctionTitle_WebSitePaneName_Abbreviation" = "Webbisivu";
+
+/* More Function */
+"_MoreFunctionPanesTitle" = "Lisää…";
+
+/* (No Comment) */
+"_PaneCategory_Charts" = "Kuvaajat";
+
+/* Categories */
+"_PaneCategory_Edit" = "Muokkaus";
+
+/* (No Comment) */
+"_PaneCategory_Favorites" = "Suosikit";
+
+/* (No Comment) */
+"_PaneCategory_ListReports" = "Luettelot";
+
+/* (No Comment) */
+"_PaneCategory_Publish" = "Julkaisu";
+
+/* (No Comment) */
+"_PaneCategory_Reports" = "Raportit";
+
+/* (No Comment) */
+"_PaneCategory_View" = "Näkymät";
+
+/* (No Comment) */
+"_PaneCategoryBaseFunction_Emphasized" = "Korostettu";
+
+/* (No Comment) */
+"_PaneCategoryBaseFunction_Emphasized_Explanation" = "Korostettuna tämä funktio näytetään merkittävänä kunkin lajin aloituskappaleessa.";
+
+/* PaneCategoryFunction Configuration User Interface */
+"_PaneCategoryBaseFunction_Enabled" = "Sallittu";
+
+/* (No Comment) */
+"_PaneCategoryBaseFunction_Enabled_Explanation" = "Määritä tässä näytetäänkö tämä funktio oletusarvoisesti. Jos estetty, funktio poistetaan käyttöliittymästä. Voit palautta sen tässä milloin tahansa.";
+
+/* (No Comment) */
+"_PaneCategoryBaseFunction_Favorite" = "Merkitse suosikiksi";
+
+/* (No Comment) */
+"_PaneCategoryBaseFunction_Favorite_Explanation" = "Merkitse usein käyttämäsi tärkeät funktiot suosikeiksi. Ne näkyvät sitten 'Suosikit' kategoriassa helposti ja nopeasti käytettävinä.";
+
+/* (No Comment) */
+"_PaneCategoryBaseFunction_RemoveFromFavoritesButton" = "Poista Suosikeista";
+

@@ -1,0 +1,627 @@
+﻿/* Actions */
+"_EditPlaceholderPane_ImportFromAddressBookAction" = "Importar Pessoas dos Contatos…";
+
+/* Subtitles */
+"_EditPlaceholderPane_NewTreeWelcomeMessage" = "Bem-vindo ao MacFamilyTree 11! Para iniciar sua pesquisa, recomendamos o uso da árvore interativa.";
+
+/* (No Comment) */
+"_EditPlaceholderPane_NewTreeWelcomeMessage_InitialCloudKitDownloadInProgress" = "Árvore atualmente sendo transferida do CloudTree - Seja paciente";
+
+/* (No Comment) */
+"_EditPlaceholderPane_NewTreeWelcomeMessage_MobileFamilyTree" = "Bem-vindo ao MobileFamilyTree 11! Para iniciar sua pesquisa, recomendamos o uso da árvore interativa.";
+
+/* (No Comment) */
+"_FavoritesPlaceholderPane_ConfigureFavoritesAction" = "Selecionar favoritos…";
+
+/* (No Comment) */
+"_FunctionTitle_AhnentafelReportPaneName" = "Relatório de Antepassados";
+
+/* (No Comment) */
+"_FunctionTitle_AhnentafelReportPaneName_Abbreviation" = "Antepassados";
+
+/* (No Comment) */
+"_FunctionTitle_AncestorChartPaneName" = "Gráfico de antepassados";
+
+/* (No Comment) */
+"_FunctionTitle_AncestorChartPaneName_Abbreviation" = "Antepassados";
+
+/* (No Comment) */
+"_FunctionTitle_AnniversaryListReportPaneName" = "Lista de aniversário";
+
+/* (No Comment) */
+"_FunctionTitle_AnniversaryListReportPaneName_Abbreviation" = "Aniversários";
+
+/* (No Comment) */
+"_FunctionTitle_BooksPaneName" = "Livro da Árvore Genealógica";
+
+/* (No Comment) */
+"_FunctionTitle_BooksPaneName_Abbreviation" = "Livro da Árvore Genealógica";
+
+/* (No Comment) */
+"_FunctionTitle_ChangeLogPane" = "Registro de Alterações";
+
+/* (No Comment) */
+"_FunctionTitle_ChangeLogPane_Abbreviation" = "Alterações";
+
+/* (No Comment) */
+"_FunctionTitle_ChangeLogReportPaneName" = "Relatório de registro de alterações";
+
+/* (No Comment) */
+"_FunctionTitle_ChangesListReportPaneName" = "Lista de alterações";
+
+/* (No Comment) */
+"_FunctionTitle_ChartsFunctionsPlaceholder" = "Visão Geral das Funções Gráficas";
+
+/* (No Comment) */
+"_FunctionTitle_ChartsFunctionsPlaceholder_Abbreviation" = "Visão geral dos gráficos";
+
+/* (No Comment) */
+"_FunctionTitle_DatabaseMaintenancePaneName" = "Manutenção do Banco de Dados";
+
+/* (No Comment) */
+"_FunctionTitle_DatabaseMaintenancePaneName_Abbreviation" = "Manutenção";
+
+/* (No Comment) */
+"_FunctionTitle_DescendancyReportPaneName" = "Relatório de Descendência";
+
+/* (No Comment) */
+"_FunctionTitle_DescendancyReportPaneName_Abbreviation" = "Descendentes";
+
+/* (No Comment) */
+"_FunctionTitle_DescendantChartPaneName" = "Gráfico de Descendência";
+
+/* (No Comment) */
+"_FunctionTitle_DescendantChartPaneName_Abbreviation" = "Descendentes";
+
+/* (No Comment) */
+"_FunctionTitle_DistinctivePersonsListReportPaneName" = "Lista de pessoas distintas";
+
+/* (No Comment) */
+"_FunctionTitle_DistinctivePersonsListReportPaneName_Abbreviation" = "Distintivo";
+
+/* (No Comment) */
+"_FunctionTitle_DistributionChartPaneName" = "Distribuição";
+
+/* (No Comment) */
+"_FunctionTitle_DistributionChartPaneName_Abbreviation" = "Distribuição";
+
+/* (No Comment) */
+"_FunctionTitle_DoubleAncestorChartPaneName" = "Gráfico de antepassado duplo";
+
+/* (No Comment) */
+"_FunctionTitle_DoubleAncestorChartPaneName_Abbreviation" = "Antepassado duplo";
+
+/* (No Comment) */
+"_FunctionTitle_EditChartPaneName" = "Editar gráfico";
+
+/* (No Comment) */
+"_FunctionTitle_EditChartPaneName_Abbreviation" = "Editar Gráfico";
+
+/* (No Comment) */
+"_FunctionTitle_EditFamilyTreeInformationPaneName" = "Informações do autor";
+
+/* (No Comment) */
+"_FunctionTitle_EditFamilyTreeInformationPaneName_Abbreviation" = "Autor";
+
+/* Placeholders */
+"_FunctionTitle_EditFunctionsPlaceholder" = "Visão Geral das Funções de Edição";
+
+/* Placeholders Abbreviations */
+"_FunctionTitle_EditFunctionsPlaceholder_Abbreviation" = "Visão geral da edição";
+
+/* (No Comment) */
+"_FunctionTitle_EditMediaPaneName" = "Editar Mídia";
+
+/* (No Comment) */
+"_FunctionTitle_EditMediaPaneName_Abbreviation" = "Mídia";
+
+/* (No Comment) */
+"_FunctionTitle_EditReportInBookPaneName" = "Editar Relatório no Livro";
+
+/* (No Comment) */
+"_FunctionTitle_EditReportInBookPaneName_Abbreviation" = "Editar Relatório do Livro";
+
+/* (No Comment) */
+"_FunctionTitle_EditReportPaneName" = "Editar relatório";
+
+/* (No Comment) */
+"_FunctionTitle_EditReportPaneName_Abbreviation" = "Editar Relatório";
+
+/* (No Comment) */
+"_FunctionTitle_EventsListReportPaneName" = "Lista de eventos";
+
+/* (No Comment) */
+"_FunctionTitle_EventsListReportPaneName_Abbreviation" = "Eventos";
+
+/* (No Comment) */
+"_FunctionTitle_ExportGEDCOMPaneName" = "Exportar arquivo GEDCOM";
+
+/* (No Comment) */
+"_FunctionTitle_ExportGEDCOMPaneName_Abbreviation" = "Arquivo GEDCOM";
+
+/* (No Comment) */
+"_FunctionTitle_ExportSubtreePaneName" = "Exportar Subárvore";
+
+/* (No Comment) */
+"_FunctionTitle_ExportSubtreePaneName_Abbreviation" = "Exportar Subárvore";
+
+/* (No Comment) */
+"_FunctionTitle_FactsListReportPaneName" = "Lista de fatos";
+
+/* (No Comment) */
+"_FunctionTitle_FactsListReportPaneName_Abbreviation" = "Fatos";
+
+/* (No Comment) */
+"_FunctionTitle_Family_PluralCount" = "%@ Famílias";
+
+/* (No Comment) */
+"_FunctionTitle_Family_SingularCount" = "%@ Família";
+
+/* (No Comment) */
+"_FunctionTitle_FamilyGroupReportPaneName" = "Relatório de Famílias";
+
+/* (No Comment) */
+"_FunctionTitle_FamilyGroupReportPaneName_Abbreviation" = "Família";
+
+/* (No Comment) */
+"_FunctionTitle_FamilyListPaneName" = "Editar Famílias";
+
+/* (No Comment) */
+"_FunctionTitle_FamilyListPaneName_Abbreviation" = "Famílias";
+
+/* (No Comment) */
+"_FunctionTitle_FamilyQuizPaneName" = "Questionário Familiar";
+
+/* (No Comment) */
+"_FunctionTitle_FamilyQuizPaneName_Abbreviation" = "Questionário";
+
+/* (No Comment) */
+"_FunctionTitle_FamilySearchPaneName" = "FamilySearch";
+
+/* (No Comment) */
+"_FunctionTitle_FamilySearchPaneName_Abbreviation" = "FamilySearch";
+
+/* (No Comment) */
+"_FunctionTitle_FamilySearchTaskResults_PluralCount" = "%@ Resultados";
+
+/* (No Comment) */
+"_FunctionTitle_FamilySearchTaskResults_SingularCount" = "%@ Resultado";
+
+/* (No Comment) */
+"_FunctionTitle_FanChartPaneName" = "Gráfico em Leque";
+
+/* (No Comment) */
+"_FunctionTitle_FanChartPaneName_Abbreviation" = "Leque";
+
+/* (No Comment) */
+"_FunctionTitle_FavoritesFunctionsPlaceholder" = "Visão geral das funções dos favoritos";
+
+/* (No Comment) */
+"_FunctionTitle_FavoritesFunctionsPlaceholder_Abbreviation" = "Visão geral dos favoritos";
+
+/* (No Comment) */
+"_FunctionTitle_FractalCircularTreeChartPaneName" = "Árvore circular";
+
+/* (No Comment) */
+"_FunctionTitle_FractalCircularTreeChartPaneName_Abbreviation" = "Circular";
+
+/* (No Comment) */
+"_FunctionTitle_FractalFractalTreeChartPaneName" = "Árvore fractal";
+
+/* (No Comment) */
+"_FunctionTitle_FractalFractalTreeChartPaneName_Abbreviation" = "Árvore fractal";
+
+/* (No Comment) */
+"_FunctionTitle_FractalHTreeChartPaneName" = "H-Árvore fractal";
+
+/* (No Comment) */
+"_FunctionTitle_FractalHTreeChartPaneName_Abbreviation" = "H-Árvore";
+
+/* (No Comment) */
+"_FunctionTitle_FractalHVTreeChartPaneName" = "Árvore Quadrada";
+
+/* (No Comment) */
+"_FunctionTitle_FractalHVTreeChartPaneName_Abbreviation" = "Quadrado";
+
+/* (No Comment) */
+"_FunctionTitle_FractalSymmetricalTreeChartPaneName" = "Árvore simétrica";
+
+/* (No Comment) */
+"_FunctionTitle_FractalSymmetricalTreeChartPaneName_Abbreviation" = "Simétrica";
+
+/* (No Comment) */
+"_FunctionTitle_GenogramChartPaneName" = "Gráfico de Genograma";
+
+/* (No Comment) */
+"_FunctionTitle_GenogramChartPaneName_Abbreviation" = "Genograma";
+
+/* (No Comment) */
+"_FunctionTitle_HourglassChartPaneName" = "Gráfico em Organograma";
+
+/* (No Comment) */
+"_FunctionTitle_HourglassChartPaneName_Abbreviation" = "Organograma";
+
+/* Function Names */
+"_FunctionTitle_InteractiveTreeEditPaneName" = "Árvore Interativa";
+
+/* Function Names Abbreviations */
+"_FunctionTitle_InteractiveTreeEditPaneName_Abbreviation" = "Interativo";
+
+/* (No Comment) */
+"_FunctionTitle_KinshipReportPaneName" = "Relatório de parentesco";
+
+/* (No Comment) */
+"_FunctionTitle_KinshipReportPaneName_Abbreviation" = "Parentescos";
+
+/* (No Comment) */
+"_FunctionTitle_LDSOrdinancesListReportPaneName" = "Lista de ordenanças mórmon";
+
+/* (No Comment) */
+"_FunctionTitle_ListReportsFunctionsPlaceholder" = "Visão Geral das Funções de Relatório em Lista";
+
+/* (No Comment) */
+"_FunctionTitle_ListReportsFunctionsPlaceholder_Abbreviation" = "Visão geral das listas";
+
+/* (No Comment) */
+"_FunctionTitle_MapReportPaneName" = "Relatório de Mapa";
+
+/* (No Comment) */
+"_FunctionTitle_MapReportPaneName_Abbreviation" = "Mapas";
+
+/* (No Comment) */
+"_FunctionTitle_MapsDiagramPaneName" = "Mapas Estatísticos";
+
+/* (No Comment) */
+"_FunctionTitle_MapsDiagramPaneName_Abbreviation" = "Mapas Estatísticos";
+
+/* (No Comment) */
+"_FunctionTitle_MarriageListReportPaneName" = "Lista de Casamento";
+
+/* (No Comment) */
+"_FunctionTitle_MarriageListReportPaneName_Abbreviation" = "Casamentos";
+
+/* (No Comment) */
+"_FunctionTitle_Media_PluralCount" = "%@ Mídia";
+
+/* (No Comment) */
+"_FunctionTitle_Media_SingularCount" = "%@ Mídia";
+
+/* (No Comment) */
+"_FunctionTitle_MediaGalleryName" = "Galeria de Mídia";
+
+/* (No Comment) */
+"_FunctionTitle_MediaGalleryName_Abbreviation" = "Galeria";
+
+/* (No Comment) */
+"_FunctionTitle_MediaGalleryReportPaneName" = "Relatório da galeria de mídia";
+
+/* (No Comment) */
+"_FunctionTitle_NarrativeReportPaneName" = "Relatório Narrativo";
+
+/* (No Comment) */
+"_FunctionTitle_NarrativeReportPaneName_Abbreviation" = "Narrativo";
+
+/* (No Comment) */
+"_FunctionTitle_Person_PluralCount" = "%@ Pessoas";
+
+/* Count Strings */
+"_FunctionTitle_Person_SingularCount" = "%@ Pessoa";
+
+/* (No Comment) */
+"_FunctionTitle_PersonAnalysisListReportPaneName" = "Análise da pessoa";
+
+/* (No Comment) */
+"_FunctionTitle_PersonAnalysisListReportPaneName_Abbreviation" = "Análise";
+
+/* (No Comment) */
+"_FunctionTitle_PersonEventsReportPaneName" = "Relatório de Eventos Pessoais";
+
+/* (No Comment) */
+"_FunctionTitle_PersonEventsReportPaneName_Abbreviation" = "Eventos Pessoais";
+
+/* (No Comment) */
+"_FunctionTitle_PersonGroup_PluralCount" = "%@ Grupos de Pessoas";
+
+/* (No Comment) */
+"_FunctionTitle_PersonGroup_SingularCount" = "%@ Grupo de Pessoas";
+
+/* (No Comment) */
+"_FunctionTitle_PersonGroupPaneName" = "Editar Grupo de Pessoas";
+
+/* (No Comment) */
+"_FunctionTitle_PersonGroupPaneName_Abbreviation" = "Grupos";
+
+/* (No Comment) */
+"_FunctionTitle_PersonListPaneName" = "Editar Pessoas";
+
+/* (No Comment) */
+"_FunctionTitle_PersonListPaneName_Abbreviation" = "Pessoas";
+
+/* (No Comment) */
+"_FunctionTitle_PersonListReportPaneName" = "Lista de pessoas";
+
+/* (No Comment) */
+"_FunctionTitle_PersonListReportPaneName_Abbreviation" = "Pessoas";
+
+/* (No Comment) */
+"_FunctionTitle_PersonReportPaneName" = "Relatório da pessoa";
+
+/* (No Comment) */
+"_FunctionTitle_PersonReportPaneName_Abbreviation" = "Pessoa";
+
+/* (No Comment) */
+"_FunctionTitle_Place_PluralCount" = "%@ Locais";
+
+/* (No Comment) */
+"_FunctionTitle_Place_SingularCount" = "%@ Local";
+
+/* (No Comment) */
+"_FunctionTitle_PlaceListPaneName" = "Editar Locais";
+
+/* (No Comment) */
+"_FunctionTitle_PlaceListPaneName_Abbreviation" = "Locais";
+
+/* (No Comment) */
+"_FunctionTitle_PlacesListReportPaneName" = "Lista de locais";
+
+/* (No Comment) */
+"_FunctionTitle_PlacesListReportPaneName_Abbreviation" = "Locais";
+
+/* (No Comment) */
+"_FunctionTitle_PlausibilityListReportPaneName" = "Lista de plausibilidade";
+
+/* (No Comment) */
+"_FunctionTitle_PlausibilityListReportPaneName_Abbreviation" = "Plausibilidade";
+
+/* (No Comment) */
+"_FunctionTitle_PublishFunctionsPlaceholder" = "Visão Geral das Funções de Publicação";
+
+/* (No Comment) */
+"_FunctionTitle_PublishFunctionsPlaceholder_Abbreviation" = "Visão geral das publicações";
+
+/* (No Comment) */
+"_FunctionTitle_RegisterReportPaneName" = "Registrar Relatório";
+
+/* (No Comment) */
+"_FunctionTitle_RelationshipChartPaneName" = "Gráfico de relacionamento";
+
+/* (No Comment) */
+"_FunctionTitle_RelationshipChartPaneName_Abbreviation" = "Relacionamentos";
+
+/* (No Comment) */
+"_FunctionTitle_RemoveSubtreePaneName" = "Remover Subárvore";
+
+/* (No Comment) */
+"_FunctionTitle_RemoveSubtreePaneName_Abbreviation" = "Remover Subárvore";
+
+/* (No Comment) */
+"_FunctionTitle_ReportsFunctionsPlaceholder" = "Visão Geral das Funções de Relatório";
+
+/* (No Comment) */
+"_FunctionTitle_ReportsFunctionsPlaceholder_Abbreviation" = "Visão geral dos relatórios";
+
+/* (No Comment) */
+"_FunctionTitle_ResearchAssistantPaneName" = "Assistente de Pesquisa";
+
+/* (No Comment) */
+"_FunctionTitle_ResearchAssistantPaneName_Abbreviation" = "Assistente";
+
+/* (No Comment) */
+"_FunctionTitle_SavedBook_PluralCount" = "%@ Livros";
+
+/* (No Comment) */
+"_FunctionTitle_SavedBook_SingularCount" = "%@ Livro";
+
+/* (No Comment) */
+"_FunctionTitle_SavedChart_PluralCount" = "%@ Visualizações salvas";
+
+/* (No Comment) */
+"_FunctionTitle_SavedChart_SingularCount" = "%@ Visualização salva";
+
+/* (No Comment) */
+"_FunctionTitle_SavedChartsPaneName" = "Gráficos salvos";
+
+/* (No Comment) */
+"_FunctionTitle_SavedChartsPaneName_Abbreviation" = "Gráficos salvos";
+
+/* (No Comment) */
+"_FunctionTitle_SavedReport_PluralCount" = "%@ Relatórios salvos";
+
+/* (No Comment) */
+"_FunctionTitle_SavedReport_SingularCount" = "%@ Relatório salvo";
+
+/* (No Comment) */
+"_FunctionTitle_SavedReportsPaneName" = "Relatórios Gravados";
+
+/* (No Comment) */
+"_FunctionTitle_SavedReportsPaneName_Abbreviation" = "Relatórios Gravados";
+
+/* (No Comment) */
+"_FunctionTitle_SavedWebsite_PluralCount" = "%@ Sites";
+
+/* (No Comment) */
+"_FunctionTitle_SavedWebsite_SingularCount" = "%@ Site";
+
+/* (No Comment) */
+"_FunctionTitle_SearchAndReplacePaneName" = "Buscar e Substituir";
+
+/* (No Comment) */
+"_FunctionTitle_SearchPaneName" = "Buscar Banco de Dados";
+
+/* (No Comment) */
+"_FunctionTitle_SearchPaneName_Abbreviation" = "Procurar";
+
+/* (No Comment) */
+"_FunctionTitle_SociogramChartPaneName" = "Gráfico Sociograma";
+
+/* (No Comment) */
+"_FunctionTitle_SociogramChartPaneName_Abbreviation" = "Sociograma";
+
+/* (No Comment) */
+"_FunctionTitle_Source_PluralCount" = "%@ Recursos";
+
+/* (No Comment) */
+"_FunctionTitle_Source_SingularCount" = "%@ Recurso";
+
+/* (No Comment) */
+"_FunctionTitle_SourceListPaneName" = "Editar Recursos";
+
+/* (No Comment) */
+"_FunctionTitle_SourceListPaneName_Abbreviation" = "Recursos";
+
+/* (No Comment) */
+"_FunctionTitle_SourcesListReportPaneName" = "Lista de recursos";
+
+/* (No Comment) */
+"_FunctionTitle_SourcesListReportPaneName_Abbreviation" = "Recursos";
+
+/* (No Comment) */
+"_FunctionTitle_StatisticsChartPaneName" = "Estatísticas";
+
+/* (No Comment) */
+"_FunctionTitle_StatisticsChartPaneName_Abbreviation" = "Estatísticas";
+
+/* (No Comment) */
+"_FunctionTitle_StatusReportPaneName" = "Relatório de status";
+
+/* (No Comment) */
+"_FunctionTitle_Story_PluralCount" = "%@ histórias";
+
+/* (No Comment) */
+"_FunctionTitle_Story_SingularCount" = "%@ história";
+
+/* (No Comment) */
+"_FunctionTitle_StoryPaneName" = "Editar histórias";
+
+/* (No Comment) */
+"_FunctionTitle_StoryPaneName_Abbreviation" = "Histórias";
+
+/* (No Comment) */
+"_FunctionTitle_StoryReportPaneName" = "Relatório de histórias";
+
+/* (No Comment) */
+"_FunctionTitle_StoryReportPaneName_Abbreviation" = "História";
+
+/* (No Comment) */
+"_FunctionTitle_TimelineChartPaneName" = "Linha do Tempo";
+
+/* (No Comment) */
+"_FunctionTitle_TimelineChartPaneName_Abbreviation" = "Linha do Tempo";
+
+/* (No Comment) */
+"_FunctionTitle_TimelineReportPaneName" = "Relatório da linha do tempo";
+
+/* (No Comment) */
+"_FunctionTitle_TodayReportPaneName" = "Relatório de hoje";
+
+/* (No Comment) */
+"_FunctionTitle_ToDo_PluralCount" = "%@ Tarefas";
+
+/* (No Comment) */
+"_FunctionTitle_ToDo_PluralCount_Overdue" = "%@ atrasado";
+
+/* (No Comment) */
+"_FunctionTitle_ToDo_SingularCount" = "%@ Tarefa";
+
+/* (No Comment) */
+"_FunctionTitle_ToDo_SingularCount_Overdue" = "%@ atrasado";
+
+/* (No Comment) */
+"_FunctionTitle_ToDoListReportPaneName" = "Lista de tarefas";
+
+/* (No Comment) */
+"_FunctionTitle_ToDoListReportPaneName_Abbreviation" = "Tarefas";
+
+/* (No Comment) */
+"_FunctionTitle_ToDosPaneName" = "Editar Lista de Tarefas";
+
+/* (No Comment) */
+"_FunctionTitle_ToDosPaneName_Abbreviation" = "Tarefas";
+
+/* (No Comment) */
+"_FunctionTitle_TreeChartPaneName" = "Gráfico Completo da Árvore";
+
+/* (No Comment) */
+"_FunctionTitle_TreeChartPaneName_Abbreviation" = "Árvore";
+
+/* (No Comment) */
+"_FunctionTitle_ViewsFunctionsPlaceholder" = "Visão Geral das Funções de Visualização";
+
+/* (No Comment) */
+"_FunctionTitle_ViewsFunctionsPlaceholder_Abbreviation" = "Visão geral das visualizações";
+
+/* (No Comment) */
+"_FunctionTitle_VirtualGlobeChartPaneName_Abbreviation" = "Globo";
+
+/* (No Comment) */
+"_FunctionTitle_VirtualGlobePaneName" = "Globo Virtual";
+
+/* (No Comment) */
+"_FunctionTitle_VirtualTreeDiagramPaneName" = "Árvore Virtual";
+
+/* (No Comment) */
+"_FunctionTitle_VirtualTreeDiagramPaneName_Abbreviation" = "Árvore Virtual";
+
+/* (No Comment) */
+"_FunctionTitle_WebSearchPaneName" = "Pesquisar na Web";
+
+/* (No Comment) */
+"_FunctionTitle_WebSearchPaneName_Abbreviation" = "Pesquisar na Web";
+
+/* (No Comment) */
+"_FunctionTitle_WebSiteExportWebSitesPaneName" = "Sites";
+
+/* (No Comment) */
+"_FunctionTitle_WebSiteExportWebSitesPaneName_Abbreviation" = "Sites";
+
+/* (No Comment) */
+"_FunctionTitle_WebSitePaneName" = "Site";
+
+/* (No Comment) */
+"_FunctionTitle_WebSitePaneName_Abbreviation" = "Site";
+
+/* More Function */
+"_MoreFunctionPanesTitle" = "Mais…";
+
+/* (No Comment) */
+"_PaneCategory_Charts" = "Gráficos";
+
+/* Categories */
+"_PaneCategory_Edit" = "Editar";
+
+/* (No Comment) */
+"_PaneCategory_Favorites" = "Favoritos";
+
+/* (No Comment) */
+"_PaneCategory_ListReports" = "Listas";
+
+/* (No Comment) */
+"_PaneCategory_Publish" = "Publicar";
+
+/* (No Comment) */
+"_PaneCategory_Reports" = "Relatórios";
+
+/* (No Comment) */
+"_PaneCategory_View" = "Exibições";
+
+/* (No Comment) */
+"_PaneCategoryBaseFunction_Emphasized" = "Enfatizado";
+
+/* (No Comment) */
+"_PaneCategoryBaseFunction_Emphasized_Explanation" = "Quando enfatizada, uma função é mostrada com destaque na seção inicial de cada categoria.";
+
+/* PaneCategoryFunction Configuration User Interface */
+"_PaneCategoryBaseFunction_Enabled" = "Habilitado";
+
+/* (No Comment) */
+"_PaneCategoryBaseFunction_Enabled_Explanation" = "Especifique aqui se esta função deve ser mostrada por padrão. Se desabilitada, a função será removida da interface do usuário. Você pode reabilitá-la aqui a qualquer momento.";
+
+/* (No Comment) */
+"_PaneCategoryBaseFunction_Favorite" = "Marcar como favorito";
+
+/* (No Comment) */
+"_PaneCategoryBaseFunction_Favorite_Explanation" = "Marque funções importantes que você usa frequentemente como favoritas. Elas aparecerão na categoria 'Favoritos' para acesso fácil e rápido.";
+
+/* (No Comment) */
+"_PaneCategoryBaseFunction_RemoveFromFavoritesButton" = "Remover dos favoritos";
+

@@ -1,0 +1,207 @@
+﻿/* LoginPage */
+"_CoreCloudTreeWeb__CreateAppleID" = "Eine Apple-ID anlegen";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptedShare" = "CloudTree-Einladung angenommen: %@.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptedShare_Needs_To_Sign_In_To_Different_Container" = "Um diesen Baum anzusehen, melden Sie sich bitte erneut mit %@ an.";
+
+/* AcceptShare */
+"_CoreCloudTreeWeb_AcceptShare_ActionsMenu_Title" = "CloudTree-Einladung annehmen…";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptShare_Failed" = "CloudTree-Einladung konnte nicht angenommen werden (%@).";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptShare_Failed_No_Matching_Container" = "CloudTree-Einladung konnte nicht angenommen werden, der Teilen-Link ist nicht gültig.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptShare_Instruction" = "Um eine Einladung zu einem geteilten Baum anzunehmen, fügen Sie bitte den erhaltenen Link in das Textfeld ein und betätigen den 'OK'-Knopf.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptShare_NeedLoginOrCreateAppleIDDescription" = "Sie benötigen eine Apple-ID, um an diesem mit Ihnen geteiltem Stammbaum mitzuwirken. Wenn Sie noch keine Apple-ID besitzen, können Sie diese kostenfrei anlegen. Danach können Sie diesem Stammbaum beitreten.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptShare_ShareLink" = "Link teilen";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptShare_Title" = "Stammbaum auf CloudTree beitreten";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AddingPicturesNotSupportedInSharedDatabaseWarning" = "Derzeit ist es nicht möglich, Bilder zu einem geteilten Stammbaum hinzuzufügen. Diese Funktion wird in Kürze zur Verfügung stehen.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Buy_MacFamilyTree_Or_MobileFamilyTree_Title" = "MacStammbaum oder MobileFamilyTree im App Store kaufen";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Close_Databases" = "Stammbaum schließen";
+
+/* EventDropDownList */
+"_CoreCloudTreeWeb_CommonEvents" = "Gängige Ereignisse";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_CommonFacts" = "Gängige Fakten";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Description" = "CloudTreeWeb ist ein Dienst, über welchen Sie Ihren eigenen oder geteilten Stammbäume von $MFTLINKPLACEHOLDER$ oder $MFTLINKPLACEHOLDER$ bearbeiten oder ansehen können.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_ErrorMessage_AuthenticationExpired_Error" = "Ihre Benutzersitzung ist abgelaufen. Bitte melden Sie sich erneut an, um fortzufahren.";
+
+/* Errors */
+"_CoreCloudTreeWeb_ErrorMessage_Saving_ConflictError" = "Ihre Änderungen konnten nicht gespeichert werden, weil ein anderer Nutzer den Eintrag in der Zwischenzeit modifiziert hat. Sie müssen die Seite erneut laden.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_ErrorMessage_Saving_UnknownError" = "Ihre Änderungen konnten aufgrund eines unbekannten Fehlers nicht gespeichert werden. Bitte laden Sie die Seite erneut. Wenn dieses Problem anhält, kontaktieren Sie uns bitte.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Go_To_Overview" = "Überblick";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Imprint_Title" = "Impressum";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_1_Text" = "CloudTreeWeb ist ein Zusatzdienst für MacStammbaum und MobileFamilyTree. Mittels CloudTreeWeb können Sie über das Internet auf Stammbäume zugreifen, welche in MacStammbaum oder MobileFamilyTree erstellt wurden. Sie selbst können auf Ihre Stammbäume zugreifen, aber über CloudTreeWeb ist auch die Zusammenarbeit mit Nutzern an einem Stammbaum möglich, welche Windows oder Android verwenden. So können Sie beispielsweise Familienmitglieder zur Zusammenarbeit einladen, welche keinen Mac, iPhone oder iPad nutzen, um so wertvolle Daten für Ihren Stammbaum zu erhalten.";
+
+/* Instructions */
+"_CoreCloudTreeWeb_Instructions_Section_1_Title" = "Was ist CloudTreeWeb?";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_2_Text" = "Um auf Ihre eigenen Stammbäume zuzugreifen, melden Sie sich einfach mit Ihrer Apple ID an, welche Sie auf Ihrem Mac, iPhone oder iPad nutzen. Ihre mit CloudTree synchronisierten Bäume erscheinen dann automatisch. Änderungen, welche Sie auf CloudTreeWeb vornehmen, werden in MacStammbaum oder MobileFamilyTree übertragen.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_2_Title" = "Wie greife ich auf meine eigenen Stammbäume zu?";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_3_Text" = "Wenn Sie einen anderen Nutzer zur Zusammenarbeit einladen möchten, benötigt derjenige eine Apple ID, welche $BEGINLINK$hier kostenfrei registriert$ENDLINK$ werden kann. Sobald der Nutzer über eine Apple ID verfügt, laden Sie diese Apple ID über CloudTree in MacStammbaum oder MobileFamilyTree zu Ihrem Stammbaum ein. Details zur Einladung in MacStammbaum oder MobileFamilyTree entnehmen Sie dem Handbuch der Software. Sobald die Einladung erfolgt ist, senden Sie dieser Person den Einladungs-Link – beispielsweise per E-Mail. Der Eingeladene meldet sich daraufhin mit seiner Apple ID auf CloudTreeWeb an und akzeptiert die Einladung über den daraufhin erscheinenden, unten stehenden Knopf.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_3_Title" = "Wie lade ich einen Nutzer ein, der kein MacStammbaum oder MobileFamilyTree nutzt?";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_4_Text" = "Hat ein MacStammbaum- oder MobileFamilyTree-Nutzer Ihnen einen Einladungs-Link gesendet, können Sie gemeinsam mit diesem an einem Stammbaum forschen. Zuerst benötigen Sie eine kostenfreie Apple ID, welche Sie $BEGINLINK$hier registrieren$ENDLINK$ können. Nach erfolgreicher Registrierung der Apple ID melden Sie sich mit dieser bei CloudTreeWeb an. Ist die Anmeldung erfolgt, akzeptieren Sie den Einladungs-Link, indem Sie auf den unten stehenden Link 'CloudTree-Einladung annehmen' klicken und dort den Link eintragen. Daraufhin erscheint der Stammbaum auf der Stammbaum-Übersichtsseite und kann bearbeitet werden. Beachten Sie, dass alle Änderungen, die Sie vornehmen, automatisch in MacStammbaum oder MobileFamilyTree übernommen werden.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_4_Title" = "Ich wurde zu einem Baum eingeladen, nutze aber kein MacStammbaum oder MobileFamilyTree. Wie kann ich Daten zum Stammbaum beisteuern?";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_5_Text" = "Ihre Daten sind bestmöglich geschützt. Die Art und Weise, wie CloudTreeWeb arbeitet, verhindert sehr effektiv, dass Dritte auf Ihre Daten zugreifen – selbst wir als Entwickler haben keinen Zugriff auf die Daten Ihres Stammbaumes. Dies ist möglich, da CloudTreeWeb die Stammbaum-Daten von Ihrem Computer oder Handy aus direkt bei Apple iCloud abfragt, ohne einen Umweg über unsere Server. Somit genügt CloudTreeWeb den selben Sicherheitsstandards wie beispielsweise Apples eigene iCloud.com-Webseite. Bitte stellen Sie sicher, dass Ihre Apple ID über ausreichenden Schutz verfügt – zum Beispiel durch ein Passwort, welches Sie bei keinem anderen Dienst verwenden und durch die Aktivierung der Zwei-Faktor-Authentifizierung.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_5_Title" = "Wie sind meine Daten geschützt?";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_6_Text" = "Wir freuen uns, von Ihnen zu hören. Wenn Sie einen Verbesserungsvorschlag haben oder ein Problem festgestellt haben, verwenden Sie bitte das Kontaktformular auf $BEGINLINK$www.syniumsoftware.com$ENDLINK$, um mit uns Kontakt aufzunehmen.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_6_Title" = "Ich habe einen Vorschlag oder ein Problem – an wen soll ich mich wenden?";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Title" = "Wie verwende ich CloudTreeWeb?";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_No_Private_Databases_Explanation" = "Derzeit haben Sie noch keine Stammbäume auf CloudTree hochgeladen. Bitte verwenden Sie MacStammbaum auf Ihrem Mac oder MobileFamilyTree auf Ihrem iPhone oder iPad, um einen Stammbaum auf CloudTree hochzuladen.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_No_Private_Databases_Title" = "Keine Stammbäume vorhanden";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_No_Shared_Databases_Explanation" = "Es wurden noch keine Stammbäume auf CloudTree mit Ihnen geteilt. Um an einem Stammbaum einer anderen Person teilzunehmen, bitten Sie diese Person, Ihre Apple ID auf CloudTree mittels MacStammbaum oder MobileFamilyTree einzuladen.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_No_Shared_Databases_Title" = "Keine mit Ihnen geteilten Stammbäume vorhanden";
+
+/* SelectDatabase */
+"_CoreCloudTreeWeb_Private_Databases" = "Meine Stammbäume";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Select_MacFamilyTree_Version" = "Bitte wählen Sie Ihre MacStammbaum- oder MobileFamilyTree-Version aus";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Shared_Databases" = "Mit mir geteilte Stammbäume";
+
+/* Warnings */
+"_CoreCloudTreeWeb_ThereAreUnsavedChangesWarning" = "Änderungen wurden nicht gespeichert. Wollen Sie wirklich die Ansicht verlassen?";
+
+/* EditFamily */
+"_EditFamily_SelectFamily_ActionsMenu_Title" = "Familie auswählen…";
+
+/* (No Comment) */
+"_EditFamily_SelectFamily_ActionsMenu_Title_Short" = "Familie…";
+
+/* EditMedia */
+"_EditMedia_Download_PDF" = "PDF herunterladen";
+
+/* EditPerson */
+"_EditPerson_SelectPerson_ActionsMenu_Title" = "Person auswählen…";
+
+/* (No Comment) */
+"_EditPerson_SelectPerson_ActionsMenu_Title_Short" = "Person…";
+
+/* EditPLace */
+"_EditPerson_SelectPlace_ActionsMenu_Title" = "Ort auswählen…";
+
+/* (No Comment) */
+"_EditPerson_SelectPlace_ActionsMenu_Title_Short" = "Ort…";
+
+/* (No Comment) */
+"_EditPlaceMapSection_Title" = "Karte";
+
+/* EditSource */
+"_EditSource_SelectSource_ActionsMenu_Title" = "Quelle auswählen…";
+
+/* (No Comment) */
+"_EditSource_SelectSource_ActionsMenu_Title_Short" = "Quelle…";
+
+/* (No Comment) */
+"_FamiliesList_Title" = "Familienliste";
+
+/* (No Comment) */
+"_ItemsList_LoadMore" = "Mehr laden…";
+
+/* (No Comment) */
+"_ItemsList_NoChanges" = "Keine Änderungen";
+
+/* (No Comment) */
+"_ItemsList_NoFamilies" = "Keine Familien";
+
+/* (No Comment) */
+"_ItemsList_NoPersons" = "Keine Personen";
+
+/* (No Comment) */
+"_ItemsList_NoPlaces" = "Keine Orte";
+
+/* (No Comment) */
+"_ItemsList_NoSources" = "Keine Quellen";
+
+/* (No Comment) */
+"_ItemsList_SearchBar_Description" = "Die Suche unterscheidet Groß- und Kleinschreibung und vergleicht nur den Anfang eines Namens.";
+
+/* (No Comment) */
+"_ItemsList_Select_Family_Title" = "Familie auswählen";
+
+/* ItemsList */
+"_ItemsList_Select_Person_Title" = "Person auswählen";
+
+/* (No Comment) */
+"_ItemsList_Select_Place_Title" = "Ort auswählen";
+
+/* (No Comment) */
+"_ItemsList_Select_Source_Title" = "Quelle auswählen";
+
+/* (No Comment) */
+"_PersonsList_Title" = "Personenliste";
+
+/* (No Comment) */
+"_PlacesList_Title" = "Orte-Liste";
+
+/* (No Comment) */
+"_SourcesList_Title" = "Quellenliste";
+
+/* (No Comment) */
+"iCloud.com.syniumsoftware.familytree10" = "Version 10";
+
+/* (No Comment) */
+"iCloud.com.syniumsoftware.familytree11" = "Version 11";
+

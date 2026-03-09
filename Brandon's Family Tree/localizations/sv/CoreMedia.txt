@@ -1,0 +1,36 @@
+﻿/* (No Comment) */
+"_MediaContainerListController_DeleteMediaButton" = "Radera media";
+
+/* (No Comment) */
+"_MediaContainerListController_DeleteMediaInformative" = "Vill du verkligen radera den valda medieuppgiften permanent?";
+
+/* (No Comment) */
+"_MediaContainerListController_DeleteMediaMessage" = "Radera media?";
+
+/* (No Comment) */
+"_MediaContainerListController_DeleteMediaOrRelationInformative" = "Vill du permanent radera den valda medieinmatningen eller vill du endast ta bort relationen för medieposten och behålla detta media i din databas?";
+
+/* MediaContainerListController */
+"_MediaContainerListController_DeleteMediaOrRelationMessage" = "Radera media eller medierelation?";
+
+/* (No Comment) */
+"_MediaContainerListController_DeleteMediaRelationButton" = "Radera medierelation";
+
+/* (No Comment) */
+"_MediaContainerListController_FileWithoutTitleName" = "Fil %d";
+
+/* (No Comment) */
+"_MediaContainerListController_NoDateTitle" = "Inget datum";
+
+/* (No Comment) */
+"_MediaContainerListController_SortingMode_ByDate" = "Efter födelsedatum";
+
+/* (No Comment) */
+"_MediaContainerListController_SortingMode_ByTitle" = "Efter titel";
+
+/* Default Titles */
+"_MediaPicture_DefaultTitleWithDate" = "Bild från %@";
+
+/* (No Comment) */
+"_MediaVideo_DefaultTitleWithDate" = "Video från %@";
+

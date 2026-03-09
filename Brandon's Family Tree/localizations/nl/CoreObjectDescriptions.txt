@@ -1,0 +1,1704 @@
+﻿/* (No Comment) */
+"_AdditionalName_ChangeLog_Added" = "Bijkomende naam '%@' toegevoegd";
+
+/* (No Comment) */
+"_AdditionalName_ChangeLog_ConflictResolved" = "Conflict van eigenschap '%@' gewijzigd naar '%@'";
+
+/* (No Comment) */
+"_AdditionalName_ChangeLog_Deleted" = "Bijkomende naam '%@' verwijderd";
+
+/* (No Comment) */
+"_AdditionalName_ChangeLogPropertyKey_FirstName" = "Voornaam van '%@' werd gewijzigd van '%@' naar '%@'";
+
+/* (No Comment) */
+"_AdditionalName_ChangeLogPropertyKey_LastName" = "Familienaam van '%@' werd gewijzigd van '%@' naar '%@'";
+
+/* (No Comment) */
+"_AdditionalName_ChangeLogPropertyKey_Type" = "Type bijkomende naam gewijzigd van '%@' naar '%@'";
+
+/* (No Comment) */
+"_BaseMedia_ChangeLog_Added" = "Media toegevoegd";
+
+/* (No Comment) */
+"_BaseMedia_ChangeLog_Deleted" = "Media '%@' verwijderd";
+
+/* (No Comment) */
+"_BaseMedia_ChangeLogKey" = "Media %@";
+
+/* (No Comment) */
+"_BaseMedia_ChangeLogPropertyKey_Date" = "Datum gewijzigd van '%@' naar '%@'";
+
+/* (No Comment) */
+"_BaseMedia_ChangeLogPropertyKey_PDFFileIdentifier" = "PDF bewerkt";
+
+/* (No Comment) */
+"_BaseMedia_ChangeLogPropertyKey_PictureFileIdentifier" = "Foto bewerkt";
+
+/* (No Comment) */
+"_BaseMedia_ChangeLogPropertyKey_Title" = "Titel gewijzigd van '%@' naar '%@'";
+
+/* Base Object Composite Images Modes */
+"_BaseObject_CompositeImages_Mode_None" = "Toon altijd het tijdelijke pictogram.";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_PrimaryImageFromPrimaryMediaContainer" = "Toon primaire afbeelding";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_PrimaryImageFromPrimaryMediaContainerAndConnectedMediaContainers" = "Toon primaire afbeelding, ook verzameld uit verbonden vermeldingen.";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_UpToSixImagesFromPrimaryMediaContainer" = "Toon tot zes foto's";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_UpToSixImagesFromPrimaryMediaContainerAndConnectedMediaContainers" = "Toon tot zes afbeeldingen, ook verzameld uit verbonden vermeldingen.";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_UpToTenImagesFromPrimaryMediaContainer" = "Toon tot tien foto's";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_UpToTenImagesFromPrimaryMediaContainerAndConnectedMediaContainers" = "Toon tot tien afbeeldingen, ook verzameld uit verbonden vermeldingen.";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_UpToThreeImagesFromPrimaryMediaContainer" = "Toon tot drie foto's";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_UpToThreeImagesFromPrimaryMediaContainerAndConnectedMediaContainers" = "Toon tot drie afbeeldingen, ook verzameld uit verbonden vermeldingen.";
+
+/* (No Comment) */
+"_ChangeLog_NoValuePlaceholder" = "Geen waarde";
+
+/* Change Log */
+"_ChangeLogEntry_ObjectIsStillPresentTooltip" = "Deze invoer is nog steeds aanwezig in de database";
+
+/* (No Comment) */
+"_ChangeLogEntry_ObjectNoLongerPresentTooltip" = "Deze invoer werd verwijderd uit de database en is niet langer beschikbaar.";
+
+/* (No Comment) */
+"_ChildRelation_ChangeLog_Deleted" = "Kind '%@' verwijderd uit familie";
+
+/* (No Comment) */
+"_ChildRelation_ChangeLog_Deleted_Child" = "Verwijderd als kind uit familie '%@'";
+
+/* (No Comment) */
+"_ChildRelation_ChangeLogPropertyKey_Child" = "Kind '%@' toegevoegd";
+
+/* (No Comment) */
+"_ChildRelation_ChangeLogPropertyKey_Family" = "Als kind toegevoegd aan familie '%@'";
+
+/* (No Comment) */
+"_ChildRelation_ChangeLogPropertyKey_RelationTypeToManInFamily" = "Type relatie kind tot vader van kind '%@' gewijzigd van '%@' naar '%@'";
+
+/* (No Comment) */
+"_ChildRelation_ChangeLogPropertyKey_RelationTypeToWomanInFamily" = "Type relatie kind tot moeder van kind '%@' gewijzigd van '%@' naar '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLog_Added" = "Gebeurtenis '%@' toegevoegd";
+
+/* (No Comment) */
+"_Event_ChangeLog_ConflictResolvedForAssignedPlace" = "Conflict van plaats van gebeurtenis '%@' gewijzigd naar '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLog_ConflictResolvedForAssignedPlaceDetail" = "Plaatsconflict van gebeurtenis '%@' opgelost in '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLog_ConflictResolvedForCoordinate" = "Conflict van coördinaat van gebeurtenis '%@' gewijzigd naar '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLog_ConflictResolvedForGenericProperty" = "Conflict van eigenschap '%@' van gebeurtenis '%@' gewijzigd naar '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLog_Deleted" = "Gebeurtenis '%@' verwijderd";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_Address" = "Adres van gebeurtenis '%@' gewijzigd van '%@' naar '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_Agency" = "Overheid van gebeurtenis '%@' gewijzigd van '%@' naar '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_AssignedPlace" = "Plaats van gebeurtenis '%@' gewijzigd naar '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_AssignedPlaceDetail" = "Plaats Detail van gebeurtenis '%@' gewijzigd in '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_Cause" = "Reden van gebeurtenis '%@' gewijzigd van '%@' naar '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_Coordinate" = "Coordinaten van gebeurtenis '%@' gewijzigd naar '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_Date" = "Datum van gebeurtenis '%@' gewijzigd van '%@' naar '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_Time" = "Tijd van gebeurtenis '%@' gewijzigd van '%@' naar '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_Type" = "Soort gebeurtenis gewijzigd van '%@' naar '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_UserDescription" = "Beschrijving van gebeurtenis '%@' gewijzigd van '%@' naar '%@'";
+
+/* (No Comment) */
+"_Fact_ChangeLog_Added" = "Gegeven '%@' toegevoegd";
+
+/* (No Comment) */
+"_Fact_ChangeLog_ConflictResolvedForValue" = "Conflict van gegeven '%@' gewijzigd naar '%@'";
+
+/* (No Comment) */
+"_Fact_ChangeLog_Deleted" = "Gegeven '%@' verwijderd";
+
+/* (No Comment) */
+"_Fact_ChangeLogPropertyKey_Type" = "Soort gebeurtenis gewijzigd van '%@' naar '%@'";
+
+/* (No Comment) */
+"_Fact_ChangeLogPropertyKey_Value" = "Gegeven '%@' gewijzigd van '%@' naar '%@'";
+
+/* (No Comment) */
+"_Family_ChangeLog_Added" = "Familie toegevoegd";
+
+/* (No Comment) */
+"_Family_ChangeLog_ConflictResolvedForMan" = "Conflict van toegewezen man gewijzigd naar '%@'";
+
+/* (No Comment) */
+"_Family_ChangeLog_ConflictResolvedForWoman" = "Conflict van toegewezen vrouw gewijzigd naar '%@'";
+
+/* (No Comment) */
+"_Family_ChangeLog_Deleted" = "Familie verwijderd";
+
+/* (No Comment) */
+"_Family_ChangeLogKey" = "Familie %@";
+
+/* (No Comment) */
+"_Family_ChangeLogPropertyKey_Man" = "Persoon '%@' toegevoegd als man";
+
+/* (No Comment) */
+"_Family_ChangeLogPropertyKey_Woman" = "Persoon '%@' toegevoegd als vrouw";
+
+/* (No Comment) */
+"_MediaRelation_ChangeLog_BaseMediaDeleted" = "Media '%@' verwijderd";
+
+/* (No Comment) */
+"_MediaRelation_ChangeLog_MediaContainerDeleted" = "Invoer '%@' verwijderd uit media";
+
+/* (No Comment) */
+"_MediaRelation_ChangeLogPropertyKey_BaseMedia" = "Media '%@' toegevoegd";
+
+/* (No Comment) */
+"_MediaRelation_ChangeLogPropertyKey_MediaContainer" = "Als media toegevoegd aan '%@'";
+
+/* (No Comment) */
+"_ObjectDescription_AdditionalName" = "Bijkomende naam %@ van %@";
+
+/* (No Comment) */
+"_ObjectDescription_AssociateRelation" = "Relatie invloedrijke persoon %@";
+
+/* (No Comment) */
+"_ObjectDescription_Book" = "Boek %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookBaseObjectsBasedReportBuilderObject" = "Rapport sectie voorwerp %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookBaseObjectsBasedReportBuilderSection" = "Rapport sectie %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookChapter" = "Boek hoofdstuk %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookDiagramBaseObject" = "Diagramsectie object";
+
+/* (No Comment) */
+"_ObjectDescription_BookDiagramReportBuilderSection" = "Diagramsectie %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookFamilyBasedReportBuilderSection" = "Rapport sectie %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookFamilySection" = "Familiesectie %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookGenericReportBuilderSection" = "Rapport sectie %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookPersonBasedReportBuilderSection" = "Rapport sectie %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookPersonSection" = "Persoonssectie %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookReportBuilderFamily" = "Rapport sectie familie %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookReportBuilderPerson" = "Rapport sectie persoon %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookSerializedBaseObjectReportBuilder" = "Configuratie voor sectie %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookSerializedBaseReportBuilder" = "Configuratie voor sectie %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookSerializedChapterReportBuilder" = "Configuratie hoofstuk %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookSerializedEditedReportBuilder" = "Configuratie voor bewerkte sectie %@";
+
+/* (No Comment) */
+"_ObjectDescription_ChildRelation" = "Kind relatie %@ - %@";
+
+/* (No Comment) */
+"_ObjectDescription_ConclusionAdditionalNameType" = "Type bijkomende naam %@";
+
+/* (No Comment) */
+"_ObjectDescription_ConclusionAssociateRelationType" = "Invloedrijke Relatie Type %@";
+
+/* (No Comment) */
+"_ObjectDescription_ConclusionFamilyEventType" = "Familiegebeurtenis type %@";
+
+/* (No Comment) */
+"_ObjectDescription_ConclusionPersonEventType" = "Persoonsgebeurtenis %@";
+
+/* (No Comment) */
+"_ObjectDescription_ConclusionPersonFactType" = "Persoonsgegeven soort %@";
+
+/* (No Comment) */
+"_ObjectDescription_Coordinate" = "Coördinaten van plaats %@";
+
+/* (No Comment) */
+"_ObjectDescription_DNATestATDNASubResult" = "atDNA Testresultaat– %@";
+
+/* (No Comment) */
+"_ObjectDescription_DNATestMTDNASubResult" = "mtDNA testresultaat - %@";
+
+/* (No Comment) */
+"_ObjectDescription_DNATestMTDNASubResultSNPDifference" = "DNA mtDNA SNP-verschil %@";
+
+/* (No Comment) */
+"_ObjectDescription_DNATestResult" = "DNA Testresultaat %@";
+
+/* (No Comment) */
+"_ObjectDescription_DNATestYDNASubResult" = "Y-DNA Testresultaat – %@";
+
+/* (No Comment) */
+"_ObjectDescription_DNATestYDNASubResultYSTRMarker" = "DNA Y-DNA STR merker %@";
+
+/* (No Comment) */
+"_ObjectDescription_Family" = "Familie %@";
+
+/* (No Comment) */
+"_ObjectDescription_FamilyEvent" = "Familiegebeurtenis %@ van %@";
+
+/* (No Comment) */
+"_ObjectDescription_FamilyEvent_PlaceExtension" = "te %@";
+
+/* (No Comment) */
+"_ObjectDescription_FamilySearchKnownBadFurtherInformationMatch" = "FamilySearch informatie %@";
+
+/* (No Comment) */
+"_ObjectDescription_FamilySearchKnownBadPersonMatch" = "FamilySearch informatie %@";
+
+/* (No Comment) */
+"_ObjectDescription_FamilyTreeInformation" = "Informatie auteur kwartierstaat";
+
+/* (No Comment) */
+"_ObjectDescription_Label" = "Label %@";
+
+/* (No Comment) */
+"_ObjectDescription_MediaAudio" = "%@'s Audio %@";
+
+/* (No Comment) */
+"_ObjectDescription_MediaPDF" = "PDF %@ van %@";
+
+/* (No Comment) */
+"_ObjectDescription_MediaPicture" = "%@'s Afbeelding %@";
+
+/* (No Comment) */
+"_ObjectDescription_MediaRelation" = "Media relatie %@";
+
+/* (No Comment) */
+"_ObjectDescription_MediaRelationAssignment" = "Toewijzing mediarelatie %@";
+
+/* (No Comment) */
+"_ObjectDescription_MediaURL" = "%@'s Webpagina %@";
+
+/* (No Comment) */
+"_ObjectDescription_MediaVideo" = "%@'s Video %@";
+
+/* (No Comment) */
+"_ObjectDescription_Note" = "Opmerking op %@";
+
+/* Object Descriptions */
+"_ObjectDescription_Person" = "Persoon %@";
+
+/* (No Comment) */
+"_ObjectDescription_PersonEvent" = "%@ Gebeurtenis %@";
+
+/* (No Comment) */
+"_ObjectDescription_PersonEvent_PlaceExtension" = "te %@";
+
+/* (No Comment) */
+"_ObjectDescription_PersonFact" = "Gegeven %@ van %@";
+
+/* (No Comment) */
+"_ObjectDescription_PersonGroup" = "Persoonsgroep %@";
+
+/* (No Comment) */
+"_ObjectDescription_Place" = "Plaats %@";
+
+/* (No Comment) */
+"_ObjectDescription_PlaceDetail" = "Plaats Detail %@";
+
+/* (No Comment) */
+"_ObjectDescription_PlaceKeyValue" = "Plaatswaarde - %@: %@";
+
+/* (No Comment) */
+"_ObjectDescription_PlaceTemplate" = "Plaats Sjabloon %@";
+
+/* (No Comment) */
+"_ObjectDescription_PlaceTemplateKey" = "Plaats Sjabloonveld %@";
+
+/* (No Comment) */
+"_ObjectDescription_PlaceTemplateKeyRelation" = "Plaats Sjabloon Veld Relatie %@ - %@";
+
+/* (No Comment) */
+"_ObjectDescription_Scope" = "Slimme filter %@";
+
+/* (No Comment) */
+"_ObjectDescription_Source" = "Bron %@";
+
+/* (No Comment) */
+"_ObjectDescription_SourceKeyValue" = "Bronwaarde - %@: %@";
+
+/* (No Comment) */
+"_ObjectDescription_SourceRelation" = "Bronvermelding - %@ - %@";
+
+/* (No Comment) */
+"_ObjectDescription_SourceTemplate" = "Bronsjabloon %@";
+
+/* (No Comment) */
+"_ObjectDescription_SourceTemplateKey" = "Bronsjabloon veld %@";
+
+/* (No Comment) */
+"_ObjectDescription_SourceTemplateKeyRelation" = "Bronsjabloon veld verwantschap %@-%@";
+
+/* (No Comment) */
+"_ObjectDescription_Story" = "Verhaal %@";
+
+/* (No Comment) */
+"_ObjectDescription_StorySection" = "Verhaalsectie %@";
+
+/* (No Comment) */
+"_ObjectDescription_ToDo" = "Taak %@";
+
+/* (No Comment) */
+"_ObjectProperty_AdditionalName_conclusionType" = "Type";
+
+/* AdditionalName */
+"_ObjectProperty_AdditionalName_firstName" = "Voornaam";
+
+/* (No Comment) */
+"_ObjectProperty_AdditionalName_lastName" = "Familienaam";
+
+/* (No Comment) */
+"_ObjectProperty_AdditionalName_nameMiddle" = "Tweede naam";
+
+/* (No Comment) */
+"_ObjectProperty_AdditionalName_namePrefix" = "Titel";
+
+/* (No Comment) */
+"_ObjectProperty_AdditionalName_nameSuffix" = "Achtervoegsel";
+
+/* (No Comment) */
+"_ObjectProperty_AdditionalName_person" = "Persoon";
+
+/* (No Comment) */
+"_ObjectProperty_AssociateRelation_conclusionType" = "Soort";
+
+/* AssociateRelation */
+"_ObjectProperty_AssociateRelation_date" = "Datum";
+
+/* (No Comment) */
+"_ObjectProperty_BaseMedia_canShowAsMediaForMediaContainer" = "Gebruiken als openingsafbeelding";
+
+/* (No Comment) */
+"_ObjectProperty_BaseMedia_date" = "Datum";
+
+/* (No Comment) */
+"_ObjectProperty_BaseMedia_isBookmarked" = "Bladwijzer aangemaakt";
+
+/* BaseMedia */
+"_ObjectProperty_BaseMedia_title" = "Titel";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_ancestralFileNumberID" = "Ancestral File nummer";
+
+/* BaseObject */
+"_ObjectProperty_BaseObject_changeDate" = "Wijzigingsdatum";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_cloudKitChangeTag" = "CloudTree wijzigingsinformatie";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_creationDate" = "Aanmaakdatum";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_excludedPlausibilityAnalyzerClassNames" = "Waarschijnlijkheidsanalyse informatie";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_familySearchID" = "FamilySearch ID";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_gedcomID" = "GEDCOM-ID";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_isPrivate" = "Gemerkt als privaat";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_referenceNumberID" = "Eigen referentienummer";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_researchAssistantCompletedQuestionsMask" = "Onderzoeksassistent informatie";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_uniqueID" = "Intern uniek ID";
+
+/* (No Comment) */
+"_ObjectProperty_Book_author" = "Auteur";
+
+/* (No Comment) */
+"_ObjectProperty_Book_chapterNumeralType" = "Hoofdstuknummers";
+
+/* (No Comment) */
+"_ObjectProperty_Book_chaptersOnSeparatePage" = "Hoofdstukken op aparte bladzijden";
+
+/* (No Comment) */
+"_ObjectProperty_Book_date" = "Datum";
+
+/* (No Comment) */
+"_ObjectProperty_Book_includeCitationsAsDefault" = "Sluit citaten in voor nieuwe rapporten";
+
+/* (No Comment) */
+"_ObjectProperty_Book_languageShouldReformatDates" = "Gelokaliseerde datumformaten";
+
+/* (No Comment) */
+"_ObjectProperty_Book_localizationIdentifier" = "Taal";
+
+/* (No Comment) */
+"_ObjectProperty_Book_onlyColorizeChapterPages" = "Kleur enkel de hoofdstukpaginas";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundChapterNumberColor" = "Kleur hoofdstuknummer";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundChapterTitleColor" = "Kleur Hoofdstuktitel";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundPageNumberAlignment" = "Uitlijning paginanummers";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundPageNumberColor" = "Kleur paginanummer:";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundPageNumberEnabled" = "Paginanummers ingeschakeld";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundPageNumberPosition" = "Plaats paginanummers";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundRendererStyle" = "Stijl paginahoofd";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundSectionNumberColor" = "Kleur sectienummer";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundSectionTitleColor" = "Kleur sectietitel";
+
+/* (No Comment) */
+"_ObjectProperty_Book_style" = "Boek stijl";
+
+/* (No Comment) */
+"_ObjectProperty_Book_styleFontScaling" = "Lettergrootte";
+
+/* (No Comment) */
+"_ObjectProperty_Book_templateClassName" = "Sjabloon";
+
+/* (No Comment) */
+"_ObjectProperty_Book_title" = "Titel";
+
+/* (No Comment) */
+"_ObjectProperty_Book_useTextualStyleAsDefault" = "Gebruik tekststijl voor nieuwe rapporten";
+
+/* Book */
+"_ObjectProperty_BookBaseItem_order" = "Index";
+
+/* (No Comment) */
+"_ObjectProperty_BookBaseObjectReportBuilder_baseObjectSection" = "Bevat sectie";
+
+/* (No Comment) */
+"_ObjectProperty_BookBaseObjectsBasedReportBuilderObject_baseObject" = "item";
+
+/* (No Comment) */
+"_ObjectProperty_BookBaseObjectsBasedReportBuilderObject_baseObjectsBasedReportBuilderSection" = "Sectie";
+
+/* (No Comment) */
+"_ObjectProperty_BookBaseObjectsBasedReportBuilderObject_order" = "index";
+
+/* (No Comment) */
+"_ObjectProperty_BookBaseSection_alwaysWantsNewPageForItems" = "Subsecties op nieuwe pagina";
+
+/* (No Comment) */
+"_ObjectProperty_BookBaseSection_bookChapter" = "Bevat hoofdstuk";
+
+/* (No Comment) */
+"_ObjectProperty_BookBaseSection_name" = "Naam";
+
+/* (No Comment) */
+"_ObjectProperty_BookChapter_chapterHighlightColor" = "Accentkleur hoofdstuk";
+
+/* (No Comment) */
+"_ObjectProperty_BookChapter_chapterPageColor" = "Kleur bladzijde hoofdstuk";
+
+/* (No Comment) */
+"_ObjectProperty_BookChapter_chapterType" = "Soort hoofdstuk";
+
+/* (No Comment) */
+"_ObjectProperty_BookChapter_name" = "Naam hoofdstuk";
+
+/* (No Comment) */
+"_ObjectProperty_BookDiagramBaseObject_baseObject" = "Onderdeel";
+
+/* (No Comment) */
+"_ObjectProperty_BookDiagramBaseObject_diagramReportBuilderSection" = "Sectie";
+
+/* (No Comment) */
+"_ObjectProperty_BookPersonSection_person" = "Persoon";
+
+/* (No Comment) */
+"_ObjectProperty_BookReportBuilderFamily_family" = "Familie";
+
+/* (No Comment) */
+"_ObjectProperty_BookReportBuilderFamily_familyBasedReportBuilderSection" = "Sectie";
+
+/* (No Comment) */
+"_ObjectProperty_BookReportBuilderPerson_person" = "Persoon";
+
+/* (No Comment) */
+"_ObjectProperty_BookReportBuilderPerson_personBasedReportBuilderSection" = "Sectie";
+
+/* (No Comment) */
+"_ObjectProperty_BookSerializedBaseReportBuilder_baseItem" = "Rapport sectie";
+
+/* (No Comment) */
+"_ObjectProperty_BookSerializedReportBuilder_serializedReportBuilderData" = "Configuratie rapport";
+
+/* (No Comment) */
+"_ObjectProperty_ChildRelation_child" = "Kind";
+
+/* (No Comment) */
+"_ObjectProperty_ChildRelation_family" = "Familie";
+
+/* (No Comment) */
+"_ObjectProperty_ChildRelation_relationTypeToManInFamily" = "Soort verwantschap met vader";
+
+/* (No Comment) */
+"_ObjectProperty_ChildRelation_relationTypeToWomanInFamily" = "Soort verwantschap met moeder";
+
+/* ChildRelation */
+"_ObjectProperty_ChildRelation_type" = "Relatie";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionAssociateRelationType_compatibleAssociatedContainerClassName" = "Associatie Doel";
+
+/* ConclusionAssociateRelationType */
+"_ObjectProperty_ConclusionAssociateRelationType_invertedTypeName" = "Naam omgekeerd type";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionAssociateRelationType_invertedTypeName_ForFamily" = "Type Naam vanuit het perspectief van de persoon";
+
+/* ConclusionToDoPriorityType */
+"_ObjectProperty_ConclusionToDoPriorityType_isDefault" = "Standaard";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionToDoStatusType_isDefault" = "Standaard";
+
+/* ConclusionToDoStatusType */
+"_ObjectProperty_ConclusionToDoStatusType_typeShouldBeConsideredAsDone" = "Moet worden beschouwd als 'Voltooid'";
+
+/* ConclusionToDoTypeType */
+"_ObjectProperty_ConclusionToDoTypeType_isDefault" = "Standaard";
+
+/* ConclusionType */
+"_ObjectProperty_ConclusionType_gedcomTag" = "GEDCOM-tag";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_iconPNGData" = "Icoon";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_identifier" = "Identifier";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_isEnabled" = "Geactiveerd";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_isUserCreated" = "Aangemaakt door gebruiker";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_showAsPlaceholder" = "Tonen als plaatshouder";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_typeName" = "Type Naam";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_typeName_ForFamily" = "Type Naam vanuit het perspectief van familie";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_typeNameLocalizationKey" = "Naam localisatiesleutel";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_generated_coordinate_string" = "Coördinaten";
+
+/* Coordinate */
+"_ObjectProperty_Coordinate_latitude" = "Breedtegraad";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_latitudeDegrees" = "Breedtegraad graden";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_latitudeIsSouth" = "Breedtegraad oriëntatie";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_latitudeMinutes" = "Breedtegraad minuten";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_latitudeSeconds" = "Breedtegraad seconden";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_longitude" = "Lengtegraad";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_longitudeDegrees" = "Lengtegraad graden";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_longitudeIsWest" = "Lengtegraad oriëntatie";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_longitudeMinutes" = "Lengtegraad minuten";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_longitudeSeconds" = "Lengtegraad seconden";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_place" = "Plaats";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_placeDetail" = "Plaats Detail";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestMTDNASubResult_haplogroupString" = "mtDNA Haplogroep";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestMTDNASubResultSNPDifference_differenceString" = "SNP-verschil";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestMTDNASubResultSNPDifference_order" = "Volgorde";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestResult_dateString" = "Datum";
+
+/* DNATestResult */
+"_ObjectProperty_DNATestResult_name" = "Test naam";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestResult_person" = "Persoon";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestResult_templateIdentifier" = "Sjabloon";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestResult_urlToVendor" = "URL";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestYDNASubResult_haplogroupString" = "Y-DNA Haplogroep";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestYDNASubResultYSTRMarker_order" = "Volgorde";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestYDNASubResultYSTRMarker_strName" = "Naam STR-merker";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestYDNASubResultYSTRMarker_strValueString" = "Waarde STR";
+
+/* (No Comment) */
+"_ObjectProperty_Event_address" = "Adres";
+
+/* (No Comment) */
+"_ObjectProperty_Event_agency" = "Autoriteit";
+
+/* (No Comment) */
+"_ObjectProperty_Event_assignedPlace" = "Plaats";
+
+/* (No Comment) */
+"_ObjectProperty_Event_assignedPlaceDetail" = "Plaats Detail";
+
+/* (No Comment) */
+"_ObjectProperty_Event_cause" = "Oorzaak";
+
+/* Event */
+"_ObjectProperty_Event_date" = "Datum";
+
+/* (No Comment) */
+"_ObjectProperty_Event_ldsStatus" = "LDS Status";
+
+/* (No Comment) */
+"_ObjectProperty_Event_ldsTempleCode" = "LDS Tempel code";
+
+/* (No Comment) */
+"_ObjectProperty_Event_time" = "Tijd";
+
+/* (No Comment) */
+"_ObjectProperty_Event_userDescription" = "Omschrijving";
+
+/* Fact */
+"_ObjectProperty_Fact_value" = "Waarde";
+
+/* Family */
+"_ObjectProperty_Family_cached_marriageDate" = "Huwelijksdatum";
+
+/* (No Comment) */
+"_ObjectProperty_Family_cached_marriageDateAsDate" = "Huwelijksdatum";
+
+/* (No Comment) */
+"_ObjectProperty_Family_childRelations" = "Kind verwantschappen";
+
+/* (No Comment) */
+"_ObjectProperty_Family_events" = "Familiegebeurtenissen";
+
+/* (No Comment) */
+"_ObjectProperty_Family_isBookmarked" = "Bladwijzer aangemaakt";
+
+/* (No Comment) */
+"_ObjectProperty_Family_man" = "Man";
+
+/* (No Comment) */
+"_ObjectProperty_Family_woman" = "Vrouw";
+
+/* FamilyEvent */
+"_ObjectProperty_FamilyEvent_conclusionType" = "Soort gebeurtenis";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyEvent_family" = "Familie";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressCity" = "Stad auteur";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressCountry" = "Land auteur";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressLine" = "Adreslijn 1 auteur";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressLine1" = "Adreslijn 2 auteur";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressLine2" = "Adreslijn 3 auteur";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressLine3" = "Adreslijn 4 auteur";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressPostalCode" = "Postcode auteur";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressState" = "Staat auteur";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorEmail" = "E-mail auteur";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorFax" = "Fax auteur";
+
+/* FamilyTreeInformation */
+"_ObjectProperty_FamilyTreeInformation_authorName" = "Naam auteur";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorPhoneNumber" = "Telefoonnummer auteur";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorWebAddress" = "Webadres auteur";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_mediaThumbnailsStyle" = "Stijl mediaminiatuur";
+
+/* Label */
+"_ObjectProperty_Label_colorComponentsString" = "Kleur";
+
+/* (No Comment) */
+"_ObjectProperty_Label_title" = "Titel";
+
+/* MediaAudio */
+"_ObjectProperty_MediaAudio_audioFileIdentifier" = "Audio";
+
+/* MediaPDF */
+"_ObjectProperty_MediaPDF_pdfFileIdentifier" = "PDF";
+
+/* (No Comment) */
+"_ObjectProperty_MediaPDF_thumbnailFileIdentifier" = "Miniatuur";
+
+/* MediaPicture */
+"_ObjectProperty_MediaPicture_pictureFileIdentifier" = "Afbeelding";
+
+/* (No Comment) */
+"_ObjectProperty_MediaPicture_thumbnailFileIdentifier" = "Miniatuur";
+
+/* MediaRelation */
+"_ObjectProperty_MediaRelation_hasMediaRelationAssignment" = "Heeft toewijzingsgebied";
+
+/* MediaURL */
+"_ObjectProperty_MediaURL_url" = "Websiteadres";
+
+/* (No Comment) */
+"_ObjectProperty_MediaVideo_thumbnailFileIdentifier" = "Miniatuur";
+
+/* MediaVideo */
+"_ObjectProperty_MediaVideo_videoFileIdentifier" = "Video";
+
+/* Note */
+"_ObjectProperty_Note_text" = "Tekst";
+
+/* NoteContainer */
+"_ObjectProperty_NoteContainer_notes" = "Notities";
+
+/* OrderedConclusionType */
+"_ObjectProperty_OrderedConclusionType_order" = "Volgorde";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_birthDate" = "Geboortedatum";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_birthDateAsDate" = "Geboortedatum";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_christeningDate" = "Kersteningsdatum";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_christeningDateAsDate" = "Kersteningsdatum";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_deathDate" = "Overlijdensdatum";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_deathDateAsDate" = "Overlijdensdatum";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_fullName" = "Volledige naam";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_fullNameForSorting" = "Volledige naam gebruikt voor sorteren";
+
+/* Person */
+"_ObjectProperty_Person_firstName" = "Voornaam";
+
+/* (No Comment) */
+"_ObjectProperty_Person_firstNameSoundex" = "Soundex van voornaam";
+
+/* (No Comment) */
+"_ObjectProperty_Person_gender" = "Geslacht";
+
+/* (No Comment) */
+"_ObjectProperty_Person_isBookmarked" = "Bladwijzer aangemaakt";
+
+/* (No Comment) */
+"_ObjectProperty_Person_isStartPerson" = "Ingesteld als probant";
+
+/* (No Comment) */
+"_ObjectProperty_Person_lastName" = "Familienaam";
+
+/* (No Comment) */
+"_ObjectProperty_Person_lastNameSoundex" = "Soundex van familienaam";
+
+/* (No Comment) */
+"_ObjectProperty_Person_marriedName" = "Gehuwde naam";
+
+/* (No Comment) */
+"_ObjectProperty_Person_nameMiddle" = "Tweede naam";
+
+/* (No Comment) */
+"_ObjectProperty_Person_nameMiddleSoundex" = "Soundex van middennaam";
+
+/* (No Comment) */
+"_ObjectProperty_Person_namePrefix" = "Titel";
+
+/* (No Comment) */
+"_ObjectProperty_Person_namePrefixSoundex" = "Soundex van titel";
+
+/* (No Comment) */
+"_ObjectProperty_Person_nameSuffix" = "Achtervoegsel";
+
+/* (No Comment) */
+"_ObjectProperty_Person_nameSuffixSoundex" = "Soundex van achtervoegsel";
+
+/* PersonEvent */
+"_ObjectProperty_PersonEvent_conclusionType" = "Soort gebeurtenis";
+
+/* (No Comment) */
+"_ObjectProperty_PersonEvent_person" = "Persoon";
+
+/* PersonFact */
+"_ObjectProperty_PersonFact_conclusionType" = "Soort gegeven";
+
+/* (No Comment) */
+"_ObjectProperty_PersonFact_person" = "Persoon";
+
+/* PersonGroup */
+"_ObjectProperty_PersonGroup_name" = "Naam";
+
+/* (No Comment) */
+"_ObjectProperty_PersonGroup_personGroupColor" = "Kleur";
+
+/* (No Comment) */
+"_ObjectProperty_PersonGroup_userDescription" = "Omschrijving";
+
+/* (No Comment) */
+"_ObjectProperty_Place_alternatePlaceNames" = "Andere namen";
+
+/* (No Comment) */
+"_ObjectProperty_Place_coordinate" = "Coördinaten";
+
+/* (No Comment) */
+"_ObjectProperty_Place_country" = "Land";
+
+/* (No Comment) */
+"_ObjectProperty_Place_county" = "Provincie";
+
+/* (No Comment) */
+"_ObjectProperty_Place_geoNameID" = "GeoNaam ID";
+
+/* (No Comment) */
+"_ObjectProperty_Place_isBookmarked" = "Heeft bladwijzer";
+
+/* (No Comment) */
+"_ObjectProperty_Place_place" = "Plaats";
+
+/* (No Comment) */
+"_ObjectProperty_Place_state" = "Staat";
+
+/* Place */
+"_ObjectProperty_Place_template" = "Plaats Sjabloon";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceDetail_geoNameID" = "GeoNaam ID";
+
+/* PlaceDetail */
+"_ObjectProperty_PlaceDetail_name" = "Naam";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceDetail_place" = "Plaats";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceKeyValue_place" = "Plaats";
+
+/* PlaceKeyValue */
+"_ObjectProperty_PlaceKeyValue_templateKey" = "Sjabloonveld";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceKeyValue_value" = "Waarde";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplate_countryIdentifier" = "Land";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplate_isDefaultTemplate" = "Standaardsjabloon";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplate_isFavoriteTemplate" = "Favoriete sjabloon";
+
+/* PlaceTemplate */
+"_ObjectProperty_PlaceTemplate_name" = "Naam";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKey_gedcomTag" = "GEDCOM Plaats FORM Label";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKey_internationalName" = "Internationale naam";
+
+/* PlaceTemplateKey */
+"_ObjectProperty_PlaceTemplateKey_localName" = "Lokale naam";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKey_order" = "Volgorde";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_normalCitationBracketMode" = "Normale aanhalingstekens";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_normalCitationEnabled" = "Ingeschakeld voor normale citatie";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_normalCitationOrder" = "Normale volgorde van citaten";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_normalCitationTrailingMode" = "Normaal Scheidingsteken";
+
+/* PlaceTemplateKeyRelation */
+"_ObjectProperty_PlaceTemplateKeyRelation_order" = "Volgorde";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_shortCitationBracketMode" = "Korte aanhalingstekens";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_shortCitationEnabled" = "Ingeschakeld voor korte citatie";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_shortCitationOrder" = "Korte citatievolgorde";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_shortCitationTrailingMode" = "Kort citatiescheidingsteken";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_veryShortCitationBracketMode" = "Zeer korte aanhalingstekens";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_veryShortCitationEnabled" = "Ingeschakeld voor zeer korte citatie";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_veryShortCitationOrder" = "Zeer Korte Citatievolgorde";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_veryShortCitationTrailingMode" = "Zeer Kort Citatie Scheidingsteken";
+
+/* (No Comment) */
+"_ObjectProperty_SavedBook_author" = "Auteur";
+
+/* SavedBook */
+"_ObjectProperty_SavedBook_bookData" = "Boek";
+
+/* (No Comment) */
+"_ObjectProperty_SavedBook_subTitle" = "Ondertitel";
+
+/* (No Comment) */
+"_ObjectProperty_SavedBook_thumbnailData" = "Miniatuurvoorstelling";
+
+/* SavedChart */
+"_ObjectProperty_SavedChart_chartObjectsContainerData" = "Grafiek";
+
+/* (No Comment) */
+"_ObjectProperty_SavedChart_thumbnailData" = "Miniatuur";
+
+/* SavedReport */
+"_ObjectProperty_SavedReport_reportControllerData" = "Rapport";
+
+/* (No Comment) */
+"_ObjectProperty_SavedReport_thumbnailData" = "Miniatuur";
+
+/* (No Comment) */
+"_ObjectProperty_SavedView_date" = "Datum";
+
+/* SavedView */
+"_ObjectProperty_SavedView_title" = "Titel";
+
+/* (No Comment) */
+"_ObjectProperty_SavedWebsite_changeDate" = "Verander datum";
+
+/* SavedWebsite */
+"_ObjectProperty_SavedWebsite_fileIdentifier" = "Gegevens";
+
+/* (No Comment) */
+"_ObjectProperty_Scope_archivedFiltersContainerData" = "Smart Filter Beschrijving";
+
+/* Scope */
+"_ObjectProperty_Scope_scopeEntity" = "Type slimme filter";
+
+/* (No Comment) */
+"_ObjectProperty_Scope_scopeName" = "Naam slimme filter";
+
+/* (No Comment) */
+"_ObjectProperty_Source_isBookmarked" = "Bladwijzer aangemaakt";
+
+/* (No Comment) */
+"_ObjectProperty_Source_sourceRepository" = "Bronnenarchief";
+
+/* Source */
+"_ObjectProperty_Source_template" = "Bron sjabloon";
+
+/* (No Comment) */
+"_ObjectProperty_Source_text" = "Tekst";
+
+/* SourceContainer */
+"_ObjectProperty_SourceContainer_sourceRelations" = "Bronvermeldingen";
+
+/* (No Comment) */
+"_ObjectProperty_SourceKeyValue_source" = "Bron";
+
+/* SourceKeyValue */
+"_ObjectProperty_SourceKeyValue_templateKey" = "Sjabloon veld";
+
+/* (No Comment) */
+"_ObjectProperty_SourceKeyValue_value" = "Waarde";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRelation_certainty" = "Zekerheid";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRelation_page" = "Pagina";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRelation_qualityEvidence" = "Kwaliteit bewijs";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRelation_qualityInformation" = "Kwaliteit informatie";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRelation_qualitySource" = "Kwaliteit bron";
+
+/* SourceRelation */
+"_ObjectProperty_SourceRelation_source" = "Bron";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRelation_sourceContainer" = "Invoer met referentie";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_address" = "Adres";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_addressLine1" = "Adreslijn 1";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_addressLine2" = "Adreslijn 2";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_addressLine3" = "Adreslijn 3";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_city" = "Stad";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_country" = "Land";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_email" = "E-mail";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_fax" = "Fax";
+
+/* SourceRepository */
+"_ObjectProperty_SourceRepository_name" = "Naam";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_phone" = "Telefoon";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_postalCode" = "Postcode";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_state" = "Adres";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_www" = "WWW";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplate_isDefaultTemplate" = "Standaardsjabloon";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplate_isFavoriteTemplate" = "Voorkeurssjabloon";
+
+/* SourceTemplate */
+"_ObjectProperty_SourceTemplate_name" = "Naam";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKey_gedcomTag" = "GEDCOM-tag";
+
+/* SourceTemplateKey */
+"_ObjectProperty_SourceTemplateKey_name" = "Veldnaam";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKey_order" = "Volgorde";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKey_type" = "Veldtype";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_isDateForDisplayComponent" = "In datum bron ingesloten";
+
+/* SourceTemplateKeyRelation */
+"_ObjectProperty_SourceTemplateKeyRelation_isTitleComponent" = "Ingesloten in brontitel";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_longCitationBracketMode" = "Haakjes lang citaat";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_longCitationEnabled" = "Lang citaat mogelijk";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_longCitationFontMode" = "Lettertype lang citaat";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_longCitationOrder" = "Volgorde lang citaat";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_longCitationTrailingMode" = "Scheidingsteken lang citaat";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_order" = "Volgorde";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_shortCitationBracketMode" = "Haakjes kort citaat";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_shortCitationEnabled" = "Kort citaat mogelijk";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_shortCitationFontMode" = "Lettertype kort citaat";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_shortCitationOrder" = "Volgorde kort citaat";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_shortCitationTrailingMode" = "Scheidingsteken kort citaat";
+
+/* (No Comment) */
+"_ObjectProperty_Story_fromDate" = "Vanaf datum";
+
+/* Story */
+"_ObjectProperty_Story_title" = "Titel";
+
+/* (No Comment) */
+"_ObjectProperty_Story_toDate" = "Tot datum";
+
+/* (No Comment) */
+"_ObjectProperty_Story_userDescription" = "Omschrijving";
+
+/* (No Comment) */
+"_ObjectProperty_StorySection_order" = "Volgorde";
+
+/* StorySection */
+"_ObjectProperty_StorySection_subtitle" = "Titel Sectie";
+
+/* (No Comment) */
+"_ObjectProperty_StorySection_text" = "Tekst";
+
+/* ToDo */
+"_ObjectProperty_ToDo_dueDate" = "Vervaldatum";
+
+/* (No Comment) */
+"_ObjectProperty_ToDo_priorityConclusionType" = "Prioriteit";
+
+/* (No Comment) */
+"_ObjectProperty_ToDo_statusConclusionType" = "Status";
+
+/* (No Comment) */
+"_ObjectProperty_ToDo_text" = "Tekst";
+
+/* (No Comment) */
+"_ObjectProperty_ToDo_title" = "Titel";
+
+/* (No Comment) */
+"_ObjectProperty_ToDo_typeConclusionType" = "Type";
+
+/* (No Comment) */
+"_ObjectType_AdditionalName" = "Bijkomende naam";
+
+/* (No Comment) */
+"_ObjectType_AssociateRelation" = "Relatie invloedrijke persoon";
+
+/* (No Comment) */
+"_ObjectType_BaseMedia" = "Media";
+
+/* (No Comment) */
+"_ObjectType_BaseObjectFamilySearchProperties" = "FamilySearch informatie";
+
+/* (No Comment) */
+"_ObjectType_Book" = "Boek";
+
+/* (No Comment) */
+"_ObjectType_BookBaseObjectReportBuilder" = "Persoons-/Familierapport";
+
+/* (No Comment) */
+"_ObjectType_BookBaseObjectsBasedReportBuilderObject" = "Rapport sectie voorwerp";
+
+/* (No Comment) */
+"_ObjectType_BookBaseObjectsBasedReportBuilderSection" = "Rapport sectie";
+
+/* (No Comment) */
+"_ObjectType_BookChapter" = "Boek hoofdstuk";
+
+/* (No Comment) */
+"_ObjectType_BookDiagramBaseObject" = "Diagramsectie object";
+
+/* (No Comment) */
+"_ObjectType_BookDiagramReportBuilderSection" = "Diagramsectie %@";
+
+/* (No Comment) */
+"_ObjectType_BookFamilyBasedReportBuilderSection" = "Rapport sectie";
+
+/* (No Comment) */
+"_ObjectType_BookFamilySection" = "Familiesectie";
+
+/* (No Comment) */
+"_ObjectType_BookGenericReportBuilderSection" = "Rapport sectie";
+
+/* (No Comment) */
+"_ObjectType_BookPersonBasedReportBuilderSection" = "Rapport sectie";
+
+/* (No Comment) */
+"_ObjectType_BookPersonSection" = "Persoonssectie";
+
+/* (No Comment) */
+"_ObjectType_BookReportBuilderFamily" = "Rapport sectie familie";
+
+/* (No Comment) */
+"_ObjectType_BookReportBuilderPerson" = "Rapport sectie persoon";
+
+/* (No Comment) */
+"_ObjectType_BookSerializedBaseObjectReportBuilder" = "Configuratie rapport";
+
+/* (No Comment) */
+"_ObjectType_BookSerializedBaseReportBuilder" = "Configuratie rapportsectie";
+
+/* (No Comment) */
+"_ObjectType_BookSerializedChapterReportBuilder" = "Configuratie hoofdstukkenrapport";
+
+/* (No Comment) */
+"_ObjectType_BookSerializedEditedReportBuilder" = "Configuratie bewerkte rapporten";
+
+/* (No Comment) */
+"_ObjectType_ChangeLogEntry" = "Wijzigings Historiek";
+
+/* (No Comment) */
+"_ObjectType_ChangeLogSubEntry" = "Logboek wijzigen";
+
+/* (No Comment) */
+"_ObjectType_ChildRelation" = "Verwantschap kind";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerCloudKitChangesWorklist" = "CloudTree Sync Informatie";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerCloudKitChangesWorklistAddVerifyListItem" = "CloudTree Sync Informatie";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerCloudKitChangesWorklistForRecordType" = "CloudTree Sync Informatie";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerCloudKitChangesWorklistForRecordTypeEntry" = "CloudTree Sync Informatie";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerCloudKitChangesWorklistZoneNameServerChangeToken" = "CloudTree Sync Informatie";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerLocalChangesWorklist" = "CloudTree Sync Informatie";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerLocalChangesWorklistDanglingReferenceEntry" = "CloudTree Sync Informatie";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerLocalChangesWorklistFinalDeleteEntry" = "CloudTree Sync Informatie";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerLocalChangesWorklistForEntity" = "CloudTree Sync Informatie";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerLocalChangesWorklistForEntityEntry" = "CloudTree Sync Informatie";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerLocalChangesWorklistPostponedEntry" = "CloudTree Sync Informatie";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerSpecialPostDownloadStep" = "CloudTree Sync Informatie";
+
+/* (No Comment) */
+"_ObjectType_ConclusionAdditionalNameType" = "Type bijkomende naam";
+
+/* (No Comment) */
+"_ObjectType_ConclusionAssociateRelationType" = "Type invloedrijke relatie";
+
+/* (No Comment) */
+"_ObjectType_ConclusionFamilyEventType" = "Soort familiegebeurtenis";
+
+/* (No Comment) */
+"_ObjectType_ConclusionPersonEventType" = "Soort persoonsgebeurtenis";
+
+/* (No Comment) */
+"_ObjectType_ConclusionPersonFactType" = "Soort persoonsgegeven";
+
+/* (No Comment) */
+"_ObjectType_Coordinate" = "Coördinaten";
+
+/* (No Comment) */
+"_ObjectType_DNATestATDNASubResult" = "Informatie autosomaal DNA resultaat";
+
+/* (No Comment) */
+"_ObjectType_DNATestBaseSubResultRawDataFile" = "DNA ruwe data bestand";
+
+/* (No Comment) */
+"_ObjectType_DNATestMTDNASubResult" = "Informatie mtDNA-resultaat";
+
+/* (No Comment) */
+"_ObjectType_DNATestMTDNASubResultSNPDifference" = "mtDNA SNP-verschil";
+
+/* (No Comment) */
+"_ObjectType_DNATestResult" = "DNA Testresultaat";
+
+/* (No Comment) */
+"_ObjectType_DNATestYDNASubResult" = "Y-DNA Resultaat informatie";
+
+/* (No Comment) */
+"_ObjectType_DNATestYDNASubResultYSTRMarker" = "Y-DNA STR merker";
+
+/* (No Comment) */
+"_ObjectType_Event" = "Gebeurtenis";
+
+/* (No Comment) */
+"_ObjectType_Fact" = "Gegeven";
+
+/* (No Comment) */
+"_ObjectType_Family" = "Familie";
+
+/* (No Comment) */
+"_ObjectType_FamilyEvent" = "Familiegebeurtenis";
+
+/* (No Comment) */
+"_ObjectType_FamilySearchKnownBadFurtherInformationMatch" = "FamilySearch informatie";
+
+/* (No Comment) */
+"_ObjectType_FamilySearchKnownBadPersonMatch" = "FamilySearch informatie";
+
+/* (No Comment) */
+"_ObjectType_FamilyTreeInformation" = "Family Tree informatie";
+
+/* (No Comment) */
+"_ObjectType_Label" = "Label";
+
+/* (No Comment) */
+"_ObjectType_LabelRelation" = "Label Relatie";
+
+/* (No Comment) */
+"_ObjectType_MediaAudio" = "Media audio";
+
+/* (No Comment) */
+"_ObjectType_MediaPDF" = "Media PDF";
+
+/* (No Comment) */
+"_ObjectType_MediaPicture" = "Media afbeelding";
+
+/* (No Comment) */
+"_ObjectType_MediaRelation" = "Verwantschap media";
+
+/* (No Comment) */
+"_ObjectType_MediaRelationAssignment" = "Toewijzing mediarelatie";
+
+/* (No Comment) */
+"_ObjectType_MediaRelationAssignmentPicture" = "Opdracht voor mediarelaties Afbeelding";
+
+/* (No Comment) */
+"_ObjectType_MediaURL" = "Media URL";
+
+/* (No Comment) */
+"_ObjectType_MediaVideo" = "Media video";
+
+/* (No Comment) */
+"_ObjectType_Note" = "Notitie";
+
+/* Object Types */
+"_ObjectType_Person" = "Persoon";
+
+/* (No Comment) */
+"_ObjectType_PersonEvent" = "Persoonsgebeurtenis";
+
+/* (No Comment) */
+"_ObjectType_PersonFact" = "Persoonsgegeven";
+
+/* (No Comment) */
+"_ObjectType_PersonGroup" = "Persoonsgroep";
+
+/* (No Comment) */
+"_ObjectType_PersonGroupRelation" = "Persoon Groep Relatie";
+
+/* (No Comment) */
+"_ObjectType_Place" = "Plaats";
+
+/* (No Comment) */
+"_ObjectType_PlaceDetail" = "Plaats Detail";
+
+/* (No Comment) */
+"_ObjectType_PlaceKeyValue" = "Plaats Waarde";
+
+/* (No Comment) */
+"_ObjectType_PlaceTemplate" = "Plaats Sjabloon";
+
+/* (No Comment) */
+"_ObjectType_PlaceTemplateKey" = "Plaats Sjabloonveld";
+
+/* (No Comment) */
+"_ObjectType_PlaceTemplateKeyRelation" = "Plaats Sjabloon Veld Relatie";
+
+/* (No Comment) */
+"_ObjectType_ResearchAssistantQuestionInfo" = "Onderzoeksassistent informatie";
+
+/* (No Comment) */
+"_ObjectType_SavedBook" = "Bewaard boek";
+
+/* (No Comment) */
+"_ObjectType_SavedChart" = "Diagram";
+
+/* (No Comment) */
+"_ObjectType_SavedReport" = "Rapport";
+
+/* (No Comment) */
+"_ObjectType_SavedWebsite" = "Opgeslagen website";
+
+/* (No Comment) */
+"_ObjectType_Scope" = "Slimme filter";
+
+/* (No Comment) */
+"_ObjectType_Source" = "Bron";
+
+/* (No Comment) */
+"_ObjectType_SourceKeyValue" = "Bronwaarde";
+
+/* (No Comment) */
+"_ObjectType_SourceRelation" = "Bronvermelding";
+
+/* (No Comment) */
+"_ObjectType_SourceRepository" = "Bronnenarchief";
+
+/* (No Comment) */
+"_ObjectType_SourceTemplate" = "Bronsjabloon";
+
+/* (No Comment) */
+"_ObjectType_SourceTemplateKey" = "Bronsjabloon veld";
+
+/* (No Comment) */
+"_ObjectType_SourceTemplateKeyRelation" = "Bronsjabloonveld relatie";
+
+/* (No Comment) */
+"_ObjectType_Story" = "Verhaal";
+
+/* (No Comment) */
+"_ObjectType_StoryRelation" = "Verhaal Relatie";
+
+/* (No Comment) */
+"_ObjectType_StorySection" = "Verhaalsectie";
+
+/* (No Comment) */
+"_ObjectType_StorySectionRelation" = "Verhaal Sectie Relatie";
+
+/* (No Comment) */
+"_ObjectType_ToDo" = "Taak";
+
+/* (No Comment) */
+"_ObjectType_ToDoRelation" = "Taak verwantschp";
+
+/* (No Comment) */
+"_Person_ChangeLog_Added" = "Persoon toegevoegd";
+
+/* (No Comment) */
+"_Person_ChangeLog_ConflictResolved" = "Conflict van eigenschap '%@' gewijzigd naar '%@'";
+
+/* (No Comment) */
+"_Person_ChangeLog_Deleted" = "Persoon '%@' verwijderd";
+
+/* (No Comment) */
+"_Person_ChangeLogKey" = "Persoon %@";
+
+/* (No Comment) */
+"_Person_ChangeLogPropertyKey_FirstName" = "Voornaam gewijzigd van '%@' naar '%@'";
+
+/* (No Comment) */
+"_Person_ChangeLogPropertyKey_Gender" = "Geslacht gewijzigd van '%@' naar '%@'";
+
+/* (No Comment) */
+"_Person_ChangeLogPropertyKey_LastName" = "Familienaam gewijzigd van '%@' naar '%@'";
+
+/* (No Comment) */
+"_Person_ChangeLogPropertyKey_NameMiddle" = "Tussennaam gewijzigd van '%@' naar '%@'";
+
+/* (No Comment) */
+"_Person_ChangeLogPropertyKey_NamePrefix" = "Voorvoegsel gewijzigd van '%@' naar '%@'";
+
+/* (No Comment) */
+"_Person_ChangeLogPropertyKey_NameSuffix" = "Achtervoegsel gewijzigd van '%@' naar '%@'";
+
+/* (No Comment) */
+"_PlaceTemplateKeyRelation_relationUsage" = "Gebruik";
+
+/* (No Comment) */
+"_Source_ChangeLog_Added" = "Bron toegevoegd";
+
+/* (No Comment) */
+"_Source_ChangeLog_ConflictResolved" = "Conflict van eigenschap '%@' van bron gewijzigd naar '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLog_Deleted" = "Bron '%@' verwijderd";
+
+/* (No Comment) */
+"_Source_ChangeLogKey" = "Bron %@";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Abbreviation" = "Afkorting gewijzigd van '%@' naar '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Agency" = "Overheid gewijzigd van '%@' naar '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Author" = "Auteur gewijzigd van '%@' naar '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Date" = "Datum gewijzigd van '%@' naar '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Place" = "Plaats gewijzigd van '%@' naar '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Publication" = "Publicatie gewijzigd van '%@' naar '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_ReferenceNumber" = "Referentienummer gewijzigd van '%@' naar '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_ReferenceType" = "Referentietype gewijzigd van '%@' naar '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Text" = "Tekst gewijzigd";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Title" = "Titel gewijzigd van '%@' naar '%@'";
+
+/* (No Comment) */
+"_SourceKeyValue_ChangeLog_Added" = "Waarde '%@' toegevoegd";
+
+/* (No Comment) */
+"_SourceKeyValue_ChangeLog_ConflictResolvedForValueProperty" = "Conflict van waarde '%@' opgelost naar '%@'";
+
+/* (No Comment) */
+"_SourceKeyValue_ChangeLog_Deleted" = "Waarde '%@' verwijderd";
+
+/* (No Comment) */
+"_SourceKeyValue_ChangeLogPropertyKey_Value" = "Waarde '%@' gewijzigd van '%@' naar '%@'";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLog_SourceContainerDelete" = "Bronvermelding van '%@' verwijderd";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLog_SourceDelete" = "Bronvermelding '%@' verwijderd";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLogPropertyKey_Page" = "Pagina van broncitaat voor bron '%@' gewijzigd van '%@' naar '%@'";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLogPropertyKey_QualityEvidence" = "Geloofwaardigheid van broncitaat voor bron '%@' gewijzigd van '%@' naar '%@'";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLogPropertyKey_QualityInformation" = "Informatiekwaliteit van broncitaat voor bron '%@' gewijzigd van '%@' naar '%@'";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLogPropertyKey_QualitySource" = "Bronkwaliteit van broncitaat voor bron '%@' gewijzigd van '%@' naar '%@'";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLogPropertyKey_Source" = "Als bron toegevoegd aan '%@'";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLogPropertyKey_SourceContainer" = "Bronvermelding '%@' toegevoegd";
+

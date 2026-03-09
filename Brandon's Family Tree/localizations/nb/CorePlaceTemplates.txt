@@ -1,0 +1,318 @@
+﻿/* (No Comment) */
+"_EditPlaceTemplateKeysController_MergeTemplateKeysConflictInformative" = "Du ønsker å slå sammen stedsfeltet «%@» med stedsfeltet «%@», men noen steder i familietreet ditt inneholder begge stedsfeltene under samme sted. Vennligst velg hva som skal skje med disse stedene:";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_MergeTemplateKeysConflictKeepBoth" = "Beholde begge verdiene";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_MergeTemplateKeysConflictKeepSingle" = "Beholde verdien %@";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_MergeTemplateKeysConflictMessage" = "Slå sammen stedsfelter";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_MergeTemplateKeysDoneInformative" = "Stedsfelt «%@» har blitt slått sammen med stedsfelt «%@»";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_MergeTemplateKeysDoneMessage" = "Stedsfelter har blitt slått sammen";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_ReallyMergeTemplateKeysInformative" = "Ønsker du virkelig å slå sammen malfeltene «%@» og «%@»? Disse gjøres da om til ett enkelt malfelt.";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_ReallyMergeTemplateKeysMessage" = "Virkelig slå sammen malfeltene?";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_RemoveTemplateKeyInformative" = "Vil du virkelig slette valgt malfelt? Informasjon har blitt skrevet inn i malfeltet som vil bli slettet uten at det kan angres.";
+
+/* EditPlaceTemplateKeysController */
+"_EditPlaceTemplateKeysController_RemoveTemplateKeyMessage" = "Virkelig slette malfeltet? Alle felter i steder vil bli slettet for alltid.";
+
+/* (No Comment) */
+"_EditPlaceTemplatesController_MergeTemplateDoneMessage" = "Stedsmalene har blitt slått sammen";
+
+/* (No Comment) */
+"_EditPlaceTemplatesController_MergeTemplatesDoneInformative" = "Stedsmalene «%@» og «%@» har blitt slått sammen.";
+
+/* (No Comment) */
+"_EditPlaceTemplatesController_ReallyMergeTemplateInformative" = "Ønsker du virkelig å slå sammen malene «%@» og «%@»? Disse gjøres da om til én enkel mal.";
+
+/* (No Comment) */
+"_EditPlaceTemplatesController_ReallyMergeTemplateMessage" = "Virkelig slå sammen malene?";
+
+/* (No Comment) */
+"_EditPlaceTemplatesController_RemoveTemplateInformative" = "Vil du virkelig slette denne stedsmalen? Det finnes steder som er tilknyttet malen og som vil bli slettet sammen med malen uten at det kan angres.";
+
+/* EditPlaceTemplatesController */
+"_EditPlaceTemplatesController_RemoveTemplateMessage" = "Virkelig slette stedsmalen? Alle tilknyttede steder vil bli slettet for alltid.";
+
+/* (No Comment) */
+"_PlaceTemplate_PlacesCount" = "%d steder";
+
+/* Counts */
+"_PlaceTemplate_PlacesCountSingular" = "%d sted";
+
+/* Relation Usage */
+"_RelationUsage_AdministrativeDivision1" = "Administrativt område 1";
+
+/* (No Comment) */
+"_RelationUsage_AdministrativeDivision2" = "Administrativt område 2";
+
+/* (No Comment) */
+"_RelationUsage_AdministrativeDivision3" = "Administrativt område 3";
+
+/* (No Comment) */
+"_RelationUsage_AdministrativeDivision4" = "Administrativt område 4";
+
+/* (No Comment) */
+"_RelationUsage_AdministrativeDivision5" = "Administrativt område 5";
+
+/* (No Comment) */
+"_RelationUsage_AdministrativeDivisionOther" = "Annet administrativt område";
+
+/* (No Comment) */
+"_RelationUsage_CountryName" = "Landsnavn";
+
+/* (No Comment) */
+"_RelationUsage_PlaceName" = "Stedsnavn";
+
+/* (No Comment) */
+"PlaceTemplate_Australia" = "Australia";
+
+/* (No Comment) */
+"PlaceTemplate_Austria" = "Østerrike";
+
+/* (No Comment) */
+"PlaceTemplate_Belgium" = "Belgia";
+
+/* (No Comment) */
+"PlaceTemplate_Bosnia and Herzegovina" = "Bosnia-Hercegovina";
+
+/* (No Comment) */
+"PlaceTemplate_Brazil" = "Brasil";
+
+/* (No Comment) */
+"PlaceTemplate_Bulgaria" = "Bulgaria";
+
+/* (No Comment) */
+"PlaceTemplate_Canada (Province)" = "Canada (provins)";
+
+/* (No Comment) */
+"PlaceTemplate_Canada (Territory)" = "Canada (territorium)";
+
+/* (No Comment) */
+"PlaceTemplate_China" = "Kina";
+
+/* (No Comment) */
+"PlaceTemplate_Croatia" = "Kroatia";
+
+/* (No Comment) */
+"PlaceTemplate_Czechia" = "Tsjekkia";
+
+/* (No Comment) */
+"PlaceTemplate_Denmark" = "Danmark";
+
+/* (No Comment) */
+"PlaceTemplate_England (Borough)" = "England (bykommune)";
+
+/* (No Comment) */
+"PlaceTemplate_England (Parish)" = "England (Parish/landkommune)";
+
+/* (No Comment) */
+"PlaceTemplate_Finland" = "Finland";
+
+/* (No Comment) */
+"PlaceTemplate_France" = "Frankrike";
+
+/* Templates */
+"PlaceTemplate_Generic" = "Generisk";
+
+/* (No Comment) */
+"PlaceTemplate_Generic_Level" = "Generisk (%d nivåer)";
+
+/* (No Comment) */
+"PlaceTemplate_Generic_OneComponent" = "Generisk (et nivå)";
+
+/* (No Comment) */
+"PlaceTemplate_Generic_ThreeComponents" = "Generisk (tre nivåer)";
+
+/* (No Comment) */
+"PlaceTemplate_Generic_TwoComponents" = "Generisk (to nivåer)";
+
+/* (No Comment) */
+"PlaceTemplate_Germany" = "Tyskland";
+
+/* (No Comment) */
+"PlaceTemplate_Greece" = "Hellas";
+
+/* (No Comment) */
+"PlaceTemplate_Hungary" = "Ungarn";
+
+/* (No Comment) */
+"PlaceTemplate_Ireland" = "Irland";
+
+/* (No Comment) */
+"PlaceTemplate_Italy" = "Italia";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Administrative Divison" = "Administrativt område";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Administrative Unit" = "Administrativ enhet";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Autonomos Region" = "Autonom region";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Borough" = "Borough/bykommune";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Canton" = "Kanton";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Commune" = "Kommune";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Country" = "Land";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_County" = "Fylke/county";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Decentralized Administration" = "Desentralisert administrasjon";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Department" = "Departement";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_District" = "Distrikt";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Federal District" = "Distrikt";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Federal Subject" = "Føderalt emne";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Kray" = "Kray";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Level" = "Nivå %d";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Municipality" = "Kommune";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Oblast" = "Oblast";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Parish" = "Sogn";
+
+/* Template Keys */
+"PlaceTemplate_KeyName_Place" = "Sted";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Province" = "Provins";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Region" = "Region";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Republic" = "Republikk";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_State" = "Region/delstat";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Territory" = "Territorium";
+
+/* (No Comment) */
+"PlaceTemplate_Mexico" = "Mexico";
+
+/* (No Comment) */
+"PlaceTemplate_Netherlands" = "Nederland";
+
+/* (No Comment) */
+"PlaceTemplate_Norway" = "Norge";
+
+/* (No Comment) */
+"PlaceTemplate_Poland" = "Polen";
+
+/* (No Comment) */
+"PlaceTemplate_Portugal" = "Portugal";
+
+/* (No Comment) */
+"PlaceTemplate_Romania" = "Romania";
+
+/* (No Comment) */
+"PlaceTemplate_Russia" = "Russland";
+
+/* (No Comment) */
+"PlaceTemplate_Serbia" = "Serbia";
+
+/* (No Comment) */
+"PlaceTemplate_Slovakia" = "Slovakia";
+
+/* (No Comment) */
+"PlaceTemplate_Slovenia" = "Slovenia";
+
+/* (No Comment) */
+"PlaceTemplate_Spain" = "Spania";
+
+/* (No Comment) */
+"PlaceTemplate_Sweden" = "Sverige";
+
+/* (No Comment) */
+"PlaceTemplate_Switzerland" = "Sveits";
+
+/* (No Comment) */
+"PlaceTemplate_United Kingdom" = "Det forente kongeriket";
+
+/* (No Comment) */
+"PlaceTemplate_United States of America" = "Amerikas forente stater";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationBracketMode_AngleBrackets" = "Hakeparenteser";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationBracketMode_Brackets" = "Runde parenteser";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationBracketMode_CurlyBrackets" = "Krøllparenteser";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationBracketMode_DoubleQuotes" = "Doble anførselstegn";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationBracketMode_None" = "Ingen";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationBracketMode_SingleQuotes" = "Enkle anførselstegn";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationMode_Normal" = "Normal";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationMode_Short" = "Kort";
+
+/* Enums */
+"PlaceTemplateKeyRelation_CitationMode_VeryShort" = "Meget kort";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationTrailingMode_Colon" = "Kolon";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationTrailingMode_Comma" = "Komma";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationTrailingMode_Hyphen" = "Bindestrek";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationTrailingMode_Period" = "Punktum";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationTrailingMode_Semicolon" = "Semikolon";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationTrailingMode_Space" = "Mellomrom";
+

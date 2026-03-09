@@ -1,0 +1,357 @@
+﻿/* (No Comment) */
+"_ConclusionType_AssociateRelations" = "Влиятельные отношения";
+
+/* Duplicate Conclusion GEDCOM Tag */
+"_ConclusionType_DuplicateGedcomTag" = "Этот тег GEDCOM уже используется. Выберите другой, поскольку дублирование тегов GEDCOM может привести к проблемам при экспорте файлов GEDCOM.";
+
+/* (No Comment) */
+"_ConclusionType_FamilyEvents" = "Семейные события";
+
+/* (No Comment) */
+"_ConclusionType_IsNotUserCreatedFlag" = "Встроенный тип";
+
+/* (No Comment) */
+"_ConclusionType_IsUserCreatedFlag" = "Созданный пользователем тип";
+
+/* (No Comment) */
+"_ConclusionType_PersonEvents" = "События человека";
+
+/* (No Comment) */
+"_ConclusionType_PersonEventsFamilyEvents" = "События";
+
+/* (No Comment) */
+"_ConclusionType_PersonEventsFamilyEventsPersonFacts" = "События и факты";
+
+/* (No Comment) */
+"_ConclusionType_PersonEventsFamilyEventsPersonFactsAssociateRelations" = "События, факты и влиятельные связи";
+
+/* (No Comment) */
+"_ConclusionType_PersonFacts" = "Факты о человеке";
+
+/* LDS */
+"_Event_LDSNoTemple" = "Нет Храма";
+
+/* (No Comment) */
+"_FamilyEvent_Annuled" = "Аннулирование";
+
+/* (No Comment) */
+"_FamilyEvent_Bann" = "Объявление о предстоящем бракосочетании";
+
+/* (No Comment) */
+"_FamilyEvent_Census" = "Перепись";
+
+/* (No Comment) */
+"_FamilyEvent_Contract" = "Брачный контракт";
+
+/* (No Comment) */
+"_FamilyEvent_Divorce_Filing" = "Подача на развод";
+
+/* (No Comment) */
+"_FamilyEvent_Divorced" = "Развод";
+
+/* (No Comment) */
+"_FamilyEvent_Engagement" = "Обязательство";
+
+/* (No Comment) */
+"_FamilyEvent_LDSSpouseSealing" = "Венчание супругов в церкви LDS";
+
+/* (No Comment) */
+"_FamilyEvent_License" = "Разрешение на брак";
+
+/* FamilyEvents */
+"_FamilyEvent_Marriage" = "Брак";
+
+/* (No Comment) */
+"_FamilyEvent_MarriageCivil" = "Гражданский брак";
+
+/* (No Comment) */
+"_FamilyEvent_MarriageReligion" = "Религиозный брак";
+
+/* (No Comment) */
+"_FamilyEvent_OtherEvent" = "Иное событие";
+
+/* (No Comment) */
+"_FamilyEvent_Partnership" = "Гражданский брак";
+
+/* (No Comment) */
+"_FamilyEvent_Separation" = "Разлука";
+
+/* (No Comment) */
+"_FamilyEvent_Settlement" = "Брачный договор";
+
+/* (No Comment) */
+"_LDSEventStatus_BIC" = "BIC";
+
+/* LDS Event Status */
+"_LDSEventStatus_Canceled" = "Отменено";
+
+/* (No Comment) */
+"_LDSEventStatus_Child" = "Ребёнок";
+
+/* (No Comment) */
+"_LDSEventStatus_Cleared" = "Очищено";
+
+/* (No Comment) */
+"_LDSEventStatus_Completed" = "Завершено";
+
+/* (No Comment) */
+"_LDSEventStatus_DNS" = "Не соответствует";
+
+/* (No Comment) */
+"_LDSEventStatus_DNS/CAN" = "DNS/CAN";
+
+/* (No Comment) */
+"_LDSEventStatus_Infant" = "Умер на первом году жизни";
+
+/* (No Comment) */
+"_LDSEventStatus_Pre1970" = "До 1970";
+
+/* (No Comment) */
+"_LDSEventStatus_Qualified" = "Соответствует";
+
+/* (No Comment) */
+"_LDSEventStatus_Stillborn" = "Мёртворожденный";
+
+/* (No Comment) */
+"_LDSEventStatus_Submitted" = "Представлено";
+
+/* (No Comment) */
+"_LDSEventStatus_Uncleared" = "Не очищено";
+
+/* PersonEvents */
+"_PersonEvent_Adoption" = "Усыновление";
+
+/* (No Comment) */
+"_PersonEvent_AdultChristening" = "Крещение взрослого";
+
+/* (No Comment) */
+"_PersonEvent_Apprenticeship" = "Обучение";
+
+/* (No Comment) */
+"_PersonEvent_Baptism" = "Крещение ребёнка";
+
+/* (No Comment) */
+"_PersonEvent_BarMitzvah" = "Бар-мицва";
+
+/* (No Comment) */
+"_PersonEvent_BasMitzvah" = "Бат-мицва";
+
+/* (No Comment) */
+"_PersonEvent_Birth" = "Рождение";
+
+/* (No Comment) */
+"_PersonEvent_Blessing" = "Благословение";
+
+/* (No Comment) */
+"_PersonEvent_Burial" = "Погребение";
+
+/* (No Comment) */
+"_PersonEvent_Census" = "Перепись";
+
+/* (No Comment) */
+"_PersonEvent_Christening" = "Крещение";
+
+/* (No Comment) */
+"_PersonEvent_Circumcision" = "Обрезание";
+
+/* (No Comment) */
+"_PersonEvent_Confirmation" = "Конфирмация";
+
+/* (No Comment) */
+"_PersonEvent_Cremation" = "Кремация";
+
+/* (No Comment) */
+"_PersonEvent_Death" = "Смерть";
+
+/* (No Comment) */
+"_PersonEvent_Deed" = "Документ на владение";
+
+/* (No Comment) */
+"_PersonEvent_Education" = "Образование";
+
+/* (No Comment) */
+"_PersonEvent_Emigration" = "Эмиграция";
+
+/* (No Comment) */
+"_PersonEvent_Excommunication" = "Отлучение от церкви";
+
+/* (No Comment) */
+"_PersonEvent_FirstCommunion" = "Первое причастие";
+
+/* (No Comment) */
+"_PersonEvent_FosterChild" = "Приёмный ребёнок";
+
+/* (No Comment) */
+"_PersonEvent_Funeral" = "Похоронная церемония";
+
+/* (No Comment) */
+"_PersonEvent_GenericEvent" = "Иное событие";
+
+/* (No Comment) */
+"_PersonEvent_Graduation" = "Окончание учебного заведения";
+
+/* (No Comment) */
+"_PersonEvent_Illness" = "Болезнь";
+
+/* (No Comment) */
+"_PersonEvent_Immigration" = "Иммиграция";
+
+/* (No Comment) */
+"_PersonEvent_LandTransaction" = "Земельная сделка";
+
+/* (No Comment) */
+"_PersonEvent_LDSBaptism" = "Крещение в церкви LDS";
+
+/* (No Comment) */
+"_PersonEvent_LDSChildSealing" = "Соединение с родителями LDS";
+
+/* (No Comment) */
+"_PersonEvent_LDSConfirmation" = "Конфирмация в церкви LDS";
+
+/* (No Comment) */
+"_PersonEvent_LDSEndowment" = "Посвящение в церкви LDS";
+
+/* (No Comment) */
+"_PersonEvent_LDSInitiatory" = "Инициация в церкви LDS";
+
+/* (No Comment) */
+"_PersonEvent_MilitaryAward" = "Воинская награда";
+
+/* (No Comment) */
+"_PersonEvent_MilitaryDischarge" = "Увольнение с воинской службы";
+
+/* (No Comment) */
+"_PersonEvent_MilitaryInduction" = "Призыв на воинскую службу";
+
+/* (No Comment) */
+"_PersonEvent_MilitaryService" = "Воинская служба";
+
+/* (No Comment) */
+"_PersonEvent_Miscarriage" = "Выкидыш";
+
+/* (No Comment) */
+"_PersonEvent_Mission" = "Миссия";
+
+/* (No Comment) */
+"_PersonEvent_Nationality" = "Гражданство, подданство";
+
+/* (No Comment) */
+"_PersonEvent_Naturalization" = "Натурализация";
+
+/* (No Comment) */
+"_PersonEvent_NickName" = "Прозвище";
+
+/* (No Comment) */
+"_PersonEvent_NobilityTypeTitle" = "Дворянский титул";
+
+/* (No Comment) */
+"_PersonEvent_Occupation" = "Род занятий";
+
+/* (No Comment) */
+"_PersonEvent_Ordination" = "Рукоположение";
+
+/* (No Comment) */
+"_PersonEvent_Probate" = "Наследственное дело";
+
+/* (No Comment) */
+"_PersonEvent_Religion" = "Религия";
+
+/* (No Comment) */
+"_PersonEvent_Residence" = "Место жительства";
+
+/* (No Comment) */
+"_PersonEvent_Retirement" = "Выход на пенсию";
+
+/* (No Comment) */
+"_PersonEvent_Will" = "Завещание";
+
+/* (No Comment) */
+"_PersonFact_BloodType" = "Группа крови";
+
+/* (No Comment) */
+"_PersonFact_CasteName" = "Каста";
+
+/* (No Comment) */
+"_PersonFact_Clan" = "Род";
+
+/* (No Comment) */
+"_PersonFact_CustomFamilySearchFactTitle" = "Факт пользователя: %@";
+
+/* (No Comment) */
+"_PersonFact_Email" = "Email";
+
+/* (No Comment) */
+"_PersonFact_EyeColor" = "Цвет глаз";
+
+/* (No Comment) */
+"_PersonFact_HairColor" = "Цвет волос";
+
+/* (No Comment) */
+"_PersonFact_Height" = "Рост";
+
+/* (No Comment) */
+"_PersonFact_Hobby" = "Увлечения";
+
+/* (No Comment) */
+"_PersonFact_Honors" = "Награды";
+
+/* (No Comment) */
+"_PersonFact_NationalID" = "Гос. идентификационный номер";
+
+/* (No Comment) */
+"_PersonFact_NationalOrTribalOrigin" = "Народность";
+
+/* (No Comment) */
+"_PersonFact_NoChildren" = "Нет детей";
+
+/* (No Comment) */
+"_PersonFact_NoCoupleRelationships" = "Нет парных отношений";
+
+/* (No Comment) */
+"_PersonFact_Phone" = "Номер телефона";
+
+/* (No Comment) */
+"_PersonFact_PhysicalDescription" = "Физическое описание";
+
+/* (No Comment) */
+"_PersonFact_Possession" = "Владение";
+
+/* (No Comment) */
+"_PersonFact_Race" = "Национальность";
+
+/* (No Comment) */
+"_PersonFact_SkinColor" = "Цвет кожи";
+
+/* Facts */
+"_PersonFact_SocialSecurityNumber" = "Номер социального страхования";
+
+/* (No Comment) */
+"_PersonFact_TribeName" = "Племя";
+
+/* (No Comment) */
+"_PersonFact_Weight" = "Вес";
+
+/* (No Comment) */
+"ConclusionAdditionalNameType_Unnamed" = "Безымянный тип дополнительного имени";
+
+/* (No Comment) */
+"ConclusionAssociateRelationType_Unnamed" = "Неназванный тип влиятельного отношения";
+
+/* (No Comment) */
+"ConclusionFamilyEventType_Unnamed" = "Безымянный тип семейного события";
+
+/* Conclusion Types */
+"ConclusionPersonEventType_Unnamed" = "Безымянный тип события человека";
+
+/* (No Comment) */
+"ConclusionPersonFactType_Unnamed" = "Безымянный тип факта о человеке";
+
+/* (No Comment) */
+"ConclusionToDoPriorityType_Unnamed" = "Безымянный тип приоритета задачи";
+
+/* (No Comment) */
+"ConclusionToDoStatusType_Unnamed" = "Безымянный тип статуса задачи";
+
+/* (No Comment) */
+"ConclusionToDoTypeType_Unnamed" = "Безымянный тип задачи";
+

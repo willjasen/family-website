@@ -1,0 +1,594 @@
+﻿/* (No Comment) */
+"_EditSourceTemplateKeysController_MergeTemplateKeysConflictInformative" = "A(z) '%@' forrásmezőt a '%@' forrásmezővel készül egyesíteni, de a családfájának néhány forrása mindkét forrásmezőt használja. Kérjük, döntse el, hogyan tovább az alábbi források esetében:";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_MergeTemplateKeysConflictKeepBoth" = "Tartsa meg mindkét értéket";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_MergeTemplateKeysConflictKeepSingle" = "Tartsa meg %@ értéket";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_MergeTemplateKeysConflictMessage" = "Forrásmezők összevonása";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_MergeTemplateKeysDoneInformative" = "A '%@' forrásmezőt összevonta a '%@' forrásmezővel";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_MergeTemplateKeysDoneMessage" = "Forrásmezők összevonva";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_ReallyMergeTemplateKeysInformative" = "Valóban egyesíteni szeretné a '%@' és '%@ sablonmezőket? Ezután ezekből egyetlen sablonmező lesz.";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_ReallyMergeTemplateKeysMessage" = "Valóban össze akarja vonni a sablonmezőket?";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_RemoveTemplateKeyInformative" = "Valóban törölni akarja ezt a beírást a kiválasztott sablonmezőt? Ebben a sablonmezőben még vannak olyan információk, amelyek véglegesen törlődnek.";
+
+/* EditSourceTemplateKeysController */
+"_EditSourceTemplateKeysController_RemoveTemplateKeyMessage" = "Valóban törölje a Sablonmezőt? A forrásból származó összes mező véglegesen törlődik.";
+
+/* (No Comment) */
+"_EditSourceTemplatesController_MergeTemplateDoneMessage" = "Összevont forrássablon";
+
+/* (No Comment) */
+"_EditSourceTemplatesController_MergeTemplatesDoneInformative" = "'%@' és '%@' forrássablonokat sikeresen összevonták";
+
+/* (No Comment) */
+"_EditSourceTemplatesController_ReallyMergeTemplateInformative" = "Valóban egyesíteni szeretné a '%@' és '%@' sablonokat? Ezután ezekből egyetlen sablon lesz.";
+
+/* (No Comment) */
+"_EditSourceTemplatesController_ReallyMergeTemplateMessage" = "Valóban össze akarja vonni a sablonokat?";
+
+/* (No Comment) */
+"_EditSourceTemplatesController_RemoveTemplateInformative" = "Valóban törli akarja ezt a forrássablont? Ehhez a sablonhoz olyan források kapcsolódnak, amelyek szintén véglegesen törlődnek, ha törli ezt a forrássablont.";
+
+/* EditSourceTemplatesController */
+"_EditSourceTemplatesController_RemoveTemplateMessage" = "Valóban törölje a forrássablont? Az összes csatolt forrás véglegesen törlődik.";
+
+/* (No Comment) */
+"_SourceTemplate_SourcesCount" = "%d források";
+
+/* Counts */
+"_SourceTemplate_SourcesCountSingular" = "%d forrás";
+
+/* (No Comment) */
+"_SourceTemplateKey_Type_Date" = "Dátum";
+
+/* SourceTemplateKey */
+"_SourceTemplateKey_Type_Text" = "Szöveg";
+
+/* (No Comment) */
+"SourceTemplate_AddressBook" = "Címes könyv";
+
+/* (No Comment) */
+"SourceTemplate_Book" = "Könyv";
+
+/* (No Comment) */
+"SourceTemplate_BusinessOrganisationalRecord" = "Üzleti szervezeti nyilvántartás";
+
+/* (No Comment) */
+"SourceTemplate_CDROM" = "CD-ROM";
+
+/* (No Comment) */
+"SourceTemplate_CemeteryRecord_Digital" = "Temetői felvétel (digitális)";
+
+/* (No Comment) */
+"SourceTemplate_CemeteryRecord_Microfilm" = "Temetői felvétel (mikrofilm)";
+
+/* (No Comment) */
+"SourceTemplate_CemeteryRecord_PhysicalCopy" = "Temetői felvétel (fizikai másolat)";
+
+/* (No Comment) */
+"SourceTemplate_Census_Digital" = "Népszámlálás (digitális)";
+
+/* (No Comment) */
+"SourceTemplate_Census_Microfilm" = "Népszámlálás (mikrofilm)";
+
+/* (No Comment) */
+"SourceTemplate_Census_PhysicalCopy" = "Népszámlálás (fizikai másolat)";
+
+/* (No Comment) */
+"SourceTemplate_ChurchRecord_Books" = "Templom felvétel (könyvek)";
+
+/* (No Comment) */
+"SourceTemplate_ChurchRecord_Digital" = "Templom felvétel (digitális)";
+
+/* (No Comment) */
+"SourceTemplate_ChurchRecord_Microfilm" = "Templom felvétel (mikrofilm)";
+
+/* (No Comment) */
+"SourceTemplate_CorporateRecord_Digital" = "Vállalati felvétel (digitális)";
+
+/* (No Comment) */
+"SourceTemplate_CorporateRecord_Microfilm" = "Vállalati felvétel (mikrofilm)";
+
+/* (No Comment) */
+"SourceTemplate_CorporateRecord_PhysicalCopy" = "Vállalati felvétel (fizikai másolat)";
+
+/* (No Comment) */
+"SourceTemplate_CourtDocuments" = "Bírósági dokumentumok";
+
+/* (No Comment) */
+"SourceTemplate_Deed" = "Okirat/Dokumentum";
+
+/* (No Comment) */
+"SourceTemplate_DiaryOrJournal" = "Napló";
+
+/* (No Comment) */
+"SourceTemplate_DraftRegistration" = "Katonai behívó/regisztráció";
+
+/* (No Comment) */
+"SourceTemplate_EmailMessage" = "Email üzenet";
+
+/* (No Comment) */
+"SourceTemplate_EmigrationRecord_Digital" = "Kivándorlási felvétel (digitális)";
+
+/* (No Comment) */
+"SourceTemplate_EmigrationRecord_Microfilm" = "Kivándorlási felvétel (mikrofilm)";
+
+/* (No Comment) */
+"SourceTemplate_EmigrationRecord_PhysicalCopy" = "Kivándorlási felvétel (fizikai másolat)";
+
+/* (No Comment) */
+"SourceTemplate_FamilyBible" = "Családi biblia";
+
+/* (No Comment) */
+"SourceTemplate_FamilyChart" = "Családdiagram";
+
+/* (No Comment) */
+"SourceTemplate_FamilySearch" = "FamilySearch";
+
+/* (No Comment) */
+"SourceTemplate_FuneralHomeRecord" = "Ravatalozó felvétel";
+
+/* SourceTemplate */
+"SourceTemplate_Generic" = "Generikus";
+
+/* (No Comment) */
+"SourceTemplate_GraveMarkers" = "Síremlék";
+
+/* (No Comment) */
+"SourceTemplate_HistoricalLetter_Digital" = "Történelmi levél (digitális)";
+
+/* (No Comment) */
+"SourceTemplate_HistoricalLetter_Microfilm" = "Történelmi levél (mikrofilm)";
+
+/* (No Comment) */
+"SourceTemplate_HistoricalLetter_PhysicalCopy" = "Történelmi levél (fizikai másolat)";
+
+/* (No Comment) */
+"SourceTemplate_HistoricalResearch" = "Történelmi böngésző";
+
+/* (No Comment) */
+"SourceTemplate_ImmigrationRecord_Digital" = "Bevándorlás felvétel (digitális)";
+
+/* (No Comment) */
+"SourceTemplate_ImmigrationRecord_Microfilm" = "Bevándorlás felvétel (mikrofilm)";
+
+/* (No Comment) */
+"SourceTemplate_ImmigrationRecord_PhysicalCopy" = "Bevándorlás felvétel (fizikai másolat)";
+
+/* (No Comment) */
+"SourceTemplate_Interview_Digital" = "Interjú (digitális)";
+
+/* (No Comment) */
+"SourceTemplate_Interview_Microfilm" = "Interjú (mikrofilm)";
+
+/* (No Comment) */
+"SourceTemplate_Interview_PhysicalCopy" = "Interjú (fizikai másolat)";
+
+/* _SourceTemplate_KeyName */
+"SourceTemplate_KeyName_Abbreviation" = "Rövidítés";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Agency" = "Ügynökség";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Author" = "Szerző";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_AuthorAddress" = "Szerző lakcíme";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_AuthorCredentials" = "Szerzői hitelesítő adatok";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_BookPeriodicalName" = "Könyv/folyóirat neve";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_CallNumber" = "Hívószám";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Cemetery" = "Temető";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_CensusYear" = "Népszámlálás éve";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Church" = "Templom";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Collection" = "Gyűjtemény";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Compiler" = "Fordító";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Congress" = "Kongresszus";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_ContactPerson" = "Kapcsolattartó";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Copyright" = "Szerzői jog";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_County" = "Megye";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Court" = "Bíróság";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Date" = "Dátum";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_DateViewed" = "Megtekintés dátuma";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Detail" = "Részlet";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Edition" = "Kiadás";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_FileNumber" = "Fájl-szám";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_FilmNumber" = "Filmszám";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_FilmType" = "Filmtípus";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_FolderLabel" = "Gyűjtőcímke";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Format" = "Formátum";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Informant" = "Informáns";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_InformantAddress" = "Informáns címe";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_InformantName" = "Informáns neve";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_InformantRelationship" = "Informáns rokonsága";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Interviewee" = "Interjú alany";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Interviewer" = "Riporter";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Issue" = "Probléma";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_LocationOfSource" = "Források helye";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_MediaType" = "Médiumtípus";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_MicrofilmRollNumber" = "Mikrofilm tekercs száma";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_MilitaryDivision" = "Katonai hadosztály";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_NumberOfRolls" = "Tekercsek száma";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_OrderNumber" = "Rendelésszám";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Organization" = "Szervezet";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_OtherAuthors" = "Más szerzők";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_OtherSubjects" = "Más tárgyak";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Owner" = "Tulajdonos";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_OwnerAddress" = "Tulajdonos címe";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_OwnerLocation" = "Tulajdonos helye";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Page" = "Oldalszám";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Place" = "Hely";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Presenter" = "Előadó";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Publication" = "Publikáció";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Publisher" = "Kiadó";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Recipient" = "Befogadó";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Recorder" = "Feljegyző";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_RecordGroup" = "Felvételcsoport";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_ReferenceNumber" = "Hivatkozási szám";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_ReferenceType" = "Hivatkozási típus";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Register" = "Nyilvántartás";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Schedule" = "Lista";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_School" = "Iskola";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_SerialNumber" = "Sorozatszám";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Series" = "Sorozat";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_SeriesTitle" = "Sorozatcím";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Session" = "Használati idő";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_StateOrCountry" = "Állam vagy ország";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_StateTerritory" = "Állam/terület";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Subject" = "Tárgy";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Submitter" = "Beküldő";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Title" = "Titulus";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_TownshipCivilDistrict" = "Város/Kerület";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Tribe" = "Törzs";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Vessel" = "Hajó";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_VolumeNumber" = "Kötetszám";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Volumes" = "Kötetek";
+
+/* (No Comment) */
+"SourceTemplate_LandGrantRegister" = "Földhivatali nyilvántartás";
+
+/* (No Comment) */
+"SourceTemplate_LandRecord_Digital" = "Telekkönyvi felvétel (digitális)";
+
+/* (No Comment) */
+"SourceTemplate_LandRecord_Microfilm" = "Telekkönyvi felvétel (mikrofilm)";
+
+/* (No Comment) */
+"SourceTemplate_LandRecord_PhysicalCopy" = "Telekkönyvi felvétel (fizikai másolat)";
+
+/* (No Comment) */
+"SourceTemplate_LegalDocument_Digital" = "Jogi dokumentum (digitális)";
+
+/* (No Comment) */
+"SourceTemplate_LegalDocument_Microfilm" = "Jogi dokumentum (mikrofilm)";
+
+/* (No Comment) */
+"SourceTemplate_LegalDocument_PhysicalCopy" = "Jogi dokumentum (fizikai másolat)";
+
+/* (No Comment) */
+"SourceTemplate_LegalGeneticTesting" = "Törvényes genetikai tesztelés";
+
+/* (No Comment) */
+"SourceTemplate_Letter" = "Levél";
+
+/* (No Comment) */
+"SourceTemplate_LocalAndStateRecord_Digital" = "Helyi és állami felvétel (digitális)";
+
+/* (No Comment) */
+"SourceTemplate_LocalAndStateRecord_Microfilm" = "Helyi és állami felvétel (mikrofilm)";
+
+/* (No Comment) */
+"SourceTemplate_LocalAndStateRecord_PhysicalCopy" = "Helyi és állami felvétel (fizikai másolat)";
+
+/* (No Comment) */
+"SourceTemplate_ManuscriptRecord" = "Kéziratfelvétel";
+
+/* (No Comment) */
+"SourceTemplate_Map" = "Térkép";
+
+/* (No Comment) */
+"SourceTemplate_MedicalRecord" = "Orvosi felvétel";
+
+/* (No Comment) */
+"SourceTemplate_MilitaryRecord" = "Katonai felvétel";
+
+/* (No Comment) */
+"SourceTemplate_NationalGovernmentRecord_Digital" = "Nemzeti kormányzati nyilvántartás (digitális)";
+
+/* (No Comment) */
+"SourceTemplate_NationalGovernmentRecord_Microfilm" = "Nemzeti kormányzati nyilvántartás (mikrofilm)";
+
+/* (No Comment) */
+"SourceTemplate_NationalGovernmentRecord_PhysicalCopy" = "Nemzeti kormányzati nyilvántartás (fizikai másolat)";
+
+/* (No Comment) */
+"SourceTemplate_NativeAmericanTribalCensus" = "Indián törzsi népszámlálás";
+
+/* (No Comment) */
+"SourceTemplate_NaturalizationRecord" = "Honosítási felvétel";
+
+/* (No Comment) */
+"SourceTemplate_Newspaper" = "Újság";
+
+/* (No Comment) */
+"SourceTemplate_NonLegalPrivateGeneticTesting" = "Nem törvényes/privát genetikai tesztelés";
+
+/* (No Comment) */
+"SourceTemplate_PassengerList" = "Utaslista";
+
+/* (No Comment) */
+"SourceTemplate_PensionFile" = "Nyugdíj fájl";
+
+/* (No Comment) */
+"SourceTemplate_Periodical" = "Folyóirat";
+
+/* (No Comment) */
+"SourceTemplate_PersonalBible" = "Személyes Biblia";
+
+/* (No Comment) */
+"SourceTemplate_PersonalCorrespondence" = "Személyes levelezés";
+
+/* (No Comment) */
+"SourceTemplate_Portrait" = "Portré";
+
+/* (No Comment) */
+"SourceTemplate_PreservationFilm" = "Tartósító film";
+
+/* (No Comment) */
+"SourceTemplate_ResearchReport_Digital" = "Kutatási beszámoló (digitális)";
+
+/* (No Comment) */
+"SourceTemplate_ResearchReport_Microfilm" = "Kutatási beszámoló (mikrofilm)";
+
+/* (No Comment) */
+"SourceTemplate_ResearchReport_PhysicalCopy" = "Kutatási beszámoló (fizikai másolat)";
+
+/* (No Comment) */
+"SourceTemplate_SchoolRecord_Digital" = "Iskolai felvétel (digitális)";
+
+/* (No Comment) */
+"SourceTemplate_SchoolRecord_Microfilm" = "Iskolai felvétel (mikrofilm)";
+
+/* (No Comment) */
+"SourceTemplate_SchoolRecord_PhysicalCopy" = "Iskolai felvétel (fizikális másolat)";
+
+/* (No Comment) */
+"SourceTemplate_TaxList" = "Adójegyzék";
+
+/* (No Comment) */
+"SourceTemplate_UnpublishedNarrative" = "Megnevezetlen elbeszélés";
+
+/* (No Comment) */
+"SourceTemplate_USCongressionalRecord_Digital" = "USA Kongresszusi felvétel (digitális)";
+
+/* (No Comment) */
+"SourceTemplate_USCongressionalRecord_Microfilm" = "USA Kongresszusi felvétel (mikrofilm)";
+
+/* (No Comment) */
+"SourceTemplate_VerticalFile" = "Függőleges fájl";
+
+/* (No Comment) */
+"SourceTemplate_Video" = "Videó";
+
+/* (No Comment) */
+"SourceTemplate_VitalRecord" = "Anyakönyvi kivonat";
+
+/* (No Comment) */
+"SourceTemplate_VitalRecord_BirthCertificate" = "Születési anyakönyvi kivonat";
+
+/* (No Comment) */
+"SourceTemplate_VitalRecord_DeathCertificate" = "Elhalálozási anyakönyvi kivonat";
+
+/* (No Comment) */
+"SourceTemplate_VitalRecord_DivorceCertificate" = "Válási anyakönyvi kivonat";
+
+/* (No Comment) */
+"SourceTemplate_VitalRecord_MarriageLicense" = "Házasságkötési anyakönyvi kivonat";
+
+/* (No Comment) */
+"SourceTemplate_WebSite" = "Honlap";
+
+/* (No Comment) */
+"SourceTemplate_Will" = "Végrendelet";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationBracketMode_AngleBrackets" = "Szögzárójelek";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationBracketMode_Brackets" = "Kerek zárójelek";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationBracketMode_CurlyBrackets" = "Kapcsos zárójelek";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationBracketMode_DoubleQuotes" = "Dupla idézőjel";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationBracketMode_None" = "Nincs";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationBracketMode_SingleQuotes" = "Egyszeres idézőjel";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationFontMode_Bold" = "Kövér betű";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationFontMode_Italic" = "Dőlt betű";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationFontMode_Normal" = "Normál betű";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationMode_Long" = "Hosszú idézet stílusa";
+
+/* SourceTemplateKeyRelation - Enums */
+"SourceTemplateKeyRelation_CitationMode_Short" = "Rövid idézet stílusa";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationTrailingMode_Colon" = "Kettőspont";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationTrailingMode_Comma" = "Vessző";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationTrailingMode_Hyphen" = "Kötőjel";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationTrailingMode_Period" = "Pont";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationTrailingMode_Semicolon" = "Pontosvessző";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationTrailingMode_Space" = "Szóköz";
+

@@ -1,0 +1,318 @@
+﻿/* (No Comment) */
+"_EditPlaceTemplateKeysController_MergeTemplateKeysConflictInformative" = "Je staat op het punt het plaatsveld '%@' samen te voegen met het plaatsveld '%@', maar op sommige plekken in je family tree zijn beide plaatsvelden aanwezig in één enkele plaats. Bepaal hoe je hiermee wilt doorgaan:";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_MergeTemplateKeysConflictKeepBoth" = "Behoud beide waarden";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_MergeTemplateKeysConflictKeepSingle" = "Waarde van %@ behouden";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_MergeTemplateKeysConflictMessage" = "Plaatsvelden samenvoegen";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_MergeTemplateKeysDoneInformative" = "Plaatsveld '%@' is samengevoegd met Plaatsveld '%@'.";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_MergeTemplateKeysDoneMessage" = "Plaats Velden samengevoegd";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_ReallyMergeTemplateKeysInformative" = "Wil je de sjabloonvelden '%@' en '%@' echt samenvoegen? Daarna worden deze één enkel sjabloonveld.";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_ReallyMergeTemplateKeysMessage" = "Sjabloonvelden echt samenvoegen?";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_RemoveTemplateKeyInformative" = "Wil je het geselecteerde sjabloonveld echt verwijderen? Er is nog informatie ingevoerd voor dit sjabloonveld die permanent zal worden verwijderd.";
+
+/* EditPlaceTemplateKeysController */
+"_EditPlaceTemplateKeysController_RemoveTemplateKeyMessage" = "Wil je het sjabloonveld echt verwijderen? Alle velden van plaatsen worden permanent verwijderd.";
+
+/* (No Comment) */
+"_EditPlaceTemplatesController_MergeTemplateDoneMessage" = "Sjablonen samengevoegd";
+
+/* (No Comment) */
+"_EditPlaceTemplatesController_MergeTemplatesDoneInformative" = "De plaatsensjablonen '%@' en '%@' zijn succesvol samengevoegd.";
+
+/* (No Comment) */
+"_EditPlaceTemplatesController_ReallyMergeTemplateInformative" = "Wil je de sjablonen '%@' en '%@' echt samenvoegen? Daarna worden deze één enkel sjabloon.";
+
+/* (No Comment) */
+"_EditPlaceTemplatesController_ReallyMergeTemplateMessage" = "Sjablonen echt samenvoegen?";
+
+/* (No Comment) */
+"_EditPlaceTemplatesController_RemoveTemplateInformative" = "Weet je zeker dat je dit plaatsensjabloon wilt verwijderen? Er zijn plaatsen gekoppeld aan dit sjabloon die ook permanent worden verwijderd als je dit plaatsensjabloon verwijdert.";
+
+/* EditPlaceTemplatesController */
+"_EditPlaceTemplatesController_RemoveTemplateMessage" = "Wil je het plaatsensjabloon echt verwijderen? Alle gekoppelde plaatsen worden permanent verwijderd.";
+
+/* (No Comment) */
+"_PlaceTemplate_PlacesCount" = "%d Plaatsen";
+
+/* Counts */
+"_PlaceTemplate_PlacesCountSingular" = "%d Plaats";
+
+/* Relation Usage */
+"_RelationUsage_AdministrativeDivision1" = "Administratieve afdeling 1";
+
+/* (No Comment) */
+"_RelationUsage_AdministrativeDivision2" = "Administratieve afdeling 2";
+
+/* (No Comment) */
+"_RelationUsage_AdministrativeDivision3" = "Administratieve afdeling 3";
+
+/* (No Comment) */
+"_RelationUsage_AdministrativeDivision4" = "Administratieve afdeling 4";
+
+/* (No Comment) */
+"_RelationUsage_AdministrativeDivision5" = "Administratieve afdeling 5";
+
+/* (No Comment) */
+"_RelationUsage_AdministrativeDivisionOther" = "Andere administratieve afdeling";
+
+/* (No Comment) */
+"_RelationUsage_CountryName" = "Naam van het land";
+
+/* (No Comment) */
+"_RelationUsage_PlaceName" = "Plaatsnaam";
+
+/* (No Comment) */
+"PlaceTemplate_Australia" = "Australië";
+
+/* (No Comment) */
+"PlaceTemplate_Austria" = "Oosterijk";
+
+/* (No Comment) */
+"PlaceTemplate_Belgium" = "België";
+
+/* (No Comment) */
+"PlaceTemplate_Bosnia and Herzegovina" = "Bosnië en Herzegovina";
+
+/* (No Comment) */
+"PlaceTemplate_Brazil" = "Brazilië";
+
+/* (No Comment) */
+"PlaceTemplate_Bulgaria" = "Bulgarije";
+
+/* (No Comment) */
+"PlaceTemplate_Canada (Province)" = "Canada (Provincie)";
+
+/* (No Comment) */
+"PlaceTemplate_Canada (Territory)" = "Canada (Gebied)";
+
+/* (No Comment) */
+"PlaceTemplate_China" = "China";
+
+/* (No Comment) */
+"PlaceTemplate_Croatia" = "Kroatië";
+
+/* (No Comment) */
+"PlaceTemplate_Czechia" = "Tsjechië";
+
+/* (No Comment) */
+"PlaceTemplate_Denmark" = "Denemarken";
+
+/* (No Comment) */
+"PlaceTemplate_England (Borough)" = "Engeland (Gemeente)";
+
+/* (No Comment) */
+"PlaceTemplate_England (Parish)" = "Engeland (Parochie)";
+
+/* (No Comment) */
+"PlaceTemplate_Finland" = "Finland";
+
+/* (No Comment) */
+"PlaceTemplate_France" = "Frankrijk";
+
+/* Templates */
+"PlaceTemplate_Generic" = "Algemeen";
+
+/* (No Comment) */
+"PlaceTemplate_Generic_Level" = "Algemeen (%d niveaus)";
+
+/* (No Comment) */
+"PlaceTemplate_Generic_OneComponent" = "Algemeen (één niveau)";
+
+/* (No Comment) */
+"PlaceTemplate_Generic_ThreeComponents" = "Algemeen (drie niveaus)";
+
+/* (No Comment) */
+"PlaceTemplate_Generic_TwoComponents" = "Algemeen (twee niveaus)";
+
+/* (No Comment) */
+"PlaceTemplate_Germany" = "Duitsland";
+
+/* (No Comment) */
+"PlaceTemplate_Greece" = "Griekenland";
+
+/* (No Comment) */
+"PlaceTemplate_Hungary" = "Hongarije";
+
+/* (No Comment) */
+"PlaceTemplate_Ireland" = "Ierland";
+
+/* (No Comment) */
+"PlaceTemplate_Italy" = "Italië";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Administrative Divison" = "Administratieve afdeling";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Administrative Unit" = "Administratieve eenheid";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Autonomos Region" = "Autonome regio";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Borough" = "Gemeente";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Canton" = "Kanton";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Commune" = "Gemeente";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Country" = "Land";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_County" = "Provincie";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Decentralized Administration" = "Gedecentraliseerd bestuur";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Department" = "Afdeling";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_District" = "District";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Federal District" = "Federaal District";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Federal Subject" = "Federaal onderwerp";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Kray" = "Kray";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Level" = "Niveau %d";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Municipality" = "Gemeente";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Oblast" = "Oblast";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Parish" = "Parochie";
+
+/* Template Keys */
+"PlaceTemplate_KeyName_Place" = "Plaats";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Province" = "Provincie";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Region" = "Regio";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Republic" = "Republiek";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_State" = "Staat";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Territory" = "Gebied";
+
+/* (No Comment) */
+"PlaceTemplate_Mexico" = "Mexico";
+
+/* (No Comment) */
+"PlaceTemplate_Netherlands" = "Nederland";
+
+/* (No Comment) */
+"PlaceTemplate_Norway" = "Noorwegen";
+
+/* (No Comment) */
+"PlaceTemplate_Poland" = "Polen";
+
+/* (No Comment) */
+"PlaceTemplate_Portugal" = "Portugal";
+
+/* (No Comment) */
+"PlaceTemplate_Romania" = "Roemenië";
+
+/* (No Comment) */
+"PlaceTemplate_Russia" = "Rusland";
+
+/* (No Comment) */
+"PlaceTemplate_Serbia" = "Servië";
+
+/* (No Comment) */
+"PlaceTemplate_Slovakia" = "Slowakije";
+
+/* (No Comment) */
+"PlaceTemplate_Slovenia" = "Slovenië";
+
+/* (No Comment) */
+"PlaceTemplate_Spain" = "Spanje";
+
+/* (No Comment) */
+"PlaceTemplate_Sweden" = "Zweden";
+
+/* (No Comment) */
+"PlaceTemplate_Switzerland" = "Zwitserland";
+
+/* (No Comment) */
+"PlaceTemplate_United Kingdom" = "Verenigd Koninkrijk";
+
+/* (No Comment) */
+"PlaceTemplate_United States of America" = "Verenigde Staten van Amerika";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationBracketMode_AngleBrackets" = "Hoek haakjes";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationBracketMode_Brackets" = "Ronde haakjes";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationBracketMode_CurlyBrackets" = "Gekrulde haakjes";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationBracketMode_DoubleQuotes" = "Dubbele aanhalingstekens";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationBracketMode_None" = "Geen";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationBracketMode_SingleQuotes" = "Enkele aanhalingstekens";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationMode_Normal" = "Normaal";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationMode_Short" = "Kort";
+
+/* Enums */
+"PlaceTemplateKeyRelation_CitationMode_VeryShort" = "Heel kort";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationTrailingMode_Colon" = "Kolon";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationTrailingMode_Comma" = "Komma";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationTrailingMode_Hyphen" = "Koppelteken";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationTrailingMode_Period" = "Periode";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationTrailingMode_Semicolon" = "Puntkomma";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationTrailingMode_Space" = "Witte ruimte";
+

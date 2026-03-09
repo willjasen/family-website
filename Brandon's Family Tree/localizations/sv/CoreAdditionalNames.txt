@@ -1,0 +1,60 @@
+﻿/* (No Comment) */
+"_AdditionalName_AdoptiveName" = "Adoptivnamn";
+
+/* (No Comment) */
+"_AdditionalName_ArtistsName" = "Artistnamn";
+
+/* (No Comment) */
+"_AdditionalName_DoubleBarrelledName" = "Dubbelnamn";
+
+/* (No Comment) */
+"_AdditionalName_FamilyName" = "Familjenamn";
+
+/* (No Comment) */
+"_AdditionalName_FormalName" = "Formellt namn";
+
+/* AdditionalNameType */
+"_AdditionalName_MaidenName" = "Namn vid födelse";
+
+/* (No Comment) */
+"_AdditionalName_MarriedName" = "Namn som gift";
+
+/* (No Comment) */
+"_AdditionalName_NameVariation" = "Namnvariant";
+
+/* (No Comment) */
+"_AdditionalName_Nickname" = "Smeknamn";
+
+/* (No Comment) */
+"_AdditionalName_Other" = "Annat namn";
+
+/* (No Comment) */
+"_AdditionalName_Prefix_MaidenName_ForFemale" = "Född";
+
+/* Prefix */
+"_AdditionalName_Prefix_MaidenName_ForMale" = "Född";
+
+/* (No Comment) */
+"_AdditionalName_ProfessionalName" = "Artistnamn";
+
+/* (No Comment) */
+"_AdditionalName_ReligiousName" = "Religiöst namn";
+
+/* (No Comment) */
+"_AdditionalName_Title" = "Titel";
+
+/* Configs */
+"_Person_AdditionalNamePreferenceConfiguration_All" = "Alla";
+
+/* (No Comment) */
+"_Person_AdditionalNamePreferenceConfiguration_None" = "Inget";
+
+/* (No Comment) */
+"_Person_AdditionalNamePreferenceConfiguration_OnlyFamilyName" = "Endast efternamn";
+
+/* (No Comment) */
+"_Person_AdditionalNamePreferenceConfiguration_OnlyMarriedName" = "Endast namn som gift";
+
+/* (No Comment) */
+"_Person_AdditionalNamePreferenceConfiguration_OnlyNickName" = "Endast smeknamn";
+

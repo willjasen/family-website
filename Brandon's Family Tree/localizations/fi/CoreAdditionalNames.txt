@@ -1,0 +1,60 @@
+﻿/* (No Comment) */
+"_AdditionalName_AdoptiveName" = "Adoptionimi";
+
+/* (No Comment) */
+"_AdditionalName_ArtistsName" = "Taiteilijanimi";
+
+/* (No Comment) */
+"_AdditionalName_DoubleBarrelledName" = "Kaksoisnimi";
+
+/* (No Comment) */
+"_AdditionalName_FamilyName" = "Sukunimi";
+
+/* (No Comment) */
+"_AdditionalName_FormalName" = "Muodollinen nimi";
+
+/* AdditionalNameType */
+"_AdditionalName_MaidenName" = "Syntymänimi";
+
+/* (No Comment) */
+"_AdditionalName_MarriedName" = "Avioliittonimi";
+
+/* (No Comment) */
+"_AdditionalName_NameVariation" = "Nimen muunnos";
+
+/* (No Comment) */
+"_AdditionalName_Nickname" = "Lempinimi";
+
+/* (No Comment) */
+"_AdditionalName_Other" = "Muu nimi";
+
+/* (No Comment) */
+"_AdditionalName_Prefix_MaidenName_ForFemale" = "o.s.";
+
+/* Prefix */
+"_AdditionalName_Prefix_MaidenName_ForMale" = "ent.";
+
+/* (No Comment) */
+"_AdditionalName_ProfessionalName" = "Ammattinimi";
+
+/* (No Comment) */
+"_AdditionalName_ReligiousName" = "Uskonnollinen nimi";
+
+/* (No Comment) */
+"_AdditionalName_Title" = "Titteli";
+
+/* Configs */
+"_Person_AdditionalNamePreferenceConfiguration_All" = "Kaikki";
+
+/* (No Comment) */
+"_Person_AdditionalNamePreferenceConfiguration_None" = "Ei mitään";
+
+/* (No Comment) */
+"_Person_AdditionalNamePreferenceConfiguration_OnlyFamilyName" = "Vain Sukunimi";
+
+/* (No Comment) */
+"_Person_AdditionalNamePreferenceConfiguration_OnlyMarriedName" = "Vain Avioliittonimi";
+
+/* (No Comment) */
+"_Person_AdditionalNamePreferenceConfiguration_OnlyNickName" = "Vain Lempinimi";
+

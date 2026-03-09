@@ -1,0 +1,594 @@
+﻿/* (No Comment) */
+"_EditSourceTemplateKeysController_MergeTemplateKeysConflictInformative" = "Olet aikeissa liittää lähdekentän '%@' lähdekenttään '%@', mutta joissakin sukupuusi lähteissä molemmat lähdekentät ovat käytössä yhdessä lähteessä. Päätä kuinka näiden lähteiden kanssa edetään:";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_MergeTemplateKeysConflictKeepBoth" = "Pidä molemmat arvot";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_MergeTemplateKeysConflictKeepSingle" = "Pidä arvo %@";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_MergeTemplateKeysConflictMessage" = "Yhdistä lähdekentät";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_MergeTemplateKeysDoneInformative" = "Lähdekenttä '%@' on yhdistetty lähdekentän '%@' kanssa";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_MergeTemplateKeysDoneMessage" = "Lähdekentät yhdistetty";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_ReallyMergeTemplateKeysInformative" = "Haluatko todella yhdistää mallikentät '%@' ja '%@'? Tämän jälkeen niistä tulee yksi mallikenttä.";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_ReallyMergeTemplateKeysMessage" = "Yhdistetäänkö nämä mallikentät todella?";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_RemoveTemplateKeyInformative" = "Haluatko todella poistaa valitun mallikentän? Tässä mallikentässä on edelleen syötettyjä tietoja, jotka poistetaan lopullisesti.";
+
+/* EditSourceTemplateKeysController */
+"_EditSourceTemplateKeysController_RemoveTemplateKeyMessage" = "Poistetaanko lähdekenttä todella? Tämä lähdekenttä poistetaan lopullisesti kaikista lähteistä.";
+
+/* (No Comment) */
+"_EditSourceTemplatesController_MergeTemplateDoneMessage" = "Lähdemallit yhdistetty";
+
+/* (No Comment) */
+"_EditSourceTemplatesController_MergeTemplatesDoneInformative" = "Lähdemallit '%@' ja '%@' on yhdistetty onnistetusti.";
+
+/* (No Comment) */
+"_EditSourceTemplatesController_ReallyMergeTemplateInformative" = "Haluatko todella yhdistää mallit '%@' ja '%@'? Tämän jälkeen niistä tulee yksi malli.";
+
+/* (No Comment) */
+"_EditSourceTemplatesController_ReallyMergeTemplateMessage" = "Yhdistetäänkö mallit todella?";
+
+/* (No Comment) */
+"_EditSourceTemplatesController_RemoveTemplateInformative" = "Oletko aivan varma, että haluat poistaa tämän lähdemallin? Tähän malliin on kirjattu lähteitä, jotka myös poistetaan lopullisesti jos poistat tämän lähdemallim.";
+
+/* EditSourceTemplatesController */
+"_EditSourceTemplatesController_RemoveTemplateMessage" = "Poistetaanko lähdemalli todella? Kaikki liitetyt lähteet poistetaan lopullisesti.";
+
+/* (No Comment) */
+"_SourceTemplate_SourcesCount" = "%d lähdettä";
+
+/* Counts */
+"_SourceTemplate_SourcesCountSingular" = "%d lähde";
+
+/* (No Comment) */
+"_SourceTemplateKey_Type_Date" = "Päivä";
+
+/* SourceTemplateKey */
+"_SourceTemplateKey_Type_Text" = "Teksti";
+
+/* (No Comment) */
+"SourceTemplate_AddressBook" = "Osoitekirja";
+
+/* (No Comment) */
+"SourceTemplate_Book" = "Kirja";
+
+/* (No Comment) */
+"SourceTemplate_BusinessOrganisationalRecord" = "Liiketoiminta organisatorinen asiakirja";
+
+/* (No Comment) */
+"SourceTemplate_CDROM" = "CD-ROM";
+
+/* (No Comment) */
+"SourceTemplate_CemeteryRecord_Digital" = "Hautausmaatallenne (Digitaalinen)";
+
+/* (No Comment) */
+"SourceTemplate_CemeteryRecord_Microfilm" = "Hautausmaatallenne (Mikrofilmi)";
+
+/* (No Comment) */
+"SourceTemplate_CemeteryRecord_PhysicalCopy" = "Hautausmaatallenne (Fyysinen kopio)";
+
+/* (No Comment) */
+"SourceTemplate_Census_Digital" = "Henkikirja (Digitaalinen)";
+
+/* (No Comment) */
+"SourceTemplate_Census_Microfilm" = "Henkikirja (Mikrofilmi)";
+
+/* (No Comment) */
+"SourceTemplate_Census_PhysicalCopy" = "Henkikirja (Fyysinen kopio)";
+
+/* (No Comment) */
+"SourceTemplate_ChurchRecord_Books" = "Kirkonkirja (Kirjat)";
+
+/* (No Comment) */
+"SourceTemplate_ChurchRecord_Digital" = "Kirkonkirja (Digitaalinen)";
+
+/* (No Comment) */
+"SourceTemplate_ChurchRecord_Microfilm" = "Kirkonkirja (Mikrofilmi)";
+
+/* (No Comment) */
+"SourceTemplate_CorporateRecord_Digital" = "Yritystallenne (Digitaalinen)";
+
+/* (No Comment) */
+"SourceTemplate_CorporateRecord_Microfilm" = "Yritystallenne (Mikrofilmi)";
+
+/* (No Comment) */
+"SourceTemplate_CorporateRecord_PhysicalCopy" = "Yritystallenne (Fyysinen kopio)";
+
+/* (No Comment) */
+"SourceTemplate_CourtDocuments" = "Oikeusdokumentti";
+
+/* (No Comment) */
+"SourceTemplate_Deed" = "Asiakirja";
+
+/* (No Comment) */
+"SourceTemplate_DiaryOrJournal" = "Päiväkirja";
+
+/* (No Comment) */
+"SourceTemplate_DraftRegistration" = "Palvelukseenastumismääräys";
+
+/* (No Comment) */
+"SourceTemplate_EmailMessage" = "Sähköpostiviesti";
+
+/* (No Comment) */
+"SourceTemplate_EmigrationRecord_Digital" = "Maastamuuttoasiakirja (Digitaalinen)";
+
+/* (No Comment) */
+"SourceTemplate_EmigrationRecord_Microfilm" = "Maastamuuttoasiakirja (Mikrofilmi)";
+
+/* (No Comment) */
+"SourceTemplate_EmigrationRecord_PhysicalCopy" = "Maastamuuttoasiakirja (Fyysinen kopio)";
+
+/* (No Comment) */
+"SourceTemplate_FamilyBible" = "Perheraamattu";
+
+/* (No Comment) */
+"SourceTemplate_FamilyChart" = "Perhekaavio";
+
+/* (No Comment) */
+"SourceTemplate_FamilySearch" = "FamilySearch";
+
+/* (No Comment) */
+"SourceTemplate_FuneralHomeRecord" = "Hautausasiakirja";
+
+/* SourceTemplate */
+"SourceTemplate_Generic" = "Yleistä";
+
+/* (No Comment) */
+"SourceTemplate_GraveMarkers" = "Hautakivi";
+
+/* (No Comment) */
+"SourceTemplate_HistoricalLetter_Digital" = "Historiallinen kirje (Digitaalinen)";
+
+/* (No Comment) */
+"SourceTemplate_HistoricalLetter_Microfilm" = "Historiallinen kirje (Mikrofilmi)";
+
+/* (No Comment) */
+"SourceTemplate_HistoricalLetter_PhysicalCopy" = "Historiallinen kirje (Fyysinen kopio)";
+
+/* (No Comment) */
+"SourceTemplate_HistoricalResearch" = "Historiallinen tutkimus";
+
+/* (No Comment) */
+"SourceTemplate_ImmigrationRecord_Digital" = "Maahantuloasiakirja (Digitaalinen)";
+
+/* (No Comment) */
+"SourceTemplate_ImmigrationRecord_Microfilm" = "Maahantuloasiakirja (Mikrofilmi)";
+
+/* (No Comment) */
+"SourceTemplate_ImmigrationRecord_PhysicalCopy" = "Maahantuloasiakirja (Fyysinen kopio)";
+
+/* (No Comment) */
+"SourceTemplate_Interview_Digital" = "Haastattelu (Digitaalinen)";
+
+/* (No Comment) */
+"SourceTemplate_Interview_Microfilm" = "Haastattelu (Mikrofilmi)";
+
+/* (No Comment) */
+"SourceTemplate_Interview_PhysicalCopy" = "Haastattelu (Fyysinen kopio)";
+
+/* _SourceTemplate_KeyName */
+"SourceTemplate_KeyName_Abbreviation" = "Lyhenne";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Agency" = "Viranomaiset";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Author" = "Tekijä";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_AuthorAddress" = "Tekijän osoite";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_AuthorCredentials" = "Tekijän valtakirja";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_BookPeriodicalName" = "Kirjan/aikakauslehden nimi";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_CallNumber" = "Arkistonumero";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Cemetery" = "Hautausmaa";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_CensusYear" = "Henkikirjan vuosi";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Church" = "Kirkko";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Collection" = "Kokoelma";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Compiler" = "Kokoaja";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Congress" = "Kongressi";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_ContactPerson" = "Yhteyshenkilö";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Copyright" = "Copyright";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_County" = "Maakunta";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Court" = "Oikeus";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Date" = "Päivä";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_DateViewed" = "Katsomispäivä";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Detail" = "Yksityiskohta";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Edition" = "Painos";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_FileNumber" = "Kansion numero";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_FilmNumber" = "Filmin numero";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_FilmType" = "Filmin tyyppi";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_FolderLabel" = "Kansion merkintä";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Format" = "Muoto";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Informant" = "Tietolähde";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_InformantAddress" = "Tietolähteen osoite";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_InformantName" = "Tietolähteen nimi";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_InformantRelationship" = "Suhde tietolähteeseen";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Interviewee" = "Haastateltu";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Interviewer" = "Haastattelija";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Issue" = "Julkaisu";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_LocationOfSource" = "Lähteen sijainti";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_MediaType" = "Mediatyyppi";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_MicrofilmRollNumber" = "Mikrofilmirullan numero";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_MilitaryDivision" = "Sotilasyksikkö";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_NumberOfRolls" = "Filmirullien määrä";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_OrderNumber" = "Käskynumero";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Organization" = "Organisaatio";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_OtherAuthors" = "Muut tekijät";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_OtherSubjects" = "Muut henkilöt";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Owner" = "Omistaja";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_OwnerAddress" = "Omistajan osoite";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_OwnerLocation" = "Omistajan sijainti";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Page" = "Sivu";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Place" = "Paikka";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Presenter" = "Esittäjä";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Publication" = "Julkaisu";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Publisher" = "Julkaisija";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Recipient" = "Saaja";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Recorder" = "Tallentaja";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_RecordGroup" = "Tallennusryhmä";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_ReferenceNumber" = "Viitenumero";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_ReferenceType" = "Viitetyyppi";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Register" = "Rekisteri";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Schedule" = "Aikataulu";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_School" = "Koulu";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_SerialNumber" = "Sarjanumero";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Series" = "Sarja";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_SeriesTitle" = "Sarjan otsikko";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Session" = "Istunto";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_StateOrCountry" = "Osavaltio tai maa";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_StateTerritory" = "Osavaltio/alue";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Subject" = "Henkilö";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Submitter" = "Välittäjä";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Title" = "Otsikko";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_TownshipCivilDistrict" = "Kaupunki/alue";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Tribe" = "Heimo";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Vessel" = "Alus";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_VolumeNumber" = "Nidosnumero";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Volumes" = "Nidokset";
+
+/* (No Comment) */
+"SourceTemplate_LandGrantRegister" = "Maakirjarekisteri";
+
+/* (No Comment) */
+"SourceTemplate_LandRecord_Digital" = "Maakirjamerkintä (Digitaalinen)";
+
+/* (No Comment) */
+"SourceTemplate_LandRecord_Microfilm" = "Maakirjamerkintä (Mikrofilmi)";
+
+/* (No Comment) */
+"SourceTemplate_LandRecord_PhysicalCopy" = "Maakirjamerkintä (Fyysinen kopio)";
+
+/* (No Comment) */
+"SourceTemplate_LegalDocument_Digital" = "Oikeuden dokumentti (Digitaalinen)";
+
+/* (No Comment) */
+"SourceTemplate_LegalDocument_Microfilm" = "Oikeuden dokumentti (Mikrofilmi)";
+
+/* (No Comment) */
+"SourceTemplate_LegalDocument_PhysicalCopy" = "Oikeuden dokumentti (Fyysinen kopio)";
+
+/* (No Comment) */
+"SourceTemplate_LegalGeneticTesting" = "Oikeuden geneettinen testaus";
+
+/* (No Comment) */
+"SourceTemplate_Letter" = "Kirje";
+
+/* (No Comment) */
+"SourceTemplate_LocalAndStateRecord_Digital" = "Kunnan- tai osavaltion asiakirja (Digitaalinen)";
+
+/* (No Comment) */
+"SourceTemplate_LocalAndStateRecord_Microfilm" = "Kunnan- tai osavaltion asiakirja (Mikrofilmi)";
+
+/* (No Comment) */
+"SourceTemplate_LocalAndStateRecord_PhysicalCopy" = "Kunnan- tai osavaltion asiakirja (Fyysinen kopio)";
+
+/* (No Comment) */
+"SourceTemplate_ManuscriptRecord" = "Käsikirjoituskirjaus";
+
+/* (No Comment) */
+"SourceTemplate_Map" = "Kartta";
+
+/* (No Comment) */
+"SourceTemplate_MedicalRecord" = "Lääketieteellinen kirjaus";
+
+/* (No Comment) */
+"SourceTemplate_MilitaryRecord" = "Sotavoimien kirjaus";
+
+/* (No Comment) */
+"SourceTemplate_NationalGovernmentRecord_Digital" = "Kansallisen hallinnon kirjaus (Digitaalinen)";
+
+/* (No Comment) */
+"SourceTemplate_NationalGovernmentRecord_Microfilm" = "Kansallisen hallinnon kirjaus (Mikrofilmi)";
+
+/* (No Comment) */
+"SourceTemplate_NationalGovernmentRecord_PhysicalCopy" = "Kansallisen hallinnon kirjaus (Fyysinen kopio)";
+
+/* (No Comment) */
+"SourceTemplate_NativeAmericanTribalCensus" = "Amerikan alkuperäiskansan väestönlasku";
+
+/* (No Comment) */
+"SourceTemplate_NaturalizationRecord" = "Kansalaistamisasiakirja";
+
+/* (No Comment) */
+"SourceTemplate_Newspaper" = "Sanomalehti";
+
+/* (No Comment) */
+"SourceTemplate_NonLegalPrivateGeneticTesting" = "Yksityinen geneettinen testi";
+
+/* (No Comment) */
+"SourceTemplate_PassengerList" = "Matkustajaluettelo";
+
+/* (No Comment) */
+"SourceTemplate_PensionFile" = "Eläkepäätös";
+
+/* (No Comment) */
+"SourceTemplate_Periodical" = "Aikakauslehti";
+
+/* (No Comment) */
+"SourceTemplate_PersonalBible" = "Henkilökohtainen raamattu";
+
+/* (No Comment) */
+"SourceTemplate_PersonalCorrespondence" = "Henkilökohtainen kirjeenvaihto";
+
+/* (No Comment) */
+"SourceTemplate_Portrait" = "Muotokuva";
+
+/* (No Comment) */
+"SourceTemplate_PreservationFilm" = "Konversointifilmi";
+
+/* (No Comment) */
+"SourceTemplate_ResearchReport_Digital" = "Tutkimusraportti (Digitaalinen)";
+
+/* (No Comment) */
+"SourceTemplate_ResearchReport_Microfilm" = "Tutkimusraportti (Mikrofilmi)";
+
+/* (No Comment) */
+"SourceTemplate_ResearchReport_PhysicalCopy" = "Tutkimusraportti (Fyysinen kopio)";
+
+/* (No Comment) */
+"SourceTemplate_SchoolRecord_Digital" = "Koulutodistus (Digitaalinen)";
+
+/* (No Comment) */
+"SourceTemplate_SchoolRecord_Microfilm" = "Koulutodistus (Mikrofilmi)";
+
+/* (No Comment) */
+"SourceTemplate_SchoolRecord_PhysicalCopy" = "Koulutodistus (Fyysinen kopio)";
+
+/* (No Comment) */
+"SourceTemplate_TaxList" = "Veroluettelo";
+
+/* (No Comment) */
+"SourceTemplate_UnpublishedNarrative" = "Julkaisematon kertomus";
+
+/* (No Comment) */
+"SourceTemplate_USCongressionalRecord_Digital" = "USA:n Kongressin tallenne (Digitaalinen)";
+
+/* (No Comment) */
+"SourceTemplate_USCongressionalRecord_Microfilm" = "USA:n Kongressin tallenne (Mikrofilmi)";
+
+/* (No Comment) */
+"SourceTemplate_VerticalFile" = "Riippukansio";
+
+/* (No Comment) */
+"SourceTemplate_Video" = "Video";
+
+/* (No Comment) */
+"SourceTemplate_VitalRecord" = "Henkilötodistus";
+
+/* (No Comment) */
+"SourceTemplate_VitalRecord_BirthCertificate" = "Henkilötodistus – Syntymätodistus";
+
+/* (No Comment) */
+"SourceTemplate_VitalRecord_DeathCertificate" = "Henkilötodistus – Kuolintodistus";
+
+/* (No Comment) */
+"SourceTemplate_VitalRecord_DivorceCertificate" = "Henkilötodistus – Erotodistus";
+
+/* (No Comment) */
+"SourceTemplate_VitalRecord_MarriageLicense" = "Henkilötodistus – Avioliittotodistus";
+
+/* (No Comment) */
+"SourceTemplate_WebSite" = "Webbisivu";
+
+/* (No Comment) */
+"SourceTemplate_Will" = "Testamentti";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationBracketMode_AngleBrackets" = "Kulmasulkeet";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationBracketMode_Brackets" = "Kaarisulkeet";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationBracketMode_CurlyBrackets" = "Aaltosulkeet";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationBracketMode_DoubleQuotes" = "Kokolainausmerkit";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationBracketMode_None" = "Ei mitään";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationBracketMode_SingleQuotes" = "Puolilainausmerkit";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationFontMode_Bold" = "Lihavoitu";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationFontMode_Italic" = "Kursiivi";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationFontMode_Normal" = "Normaali";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationMode_Long" = "Pitkä lainaustyyli";
+
+/* SourceTemplateKeyRelation - Enums */
+"SourceTemplateKeyRelation_CitationMode_Short" = "Lyhyt lainaustyyli";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationTrailingMode_Colon" = "Kaksoispiste";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationTrailingMode_Comma" = "Pilkku";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationTrailingMode_Hyphen" = "Väliviiva";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationTrailingMode_Period" = "Piste";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationTrailingMode_Semicolon" = "Puolipiste";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationTrailingMode_Space" = "Välilyönti";
+

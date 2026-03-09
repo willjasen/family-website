@@ -1,0 +1,60 @@
+﻿/* (No Comment) */
+"_AdditionalName_AdoptiveName" = "Adopteret navn";
+
+/* (No Comment) */
+"_AdditionalName_ArtistsName" = "Artist-/forfatternavn";
+
+/* (No Comment) */
+"_AdditionalName_DoubleBarrelledName" = "Dobbelt-navn";
+
+/* (No Comment) */
+"_AdditionalName_FamilyName" = "Familienavn";
+
+/* (No Comment) */
+"_AdditionalName_FormalName" = "Formelt navn";
+
+/* AdditionalNameType */
+"_AdditionalName_MaidenName" = "Navn ved fødsel";
+
+/* (No Comment) */
+"_AdditionalName_MarriedName" = "Giftenavn";
+
+/* (No Comment) */
+"_AdditionalName_NameVariation" = "Navnevariation";
+
+/* (No Comment) */
+"_AdditionalName_Nickname" = "Kælenavn";
+
+/* (No Comment) */
+"_AdditionalName_Other" = "Andet navn";
+
+/* (No Comment) */
+"_AdditionalName_Prefix_MaidenName_ForFemale" = "født";
+
+/* Prefix */
+"_AdditionalName_Prefix_MaidenName_ForMale" = "født";
+
+/* (No Comment) */
+"_AdditionalName_ProfessionalName" = "Professionelt navn";
+
+/* (No Comment) */
+"_AdditionalName_ReligiousName" = "Religiøst navn";
+
+/* (No Comment) */
+"_AdditionalName_Title" = "Titel";
+
+/* Configs */
+"_Person_AdditionalNamePreferenceConfiguration_All" = "Alle";
+
+/* (No Comment) */
+"_Person_AdditionalNamePreferenceConfiguration_None" = "Ingen";
+
+/* (No Comment) */
+"_Person_AdditionalNamePreferenceConfiguration_OnlyFamilyName" = "Kun familienavne";
+
+/* (No Comment) */
+"_Person_AdditionalNamePreferenceConfiguration_OnlyMarriedName" = "Kun giftenavne";
+
+/* (No Comment) */
+"_Person_AdditionalNamePreferenceConfiguration_OnlyNickName" = "Kun kælenavne";
+

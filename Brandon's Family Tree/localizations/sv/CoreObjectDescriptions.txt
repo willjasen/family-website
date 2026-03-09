@@ -1,0 +1,1704 @@
+﻿/* (No Comment) */
+"_AdditionalName_ChangeLog_Added" = "Ytterligare namn '%@' tillagt";
+
+/* (No Comment) */
+"_AdditionalName_ChangeLog_ConflictResolved" = "Konflikt med egenskap '%@' har blivit löst till '%@'";
+
+/* (No Comment) */
+"_AdditionalName_ChangeLog_Deleted" = "Ytterligare namn '%@' raderat";
+
+/* (No Comment) */
+"_AdditionalName_ChangeLogPropertyKey_FirstName" = "Förnamnet för '%@' ändrat från '%@' till '%@'";
+
+/* (No Comment) */
+"_AdditionalName_ChangeLogPropertyKey_LastName" = "Efternamnet för '%@' ändrat från '%@' till '%@'";
+
+/* (No Comment) */
+"_AdditionalName_ChangeLogPropertyKey_Type" = "Typ av ytterligare namn har ändrats från '%@' till '%@'";
+
+/* (No Comment) */
+"_BaseMedia_ChangeLog_Added" = "Media tillagt";
+
+/* (No Comment) */
+"_BaseMedia_ChangeLog_Deleted" = "Media '%@' raderat";
+
+/* (No Comment) */
+"_BaseMedia_ChangeLogKey" = "Media %@";
+
+/* (No Comment) */
+"_BaseMedia_ChangeLogPropertyKey_Date" = "Datum ändrat från '%@' till '%@'";
+
+/* (No Comment) */
+"_BaseMedia_ChangeLogPropertyKey_PDFFileIdentifier" = "PDF redigerad";
+
+/* (No Comment) */
+"_BaseMedia_ChangeLogPropertyKey_PictureFileIdentifier" = "Bilden redigerad";
+
+/* (No Comment) */
+"_BaseMedia_ChangeLogPropertyKey_Title" = "Titeln ändrad från '%@' till '%@'";
+
+/* Base Object Composite Images Modes */
+"_BaseObject_CompositeImages_Mode_None" = "Visa alltid platshållarikon";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_PrimaryImageFromPrimaryMediaContainer" = "Visa primär bild";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_PrimaryImageFromPrimaryMediaContainerAndConnectedMediaContainers" = "Visa primär bild, även hämtad från anslutna poster";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_UpToSixImagesFromPrimaryMediaContainer" = "Visa upp till sex bilder";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_UpToSixImagesFromPrimaryMediaContainerAndConnectedMediaContainers" = "Visa upp till sex bilder, även hämtade från anslutna poster";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_UpToTenImagesFromPrimaryMediaContainer" = "Visa upp till tio bilder";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_UpToTenImagesFromPrimaryMediaContainerAndConnectedMediaContainers" = "Visa upp till tio bilder, även hämtade från anslutna poster";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_UpToThreeImagesFromPrimaryMediaContainer" = "Visa upp till tre bilder";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_UpToThreeImagesFromPrimaryMediaContainerAndConnectedMediaContainers" = "Visa upp till tre bilder, även hämtade från anslutna poster";
+
+/* (No Comment) */
+"_ChangeLog_NoValuePlaceholder" = "Inget värde";
+
+/* Change Log */
+"_ChangeLogEntry_ObjectIsStillPresentTooltip" = "Denna post finns fortfarande i databasen";
+
+/* (No Comment) */
+"_ChangeLogEntry_ObjectNoLongerPresentTooltip" = "Denna post har raderats från databasen och är inte längre tillgänglig";
+
+/* (No Comment) */
+"_ChildRelation_ChangeLog_Deleted" = "Barn '%@' raderat från familjen";
+
+/* (No Comment) */
+"_ChildRelation_ChangeLog_Deleted_Child" = "Har tagits bort som barn från familj '%@'";
+
+/* (No Comment) */
+"_ChildRelation_ChangeLogPropertyKey_Child" = "Barn '%@' tillagt";
+
+/* (No Comment) */
+"_ChildRelation_ChangeLogPropertyKey_Family" = "Har lagts till som barn till familj '%@'";
+
+/* (No Comment) */
+"_ChildRelation_ChangeLogPropertyKey_RelationTypeToManInFamily" = "Barnrelationstyp till fadern till barnet '%@' har ändrats från '%@' till '%@'";
+
+/* (No Comment) */
+"_ChildRelation_ChangeLogPropertyKey_RelationTypeToWomanInFamily" = "Barnrelationstyp till moder av barnet '%@' har ändrats från '%@' till '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLog_Added" = "Händelse '%@' tillagd";
+
+/* (No Comment) */
+"_Event_ChangeLog_ConflictResolvedForAssignedPlace" = "Konflikt med ort för händelse '%@' löst till '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLog_ConflictResolvedForAssignedPlaceDetail" = "Konflikt med ort för händelse '%@' löst till '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLog_ConflictResolvedForCoordinate" = "Konflikt med koordinater för händelse '%@' löst till '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLog_ConflictResolvedForGenericProperty" = "Konflikt med egenskap '%@' för händelse '%@' löst till '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLog_Deleted" = "Händelse '%@' raderad";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_Address" = "Adressen för händelse '%@' ändrad från '%@' till '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_Agency" = "Myndighet för händelse '%@' ändrad från '%@' till '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_AssignedPlace" = "Ort för händelse '%@' ändrad till '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_AssignedPlaceDetail" = "Ortsdetalj för händelse '%@' ändrad till '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_Cause" = "Orsak för händelse '%@' ändrad från '%@' till '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_Coordinate" = "Koordinaterna för händelse '%@' ändrade till '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_Date" = "Datum för händelse '%@' ändrat från '%@' till '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_Time" = "Tidpunkten för händelse '%@’ har ändrats från '%@' till '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_Type" = "Händelsetyp ändrad från '%@' till '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_UserDescription" = "Beskrivning av händelse '%@' ändrad från '%@' till '%@'";
+
+/* (No Comment) */
+"_Fact_ChangeLog_Added" = "Fakta '%@' tillagd";
+
+/* (No Comment) */
+"_Fact_ChangeLog_ConflictResolvedForValue" = "Konflikt med fakta '%@' löst till '%@'";
+
+/* (No Comment) */
+"_Fact_ChangeLog_Deleted" = "Fakta '%@' raderad";
+
+/* (No Comment) */
+"_Fact_ChangeLogPropertyKey_Type" = "Uppgiftstyp ändrad från '%@' till '%@'";
+
+/* (No Comment) */
+"_Fact_ChangeLogPropertyKey_Value" = "Uppgift '%@' ändrad från '%@' till '%@'";
+
+/* (No Comment) */
+"_Family_ChangeLog_Added" = "Tillagd familj";
+
+/* (No Comment) */
+"_Family_ChangeLog_ConflictResolvedForMan" = "Konflikt med anvisad man löst till '%@'";
+
+/* (No Comment) */
+"_Family_ChangeLog_ConflictResolvedForWoman" = "Konflikt med anvisad kvinna löst till '%@'";
+
+/* (No Comment) */
+"_Family_ChangeLog_Deleted" = "Raderad familj";
+
+/* (No Comment) */
+"_Family_ChangeLogKey" = "Familj %@";
+
+/* (No Comment) */
+"_Family_ChangeLogPropertyKey_Man" = "Tillagd person '%@' som man";
+
+/* (No Comment) */
+"_Family_ChangeLogPropertyKey_Woman" = "Tillagd person '%@' som kvinna";
+
+/* (No Comment) */
+"_MediaRelation_ChangeLog_BaseMediaDeleted" = "Media '%@' raderad";
+
+/* (No Comment) */
+"_MediaRelation_ChangeLog_MediaContainerDeleted" = "'%@' raderat från media";
+
+/* (No Comment) */
+"_MediaRelation_ChangeLogPropertyKey_BaseMedia" = "Media '%@' tillagd";
+
+/* (No Comment) */
+"_MediaRelation_ChangeLogPropertyKey_MediaContainer" = "Tillagd som media till '%@'";
+
+/* (No Comment) */
+"_ObjectDescription_AdditionalName" = "Annat namn %@ of %@";
+
+/* (No Comment) */
+"_ObjectDescription_AssociateRelation" = "Präglande personrelation %@";
+
+/* (No Comment) */
+"_ObjectDescription_Book" = "Bok %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookBaseObjectsBasedReportBuilderObject" = "Rapport avsnitt objekt %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookBaseObjectsBasedReportBuilderSection" = "Rapport avsnitt %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookChapter" = "Bokkapitel %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookDiagramBaseObject" = "Avsnittsobjekt i diagram";
+
+/* (No Comment) */
+"_ObjectDescription_BookDiagramReportBuilderSection" = "Diagram avsnitt %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookFamilyBasedReportBuilderSection" = "Rapport avsnitt %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookFamilySection" = "Familjeavsnitt %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookGenericReportBuilderSection" = "Rapport avsnitt %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookPersonBasedReportBuilderSection" = "Rapport avsnitt %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookPersonSection" = "Personavsnitt %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookReportBuilderFamily" = "Rapport avsnitt familj %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookReportBuilderPerson" = "Rapport avsnitt person %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookSerializedBaseObjectReportBuilder" = "Konfiguration för avsnitt %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookSerializedBaseReportBuilder" = "Konfiguration för avsnitt %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookSerializedChapterReportBuilder" = "Konfiguration för kapitel %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookSerializedEditedReportBuilder" = "Konfiguration för redigerat avsnitt %@";
+
+/* (No Comment) */
+"_ObjectDescription_ChildRelation" = "Barnsläktskap %@ - %@";
+
+/* (No Comment) */
+"_ObjectDescription_ConclusionAdditionalNameType" = "Ytterligare namntyp %@";
+
+/* (No Comment) */
+"_ObjectDescription_ConclusionAssociateRelationType" = "Präglande relationstyp %@";
+
+/* (No Comment) */
+"_ObjectDescription_ConclusionFamilyEventType" = "Familjehändelsetyp %@";
+
+/* (No Comment) */
+"_ObjectDescription_ConclusionPersonEventType" = "Personhändelsetyp %@";
+
+/* (No Comment) */
+"_ObjectDescription_ConclusionPersonFactType" = "Personuppgiftstyp %@";
+
+/* (No Comment) */
+"_ObjectDescription_Coordinate" = "Ortskoordinater %@";
+
+/* (No Comment) */
+"_ObjectDescription_DNATestATDNASubResult" = "atDNA-testresultat - %@";
+
+/* (No Comment) */
+"_ObjectDescription_DNATestMTDNASubResult" = "mtDNA-testresultat - %@";
+
+/* (No Comment) */
+"_ObjectDescription_DNATestMTDNASubResultSNPDifference" = "DNA mtDNA SNP skillnad %@";
+
+/* (No Comment) */
+"_ObjectDescription_DNATestResult" = "DNA-testresultat %@";
+
+/* (No Comment) */
+"_ObjectDescription_DNATestYDNASubResult" = "Y-DNA-testresultat - %@";
+
+/* (No Comment) */
+"_ObjectDescription_DNATestYDNASubResultYSTRMarker" = "DNA Y-DNA STR-markör %@";
+
+/* (No Comment) */
+"_ObjectDescription_Family" = "Familj %@";
+
+/* (No Comment) */
+"_ObjectDescription_FamilyEvent" = "Familjehändelse %@ av %@";
+
+/* (No Comment) */
+"_ObjectDescription_FamilyEvent_PlaceExtension" = "i %@";
+
+/* (No Comment) */
+"_ObjectDescription_FamilySearchKnownBadFurtherInformationMatch" = "FamilySearch-information %@";
+
+/* (No Comment) */
+"_ObjectDescription_FamilySearchKnownBadPersonMatch" = "FamilySearch-information %@";
+
+/* (No Comment) */
+"_ObjectDescription_FamilyTreeInformation" = "Information om släktträdsförfattare";
+
+/* (No Comment) */
+"_ObjectDescription_Label" = "Etikett %@";
+
+/* (No Comment) */
+"_ObjectDescription_MediaAudio" = "Ljud %@ av %@";
+
+/* (No Comment) */
+"_ObjectDescription_MediaPDF" = "PDF %@ av %@";
+
+/* (No Comment) */
+"_ObjectDescription_MediaPicture" = "Bild %@ av %@";
+
+/* (No Comment) */
+"_ObjectDescription_MediaRelation" = "Medierelation %@";
+
+/* (No Comment) */
+"_ObjectDescription_MediaRelationAssignment" = "Medierelationstilldelning %@";
+
+/* (No Comment) */
+"_ObjectDescription_MediaURL" = "Hemsida %@ av %@";
+
+/* (No Comment) */
+"_ObjectDescription_MediaVideo" = "Video %@ of %@";
+
+/* (No Comment) */
+"_ObjectDescription_Note" = "Anteckning om %@";
+
+/* Object Descriptions */
+"_ObjectDescription_Person" = "Person %@";
+
+/* (No Comment) */
+"_ObjectDescription_PersonEvent" = "Händelse %@ av %@";
+
+/* (No Comment) */
+"_ObjectDescription_PersonEvent_PlaceExtension" = "i %@";
+
+/* (No Comment) */
+"_ObjectDescription_PersonFact" = "Fakta %@ av %@";
+
+/* (No Comment) */
+"_ObjectDescription_PersonGroup" = "Persongrupp %@";
+
+/* (No Comment) */
+"_ObjectDescription_Place" = "Ort %@";
+
+/* (No Comment) */
+"_ObjectDescription_PlaceDetail" = "Ortsdetalj %@";
+
+/* (No Comment) */
+"_ObjectDescription_PlaceKeyValue" = "Ortsvärde – %@: %@";
+
+/* (No Comment) */
+"_ObjectDescription_PlaceTemplate" = "Ortsmall %@";
+
+/* (No Comment) */
+"_ObjectDescription_PlaceTemplateKey" = "Ortsmallsfält %@";
+
+/* (No Comment) */
+"_ObjectDescription_PlaceTemplateKeyRelation" = "Ortsmallsfältrelation %@ – %@";
+
+/* (No Comment) */
+"_ObjectDescription_Scope" = "Smart filter %@";
+
+/* (No Comment) */
+"_ObjectDescription_Source" = "Källa %@";
+
+/* (No Comment) */
+"_ObjectDescription_SourceKeyValue" = "Källvärde – %@: %@";
+
+/* (No Comment) */
+"_ObjectDescription_SourceRelation" = "Källcitat -%@-%@";
+
+/* (No Comment) */
+"_ObjectDescription_SourceTemplate" = "Källmall %@";
+
+/* (No Comment) */
+"_ObjectDescription_SourceTemplateKey" = "Källmallsfält %@";
+
+/* (No Comment) */
+"_ObjectDescription_SourceTemplateKeyRelation" = "Källmallsfältrelation %@ – %@";
+
+/* (No Comment) */
+"_ObjectDescription_Story" = "Berättelse %@";
+
+/* (No Comment) */
+"_ObjectDescription_StorySection" = "Avsnitt i berättelsen %@";
+
+/* (No Comment) */
+"_ObjectDescription_ToDo" = "Uppgift %@";
+
+/* (No Comment) */
+"_ObjectProperty_AdditionalName_conclusionType" = "Typ";
+
+/* AdditionalName */
+"_ObjectProperty_AdditionalName_firstName" = "Förnamn";
+
+/* (No Comment) */
+"_ObjectProperty_AdditionalName_lastName" = "Efternamn";
+
+/* (No Comment) */
+"_ObjectProperty_AdditionalName_nameMiddle" = "Mellannamn";
+
+/* (No Comment) */
+"_ObjectProperty_AdditionalName_namePrefix" = "Titel";
+
+/* (No Comment) */
+"_ObjectProperty_AdditionalName_nameSuffix" = "Suffix";
+
+/* (No Comment) */
+"_ObjectProperty_AdditionalName_person" = "Person";
+
+/* (No Comment) */
+"_ObjectProperty_AssociateRelation_conclusionType" = "Typ";
+
+/* AssociateRelation */
+"_ObjectProperty_AssociateRelation_date" = "Datum";
+
+/* (No Comment) */
+"_ObjectProperty_BaseMedia_canShowAsMediaForMediaContainer" = "Använda som startbild";
+
+/* (No Comment) */
+"_ObjectProperty_BaseMedia_date" = "Datum";
+
+/* (No Comment) */
+"_ObjectProperty_BaseMedia_isBookmarked" = "Bokmärkt";
+
+/* BaseMedia */
+"_ObjectProperty_BaseMedia_title" = "Titel";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_ancestralFileNumberID" = "Ärftligt filnummer";
+
+/* BaseObject */
+"_ObjectProperty_BaseObject_changeDate" = "Ändra datum";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_cloudKitChangeTag" = "CloudTree-ändringsinformation";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_creationDate" = "Skapelsedatum";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_excludedPlausibilityAnalyzerClassNames" = "Rimlighetsanalysinformation";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_familySearchID" = "FamilySearch-ID";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_gedcomID" = "GedCom-ID";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_isPrivate" = "Flaggad som privat";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_referenceNumberID" = "Eget referensnummer";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_researchAssistantCompletedQuestionsMask" = "Forskningsassistentinformation";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_uniqueID" = "Internt unikt ID";
+
+/* (No Comment) */
+"_ObjectProperty_Book_author" = "Författare";
+
+/* (No Comment) */
+"_ObjectProperty_Book_chapterNumeralType" = "Kapitelnummer";
+
+/* (No Comment) */
+"_ObjectProperty_Book_chaptersOnSeparatePage" = "Kapitel på separat sida";
+
+/* (No Comment) */
+"_ObjectProperty_Book_date" = "Datum";
+
+/* (No Comment) */
+"_ObjectProperty_Book_includeCitationsAsDefault" = "Inkludera citat för nya rapporter";
+
+/* (No Comment) */
+"_ObjectProperty_Book_languageShouldReformatDates" = "Lokaliserade datumformat";
+
+/* (No Comment) */
+"_ObjectProperty_Book_localizationIdentifier" = "Språk";
+
+/* (No Comment) */
+"_ObjectProperty_Book_onlyColorizeChapterPages" = "Färglägg endast kapitelsidor";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundChapterNumberColor" = "Färg för kapitelnummer";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundChapterTitleColor" = "Färg för kapiteltitel";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundPageNumberAlignment" = "Anpassning av sidnummer";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundPageNumberColor" = "Färg för sidnummer";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundPageNumberEnabled" = "Sidnummer aktiverat";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundPageNumberPosition" = "Position för sidnummer";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundRendererStyle" = "Stil för sidhuvud";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundSectionNumberColor" = "Färg för avsnittsnummer";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundSectionTitleColor" = "Färg för avsnittstitel";
+
+/* (No Comment) */
+"_ObjectProperty_Book_style" = "Bokstil";
+
+/* (No Comment) */
+"_ObjectProperty_Book_styleFontScaling" = "Typsnittsskalning";
+
+/* (No Comment) */
+"_ObjectProperty_Book_templateClassName" = "Mall";
+
+/* (No Comment) */
+"_ObjectProperty_Book_title" = "Titel";
+
+/* (No Comment) */
+"_ObjectProperty_Book_useTextualStyleAsDefault" = "Använd textenlig stil för nya rapporter";
+
+/* Book */
+"_ObjectProperty_BookBaseItem_order" = "Index";
+
+/* (No Comment) */
+"_ObjectProperty_BookBaseObjectReportBuilder_baseObjectSection" = "Innehållande avsnitt";
+
+/* (No Comment) */
+"_ObjectProperty_BookBaseObjectsBasedReportBuilderObject_baseObject" = "Artikel";
+
+/* (No Comment) */
+"_ObjectProperty_BookBaseObjectsBasedReportBuilderObject_baseObjectsBasedReportBuilderSection" = "Avsnitt";
+
+/* (No Comment) */
+"_ObjectProperty_BookBaseObjectsBasedReportBuilderObject_order" = "Index";
+
+/* (No Comment) */
+"_ObjectProperty_BookBaseSection_alwaysWantsNewPageForItems" = "Underavdelningar på ny sida";
+
+/* (No Comment) */
+"_ObjectProperty_BookBaseSection_bookChapter" = "Innehållande kapitel";
+
+/* (No Comment) */
+"_ObjectProperty_BookBaseSection_name" = "Namn";
+
+/* (No Comment) */
+"_ObjectProperty_BookChapter_chapterHighlightColor" = "Framhävningsfärg för kapitel";
+
+/* (No Comment) */
+"_ObjectProperty_BookChapter_chapterPageColor" = "Sidfärg för kapitel";
+
+/* (No Comment) */
+"_ObjectProperty_BookChapter_chapterType" = "Kapiteltyp";
+
+/* (No Comment) */
+"_ObjectProperty_BookChapter_name" = "Kapitelnamn";
+
+/* (No Comment) */
+"_ObjectProperty_BookDiagramBaseObject_baseObject" = "Artikel";
+
+/* (No Comment) */
+"_ObjectProperty_BookDiagramBaseObject_diagramReportBuilderSection" = "Avsnitt";
+
+/* (No Comment) */
+"_ObjectProperty_BookPersonSection_person" = "Person";
+
+/* (No Comment) */
+"_ObjectProperty_BookReportBuilderFamily_family" = "Familj";
+
+/* (No Comment) */
+"_ObjectProperty_BookReportBuilderFamily_familyBasedReportBuilderSection" = "Avsnitt";
+
+/* (No Comment) */
+"_ObjectProperty_BookReportBuilderPerson_person" = "Person";
+
+/* (No Comment) */
+"_ObjectProperty_BookReportBuilderPerson_personBasedReportBuilderSection" = "Avsnitt";
+
+/* (No Comment) */
+"_ObjectProperty_BookSerializedBaseReportBuilder_baseItem" = "Rapport avsnitt";
+
+/* (No Comment) */
+"_ObjectProperty_BookSerializedReportBuilder_serializedReportBuilderData" = "Rapport konfiguration";
+
+/* (No Comment) */
+"_ObjectProperty_ChildRelation_child" = "Barn";
+
+/* (No Comment) */
+"_ObjectProperty_ChildRelation_family" = "Familj";
+
+/* (No Comment) */
+"_ObjectProperty_ChildRelation_relationTypeToManInFamily" = "Relationstyp till fadern";
+
+/* (No Comment) */
+"_ObjectProperty_ChildRelation_relationTypeToWomanInFamily" = "Relationstyp till modern";
+
+/* ChildRelation */
+"_ObjectProperty_ChildRelation_type" = "Barnrelationstyp";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionAssociateRelationType_compatibleAssociatedContainerClassName" = "Relationsmål";
+
+/* ConclusionAssociateRelationType */
+"_ObjectProperty_ConclusionAssociateRelationType_invertedTypeName" = "Inverterat typnamn";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionAssociateRelationType_invertedTypeName_ForFamily" = "Typnamn från personens perspektiv";
+
+/* ConclusionToDoPriorityType */
+"_ObjectProperty_ConclusionToDoPriorityType_isDefault" = "Standard";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionToDoStatusType_isDefault" = "Standard";
+
+/* ConclusionToDoStatusType */
+"_ObjectProperty_ConclusionToDoStatusType_typeShouldBeConsideredAsDone" = "Ska betraktas som 'Slutförd'";
+
+/* ConclusionToDoTypeType */
+"_ObjectProperty_ConclusionToDoTypeType_isDefault" = "Standard";
+
+/* ConclusionType */
+"_ObjectProperty_ConclusionType_gedcomTag" = "GEDCOM-tagg";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_iconPNGData" = "Ikon";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_identifier" = "Kännetecken";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_isEnabled" = "Aktiverad";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_isUserCreated" = "Användargenererat";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_showAsPlaceholder" = "Visa som platshållare";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_typeName" = "Typnamn";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_typeName_ForFamily" = "Typnamn från familjens perspektiv";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_typeNameLocalizationKey" = "Namnlokaliseringskod";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_generated_coordinate_string" = "Koordinat";
+
+/* Coordinate */
+"_ObjectProperty_Coordinate_latitude" = "Latitud";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_latitudeDegrees" = "Latitud grader";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_latitudeIsSouth" = "Latitud orientering";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_latitudeMinutes" = "Latitud minuter";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_latitudeSeconds" = "Latitud sekunder";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_longitude" = "Longitud";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_longitudeDegrees" = "Longitud grader";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_longitudeIsWest" = "Longitud orientering";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_longitudeMinutes" = "Longitud minuter";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_longitudeSeconds" = "Longitud sekunder";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_place" = "Ort";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_placeDetail" = "Ortsdetalj";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestMTDNASubResult_haplogroupString" = "mtDNA-haplogrupp";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestMTDNASubResultSNPDifference_differenceString" = "SNP-skillnad";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestMTDNASubResultSNPDifference_order" = "Följd";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestResult_dateString" = "Datum";
+
+/* DNATestResult */
+"_ObjectProperty_DNATestResult_name" = "Testnamn";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestResult_person" = "Person";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestResult_templateIdentifier" = "Mall";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestResult_urlToVendor" = "URL";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestYDNASubResult_haplogroupString" = "Y-DNA-haplogrupp";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestYDNASubResultYSTRMarker_order" = "Följd";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestYDNASubResultYSTRMarker_strName" = "STR-markörnamn";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestYDNASubResultYSTRMarker_strValueString" = "STR-värde";
+
+/* (No Comment) */
+"_ObjectProperty_Event_address" = "Adress";
+
+/* (No Comment) */
+"_ObjectProperty_Event_agency" = "Myndighet";
+
+/* (No Comment) */
+"_ObjectProperty_Event_assignedPlace" = "Ort";
+
+/* (No Comment) */
+"_ObjectProperty_Event_assignedPlaceDetail" = "Ortsdetalj";
+
+/* (No Comment) */
+"_ObjectProperty_Event_cause" = "Orsak";
+
+/* Event */
+"_ObjectProperty_Event_date" = "Datum";
+
+/* (No Comment) */
+"_ObjectProperty_Event_ldsStatus" = "LDS status";
+
+/* (No Comment) */
+"_ObjectProperty_Event_ldsTempleCode" = "LDS tempelkod";
+
+/* (No Comment) */
+"_ObjectProperty_Event_time" = "Tid";
+
+/* (No Comment) */
+"_ObjectProperty_Event_userDescription" = "Beskrivning";
+
+/* Fact */
+"_ObjectProperty_Fact_value" = "Värde";
+
+/* Family */
+"_ObjectProperty_Family_cached_marriageDate" = "Vigseldatum";
+
+/* (No Comment) */
+"_ObjectProperty_Family_cached_marriageDateAsDate" = "Vigseldatum";
+
+/* (No Comment) */
+"_ObjectProperty_Family_childRelations" = "Barnrelationer";
+
+/* (No Comment) */
+"_ObjectProperty_Family_events" = "Familjehändelser";
+
+/* (No Comment) */
+"_ObjectProperty_Family_isBookmarked" = "Bokmärkt";
+
+/* (No Comment) */
+"_ObjectProperty_Family_man" = "Man";
+
+/* (No Comment) */
+"_ObjectProperty_Family_woman" = "Kvinna";
+
+/* FamilyEvent */
+"_ObjectProperty_FamilyEvent_conclusionType" = "Händelsetyp";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyEvent_family" = "Familj";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressCity" = "Författare adress stad";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressCountry" = "Författare adress land";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressLine" = "Författare adress linje 1";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressLine1" = "Författare adress linje 2";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressLine2" = "Författare adress linje 3";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressLine3" = "Författare adress linje 4";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressPostalCode" = "Författare adress postnummer";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressState" = "Författare adress län";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorEmail" = "Författare e-post";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorFax" = "Författare fax";
+
+/* FamilyTreeInformation */
+"_ObjectProperty_FamilyTreeInformation_authorName" = "Författarnamn";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorPhoneNumber" = "Författare telefonnummer";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorWebAddress" = "Författare webbadress";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_mediaThumbnailsStyle" = "Media miniatyrstil";
+
+/* Label */
+"_ObjectProperty_Label_colorComponentsString" = "Färg";
+
+/* (No Comment) */
+"_ObjectProperty_Label_title" = "Titel";
+
+/* MediaAudio */
+"_ObjectProperty_MediaAudio_audioFileIdentifier" = "Ljud";
+
+/* MediaPDF */
+"_ObjectProperty_MediaPDF_pdfFileIdentifier" = "PDF";
+
+/* (No Comment) */
+"_ObjectProperty_MediaPDF_thumbnailFileIdentifier" = "Miniatyrbild";
+
+/* MediaPicture */
+"_ObjectProperty_MediaPicture_pictureFileIdentifier" = "Bild";
+
+/* (No Comment) */
+"_ObjectProperty_MediaPicture_thumbnailFileIdentifier" = "Miniatyrbild";
+
+/* MediaRelation */
+"_ObjectProperty_MediaRelation_hasMediaRelationAssignment" = "Har tilldelningsområde";
+
+/* MediaURL */
+"_ObjectProperty_MediaURL_url" = "Webbadress";
+
+/* (No Comment) */
+"_ObjectProperty_MediaVideo_thumbnailFileIdentifier" = "Miniatyrbild";
+
+/* MediaVideo */
+"_ObjectProperty_MediaVideo_videoFileIdentifier" = "Video";
+
+/* Note */
+"_ObjectProperty_Note_text" = "Text";
+
+/* NoteContainer */
+"_ObjectProperty_NoteContainer_notes" = "Anteckningar";
+
+/* OrderedConclusionType */
+"_ObjectProperty_OrderedConclusionType_order" = "Följd";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_birthDate" = "Födelsedatum";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_birthDateAsDate" = "Födelsedatum";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_christeningDate" = "Dopdatum";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_christeningDateAsDate" = "Dopdatum";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_deathDate" = "Dödsdatum";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_deathDateAsDate" = "Dödsdatum";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_fullName" = "Fullständigt Namn";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_fullNameForSorting" = "Fullständigt namn för sortering";
+
+/* Person */
+"_ObjectProperty_Person_firstName" = "Förnamn";
+
+/* (No Comment) */
+"_ObjectProperty_Person_firstNameSoundex" = "Soundex av förnamn";
+
+/* (No Comment) */
+"_ObjectProperty_Person_gender" = "Kön";
+
+/* (No Comment) */
+"_ObjectProperty_Person_isBookmarked" = "Bokmärkt";
+
+/* (No Comment) */
+"_ObjectProperty_Person_isStartPerson" = "Märkt som startperson";
+
+/* (No Comment) */
+"_ObjectProperty_Person_lastName" = "Efternamn";
+
+/* (No Comment) */
+"_ObjectProperty_Person_lastNameSoundex" = "Soundex av efternamn";
+
+/* (No Comment) */
+"_ObjectProperty_Person_marriedName" = "Namn som gift";
+
+/* (No Comment) */
+"_ObjectProperty_Person_nameMiddle" = "Mellannamn";
+
+/* (No Comment) */
+"_ObjectProperty_Person_nameMiddleSoundex" = "Soundex av mellannamn";
+
+/* (No Comment) */
+"_ObjectProperty_Person_namePrefix" = "Titel";
+
+/* (No Comment) */
+"_ObjectProperty_Person_namePrefixSoundex" = "Soundex av titel";
+
+/* (No Comment) */
+"_ObjectProperty_Person_nameSuffix" = "Suffix";
+
+/* (No Comment) */
+"_ObjectProperty_Person_nameSuffixSoundex" = "Soundex av suffix";
+
+/* PersonEvent */
+"_ObjectProperty_PersonEvent_conclusionType" = "Händelsetyp";
+
+/* (No Comment) */
+"_ObjectProperty_PersonEvent_person" = "Person";
+
+/* PersonFact */
+"_ObjectProperty_PersonFact_conclusionType" = "Faktatyp";
+
+/* (No Comment) */
+"_ObjectProperty_PersonFact_person" = "Person";
+
+/* PersonGroup */
+"_ObjectProperty_PersonGroup_name" = "Namn";
+
+/* (No Comment) */
+"_ObjectProperty_PersonGroup_personGroupColor" = "Färg";
+
+/* (No Comment) */
+"_ObjectProperty_PersonGroup_userDescription" = "Beskrivning";
+
+/* (No Comment) */
+"_ObjectProperty_Place_alternatePlaceNames" = "Alternativa namn";
+
+/* (No Comment) */
+"_ObjectProperty_Place_coordinate" = "Koordinat";
+
+/* (No Comment) */
+"_ObjectProperty_Place_country" = "Land";
+
+/* (No Comment) */
+"_ObjectProperty_Place_county" = "Kommun";
+
+/* (No Comment) */
+"_ObjectProperty_Place_geoNameID" = "GeoName ID";
+
+/* (No Comment) */
+"_ObjectProperty_Place_isBookmarked" = "Bokmärkt";
+
+/* (No Comment) */
+"_ObjectProperty_Place_place" = "Ort";
+
+/* (No Comment) */
+"_ObjectProperty_Place_state" = "Län";
+
+/* Place */
+"_ObjectProperty_Place_template" = "Ortsmall";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceDetail_geoNameID" = "GeoName ID";
+
+/* PlaceDetail */
+"_ObjectProperty_PlaceDetail_name" = "Namn";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceDetail_place" = "Ort";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceKeyValue_place" = "Ort";
+
+/* PlaceKeyValue */
+"_ObjectProperty_PlaceKeyValue_templateKey" = "Mallfält";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceKeyValue_value" = "Värde";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplate_countryIdentifier" = "Land";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplate_isDefaultTemplate" = "Standardmall";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplate_isFavoriteTemplate" = "Favoritmall";
+
+/* PlaceTemplate */
+"_ObjectProperty_PlaceTemplate_name" = "Namn";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKey_gedcomTag" = "GEDCOM-ort FORM-tagg";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKey_internationalName" = "Internationellt namn";
+
+/* PlaceTemplateKey */
+"_ObjectProperty_PlaceTemplateKey_localName" = "Lokalt namn";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKey_order" = "Följd";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_normalCitationBracketMode" = "Normala citatparenteser";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_normalCitationEnabled" = "Aktiverad för normalt citat";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_normalCitationOrder" = "Normal citatföljd";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_normalCitationTrailingMode" = "Normalt citatskiljetecken";
+
+/* PlaceTemplateKeyRelation */
+"_ObjectProperty_PlaceTemplateKeyRelation_order" = "Följd";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_shortCitationBracketMode" = "Kort citat parentes";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_shortCitationEnabled" = "Aktiverad för kort citat";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_shortCitationOrder" = "Kort citat ordningsföljd";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_shortCitationTrailingMode" = "Kort citat skiljetecken";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_veryShortCitationBracketMode" = "Mycket korta citatparenteser";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_veryShortCitationEnabled" = "Aktiverad för mycket kort citat";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_veryShortCitationOrder" = "Mycket kort citatföljd";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_veryShortCitationTrailingMode" = "Mycket kort citatskiljetecken";
+
+/* (No Comment) */
+"_ObjectProperty_SavedBook_author" = "Författare";
+
+/* SavedBook */
+"_ObjectProperty_SavedBook_bookData" = "Bok";
+
+/* (No Comment) */
+"_ObjectProperty_SavedBook_subTitle" = "Underrubrik";
+
+/* (No Comment) */
+"_ObjectProperty_SavedBook_thumbnailData" = "Miniatyrbild";
+
+/* SavedChart */
+"_ObjectProperty_SavedChart_chartObjectsContainerData" = "Diagram";
+
+/* (No Comment) */
+"_ObjectProperty_SavedChart_thumbnailData" = "Miniatyrbild";
+
+/* SavedReport */
+"_ObjectProperty_SavedReport_reportControllerData" = "Rapport";
+
+/* (No Comment) */
+"_ObjectProperty_SavedReport_thumbnailData" = "Miniatyrbild";
+
+/* (No Comment) */
+"_ObjectProperty_SavedView_date" = "Datum";
+
+/* SavedView */
+"_ObjectProperty_SavedView_title" = "Titel";
+
+/* (No Comment) */
+"_ObjectProperty_SavedWebsite_changeDate" = "Ändra datum";
+
+/* SavedWebsite */
+"_ObjectProperty_SavedWebsite_fileIdentifier" = "Data";
+
+/* (No Comment) */
+"_ObjectProperty_Scope_archivedFiltersContainerData" = "Beskrivning för smart filter";
+
+/* Scope */
+"_ObjectProperty_Scope_scopeEntity" = "Smart filter typ";
+
+/* (No Comment) */
+"_ObjectProperty_Scope_scopeName" = "Namn för smart filter";
+
+/* (No Comment) */
+"_ObjectProperty_Source_isBookmarked" = "Bokmärkt";
+
+/* (No Comment) */
+"_ObjectProperty_Source_sourceRepository" = "Källarkiv";
+
+/* Source */
+"_ObjectProperty_Source_template" = "Källmall";
+
+/* (No Comment) */
+"_ObjectProperty_Source_text" = "Text";
+
+/* SourceContainer */
+"_ObjectProperty_SourceContainer_sourceRelations" = "Källcitat";
+
+/* (No Comment) */
+"_ObjectProperty_SourceKeyValue_source" = "Källa";
+
+/* SourceKeyValue */
+"_ObjectProperty_SourceKeyValue_templateKey" = "Mallfält";
+
+/* (No Comment) */
+"_ObjectProperty_SourceKeyValue_value" = "Värde";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRelation_certainty" = "Säkerhet";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRelation_page" = "Sida";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRelation_qualityEvidence" = "Beviskvalitet";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRelation_qualityInformation" = "Informationskvalitet";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRelation_qualitySource" = "Källkvalitet";
+
+/* SourceRelation */
+"_ObjectProperty_SourceRelation_source" = "Källa";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRelation_sourceContainer" = "Refererad post";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_address" = "Adress";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_addressLine1" = "Adresslinje 1";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_addressLine2" = "Adresslinje 2";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_addressLine3" = "Adresslinje 3";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_city" = "Stad";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_country" = "Land";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_email" = "E-post";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_fax" = "Fax";
+
+/* SourceRepository */
+"_ObjectProperty_SourceRepository_name" = "Namn";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_phone" = "Telefon";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_postalCode" = "Postnummer";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_state" = "Adress";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_www" = "WWW";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplate_isDefaultTemplate" = "Standardmall";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplate_isFavoriteTemplate" = "Favoritmall";
+
+/* SourceTemplate */
+"_ObjectProperty_SourceTemplate_name" = "Namn";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKey_gedcomTag" = "GEDCOM-tagg";
+
+/* SourceTemplateKey */
+"_ObjectProperty_SourceTemplateKey_name" = "Fältnamn";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKey_order" = "Följd";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKey_type" = "Fälttyp";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_isDateForDisplayComponent" = "Inkluderad i källdatum";
+
+/* SourceTemplateKeyRelation */
+"_ObjectProperty_SourceTemplateKeyRelation_isTitleComponent" = "Inkluderad i källtitel";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_longCitationBracketMode" = "Långt citat parentes";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_longCitationEnabled" = "Aktiverad för långt citat";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_longCitationFontMode" = "Långt citat typsnitt";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_longCitationOrder" = "Långt citat ordningsföljd";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_longCitationTrailingMode" = "Långt citat skiljetecken";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_order" = "Följd";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_shortCitationBracketMode" = "Kort citat parentes";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_shortCitationEnabled" = "Aktiverad för kort citat";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_shortCitationFontMode" = "Kort citat typsnitt";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_shortCitationOrder" = "Kort citat ordningsföljd";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_shortCitationTrailingMode" = "Kort citat skiljetecken";
+
+/* (No Comment) */
+"_ObjectProperty_Story_fromDate" = "Från datum";
+
+/* Story */
+"_ObjectProperty_Story_title" = "Titel";
+
+/* (No Comment) */
+"_ObjectProperty_Story_toDate" = "Till datum";
+
+/* (No Comment) */
+"_ObjectProperty_Story_userDescription" = "Beskrivning";
+
+/* (No Comment) */
+"_ObjectProperty_StorySection_order" = "Följd";
+
+/* StorySection */
+"_ObjectProperty_StorySection_subtitle" = "Avsnittstitel";
+
+/* (No Comment) */
+"_ObjectProperty_StorySection_text" = "Text";
+
+/* ToDo */
+"_ObjectProperty_ToDo_dueDate" = "Förfallodag";
+
+/* (No Comment) */
+"_ObjectProperty_ToDo_priorityConclusionType" = "Prioritet";
+
+/* (No Comment) */
+"_ObjectProperty_ToDo_statusConclusionType" = "Status";
+
+/* (No Comment) */
+"_ObjectProperty_ToDo_text" = "Text";
+
+/* (No Comment) */
+"_ObjectProperty_ToDo_title" = "Titel";
+
+/* (No Comment) */
+"_ObjectProperty_ToDo_typeConclusionType" = "Typ";
+
+/* (No Comment) */
+"_ObjectType_AdditionalName" = "Ytterligare namn";
+
+/* (No Comment) */
+"_ObjectType_AssociateRelation" = "Präglande personrelation";
+
+/* (No Comment) */
+"_ObjectType_BaseMedia" = "Media";
+
+/* (No Comment) */
+"_ObjectType_BaseObjectFamilySearchProperties" = "FamilySearch-information";
+
+/* (No Comment) */
+"_ObjectType_Book" = "Bok";
+
+/* (No Comment) */
+"_ObjectType_BookBaseObjectReportBuilder" = "Person-/familjerapport";
+
+/* (No Comment) */
+"_ObjectType_BookBaseObjectsBasedReportBuilderObject" = "Rapport avsnitt objekt";
+
+/* (No Comment) */
+"_ObjectType_BookBaseObjectsBasedReportBuilderSection" = "Rapport avsnitt";
+
+/* (No Comment) */
+"_ObjectType_BookChapter" = "Bokkapitel";
+
+/* (No Comment) */
+"_ObjectType_BookDiagramBaseObject" = "Avsnittsobjekt i diagram";
+
+/* (No Comment) */
+"_ObjectType_BookDiagramReportBuilderSection" = "Diagram avsnitt %@";
+
+/* (No Comment) */
+"_ObjectType_BookFamilyBasedReportBuilderSection" = "Rapport avsnitt";
+
+/* (No Comment) */
+"_ObjectType_BookFamilySection" = "Familjeavsnitt";
+
+/* (No Comment) */
+"_ObjectType_BookGenericReportBuilderSection" = "Rapport avsnitt";
+
+/* (No Comment) */
+"_ObjectType_BookPersonBasedReportBuilderSection" = "Rapport avsnitt";
+
+/* (No Comment) */
+"_ObjectType_BookPersonSection" = "Personavsnitt";
+
+/* (No Comment) */
+"_ObjectType_BookReportBuilderFamily" = "Rapport avsnitt familj";
+
+/* (No Comment) */
+"_ObjectType_BookReportBuilderPerson" = "Rapport avsnitt person";
+
+/* (No Comment) */
+"_ObjectType_BookSerializedBaseObjectReportBuilder" = "Rapport konfiguration";
+
+/* (No Comment) */
+"_ObjectType_BookSerializedBaseReportBuilder" = "Rapport avsnittskonfiguration";
+
+/* (No Comment) */
+"_ObjectType_BookSerializedChapterReportBuilder" = "Kapitel rapportkonfiguration";
+
+/* (No Comment) */
+"_ObjectType_BookSerializedEditedReportBuilder" = "Redigerad rapportkonfiguration";
+
+/* (No Comment) */
+"_ObjectType_ChangeLogEntry" = "Ändringslogg";
+
+/* (No Comment) */
+"_ObjectType_ChangeLogSubEntry" = "Ändringsloggsinformation";
+
+/* (No Comment) */
+"_ObjectType_ChildRelation" = "Barnrelation";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerCloudKitChangesWorklist" = "CloudTree-synkroniseringsinformation";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerCloudKitChangesWorklistAddVerifyListItem" = "CloudTree-synkroniseringsinformation";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerCloudKitChangesWorklistForRecordType" = "CloudTree-synkroniseringsinformation";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerCloudKitChangesWorklistForRecordTypeEntry" = "CloudTree-synkroniseringsinformation";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerCloudKitChangesWorklistZoneNameServerChangeToken" = "CloudTree-synkroniseringsinformation";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerLocalChangesWorklist" = "CloudTree-synkroniseringsinformation";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerLocalChangesWorklistDanglingReferenceEntry" = "CloudTree-synkroniseringsinformation";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerLocalChangesWorklistFinalDeleteEntry" = "CloudTree-synkroniseringsinformation";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerLocalChangesWorklistForEntity" = "CloudTree-synkroniseringsinformation";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerLocalChangesWorklistForEntityEntry" = "CloudTree-synkroniseringsinformation";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerLocalChangesWorklistPostponedEntry" = "CloudTree-synkroniseringsinformation";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerSpecialPostDownloadStep" = "CloudTree-synkroniseringsinformation";
+
+/* (No Comment) */
+"_ObjectType_ConclusionAdditionalNameType" = "Ytterligare namntyp";
+
+/* (No Comment) */
+"_ObjectType_ConclusionAssociateRelationType" = "Präglande relationstyp";
+
+/* (No Comment) */
+"_ObjectType_ConclusionFamilyEventType" = "Familjehändelsetyp";
+
+/* (No Comment) */
+"_ObjectType_ConclusionPersonEventType" = "Personhändelsetyp";
+
+/* (No Comment) */
+"_ObjectType_ConclusionPersonFactType" = "Personuppgiftstyp";
+
+/* (No Comment) */
+"_ObjectType_Coordinate" = "Koordinat";
+
+/* (No Comment) */
+"_ObjectType_DNATestATDNASubResult" = "Autosomal DNA-resultatinformation";
+
+/* (No Comment) */
+"_ObjectType_DNATestBaseSubResultRawDataFile" = "DNA rådatafil";
+
+/* (No Comment) */
+"_ObjectType_DNATestMTDNASubResult" = "mtDNA-resultatinformation";
+
+/* (No Comment) */
+"_ObjectType_DNATestMTDNASubResultSNPDifference" = "mtDNA SNP-skillnad";
+
+/* (No Comment) */
+"_ObjectType_DNATestResult" = "DNA-testresultat";
+
+/* (No Comment) */
+"_ObjectType_DNATestYDNASubResult" = "Y-DNA-resultatinformation";
+
+/* (No Comment) */
+"_ObjectType_DNATestYDNASubResultYSTRMarker" = "Y-DNA STR-markör";
+
+/* (No Comment) */
+"_ObjectType_Event" = "Händelse";
+
+/* (No Comment) */
+"_ObjectType_Fact" = "Fakta";
+
+/* (No Comment) */
+"_ObjectType_Family" = "Familj";
+
+/* (No Comment) */
+"_ObjectType_FamilyEvent" = "Familjehändelse";
+
+/* (No Comment) */
+"_ObjectType_FamilySearchKnownBadFurtherInformationMatch" = "FamilySearch-information";
+
+/* (No Comment) */
+"_ObjectType_FamilySearchKnownBadPersonMatch" = "FamilySearch-information";
+
+/* (No Comment) */
+"_ObjectType_FamilyTreeInformation" = "Information om släktträd";
+
+/* (No Comment) */
+"_ObjectType_Label" = "Etikett";
+
+/* (No Comment) */
+"_ObjectType_LabelRelation" = "Etikettsrelation";
+
+/* (No Comment) */
+"_ObjectType_MediaAudio" = "Medialjud";
+
+/* (No Comment) */
+"_ObjectType_MediaPDF" = "Media-PDF";
+
+/* (No Comment) */
+"_ObjectType_MediaPicture" = "Mediabild";
+
+/* (No Comment) */
+"_ObjectType_MediaRelation" = "Medierelation";
+
+/* (No Comment) */
+"_ObjectType_MediaRelationAssignment" = "Medierelationstilldelning";
+
+/* (No Comment) */
+"_ObjectType_MediaRelationAssignmentPicture" = "Bild för medierelationstilldelning";
+
+/* (No Comment) */
+"_ObjectType_MediaURL" = "Media-URL";
+
+/* (No Comment) */
+"_ObjectType_MediaVideo" = "Mediavideo";
+
+/* (No Comment) */
+"_ObjectType_Note" = "Anteckning";
+
+/* Object Types */
+"_ObjectType_Person" = "Person";
+
+/* (No Comment) */
+"_ObjectType_PersonEvent" = "Personhändelse";
+
+/* (No Comment) */
+"_ObjectType_PersonFact" = "Personuppgift";
+
+/* (No Comment) */
+"_ObjectType_PersonGroup" = "Persongrupp";
+
+/* (No Comment) */
+"_ObjectType_PersonGroupRelation" = "Persongruppsrelation";
+
+/* (No Comment) */
+"_ObjectType_Place" = "Ort";
+
+/* (No Comment) */
+"_ObjectType_PlaceDetail" = "Ortsdetalj";
+
+/* (No Comment) */
+"_ObjectType_PlaceKeyValue" = "Ortsvärde";
+
+/* (No Comment) */
+"_ObjectType_PlaceTemplate" = "Ortsmall";
+
+/* (No Comment) */
+"_ObjectType_PlaceTemplateKey" = "Ortsmallsfält";
+
+/* (No Comment) */
+"_ObjectType_PlaceTemplateKeyRelation" = "Ortsmallsfältrelation";
+
+/* (No Comment) */
+"_ObjectType_ResearchAssistantQuestionInfo" = "Forskningsassistentinformation";
+
+/* (No Comment) */
+"_ObjectType_SavedBook" = "Sparad bok";
+
+/* (No Comment) */
+"_ObjectType_SavedChart" = "Sparat diagram";
+
+/* (No Comment) */
+"_ObjectType_SavedReport" = "Sparad rapport";
+
+/* (No Comment) */
+"_ObjectType_SavedWebsite" = "Sparad webbplats";
+
+/* (No Comment) */
+"_ObjectType_Scope" = "Smart filter";
+
+/* (No Comment) */
+"_ObjectType_Source" = "Källa";
+
+/* (No Comment) */
+"_ObjectType_SourceKeyValue" = "Källvärde";
+
+/* (No Comment) */
+"_ObjectType_SourceRelation" = "Källcitat";
+
+/* (No Comment) */
+"_ObjectType_SourceRepository" = "Källarkiv";
+
+/* (No Comment) */
+"_ObjectType_SourceTemplate" = "Källmall";
+
+/* (No Comment) */
+"_ObjectType_SourceTemplateKey" = "Källmallsfält";
+
+/* (No Comment) */
+"_ObjectType_SourceTemplateKeyRelation" = "Källmallsfältrelation";
+
+/* (No Comment) */
+"_ObjectType_Story" = "Berättelse";
+
+/* (No Comment) */
+"_ObjectType_StoryRelation" = "Berättelserelation";
+
+/* (No Comment) */
+"_ObjectType_StorySection" = "Avsnitt i berättelsen";
+
+/* (No Comment) */
+"_ObjectType_StorySectionRelation" = "Berättelseavsnittsrelation";
+
+/* (No Comment) */
+"_ObjectType_ToDo" = "Uppgift";
+
+/* (No Comment) */
+"_ObjectType_ToDoRelation" = "Uppgifts-relation";
+
+/* (No Comment) */
+"_Person_ChangeLog_Added" = "Person tillagd";
+
+/* (No Comment) */
+"_Person_ChangeLog_ConflictResolved" = "Konflikt med egenskap '%@' har blivit löst till '%@'";
+
+/* (No Comment) */
+"_Person_ChangeLog_Deleted" = "Person '%@' raderad";
+
+/* (No Comment) */
+"_Person_ChangeLogKey" = "Person %@";
+
+/* (No Comment) */
+"_Person_ChangeLogPropertyKey_FirstName" = "Förnamnet ändrat från '%@' to '%@'";
+
+/* (No Comment) */
+"_Person_ChangeLogPropertyKey_Gender" = "Kön ändrat från '%@' till '%@'";
+
+/* (No Comment) */
+"_Person_ChangeLogPropertyKey_LastName" = "Efternamnet ändrat från '%@' till '%@'";
+
+/* (No Comment) */
+"_Person_ChangeLogPropertyKey_NameMiddle" = "Mellannamn ändrat från '%@' till '%@'";
+
+/* (No Comment) */
+"_Person_ChangeLogPropertyKey_NamePrefix" = "Namnprefix ändrat från '%@' till '%@'";
+
+/* (No Comment) */
+"_Person_ChangeLogPropertyKey_NameSuffix" = "Namnsuffix ändrat från '%@' till '%@'";
+
+/* (No Comment) */
+"_PlaceTemplateKeyRelation_relationUsage" = "Användning";
+
+/* (No Comment) */
+"_Source_ChangeLog_Added" = "Källa tillagd";
+
+/* (No Comment) */
+"_Source_ChangeLog_ConflictResolved" = "Konflikt med egenskap '%@\" från källa löst till '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLog_Deleted" = "Källa '%@' raderad";
+
+/* (No Comment) */
+"_Source_ChangeLogKey" = "Källa %@";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Abbreviation" = "Förkortning ändrad från '%@' till '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Agency" = "Agentur ändrad från '%@' till '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Author" = "Författare ändrad från '%@' till '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Date" = "Datum ändrat från '%@' till '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Place" = "Ort ändrad från '%@' till '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Publication" = "Publikation ändrad från '%@' till '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_ReferenceNumber" = "Referensnummer ändrat från '%@' till '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_ReferenceType" = "Referenstyp ändrad från '%@' till '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Text" = "Texten ändrad";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Title" = "Titel ändrad från '%@' till '%@'";
+
+/* (No Comment) */
+"_SourceKeyValue_ChangeLog_Added" = "Värde '%@' har lagts till";
+
+/* (No Comment) */
+"_SourceKeyValue_ChangeLog_ConflictResolvedForValueProperty" = "Konflikt med värde '%@' löst till '%@'";
+
+/* (No Comment) */
+"_SourceKeyValue_ChangeLog_Deleted" = "Värde '%@' raderat";
+
+/* (No Comment) */
+"_SourceKeyValue_ChangeLogPropertyKey_Value" = "Värde ’%@’ har ändrats från '%@' till '%@'";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLog_SourceContainerDelete" = "Källcitat för '%@' raderat";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLog_SourceDelete" = "Källcitat '%@' raderat";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLogPropertyKey_Page" = "Sida för källcitat för '%@' ändrad från '%@' till '%@'";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLogPropertyKey_QualityEvidence" = "Kvalitetsbevis för källcitat för '%@' ändrat från '%@' till '%@'";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLogPropertyKey_QualityInformation" = "Informationskvalitet av källcitat för '%@' ändrad från '%@' till '%@'";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLogPropertyKey_QualitySource" = "Kvalitet av källcitat för '%@' ändrad från '%@' till '%@'";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLogPropertyKey_Source" = "Tillagd som källcitat för '%@'";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLogPropertyKey_SourceContainer" = "Källcitat '%@' tillagt";
+

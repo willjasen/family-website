@@ -1,0 +1,594 @@
+﻿/* (No Comment) */
+"_EditSourceTemplateKeysController_MergeTemplateKeysConflictInformative" = "Du ønsker å slå sammen kildefeltet «%@» med kildefeltet «%@», men noen kilder i familietreet ditt inneholder begge kildefeltene under samme kilde. Vennligst velg hva som skal skje med disse kildene:";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_MergeTemplateKeysConflictKeepBoth" = "Beholde begge verdiene";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_MergeTemplateKeysConflictKeepSingle" = "Beholde verdien %@";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_MergeTemplateKeysConflictMessage" = "Slå sammen kildefelter";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_MergeTemplateKeysDoneInformative" = "Kildefelt «%@» har blitt slått sammen med kildefelt «%@»";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_MergeTemplateKeysDoneMessage" = "Kildefeltene har blitt slått sammen";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_ReallyMergeTemplateKeysInformative" = "Ønsker du virkelig å slå sammen malfeltene «%@» og «%@»? Disse gjøres da om til ett enkelt malfelt.";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_ReallyMergeTemplateKeysMessage" = "Virkelig slå sammen kildemalfeltene?";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_RemoveTemplateKeyInformative" = "Vil du virkelig slette valgt malfelt? Informasjon har blitt skrevet inn i malfeltet som vil bli slettet uten at det kan angres.";
+
+/* EditSourceTemplateKeysController */
+"_EditSourceTemplateKeysController_RemoveTemplateKeyMessage" = "Virkelig slette malfeltet? Alle felt i kilder vil bli slettet for alltid.";
+
+/* (No Comment) */
+"_EditSourceTemplatesController_MergeTemplateDoneMessage" = "Kildemaler har blitt slått sammen";
+
+/* (No Comment) */
+"_EditSourceTemplatesController_MergeTemplatesDoneInformative" = "Kildemalene «%@» og «%@» har blitt slått sammen.";
+
+/* (No Comment) */
+"_EditSourceTemplatesController_ReallyMergeTemplateInformative" = "Ønsker du virkelig å slå sammen malene «%@» og «%@»? Disse gjøres da om til én enkel mal.";
+
+/* (No Comment) */
+"_EditSourceTemplatesController_ReallyMergeTemplateMessage" = "Virkelig slå sammen malene?";
+
+/* (No Comment) */
+"_EditSourceTemplatesController_RemoveTemplateInformative" = "Er du sikker på at du ønsker å slette denne kildemalen? Det finnes kilder som er tilknyttet malen og som vil bli slettet sammen med malen uten at det kan angres.";
+
+/* EditSourceTemplatesController */
+"_EditSourceTemplatesController_RemoveTemplateMessage" = "Virkelig slette kildemalen? Alle tilknyttede kilder vil bli slettet for alltid.";
+
+/* (No Comment) */
+"_SourceTemplate_SourcesCount" = "%d kilder";
+
+/* Counts */
+"_SourceTemplate_SourcesCountSingular" = "%d kilde";
+
+/* (No Comment) */
+"_SourceTemplateKey_Type_Date" = "Dato";
+
+/* SourceTemplateKey */
+"_SourceTemplateKey_Type_Text" = "Tekst";
+
+/* (No Comment) */
+"SourceTemplate_AddressBook" = "Adressebok";
+
+/* (No Comment) */
+"SourceTemplate_Book" = "Bok";
+
+/* (No Comment) */
+"SourceTemplate_BusinessOrganisationalRecord" = "Forretningsdokumenter";
+
+/* (No Comment) */
+"SourceTemplate_CDROM" = "CD-ROM";
+
+/* (No Comment) */
+"SourceTemplate_CemeteryRecord_Digital" = "Begravelsesdokument (digitalt)";
+
+/* (No Comment) */
+"SourceTemplate_CemeteryRecord_Microfilm" = "Begravelsesdokument (mikrofilm)";
+
+/* (No Comment) */
+"SourceTemplate_CemeteryRecord_PhysicalCopy" = "Begravelsesdokument (på papir)";
+
+/* (No Comment) */
+"SourceTemplate_Census_Digital" = "Folketelling (digital)";
+
+/* (No Comment) */
+"SourceTemplate_Census_Microfilm" = "Folketelling (mikrofilm)";
+
+/* (No Comment) */
+"SourceTemplate_Census_PhysicalCopy" = "Folketelling (på papir)";
+
+/* (No Comment) */
+"SourceTemplate_ChurchRecord_Books" = "Kirkedokument (bøker)";
+
+/* (No Comment) */
+"SourceTemplate_ChurchRecord_Digital" = "Kirkedokument (digitalt)";
+
+/* (No Comment) */
+"SourceTemplate_ChurchRecord_Microfilm" = "Kirkedokument (mikrofilm)";
+
+/* (No Comment) */
+"SourceTemplate_CorporateRecord_Digital" = "Selskapsdokument (digitalt)";
+
+/* (No Comment) */
+"SourceTemplate_CorporateRecord_Microfilm" = "Selskapsdokument (mikrofilm)";
+
+/* (No Comment) */
+"SourceTemplate_CorporateRecord_PhysicalCopy" = "Selskapsdokument (på papir)";
+
+/* (No Comment) */
+"SourceTemplate_CourtDocuments" = "Rettsdokumenter";
+
+/* (No Comment) */
+"SourceTemplate_Deed" = "Tildelingsdokument";
+
+/* (No Comment) */
+"SourceTemplate_DiaryOrJournal" = "Dagbok/journal";
+
+/* (No Comment) */
+"SourceTemplate_DraftRegistration" = "Registrert utskrivning";
+
+/* (No Comment) */
+"SourceTemplate_EmailMessage" = "E-postmelding";
+
+/* (No Comment) */
+"SourceTemplate_EmigrationRecord_Digital" = "Utvandringsdokument (digitalt)";
+
+/* (No Comment) */
+"SourceTemplate_EmigrationRecord_Microfilm" = "Utvandringsdokument (mikrofilm)";
+
+/* (No Comment) */
+"SourceTemplate_EmigrationRecord_PhysicalCopy" = "Utvandringsdokument (på papir)";
+
+/* (No Comment) */
+"SourceTemplate_FamilyBible" = "Familiebibel";
+
+/* (No Comment) */
+"SourceTemplate_FamilyChart" = "Familiediagram";
+
+/* (No Comment) */
+"SourceTemplate_FamilySearch" = "FamilySearch";
+
+/* (No Comment) */
+"SourceTemplate_FuneralHomeRecord" = "Dokumenter fra begravelsesbyrå";
+
+/* SourceTemplate */
+"SourceTemplate_Generic" = "Generisk";
+
+/* (No Comment) */
+"SourceTemplate_GraveMarkers" = "Gravmæler";
+
+/* (No Comment) */
+"SourceTemplate_HistoricalLetter_Digital" = "Historisk brev (digitalt)";
+
+/* (No Comment) */
+"SourceTemplate_HistoricalLetter_Microfilm" = "Historisk brev (mikrofilm)";
+
+/* (No Comment) */
+"SourceTemplate_HistoricalLetter_PhysicalCopy" = "Historisk brev (på papir)";
+
+/* (No Comment) */
+"SourceTemplate_HistoricalResearch" = "Historisk forskning";
+
+/* (No Comment) */
+"SourceTemplate_ImmigrationRecord_Digital" = "Innvandringsdokument (digitalt)";
+
+/* (No Comment) */
+"SourceTemplate_ImmigrationRecord_Microfilm" = "Innvandringsdokument (mikrofilm)";
+
+/* (No Comment) */
+"SourceTemplate_ImmigrationRecord_PhysicalCopy" = "Innvandringsdokument (på papir)";
+
+/* (No Comment) */
+"SourceTemplate_Interview_Digital" = "Intervju (digital)";
+
+/* (No Comment) */
+"SourceTemplate_Interview_Microfilm" = "Intervju (mikrofilm)";
+
+/* (No Comment) */
+"SourceTemplate_Interview_PhysicalCopy" = "Intervju (på papir)";
+
+/* _SourceTemplate_KeyName */
+"SourceTemplate_KeyName_Abbreviation" = "Forkortelse";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Agency" = "Myndighet";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Author" = "Forfatter";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_AuthorAddress" = "Forfatters adresse";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_AuthorCredentials" = "Forfatters legitimasjon";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_BookPeriodicalName" = "Navn til bok/tidsskrift";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_CallNumber" = "Hyllesignatur";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Cemetery" = "Gravlund";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_CensusYear" = "Folketellingens år";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Church" = "Kirke";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Collection" = "Samling";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Compiler" = "Kompilator";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Congress" = "Kongress (USA)";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_ContactPerson" = "Kontaktperson";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Copyright" = "Opphavsrett";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_County" = "Fylke/county";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Court" = "Domstol";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Date" = "Dato";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_DateViewed" = "Dato vist";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Detail" = "Detalj";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Edition" = "Utgave";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_FileNumber" = "Filnummer";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_FilmNumber" = "Filmnummer";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_FilmType" = "Filmtype";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_FolderLabel" = "Mappeetikett";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Format" = "Format";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Informant" = "Informant";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_InformantAddress" = "Informantens adresse";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_InformantName" = "Informantens navn";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_InformantRelationship" = "Informantens relasjon";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Interviewee" = "Intervjuet person";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Interviewer" = "Intervjuende person";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Issue" = "Hefte";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_LocationOfSource" = "Sted til kilde";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_MediaType" = "Medietype";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_MicrofilmRollNumber" = "Mikrofilmens rullnummer";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_MilitaryDivision" = "Militær divisjon";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_NumberOfRolls" = "Antall ruller";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_OrderNumber" = "Ordrenummer";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Organization" = "Organisasjon";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_OtherAuthors" = "Andre forfattere";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_OtherSubjects" = "Andre emner";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Owner" = "Eier";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_OwnerAddress" = "Eiers adresse";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_OwnerLocation" = "Eiers sted";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Page" = "Side";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Place" = "Sted";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Presenter" = "Presenterende person";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Publication" = "Publikasjon";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Publisher" = "Utgiver";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Recipient" = "Mottaker";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Recorder" = "Opptegnet av";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_RecordGroup" = "Opptegnelsesgruppe";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_ReferenceNumber" = "Referansenummer";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_ReferenceType" = "Referansetype";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Register" = "Register";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Schedule" = "Liste";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_School" = "Skole";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_SerialNumber" = "Serienummer";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Series" = "Serie";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_SeriesTitle" = "Serietittel";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Session" = "Møte";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_StateOrCountry" = "Delstat/region eller land";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_StateTerritory" = "Stat/territorium";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Subject" = "Emne";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Submitter" = "Fremlagt av";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Title" = "Tittel";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_TownshipCivilDistrict" = "Bydel/område";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Tribe" = "Stamme";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Vessel" = "Sjøfartøy";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_VolumeNumber" = "Bindnummer";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Volumes" = "Bind";
+
+/* (No Comment) */
+"SourceTemplate_LandGrantRegister" = "Eiendomsregister";
+
+/* (No Comment) */
+"SourceTemplate_LandRecord_Digital" = "Eiendomsopplysn. (digitalt)";
+
+/* (No Comment) */
+"SourceTemplate_LandRecord_Microfilm" = "Eiendomsopplysn. (mikrofilm)";
+
+/* (No Comment) */
+"SourceTemplate_LandRecord_PhysicalCopy" = "Eiendomsopplysn. (på papir)";
+
+/* (No Comment) */
+"SourceTemplate_LegalDocument_Digital" = "Juridisk dokument (digitalt)";
+
+/* (No Comment) */
+"SourceTemplate_LegalDocument_Microfilm" = "Juridisk dokument (mikrofilm)";
+
+/* (No Comment) */
+"SourceTemplate_LegalDocument_PhysicalCopy" = "Juridisk dokument (på papir)";
+
+/* (No Comment) */
+"SourceTemplate_LegalGeneticTesting" = "Rettslig DNA-test";
+
+/* (No Comment) */
+"SourceTemplate_Letter" = "Brev";
+
+/* (No Comment) */
+"SourceTemplate_LocalAndStateRecord_Digital" = "Lokalt eller statlig dokument (digitalt)";
+
+/* (No Comment) */
+"SourceTemplate_LocalAndStateRecord_Microfilm" = "Lokalt eller statlig dokument (mikrofilm)";
+
+/* (No Comment) */
+"SourceTemplate_LocalAndStateRecord_PhysicalCopy" = "Lokalt eller statlig dokument (på papir)";
+
+/* (No Comment) */
+"SourceTemplate_ManuscriptRecord" = "Håndskrevet opptegnelse";
+
+/* (No Comment) */
+"SourceTemplate_Map" = "Kart";
+
+/* (No Comment) */
+"SourceTemplate_MedicalRecord" = "Sykejournal";
+
+/* (No Comment) */
+"SourceTemplate_MilitaryRecord" = "Militærdokument";
+
+/* (No Comment) */
+"SourceTemplate_NationalGovernmentRecord_Digital" = "Nasjonalt regjeringsdokument (digitalt)";
+
+/* (No Comment) */
+"SourceTemplate_NationalGovernmentRecord_Microfilm" = "Nasjonalt regjeringsdokument (mikrofilm)";
+
+/* (No Comment) */
+"SourceTemplate_NationalGovernmentRecord_PhysicalCopy" = "Nasjonalt regjeringsdokument (på papir)";
+
+/* (No Comment) */
+"SourceTemplate_NativeAmericanTribalCensus" = "Folketelling av urbefolkning i Amerika";
+
+/* (No Comment) */
+"SourceTemplate_NaturalizationRecord" = "Naturalisasjonsdokument";
+
+/* (No Comment) */
+"SourceTemplate_Newspaper" = "Avis";
+
+/* (No Comment) */
+"SourceTemplate_NonLegalPrivateGeneticTesting" = "Ikke-juridisk/privat DNA-test";
+
+/* (No Comment) */
+"SourceTemplate_PassengerList" = "Passasjerliste";
+
+/* (No Comment) */
+"SourceTemplate_PensionFile" = "Pensjonsdokumenter";
+
+/* (No Comment) */
+"SourceTemplate_Periodical" = "Tidsskrift";
+
+/* (No Comment) */
+"SourceTemplate_PersonalBible" = "Personlig bibel";
+
+/* (No Comment) */
+"SourceTemplate_PersonalCorrespondence" = "Personlig korrespondanse";
+
+/* (No Comment) */
+"SourceTemplate_Portrait" = "Portrett";
+
+/* (No Comment) */
+"SourceTemplate_PreservationFilm" = "Film for bevaring";
+
+/* (No Comment) */
+"SourceTemplate_ResearchReport_Digital" = "Forskningsrapport (digitalt)";
+
+/* (No Comment) */
+"SourceTemplate_ResearchReport_Microfilm" = "Forskningsrapport (mikrofilm)";
+
+/* (No Comment) */
+"SourceTemplate_ResearchReport_PhysicalCopy" = "Forskningsrapport (på papir)";
+
+/* (No Comment) */
+"SourceTemplate_SchoolRecord_Digital" = "Skoledokument (digitalt)";
+
+/* (No Comment) */
+"SourceTemplate_SchoolRecord_Microfilm" = "Skoledokument (mikrofilm)";
+
+/* (No Comment) */
+"SourceTemplate_SchoolRecord_PhysicalCopy" = "Skoledokument (på papir)";
+
+/* (No Comment) */
+"SourceTemplate_TaxList" = "Skatteliste";
+
+/* (No Comment) */
+"SourceTemplate_UnpublishedNarrative" = "Upublisert fortelling";
+
+/* (No Comment) */
+"SourceTemplate_USCongressionalRecord_Digital" = "Dokument fra USAs Kongress (digitalt)";
+
+/* (No Comment) */
+"SourceTemplate_USCongressionalRecord_Microfilm" = "Dokument fra USAs Kongress (mikrofilm)";
+
+/* (No Comment) */
+"SourceTemplate_VerticalFile" = "Samling av utklipp mm.";
+
+/* (No Comment) */
+"SourceTemplate_Video" = "Video";
+
+/* (No Comment) */
+"SourceTemplate_VitalRecord" = "Sivilstandsdokument";
+
+/* (No Comment) */
+"SourceTemplate_VitalRecord_BirthCertificate" = "Sivilstandsdok. – Fødselsattest";
+
+/* (No Comment) */
+"SourceTemplate_VitalRecord_DeathCertificate" = "Sivilstandsdok. – Dødsattest";
+
+/* (No Comment) */
+"SourceTemplate_VitalRecord_DivorceCertificate" = "Sivilstandsdok. – Skilsmissesattest";
+
+/* (No Comment) */
+"SourceTemplate_VitalRecord_MarriageLicense" = "Sivilstandsdok. – Vielsesattest";
+
+/* (No Comment) */
+"SourceTemplate_WebSite" = "Nettside";
+
+/* (No Comment) */
+"SourceTemplate_Will" = "Testamente";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationBracketMode_AngleBrackets" = "Hakeparenteser";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationBracketMode_Brackets" = "Runde parenteser";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationBracketMode_CurlyBrackets" = "Krøllparenteser";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationBracketMode_DoubleQuotes" = "Doble anførselstegn";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationBracketMode_None" = "Ingen";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationBracketMode_SingleQuotes" = "Enkle anførselstegn";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationFontMode_Bold" = "Fet skrift";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationFontMode_Italic" = "Kursiv";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationFontMode_Normal" = "Normal";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationMode_Long" = "Lang henvisningsstil";
+
+/* SourceTemplateKeyRelation - Enums */
+"SourceTemplateKeyRelation_CitationMode_Short" = "Kort henvisningsstil";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationTrailingMode_Colon" = "Kolon";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationTrailingMode_Comma" = "Komma";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationTrailingMode_Hyphen" = "Bindestrek";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationTrailingMode_Period" = "Punktum";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationTrailingMode_Semicolon" = "Semikolon";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationTrailingMode_Space" = "Mellomrom";
+

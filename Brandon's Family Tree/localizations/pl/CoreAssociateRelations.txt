@@ -1,0 +1,78 @@
+﻿/* (No Comment) */
+"_AssociateRelation_Type_BestFriend" = "Najlepszy przyjaciel";
+
+/* (No Comment) */
+"_AssociateRelation_Type_BestFriend_Inverted" = "Najlepszy przyjaciel";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Boss" = "Przełożony";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Boss_Inverted" = "Pracownik";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Coworker" = "Współpracownik";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Coworker_Inverted" = "Współpracownik";
+
+/* Person Container */
+"_AssociateRelation_Type_Friend" = "Przyjaciel";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Friend_Inverted" = "Przyjaciel";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Godfather" = "Rodzic chrzestny";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Godfather_Inverted" = "Rodzic chrzestny %@";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Neighbor" = "Sąsiad";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Neighbor_Inverted" = "Sąsiad";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Servant" = "Służący";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Servant_Inverted" = "Pracodawca/Mistrz";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Teacher" = "Nauczyciel";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Teacher_Inverted" = "Uczeń";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfBirth" = "Świadek narodzin";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfBirth_Inverted" = "Świadek narodzin %@";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfCivilMarriage" = "Świadek ślubu cywilnego";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfCivilMarriage_Inverted" = "Świadek ślubu cywilnego %@";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfDeath" = "Świadek śmierci";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfDeath_Inverted" = "Świadek śmierci %@";
+
+/* Family Container */
+"_AssociateRelation_Type_WitnessOfMarriage" = "Świadek ślubu";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfMarriage_Inverted" = "Świadek ślubu %@";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfReligiousMarriage" = "Świadek ślubu religijnego";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfReligiousMarriage_Inverted" = "Świadek ślubu religijnego %@";
+

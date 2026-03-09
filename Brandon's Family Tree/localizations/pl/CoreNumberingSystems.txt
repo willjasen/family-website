@@ -1,0 +1,24 @@
+﻿/* (No Comment) */
+"_PersonNumberingSystemController_Type_Ancestors_KekuleSosa" = "System Sosy–Kekulégo (przodkowie)";
+
+/* (No Comment) */
+"_PersonNumberingSystemController_Type_Ancestors_KekuleSosa_Short" = "System Kekulé";
+
+/* (No Comment) */
+"_PersonNumberingSystemController_Type_Descendants_dAboville" = "System d'Aboville'a (potomkowie)";
+
+/* (No Comment) */
+"_PersonNumberingSystemController_Type_Descendants_dAboville_Short" = "System d'Aboville'a";
+
+/* (No Comment) */
+"_PersonNumberingSystemController_Type_Descendants_Henry" = "System Henry'ego (potomkowie)";
+
+/* (No Comment) */
+"_PersonNumberingSystemController_Type_Descendants_Henry_Short" = "System Henry'ego";
+
+/* Types */
+"_PersonNumberingSystemController_Type_None" = "Brak";
+
+/* (No Comment) */
+"_PersonNumberingSystemController_Type_None_Short" = "Brak";
+

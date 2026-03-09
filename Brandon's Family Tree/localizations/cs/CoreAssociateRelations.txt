@@ -1,0 +1,78 @@
+﻿/* (No Comment) */
+"_AssociateRelation_Type_BestFriend" = "Nejlepší přítel";
+
+/* (No Comment) */
+"_AssociateRelation_Type_BestFriend_Inverted" = "Nejlepší přítel";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Boss" = "Šéf";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Boss_Inverted" = "Zaměstnanec";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Coworker" = "Spolupracovník";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Coworker_Inverted" = "Spolupracovník";
+
+/* Person Container */
+"_AssociateRelation_Type_Friend" = "Přítel";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Friend_Inverted" = "Přítel";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Godfather" = "Kmotr(a)";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Godfather_Inverted" = "Kmotr(a) %@";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Neighbor" = "Soused";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Neighbor_Inverted" = "Soused";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Servant" = "Služebník";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Servant_Inverted" = "Zaměstnavatel / Mistr";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Teacher" = "Učitel";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Teacher_Inverted" = "Student";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfBirth" = "Svědek narození";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfBirth_Inverted" = "Svědek narození %@";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfCivilMarriage" = "Svědek občanského sňatku";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfCivilMarriage_Inverted" = "Svědek občanského sňatku %@";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfDeath" = "Svědek úmrtí";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfDeath_Inverted" = "Svědek úmrtí %@";
+
+/* Family Container */
+"_AssociateRelation_Type_WitnessOfMarriage" = "Svědek sňatku";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfMarriage_Inverted" = "Svědek sňatku %@";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfReligiousMarriage" = "Svědek církevního sňatku";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfReligiousMarriage_Inverted" = "Svědek církevního sňatku %@";
+

@@ -1,0 +1,594 @@
+﻿/* (No Comment) */
+"_EditSourceTemplateKeysController_MergeTemplateKeysConflictInformative" = "Stai per unire il campo della fonte '%@' con il campo della fonte '%@', ma in alcune fonti nel tuo albero genealogico, entrambi i campi della fonte sono presenti in un'unica fonte. Per cortesia decidi come procedere per queste fonti:";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_MergeTemplateKeysConflictKeepBoth" = "Mantieni entrambi i valori";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_MergeTemplateKeysConflictKeepSingle" = "Mantieni il valore di %@";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_MergeTemplateKeysConflictMessage" = "Unisci i campi della fonte";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_MergeTemplateKeysDoneInformative" = "Il campo della fonte '%@' è stato unito al campo della fonte '%@'";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_MergeTemplateKeysDoneMessage" = "Campi di origine uniti";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_ReallyMergeTemplateKeysInformative" = "Sicuro di voler unire i campi del modello '%@' e '%@'? Fatto questo, questi diverranno un campo di modello singolo.";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_ReallyMergeTemplateKeysMessage" = "Sicuro di voler unire i campi del modello?";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_RemoveTemplateKeyInformative" = "Sicuro di voler eliminare questo campo di modello selezionato? Ci sono ancora delle informazioni inserite per questo campo di modello,  che verranno eliminate permanentemente.";
+
+/* EditSourceTemplateKeysController */
+"_EditSourceTemplateKeysController_RemoveTemplateKeyMessage" = "Sicuro di voler eliminare il campo del modello? Tutte i campi dalle fonti verranno eliminati in modo permanente.";
+
+/* (No Comment) */
+"_EditSourceTemplatesController_MergeTemplateDoneMessage" = "Modelli della fonte uniti";
+
+/* (No Comment) */
+"_EditSourceTemplatesController_MergeTemplatesDoneInformative" = "I modelli della fonte '%@' e '%@' sono stati uniti correttamente.";
+
+/* (No Comment) */
+"_EditSourceTemplatesController_ReallyMergeTemplateInformative" = "Sicuro di voler unire i modelli '%@' e '%@'? Fatto questo, questi diverranno un modello singolo.";
+
+/* (No Comment) */
+"_EditSourceTemplatesController_ReallyMergeTemplateMessage" = "Sicuro di voler unire i modelli?";
+
+/* (No Comment) */
+"_EditSourceTemplatesController_RemoveTemplateInformative" = "Sicuro di voler eliminare questo modello di fonte? Ci sono fonti allegate a questo modello, che verranno eliminate definitivamente anche se elimini questo modello di fonte.";
+
+/* EditSourceTemplatesController */
+"_EditSourceTemplatesController_RemoveTemplateMessage" = "Sicuro di voler eliminare il modello della fonte? Tutte le fonti allegate verranno eliminate in modo permanente.";
+
+/* (No Comment) */
+"_SourceTemplate_SourcesCount" = "%d Fonti";
+
+/* Counts */
+"_SourceTemplate_SourcesCountSingular" = "%d Fonte";
+
+/* (No Comment) */
+"_SourceTemplateKey_Type_Date" = "Data";
+
+/* SourceTemplateKey */
+"_SourceTemplateKey_Type_Text" = "Testo";
+
+/* (No Comment) */
+"SourceTemplate_AddressBook" = "Rubrica Indirizzi";
+
+/* (No Comment) */
+"SourceTemplate_Book" = "Libro";
+
+/* (No Comment) */
+"SourceTemplate_BusinessOrganisationalRecord" = "Registro dell'organizzazione aziendale";
+
+/* (No Comment) */
+"SourceTemplate_CDROM" = "CD-ROM";
+
+/* (No Comment) */
+"SourceTemplate_CemeteryRecord_Digital" = "Registro del cimitero (digitale)";
+
+/* (No Comment) */
+"SourceTemplate_CemeteryRecord_Microfilm" = "Registro del cimitero (microfilm)";
+
+/* (No Comment) */
+"SourceTemplate_CemeteryRecord_PhysicalCopy" = "Registro del cimitero (copia fisica)";
+
+/* (No Comment) */
+"SourceTemplate_Census_Digital" = "Censimento (digitale)";
+
+/* (No Comment) */
+"SourceTemplate_Census_Microfilm" = "Censimento (microfilm)";
+
+/* (No Comment) */
+"SourceTemplate_Census_PhysicalCopy" = "Censimento (copia fisica)";
+
+/* (No Comment) */
+"SourceTemplate_ChurchRecord_Books" = "Registro della Chiesa (libri)";
+
+/* (No Comment) */
+"SourceTemplate_ChurchRecord_Digital" = "Registro della Chiesa (digitale)";
+
+/* (No Comment) */
+"SourceTemplate_ChurchRecord_Microfilm" = "Registro della Chiesa (microfilm)";
+
+/* (No Comment) */
+"SourceTemplate_CorporateRecord_Digital" = "Registro aziendale (digitale)";
+
+/* (No Comment) */
+"SourceTemplate_CorporateRecord_Microfilm" = "Registro aziendale (microfilm)";
+
+/* (No Comment) */
+"SourceTemplate_CorporateRecord_PhysicalCopy" = "Registro aziendale (copia fisica)";
+
+/* (No Comment) */
+"SourceTemplate_CourtDocuments" = "Documenti della corte";
+
+/* (No Comment) */
+"SourceTemplate_Deed" = "Atto";
+
+/* (No Comment) */
+"SourceTemplate_DiaryOrJournal" = "Diario/Giornale";
+
+/* (No Comment) */
+"SourceTemplate_DraftRegistration" = "Bozza di registrazione";
+
+/* (No Comment) */
+"SourceTemplate_EmailMessage" = "Messaggio di posta elettronica";
+
+/* (No Comment) */
+"SourceTemplate_EmigrationRecord_Digital" = "Documento di emigrazione (digitale)";
+
+/* (No Comment) */
+"SourceTemplate_EmigrationRecord_Microfilm" = "Documento di emigrazione (microfilm)";
+
+/* (No Comment) */
+"SourceTemplate_EmigrationRecord_PhysicalCopy" = "Documento di emigrazione (copia fisica)";
+
+/* (No Comment) */
+"SourceTemplate_FamilyBible" = "Bibbia di famiglia";
+
+/* (No Comment) */
+"SourceTemplate_FamilyChart" = "Diagramma di famiglia";
+
+/* (No Comment) */
+"SourceTemplate_FamilySearch" = "FamilySearch";
+
+/* (No Comment) */
+"SourceTemplate_FuneralHomeRecord" = "Registro delle pompe funebri";
+
+/* SourceTemplate */
+"SourceTemplate_Generic" = "Generico";
+
+/* (No Comment) */
+"SourceTemplate_GraveMarkers" = "Marcatori di tombe";
+
+/* (No Comment) */
+"SourceTemplate_HistoricalLetter_Digital" = "Lettera storica (digitale)";
+
+/* (No Comment) */
+"SourceTemplate_HistoricalLetter_Microfilm" = "Lettera storica (microfilm)";
+
+/* (No Comment) */
+"SourceTemplate_HistoricalLetter_PhysicalCopy" = "Lettera storica (copia fisica)";
+
+/* (No Comment) */
+"SourceTemplate_HistoricalResearch" = "Ricerca storica";
+
+/* (No Comment) */
+"SourceTemplate_ImmigrationRecord_Digital" = "Documento di immigrazione (digitale)";
+
+/* (No Comment) */
+"SourceTemplate_ImmigrationRecord_Microfilm" = "Documento di immigrazione (microfilm)";
+
+/* (No Comment) */
+"SourceTemplate_ImmigrationRecord_PhysicalCopy" = "Documento di immigrazione (copia fisica)";
+
+/* (No Comment) */
+"SourceTemplate_Interview_Digital" = "Intervista (digitale)";
+
+/* (No Comment) */
+"SourceTemplate_Interview_Microfilm" = "Intervista (microfilm)";
+
+/* (No Comment) */
+"SourceTemplate_Interview_PhysicalCopy" = "Intervista (copia fisica)";
+
+/* _SourceTemplate_KeyName */
+"SourceTemplate_KeyName_Abbreviation" = "Abbreviazione";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Agency" = "Agenzia";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Author" = "Autore";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_AuthorAddress" = "Indirizzo dell'autore";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_AuthorCredentials" = "Credenziali dell'autore";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_BookPeriodicalName" = "Nome del Libro/Periodico";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_CallNumber" = "Numero di chiamata";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Cemetery" = "Cimitero";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_CensusYear" = "Anno del censimento";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Church" = "Chiesa";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Collection" = "Collezione";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Compiler" = "Compilatore";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Congress" = "Congresso";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_ContactPerson" = "Contatta la persona";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Copyright" = "Diritto d'autore";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_County" = "Nazione";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Court" = "Corte";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Date" = "Data";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_DateViewed" = "Data vista";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Detail" = "Dettaglio";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Edition" = "Edizione";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_FileNumber" = "Numero del documento";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_FilmNumber" = "Numero del filmato";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_FilmType" = "Tipo di filmato";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_FolderLabel" = "Etichetta della cartella";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Format" = "Formato";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Informant" = "Informatore";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_InformantAddress" = "Indirizzo dell'informatore";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_InformantName" = "Nome dell'informatore";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_InformantRelationship" = "Relazione dell'informatore";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Interviewee" = "Intervistato/a";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Interviewer" = "Intervistatore";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Issue" = "Fascicolo";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_LocationOfSource" = "Luogo della fonte";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_MediaType" = "Tipo di documento mediale";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_MicrofilmRollNumber" = "Numero di rullino del microfilm";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_MilitaryDivision" = "Divisione militare";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_NumberOfRolls" = "Numero di rullini";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_OrderNumber" = "Numero d'ordine";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Organization" = "Organizzazione";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_OtherAuthors" = "Altri autori";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_OtherSubjects" = "Altri soggetti";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Owner" = "Proprietario";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_OwnerAddress" = "Indirizzo proprietario";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_OwnerLocation" = "Luogo del proprietario";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Page" = "Pagina";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Place" = "Luogo";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Presenter" = "Presentatore";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Publication" = "Pubblicazione";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Publisher" = "Editore";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Recipient" = "Destinatario";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Recorder" = "Registratore";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_RecordGroup" = "Gruppo di registrazione";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_ReferenceNumber" = "Numero di riferimento";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_ReferenceType" = "Tipo di riferimento";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Register" = "Registrazione";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Schedule" = "Pianificazione";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_School" = "Scuola";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_SerialNumber" = "Numero seriale";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Series" = "Serie";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_SeriesTitle" = "Titolo delle serie";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Session" = "Sessione";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_StateOrCountry" = "Stato o Nazione";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_StateTerritory" = "Stato/Territorio";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Subject" = "Soggetto";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Submitter" = "Mittente";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Title" = "Titolo";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_TownshipCivilDistrict" = "Distretto civile/municipale";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Tribe" = "Tribù";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Vessel" = "Vascello";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_VolumeNumber" = "Numero del volume";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Volumes" = "Volumi";
+
+/* (No Comment) */
+"SourceTemplate_LandGrantRegister" = "Registro delle concessioni fondiarie";
+
+/* (No Comment) */
+"SourceTemplate_LandRecord_Digital" = "Registro delle concessioni fondiarie (digitale)";
+
+/* (No Comment) */
+"SourceTemplate_LandRecord_Microfilm" = "Registro delle concessioni fondiarie (microfilm)";
+
+/* (No Comment) */
+"SourceTemplate_LandRecord_PhysicalCopy" = "Registro delle concessioni fondiarie (copia fisica)";
+
+/* (No Comment) */
+"SourceTemplate_LegalDocument_Digital" = "Documento legale (digitale)";
+
+/* (No Comment) */
+"SourceTemplate_LegalDocument_Microfilm" = "Documento legale (microfilm)";
+
+/* (No Comment) */
+"SourceTemplate_LegalDocument_PhysicalCopy" = "Documento legale (copia fisica)";
+
+/* (No Comment) */
+"SourceTemplate_LegalGeneticTesting" = "Esami genetici legali";
+
+/* (No Comment) */
+"SourceTemplate_Letter" = "Lettera";
+
+/* (No Comment) */
+"SourceTemplate_LocalAndStateRecord_Digital" = "Registro locale e statale (digitale)";
+
+/* (No Comment) */
+"SourceTemplate_LocalAndStateRecord_Microfilm" = "Registro locale e statale (microfilm)";
+
+/* (No Comment) */
+"SourceTemplate_LocalAndStateRecord_PhysicalCopy" = "Registro locale e statale (copia fisica)";
+
+/* (No Comment) */
+"SourceTemplate_ManuscriptRecord" = "Documento manoscritto";
+
+/* (No Comment) */
+"SourceTemplate_Map" = "Mappa";
+
+/* (No Comment) */
+"SourceTemplate_MedicalRecord" = "Cartella medica";
+
+/* (No Comment) */
+"SourceTemplate_MilitaryRecord" = "Registro militare";
+
+/* (No Comment) */
+"SourceTemplate_NationalGovernmentRecord_Digital" = "Documento del governo nazionale (digitale)";
+
+/* (No Comment) */
+"SourceTemplate_NationalGovernmentRecord_Microfilm" = "Documento del governo nazionale (microfilm)";
+
+/* (No Comment) */
+"SourceTemplate_NationalGovernmentRecord_PhysicalCopy" = "Documento del governo nazionale (copia fisica)";
+
+/* (No Comment) */
+"SourceTemplate_NativeAmericanTribalCensus" = "Censimento tribale dei nativi americani";
+
+/* (No Comment) */
+"SourceTemplate_NaturalizationRecord" = "Documento di naturalizzazione";
+
+/* (No Comment) */
+"SourceTemplate_Newspaper" = "Periodico";
+
+/* (No Comment) */
+"SourceTemplate_NonLegalPrivateGeneticTesting" = "Esami genetici non legali/privati";
+
+/* (No Comment) */
+"SourceTemplate_PassengerList" = "Lista passeggeri";
+
+/* (No Comment) */
+"SourceTemplate_PensionFile" = "Fascicolo previdenziale";
+
+/* (No Comment) */
+"SourceTemplate_Periodical" = "Periodico";
+
+/* (No Comment) */
+"SourceTemplate_PersonalBible" = "Bibbia personale";
+
+/* (No Comment) */
+"SourceTemplate_PersonalCorrespondence" = "Corrispondenza personale";
+
+/* (No Comment) */
+"SourceTemplate_Portrait" = "Ritratto";
+
+/* (No Comment) */
+"SourceTemplate_PreservationFilm" = "Filmato di conservazione";
+
+/* (No Comment) */
+"SourceTemplate_ResearchReport_Digital" = "Rapporto di ricerca (digitale)";
+
+/* (No Comment) */
+"SourceTemplate_ResearchReport_Microfilm" = "Rapporto di ricerca (microfilm)";
+
+/* (No Comment) */
+"SourceTemplate_ResearchReport_PhysicalCopy" = "Rapporto di ricerca (copia fisica)";
+
+/* (No Comment) */
+"SourceTemplate_SchoolRecord_Digital" = "Registro scolastico (digitale)";
+
+/* (No Comment) */
+"SourceTemplate_SchoolRecord_Microfilm" = "Registro scolastico (microfilm)";
+
+/* (No Comment) */
+"SourceTemplate_SchoolRecord_PhysicalCopy" = "Registro scolastico (copia fisica)";
+
+/* (No Comment) */
+"SourceTemplate_TaxList" = "Lista delle tasse";
+
+/* (No Comment) */
+"SourceTemplate_UnpublishedNarrative" = "Narrativa inedita";
+
+/* (No Comment) */
+"SourceTemplate_USCongressionalRecord_Digital" = "Registro del Congresso degli Stati Uniti (digitale)";
+
+/* (No Comment) */
+"SourceTemplate_USCongressionalRecord_Microfilm" = "Registro del Congresso degli Stati Uniti (microfilm)";
+
+/* (No Comment) */
+"SourceTemplate_VerticalFile" = "Documento verticale";
+
+/* (No Comment) */
+"SourceTemplate_Video" = "Filmato";
+
+/* (No Comment) */
+"SourceTemplate_VitalRecord" = "Documento anagrafico";
+
+/* (No Comment) */
+"SourceTemplate_VitalRecord_BirthCertificate" = "Documento anagrafico - Certificato di nascita";
+
+/* (No Comment) */
+"SourceTemplate_VitalRecord_DeathCertificate" = "Documento anagrafico - Certificato di morte";
+
+/* (No Comment) */
+"SourceTemplate_VitalRecord_DivorceCertificate" = "Documento anagrafico - Certificato di divorzio";
+
+/* (No Comment) */
+"SourceTemplate_VitalRecord_MarriageLicense" = "Documento anagrafico - Certificato di matrimonio";
+
+/* (No Comment) */
+"SourceTemplate_WebSite" = "Sito";
+
+/* (No Comment) */
+"SourceTemplate_Will" = "Testamento";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationBracketMode_AngleBrackets" = "Parentesi acute";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationBracketMode_Brackets" = "Parentesi tonde";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationBracketMode_CurlyBrackets" = "Parentesi graffe";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationBracketMode_DoubleQuotes" = "Virgolette doppie";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationBracketMode_None" = "Nessuno";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationBracketMode_SingleQuotes" = "Virgolette singole";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationFontMode_Bold" = "Grassetto";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationFontMode_Italic" = "Corsivo";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationFontMode_Normal" = "Normale";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationMode_Long" = "Stile per le citazioni lunghe";
+
+/* SourceTemplateKeyRelation - Enums */
+"SourceTemplateKeyRelation_CitationMode_Short" = "Stile per la citazione breve";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationTrailingMode_Colon" = "Due punti";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationTrailingMode_Comma" = "Virgola";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationTrailingMode_Hyphen" = "Trattino";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationTrailingMode_Period" = "Periodo";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationTrailingMode_Semicolon" = "Punto e virgola";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationTrailingMode_Space" = "Spaziatura bianca";
+

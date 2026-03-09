@@ -1,0 +1,1134 @@
+﻿/* BurnWebSiteExportPublish */
+"_BurnWebSiteExportPublish_Title" = "Vypálit webovou stránku na CD/DVD";
+
+/* FTPWebSiteExportPublish */
+"_FTPWebSiteExportPublish_Title" = "Nahrát na FTP Server";
+
+/* (No Comment) */
+"_FTPWebSiteExportPublish_UploadFailed" = "Nahrávání na FTP selhalo";
+
+/* (No Comment) */
+"_FTPWebSiteExportPublish_UploadFinishedMessage" = "Nahrávání na FTP server '%@' bylo dokončeno v %@.";
+
+/* (No Comment) */
+"_FTPWebSiteExportPublish_UploadFinishedTitle" = "Nahrávání na FTP bylo dokončeno";
+
+/* (No Comment) */
+"_FTPWebSiteExportPublish_UploadProgress" = "Nahráno %.2f z %.2f MB";
+
+/* (No Comment) */
+"_FTPWebSiteExportPublish_UploadProgressHeadline" = "Nahrávání na FTP server…";
+
+/* (No Comment) */
+"_MacFamilyTreeComEditTree_NoPasswordEntered" = "Zadejte prosím heslo pro svůj web na MacFamilyTree.com.";
+
+/* MacFamilyTreeComEditTree */
+"_MacFamilyTreeComEditTree_Title" = "Upravit nastavení rodokmenu";
+
+/* MacFamilyTreeComEditUser */
+"_MacFamilyTreeComEditUser_Title" = "Upravit můj účet";
+
+/* (No Comment) */
+"_MacFamilyTreeComLoginView_ForgotPasswordButton" = "Zapomenuté heslo";
+
+/* (No Comment) */
+"_MacFamilyTreeComLoginView_LoginButton" = "Přihlásit se";
+
+/* (No Comment) */
+"_MacFamilyTreeComLoginView_Password" = "Heslo:";
+
+/* (No Comment) */
+"_MacFamilyTreeComLoginView_RegisterButton" = "Vytvořit nový účet";
+
+/* MacFamilyTreeComLoginView */
+"_MacFamilyTreeComLoginView_UserName" = "Uživatelské jméno:";
+
+/* MacFamilyTreeComRegisterNewTree */
+"_MacFamilyTreeComRegisterNewTree_Title" = "Nahrát nový web";
+
+/* MacFamilyTreeComRegisterNewUser */
+"_MacFamilyTreeComRegisterNewUser_Title" = "Zaregistrovat se na MacFamilyTree.com";
+
+/* (No Comment) */
+"_MacFamilyTreeComWebSiteExportPublish_ListTopHint" = "Vyberte webovou stránku, kterou chcete nahradit, ze seznamu níže, nebo nahrajte novou.";
+
+/* (No Comment) */
+"_MacFamilyTreeComWebSiteExportPublish_NoTreesPresentMessage" = "Zatím jste na MacFamilyTree.com nenahráli žádné webové stránky. Použijte tlačítko „Nová webová stránka“ a nahrajte svou první webovou stránku.";
+
+/* (No Comment) */
+"_MacFamilyTreeComWebSiteExportPublish_NoTreesPresentTitle" = "Žádné webové stránky na MacFamilyTree.com";
+
+/* (No Comment) */
+"_MacFamilyTreeComWebSiteExportPublish_ReplaceExistingTreeButton" = "Nahradit web";
+
+/* MacFamilyTreeComWebSiteExportPublish */
+"_MacFamilyTreeComWebSiteExportPublish_Title" = "Nahrát na MacFamilyTree.com";
+
+/* (No Comment) */
+"_MacFamilyTreeComWebSiteExportPublish_UploadNewTreeButton" = "Nový web";
+
+/* (No Comment) */
+"_MacFamilyTreeComWebSiteExportPublish_UploadProgressHeadline" = "Nahrávání na MacFamilyTree.com…";
+
+/* (No Comment) */
+"_ManageMacFamilyTreeCom_DeleteTree_Informative" = "Opravdu chcete smazat webovou stránku „%@“ na MacFamilyTree.com? Tuto akci nelze vrátit zpět.";
+
+/* (No Comment) */
+"_ManageMacFamilyTreeCom_DeleteTree_Message" = "Opravdu smazat web na MacFamilyTree.com?";
+
+/* (No Comment) */
+"_ManageMacFamilyTreeCom_EditUserButton" = "Upravit můj účet";
+
+/* (No Comment) */
+"_ManageMacFamilyTreeCom_ListTopHint" = "Níže jsou uvedeny všechny webové stránky, které jste vytvořili na MacFamilyTree.com. Webové stránky můžete odebrat nebo upravit jejich název a ochranu heslem výběrem konkrétní webové stránky. Chcete-li nahradit obsah, upravit nebo přidat webovou stránku, proveďte tyto změny na předchozí obrazovce a vyberte možnost „Publikovat“.";
+
+/* (No Comment) */
+"_ManageMacFamilyTreeCom_LogoutButton" = "Odhlásit se";
+
+/* (No Comment) */
+"_ManageMacFamilyTreeCom_NoTreesPresentMessage" = "Na MacFamilyTree.com jste nenahráli žádné webové stránky. Chcete-li nahrát webovou stránku, vytvořte ji na předchozí obrazovce a nahrajte ji na MacFamilyTree.com.";
+
+/* (No Comment) */
+"_ManageMacFamilyTreeCom_NoTreesPresentTitle" = "Žádné webové stránky na MacFamilyTree.com";
+
+/* ManageMacFamilyTreeCom */
+"_ManageMacFamilyTreeCom_Title" = "Správa webových stránek a účtu MacFamilyTree.com";
+
+/* (No Comment) */
+"_WebSiteExport_Beach_Theme" = "Pláž";
+
+/* (No Comment) */
+"_WebSiteExport_Blue_Theme" = "Modré hory";
+
+/* (No Comment) */
+"_WebSiteExport_BurnCDMenuItem" = "Vypálit CD/DVD…";
+
+/* (No Comment) */
+"_WebSiteExport_Chart_Page_Chart_Section_Title" = "Uložený graf";
+
+/* (No Comment) */
+"_WebSiteExport_Charts_Page_Charts_Section_Title" = "Uložené grafy";
+
+/* Saved Charts Page */
+"_WebSiteExport_Charts_Page_Title_Section_Title" = "Grafy";
+
+/* Themes */
+"_WebSiteExport_Classic_Theme" = "Klasický";
+
+/* (No Comment) */
+"_WebSiteExport_Clean_Theme" = "Čistý";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ActiveLinkColor" = "Barva aktivního odkazu";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_BlurRadius" = "Poloměr rozmazání";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Color" = "Barva";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ColorizePersonPlaceholderImages" = "Odstín podle pohlaví";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_CustomHomePageImage" = "Vyberte vlastní obrázek, který se má zobrazit na domovské stránce.";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_DisableAnimations" = "Zakázat animace";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_DNAPageSettings" = "Stránka DNA";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_EnabledStatisticChartTypes" = "Statistické grafy";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_EventPageSettings" = "Stránka události";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ExportPersonsModeAll" = "Všechny osoby";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ExportPersonsModeFromPersonGroups" = "Osoby ve skupinách osob";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ExportPersonsModeFromScope" = "Osoby v dynamickém filtru";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_FamilyPageSettings" = "Stránka rodiny";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Font" = "Písmo";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HideDetailsOfLivingPersons" = "Skrýt podrobnosti žijících osob";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HideInformationMarkedAsPrivate" = "Skrýt informace označené jako soukromé";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Highlight_Color_Number" = "Barva #%d";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HomePageImageType" = "Obrázek";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HomePageImageType_CustomImage" = "Vlastní obrázek";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HomePageImageType_FamilyCrest" = "Rodinný erb";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HomePageImageType_None" = "Žádný";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HomePageImageType_StartPerson" = "Od výchozí osoby";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HomePageSettings" = "Úvodní stránka";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartAlignment" = "Zarovnání grafu rozrod-vývod";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartConnectionItemCornerRadius" = "Poloměr rohu";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartPersonItemBorderColor" = "Barva ohraničení";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartPersonItemBorderWidth" = "Šířka ohraničení";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartPersonItemCornerRadius" = "Poloměr rohu";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartPersonItemSubTitleColor" = "Barva podtitulu";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartPersonItemSubTitleFont" = "Písmo podtitulu";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartPersonItemTitleColor" = "Barva názvu";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartPersonItemTitleFont" = "Písmo názvu";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartSelectedPersonItemBorderWidth" = "Vybraná šířka ohraničení";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ImprintPageSettings" = "Impresum";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeAudio" = "Audio soubory";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeDNA" = "Informace DNA";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeGEDCOMFile" = "Soubor GEDCOM ke stažení";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeLabels" = "Štítky";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeLastEdited" = "Naposledy upraveno";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeNumberingSystemString" = "Informace o systému číslování";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludePDFs" = "PDF soubory";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludePersonGroups" = "Skupiny osob";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludePictures" = "Obrázky";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeSavedCharts" = "Uložené grafy";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeSources" = "Zdroje";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeStories" = "Příběhy";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeURLs" = "Odkazy";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeVideos" = "Videa";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Label_For_Family_Members" = "Štítek pro rodinné členy";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Label_For_Family_Members_Use_Man_Woman" = "Použít muž / žena";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Label_For_Family_Members_Use_Partner1_Partner2" = "Použít Partner 1 / Partner 2";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Language_Label" = "Jazyk";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_LinkColor" = "Barva odkazu";
+
+/* Configuration */
+"_WebSiteExport_Configuration_MajorGroupTitle_General" = "Obecné";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MajorGroupTitle_HourglassChart" = "Graf rozrod-vývod";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MajorGroupTitle_Pages" = "Stránky";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MajorGroupTitle_Persons" = "Osoby";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MajorGroupTitle_Theme" = "Motiv";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MediaPageSettings" = "Stránka médií";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MidGroupTitle_HourglassChartOtherPersonItem" = "Ostatní osoby";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MidGroupTitle_HourglassChartSelectedPersonItem" = "Zaměřená osoba";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Animations" = "Animace";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_ExportOptions" = "Možnosti";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_ExportPersonsMode" = "Osoby k zobrazení";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_HighlightColors" = "Barvy zvýraznění";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_HomePageImage" = "Obrázek";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_HomePageIntroduction" = "Úvod";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_HourglassChart_Background" = "Pozadí";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_HourglassChart_ConnectionItem" = "Propojení";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_HourglassChart_PersonItem" = "Osoby";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_ImprintAuthorContact" = "Kontakt na autora";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Includes" = "Zahrnout";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Introduction" = "Úvod";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Links" = "Odkazy";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Menu" = "Menu";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_PageSections" = "Sekce stránky";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_PersonPageHourglassChart" = "Graf rozrod-vývod";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Persons" = "Osoby";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Privacy" = "Soukromí";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Sections" = "Sekce";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_StartPerson" = "Výchozí osoba";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_ThemeImages" = "Obrázky motivu";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Title" = "Název";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_WebSite" = "Webová stránka";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_OptimizePictureFileSize" = "Optimalizovat velikost obrázků pro menší soubory";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_PageSections" = "Sekce stránky";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_PersonGroupPageSettings" = "Stránka skupiny osob";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_PersonNameFormate" = "Formát jména osob";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_PersonPageSettings" = "Stránka osoby";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_PlacePageSettings" = "Stránka místa";
+
+/* Website Configuration */
+"_WebSiteExport_Configuration_Popup_Title" = "Nastavení";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Section_Placement_Full_Width" = "Plná šířka";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Section_Placement_Header" = "Hlavička";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Section_Placement_Left" = "Vlevo";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Section_Placement_Right" = "Vpravo";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Section_Placement_Side" = "Postranní";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ShowFamilyCrestInTitle" = "Zobrazit rodinný erb v názvu";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_SourcePageSettings" = "Stránka zdrojů";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_StatisticsPageSettings" = "Stránka statistik";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_StoryPageSettings" = "Stránka příběhu";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_TextAlignment" = "Zarovnání";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_TextAlignment_Center" = "Uprostřed";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_TextAlignment_Left" = "Vlevo";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_TextAlignment_Right" = "Vpravo";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Theme_Label" = "Motiv";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Theme_Title" = "Název motivu";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ThemeBackgroundImage" = "Obrázek pozadí";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ThemeHeaderBackgroundImage" = "Obrázek v hlavičce";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_UseFamilyCrestAsFavicon" = "Použít rodinný erb jako favicon";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteAuthorAddress" = "Adresa";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteAuthorEmail" = "E-mail";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteAuthorName" = "Autor";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteAuthorPhone" = "Telefon";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteImprintNote" = "Poznámka";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteIntroduction" = "Úvod";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteStartPerson" = "Výchozí osoba";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteSubTitle" = "Podtitul";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteTitle" = "Název";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_3" = "Prosím zkontrolujte URL serveru a cestu";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_6" = "Belze vyhledat doménu.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_7" = "Selhalo spojení k hostu.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_9" = "Přístup zamítnut.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_25" = "FTP server odmítl příkaz STORE.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_30" = "Chyba portu FTP.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_35" = "SSL/TLS spojení selhalo.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_60" = "Vzdálený certifikát nelze ověřit známými CA autoritami";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_64" = "Požadovaná úroveň SSL selhala.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_67" = "Přihlášení zamítnuto. Zkontrolujte vaše FTP jméno a heslo.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_73" = "Soubor již existuje a nelze jej přepsat. Zkontrolujte vaše oprávnění na serveru.";
+
+/* CurlErrorCodes */
+"_WebSiteExport_CurlError_Generic" = "Interní chyba (%d).";
+
+/* (No Comment) */
+"_WebSiteExport_Dark_Theme" = "Antilopí kaňon";
+
+/* (No Comment) */
+"_WebSiteExport_DarkBubbles_Theme" = "Bubliny";
+
+/* (No Comment) */
+"_WebSiteExport_Default_WebSiteExportFolderName" = "Webová stránka mého rodokmenu";
+
+/* Details Of Living Persons Hidden */
+"_WebSiteExport_Details_Of_Living_Persons_Hidden_Person_Name" = "Skryté podrobnosti o osobě";
+
+/* (No Comment) */
+"_WebSiteExport_ExportToFolderMenuItem" = "Exportovat do složky…";
+
+/* (No Comment) */
+"_WebSiteExport_Flowers_Theme" = "Květiny";
+
+/* (No Comment) */
+"_WebSiteExport_Forest_Path_Theme" = "Lesní cesta";
+
+/* (No Comment) */
+"_WebSiteExport_Forest_Theme" = "Les";
+
+/* (No Comment) */
+"_WebSiteExport_Green_Hills_Theme" = "Východ slunce";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Created_On" = "Vytvořeno dne: %@";
+
+/* Home Page */
+"_WebSiteExport_Home_Page_Created_With_MacFamilyTree" = "Webová stránka byla vytvořena pomocí MacFamilyTree 11";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Download_GedcomFile_Description" = "Kliknutím na obrázek výše si stáhnete soubor GEDCOM tohoto rodokmenu. Soubory GEDCOM lze importovat téměř všemi dostupnými genealogickými aplikacemi na trhu.";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_GedcomFile_DownloadLinkTitle" = "Stáhnout soubor GEDCOM";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_BookmarkedFamilies" = "Rodiny uložené do záložek";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_BookmarkedMedia" = "Média uložené do záložek";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_BookmarkedPersons" = "Osoby uložené do záložek";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_BookmarkedPlaces" = "Místa uložené do záložek";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_BookmarkedSources" = "Zdroje uložené do záložek";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_CreationDate" = "Datum vytvoření";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_GedcomFile" = "Soubor GEDCOM";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_Image" = "Obrázek nebo rodinný erb";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_Introduction" = "Úvod";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_Introduction_Placeholder" = "Toto je zástupný text na úvod. Můžete jej změnit v sekci Webová stránka > Stránky > Úvodní stránka > Úvod.";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_StartPerson" = "Výchozí osoba";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_SubTitle" = "Podtitul";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_Title" = "Název";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Author_Contact_Section_Title" = "Kontakt na autora";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Note_Section_Title" = "Poznámka";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Synium_Contact_AppStore_Label" = "Mac App Store";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Synium_Contact_AppStore_Link_11" = "MacFamilyTree 11";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Synium_Contact_Company" = "Synium Software GmbH Německo";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Synium_Contact_Company_Label" = "Společnost";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Synium_Contact_Section_Title" = "Kontakt na Synium";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Synium_Contact_Website_Label" = "Webová stránka";
+
+/* Imprint Page */
+"_WebSiteExport_Imprint_Page_Title_Section_Title" = "Impresum";
+
+/* (No Comment) */
+"_WebSiteExport_IndexCards_Theme" = "Indexové karty";
+
+/* (No Comment) */
+"_WebSiteExport_Inspector_ThemesTitle" = "Motivy";
+
+/* Inspector */
+"_WebSiteExport_Inspector_WebSiteSettingsTitle" = "Webová stránka";
+
+/* (No Comment) */
+"_WebSiteExport_Leafs_Theme" = "Bambus";
+
+/* (No Comment) */
+"_WebSiteExport_LeftMenu_Theme" = "Pobřeží";
+
+/* (No Comment) */
+"_WebSiteExport_LeftMenuBlurryBackground_Theme" = "Fialový";
+
+/* (No Comment) */
+"_WebSiteExport_List_No_Entry_DueToSearch_Placeholder" = "Pro zadaný hledaný výraz nebyl nalezen žádný záznam.";
+
+/* (No Comment) */
+"_WebSiteExport_List_No_Entry_Placeholder" = "Nebyl nalezen žádný záznam.";
+
+/* Lists */
+"_WebSiteExport_List_Search_Placeholder" = "Hledat…";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_By" = "Řadit podle";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Family_Last_Name_Key" = "Rodné příjmení";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Family_Name_Key" = "Rodné jméno";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_BirthDate_Key" = "Datum narození";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_DeathDate_Key" = "Datum úmrtí";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_FirstName_Key" = "Křestní jméno";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_Group_Name_Key" = "Název skupiny";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_LastName_Key" = "Příjmení";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_NameMiddle_Key" = "Prostřední jméno";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_NamePrefix_Key" = "Před jménem";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_NameSuffix_Key" = "Za jménem";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Place_Name_Key" = "Název místa";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Source_Title_Key" = "Název zdroje";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Story_Title_Key" = "Název příběhu";
+
+/* (No Comment) */
+"_WebSiteExport_LoadingFamilyTreeData" = "Načítání rodokmenu…";
+
+/* (No Comment) */
+"_WebSiteExport_LoadingFamilyTreeData_Failed" = "Načítání rodokmenu selhalo";
+
+/* (No Comment) */
+"_WebSiteExport_ManageThemes_Label" = "Motiv:";
+
+/* (No Comment) */
+"_WebSiteExport_ManageWebSiteExportThemes" = "Spravovat motivy";
+
+/* (No Comment) */
+"_WebSiteExport_ManageWebSiteExportThemes_AddThemeHint" = "Vyberte si motiv ze seznamu níže, který chcete přidat pro tento web.";
+
+/* (No Comment) */
+"_WebSiteExport_ManageWebSiteExportThemes_AddThemeTitle" = "Přidat motiv";
+
+/* (No Comment) */
+"_WebSiteExport_ManageWebSiteExportThemes_Hint" = "Všechny související motivy pro tyto webové stránky jsou uvedeny níže. Chcete-li přidat další motiv, použijte tlačítko „Přidat“ výše. Přetahováním motivů můžete také měnit jejich pořadí. První motiv v tomto seznamu bude výchozím motivem vašeho webu.";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Charts" = "Grafy";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Families" = "Rodiny";
+
+/* Website Menu */
+"_WebSiteExport_Menu_HomePage" = "Úvod";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Imprint" = "Impresum";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_PersonGroups" = "Skupiny osob";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Persons" = "Osoby";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Places" = "Místa";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Sources" = "Zdroje";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Statistics" = "Statistiky";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Stories" = "Příběhy";
+
+/* (No Comment) */
+"_WebSiteExport_MFT11_Theme" = "Jedenáct";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_AuthenticationFailed" = "Autentizace selhala. Ujistěte se, že bylo zadáno správně jak uživatelské jméno, tak heslo.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Client_Error" = "Klientská chyba";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Client_Error_Informative_Text" = "Došlo ke klientské chybě (%@). Zkuste to prosím znovu. Pokud chyba přetrvá, kontaktujte tým podpory.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_CommandMismatch" = "Chyba v příkaze";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_CommandUnknown" = "Příkaz neznámý";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Connection_Error" = "Chyba spojení";
+
+/* MFT server NSURLConnection errors */
+"_WebSiteExport_MFTExport_ConnectionErrorCannotConnectToHost" = "Nelze navázat spojení s MacFamilyTree.com. Ověřte prosím internetové spojení a zkuste to znovu.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_ConnectionErrorCannotFindHost" = "Nelze kontaktovat MacFamilyTree.com (selhalo vyhledání na DNS). Ověřte, zda je vaše internetové spojení aktivní.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_ConnectionErrorTimedOut" = "Vaše spojení s MacFamilyTree.com vypršelo. Zkuste to prosím později.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Delete_Old_Files" = "Smazat staré soubory";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_DeleteFailed" = "Mazání souborů selhalo";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error" = "Neznámá chyba";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_Connection_Cant_Be_Initialized" = "Spojení nelze navázat";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_Email_Not_Valid" = "E-mailová adresa není platná";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_NoSSL_Connect_Without_SSL" = "Propojit";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_Not_Logged_In" = "Nepřihlášen";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_Password_Empty" = "Prázdné heslo";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_Passwords_mismatch" = "Chyba hesla";
+
+/* MFT Upload */
+"_WebSiteExport_MFTExport_Error_Undefined" = "Nedefinovaná chyba";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_Upload_Limit_Exceeded" = "Váš web přesáhl limit pro nahrávání. Odeberte některé velké soubory multimédií (PDF, videa, fotografie) a zksute to znovu.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_User_Or_Password_Empty" = "Uživatel nebo heslo jsou prázdné";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_User_String_Not_Valid" = "V uživatelském jméně prosím použijte pouze alfanumerické znaky";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Failed" = "Nahrávání selhalo";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_FileHashesError" = "Chyba při nahrávání hashů souboru";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Get_FileHashes" = "Získat hashe souborů";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Get_Upload_Limit" = "Získat limit nahrávání";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Open_In_Browser" = "Otevřít v prohlížeči";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_PersonListInvalid" = "Chyba při nahrávání seznamu osob";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_PersonUpdateFailed" = "Aktualizace osoby selhala";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Server_Error" = "Chyba serveru";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Server_Error_Informative_Text" = "Server MacFamilyTree.com není v tuto chvíli k dispozici. Zkuste to prosím později.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Successful" = "Nahrávání úspěšné";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Successful_Informative_Text" = "Váš web byl nahrán. Nyní můžete otevřít web v prohlížeči.";
+
+/* MFT server error keys */
+"_WebSiteExport_MFTExport_TreeNameInvalid" = "Název webu není platný. Použijte pouze alfanumerické znaky.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_TreeNameTaken" = "Web s tímto názvem již existuje.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_TreeNameTooLong" = "Název webu je příliš dlouhý (max. %@ znaků)";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_TreeNameTooShort" = "Název webu je příliš krátký (min. %@ znaků)";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_TreeNotFound" = "Web nebyl naleze.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_TreePasswordInvalid" = "Heslo webu není platné.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_TreePasswordTooShort" = "Heslo webu je příliš krátké (min. %@ znaků)";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Unknown_Error" = "Neznámá chyba";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Unknown_Error_Informative_Text" = "Došlo k neznámé chybě (%@). Zkuste to prosím znovu. Pokud chyba přetrvá, kontaktujte tým podpory.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UnzipFailed" = "Extrahování webu selhalo";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Upload_New_FileHashes" = "Nahrát nové hashe souborů";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Upload_New_Files" = "Nahrát nové soubory";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Upload_Successful" = "Nahrávání úspěšné";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Upload_Validating_New_Files" = "Validace nových souborů...";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Upload_Validating_New_Persons_List" = "Validace nových osob...";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_User_Or_Password_Wrong" = "Přihlášení zamítnuto. Jméno či heslo je chybné.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserEmailAddressInvalid" = "E-mailová adresa není platná";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserEmailAddressTaken" = "Tato e-mailová adresa je již na MacFamilyTree použita. Na jednu e-mailovou adresu je možné registrovat pouze jeden účet.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserNameInvalid" = "Uživatelské jméno není platné";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserNameTaken" = "Uživatelské jméno již existuje";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserNameTooLong" = "Uživatelské jméno je příliš dlouhé (max. %@ znaků)";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserNameTooShort" = "Uživatelské jméno je příliš krátké (min. %@ znaků)";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserPasswordInvalid" = "Uživatelské heslo je neplatné";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserPasswordTooShort" = "Uživatelské heslo je příliš krátké (min. %@ znaků)";
+
+/* (No Comment) */
+"_WebSiteExport_NavigateBackButton" = "Zpět";
+
+/* WebSitePane */
+"_WebSiteExport_NavigateForwardButton" = "Vpřed";
+
+/* (No Comment) */
+"_WebSiteExport_NoWebSitesPlaceholder_AddWebSiteButton" = "Přidat první webovou stránku";
+
+/* (No Comment) */
+"_WebSiteExport_NoWebSitesPlaceholder_Message" = "V tomto rodokmenu nejsou žádné webové stránky. Pro vytvoření první webové stránky vyberte možnost „Přidat první webovou stránku“.";
+
+/* Websites */
+"_WebSiteExport_NoWebSitesPlaceholder_Title" = "Nejsou k dispozici žádné webové stránky";
+
+/* (No Comment) */
+"_WebSiteExport_Page_Header_Section_Title" = "Sekce záhlaví";
+
+/* Common Page */
+"_WebSiteExport_Page_Overview_Section_Title" = "Přehled";
+
+/* Person Page */
+"_WebSiteExport_Person_Page_Hourglass_Section_Title" = "Graf rozrod-vývod";
+
+/* Place Page */
+"_WebSiteExport_Place_Page_Map_Section_Title" = "Mapa";
+
+/* (No Comment) */
+"_WebSiteExport_Place_Page_View_Place_In_Maps" = "Zobrazit místo na mapě";
+
+/* (No Comment) */
+"_WebSiteExport_Plain_Theme" = "Jednoduchý";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_CollectingFamilyTreeInformation" = "Shromažďování informací o rodokmenu…";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_CreatingWebsiteForLocalViewingInformative" = "Tvorba webové stránky pro místní prohlížení.";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_CreatingWebsiteForSharingInformative" = "Příprava webových stránek ke sdílení - vyčkejte prosím";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_CreatingWebsiteForWebServerInformative" = "Tvorba webové stránky pro webový server.";
+
+/* Progress */
+"_WebSiteExport_Progress_CreatingWebsiteHeadline" = "Vytváření webové stránky…";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_CreatingWebsiteInformative" = "Počkejte prosím";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_ExportingGedcom" = "Exportování souboru GEDCOM…";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_ExportingMedia" = "Exportování mediálních souborů…";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_ExportingResources" = "Exportování zdrojů…";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_ExportingSavedCharts" = "Exportování uložených grafů…";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_ExportingStatisticCharts" = "Exportování statistických grafů…";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_ExportingThemes" = "Exportování motivů…";
+
+/* (No Comment) */
+"_WebSiteExport_PublishButton" = "Zveřejnit";
+
+/* (No Comment) */
+"_WebSiteExport_ResetThemeToDefaults" = "Obnovit výchozí nastavení motivu";
+
+/* (No Comment) */
+"_WebSiteExport_ResetThemeToDefaults_Short" = "Obnovit";
+
+/* (No Comment) */
+"_WebSiteExport_ShareMenuItem" = "Sdílet…";
+
+/* (No Comment) */
+"_WebSiteExport_ShouldSaveModifiedWebSite_InformativeText" = "Chcete uložit změny, které jste provedli na této webové stránce?";
+
+/* (No Comment) */
+"_WebSiteExport_ShouldSaveModifiedWebSite_MessageText" = "Uložit změny ve webové stránce?";
+
+/* Manage Themes */
+"_WebSiteExport_Show_ManageThemes_MenuTitle" = "Spravovat motivy…";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_DivorcedFamiliesCount" = "Rozvedené rodiny";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_EarliestEvent" = "Nejstarší událost";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_Family_Statistics_Section_Title" = "Rodinné statistiky";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_FamilyCount" = "Celkový počet rodin";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_FamilyEventCount" = "Rodinné události";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_FemalePersonCount" = "Osoby ženského pohlaví";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_IntersexGenderPersonCount" = "Intersexuální osoby";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_LatestEvent" = "Nejnovější událost";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_MalePersonCount" = "Osoby mužského pohlaví";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_MarriedFamiliesCount" = "Rodiny v manželství";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_Person_Statistics_Section_Title" = "Osobní statistiky";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_PersonCount" = "Celkový počet osob";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_PersonEventCount" = "Osobní události";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_StatisticCharts_Section_Title" = "Statistické grafy";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_Time_Statistics_Section_Title" = "Čas a data";
+
+/* Statistics Page */
+"_WebSiteExport_Statistics_Page_Title_Section_Title" = "Statistiky";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_UnknownGenderPersonCount" = "Osoby s neznámým pohlavím";
+
+/* (No Comment) */
+"_WebSiteExport_Stripes_Theme" = "Pruhy";
+
+/* (No Comment) */
+"_WebSiteExport_TopMenu_Theme" = "Objekty s přechody";
+
+/* (No Comment) */
+"_WebSiteExport_Unnamed_WebSite" = "Nepojmenovaný web";
+
+/* (No Comment) */
+"_WebSiteExport_UploadToFTPMenuItem" = "Nahrát na FTP server…";
+
+/* (No Comment) */
+"_WebSiteExport_UploadToMacFamilyTreeComMenuItem" = "Nahrát na MacFamilyTree.com…";
+
+/* (No Comment) */
+"_WebSiteExport_WebSite_ChangeDate" = "Datum změny: %@";
+
+/* (No Comment) */
+"_WebSiteExport_WebSite_CreationDate" = "Datum vytvoření: %@";
+
+/* (No Comment) */
+"_WebSiteExportMFTTreeObject_Active" = "Online";
+
+/* (No Comment) */
+"_WebSiteExportMFTTreeObject_NotActive" = "Neaktivní";
+
+/* (No Comment) */
+"_WebSiteExportMFTTreeObject_NotPublic" = "Neveřejný";
+
+/* WebSiteExportMFTTreeObject */
+"_WebSiteExportMFTTreeObject_Public" = "Veřejný";
+
+/* WebSitesPane */
+"_WebSites_AddNewWebSiteButton" = "Přidat nový web";
+
+/* (No Comment) */
+"_WebSites_DeleteWebSiteButton" = "Smazat web";
+
+/* (No Comment) */
+"_WebSites_DuplicateWebSiteButton" = "Duplikovat web";
+
+/* (No Comment) */
+"_WebSites_EditWebSiteButton" = "Upravit web";
+
+/* (No Comment) */
+"_WebSites_ManageMacFamilyTreeComButton" = "Správa MacFamilyTree.com…";
+
+/* (No Comment) */
+"_WebSitesController_DeleteWebSiteInformative" = "Opravdu chcete smazat tento web?";
+
+/* WebSiteExportController */
+"_WebSitesController_DeleteWebSiteMessage" = "Smazat web?";
+
+/* (No Comment) */
+"_WebSitesController_ExportedWebSiteToFolder" = "Webová stránka byla úspěšně exportována";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToFolder_ForLocalViewing" = "Pro místní prohlížení";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToFolder_ForWebServer" = "Pro webový server";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToFolder_OpenFolderInFinder" = "Zobrazit ve Finderu";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToFolder_Question_Informative" = "Chcete webovou stránku exportovat do složky pro místní prohlížení, nebo ji chcete uložit ve formátu, který lze hostovat na webovém serveru?";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToFolder_Question_Message" = "Exportovat webovou stránku do složky";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToShare_Question_Informative" = "Chcete sdílet exportovanou webovou stránku pro místní prohlížení, nebo chcete sdílet webové stránky ve formátu, který lze hostovat na webovém serveru?";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToShare_Question_Message" = "Sdílet exportovanou webovou stránku";
+
+/* (No Comment) */
+"_WebSitesController_LimitedPersonsForPreview_Question_Informative" = "Tento náhled zobrazí maximálně 500 osob. Vaše exportované webové stránky však budou obsahovat všechny vybrané osoby.";
+
+/* (No Comment) */
+"_WebSitesController_LimitedPersonsForPreview_Question_Message" = "Náhled";
+

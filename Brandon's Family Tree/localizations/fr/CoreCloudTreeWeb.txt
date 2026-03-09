@@ -1,0 +1,207 @@
+﻿/* LoginPage */
+"_CoreCloudTreeWeb__CreateAppleID" = "Créer un identifiant Apple";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptedShare" = "Invitation CloudTree acceptée : %@.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptedShare_Needs_To_Sign_In_To_Different_Container" = "Pour voir cet arbre, il faut d'abord se déconnecter. Puis connectez-vous à %@.";
+
+/* AcceptShare */
+"_CoreCloudTreeWeb_AcceptShare_ActionsMenu_Title" = "Accepter l'invitation CloudTree…";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptShare_Failed" = "L'acceptation de l'invitation de CloudTree a échoué (%@).";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptShare_Failed_No_Matching_Container" = "L'acceptation de l'invitation CloudTree a échoué, le lien de partage n'est pas valide.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptShare_Instruction" = "Pour accepter une invitation à un arbre partagé, veuillez coller le lien que vous avez reçu dans le champ texte ci-dessus et cliquez sur \"Ok\".";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptShare_NeedLoginOrCreateAppleIDDescription" = "Vous devez vous connecter avec votre identifiant Apple, afin de participer à cet arbre généalogique partagé avec vous via CloudTree. Si vous n'avez pas d'identifiant Apple, veuillez en créer un gratuitement afin de participer à cet arbre généalogique.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptShare_ShareLink" = "Partager le lien";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptShare_Title" = "Rejoindre l'arbre généalogique sur CloudTree";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AddingPicturesNotSupportedInSharedDatabaseWarning" = "L'ajout de photos à un arbre généalogique partagé n'est actuellement pas pris en charge, mais sera bientôt disponible.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Buy_MacFamilyTree_Or_MobileFamilyTree_Title" = "Acheter MacFamilyTree ou MobileFamilyTree sur l'App Store";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Close_Databases" = "Fermer l'arbre généalogique";
+
+/* EventDropDownList */
+"_CoreCloudTreeWeb_CommonEvents" = "Événements communs";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_CommonFacts" = "Caractéristiques communes";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Description" = "CloudTreeWeb est un service qui vous permet de modifier les arbres généalogiques partagés avec vous depuis $MFTLINKPLACEHOLDER$ ou $MFTLINKPLACEHOLDER$.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_ErrorMessage_AuthenticationExpired_Error" = "Votre session a expiré. Veuillez vous connecter à nouveau pour continuer.";
+
+/* Errors */
+"_CoreCloudTreeWeb_ErrorMessage_Saving_ConflictError" = "L'enregistrement de vos modifications a échoué car cet enregistrement a été modifié par un autre utilisateur. Vous devez recharger la page.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_ErrorMessage_Saving_UnknownError" = "L'enregistrement des modifications a échoué en raison d'une erreur inconnue. Veuillez recharger la page. Si le problème persiste, veuillez nous contacter.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Go_To_Overview" = "Aperçu";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Imprint_Title" = "Mentions légales";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_1_Text" = "CloudTreeWeb est un service complémentaire de MacFamilyTree et MobileFamilyTree. Grâce à CloudTreeWeb, vous pouvez accéder sur Internet aux arbres généalogiques créés par MacFamilyTree ou MobileFamilyTree. Vous pouvez accéder à vos propres arbres généalogiques, mais CloudTreeWeb permet également à des utilisateurs sous Windows ou Android de collaborer à un arbre généalogique. Vous pouvez ainsi, par exemple, inviter des membres de votre famille qui n'utilisent pas de Mac, d'iPhone ou d'iPad à collaborer à votre arbre généalogique afin d'obtenir de précieuses informations.";
+
+/* Instructions */
+"_CoreCloudTreeWeb_Instructions_Section_1_Title" = "Qu'est-ce que CloudTreeWeb ?";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_2_Text" = "Pour accéder à vos propres arbres généalogiques, il suffit de vous connecter avec l'identifiant Apple que vous utilisez sur votre Mac, iPhone ou iPad. Vos arbres synchronisés avec CloudTree apparaîtront alors automatiquement. Les modifications que vous effectuez sur CloudTreeWeb seront répercutées dans MacFamilyTree ou MobileFamilyTree et inversement.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_2_Title" = "Comment puis-je accéder à mes propres arbres généalogiques ?";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_3_Text" = "Si vous souhaitez inviter une personne à collaborer à votre arbre généalogique, elle aura d'abord besoin d'un identifiant Apple qu'elle peut $BEGINLINK$créer ici$ENDLINK$ gratuitement si elle n'en a pas. Une fois que la personne a obtenu son identifiant Apple, invitez-la, avec cet identifiant Apple, à collaborer à votre arbre généalogique via CloudTree dans MacFamilyTree ou MobileFamilyTree. Pour plus de détails sur les invitations dans MacFamilyTree ou MobileFamilyTree, veuillez vous reporter au manuel d'utilisation du logiciel. Une fois l'invitation effectuée, envoyez à cette personne le lien d'invitation - par exemple, par e-mail ou par message. La personne invitée se connectera ensuite à CloudTreeWeb avec son identifiant Apple et acceptera l'invitation à l'aide du bouton qui apparaîtra ci-dessous.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_3_Title" = "Comment puis-je inviter une personne qui n'utilise pas MacFamilyTree ou MobileFamilyTree ?";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_4_Text" = "Si un utilisateur de MacFamilyTree ou de MobileFamilyTree vous a envoyé un lien d'invitation pour vous joindre à lui pour pour effectuer des recherches dans un arbre généalogique, vous aurez tout d'abord besoin d'un identifiant Apple, que vous pouvez $BEGINLINK$créer ici$ENDLINK$ gratuitement si vous n'en avez pas. Après avoir obtenu votre identifiant Apple, utilisez-le pour vous connecter à CloudTreeWeb. Une fois l'enregistrement effectué, acceptez le lien d'invitation en cliquant sur le lien 'Accepter l'invitation de CloudTree' ci-dessous et saisissez le lien à cet endroit. L'arbre généalogique qui apparaîtra alors sur la page de présentation pourra être modifié. Notez que toutes les modifications apportées seront automatiquement répercutées dans MacFamilyTree ou MobileFamilyTree.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_4_Title" = "J'ai été invité à collaborer un arbre généalogique, mais je n'utilise pas MacFamilyTree ou MobileFamilyTree. Comment puis-je apporter ma contribution à cet arbre ?";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_5_Text" = "Vos données sont protégées de la meilleure façon qu'il soit. Grâce au fonctionnement de CloudTreeWeb, l'accès à vos données est bloqué aux tierces parties. Même nous, en tant que développeurs, n'avons pas accès aux données de votre arbre généalogique. Cela est possible parce que CloudTreeWeb interroge les données de l'arbre généalogique directement sur Apple iCloud depuis votre ordinateur ou votre téléphone portable, sans passer par nos serveurs. Ainsi, CloudTreeWeb répond aux mêmes normes de sécurité que le site iCloud.com d'Apple, par exemple. Veuillez vous assurer que votre identifiant Apple est suffisamment protégé, en utilisant un mot de passe que vous n'utilisez avec aucun autre service et en activant l'authentification à deux facteurs, par exemple.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_5_Title" = "Comment mes données sont-elles protégées ?";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_6_Text" = "Nous serons heureux de lire vos retours d'expérience. Si vous avez une suggestion d'amélioration ou si vous avez constaté un problème, veuillez utiliser le formulaire de contact sur $BEGINLINK$www.syniumsoftware.com$ENDLINK$ pour nous contacter.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_6_Title" = "J'ai une suggestion ou un problème, comment puis-je vous le faire savoir ?";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Title" = "Comment utiliser CloudTreeWeb ?";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_No_Private_Databases_Explanation" = "Actuellement, vous n'avez pas téléchargé d'arbres généalogiques sur CloudTree. Veuillez utiliser MacFamilyTree sur votre Mac ou MobileFamilyTree sur votre iPhone ou iPad pour télécharger des arbres généalogiques.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_No_Private_Databases_Title" = "Aucun arbre généalogique";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_No_Shared_Databases_Explanation" = "Aucun arbre généalogique n'a été partagé avec vous sur CloudTree. Afin de participer à l'arbre généalogique d'une autre personne, veuillez demander au propriétaire de l'arbre généalogique de partager son arbre généalogique sur CloudTree en utilisant MacFamilyTree ou MobileFamilyTree avec votre identifiant Apple.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_No_Shared_Databases_Title" = "Aucun arbre généalogique partagé avec vous";
+
+/* SelectDatabase */
+"_CoreCloudTreeWeb_Private_Databases" = "Mes arbres généalogiques";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Select_MacFamilyTree_Version" = "Sélectionnez votre version de MacFamilyTree ou de MobileFamilyTree";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Shared_Databases" = "Arbres généalogiques partagés avec moi";
+
+/* Warnings */
+"_CoreCloudTreeWeb_ThereAreUnsavedChangesWarning" = "Il y a des modifications non sauvegardées. Vous quittez vraiment l'écran ?";
+
+/* EditFamily */
+"_EditFamily_SelectFamily_ActionsMenu_Title" = "Sélectionner une famille…";
+
+/* (No Comment) */
+"_EditFamily_SelectFamily_ActionsMenu_Title_Short" = "Famille…";
+
+/* EditMedia */
+"_EditMedia_Download_PDF" = "Télécharger le PDF";
+
+/* EditPerson */
+"_EditPerson_SelectPerson_ActionsMenu_Title" = "Sélectionner une personne…";
+
+/* (No Comment) */
+"_EditPerson_SelectPerson_ActionsMenu_Title_Short" = "Personne…";
+
+/* EditPLace */
+"_EditPerson_SelectPlace_ActionsMenu_Title" = "Sélectionner un lieu…";
+
+/* (No Comment) */
+"_EditPerson_SelectPlace_ActionsMenu_Title_Short" = "Lieu…";
+
+/* (No Comment) */
+"_EditPlaceMapSection_Title" = "Carte";
+
+/* EditSource */
+"_EditSource_SelectSource_ActionsMenu_Title" = "Sélectionner la source…";
+
+/* (No Comment) */
+"_EditSource_SelectSource_ActionsMenu_Title_Short" = "Source…";
+
+/* (No Comment) */
+"_FamiliesList_Title" = "Liste des familles";
+
+/* (No Comment) */
+"_ItemsList_LoadMore" = "Charger plus...";
+
+/* (No Comment) */
+"_ItemsList_NoChanges" = "Aucun modification";
+
+/* (No Comment) */
+"_ItemsList_NoFamilies" = "Aucune famille";
+
+/* (No Comment) */
+"_ItemsList_NoPersons" = "Aucune personne";
+
+/* (No Comment) */
+"_ItemsList_NoPlaces" = "Aucun lieu";
+
+/* (No Comment) */
+"_ItemsList_NoSources" = "Aucune sources";
+
+/* (No Comment) */
+"_ItemsList_SearchBar_Description" = "La recherche est sensible à la casse et ne cherche que le début d'un nom.";
+
+/* (No Comment) */
+"_ItemsList_Select_Family_Title" = "Sélectionner une famille";
+
+/* ItemsList */
+"_ItemsList_Select_Person_Title" = "Sélectionner une personne";
+
+/* (No Comment) */
+"_ItemsList_Select_Place_Title" = "Sélectionner un lieu";
+
+/* (No Comment) */
+"_ItemsList_Select_Source_Title" = "Sélectionner la source…";
+
+/* (No Comment) */
+"_PersonsList_Title" = "Liste des personnes";
+
+/* (No Comment) */
+"_PlacesList_Title" = "Liste des lieux";
+
+/* (No Comment) */
+"_SourcesList_Title" = "Liste des sources";
+
+/* (No Comment) */
+"iCloud.com.syniumsoftware.familytree10" = "Version 10";
+
+/* (No Comment) */
+"iCloud.com.syniumsoftware.familytree11" = "Version 11";
+

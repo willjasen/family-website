@@ -1,0 +1,60 @@
+﻿/* (No Comment) */
+"_AdditionalName_AdoptiveName" = "Nome adottivo";
+
+/* (No Comment) */
+"_AdditionalName_ArtistsName" = "Nome di scena/d'arte";
+
+/* (No Comment) */
+"_AdditionalName_DoubleBarrelledName" = "Cognome doppio";
+
+/* (No Comment) */
+"_AdditionalName_FamilyName" = "Nome della famiglia";
+
+/* (No Comment) */
+"_AdditionalName_FormalName" = "Nome formale";
+
+/* AdditionalNameType */
+"_AdditionalName_MaidenName" = "Nome alla nascita";
+
+/* (No Comment) */
+"_AdditionalName_MarriedName" = "Nome da sposati";
+
+/* (No Comment) */
+"_AdditionalName_NameVariation" = "Variazione del nome";
+
+/* (No Comment) */
+"_AdditionalName_Nickname" = "Nomignolo";
+
+/* (No Comment) */
+"_AdditionalName_Other" = "Altro nome";
+
+/* (No Comment) */
+"_AdditionalName_Prefix_MaidenName_ForFemale" = "nata";
+
+/* Prefix */
+"_AdditionalName_Prefix_MaidenName_ForMale" = "nato";
+
+/* (No Comment) */
+"_AdditionalName_ProfessionalName" = "Nome professionale";
+
+/* (No Comment) */
+"_AdditionalName_ReligiousName" = "Nome religioso";
+
+/* (No Comment) */
+"_AdditionalName_Title" = "Titolo";
+
+/* Configs */
+"_Person_AdditionalNamePreferenceConfiguration_All" = "Tutto";
+
+/* (No Comment) */
+"_Person_AdditionalNamePreferenceConfiguration_None" = "Nessuno";
+
+/* (No Comment) */
+"_Person_AdditionalNamePreferenceConfiguration_OnlyFamilyName" = "Solo cognome";
+
+/* (No Comment) */
+"_Person_AdditionalNamePreferenceConfiguration_OnlyMarriedName" = "Solo nome da sposati";
+
+/* (No Comment) */
+"_Person_AdditionalNamePreferenceConfiguration_OnlyNickName" = "Solo nomi brevi";
+

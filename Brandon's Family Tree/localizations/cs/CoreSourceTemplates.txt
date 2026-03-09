@@ -1,0 +1,594 @@
+﻿/* (No Comment) */
+"_EditSourceTemplateKeysController_MergeTemplateKeysConflictInformative" = "Chystáte se sloučit zdrojové pole '%@' s '%@', ale v některých zdrojích ve vašem rodokmenu jsou obě zdrojová pole obsažena v jediném zdroji. Rozhodněte prosím, jak postupovat u těchto zdrojů:";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_MergeTemplateKeysConflictKeepBoth" = "Zachovat obě hodnoty";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_MergeTemplateKeysConflictKeepSingle" = "Zachovat hodnotu %@";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_MergeTemplateKeysConflictMessage" = "Sloučit zdrojová pole";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_MergeTemplateKeysDoneInformative" = "Zdrojové pole '%@' bylo sloučeno s '%@'";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_MergeTemplateKeysDoneMessage" = "Zdrojová pole sloučena";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_ReallyMergeTemplateKeysInformative" = "Opravdu chcete sloučit pole šablony '%@' a '%@'? Poté se z nich stane pouze jedno pole šablony.";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_ReallyMergeTemplateKeysMessage" = "Opravdu sloučit pole šablony?";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_RemoveTemplateKeyInformative" = "Opravdu chcete smazat vybrané pole šablony? Pro toto pole šablony jsou stále zadané informace, které budou trvale smazány.";
+
+/* EditSourceTemplateKeysController */
+"_EditSourceTemplateKeysController_RemoveTemplateKeyMessage" = "Opravdu smazat pole šablony? Všechna pole ze zdrojů budou trvale smazána.";
+
+/* (No Comment) */
+"_EditSourceTemplatesController_MergeTemplateDoneMessage" = "Šablony zdrojů byly sloučeny";
+
+/* (No Comment) */
+"_EditSourceTemplatesController_MergeTemplatesDoneInformative" = "Šablony zdrojů '%@' a '%@' byly úspěšně sloučeny.";
+
+/* (No Comment) */
+"_EditSourceTemplatesController_ReallyMergeTemplateInformative" = "Opravdu chcete sloučit šablony '%@' a '%@'? Poté se z nich stane pouze jedna šablona.";
+
+/* (No Comment) */
+"_EditSourceTemplatesController_ReallyMergeTemplateMessage" = "Opravdu sloučit šablony?";
+
+/* (No Comment) */
+"_EditSourceTemplatesController_RemoveTemplateInformative" = "Opravdu chcete smazat tuto šablonu zdroje? K této šabloně jsou přiřazeny zdroje, které budou také trvale odstraněny, pokud tuto zdrojovou šablonu smažete.";
+
+/* EditSourceTemplatesController */
+"_EditSourceTemplatesController_RemoveTemplateMessage" = "Opravdu odstranit šablonu zdroje? Všechny přiřazené zdroje budou trvale smazány.";
+
+/* (No Comment) */
+"_SourceTemplate_SourcesCount" = "%d zdrojů";
+
+/* Counts */
+"_SourceTemplate_SourcesCountSingular" = "%d zdroj";
+
+/* (No Comment) */
+"_SourceTemplateKey_Type_Date" = "Datum";
+
+/* SourceTemplateKey */
+"_SourceTemplateKey_Type_Text" = "Text";
+
+/* (No Comment) */
+"SourceTemplate_AddressBook" = "Kontakty";
+
+/* (No Comment) */
+"SourceTemplate_Book" = "Kniha";
+
+/* (No Comment) */
+"SourceTemplate_BusinessOrganisationalRecord" = "Obchodní organizační záznam";
+
+/* (No Comment) */
+"SourceTemplate_CDROM" = "CD-ROM";
+
+/* (No Comment) */
+"SourceTemplate_CemeteryRecord_Digital" = "Hřbitovní záznam (digitální)";
+
+/* (No Comment) */
+"SourceTemplate_CemeteryRecord_Microfilm" = "Hřbitovní záznam (mikrofilm)";
+
+/* (No Comment) */
+"SourceTemplate_CemeteryRecord_PhysicalCopy" = "Hřbitovní záznam (fyzická kopie)";
+
+/* (No Comment) */
+"SourceTemplate_Census_Digital" = "Sčítání lidu (digitální)";
+
+/* (No Comment) */
+"SourceTemplate_Census_Microfilm" = "Sčítání lidu (mikrofilm)";
+
+/* (No Comment) */
+"SourceTemplate_Census_PhysicalCopy" = "Sčítání lidu (fyzická kopie)";
+
+/* (No Comment) */
+"SourceTemplate_ChurchRecord_Books" = "Církevní záznam (knihy)";
+
+/* (No Comment) */
+"SourceTemplate_ChurchRecord_Digital" = "Církevní záznam (digitální)";
+
+/* (No Comment) */
+"SourceTemplate_ChurchRecord_Microfilm" = "Církevní záznam (mikrofilm)";
+
+/* (No Comment) */
+"SourceTemplate_CorporateRecord_Digital" = "Firemní záznam (digitální)";
+
+/* (No Comment) */
+"SourceTemplate_CorporateRecord_Microfilm" = "Firemní záznam (mikrofilm)";
+
+/* (No Comment) */
+"SourceTemplate_CorporateRecord_PhysicalCopy" = "Firemní záznam (fyzická kopie)";
+
+/* (No Comment) */
+"SourceTemplate_CourtDocuments" = "Soudní dokumenty";
+
+/* (No Comment) */
+"SourceTemplate_Deed" = "Právní listina";
+
+/* (No Comment) */
+"SourceTemplate_DiaryOrJournal" = "Deník / noviny";
+
+/* (No Comment) */
+"SourceTemplate_DraftRegistration" = "Návrh registrace";
+
+/* (No Comment) */
+"SourceTemplate_EmailMessage" = "E-mailová zpráva";
+
+/* (No Comment) */
+"SourceTemplate_EmigrationRecord_Digital" = "Emigrační záznam (digitální)";
+
+/* (No Comment) */
+"SourceTemplate_EmigrationRecord_Microfilm" = "Emigrační záznam (mikrofilm)";
+
+/* (No Comment) */
+"SourceTemplate_EmigrationRecord_PhysicalCopy" = "Emigrační záznam (fyzická kopie)";
+
+/* (No Comment) */
+"SourceTemplate_FamilyBible" = "Rodinná bible";
+
+/* (No Comment) */
+"SourceTemplate_FamilyChart" = "Rodinný graf";
+
+/* (No Comment) */
+"SourceTemplate_FamilySearch" = "FamilySearch";
+
+/* (No Comment) */
+"SourceTemplate_FuneralHomeRecord" = "Záznam pohřebního ústavu";
+
+/* SourceTemplate */
+"SourceTemplate_Generic" = "Obecné";
+
+/* (No Comment) */
+"SourceTemplate_GraveMarkers" = "Náhrobek";
+
+/* (No Comment) */
+"SourceTemplate_HistoricalLetter_Digital" = "Historický dopis (digitální)";
+
+/* (No Comment) */
+"SourceTemplate_HistoricalLetter_Microfilm" = "Historický dopis (mikrofilm)";
+
+/* (No Comment) */
+"SourceTemplate_HistoricalLetter_PhysicalCopy" = "Historický dopis (fyzická kopie)";
+
+/* (No Comment) */
+"SourceTemplate_HistoricalResearch" = "Historický výzkum";
+
+/* (No Comment) */
+"SourceTemplate_ImmigrationRecord_Digital" = "Imigrační záznam (digitální)";
+
+/* (No Comment) */
+"SourceTemplate_ImmigrationRecord_Microfilm" = "Imigrační záznam (mikrofilm)";
+
+/* (No Comment) */
+"SourceTemplate_ImmigrationRecord_PhysicalCopy" = "Imigrační záznam (fyzická kopie)";
+
+/* (No Comment) */
+"SourceTemplate_Interview_Digital" = "Rozhovor (digitální)";
+
+/* (No Comment) */
+"SourceTemplate_Interview_Microfilm" = "Rozhovor (mikrofilm)";
+
+/* (No Comment) */
+"SourceTemplate_Interview_PhysicalCopy" = "Rozhovor (fyzická kopie)";
+
+/* _SourceTemplate_KeyName */
+"SourceTemplate_KeyName_Abbreviation" = "Zkratka";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Agency" = "Agentura";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Author" = "Autor";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_AuthorAddress" = "Adresa autora";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_AuthorCredentials" = "Reputace autora";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_BookPeriodicalName" = "Název knihy / časopisu";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_CallNumber" = "Telefonní číslo";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Cemetery" = "Hřbitov";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_CensusYear" = "Rok sčítání lidu";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Church" = "Církev";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Collection" = "Kolekce";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Compiler" = "Sestavovatel";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Congress" = "Kongres";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_ContactPerson" = "Kontaktní osoba";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Copyright" = "Copyright";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_County" = "Okres";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Court" = "Soud";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Date" = "Datum";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_DateViewed" = "Datum prohlédnutí";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Detail" = "Podrobnosti";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Edition" = "Edice";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_FileNumber" = "Číslo souboru";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_FilmNumber" = "Číslo filmu";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_FilmType" = "Typ filmu";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_FolderLabel" = "Štítek složky";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Format" = "Formát";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Informant" = "Informátor";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_InformantAddress" = "Adresa informátora";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_InformantName" = "Jméno informátora";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_InformantRelationship" = "Vztah informátora";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Interviewee" = "Dotazovaný";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Interviewer" = "Tazatel";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Issue" = "Záležitost";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_LocationOfSource" = "Místo zdroje";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_MediaType" = "Typ média";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_MicrofilmRollNumber" = "Číslo role mikrofilmu";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_MilitaryDivision" = "Vojenská divize";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_NumberOfRolls" = "Počet rolí";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_OrderNumber" = "Číslo objednávky";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Organization" = "Organizace";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_OtherAuthors" = "Ostatní autoři";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_OtherSubjects" = "Ostatní subjekty";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Owner" = "Vlastník";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_OwnerAddress" = "Adresa vlastníka";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_OwnerLocation" = "Poloha vlastníka";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Page" = "Strana";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Place" = "Místo";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Presenter" = "Moderátor";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Publication" = "Publikace";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Publisher" = "Vydavatel";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Recipient" = "Příjemce";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Recorder" = "Rekordér";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_RecordGroup" = "Skupina záznamů";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_ReferenceNumber" = "Referenční číslo";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_ReferenceType" = "Typ reference";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Register" = "Rejstřík";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Schedule" = "Harmonogram";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_School" = "Škola";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_SerialNumber" = "Sériové číslo";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Series" = "Série";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_SeriesTitle" = "Název série";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Session" = "Zasedání";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_StateOrCountry" = "Kraj nebo země";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_StateTerritory" = "Kraj / území";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Subject" = "Subjekt";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Submitter" = "Zadavatel";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Title" = "Název";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_TownshipCivilDistrict" = "Městys / městská čtvrť";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Tribe" = "Kmen";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Vessel" = "Plavidlo";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_VolumeNumber" = "Číslo svazku";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Volumes" = "Svazky";
+
+/* (No Comment) */
+"SourceTemplate_LandGrantRegister" = "Katastr nemovitostí (pozemky)";
+
+/* (No Comment) */
+"SourceTemplate_LandRecord_Digital" = "Pozemkový záznam (digitální)";
+
+/* (No Comment) */
+"SourceTemplate_LandRecord_Microfilm" = "Pozemkový záznam (mikrofilm)";
+
+/* (No Comment) */
+"SourceTemplate_LandRecord_PhysicalCopy" = "Pozemkový záznam (fyzická kopie)";
+
+/* (No Comment) */
+"SourceTemplate_LegalDocument_Digital" = "Právní dokument (digitální)";
+
+/* (No Comment) */
+"SourceTemplate_LegalDocument_Microfilm" = "Právní dokument (mikrofilm)";
+
+/* (No Comment) */
+"SourceTemplate_LegalDocument_PhysicalCopy" = "Právní dokument (fyzická kopie)";
+
+/* (No Comment) */
+"SourceTemplate_LegalGeneticTesting" = "Legální genetické testování";
+
+/* (No Comment) */
+"SourceTemplate_Letter" = "Dopis";
+
+/* (No Comment) */
+"SourceTemplate_LocalAndStateRecord_Digital" = "Místní a státní záznam (digitální)";
+
+/* (No Comment) */
+"SourceTemplate_LocalAndStateRecord_Microfilm" = "Místní a státní záznam (mikrofilm)";
+
+/* (No Comment) */
+"SourceTemplate_LocalAndStateRecord_PhysicalCopy" = "Místní a státní záznam (fyzická kopie)";
+
+/* (No Comment) */
+"SourceTemplate_ManuscriptRecord" = "Rukopisný záznam";
+
+/* (No Comment) */
+"SourceTemplate_Map" = "Mapa";
+
+/* (No Comment) */
+"SourceTemplate_MedicalRecord" = "Zdravotní záznam";
+
+/* (No Comment) */
+"SourceTemplate_MilitaryRecord" = "Vojenský záznam";
+
+/* (No Comment) */
+"SourceTemplate_NationalGovernmentRecord_Digital" = "Záznam národní vlády (digitální)";
+
+/* (No Comment) */
+"SourceTemplate_NationalGovernmentRecord_Microfilm" = "Záznam národní vlády (mikrofilm)";
+
+/* (No Comment) */
+"SourceTemplate_NationalGovernmentRecord_PhysicalCopy" = "Záznam národní vlády (fyzická kopie)";
+
+/* (No Comment) */
+"SourceTemplate_NativeAmericanTribalCensus" = "Sčítání domorodých obyvatel Ameriky";
+
+/* (No Comment) */
+"SourceTemplate_NaturalizationRecord" = "Naturalizační záznam";
+
+/* (No Comment) */
+"SourceTemplate_Newspaper" = "Noviny";
+
+/* (No Comment) */
+"SourceTemplate_NonLegalPrivateGeneticTesting" = "Nelegální / soukromé genetické testování";
+
+/* (No Comment) */
+"SourceTemplate_PassengerList" = "Seznam cestujících";
+
+/* (No Comment) */
+"SourceTemplate_PensionFile" = "Důchodový záznam";
+
+/* (No Comment) */
+"SourceTemplate_Periodical" = "Časopis";
+
+/* (No Comment) */
+"SourceTemplate_PersonalBible" = "Osobní bible";
+
+/* (No Comment) */
+"SourceTemplate_PersonalCorrespondence" = "Osobní korespondence";
+
+/* (No Comment) */
+"SourceTemplate_Portrait" = "Portrét";
+
+/* (No Comment) */
+"SourceTemplate_PreservationFilm" = "Ochranný film";
+
+/* (No Comment) */
+"SourceTemplate_ResearchReport_Digital" = "Výzkumná zpráva (digitální)";
+
+/* (No Comment) */
+"SourceTemplate_ResearchReport_Microfilm" = "Výzkumná zpráva (mikrofilm)";
+
+/* (No Comment) */
+"SourceTemplate_ResearchReport_PhysicalCopy" = "Výzkumná zpráva (fyzická kopie)";
+
+/* (No Comment) */
+"SourceTemplate_SchoolRecord_Digital" = "Školní záznam (digitální)";
+
+/* (No Comment) */
+"SourceTemplate_SchoolRecord_Microfilm" = "Školní záznam (mikrofilm)";
+
+/* (No Comment) */
+"SourceTemplate_SchoolRecord_PhysicalCopy" = "Školní záznam (fyzická kopie)";
+
+/* (No Comment) */
+"SourceTemplate_TaxList" = "Daňové přiznání";
+
+/* (No Comment) */
+"SourceTemplate_UnpublishedNarrative" = "Nepublikovaný příběh";
+
+/* (No Comment) */
+"SourceTemplate_USCongressionalRecord_Digital" = "Kongresový záznam USA (digitální)";
+
+/* (No Comment) */
+"SourceTemplate_USCongressionalRecord_Microfilm" = "Kongresový záznam USA (mikrofilm)";
+
+/* (No Comment) */
+"SourceTemplate_VerticalFile" = "Kartotéka";
+
+/* (No Comment) */
+"SourceTemplate_Video" = "Video";
+
+/* (No Comment) */
+"SourceTemplate_VitalRecord" = "Matrika";
+
+/* (No Comment) */
+"SourceTemplate_VitalRecord_BirthCertificate" = "Matrika - rodný list";
+
+/* (No Comment) */
+"SourceTemplate_VitalRecord_DeathCertificate" = "Matrika - úmrtní list";
+
+/* (No Comment) */
+"SourceTemplate_VitalRecord_DivorceCertificate" = "Matrika - rozvod";
+
+/* (No Comment) */
+"SourceTemplate_VitalRecord_MarriageLicense" = "Matrika - oddací list";
+
+/* (No Comment) */
+"SourceTemplate_WebSite" = "Webová stránka";
+
+/* (No Comment) */
+"SourceTemplate_Will" = "Závěť";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationBracketMode_AngleBrackets" = "Lomené závorky";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationBracketMode_Brackets" = "Kulaté závorky";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationBracketMode_CurlyBrackets" = "Složené závorky";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationBracketMode_DoubleQuotes" = "Dvojité uvozovky";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationBracketMode_None" = "Žádné";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationBracketMode_SingleQuotes" = "Jednoduché uvozovky";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationFontMode_Bold" = "Tučné";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationFontMode_Italic" = "Kurzíva";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationFontMode_Normal" = "Normální";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationMode_Long" = "Dlouhý styl citací";
+
+/* SourceTemplateKeyRelation - Enums */
+"SourceTemplateKeyRelation_CitationMode_Short" = "Krátký styl citací";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationTrailingMode_Colon" = "Dvojtečka";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationTrailingMode_Comma" = "Odstavec";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationTrailingMode_Hyphen" = "Spojovník";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationTrailingMode_Period" = "Tečka";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationTrailingMode_Semicolon" = "Středník";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationTrailingMode_Space" = "Mezera";
+

@@ -1,0 +1,60 @@
+﻿/* (No Comment) */
+"_AdditionalName_AdoptiveName" = "Örökbefogadó név";
+
+/* (No Comment) */
+"_AdditionalName_ArtistsName" = "Művésznév";
+
+/* (No Comment) */
+"_AdditionalName_DoubleBarrelledName" = "Dupla név";
+
+/* (No Comment) */
+"_AdditionalName_FamilyName" = "Családnév";
+
+/* (No Comment) */
+"_AdditionalName_FormalName" = "Formális név";
+
+/* AdditionalNameType */
+"_AdditionalName_MaidenName" = "Születési név";
+
+/* (No Comment) */
+"_AdditionalName_MarriedName" = "Házassági név";
+
+/* (No Comment) */
+"_AdditionalName_NameVariation" = "Név-variáció";
+
+/* (No Comment) */
+"_AdditionalName_Nickname" = "Becenév";
+
+/* (No Comment) */
+"_AdditionalName_Other" = "Más név";
+
+/* (No Comment) */
+"_AdditionalName_Prefix_MaidenName_ForFemale" = "szül.";
+
+/* Prefix */
+"_AdditionalName_Prefix_MaidenName_ForMale" = "szül.";
+
+/* (No Comment) */
+"_AdditionalName_ProfessionalName" = "Szakmai név";
+
+/* (No Comment) */
+"_AdditionalName_ReligiousName" = "Vallási név";
+
+/* (No Comment) */
+"_AdditionalName_Title" = "Titulus";
+
+/* Configs */
+"_Person_AdditionalNamePreferenceConfiguration_All" = "Mind";
+
+/* (No Comment) */
+"_Person_AdditionalNamePreferenceConfiguration_None" = "Nincs";
+
+/* (No Comment) */
+"_Person_AdditionalNamePreferenceConfiguration_OnlyFamilyName" = "Csak családnév";
+
+/* (No Comment) */
+"_Person_AdditionalNamePreferenceConfiguration_OnlyMarriedName" = "Csak házassági név";
+
+/* (No Comment) */
+"_Person_AdditionalNamePreferenceConfiguration_OnlyNickName" = "Csak becenév";
+

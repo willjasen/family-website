@@ -1,0 +1,1707 @@
+﻿/* (No Comment) */
+"_BaseEditController_DeleteBaseObjectQuestionInformative" = "Vil du virkelig slette denne post i dit familietræ?";
+
+/* (No Comment) */
+"_BaseEditController_DeleteBaseObjectQuestionMessage" = "Slet '%@'?";
+
+/* (No Comment) */
+"_BaseEditController_DeletePersonQuestionInformative" = "Vil du virkelig slette denne person i dit familietræ?";
+
+/* BaseEditController */
+"_BaseEditController_DeletePersonQuestionMessage" = "Slet personen '%@'?";
+
+/* (No Comment) */
+"_BaseEditController_ManuallyAddPlaceDetailInformative" = "Indtast venligst navnet på den nye steddetalje for '%@'";
+
+/* (No Comment) */
+"_BaseEditController_ManuallyAddPlaceDetailTitle" = "Tilføj steddetalje manuelt";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_AddEventButton" = "Tilføj begivenhed";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_AgeAtEvent" = "Alder ved begivenhed";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_CopyEventToPersonMenuItem" = "Kopier begivenhed til person…";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_CreateStoryFromEventMenuItem" = "Opret historie for begivenhed";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_DeadButNoFurtherInfoCheckbox" = "Marker person som død, men ingen anden information er tilgængelig";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_DeleteEvent" = "Slet begivenhed";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_EditEventDetails" = "Rediger detaljer om begivenhed";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_EditFamilyEventConclusionTypes" = "Rediger typer af familiebegivenheder…";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_EditFamilyMenuItem" = "Rediger familie %@";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_EditPersonEventConclusionTypes" = "Rediger typer af personbegivenheder…";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_EditPlaceDetails" = "Rediger steddetaljer…";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_EventPlaceholder" = "%@ – Skriv information her";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_FamilyEventPlaceholder" = "%@ med %@ – Skeiv information her";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_FurtherOptionsButton" = "Yderligere muligheder…";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_LargePlaceholder" = "Ingen begivenheder tilstede";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_LookupNewPlaceDetail" = "Søg efter ny steddetalje…";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_ManuallyAddPlaceDetail" = "Tilføj ny steddetalje manuelt…";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_MarriedButNoFurtherInfoCheckbox" = "Marker par som gifte, men ingen anden information er tilgængelig";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_NoDateAvailable" = "Ingen dato angivet";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_NoNotesPlaceholder" = "Ingen notater angivet";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_NoPlacePlaceholder" = "Intet sted angivet";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_NoSourcesPlaceholder" = "Ingen kilder angivet";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_SmallPlaceholder" = "Brug venligst knappen herover for at tilføje en ny begivenhed.";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_Sorting_ByDate" = "Efter dato for begivenhed";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_Sorting_ByDescription" = "Efter beskrivelse";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_Sorting_ByTypeAndDate" = "Efter begivenhedstype og -dato";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_Sorting_ByTypeName" = "Efter navn for begivenhed";
+
+/* Shared Base Events */
+"_BaseEditEventsContentController_Title" = "Begivenheder";
+
+/* BaseEditHeaderContentController */
+"_BaseEditHeaderContentController_Title" = "Sidehoved";
+
+/* (No Comment) */
+"_BaseEditListContentController_SortAscending" = "Stigende";
+
+/* (No Comment) */
+"_BaseEditListContentController_SortDescending" = "Faldende";
+
+/* BaseEditListContentController */
+"_BaseEditListContentController_SortingButton" = "Sortering";
+
+/* (No Comment) */
+"_BaseEditPlaceLinksContentController_OtherLanguagesButton" = "Andre sprog…";
+
+/* (No Comment) */
+"_BaseEditPlaceLinksContentController_ShowArticleButton" = "Vis artikel";
+
+/* (No Comment) */
+"_BaseReferencedEntriesListContentController_EditFamilyEventMenuItem" = "Rediger familiebegivenhed '%@'";
+
+/* (No Comment) */
+"_BaseReferencedEntriesListContentController_EditFamilyMenuItem" = "Rediger familien '%@'";
+
+/* (No Comment) */
+"_BaseReferencedEntriesListContentController_EditPersonEventMenuItem" = "Rediger personbegivenheden '%@'";
+
+/* BaseReferencedEntriesListContentController */
+"_BaseReferencedEntriesListContentController_EditPersonMenuItem" = "Rediger personen '%@'";
+
+/* (No Comment) */
+"_Column_aboveMainFullWidth_0" = "Hovedområde";
+
+/* (No Comment) */
+"_Column_main_0" = "Venstre side";
+
+/* (No Comment) */
+"_Column_main_1" = "Højre side";
+
+/* (No Comment) */
+"_Column_main_256" = "Sidebjælke";
+
+/* (No Comment) */
+"_Column_parents_0" = "Venstre side";
+
+/* (No Comment) */
+"_Column_parents_1" = "Højre side";
+
+/* (No Comment) */
+"_Column_top_0" = "Hovedområde";
+
+/* Common */
+"_CommonEdit_NoLabelsAssignedPlaceholder" = "Intet mærke tilknyttet";
+
+/* (No Comment) */
+"_DatabaseChangesController_DeleteChangeLogEntryMessage" = "Vil du virkelig slette ændringslog-post?";
+
+/* (No Comment) */
+"_DatabaseChangesController_PurgeAllChangesInformative" = "Bekræft venligst, hvis du vil slette alle ændringslogsemner i dit familietræ.";
+
+/* (No Comment) */
+"_DatabaseChangesController_PurgeAllChangesInformativeWithDate" = "Bekræft venligst, hvis du vil slette alle ændringslogsemner i ændringslogen oprettet før %@.";
+
+/* DatabaseChangesController */
+"_DatabaseChangesController_PurgeAllChangesMessage" = "Skal ændringslog virkelig renses? Dette kan ikke fortrydes.";
+
+/* (No Comment) */
+"_DatabaseChangesController_PurgeAllChangesOfDeletedEntriesInformative" = "Bekræft venligst, hvis du vil slette alle ændringslogsemner der henviser til slettede personer, familier osv.";
+
+/* (No Comment) */
+"_DatabaseChangesController_PurgeAllChangesOfDeletedEntriesMessage" = "Skal ændringslog for slettede poster renses? Dette kan ikke fortrydes.";
+
+/* (No Comment) */
+"_DatabaseChangesController_PurgeButton" = "Rens ændringslog";
+
+/* (No Comment) */
+"_EditAssociateRelationGeneralController_Source" = "Start";
+
+/* (No Comment) */
+"_EditAssociateRelationGeneralController_Target" = "Mål";
+
+/* EditAssociateRelationGeneralController */
+"_EditAssociateRelationGeneralController_Title" = "Generelt";
+
+/* (No Comment) */
+"_EditAssociatesContentController_AddAssociatedPersonButton" = "Tilføj indflydelsesrig person";
+
+/* (No Comment) */
+"_EditAssociatesContentController_AddExistingFamilyAsAssociate" = "Tilføj eksisterende familie som indflydelsesrig familie";
+
+/* (No Comment) */
+"_EditAssociatesContentController_AddExistingPersonAsAssociate" = "Tilføj eksisterende person som indflydelsesrig person";
+
+/* (No Comment) */
+"_EditAssociatesContentController_AddNewFamilyAsAssociate" = "Tilføj ny indflydelsesrig familie";
+
+/* (No Comment) */
+"_EditAssociatesContentController_AddNewPersonAsAssociate" = "Tilføj ny, indflydelsesrig person";
+
+/* (No Comment) */
+"_EditAssociatesContentController_EditAssociateRelationConclusionTypes" = "Rediger indflydelsesrige relationstyper...";
+
+/* (No Comment) */
+"_EditAssociatesContentController_LargePlaceholder" = "Ingen indflydelsesrige personer tilstede";
+
+/* (No Comment) */
+"_EditAssociatesContentController_RemoveAssociateButton" = "Fjern indflydelsesrig person";
+
+/* (No Comment) */
+"_EditAssociatesContentController_RemoveAssociateRelationInformative" = "Dette vil ikke fjerne personen fra dit familietræ, men blot relationen til denne person.";
+
+/* (No Comment) */
+"_EditAssociatesContentController_RemoveAssociateRelationMessage" = "Vil du virkelig fjerne relationen til '%@'?";
+
+/* (No Comment) */
+"_EditAssociatesContentController_SmallPlaceholder" = "Brug venligt knapper herover til at tilføje indflydelsesrige personer, f.eks. gudfædre";
+
+/* EditAssociatesContentController */
+"_EditAssociatesContentController_Title" = "Indflydelsesrige personer";
+
+/* (No Comment) */
+"_EditBookmarkContentController_OtherBookmarkedEntries_BaseMedia" = "Medier";
+
+/* (No Comment) */
+"_EditBookmarkContentController_OtherBookmarkedEntries_Family" = "Familier";
+
+/* (No Comment) */
+"_EditBookmarkContentController_OtherBookmarkedEntries_Person" = "Personer";
+
+/* (No Comment) */
+"_EditBookmarkContentController_OtherBookmarkedEntries_Place" = "Steder";
+
+/* (No Comment) */
+"_EditBookmarkContentController_OtherBookmarkedEntries_Source" = "Kilder";
+
+/* EditBookmarkContentController */
+"_EditBookmarkContentController_Title" = "Bogmærker";
+
+/* Common */
+"_EditCommon_PrivateFlagLabel" = "Privat";
+
+/* (No Comment) */
+"_EditCreationAndChangeDateContentController_ChangeDate" = "Redigeringsdato";
+
+/* (No Comment) */
+"_EditCreationAndChangeDateContentController_CreationDate" = "Oprettelsesdato";
+
+/* EditCreationAndChangeDateContentController */
+"_EditCreationAndChangeDateContentController_Title" = "Senest ændret";
+
+/* (No Comment) */
+"_EditDNATestResultATDNARawDataContentController_DataPresentString" = "Rå data for atDNA gemt, arkivstr.: %@";
+
+/* EditDNATestResultATDNARawDataContentController */
+"_EditDNATestResultATDNARawDataContentController_Title" = "Rå atDNA-data";
+
+/* EditDNATestResultBaseMTDNARegionSNPDifferencesContentController */
+"_EditDNATestResultBaseMTDNARegionSNPDifferencesContentController_AddMarkerButton" = "Tilføj markør";
+
+/* (No Comment) */
+"_EditDNATestResultBaseMTDNARegionSNPDifferencesContentController_LargePlaceholder" = "Ingen markører angivet";
+
+/* (No Comment) */
+"_EditDNATestResultBaseMTDNARegionSNPDifferencesContentController_SmallPlaceholder" = "Brug venligst knapperne herover til at tilføje markører";
+
+/* (No Comment) */
+"_EditDNATestResultBaseRawDataContentController_AddDataButton" = "Tilføj data";
+
+/* (No Comment) */
+"_EditDNATestResultBaseRawDataContentController_DeleteDNARawDataInformative" = "Vil du virkelig slette de rå-DNA data knyttet til denne test?";
+
+/* (No Comment) */
+"_EditDNATestResultBaseRawDataContentController_DeleteDNARawDataMessage" = "Skal DNA-data virkelig slettes?";
+
+/* EditDNATestResultBaseRawDataContentController */
+"_EditDNATestResultBaseRawDataContentController_LargePlaceholder" = "Ingen rå DNA-data er blevet tilføjet";
+
+/* (No Comment) */
+"_EditDNATestResultBaseRawDataContentController_SelectFileMessage" = "Vælg venligst et arkiv at arkivere som rå DNA-data";
+
+/* (No Comment) */
+"_EditDNATestResultBaseRawDataContentController_SmallPlaceholder" = "Brug venligst knappen herover til at tilføje rå DNA-data";
+
+/* (No Comment) */
+"_EditDNATestResultController_Title" = "DNA-testresultat";
+
+/* (No Comment) */
+"_EditDNATestResultGeneralContentController_NoNameEnteredPlaceholder" = "Intet testnavn angivet";
+
+/* EditDNATestResultGeneralContentController */
+"_EditDNATestResultGeneralContentController_Title" = "Generelt";
+
+/* (No Comment) */
+"_EditDNATestResultMTDNAGeneralInformationContentController_NoHaplogroupPlaceholder" = "Ingen Haplogruppe angivet";
+
+/* EditDNATestResultMTDNAGeneralInformationContentController */
+"_EditDNATestResultMTDNAGeneralInformationContentController_Title" = "mtDNA-information";
+
+/* (No Comment) */
+"_EditDNATestResultMTDNARawDataContentController_DataPresentString" = "Rå data for mtDNA arkiveret, arkivstr.: %@";
+
+/* EditDNATestResultMTDNARawDataContentController */
+"_EditDNATestResultMTDNARawDataContentController_Title" = "Rå mtDNA-data";
+
+/* EditDNATestResultMTNDNACodingRegionSNPDifferencesContentController */
+"_EditDNATestResultMTNDNACodingRegionSNPDifferencesContentController_Title" = "mtDNA Coding Region SNP-forskelle";
+
+/* EditDNATestResultMTNDNAHVR1SNPDifferencesContentController */
+"_EditDNATestResultMTNDNAHVR1SNPDifferencesContentController_Title" = "mtDNA HVR1 SNP-forskelle";
+
+/* EditDNATestResultMTNDNAHVR2SNPDifferencesContentController */
+"_EditDNATestResultMTNDNAHVR2SNPDifferencesContentController_Title" = "mtDNA HVR2 SNP-forskelle";
+
+/* (No Comment) */
+"_EditDNATestResultYDNAGeneralInformationContentController_NoHaplogroupPlaceholder" = "Ingen Haplogruppe angivet";
+
+/* EditDNATestResultYDNAGeneralInformationContentController */
+"_EditDNATestResultYDNAGeneralInformationContentController_Title" = "Y-DNA-information";
+
+/* (No Comment) */
+"_EditDNATestResultYDNARawDataContentController_DataPresentString" = "Rå data for Y-DNA arkiveret, arkivstr.: %@";
+
+/* EditDNATestResultYDNARawDataContentController */
+"_EditDNATestResultYDNARawDataContentController_Title" = "Rå Y-DNA-data";
+
+/* (No Comment) */
+"_EditDNATestResultYDNASTRMarkerListContentController_AddMarkerButton" = "Tilføj markør";
+
+/* (No Comment) */
+"_EditDNATestResultYDNASTRMarkerListContentController_LargePlaceholder" = "Ingen Y-DNA STR-markører angivet";
+
+/* (No Comment) */
+"_EditDNATestResultYDNASTRMarkerListContentController_SmallPlaceholder" = "Brug venligst knappen herover for at tilføje Y-DNA STR-markører";
+
+/* EditDNATestResultYDNASTRMarkerListContentController */
+"_EditDNATestResultYDNASTRMarkerListContentController_Title" = "Y-DNA STR-markører";
+
+/* EditEventGeneralContentController */
+"_EditEventGeneralContentController_Title" = "Generelt";
+
+/* (No Comment) */
+"_EditEventPlaceContentController_AssignPlace" = "Tilknyt sted";
+
+/* (No Comment) */
+"_EditEventPlaceContentController_LargePlaceholder" = "Intet sted tilknyttet";
+
+/* (No Comment) */
+"_EditEventPlaceContentController_SelectExistingPlace" = "Væl sted";
+
+/* (No Comment) */
+"_EditEventPlaceContentController_ShowPlace" = "Vis sted";
+
+/* (No Comment) */
+"_EditEventPlaceContentController_SmallPlaceholder" = "Der er ikke tildelt noget sted til denne begivenhed. Brug knappen ovenfor til at tildele et eksisterende sted eller slå et nyt sted op";
+
+/* EditEventPlaceContentController */
+"_EditEventPlaceContentController_Title" = "Sted";
+
+/* (No Comment) */
+"_EditEventPlaceController_FieldsHint" = "Indtast oplysningerne for dette sted i felterne nedenfor. Hvis du har brug for forskellige felter, kan du overveje at vælge en anden stedskabelon eller føje felterne til stedskabelonen.";
+
+/* EditEventPlaceController */
+"_EditEventPlaceController_TemplateHint" = "Vælg venligst en stedskabelon for dette sted fra knappen nedenfor. Hvis der ikke er en passende skabelon tilgængelig, skal du bruge 'Rediger skabeloner' til at oprette en ny skabelon";
+
+/* EditEventPlaceDetailContentController */
+"_EditEventPlaceDetailContentController_Title" = "Steddetalje";
+
+/* EditEventPlace */
+"_EditEventPlaceSheetLookupNewPlaceSection_Title" = "Søg efter nyt sted";
+
+/* (No Comment) */
+"_EditEventPlaceSheetManualEnterPlaceSection_Title" = "Angiv sted manuelt";
+
+/* (No Comment) */
+"_EditEventPlaceSheetManualEnterPlaceSection_TitleReplace" = "Rediger sted manuelt";
+
+/* (No Comment) */
+"_EditEventPlaceSheetSelectExistingPlaceSection_Title" = "Vælg eksisterende sted";
+
+/* (No Comment) */
+"_EditEventPlaceSheetSelectExistingPlaceSection_TitleReplace" = "Erstat med eksisterende sted";
+
+/* (No Comment) */
+"_EditEventPlaceViewController_EditPlace" = "Rediger sted";
+
+/* (No Comment) */
+"_EditEventPlaceViewController_JustLookUpCoordinate" = "Søg kun efter koordinater";
+
+/* (No Comment) */
+"_EditEventPlaceViewController_RemoveCurrentPlace" = "Fjern aktuelt sted";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_AddExistingManButton" = "Tilføj eksisterende mand";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_AddExistingWomanButton" = "Tilføj eksisterende kvinde";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_AddNewManButton" = "Tilføj ny mand";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_AddNewWomanButton" = "Tilføj ny kvinde";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_EditParentButton" = "Rediger";
+
+/* EditFamilyController */
+"_EditFamilyBaseEditParentContentController_NoManPlaceholder" = "Ingen mand er føjet til denne familie. Vælg knapperne herunder for at tilføje en ny eller en eksisterende mand til familien.";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_NoWomanPlaceholder" = "Ingen kvinde er føjet til denne familie. Vælg knapperne herunder for at tilføje en ny eller en eksisterende kvinde til familien.";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_RemoveAsManButton" = "Fjern som mand";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_RemoveAsPartner1Button" = "Fjern som partner 1";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_RemoveAsPartner2Button" = "Fjern som partner 2";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_RemoveAsWomanButton" = "Fjern som kvinde";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_RemoveFromFamilyInformative" = "Vil du virkelig fjerne denne forældre fra denne familie? Forælderen bliver ikke slettet, men er ikke længere en del af denne familie.";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_RemoveFromFamilyMessage" = "Fjern forælderen '%@'?";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_ShowParentButton" = "Vis";
+
+/* EditFamilyChildContentController */
+"_EditFamilyChildContentController_Title" = "Børn";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_AddChildTopLevelButton" = "Tilføj børn";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_AddExistingChildButton" = "Tilføj eksisterende barn";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_AddNewChildButton" = "Tilføj nyt barn";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_ChildOrder" = "Barnet #%d";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_ChildOrderPopup" = "Særlig børnerækkefølge";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_DeleteChildRelationInformative" = "Vil du virkelig fjerne dette barn fra denne familie? Barnet bliver ikke slettet, men er ikke længere en del af denne familie.";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_DeleteChildRelationMessage" = "Fjern barnet '%@' fra familien?";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_EditChildButton" = "Rediger";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_LargePlaceholder" = "Intet barn tilstede";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_RemoveAsChildButton" = "Fjern som barn";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_SmallPlaceholder" = "Ingen børn er blevet tilføjet i denne familie. Brug knapperne herover til at tilføje børn.";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_Sorting_ByBirthDate" = "Efter fødselsdato";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_Sorting_ByName" = "Efter navn";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_Sorting_CustomOrder" = "Særlig rækkefølge";
+
+/* (No Comment) */
+"_EditFamilyController_AddFatherPlaceholder" = "Tilføj fader til %@";
+
+/* (No Comment) */
+"_EditFamilyController_AddMotherPlaceholder" = "Tilføj moder til %@";
+
+/* (No Comment) */
+"_EditFamilyController_AddNewFamily" = "Tilføj ny familie";
+
+/* (No Comment) */
+"_EditFamilyController_AddParent1Placeholder" = "Tilføj forældre 1 til %@";
+
+/* (No Comment) */
+"_EditFamilyController_AddParent2Placeholder" = "Tilføj forældre 2 til %@";
+
+/* (No Comment) */
+"_EditFamilyController_DeleteFamily" = "Slet familie";
+
+/* (No Comment) */
+"_EditFamilyController_DeleteFamilyQuestionMessage" = "Skal denne familie virkelig slettes?";
+
+/* (No Comment) */
+"_EditFamilyController_NoFamiliesPlaceholder_AddFamilyButton" = "Tilføj første familie";
+
+/* (No Comment) */
+"_EditFamilyController_NoFamiliesPlaceholder_Message" = "Der er ingen familier i dette familietræ. Vælg venligst „Tilføj første familie” for at oprette din første familie.";
+
+/* (No Comment) */
+"_EditFamilyController_NoFamiliesPlaceholder_Title" = "Ingen familier tilstede";
+
+/* (No Comment) */
+"_EditFamilyController_ParentsOfLabel" = "Forældre til %@";
+
+/* (No Comment) */
+"_EditFamilyController_Title" = "Rediger familie";
+
+/* EditFamilyEditManContentController */
+"_EditFamilyEditManContentController_Title" = "Mand";
+
+/* EditFamilyEditWomanContentController */
+"_EditFamilyEditWomanContentController_Title" = "Kvinde";
+
+/* (No Comment) */
+"_EditFamilyEventController_Title" = "Rediger familiebegivenhed";
+
+/* EditFamilyTreeInformationContactContentController */
+"_EditFamilyTreeInformationContactContentController_Title" = "Forfatters kontakt";
+
+/* (No Comment) */
+"_EditFamilyTreeInformationController_Title" = "Forfatter";
+
+/* EditFamilyTreeInformationFamilyCrestContentController */
+"_EditFamilyTreeInformationFamilyCrestContentController_Title" = "Familievåben";
+
+/* EditFamilyTreeInformationHeaderContentController */
+"_EditFamilyTreeInformationHeaderContentController_LargeTitle" = "Om forfatter af dette familietræ";
+
+/* (No Comment) */
+"_EditFamilyTreeInformationIconSettingsContentController_AddToIconButton" = "Tilføj medie til symbol";
+
+/* (No Comment) */
+"_EditFamilyTreeInformationIconSettingsContentController_RemoveMediaFromIconMenuItem" = "Fjern fra symbol";
+
+/* EditFamilyTreeInformationIconSettingsContentController */
+"_EditFamilyTreeInformationIconSettingsContentController_Title" = "Symbolindstillinger";
+
+/* (No Comment) */
+"_EditFamilyTreeInformationNameAndAddressContentController_NoNamePlaceholder" = "Intet navn angivet";
+
+/* EditFamilyTreeInformationNameAndAddressContentController */
+"_EditFamilyTreeInformationNameAndAddressContentController_Title" = "Forfatters navn & adresse";
+
+/* (No Comment) */
+"_EditLabel_DeleteLabelMessage" = "Dette vil permanent slette dette mærke og fjerne det fra lle tilknyttede poster i dit familietræ.";
+
+/* Edit Labels Views */
+"_EditLabel_DeleteLabelTitle" = "Vil du virlkelig slette mærket?";
+
+/* (No Comment) */
+"_EditLabelsContentController_NoLabelsLargePlaceholder" = "Ingen mærker tilstede";
+
+/* (No Comment) */
+"_EditLabelsContentController_NoLabelsSmallPlaceholder" = "Ingen mærker er tilstede i dette familietræ. Brug knappen herover for at tilføje mærker.";
+
+/* Shared Labels */
+"_EditLabelsContentController_Title" = "Mærker";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_AddEntryButton" = "Tilføj post";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_EditMediaRelationAssignmentButton" = "Rediger tilknytningsområde";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_LargePlaceholder" = "Ingen tilknyttede poster tilstede";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_RemoveFromMediaButton" = "Fjern";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_RemoveMediaFromEntryAndDeleteInformative" = "Da dette er den sidste post knyttet til dette medie, vil mediet blive fjernet fra familien.";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_RemoveMediaFromEntryAndDeleteMessage" = "Vil di virkelig slette dette medie?";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_RemoveMediaFromEntryInformative" = "Dette sletter ikke mediet, men fjerner blot postens tilknytningen til dette medie.";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_RemoveMediaFromEntryMessage" = "Vil du virkelig fjerne posten '%@' fra dette medie?";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_SmallPlaceholder" = "Brug venligst knappen herover til at knytte poster, f.eks. personer eller familier til dette medie";
+
+/* EditMediaAssignedEntriesContentController */
+"_EditMediaAssignedEntriesContentController_Title" = "Tilknyttede poster";
+
+/* (No Comment) */
+"_EditMediaContentController_AddMediaButton" = "Tilføj medie";
+
+/* (No Comment) */
+"_EditMediaContentController_BringToFrontMenuItem" = "Anbring medie forrest";
+
+/* (No Comment) */
+"_EditMediaContentController_DeleteMediaQuestionInformative" = "Vil du virkelig slette dette medie fra dit familietræ?";
+
+/* (No Comment) */
+"_EditMediaContentController_DeleteMediaQuestionMessage" = "Skal mediet virkelig slettes?";
+
+/* (No Comment) */
+"_EditMediaContentController_DeleteMenuItem" = "Slet";
+
+/* (No Comment) */
+"_EditMediaContentController_DoNotUseAsEntryImageMenuItem" = "Brug ikke som et startbillede";
+
+/* (No Comment) */
+"_EditMediaContentController_EditMenuItem" = "Rediger…";
+
+/* (No Comment) */
+"_EditMediaContentController_LargePlaceholder" = "Ingen medier tilstede";
+
+/* (No Comment) */
+"_EditMediaContentController_MarkAsNotPrivateMenuItem" = "Marker som ikke privat";
+
+/* (No Comment) */
+"_EditMediaContentController_MarkAsPrivateMenuItem" = "Marker som privat";
+
+/* (No Comment) */
+"_EditMediaContentController_NoPicture_SmallPlaceholder" = "Brug venligst knappen herover for at tilføje billeder.";
+
+/* (No Comment) */
+"_EditMediaContentController_ShowSlideshowButton" = "Diasshow";
+
+/* (No Comment) */
+"_EditMediaContentController_SmallPlaceholder" = "Brug venligst knappen herover til at tilføje fotos, PDF'er, videoer, lyd eller websider";
+
+/* Media */
+"_EditMediaContentController_Title" = "Medie";
+
+/* (No Comment) */
+"_EditMediaContentController_UseAsEntryImageMenuItem" = "Brug som startbillede";
+
+/* EditMediaController */
+"_EditMediaController_LargePlaceholder" = "Ingen medier tilstede";
+
+/* (No Comment) */
+"_EditMediaController_SmallPlaceholder" = "Føj medier til mediesektionerne når du redigerer personer, familier eller steder";
+
+/* (No Comment) */
+"_EditMediaController_Title" = "Rediger medie";
+
+/* (No Comment) */
+"_EditMediaCropColorizeContentController_Explanation" = "Brug knappen herover til at beskære, farvelægge, fjerne ridser, forbedre eller fjerne baggrunden fra dette billede.";
+
+/* (No Comment) */
+"_EditMediaCropColorizeContentController_OpenCropColorizeButton" = "Rediger & forbedr billede…";
+
+/* (No Comment) */
+"_EditMediaCropColorizeContentController_SuiteableForColorizeExplanation" = "Dette billede synes at være velegnet til farvelægning. Autofarvelæg, forbedr, fjern ridser eller beskær billeder med knappen herover.";
+
+/* EditMediaCropColorizeContentController */
+"_EditMediaCropColorizeContentController_Title" = "Kunstig intelligens & Beskær";
+
+/* EditMediaGeneralContentController */
+"_EditMediaGeneralContentController_Title" = "Generelt";
+
+/* EditMediaMediaPreviewContentController */
+"_EditMediaMediaPreviewContentController_Title" = "Medier";
+
+/* (No Comment) */
+"_EditMediaMediaPreviewContentControlleriOSPlatformView_ShowAudioButton" = "Vis lyd…";
+
+/* (No Comment) */
+"_EditMediaMediaPreviewContentControlleriOSPlatformView_ShowFullImageButton" = "Vis billede i fuld størrelse…";
+
+/* (No Comment) */
+"_EditMediaMediaPreviewContentControlleriOSPlatformView_ShowFullPDFButton" = "Vis fuld PDF…";
+
+/* (No Comment) */
+"_EditMediaMediaPreviewContentControlleriOSPlatformView_ShowVideoButton" = "Vis video…";
+
+/* (No Comment) */
+"_EditMediaMediaPreviewContentControlleriOSPlatformView_ShowWebsiteButton" = "Vis website…";
+
+/* (No Comment) */
+"_EditNotesContentController_AddNoteButton" = "Tilføj notat";
+
+/* (No Comment) */
+"_EditNotesContentController_DeleteNoteQuestionMessage" = "Skal dette notat virkelig slettes?";
+
+/* (No Comment) */
+"_EditNotesContentController_LargePlaceholder" = "Ingen notater tilstede";
+
+/* (No Comment) */
+"_EditNotesContentController_NoNoteTextPlaceholder" = "Ingen notattekst angivet";
+
+/* (No Comment) */
+"_EditNotesContentController_SmallPlaceholder" = "Brug venligst knappen herover for at tilføje et nyt notat";
+
+/* (No Comment) */
+"_EditNotesContentController_Sorting_ByChangeDate" = "Efter ændringsdato";
+
+/* (No Comment) */
+"_EditNotesContentController_Sorting_ByCreationDate" = "Efter oprettelsesdato";
+
+/* (No Comment) */
+"_EditNotesContentController_Sorting_ByText" = "Efter tekst";
+
+/* EditNotesContentController */
+"_EditNotesContentController_Title" = "Notater";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_AddAdditionalNameButton" = "Tilføj navn";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_AdditionalNamePlaceholder" = "%@ – Skriv information her";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_DeleteAdditionalNameQuestionInformative" = "Vil du virkelig slette dette yderligere navn";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_DeleteAdditionalNameQuestionMessage" = "Slet yderligere navn '%@'?";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_EditAdditionalNameConclusionTypes" = "Rediger yderligere navnetyper…";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_LargePlaceholder" = "Ingen yderligere navne tilstede";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_SmallPlaceholder" = "Brug venligst knappen herover for at tilføje et nyt, yderligere navn.";
+
+/* EditPerson Additional Names */
+"_EditPersonAdditionalNamesContentController_Title" = "Yderligere navne";
+
+/* (No Comment) */
+"_EditPersonController_AddBrotherMenuItem" = "Tilføj ny broder";
+
+/* (No Comment) */
+"_EditPersonController_AddChildPlaceholder" = "Tilføj nyt barn";
+
+/* (No Comment) */
+"_EditPersonController_AddExistingFurtherPartnerMenuItem" = "Tilføj eksisterende person som yderligere partner…";
+
+/* (No Comment) */
+"_EditPersonController_AddExistingPersonAsChildMenuItem" = "Tilføj eksisterende person som barn…";
+
+/* (No Comment) */
+"_EditPersonController_AddExistingPersonAsFatherMenuItem" = "Tilføj eksisterende person som fader…";
+
+/* (No Comment) */
+"_EditPersonController_AddExistingPersonAsMotherMenuItem" = "Tilføj eksisterende person som moder…";
+
+/* (No Comment) */
+"_EditPersonController_AddExistingPersonAsPartnerMenuItem" = "Tilføj eksisterende person som partner…";
+
+/* EditPersonController */
+"_EditPersonController_AddFatherPlaceholder" = "Tilføj ny fader";
+
+/* (No Comment) */
+"_EditPersonController_AddFurtherFather" = "Tilføj yderligere fader";
+
+/* (No Comment) */
+"_EditPersonController_AddFurtherMother" = "Tilføj yderligere moder";
+
+/* (No Comment) */
+"_EditPersonController_AddFurtherPartnerMenuItem" = "Tilføj yderligere partner";
+
+/* (No Comment) */
+"_EditPersonController_AddMotherPlaceholder" = "Tilføj eksisterende person som moder";
+
+/* (No Comment) */
+"_EditPersonController_AddNewPersonAsChildMenuItem" = "Tilføj nyt barn";
+
+/* (No Comment) */
+"_EditPersonController_AddNewPersonAsFatherMenuItem" = "Tilføj ny fader";
+
+/* (No Comment) */
+"_EditPersonController_AddNewPersonAsMotherMenuItem" = "Tilføj ny moder";
+
+/* (No Comment) */
+"_EditPersonController_AddNewPersonAsPartnerMenuItem" = "Tilføj ny partner";
+
+/* (No Comment) */
+"_EditPersonController_AddNewPersonMenuItem" = "Tilføj ny person";
+
+/* (No Comment) */
+"_EditPersonController_AddPartnerPlaceholder" = "Tilføj ny partner";
+
+/* (No Comment) */
+"_EditPersonController_AddSisterMenuItem" = "Tilføj ny søster";
+
+/* (No Comment) */
+"_EditPersonController_BrotherOrSisterOfFamilyMenuItem" = "Broder eller søster til '%@' i familien…";
+
+/* (No Comment) */
+"_EditPersonController_ChildRelationTypeForFatherMenuItem" = "Relation til fader %@";
+
+/* (No Comment) */
+"_EditPersonController_ChildRelationTypeForMotherMenuItem" = "Relation til moder %@";
+
+/* (No Comment) */
+"_EditPersonController_ChildRelationTypeMenuItem" = "Type af børnerelation";
+
+/* (No Comment) */
+"_EditPersonController_DeleteFamily" = "Slet familie";
+
+/* (No Comment) */
+"_EditPersonController_DeletePerson" = "Slet person";
+
+/* (No Comment) */
+"_EditPersonController_DeletePersonMenuItem" = "Slet %@…";
+
+/* (No Comment) */
+"_EditPersonController_EditFamilyMenuItem" = "Slet familien %@";
+
+/* (No Comment) */
+"_EditPersonController_EditFamilyMenuItem_WithoutPlaceholder" = "Rediger familie";
+
+/* (No Comment) */
+"_EditPersonController_EditPersonMenuItem" = "Rediger %@";
+
+/* (No Comment) */
+"_EditPersonController_NoPersonsPlaceholder_AddPersonButton" = "Tilføj første person";
+
+/* (No Comment) */
+"_EditPersonController_NoPersonsPlaceholder_Message" = "Der er ingen personer i dette familietræ. Vælg venligst „Tilføj første person” for at oprette din første person.";
+
+/* (No Comment) */
+"_EditPersonController_NoPersonsPlaceholder_Title" = "Ingen personer tilstede";
+
+/* (No Comment) */
+"_EditPersonController_ParentsOptionsButton" = "Forældrevalg…";
+
+/* (No Comment) */
+"_EditPersonController_PartnerOptionsButton" = "Partnervalg…";
+
+/* (No Comment) */
+"_EditPersonController_RemovePersonFromFamilyMenuItem" = "Fjern %@ fra familie";
+
+/* (No Comment) */
+"_EditPersonController_RemovePersonQuestionInformative" = "Dette sletter ikke personen i dit familietræ, men fjerner personen fra denne familie.";
+
+/* (No Comment) */
+"_EditPersonController_RemovePersonQuestionMessage" = "Vil du virkelig fjerne personen '%@' fra familien '%@'?";
+
+/* (No Comment) */
+"_EditPersonController_SelectFamily" = "Vælg familie";
+
+/* (No Comment) */
+"_EditPersonController_ShowOldestAncestorsMenuItem" = "Ældste aner…";
+
+/* (No Comment) */
+"_EditPersonController_ShowYoungestAncestorsMenuItem" = "Yngste efterkommer…";
+
+/* Titles */
+"_EditPersonController_Title" = "Rediger person";
+
+/* (No Comment) */
+"_EditPersonDNAContentController_AddDNATest" = "Tilføj DNA-testresultat";
+
+/* (No Comment) */
+"_EditPersonDNAContentController_EditDNATestResultButton" = "Rediger DNA-data";
+
+/* (No Comment) */
+"_EditPersonDNAContentController_LargePlaceholder" = "Ingen DNA-testresultater angivet";
+
+/* (No Comment) */
+"_EditPersonDNAContentController_SmallPlaceholder" = "Brug venligst knapper herover til at føje DNA-testresulater til denne person";
+
+/* (No Comment) */
+"_EditPersonDNAContentController_Sorting_ByDate" = "Efter dato";
+
+/* (No Comment) */
+"_EditPersonDNAContentController_Sorting_ByTitle" = "Efter titel";
+
+/* EditPersonDNAContentController */
+"_EditPersonDNAContentController_Title" = "DNA";
+
+/* (No Comment) */
+"_EditPersonEventController_Title" = "Rediger personbegivenhed";
+
+/* (No Comment) */
+"_EditPersonFactController_Title" = "Rediger personfakta";
+
+/* EditPersonFactGeneralContentController */
+"_EditPersonFactGeneralContentController_Title" = "Generelt";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_AddFactButton" = "Tilføj fakta";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_DeleteFactQuestionMessage" = "Slet personfakta?";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_EditFactDetails" = "Rediger faktadetaljer";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_EditPersonFactConclusionTypes" = "Rediger typer af personfakta";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_FactPlaceholder" = "%@ – Skriv information her";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_LargePlaceholder" = "Ingen fakta tilstede";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_SmallPlaceholder" = "Brug venligst knappen herover fro at tilføje et nyt fakta.";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_Sorting_ByFactType" = "Efter faktatype";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_Sorting_ByFactValue" = "Efter faktaværdi";
+
+/* EditPersonFactsContentController */
+"_EditPersonFactsContentController_Title" = "Fakta";
+
+/* (No Comment) */
+"_EditPersonFamilySearchContentController_DetailsButton" = "Detaljer";
+
+/* EditPersonFamilySearchContentController */
+"_EditPersonFamilySearchContentController_Title" = "FamilySearch";
+
+/* (No Comment) */
+"_EditPersonGroupController_AddPersonGroupButton" = "Tilføj første persongruppe";
+
+/* EditPersonGroupController */
+"_EditPersonGroupController_LargePlaceholder" = "Ingen persongrupper tilstede";
+
+/* (No Comment) */
+"_EditPersonGroupController_SmallPlaceholder" = "Der er ingen persongrupper i dette familietræ. Persongrupper kan bruges til at fremhæve forskellige grene i dit familietræ. Vælg venligst „Tilføj første persongruppe” for at oprette din første persongruppe";
+
+/* (No Comment) */
+"_EditPersonGroupController_Title" = "Rediger persongruppe";
+
+/* (No Comment) */
+"_EditPersonGroupGeneralContentController_NamePlaceholder" = "Intet navn angivet";
+
+/* (No Comment) */
+"_EditPersonGroupGeneralContentController_Title" = "Generelt";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_AddPersonToGroupButton" = "Tilføj personer";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_DeletePersonGroupRelationInformative" = "Dette sletter hverken personen eller persongruppen, men personen bliver fjernet fra denne persongruppe.";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_DeletePersonGroupRelationMessage" = "Fjern '%@' fra persongruppen '%@'?";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_LargePlaceholder" = "Ingen personer i denne persongruppe";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_ManagePersonsInGroupButton" = "Administrer personer";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_RemoveFromPersonGroupButton" = "Fjern fra gruppe";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_SmallPlaceholder" = "Brug venligst knappen herover til at føje personer til denne persongruppe";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_Sorting_ByBirthDate" = "Efter fødselsdag";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_Sorting_ByName" = "Efter navn";
+
+/* EditPersonGroupPersonsInGroupContentController */
+"_EditPersonGroupPersonsInGroupContentController_Title" = "Personer i gruppen";
+
+/* (No Comment) */
+"_EditPersonGroupsContentController_NoPersonGroupsLargePlaceholder" = "Ingen persongrupper tilstede";
+
+/* (No Comment) */
+"_EditPersonGroupsContentController_NoPersonGroupsSmallPlaceholder" = "Ingen persongrupper er føjet til dette familietræ, Brug funktionen, Persongrupper, til at tilføje persongrupper.";
+
+/* _EditPersonGroupsContentController_Title */
+"_EditPersonGroupsContentController_Title" = "Persongrupper";
+
+/* EditPerson Name */
+"_EditPersonNameContentController_Title" = "Navn & Køn";
+
+/* (No Comment) */
+"_EditPersonNumberingSystemContentController_NoNumberingSystemAssigned" = "Vælg et nummereringssystem startende med denne person ved hjælp af knappe herunder:";
+
+/* (No Comment) */
+"_EditPersonNumberingSystemContentController_NumberingSystemAssignedAndHasValueAndIsNotStartPerson" = "Denne person har et nummer i det aktuelle nummereringssystem startende med personen:";
+
+/* (No Comment) */
+"_EditPersonNumberingSystemContentController_NumberingSystemAssignedAndIsStartPerson" = "Denne person er den startende person i det aktuelle nummereringssystem (%@).";
+
+/* (No Comment) */
+"_EditPersonNumberingSystemContentController_NumberingSystemAssignedAndPersonHasNoValue" = "Denne person har intet nummer i det aktuelle nummereringssystem. Det betyder, at denne person ikke er ane eller efterkommer af startpersonen i dette nummereringssystem (%@):";
+
+/* (No Comment) */
+"_EditPersonNumberingSystemContentController_SetNumberingSystemTopLevelMenuItem" = "Nummereringssystem…";
+
+/* EditPersonNumberingSystemContentController */
+"_EditPersonNumberingSystemContentController_Title" = "Nummereringssystem";
+
+/* (No Comment) */
+"_EditPlaceAlternateNamesContentController_AlternatePlaceNamesPlaceholder" = "Indtast eventuelle alternative stednavne her";
+
+/* EditPlaceAlternateNamesContentController */
+"_EditPlaceAlternateNamesContentController_Title" = "Alternative stednavne";
+
+/* EditPlaceController */
+"_EditPlaceController_LargePlaceholder" = "Ingen steder tilstede";
+
+/* (No Comment) */
+"_EditPlaceController_LookupNewPlaceButton" = "Søg efter første sted";
+
+/* (No Comment) */
+"_EditPlaceController_SmallPlaceholder" = "Angiv venligst steder for person- eller familiebegivenheder eller brug knappen herunder til at slå et nyt sted op.";
+
+/* (No Comment) */
+"_EditPlaceController_Title" = "Rediger sted";
+
+/* (No Comment) */
+"_EditPlaceCoordinateContentController_AddCoordinateButton" = "Angiv manuelt";
+
+/* (No Comment) */
+"_EditPlaceCoordinateContentController_DeleteCoordinateQuestionMessage" = "Slet koordinat?";
+
+/* (No Comment) */
+"_EditPlaceCoordinateContentController_LargePlaceholder" = "Ingen koordinater angivet";
+
+/* (No Comment) */
+"_EditPlaceCoordinateContentController_LookupButton" = "Slå op";
+
+/* (No Comment) */
+"_EditPlaceCoordinateContentController_SmallPlaceholder" = "Brug venligst knapperne herover til enten at angive koordinater for dette sted manuelt eller slå dem op ved hjælp af stednavnet.";
+
+/* (No Comment) */
+"_EditPlaceCoordinateContentController_SmallPlaceholder_CTW" = "Brug venligst knappen herover for at angive koordinater for dette sted manuelt.";
+
+/* EditPlaceCoordinateContentController */
+"_EditPlaceCoordinateContentController_Title" = "Koordinater";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_AddCoordinateButton" = "Tilføj koordinat";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_AddEmptyPlaceDetail" = "Tilføj tom steddetalje";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_AddPlaceDetail" = "Tilføj";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_DeletePlaceDetailQuestionMessage" = "Vil du virkelig slette steddetalje?";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_EventCount" = "Antal begivenheder";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_LargePlaceholder" = "Ingen steddetaljer angivet";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_LookupCoordinateButton" = "Søg efter koordinater…";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_MegeWithOtherPlaceDetailButton" = "Flet med anden steddetalje";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_NoNamePlaceholder" = "Ingen steddetaljer angivet";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_RemoveCoordinateButton" = "Fjern koordinater";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_SearchOtherPlaceDetail" = "Søg efter steddetalje…";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_SmallPlaceholder" = "Brug knappen 'Tilføj' ovenfor for at tilføje steddetaljer. Steddetaljer er specifikke adresser, sektioner eller andre interessepunkter på dette sted.";
+
+/* EditPlaceDetailsContentController */
+"_EditPlaceDetailsContentController_Title" = "Steddetaljer";
+
+/* (No Comment) */
+"_EditPlaceEventsAtPlaceContentController_LargePlaceholder" = "Ingen begivenheder angivet";
+
+/* (No Comment) */
+"_EditPlaceEventsAtPlaceContentController_RemoveFromPlace" = "Fjern fra sted";
+
+/* (No Comment) */
+"_EditPlaceEventsAtPlaceContentController_SmallPlaceholder" = "Ingen person- eller familiebegivenheder er føjet til dette sted. Brug sektionen 'Personer' eller 'Familie' til at tilknytte steder til begivenheder.";
+
+/* (No Comment) */
+"_EditPlaceEventsAtPlaceContentController_Sorting_ByDate" = "Efter begivenhedsdato";
+
+/* (No Comment) */
+"_EditPlaceEventsAtPlaceContentController_Sorting_ByType" = "Efter begivenhedstype";
+
+/* EditPlaceEventsAtPlaceContentController */
+"_EditPlaceEventsAtPlaceContentController_Title" = "Begivenheder på sted";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_AddField" = "Tilføj felt…";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_AddTemplateKeyToTemplate" = "Tilføj felt '%@‚ til skabelonen '%@'";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_DeleteFieldContentsInformative" = "Vil du virkelig slette denne yderligere information fra det aktuelt viste sted?";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_DeleteFieldContentsMessage" = "Vil du slette disse oplysninger fra stedet?";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_EditTemplateKeys" = "Rediger stedfelter…";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_LargePlaceholder" = "Ingen yderligere stedsfelter er angivet";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_SmallPlaceholder" = "Du kan tilføje yderligere stedfelter til dette sted, som ikke er angivet i den aktuelt valgte skabelon ved at bruge knappen ovenfor.";
+
+/* EditPlaceFurtherPlaceNameFieldsContentController */
+"_EditPlaceFurtherPlaceNameFieldsContentController_Title" = "Yderligere stednavnefelter";
+
+/* (No Comment) */
+"_EditPlaceHeaderContentController_EventCountTitlePlural" = "%d begivenheder på dette sted";
+
+/* EditPlaceHeaderContentController */
+"_EditPlaceHeaderContentController_EventCountTitleSingular" = "En begivenhed på dette sted";
+
+/* (No Comment) */
+"_EditPlaceHeaderContentController_EventsDateRangePlural" = "Datointerval for begivenheder";
+
+/* (No Comment) */
+"_EditPlaceHeaderContentController_EventsDateRangeSingular" = "Begivenhedsdato";
+
+/* (No Comment) */
+"_EditPlaceHeaderContentController_PlaceDetailCountTitlePlural" = "%d steddetaljer";
+
+/* (No Comment) */
+"_EditPlaceHeaderContentController_PlaceDetailCountTitleSingular" = "En steddetalje";
+
+/* _EditPlaceLinksContentController_OtherLanguagesButton */
+"_EditPlaceLinksContentController_Title" = "Websider";
+
+/* (No Comment) */
+"_EditPlaceNameContentController_EditTemplates" = "Rediger stedskabeloner…";
+
+/* EditPlaceNameContentController */
+"_EditPlaceNameContentController_Title" = "Stednavn";
+
+/* (No Comment) */
+"_EditPlacePane_Map_PlaceholderButton" = "Søg efter koordinater…";
+
+/* (No Comment) */
+"_EditPlacePane_Map_PlaceholderMessage" = "For at vise placeringen af ​​det valgte sted på kortet, skal du slå de geografiske koordinater op for dette sted:";
+
+/* (No Comment) */
+"_EditPlacePane_Map_PlaceholderMessagePlaceDetail" = "For at vise placeringen af ​​den valgte steddetalje på kortet, skal du slå de geografiske koordinater op for denne steddetalje";
+
+/* EditPlacePane */
+"_EditPlacePane_Map_PlaceholderTitle" = "Ingen koordinat";
+
+/* (No Comment) */
+"_EditPlacePane_MapKitTypePopupButton" = "Korttype";
+
+/* (No Comment) */
+"_EditPlacePane_MapKitTypePopupButton_FromPreferences" = "Som angivet i indstillingerne";
+
+/* (No Comment) */
+"_EditPlacePane_MapKitTypePopupButton_Hybrid" = "Hybrid";
+
+/* (No Comment) */
+"_EditPlacePane_MapKitTypePopupButton_Satellite" = "Satellit";
+
+/* (No Comment) */
+"_EditPlacePane_MapKitTypePopupButton_Standard" = "Standard";
+
+/* (No Comment) */
+"_EditPlacePane_MapKitTypePopupButton_StandardMuted" = "Standard (dæmpet)";
+
+/* (No Comment) */
+"_EditPlacePane_MapOptionsButton" = "Kortvalg";
+
+/* (No Comment) */
+"_EditPlacePane_OnlyShowPlaceDetailsForSelectedPlaceOnMapCheckbox" = "Vis kun steddetaljer når sted er valgt";
+
+/* (No Comment) */
+"_EditPlacePane_OnlyShowSelectedPlaceOnMapCheckbox" = "Vis kun valgt sted på kort";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton" = "Nålefarve";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton_ByEventCount_BlueToMagentaToOrange" = "Efter antal begivenheder (Blå til magenta til orange)";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton_ByEventCount_BlueToRed" = "Efter antal begivenheder (Blå til rød)";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton_ByEventCount_GreenToYellowToRed" = "Efter antal begivenheder (Grøn til gul til rød)";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton_ByEventCount_TurquoiseToYellowToLightRed" = "Efter antal begivenheder (Turkis til gul til lyserød)";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton_ByEventCount_YellowToRed" = "Efter antal begivenheder (gul til rød)";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton_SingleColor" = "Enkelt farvet";
+
+/* (No Comment) */
+"_EditPlacePane_ShowEventCountOnPlacePins" = "Vis antal begivenheder på nåle";
+
+/* (No Comment) */
+"_EditPrivateContentController_Explanation" = "Hvis valgt, vises denne information ikke i diagrammer eller rapporter";
+
+/* (No Comment) */
+"_EditPrivateContentController_MarkAsPrivate" = "Marker som privat";
+
+/* EditPrivateContentController */
+"_EditPrivateContentController_Title" = "Privat";
+
+/* EditReferenceNumbersContentController */
+"_EditReferenceNumbersContentController_Title" = "Referencenumre";
+
+/* (No Comment) */
+"_EditSourceContentController_AddToDoButton" = "Tilføj første kilde";
+
+/* (No Comment) */
+"_EditSourceContentController_DeleteSourceQuestionMessage" = "Skal kilden virkelig slettes?";
+
+/* EditSourceContentController */
+"_EditSourceContentController_LargePlaceholder" = "Ingen kilder tilstede";
+
+/* (No Comment) */
+"_EditSourceContentController_SmallPlaceholder" = "Der er ingen kilder i dette familietræ. Brug venligst „Tilføj første kilde” for at oprette din første kilde";
+
+/* (No Comment) */
+"_EditSourceController_Title" = "Rediger kilde";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_AddField" = "Tilføj felt…";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_AddTemplateKeyToTemplate" = "Tilføj feltet '%@' til skabelonen '%@'";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_DeleteFieldContentsInformative" = "Vil du virkelig slette denne yderligere information fra den aktuelt viste kilde?";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_DeleteFieldContentsMessage" = "Slet denne information fra kilden?";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_EditTemplateKeys" = "Rediger kildefelter…";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_LargePlaceholder" = "Ingen yderligere informationsfelter er angivet";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_SmallPlaceholder" = "Du kan tilføje yderligere information til denne kilde som ikke er specificeret i den aktuelt valgte skabelon med knappen herover.";
+
+/* EditSourceFurtherFieldsContentController */
+"_EditSourceFurtherFieldsContentController_Title" = "Yderligere information";
+
+/* (No Comment) */
+"_EditSourceGeneralContentController_EditSourceRepository" = "Rediger kildeopbevaringssteder…";
+
+/* (No Comment) */
+"_EditSourceGeneralContentController_EditTemplates" = "Rediger kildeskabeloner…";
+
+/* EditSourceGeneralContentController */
+"_EditSourceGeneralContentController_Title" = "Kildeinformation";
+
+/* (No Comment) */
+"_EditSourceGeneralContentController_TitlePlaceholder" = "Ingen titel angivet";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_AddEntryToSourceButton" = "Tilføj post";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_CitationNotes" = "Citationsnotater";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_LargePlaceholder" = "Ingen refererede poster tilstede";
+
+/* EditSourceReferencedEntriesContentController */
+"_EditSourceReferencedEntriesContentController_RemoveFromSourceButton" = "Fjern fra kilde";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_SmallPlaceholder" = "Brug venligst knappen herover til at føje refererede poster til denne kilde";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_Sorting_ByPage" = "Efter side";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_Sorting_ByType" = "Efter type";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_Title" = "Refererede poster";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_EvidenceExplanation" = "Angiv om beviset for den refererede post i denne kilde er negativ, indirekte eller direkte";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_EvidenceQuality" = "Beviskvalitet";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_GeneralExplanation" = "Angiv venligst kilden, information og beviskvalitet for den refererede post for den nævnte kilde:";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_InformationExplanation" = "Er informationen i denne kilde førstehånds- eller andenhåndsinformation?";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_InformationQuality" = "Informationskvalitet";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_QualityExplanation" = "Vælg om kilden er det originale dokument eller hvis det har været en afledt kilde.";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_SourceQuality" = "Kildekvalitet";
+
+/* EditSourceRelationCertaintySettingsCertaintyViewContentController */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_Title" = "Kildepålidelighed";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_AddExistingSourceMenuItem" = "Tilføj eksisterende kilde…";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_AddNewSourceMenuItem" = "Tilføj ny kilde";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_AddSourceButton" = "Tilføj kilde";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_CitedSource" = "Citeret kilde";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_CopySourceCitation" = "Kopier kildecitation";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_DeleteSourceMenuItem" = "Slet kilde";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_LargePlaceholder" = "Ingen kildecitationer tilstede";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_PasteSourceCitation" = "Indsæt kildecitation";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_RemoveObjectFromSourceInformative" = "Vil du virkelig fjerne denne kildecitation? Det sletter ikke kilden, men fjerner denne post fra kilden.";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_RemoveObjectFromSourceMessage" = "Fjern posten fra kilden '%@'?";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_SmallPlaceholder" = "Brug venligst knappen herover til at føje kildecitationer til denne post";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_Sorting_ByCertainty" = "Sorter efter kildepålidelighed";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_Sorting_ByDate" = "Sorter efter kildedato";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_Sorting_ByPage" = "Sorter efter sidenummer";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_Sorting_ByTitle" = "Sorter efter kildetitel";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_SourceDate" = "Kildedato";
+
+/* EditSourceRelationsContentController */
+"_EditSourceRelationsContentController_Title" = "Kildecitationer";
+
+/* (No Comment) */
+"_EditSourceSourceRepositoryContentController_NoSourceRepository" = "Intet kildeopbevaringssted";
+
+/* EditSourceSourceRepositoryContentController */
+"_EditSourceSourceRepositoryContentController_Title" = "Kildeopbevaringssted";
+
+/* (No Comment) */
+"_EditSourceTextContentController_LargePlaceholder" = "Ingen tekst angivet";
+
+/* (No Comment) */
+"_EditSourceTextContentController_SmallPlaceholder" = "Tryk her for at indtaste tekst til denne kilde";
+
+/* EditSourceTextContentController */
+"_EditSourceTextContentController_Title" = "Kildetekst";
+
+/* (No Comment) */
+"_EditStoryContentController_AddStoryButton" = "Tilføj første historie";
+
+/* (No Comment) */
+"_EditStoryContentController_LargePlaceholder" = "Ingen historier til stede";
+
+/* (No Comment) */
+"_EditStoryContentController_SmallPlaceholder" = "I øjeblikket er der ingen historier blevet tilføjet til dette familietræ. Brug Historier til at fortælle og optage særlige begivenheder i din familiehistorie. Vælg venligst \"Tilføj første historie\" for at oprette din første historie.";
+
+/* (No Comment) */
+"_EditStoryController_Title" = "Rediger historie";
+
+/* EditStoryController */
+"_EditStoryGeneralContentController_Title" = "Generelt";
+
+/* (No Comment) */
+"_EditStoryGeneralContentController_TitlePlaceholder" = "Ingen titel angivet";
+
+/* (No Comment) */
+"_EditStoryReferencedEntriesContentController_AddEntryToStoryButton" = "Tilføj post";
+
+/* (No Comment) */
+"_EditStoryReferencedEntriesContentController_LargePlaceholder" = "Ingen refererede poster til stede";
+
+/* (No Comment) */
+"_EditStoryReferencedEntriesContentController_SmallPlaceholder" = "Brug venligst knapperne til at tilføje personer, begivenheder eller familier, der henvises til i denne historie.";
+
+/* (No Comment) */
+"_EditStoryReferencedEntriesContentController_Title" = "Refererede poster";
+
+/* (No Comment) */
+"_EditStoryRelationsContentController_AddExistingStoryMenuItem" = "Tilføj eksisterende historie…";
+
+/* (No Comment) */
+"_EditStoryRelationsContentController_AddExistingStorySectionMenuItem" = "Tilføj eksisterende historiesektion…";
+
+/* (No Comment) */
+"_EditStoryRelationsContentController_AddNewStoryMenuItem" = "Tilføj ny historie";
+
+/* (No Comment) */
+"_EditStoryRelationsContentController_AddStoryButton" = "Tilføj historie";
+
+/* (No Comment) */
+"_EditStoryRelationsContentController_LargePlaceholder" = "Ingen historier til stede";
+
+/* (No Comment) */
+"_EditStoryRelationsContentController_SmallPlaceholder" = "Brug venligst knappen ovenfor for at tilføje en ny eller eksisterende historie.";
+
+/* EditStoryRelationsContentController */
+"_EditStoryRelationsContentController_Title" = "Historier";
+
+/* (No Comment) */
+"_EditStorySectionReferencedEntriesContentController_AddEntryToStorySectionButton" = "Tilføj post";
+
+/* (No Comment) */
+"_EditStorySectionReferencedEntriesContentController_LargePlaceholder" = "Ingen refererede poster til stede";
+
+/* (No Comment) */
+"_EditStorySectionReferencedEntriesContentController_SmallPlaceholder" = "Brug venligst knapperne til at tilføje personer, begivenheder eller familier, der henvises til i denne historiesektion.";
+
+/* EditStorySectionReferencedEntriesContentController */
+"_EditStorySectionReferencedEntriesContentController_Title" = "Refererede poster i sektion";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_AddMedia" = "Tilføj medie";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_AddStorySecton" = "Tilføj historiesektion";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_LargePlaceholder" = "Ingen historiesektioner til stede";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_MoveDown" = "Flyt sektion nedad";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_MoveUp" = "Flyt sektion opad";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_NoStorySectionRelationsPlaceholder" = "Ingen refererede poster til stede";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_NoSubtitlePlaceholder" = "Ingen sektionstitel er angivet";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_NoTextPlaceholder" = "Ingen sektionstekst er angivet";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_SmallPlaceholder" = "Brug venligst knappen ovenfor for at tilføje et første afsnit til denne historie";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_StorySectionRelations" = "Refererede poster i sektion";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_Title" = "Historiesektioner";
+
+/* (No Comment) */
+"_EditToDoAssignedEntriesContentController_AddEntryButton" = "Tilføj post";
+
+/* (No Comment) */
+"_EditToDoAssignedEntriesContentController_LargePlaceholder" = "Ingen tilknyttede poster tilstede";
+
+/* (No Comment) */
+"_EditToDoAssignedEntriesContentController_SmallPlaceholder" = "Vælg knappen herover for at føje poster fra dit familietræ til denne opgave";
+
+/* (No Comment) */
+"_EditToDoAssignedEntriesContentController_Sorting_ByDate" = "Efter dato";
+
+/* (No Comment) */
+"_EditToDoAssignedEntriesContentController_Sorting_ByName" = "Efter navn";
+
+/* EditToDoAssignedEntriesContentController */
+"_EditToDoAssignedEntriesContentController_Title" = "Tilknyttede poster";
+
+/* (No Comment) */
+"_EditToDoContentController_AddExistingToDoMenuItem" = "Tilføj eksisterende opgave";
+
+/* (No Comment) */
+"_EditToDoContentController_AddNewToDoMenuItem" = "Tilføj ny opgave";
+
+/* (No Comment) */
+"_EditToDoContentController_AddToDoButton" = "Tilføj opgave";
+
+/* (No Comment) */
+"_EditToDoContentController_LargePlaceholder" = "Ingen opgaver tilstede";
+
+/* (No Comment) */
+"_EditToDoContentController_NoDateEnteredPlaceholder" = "Ingen dato angivet";
+
+/* (No Comment) */
+"_EditToDoContentController_NoTitleEnteredPlaceholder" = "Ingen titel angivet";
+
+/* (No Comment) */
+"_EditToDoContentController_RemoveFromToDoButton" = "Fra fra opgave";
+
+/* (No Comment) */
+"_EditToDoContentController_SmallPlaceholder" = "Brug venligst knapperne herover til at tilføje en ny opgave eller tilknyt en eksisterende opgave";
+
+/* EditToDosContentController */
+"_EditToDoContentController_Title" = "Opgaver";
+
+/* (No Comment) */
+"_EditToDoController_AddToDoButton" = "Tilføj første opgave";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosInformative" = "Vil du virkelig slette alle opgaver i dit familietræ, der er blevet markeret som udførte?";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosInformative_NoDoneFound" = "I dit familietræ er der ikke fundet nogen opgaver markeret som udførte, så ingen er blevet fjernet.";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosMessage" = "Vil du virkelig slette %d opgaver, der er markeret som udførte?";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosMessage_NoDoneFound" = "Ingen opgaver fundet, der er markeret som udførte";
+
+/* EditToDoController */
+"_EditToDoController_LargePlaceholder" = "Ingen opgaver tilstede";
+
+/* (No Comment) */
+"_EditToDoController_SmallPlaceholder" = "Der er ingen opgaver i dette familietræ. Vælg venligst „Tilføj første opgave“ for at oprette din første opgave.";
+
+/* (No Comment) */
+"_EditToDoController_Title" = "Rediger opgaver";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditPriorityConclusionTypes" = "Rediger prioritetstyper…";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditStatusConclusionTypes" = "Rediger statustyper…";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditTypeConclusionTypes" = "Rediger typer…";
+
+/* EditToDoGeneralContentController */
+"_EditToDoGeneralContentController_Title" = "Generelt";
+
+/* (No Comment) */
+"_EditToDosContentController_Sorting_ByDueDate" = "Efter termin";
+
+/* (No Comment) */
+"_EditToDosContentController_Sorting_ByPriority" = "Efter prioritet";
+
+/* (No Comment) */
+"_EditToDosContentController_Sorting_ByStatus" = "Efter status";
+
+/* (No Comment) */
+"_EditToDosContentController_Sorting_ByTitle" = "Efter titel";
+
+/* (No Comment) */
+"_EditToDosContentController_Sorting_ByType" = "Efter type";
+
+/* (No Comment) */
+"_EditToDoTextContentController_LargePlaceholder" = "Ingen tekst angivet";
+
+/* (No Comment) */
+"_EditToDoTextContentController_SmallPlaceholder" = "Tryk her for at angive tekst for denne opgave";
+
+/* EditToDoTextContentController */
+"_EditToDoTextContentController_Title" = "Tekst";
+
+/* (No Comment) */
+"_FreeformControlsEventsControlDescription_NEvents" = "%d begivenheder";
+
+/* (No Comment) */
+"_FreeformControlsEventsControlDescription_OneEvent" = "1 begivenhed";
+
+/* Specialized Freeform Controls */
+"_FreeformControlsNotesControlDescription_NNotes" = "%d notater";
+
+/* (No Comment) */
+"_FreeformControlsNotesControlDescription_OneNote" = "1 notat";
+
+/* (No Comment) */
+"_FreeformControlsSourceRelationsControlDescription_NSources" = "%d kilder";
+
+/* (No Comment) */
+"_FreeformControlsSourceRelationsControlDescription_OneSource" = "1 kilde";
+
+/* (No Comment) */
+"_FreeformControlsStorySectionRelationsControlDescription_NRelations" = "%d refererede poster";
+
+/* (No Comment) */
+"_FreeformControlsStorySectionRelationsControlDescription_OneRelation" = "En refererede post";
+
+/* (No Comment) */
+"_FreeformControlsTextFieldControlDescription_NoMicrophoneAvailableDescription" = "Ingen mikrofon blev fundet";
+
+/* (No Comment) */
+"_FreeformControlsTextFieldControlDescription_NoMicrophoneAvailableRecovery" = "En mikrofon er krævet for talegenkendelse. Sørg for at en mikrofon er tilgængelig og ikke bruges af et andet program.";
+
+/* (No Comment) */
+"_FreeformControlsTextFieldControlDescription_SpeechNotGrantedDescription" = "Tilladelse kræves for talegenkendelse";
+
+/* (No Comment) */
+"_FreeformControlsTextFieldControlDescription_SpeechNotGrantedRecovery" = "Family Tree har ikke tilladelse til talegenkendelse. Giv venligst Family Tree tilladelse i sektionen, Anonymitet i Sikkerhed & anonymitet .";
+
+/* (No Comment) */
+"_InteractiveTreeEditFamilyController_Title" = "Interaktive træer – Familier";
+
+/* InteractiveTreeEditFamilySearchPersonSummaryContentController */
+"_InteractiveTreeEditFamilySearchPersonSummaryContentController_Title" = "Personresumé";
+
+/* InteractiveTreeEditPersonActionsContentController */
+"_InteractiveTreeEditPersonActionsContentController_Title" = "Handlinger";
+
+/* (No Comment) */
+"_InteractiveTreeEditPersonController_SelectPersonsPlaceholder_Message" = "Vælg venligst en person- eller familieforbindelse for at starte redigering";
+
+/* InteractiveTreeEditPersonController */
+"_InteractiveTreeEditPersonController_SelectPersonsPlaceholder_Title" = "Vælg person eller familie";
+
+/* (No Comment) */
+"_InteractiveTreeEditPersonController_Title" = "Interaktivt træ – Personer";
+
+/* (No Comment) */
+"_ManagePersonGroupPersons_NoPersonsInGroup" = "Ingen personer er del af denne persongruppe";
+
+/* (No Comment) */
+"_ManagePersonGroupPersons_NoPersonsLeftToAdd" = "Alle personer i dit familietræ er blevet føjet til denne persongruppe";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsAddRelatives_Title" = "Tilføj slægtning til gruppe";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsController_AddPersonsToGroup" = "Føj personer til gruppe";
+
+/* ManagePersonGroupPersonsController */
+"_ManagePersonGroupPersonsController_Title" = "Personer i gruppe";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_AllGenerations" = "Alle generationer";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_AllRelativesOfChildren" = "Tilføj alle slægtninge til efterkommere";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_AllRelativesOfParents" = "Tilføj alle slægtninge til aner";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_AllRelativesOfPartners" = "Føj alle slægtninge til partnere";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_Children" = "Tilføj alle efterkommere af person";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_Explanation" = "Vælg venligst hvilke slægtninge til '%@' du vil føje til denne persongruppe:";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_GenerationsToCollect" = "Generationer der skal samles";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_Parents" = "Tilføj alle aner til person";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_Partners" = "Føj alle partnere til gruppe";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_PartnersOfChildren" = "Tilføj alle partnere til efterkommere";
+
+/* PlaceLookupControllerResultPlacePreviewLinksContentController */
+"_PlaceLookupControllerResultPlacePreviewLinksContentController_Title" = "Websider";
+
+/* PlaceLookupControllerResultPlacePreviewNamesContentController */
+"_PlaceLookupControllerResultPlacePreviewNamesContentController_Title" = "Navne";
+
+/* (No Comment) */
+"_SectionIdentifier_aboveMainFullWidth" = "Over hovedområde - Fuld bredde";
+
+/* Section Identifiers */
+"_SectionIdentifier_main" = "Primære område";
+
+/* (No Comment) */
+"_SectionIdentifier_parents" = "Forældres område";
+
+/* (No Comment) */
+"_SectionIdentifier_top" = "Sidehoved område";
+

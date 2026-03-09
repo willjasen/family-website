@@ -1,0 +1,207 @@
+﻿/* LoginPage */
+"_CoreCloudTreeWeb__CreateAppleID" = "Vytvořit Apple ID";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptedShare" = "Přijaté pozvání CloudTree: %@.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptedShare_Needs_To_Sign_In_To_Different_Container" = "Chcete-li zobrazit tento rodokmen, nejprve se odhlaste. Poté se přihlaste k %@.";
+
+/* AcceptShare */
+"_CoreCloudTreeWeb_AcceptShare_ActionsMenu_Title" = "Přijmout CloudTree pozvánku…";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptShare_Failed" = "Přijetí pozvánky CloudTree se nezdařilo (%@).";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptShare_Failed_No_Matching_Container" = "Přijetí pozvánky CloudTree se nezdařilo, odkaz ke sdílení není platný.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptShare_Instruction" = "Chcete-li přijmout pozvánku do sdíleného rodokmenu, vložte odkaz, který jste obdrželi, do textového pole výše a potvrďte tlačítkem 'OK'.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptShare_NeedLoginOrCreateAppleIDDescription" = "Abyste mohli spolupracovat na tomto rodokmenu sdíleného s vámi pomocí CloudTree, musíte se přihlásit pomocí svého Apple ID. Pokud nemáte Apple ID, vytvořte si prosím bezplatné Apple ID, abyste se mohli připojit k tomuto rodokmenu.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptShare_ShareLink" = "Sdílet odkaz";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptShare_Title" = "Připojit se k rodokmenu na CloudTree";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AddingPicturesNotSupportedInSharedDatabaseWarning" = "Přidávání obrázků do sdíleného rodokmenu není v tuto chvíli podporováno, ale tato funkce bude brzo dostupná.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Buy_MacFamilyTree_Or_MobileFamilyTree_Title" = "Koupit MacFamilyTree nebo MobileFamilyTree v App Store";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Close_Databases" = "Zavřít rodokmen";
+
+/* EventDropDownList */
+"_CoreCloudTreeWeb_CommonEvents" = "Společné události";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_CommonFacts" = "Společná fakta";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Description" = "CloudTreeWeb je služba, která vám umožňuje upravovat rodokmeny sdílené s vámi z $MFTLINKPLACEHOLDER$ nebo $MFTLINKPLACEHOLDER$.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_ErrorMessage_AuthenticationExpired_Error" = "Vaše relace vypršela. Pro pokračování se prosím znovu přihlaste.";
+
+/* Errors */
+"_CoreCloudTreeWeb_ErrorMessage_Saving_ConflictError" = "Uložení změn se nezdařilo, protože tento záznam byl změněn jiným uživatelem. Je potřeba znovu načíst stránku.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_ErrorMessage_Saving_UnknownError" = "Uložení změn se nezdařilo kvůli neznámé chybě. Načtěte stránku prosím znovu. Pokud problém přetrvává, kontaktujte nás.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Go_To_Overview" = "Přehled";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Imprint_Title" = "Impresum";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_1_Text" = "CloudTreeWeb je bezplatná služba pro MacFamilyTree a MobileFamilyTree. Pomocí CloudTreeWeb můžete přes internet přistupovat k rodokmenům vytvořeným v MacFamilyTree nebo MobileFamilyTree. Ke svým rodokmenům můžete přistupovat sami, ale CloudTreeWeb vám také umožňuje spolupracovat na rodokmenu s uživateli, kteří používají Windows nebo Android. Můžete například pozvat ke spolupráci členy rodiny, kteří nepoužívají Mac, iPhone nebo iPad, abyste získali cenná data pro váš rodokmen.";
+
+/* Instructions */
+"_CoreCloudTreeWeb_Instructions_Section_1_Title" = "Co je CloudTreeWeb?";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_2_Text" = "Pro přístup ke svým vlastním rodokmenům se jednoduše přihlaste pomocí Apple ID, které používáte na Macu, iPhonu nebo iPadu. Vaše rodokmeny synchronizované s CloudTree se pak objeví automaticky. Změny, které provedete na CloudTreeWeb, se projeví v MacFamilyTree nebo MobileFamilyTree – a naopak.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_2_Title" = "Jak získám přístup ke svým vlastním rodokmenům?";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_3_Text" = "Pokud chcete ke spolupráci pozvat dalšího uživatele, bude nejprve potřebovat Apple ID, které lze bezplatně $BEGINLINK$zaregistrovat zde$ENDLINK$. Jakmile si uživatel vytvoří Apple ID, pozvěte ho do svého rodokmenu prostřednictvím CloudTree v MacFamilyTree nebo MobileFamilyTree. Podrobnosti o sdílení v MacFamilyTree nebo MobileFamilyTree najdete v uživatelské příručce softwaru. Po vytvoření pozvánky pošlete této osobě odkaz – například e-mailem nebo zprávou. Pozvaná osoba se poté přihlásí do CloudTreeWeb pomocí svého Apple ID a přijme pozvánku pomocí tlačítka, které se zobrazí níže.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_3_Title" = "Jak mohu pozvat uživatele, který nepoužívá MacFamilyTree nebo MobileFamilyTree?";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_4_Text" = "Pokud vám uživatel MacFamilyTree nebo MobileFamilyTree poslal odkaz na pozvánku, můžete se k němu připojit ke spolupráci na rodokmenu. Nejprve potřebujete bezplatné Apple ID, které si můžete $BEGINLINK$zaregistrovat zde$ENDLINK$. Po úspěšné registraci svého Apple ID jej použijte k přihlášení do CloudTreeWeb. Po dokončení registrace přijměte odkaz s pozvánkou kliknutím na níže uvedený odkaz „Přijmout pozvánku CloudTree“. Rodokmen se poté zobrazí v přehledu rodokmenů a lze jej upravovat. Všechny změny, které provedete, se automaticky projeví v MacFamilyTree nebo MobileFamilyTree.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_4_Title" = "Byl jsem pozván do rodokmenu, ale nepoužívám MacFamilyTree ani MobileFamilyTree. Jak mohu přispět daty do rodokmenu?";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_5_Text" = "Vaše data jsou chráněna tím nejlepším možným způsobem. CloudTreeWeb funguje tak, že třetím stranám je zablokován přístup k vašim datům – dokonce ani my, jako vývojáři, nemáme přístup k vašim datům rodokmenu. To je možné díky tomu, že CloudTreeWeb se dotazuje na data rodokmenu přímo ze služby Apple iCloud z vašeho počítače nebo mobilního telefonu, aniž by musela oklikou přes naše servery. CloudTreeWeb tedy splňuje stejné bezpečnostní standardy jako například vlastní web společnosti Apple - iCloud.com. Ujistěte se prosím, že je vaše Apple ID dostatečně chráněno – například pomocí hesla, které nepoužíváte u žádné jiné služby, a používáním dvoufaktorového ověření.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_5_Title" = "Jak jsou má data chráněna?";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_6_Text" = "Jsme rádi, když se nám ozvete. Pokud máte návrh na zlepšení nebo jste si všimli problému, použijte prosím kontaktní formulář na $BEGINLINK$www.syniumsoftware.com$ENDLINK$ a kontaktujte nás.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_6_Title" = "Mám návrh nebo problém – jak vám mohu dát vědět?";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Title" = "Jak používat CloudTreeWeb?";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_No_Private_Databases_Explanation" = "V současné chvíli jste do CloudTree nenahráli žádné rodokmeny. K nahrání rodokmenů použijte MacFamilyTree na Macu nebo MobileFamilyTree na iPhonu nebo iPadu.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_No_Private_Databases_Title" = "Žádné rodokmeny";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_No_Shared_Databases_Explanation" = "Ve službě CloudTree s vámi nebyly sdíleny žádné rodokmeny. Chcete-li se podílet na rodokmenu jiné osoby, požádejte vlastníka rodokmenu, aby sdílel svůj rodokmen na CloudTree pomocí MacFamilyTree nebo MobileFamilyTree s vaším Apple ID.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_No_Shared_Databases_Title" = "Nejsou s vámi sdíleny žádné rodokmeny";
+
+/* SelectDatabase */
+"_CoreCloudTreeWeb_Private_Databases" = "Moje rodokmeny";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Select_MacFamilyTree_Version" = "Vyberte vaší verzi MacFamilyTree nebo MobileFamilyTree";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Shared_Databases" = "Rodokmeny sdílené se mnou";
+
+/* Warnings */
+"_CoreCloudTreeWeb_ThereAreUnsavedChangesWarning" = "Máte neuložené změny. Opravdu chcete obrazovku opustit?";
+
+/* EditFamily */
+"_EditFamily_SelectFamily_ActionsMenu_Title" = "Vybrat rodinu…";
+
+/* (No Comment) */
+"_EditFamily_SelectFamily_ActionsMenu_Title_Short" = "Rodina…";
+
+/* EditMedia */
+"_EditMedia_Download_PDF" = "Stáhnout PDF";
+
+/* EditPerson */
+"_EditPerson_SelectPerson_ActionsMenu_Title" = "Vybrat osobu…";
+
+/* (No Comment) */
+"_EditPerson_SelectPerson_ActionsMenu_Title_Short" = "Osoba…";
+
+/* EditPLace */
+"_EditPerson_SelectPlace_ActionsMenu_Title" = "Vybrat místo…";
+
+/* (No Comment) */
+"_EditPerson_SelectPlace_ActionsMenu_Title_Short" = "Místo…";
+
+/* (No Comment) */
+"_EditPlaceMapSection_Title" = "Mapa";
+
+/* EditSource */
+"_EditSource_SelectSource_ActionsMenu_Title" = "Vybrat zdroj...";
+
+/* (No Comment) */
+"_EditSource_SelectSource_ActionsMenu_Title_Short" = "Zdroj...";
+
+/* (No Comment) */
+"_FamiliesList_Title" = "Seznam rodin";
+
+/* (No Comment) */
+"_ItemsList_LoadMore" = "Načíst více…";
+
+/* (No Comment) */
+"_ItemsList_NoChanges" = "Žádné změny";
+
+/* (No Comment) */
+"_ItemsList_NoFamilies" = "Žádné rodiny";
+
+/* (No Comment) */
+"_ItemsList_NoPersons" = "Žádné osoby";
+
+/* (No Comment) */
+"_ItemsList_NoPlaces" = "Žádná místa";
+
+/* (No Comment) */
+"_ItemsList_NoSources" = "Žádné zdroje";
+
+/* (No Comment) */
+"_ItemsList_SearchBar_Description" = "Vyhledávání rozlišuje velká a malá písmena a vyhledává pouze podle začátku jména.";
+
+/* (No Comment) */
+"_ItemsList_Select_Family_Title" = "Vybrat rodinu";
+
+/* ItemsList */
+"_ItemsList_Select_Person_Title" = "Vybrat osobu";
+
+/* (No Comment) */
+"_ItemsList_Select_Place_Title" = "Vybrat místo";
+
+/* (No Comment) */
+"_ItemsList_Select_Source_Title" = "Vybrat zdroj";
+
+/* (No Comment) */
+"_PersonsList_Title" = "Seznam osob";
+
+/* (No Comment) */
+"_PlacesList_Title" = "Seznam míst";
+
+/* (No Comment) */
+"_SourcesList_Title" = "Seznam zdrojů";
+
+/* (No Comment) */
+"iCloud.com.syniumsoftware.familytree10" = "Verze 10";
+
+/* (No Comment) */
+"iCloud.com.syniumsoftware.familytree11" = "Verze 11";
+

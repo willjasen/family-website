@@ -1,0 +1,837 @@
+﻿/* (No Comment) */
+"_Common_Accept" = "Aanvaarden";
+
+/* (No Comment) */
+"_Common_Actions" = "Acties";
+
+/* (No Comment) */
+"_Common_AddButton" = "Toevoegen";
+
+/* (No Comment) */
+"_Common_Age" = "Leeftijd";
+
+/* (No Comment) */
+"_Common_AscendingSortOrder" = "Oplopend";
+
+/* (No Comment) */
+"_Common_AssignButton" = "Toewijzen";
+
+/* (No Comment) */
+"_Common_Assigned_Entries" = "Toegewezen invoer";
+
+/* (No Comment) */
+"_Common_Authority" = "Autoriteit";
+
+/* (No Comment) */
+"_Common_Back" = "Terug";
+
+/* (No Comment) */
+"_Common_BackgroundColor" = "Achtergrondkleur";
+
+/* (No Comment) */
+"_Common_BirthDate" = "Geboortedatum";
+
+/* (No Comment) */
+"_Common_BirthPlace" = "Geboorteplaats";
+
+/* (No Comment) */
+"_Common_Black" = "Zwart";
+
+/* (No Comment) */
+"_Common_BrothersAndSisters" = "Broers/zusters";
+
+/* (No Comment) */
+"_Common_CancelButton" = "Annuleren";
+
+/* (No Comment) */
+"_Common_Cause" = "Oorzaak";
+
+/* (No Comment) */
+"_Common_ChangeButton" = "Wijzig";
+
+/* (No Comment) */
+"_Common_ChangeDate" = "Wijzigingsdatum";
+
+/* (No Comment) */
+"_Common_Chart" = "Diagram";
+
+/* (No Comment) */
+"_Common_Child" = "Kind";
+
+/* (No Comment) */
+"_Common_ChildCountPlural" = "%d kinderen";
+
+/* (No Comment) */
+"_Common_ChildCountPluralString" = "%@ kinderen";
+
+/* (No Comment) */
+"_Common_ChildCountSingular" = "%d kind";
+
+/* (No Comment) */
+"_Common_ChildCountSingularString" = "%@ kind";
+
+/* (No Comment) */
+"_Common_Children" = "Kinderen";
+
+/* (No Comment) */
+"_Common_Childs" = "Kinderen";
+
+/* (No Comment) */
+"_Common_ChristeningDate" = "Doopdatum";
+
+/* (No Comment) */
+"_Common_ChristeningPlace" = "Doopplaats";
+
+/* (No Comment) */
+"_Common_Citation_Notes" = "Citation Notes";
+
+/* (No Comment) */
+"_Common_CloseButton" = "Sluit";
+
+/* (No Comment) */
+"_Common_Color" = "Kleur";
+
+/* (No Comment) */
+"_Common_Colors_Blue" = "Blauw";
+
+/* (No Comment) */
+"_Common_Colors_Green" = "Groen";
+
+/* (No Comment) */
+"_Common_Colors_Magenta" = "Magenta";
+
+/* (No Comment) */
+"_Common_Colors_Orange" = "Oranje";
+
+/* Colors */
+"_Common_Colors_Red" = "Rood";
+
+/* (No Comment) */
+"_Common_Colors_Turquoise" = "Turquoise";
+
+/* (No Comment) */
+"_Common_Colors_Yellow" = "Geel";
+
+/* Keys */
+"_Common_CommandKey" = "⌘";
+
+/* Contextual */
+"_Common_ContextualMenu_ChangeLabel" = "Wijzig label";
+
+/* (No Comment) */
+"_Common_ContinueButton" = "Doorgaan";
+
+/* (No Comment) */
+"_Common_ControlKey" = "CTRL";
+
+/* (No Comment) */
+"_Common_CopyButton" = "Kopieer";
+
+/* (No Comment) */
+"_Common_Count" = "Aantal";
+
+/* (No Comment) */
+"_Common_Country" = "Land";
+
+/* (No Comment) */
+"_Common_County" = "Provincie";
+
+/* (No Comment) */
+"_Common_Create" = "Aanmaken";
+
+/* (No Comment) */
+"_Common_CreationDate" = "Aanmaakdatum";
+
+/* (No Comment) */
+"_Common_Date" = "Datum";
+
+/* (No Comment) */
+"_Common_DeathDate" = "Overlijdensdatum";
+
+/* (No Comment) */
+"_Common_DeathPlace" = "Overlijdensplaats";
+
+/* (No Comment) */
+"_Common_Decline" = "Weigeren";
+
+/* (No Comment) */
+"_Common_Default" = "Standaard";
+
+/* (No Comment) */
+"_Common_DeleteAllButton" = "Alles verwijderen";
+
+/* (No Comment) */
+"_Common_DeleteButton" = "Verwijderen";
+
+/* (No Comment) */
+"_Common_DeleteWithObject" = "Verwijder '%@'";
+
+/* (No Comment) */
+"_Common_DescendingSortOrder" = "Dalend";
+
+/* (No Comment) */
+"_Common_Description" = "Omschrijving";
+
+/* (No Comment) */
+"_Common_DisableButton" = "Deactiveer";
+
+/* (No Comment) */
+"_Common_Discard" = "Vernietigen";
+
+/* (No Comment) */
+"_Common_DisplayButton" = "Tonen";
+
+/* (No Comment) */
+"_Common_Done" = "Gedaan";
+
+/* (No Comment) */
+"_Common_DontAskAgainButton" = "Niet opnieuw vragen";
+
+/* (No Comment) */
+"_Common_Download" = "Download";
+
+/* (No Comment) */
+"_Common_DuplicateButton" = "Dupliceer";
+
+/* (No Comment) */
+"_Common_Edit" = "Bewerken";
+
+/* (No Comment) */
+"_Common_EditWithObject" = "Bewerk '%@'";
+
+/* (No Comment) */
+"_Common_EnableButton" = "Activeer";
+
+/* (No Comment) */
+"_Common_Entries" = "Vermeldingen";
+
+/* (No Comment) */
+"_Common_EntryCountPlural" = "%d invoeren";
+
+/* (No Comment) */
+"_Common_EntryCountPluralString" = "%@ invoeren";
+
+/* (No Comment) */
+"_Common_EntryCountSingular" = "%d invoer";
+
+/* (No Comment) */
+"_Common_EntryCountSingularString" = "%@ invoer";
+
+/* (No Comment) */
+"_Common_Error" = "Fout";
+
+/* Errors */
+"_Common_Errors_NoInternetConnection" = "Geen internetverbinding beschikbaar";
+
+/* (No Comment) */
+"_Common_Event" = "Gebeurtenis";
+
+/* (No Comment) */
+"_Common_EventCountPlural" = "%d Gebeurtenissen";
+
+/* (No Comment) */
+"_Common_EventCountSingular" = "%d Gebeurtenis";
+
+/* (No Comment) */
+"_Common_Events" = "Gebeurtenissen";
+
+/* (No Comment) */
+"_Common_EventsAtThisPlace" = "Gebeurtenissen op deze plaats";
+
+/* (No Comment) */
+"_Common_Example" = "Voorbeeld";
+
+/* (No Comment) */
+"_Common_Export" = "Export";
+
+/* (No Comment) */
+"_Common_Fact" = "Gegeven";
+
+/* (No Comment) */
+"_Common_Facts" = "Gegevens";
+
+/* (No Comment) */
+"_Common_Families" = "Families";
+
+/* (No Comment) */
+"_Common_Family" = "Familie";
+
+/* (No Comment) */
+"_Common_FamilyEvents" = "Familiegebeurtenissen";
+
+/* (No Comment) */
+"_Common_FamilyTree" = "Family Tree";
+
+/* (No Comment) */
+"_Common_Father" = "vader";
+
+/* (No Comment) */
+"_Common_Favorite" = "Favoriet";
+
+/* (No Comment) */
+"_Common_Favorites" = "Favorieten";
+
+/* (No Comment) */
+"_Common_Female" = "Vrouwelijk";
+
+/* (No Comment) */
+"_Common_FirstName" = "Voornaam";
+
+/* (No Comment) */
+"_Common_FontStyle_Bold" = "Dikgedrukt";
+
+/* (No Comment) */
+"_Common_FontStyle_BoldItalic" = "Dikgedrukt Cursief";
+
+/* (No Comment) */
+"_Common_FontStyle_Italic" = "Cursief";
+
+/* (No Comment) */
+"_Common_FontStyle_Light" = "Licht";
+
+/* (No Comment) */
+"_Common_FontStyle_Medium" = "Medium";
+
+/* Font Styles */
+"_Common_FontStyle_Normal" = "Normaal";
+
+/* (No Comment) */
+"_Common_FontStyle_SemiBold" = "Half vet";
+
+/* Common */
+"_Common_Gender" = "Geslacht";
+
+/* (No Comment) */
+"_Common_Generation" = "Generatie";
+
+/* (No Comment) */
+"_Common_GenerationsPluralString" = "%d generaties";
+
+/* (No Comment) */
+"_Common_GenerationsSingularString" = "%d generatie";
+
+/* (No Comment) */
+"_Common_Generic" = "Algemeen";
+
+/* (No Comment) */
+"_Common_Help" = "Help";
+
+/* (No Comment) */
+"_Common_HideKeyboard" = "Toetsenbord verbergen";
+
+/* (No Comment) */
+"_Common_IgnoreButton" = "Negeer";
+
+/* (No Comment) */
+"_Common_Image" = "Afbeelding";
+
+/* (No Comment) */
+"_Common_ImportButton" = "Importeren";
+
+/* Localization */
+"_Common_InternationalLocalization" = "Internationaal";
+
+/* (No Comment) */
+"_Common_Intersex" = "Intrasexueel";
+
+/* (No Comment) */
+"_Common_IsAssignedToFamilySearch" = "Toegewezen aan Family Search";
+
+/* (No Comment) */
+"_Common_IsBookmarked" = "Bladwijzer aangemaakt";
+
+/* (No Comment) */
+"_Common_IsNotAssignedToFamilySearch" = "Niet toegewezen aan Family Search";
+
+/* (No Comment) */
+"_Common_IsNotBookmarked" = "Geen bladwijzer aangemaakt";
+
+/* (No Comment) */
+"_Common_Label" = "Label";
+
+/* (No Comment) */
+"_Common_Labels" = "Labels";
+
+/* (No Comment) */
+"_Common_LastName" = "Familienaam";
+
+/* (No Comment) */
+"_Common_LaterButton" = "Later";
+
+/* (No Comment) */
+"_Common_Link" = "Linkje";
+
+/* (No Comment) */
+"_Common_LoginButton" = "Inloggen";
+
+/* (No Comment) */
+"_Common_LogoutButton" = "Uitloggen";
+
+/* (No Comment) */
+"_Common_Male" = "Mannelijk";
+
+/* (No Comment) */
+"_Common_Man" = "Man";
+
+/* (No Comment) */
+"_Common_MarkAsSeen" = "Markeer als gezien";
+
+/* (No Comment) */
+"_Common_Marriage" = "Huwelijk";
+
+/* (No Comment) */
+"_Common_MarriageDate" = "Huwelijksdatum";
+
+/* (No Comment) */
+"_Common_MarriagePlace" = "Huwelijksplaats";
+
+/* (No Comment) */
+"_Common_Media" = "Media";
+
+/* (No Comment) */
+"_Common_MergeButton" = "Samenvoegen";
+
+/* (No Comment) */
+"_Common_MiddleName" = "Tussennaam";
+
+/* (No Comment) */
+"_Common_Mother" = "moeder";
+
+/* (No Comment) */
+"_Common_MultipleSelected" = "%d geselecteerd";
+
+/* (No Comment) */
+"_Common_Name" = "Naam";
+
+/* (No Comment) */
+"_Common_NeverButton" = "Nooit";
+
+/* (No Comment) */
+"_Common_NextButton" = "Volgende";
+
+/* (No Comment) */
+"_Common_No" = "Neen";
+
+/* (No Comment) */
+"_Common_NoChildrenPlaceholder" = "Geen kinderen";
+
+/* (No Comment) */
+"_Common_NoConclusionTypesPlaceholder" = "Geen onderdelen";
+
+/* (No Comment) */
+"_Common_NoDatePlaceholder" = "Geen datum";
+
+/* Empty */
+"_Common_NoInformationEnteredTooltip" = "Er is geen informatie ingevoerd";
+
+/* (No Comment) */
+"_Common_NoLabelsPlaceholder" = "Geen labels";
+
+/* (No Comment) */
+"_Common_NoManPlaceholder" = "Geen man";
+
+/* (No Comment) */
+"_Common_NoNameAvailable" = "Geen naam beschikbaar";
+
+/* (No Comment) */
+"_Common_None" = "Geen";
+
+/* Selected Counts */
+"_Common_NoneSelected" = "Geen geselecteerd";
+
+/* (No Comment) */
+"_Common_NoPartnerPlaceholder" = "Geen partner";
+
+/* (No Comment) */
+"_Common_NoPersonGroupsPlaceholder" = "Geen persoon Groepen";
+
+/* Placeholders */
+"_Common_NoPersonPlaceholder" = "Geen persoon";
+
+/* (No Comment) */
+"_Common_NoPlacePlaceholder" = "Geen plaats";
+
+/* (No Comment) */
+"_Common_NoSourceTemplateKeysPlaceholder" = "Geen bronsjabloon veld";
+
+/* (No Comment) */
+"_Common_Note" = "Notitie";
+
+/* (No Comment) */
+"_Common_Notes" = "Notities";
+
+/* (No Comment) */
+"_Common_NothingToSelected" = "Niets te selecteren";
+
+/* (No Comment) */
+"_Common_Now" = "Heden";
+
+/* (No Comment) */
+"_Common_NoWomanPlaceholder" = "Geen vrouw";
+
+/* (No Comment) */
+"_Common_NumberingSystem" = "Nummeringssysteem";
+
+/* Buttons */
+"_Common_OKButton" = "OK";
+
+/* (No Comment) */
+"_Common_OKDontAskAgainButton" = "OK. Niet opnieuw vragen";
+
+/* (No Comment) */
+"_Common_OneSelected" = "Eén geselecteerd";
+
+/* (No Comment) */
+"_Common_OpenButton" = "Openen";
+
+/* (No Comment) */
+"_Common_OpenInBrowser" = "Open in Browser";
+
+/* (No Comment) */
+"_Common_OptionsButton" = "Opties";
+
+/* (No Comment) */
+"_Common_Order" = "Volgorde";
+
+/* (No Comment) */
+"_Common_OtherNames" = "Andere namen";
+
+/* (No Comment) */
+"_Common_Others" = "Anderen";
+
+/* (No Comment) */
+"_Common_Page" = "Pagina";
+
+/* (No Comment) */
+"_Common_Parent1" = "Ouder 1";
+
+/* (No Comment) */
+"_Common_Parent2" = "Ouder 2";
+
+/* (No Comment) */
+"_Common_Parents" = "Ouders";
+
+/* (No Comment) */
+"_Common_Partner" = "Partners";
+
+/* (No Comment) */
+"_Common_Partner1" = "Partner 1";
+
+/* (No Comment) */
+"_Common_Partner2" = "Partner 2";
+
+/* (No Comment) */
+"_Common_Partners" = "Partners";
+
+/* (No Comment) */
+"_Common_Person" = "Persoon";
+
+/* (No Comment) */
+"_Common_PersonCountPlural" = "%d personen";
+
+/* (No Comment) */
+"_Common_PersonCountPluralString" = "%@ personen";
+
+/* Counts */
+"_Common_PersonCountSingular" = "%d persoon";
+
+/* (No Comment) */
+"_Common_PersonCountSingularString" = "%@ persoon";
+
+/* Events & Facts */
+"_Common_PersonEvents" = "Persoonsgebeurtenissen";
+
+/* (No Comment) */
+"_Common_PersonFacts" = "Persoonsgegevens";
+
+/* (No Comment) */
+"_Common_Persons" = "Personen";
+
+/* (No Comment) */
+"_Common_Picture" = "Afbeelding";
+
+/* (No Comment) */
+"_Common_Pictures" = "Afbeelding";
+
+/* (No Comment) */
+"_Common_Place" = "Plaats";
+
+/* (No Comment) */
+"_Common_PlaceDetail" = "Plaats Detail";
+
+/* (No Comment) */
+"_Common_Places" = "Plaatsen";
+
+/* (No Comment) */
+"_Common_PleaseWaitPlaceholder" = "Even wachten aub...";
+
+/* Population Prefix */
+"_Common_Population" = "Bevolking: %@";
+
+/* (No Comment) */
+"_Common_PrefixName" = "Titel";
+
+/* (No Comment) */
+"_Common_PreviousButton" = "Vorige";
+
+/* (No Comment) */
+"_Common_Print" = "Afdrukken";
+
+/* Progress Counts */
+"_Common_ProgressCount" = "%d van %d";
+
+/* (No Comment) */
+"_Common_ProgressCountAsString" = "%@ van de %@";
+
+/* (No Comment) */
+"_Common_QuitButton" = "Stop";
+
+/* (No Comment) */
+"_Common_ReferenceNumber" = "Referentienummer";
+
+/* (No Comment) */
+"_Common_RejectButton" = "Verwerpen";
+
+/* (No Comment) */
+"_Common_RemoveButton" = "Verwijderen";
+
+/* (No Comment) */
+"_Common_RenameButton" = "Hernoem";
+
+/* (No Comment) */
+"_Common_ReplaceButton" = "Vervang";
+
+/* (No Comment) */
+"_Common_ResetButton" = "Reset";
+
+/* (No Comment) */
+"_Common_RetryButton" = "Probeer opnieuw";
+
+/* (No Comment) */
+"_Common_Save" = "Bewaar";
+
+/* (No Comment) */
+"_Common_SaveButton" = "Bewaar";
+
+/* (No Comment) */
+"_Common_Search" = "Zoeken";
+
+/* (No Comment) */
+"_Common_Search_Clear" = "Wis";
+
+/* (No Comment) */
+"_Common_Search_Menu_Title" = "Zoekmenu";
+
+/* (No Comment) */
+"_Common_Search_Options" = "Zoekopties...";
+
+/* (No Comment) */
+"_Common_Search_Recent" = "Recente zoekacties";
+
+/* (No Comment) */
+"_Common_Section" = "Sectie";
+
+/* (No Comment) */
+"_Common_SelectButton" = "Selecteer";
+
+/* (No Comment) */
+"_Common_Settings" = "Instellingen";
+
+/* (No Comment) */
+"_Common_SkipButton" = "Overslaan";
+
+/* (No Comment) */
+"_Common_Sorting_ByBirthDate" = "Op geboortedatum";
+
+/* (No Comment) */
+"_Common_Sorting_ByBirthPlace" = "Op geboorteplaats";
+
+/* (No Comment) */
+"_Common_Sorting_ByDate" = "Op datum";
+
+/* (No Comment) */
+"_Common_Sorting_ByDeathDate" = "Op overlijdensdatum";
+
+/* (No Comment) */
+"_Common_Sorting_ByDeathPlace" = "Op overlijdensdatum";
+
+/* (No Comment) */
+"_Common_Sorting_ByFirstName" = "Op voornaam";
+
+/* (No Comment) */
+"_Common_Sorting_ByLastName" = "Op familienaam";
+
+/* Sorting */
+"_Common_Sorting_ByName" = "Op naam";
+
+/* (No Comment) */
+"_Common_Sorting_ByScore" = "Op score";
+
+/* (No Comment) */
+"_Common_Source" = "Bron";
+
+/* (No Comment) */
+"_Common_SourceCitationsPlural" = "%d citaten";
+
+/* (No Comment) */
+"_Common_SourceCitationsPluralString" = "%@ citaten";
+
+/* (No Comment) */
+"_Common_SourceCitationsSingular" = "%d citaat";
+
+/* (No Comment) */
+"_Common_SourceCitationsSingularString" = "%@ citaat";
+
+/* (No Comment) */
+"_Common_Sources" = "Bronnen";
+
+/* (No Comment) */
+"_Common_State" = "Staat";
+
+/* (No Comment) */
+"_Common_StopSharingButton" = "Niet meer delen";
+
+/* (No Comment) */
+"_Common_SuffixName" = "Achtervoegsel";
+
+/* (No Comment) */
+"_Common_Text" = "Tekst";
+
+/* (No Comment) */
+"_Common_Title" = "Titel";
+
+/* (No Comment) */
+"_Common_ToDo" = "Taak";
+
+/* (No Comment) */
+"_Common_ToDos" = "Taken";
+
+/* (No Comment) */
+"_Common_Toggle" = "Alles aan-/afvinken";
+
+/* (No Comment) */
+"_Common_Type" = "Soort";
+
+/* (No Comment) */
+"_Common_Unknown" = "Onbekend";
+
+/* (No Comment) */
+"_Common_UnknownGender" = "Geslacht onbekend";
+
+/* (No Comment) */
+"_Common_UnknownPerson" = "Onbekende persoon";
+
+/* (No Comment) */
+"_Common_Unlimited" = "Onbeperkt";
+
+/* (No Comment) */
+"_Common_UnnamedChart" = "Naamloze grafiek";
+
+/* (No Comment) */
+"_Common_UnnamedFamily" = "Onbenoemde familie";
+
+/* (No Comment) */
+"_Common_UnnamedLabel" = "Blanco label";
+
+/* (No Comment) */
+"_Common_UnnamedMedia" = "Onbenoemde media";
+
+/* (No Comment) */
+"_Common_UnnamedPerson" = "Onbekende persoon";
+
+/* (No Comment) */
+"_Common_UnnamedPersonGroup" = "Onbenoemde persoonsgroep";
+
+/* (No Comment) */
+"_Common_UnnamedPlace" = "Onbenoemde plaats";
+
+/* (No Comment) */
+"_Common_UnnamedPlaceDetail" = "Naamloze plaats";
+
+/* (No Comment) */
+"_Common_UnnamedPlaceTemplate" = "Naamloze plaats sjabloon";
+
+/* (No Comment) */
+"_Common_UnnamedPlaceTemplateKey" = "Naamloos sjabloonveld";
+
+/* (No Comment) */
+"_Common_UnnamedSource" = "Bron onbekend";
+
+/* (No Comment) */
+"_Common_UnnamedSourceRepository" = "Onbenoemd archief";
+
+/* (No Comment) */
+"_Common_UnnamedSourceTemplate" = "Onbenoemd bronsjabloon";
+
+/* (No Comment) */
+"_Common_UnnamedSourceTemplateKey" = "Onbenoemd sjabloonveld";
+
+/* (No Comment) */
+"_Common_UnnamedStory" = "Onbenoemd verhaal";
+
+/* (No Comment) */
+"_Common_UnnamedStorySection" = "Onbenoemde verhaalsectie";
+
+/* (No Comment) */
+"_Common_UnnamedTitle" = "Anoniem";
+
+/* (No Comment) */
+"_Common_UnnamedToDo" = "Onbenoemde taak";
+
+/* (No Comment) */
+"_Common_UpdateButton" = "Bijwerken";
+
+/* (No Comment) */
+"_Common_UploadButton" = "Upload";
+
+/* (No Comment) */
+"_Common_Value" = "Waarde";
+
+/* (No Comment) */
+"_Common_Version" = "Versie";
+
+/* (No Comment) */
+"_Common_White" = "Wit";
+
+/* (No Comment) */
+"_Common_Width" = "Breedte";
+
+/* (No Comment) */
+"_Common_Woman" = "Vrouw";
+
+/* (No Comment) */
+"_Common_Year" = "Jaar";
+
+/* (No Comment) */
+"_Common_Years" = "Jaren";
+
+/* (No Comment) */
+"_Common_Yes" = "Ja";
+
+/* (No Comment) */
+"_Person_NameFormat_FirstName_MiddleName_LastName_Suffix_Comma_Title" = "\"voornaam\" \"tussennaam\" \"familienaam\" achtervoegsel, titel";
+
+/* (No Comment) */
+"_Person_NameFormat_LastName_Comma_FirstName_Comma_MiddleName_Comma_Suffix_Comma_Title" = "\"familienaam\", \"voornaam\", \"tussennaam\", achtervoegsel, titel";
+
+/* (No Comment) */
+"_Person_NameFormat_LastName_Suffix_Comma_FirstName_MiddleName_Comma_Title" = "\"familienaam\" achtervoegsel, \"voornaam\" \"tussennaam\", titel";
+
+/* (No Comment) */
+"_Person_NameFormat_Title_Comma_FirstName_Suffix_Bracket_MiddleName_Bracket" = "Titel \"familienaam\", \"voornaam\" achtervoegsel (\"tussennaam\")";
+
+/* (No Comment) */
+"_Person_NameFormat_Title_FirstName_Comma_LastName_Comma_MiddleName_Comma_Suffix" = "Titel \"voornaam\", \"familienaam\", \"tussennaam\", achtervoegsel";
+
+/* Person Name Formats */
+"_Person_NameFormat_Title_FirstName_MiddleName_LastName_Suffix" = "Titel \"voornaam\" \"tussennaam\" \"familienaam\" achtervoegsel";
+
+/* (No Comment) */
+"_Person_NameFormat_Title_LastName_MiddleName_FirstName_Suffix" = "Titel \"familienaam\" \"tussennaam\" \"voornaam\" achtervoegsel";
+
+/* (No Comment) */
+"_Person_NameFormat_Title_LastName_Suffix_Comma_FirstName_MiddleName" = "Titel \"familienaam\" achtervoegsel, \"voornaam\" \"tussennaam\"";
+
+/* (No Comment) */
+"_Person_NameFormat_Title_LastName_Suffix_FirstName_MiddleName" = "Titel \"familienaam\" achtervoegsel \"voornaam\" \"tussennaam\"";
+

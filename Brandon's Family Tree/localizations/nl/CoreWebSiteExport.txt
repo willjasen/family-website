@@ -1,0 +1,1134 @@
+﻿/* BurnWebSiteExportPublish */
+"_BurnWebSiteExportPublish_Title" = "Website op CD/DVD branden";
+
+/* FTPWebSiteExportPublish */
+"_FTPWebSiteExportPublish_Title" = "Uploaden naar FTP-server";
+
+/* (No Comment) */
+"_FTPWebSiteExportPublish_UploadFailed" = "FTP-upload mislukt";
+
+/* (No Comment) */
+"_FTPWebSiteExportPublish_UploadFinishedMessage" = "Upload naar FTP-server '%@' is voltooid in %@.";
+
+/* (No Comment) */
+"_FTPWebSiteExportPublish_UploadFinishedTitle" = "FTP-upload voltooid";
+
+/* (No Comment) */
+"_FTPWebSiteExportPublish_UploadProgress" = "Geüpload %.2f van %.2f MB";
+
+/* (No Comment) */
+"_FTPWebSiteExportPublish_UploadProgressHeadline" = "Uploaden naar FTP-server...";
+
+/* (No Comment) */
+"_MacFamilyTreeComEditTree_NoPasswordEntered" = "Voer een wachtwoord in voor uw stamboom op MacFamilyTree.com.";
+
+/* MacFamilyTreeComEditTree */
+"_MacFamilyTreeComEditTree_Title" = "Boominstellingen bewerken";
+
+/* MacFamilyTreeComEditUser */
+"_MacFamilyTreeComEditUser_Title" = "Mijn account bewerken";
+
+/* (No Comment) */
+"_MacFamilyTreeComLoginView_ForgotPasswordButton" = "Wachtwoord vergeten";
+
+/* (No Comment) */
+"_MacFamilyTreeComLoginView_LoginButton" = "Inloggen";
+
+/* (No Comment) */
+"_MacFamilyTreeComLoginView_Password" = "Wachtwoord:";
+
+/* (No Comment) */
+"_MacFamilyTreeComLoginView_RegisterButton" = "Nieuw account maken";
+
+/* MacFamilyTreeComLoginView */
+"_MacFamilyTreeComLoginView_UserName" = "Gebruikersnaam:";
+
+/* MacFamilyTreeComRegisterNewTree */
+"_MacFamilyTreeComRegisterNewTree_Title" = "Nieuwe boom uploaden";
+
+/* MacFamilyTreeComRegisterNewUser */
+"_MacFamilyTreeComRegisterNewUser_Title" = "Registreren op MacStamboom.com";
+
+/* (No Comment) */
+"_MacFamilyTreeComWebSiteExportPublish_ListTopHint" = "Kies een family tree om te vervangen uit de onderstaande lijst of kies om een nieuw family tree te uploaden.";
+
+/* (No Comment) */
+"_MacFamilyTreeComWebSiteExportPublish_NoTreesPresentMessage" = "Op dit moment heb je nog geen family trees geüpload naar MacFamilyTree.com. Gebruik de onderstaande knoppen om je eerste family tree te uploaden.";
+
+/* (No Comment) */
+"_MacFamilyTreeComWebSiteExportPublish_NoTreesPresentTitle" = "Geen Trees op MacFamilyTree.com";
+
+/* (No Comment) */
+"_MacFamilyTreeComWebSiteExportPublish_ReplaceExistingTreeButton" = "Vervang Tree";
+
+/* MacFamilyTreeComWebSiteExportPublish */
+"_MacFamilyTreeComWebSiteExportPublish_Title" = "Uploaden naar MacFamilyTree.com";
+
+/* (No Comment) */
+"_MacFamilyTreeComWebSiteExportPublish_UploadNewTreeButton" = "Nieuwe Tree";
+
+/* (No Comment) */
+"_MacFamilyTreeComWebSiteExportPublish_UploadProgressHeadline" = "Uploaden naar MacFamilyTree.com…";
+
+/* (No Comment) */
+"_ManageMacFamilyTreeCom_DeleteTree_Informative" = "Wilt u de website '%@' op MacFamilyTree.com echt verwijderen? Dit kan niet ongedaan worden gemaakt.";
+
+/* (No Comment) */
+"_ManageMacFamilyTreeCom_DeleteTree_Message" = "Website echt verwijderen op MacFamilyTree.com?";
+
+/* (No Comment) */
+"_ManageMacFamilyTreeCom_EditUserButton" = "Mijn account bewerken";
+
+/* (No Comment) */
+"_ManageMacFamilyTreeCom_ListTopHint" = "Hieronder staan alle stambomen die u hebt aangemaakt op MacFamilyTree.com. U kunt de stambomen verwijderen of de titel en wachtwoordbeveiliging bewerken door een stamboom te selecteren. Om de inhoud te vervangen, selecteert u een website op het vorige scherm en kiest u 'Uploaden'.";
+
+/* (No Comment) */
+"_ManageMacFamilyTreeCom_LogoutButton" = "Uitloggen";
+
+/* (No Comment) */
+"_ManageMacFamilyTreeCom_NoTreesPresentMessage" = "Je hebt nog geen family trees geüpload naar MacFamilyTree.com. Om family trees te uploaden, maak een website aan op het vorige scherm en upload deze naar MacFamilyTree.com.";
+
+/* (No Comment) */
+"_ManageMacFamilyTreeCom_NoTreesPresentTitle" = "Geen Trees op MacFamilyTree.com";
+
+/* ManageMacFamilyTreeCom */
+"_ManageMacFamilyTreeCom_Title" = "MacStamboom.com Bomen en account beheren";
+
+/* (No Comment) */
+"_WebSiteExport_Beach_Theme" = "Strand thema";
+
+/* (No Comment) */
+"_WebSiteExport_Blue_Theme" = "Blauwe Bergen";
+
+/* (No Comment) */
+"_WebSiteExport_BurnCDMenuItem" = "CD/DVD branden...";
+
+/* (No Comment) */
+"_WebSiteExport_Chart_Page_Chart_Section_Title" = "Opgeslagen grafiek";
+
+/* (No Comment) */
+"_WebSiteExport_Charts_Page_Charts_Section_Title" = "Opgeslagen grafieken";
+
+/* Saved Charts Page */
+"_WebSiteExport_Charts_Page_Title_Section_Title" = "Grafieken";
+
+/* Themes */
+"_WebSiteExport_Classic_Theme" = "Klassiek";
+
+/* (No Comment) */
+"_WebSiteExport_Clean_Theme" = "Schoon";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ActiveLinkColor" = "Kleur actieve link";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_BlurRadius" = "Vervaag Straal";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Color" = "Kleur";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ColorizePersonPlaceholderImages" = "Kleurtoon per geslacht";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_CustomHomePageImage" = "Selecteer de aangepaste afbeelding hieronder om deze op de startpagina weer te geven.";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_DisableAnimations" = "Animaties uitschakelen";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_DNAPageSettings" = "DNA-pagina";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_EnabledStatisticChartTypes" = "Statistische grafieken";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_EventPageSettings" = "Evenement Pagina";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ExportPersonsModeAll" = "Alle personen";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ExportPersonsModeFromPersonGroups" = "Personen in Persoon Groepen";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ExportPersonsModeFromScope" = "Personen in slimme filter";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_FamilyPageSettings" = "Gezinspagina";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Font" = "Lettertype";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HideDetailsOfLivingPersons" = "Verberg gegevens van levende personen";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HideInformationMarkedAsPrivate" = "Verberg informatie die als privé is gemarkeerd";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Highlight_Color_Number" = "Kleur #%d";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HomePageImageType" = "Afbeelding";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HomePageImageType_CustomImage" = "Aangepast beeld";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HomePageImageType_FamilyCrest" = "Familiekruis";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HomePageImageType_None" = "Geen";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HomePageImageType_StartPerson" = "Van Start Persoon";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HomePageSettings" = "Startpagina";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartAlignment" = "Zandlopergrafiek-uitlijning";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartConnectionItemCornerRadius" = "Hoekradius";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartPersonItemBorderColor" = "Kleur rand";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartPersonItemBorderWidth" = "Breedte rand";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartPersonItemCornerRadius" = "Hoekradius";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartPersonItemSubTitleColor" = "Ondertitel Kleur";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartPersonItemSubTitleFont" = "Ondertitel lettertype";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartPersonItemTitleColor" = "Titel Kleur";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartPersonItemTitleFont" = "Titel lettertype";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartSelectedPersonItemBorderWidth" = "Geselecteerde randbreedte";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ImprintPageSettings" = "Afdruk";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeAudio" = "Audio Media";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeDNA" = "DNA-informatie";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeGEDCOMFile" = "Downloadbaar GEDCOM-bestand";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeLabels" = "Etiketten";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeLastEdited" = "Laatst bewerkt";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeNumberingSystemString" = "Informatie over het nummeringssysteem";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludePDFs" = "PDF's";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludePersonGroups" = "Persoonsgroepen";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludePictures" = "Foto's";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeSavedCharts" = "Opgeslagen grafieken";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeSources" = "Bronnen";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeStories" = "Verhalen";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeURLs" = "URL's";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeVideos" = "Video's";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Label_For_Family_Members" = "Label voor familieleden";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Label_For_Family_Members_Use_Man_Woman" = "Gebruik Man/Vrouw";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Label_For_Family_Members_Use_Partner1_Partner2" = "Partner 1/Partner 2 gebruiken";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Language_Label" = "Taal";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_LinkColor" = "Link Kleur";
+
+/* Configuration */
+"_WebSiteExport_Configuration_MajorGroupTitle_General" = "Algemeen";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MajorGroupTitle_HourglassChart" = "Zandlopertabel";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MajorGroupTitle_Pages" = "Pagina's";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MajorGroupTitle_Persons" = "Personen";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MajorGroupTitle_Theme" = "Thema";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MediaPageSettings" = "Media Pagina";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MidGroupTitle_HourglassChartOtherPersonItem" = "Andere personen";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MidGroupTitle_HourglassChartSelectedPersonItem" = "Gericht Persoon";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Animations" = "Animaties";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_ExportOptions" = "Opties";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_ExportPersonsMode" = "Personen";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_HighlightColors" = "Kleuren markeren";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_HomePageImage" = "Afbeelding";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_HomePageIntroduction" = "Inleiding";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_HourglassChart_Background" = "Achtergrond";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_HourglassChart_ConnectionItem" = "Connecties";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_HourglassChart_PersonItem" = "Personen";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_ImprintAuthorContact" = "Auteur Contact";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Includes" = "Opnemen";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Introduction" = "Inleiding";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Links" = "Linkjes";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Menu" = "Menu";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_PageSections" = "Pagina Secties";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_PersonPageHourglassChart" = "Zandlopergrafiek";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Persons" = "Personen";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Privacy" = "Privacy";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Sections" = "Secties";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_StartPerson" = "Start Persoon";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_ThemeImages" = "Thema afbeeldingen";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Title" = "Titel";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_WebSite" = "Website";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_OptimizePictureFileSize" = "Optimaliseer de afbeeldingsgrootte voor kleinere bestanden";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_PageSections" = "Pagina Secties";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_PersonGroupPageSettings" = "Pagina Persoonsgroep";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_PersonNameFormate" = "Formaat persoonsnaam";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_PersonPageSettings" = "Persoon Pagina";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_PlacePageSettings" = "Plaats Pagina";
+
+/* Website Configuration */
+"_WebSiteExport_Configuration_Popup_Title" = "Instellingen";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Section_Placement_Full_Width" = "Volledige breedte";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Section_Placement_Header" = "Kop";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Section_Placement_Left" = "Links";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Section_Placement_Right" = "Rechts";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Section_Placement_Side" = "Zijde";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ShowFamilyCrestInTitle" = "Familiewapen in titel weergeven";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_SourcePageSettings" = "Bron Pagina";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_StatisticsPageSettings" = "Statistieken Pagina";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_StoryPageSettings" = "Verhaal Pagina";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_TextAlignment" = "Uitlijning";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_TextAlignment_Center" = "Centreren";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_TextAlignment_Left" = "Links";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_TextAlignment_Right" = "Rechts";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Theme_Label" = "Thema";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Theme_Title" = "Thema Titel";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ThemeBackgroundImage" = "Achtergrondafbeelding";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ThemeHeaderBackgroundImage" = "Afbeelding koptekst";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_UseFamilyCrestAsFavicon" = "Gebruik familiewapen als favicon";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteAuthorAddress" = "Adres";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteAuthorEmail" = "E-mail";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteAuthorName" = "Auteur";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteAuthorPhone" = "Telefoon";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteImprintNote" = "Notitie";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteIntroduction" = "Introductie";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteStartPerson" = "Start Persoon";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteSubTitle" = "Ondertitel";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteTitle" = "Titel";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_3" = "Verkeerd URL-formaat";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_6" = "Kon host niet vinden.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_7" = "Kon niet verbinden met host";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_9" = "Toegang geweigerd.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_25" = "FTP-server negeerde STORE commando.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_30" = "FTP-poort fout";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_35" = "SSL/TLS verbinding mislukt";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_60" = "Peer-certificaat kan niet geauthenticeerd worden met gekende CA-certificaten";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_64" = "Gevraagde FTP/SSL niveau mislukt.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_67" = "Login mislukt. Controleer FTP-gebruikersnaam en paswoord";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_73" = "Bestand bestaat reeds en kan niet overschreven worden. Controleer uw permissies op de server.";
+
+/* CurlErrorCodes */
+"_WebSiteExport_CurlError_Generic" = "Interne fout (%d).";
+
+/* (No Comment) */
+"_WebSiteExport_Dark_Theme" = "Antilopen Canyon";
+
+/* (No Comment) */
+"_WebSiteExport_DarkBubbles_Theme" = "Bubbels";
+
+/* (No Comment) */
+"_WebSiteExport_Default_WebSiteExportFolderName" = "Mijn Family Tree Website";
+
+/* Details Of Living Persons Hidden */
+"_WebSiteExport_Details_Of_Living_Persons_Hidden_Person_Name" = "Verborgen persoonsdetails";
+
+/* (No Comment) */
+"_WebSiteExport_ExportToFolderMenuItem" = "Exporteren naar map...";
+
+/* (No Comment) */
+"_WebSiteExport_Flowers_Theme" = "Bloemen";
+
+/* (No Comment) */
+"_WebSiteExport_Forest_Path_Theme" = "Bospad";
+
+/* (No Comment) */
+"_WebSiteExport_Forest_Theme" = "Bos";
+
+/* (No Comment) */
+"_WebSiteExport_Green_Hills_Theme" = "Zonsopkomst";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Created_On" = "Gemaakt op: %@";
+
+/* Home Page */
+"_WebSiteExport_Home_Page_Created_With_MacFamilyTree" = "Website gemaakt met MacStamboom 11";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Download_GedcomFile_Description" = "Klik op de afbeelding hierboven om een GEDCOM-bestand van deze family tree te downloaden. GEDCOM-bestanden kunnen worden geïmporteerd door bijna alle beschikbare genealogietoepassingen op de markt.";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_GedcomFile_DownloadLinkTitle" = "GEDCOM-bestand downloaden";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_BookmarkedFamilies" = "Favoriete gezinnen";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_BookmarkedMedia" = "Favoriete media";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_BookmarkedPersons" = "Personen met een bladwijzer";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_BookmarkedPlaces" = "Favoriete plaatsen";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_BookmarkedSources" = "Bronnen met bladwijzers";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_CreationDate" = "Aanmaakdatum";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_GedcomFile" = "GEDCOM-bestand";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_Image" = "Afbeelding of familiewapen";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_Introduction" = "Inleiding";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_Introduction_Placeholder" = "Dit is een tijdelijke aanduiding voor de introductie. Je kunt dit wijzigen onder Website > Pagina's > Homepage.";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_StartPerson" = "Start Persoon";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_SubTitle" = "Ondertitel";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_Title" = "Titel";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Author_Contact_Section_Title" = "Auteur Contact";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Note_Section_Title" = "Notitie";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Synium_Contact_AppStore_Label" = "Mac App Store";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Synium_Contact_AppStore_Link_11" = "MacFamilyTree 11";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Synium_Contact_Company" = "Synium Software GmbH Duitsland";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Synium_Contact_Company_Label" = "Bedrijf";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Synium_Contact_Section_Title" = "Synium Contact";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Synium_Contact_Website_Label" = "Website";
+
+/* Imprint Page */
+"_WebSiteExport_Imprint_Page_Title_Section_Title" = "Afdruk";
+
+/* (No Comment) */
+"_WebSiteExport_IndexCards_Theme" = "Thema Indexkaarten";
+
+/* (No Comment) */
+"_WebSiteExport_Inspector_ThemesTitle" = "Thema's";
+
+/* Inspector */
+"_WebSiteExport_Inspector_WebSiteSettingsTitle" = "Website";
+
+/* (No Comment) */
+"_WebSiteExport_Leafs_Theme" = "Blad Thema";
+
+/* (No Comment) */
+"_WebSiteExport_LeftMenu_Theme" = "Aan zee";
+
+/* (No Comment) */
+"_WebSiteExport_LeftMenuBlurryBackground_Theme" = "Paars thema";
+
+/* (No Comment) */
+"_WebSiteExport_List_No_Entry_DueToSearch_Placeholder" = "Geen resultaten gevonden voor de ingevoerde zoekterm.";
+
+/* (No Comment) */
+"_WebSiteExport_List_No_Entry_Placeholder" = "Geen invoer gevonden.";
+
+/* Lists */
+"_WebSiteExport_List_Search_Placeholder" = "Zoeken...";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_By" = "Sorteer op";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Family_Last_Name_Key" = "Familieachternaam";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Family_Name_Key" = "Achternaam";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_BirthDate_Key" = "Geboortedatum";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_DeathDate_Key" = "Overlijdensdatum";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_FirstName_Key" = "Voornaam";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_Group_Name_Key" = "Naam groep";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_LastName_Key" = "Achternaam";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_NameMiddle_Key" = "Tweede naam";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_NamePrefix_Key" = "Naam voorvoegsel";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_NameSuffix_Key" = "Achtervoegsel naam";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Place_Name_Key" = "Plaatsnaam";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Source_Title_Key" = "Bron Titel";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Story_Title_Key" = "Verhaaltitel";
+
+/* (No Comment) */
+"_WebSiteExport_LoadingFamilyTreeData" = "Family Tree laden...";
+
+/* (No Comment) */
+"_WebSiteExport_LoadingFamilyTreeData_Failed" = "Laden van Family Tree mislukt";
+
+/* (No Comment) */
+"_WebSiteExport_ManageThemes_Label" = "Thema:";
+
+/* (No Comment) */
+"_WebSiteExport_ManageWebSiteExportThemes" = "Thema's beheren";
+
+/* (No Comment) */
+"_WebSiteExport_ManageWebSiteExportThemes_AddThemeHint" = "Kies een thema om aan deze website toe te voegen uit de onderstaande lijst.";
+
+/* (No Comment) */
+"_WebSiteExport_ManageWebSiteExportThemes_AddThemeTitle" = "Thema toevoegen";
+
+/* (No Comment) */
+"_WebSiteExport_ManageWebSiteExportThemes_Hint" = "Alle bijbehorende thema's voor deze website staan hieronder vermeld. Gebruik de knop 'Toevoegen' hierboven om extra thema's toe te voegen. Door thema's te slepen, kun je ook de volgorde wijzigen. Het eerste thema in deze lijst wordt het standaardthema van je website.";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Charts" = "Grafieken";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Families" = "Families";
+
+/* Website Menu */
+"_WebSiteExport_Menu_HomePage" = "Home";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Imprint" = "Afdruk";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_PersonGroups" = "Persoon Groepen";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Persons" = "Personen";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Places" = "Plaatsen";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Sources" = "Bronnen";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Statistics" = "Statistieken";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Stories" = "Verhalen";
+
+/* (No Comment) */
+"_WebSiteExport_MFT11_Theme" = "Elf";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_AuthenticationFailed" = "Authenticatie mislukt. Zorg er voor dat zowel gebruikersnaam als wachtwoord juist zijn.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Client_Error" = "Client Error";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Client_Error_Informative_Text" = "Er is een fout opgetreden (%@). Probeer opnieuw. Als de fout blijft bestaan, contacteer dan ons support team.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_CommandMismatch" = "Instructie komt niet overeen";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_CommandUnknown" = "Onbekende instructie";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Connection_Error" = "Verbindingsfout";
+
+/* MFT server NSURLConnection errors */
+"_WebSiteExport_MFTExport_ConnectionErrorCannotConnectToHost" = "Kon geen verbinding maken met MacFamilyTree.com. Controleer uw internetverbinding en probeer opnieuw.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_ConnectionErrorCannotFindHost" = "Kon geen contact maken met MacFamilyTree.com. Controleer uw internetverbinding.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_ConnectionErrorTimedOut" = "Uw verbinding met de server MacFamilyTree.com is verlopen. Probeer het later nog eens.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Delete_Old_Files" = "Oude bestanden verwijderen";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_DeleteFailed" = "Verwijderen van bestanden mislukt.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error" = "Onbekende fout";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_Connection_Cant_Be_Initialized" = "Kan verbinding niet initialiseren";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_Email_Not_Valid" = "Ongeldig e-mail adres";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_NoSSL_Connect_Without_SSL" = "Verbind";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_Not_Logged_In" = "Niet ingelogd";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_Password_Empty" = "Wachtwoord leeg";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_Passwords_mismatch" = "Wachtwoorden komen niet overeen";
+
+/* MFT Upload */
+"_WebSiteExport_MFTExport_Error_Undefined" = "Onbekende fout";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_Upload_Limit_Exceeded" = "Uw website overschrijdt de uploadlimiet. Verwijder enkele grote bestanden (PDF, film, afbeeldingen) en probeer het opnieuw";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_User_Or_Password_Empty" = "Gebruiker of wachtwoord leeg";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_User_String_Not_Valid" = "Gebruik enkel alfa-numerieke karakters voor uw gebruikersnaam";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Failed" = "Upload mislukt";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_FileHashesError" = "Fout in het uploaden van file hashes";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Get_FileHashes" = "Verkrijg file hashes";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Get_Upload_Limit" = "Verkrijg uploadlimiet";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Open_In_Browser" = "Openen in browser";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_PersonListInvalid" = "Fout in de geüploade persoonslijst";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_PersonUpdateFailed" = "Bijwerken personen mislukt";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Server_Error" = "Serverfout";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Server_Error_Informative_Text" = "MacFamilyTree.com server momenteel niet beschikbaar. Probeer het later nog eens.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Successful" = "Upload gelukt";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Successful_Informative_Text" = "Uw websiter werd geupload. U kan ze nu openen in de browser";
+
+/* MFT server error keys */
+"_WebSiteExport_MFTExport_TreeNameInvalid" = "Ongeldige website naam. Gebruk enkel alfanumerieke karakters.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_TreeNameTaken" = "Website met deze naam bestaat reeds";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_TreeNameTooLong" = "Naam website te lang (max. %@ karakters)";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_TreeNameTooShort" = "Naam website te kort (min. %@ karakters)";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_TreeNotFound" = "Website niet gevonden.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_TreePasswordInvalid" = "Ongeldig paswoord voor website";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_TreePasswordTooShort" = "Paswoord voor website te kort (min. %@ karakters)";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Unknown_Error" = "Onbekende fout";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Unknown_Error_Informative_Text" = "Er is een onbekende fout opgetreden (%@). Probeer opnieuw. Als de fout blijft bestaan, contacteer dan ons support team.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UnzipFailed" = "Uitpakken website mislukt";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Upload_New_FileHashes" = "Nieuwe file hashes uploaden";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Upload_New_Files" = "Nieuwe bestanden uploaden";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Upload_Successful" = "Upload gelukt";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Upload_Validating_New_Files" = "Nieuwe bestanden valideren";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Upload_Validating_New_Persons_List" = "Nieuwe personen valideren...";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_User_Or_Password_Wrong" = "Login mislukt. Foutief wachtwoord of gebruikersnaam.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserEmailAddressInvalid" = "Ongeldig e-mail adres";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserEmailAddressTaken" = "Dit e-mail adres is reeds in gebruik voor een MacFamilyTree.com account. U kan maar één account per e-mail adres registreren.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserNameInvalid" = "Gebruikersnaam niet geldig";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserNameTaken" = "Gebruikersnaam bestaat reeds";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserNameTooLong" = "Gebruikersnaam te lang (max. %@ tekens)";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserNameTooShort" = "Gebruikersnaam te kort (min. %@ tekens)";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserPasswordInvalid" = "Ongeldig wachtwoord";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserPasswordTooShort" = "Wachtwoord te kort (min. %@ tekens)";
+
+/* (No Comment) */
+"_WebSiteExport_NavigateBackButton" = "Terug";
+
+/* WebSitePane */
+"_WebSiteExport_NavigateForwardButton" = "Vooruit";
+
+/* (No Comment) */
+"_WebSiteExport_NoWebSitesPlaceholder_AddWebSiteButton" = "Eerste website toevoegen";
+
+/* (No Comment) */
+"_WebSiteExport_NoWebSitesPlaceholder_Message" = "Er zijn geen websites voor deze family tree. Selecteer \"Voeg eerste website toe\" om je eerste website te maken.";
+
+/* Websites */
+"_WebSiteExport_NoWebSitesPlaceholder_Title" = "Geen websites aanwezig";
+
+/* (No Comment) */
+"_WebSiteExport_Page_Header_Section_Title" = "Koptekst";
+
+/* Common Page */
+"_WebSiteExport_Page_Overview_Section_Title" = "Overzicht";
+
+/* Person Page */
+"_WebSiteExport_Person_Page_Hourglass_Section_Title" = "Zandloper Grafiek";
+
+/* Place Page */
+"_WebSiteExport_Place_Page_Map_Section_Title" = "Kaart";
+
+/* (No Comment) */
+"_WebSiteExport_Place_Page_View_Place_In_Maps" = "Bekijk plaats in kaarten";
+
+/* (No Comment) */
+"_WebSiteExport_Plain_Theme" = "Effen";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_CollectingFamilyTreeInformation" = "Informatie over stamboom verzamelen...";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_CreatingWebsiteForLocalViewingInformative" = "Website maken voor lokale weergave.";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_CreatingWebsiteForSharingInformative" = "Website voorbereiden voor delen - Even geduld a.u.b.";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_CreatingWebsiteForWebServerInformative" = "Website voor webserver maken.";
+
+/* Progress */
+"_WebSiteExport_Progress_CreatingWebsiteHeadline" = "Website maken...";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_CreatingWebsiteInformative" = "Wacht alsjeblieft";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_ExportingGedcom" = "GEDCOM exporteren...";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_ExportingMedia" = "Mediabestanden exporteren...";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_ExportingResources" = "Bronnen exporteren...";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_ExportingSavedCharts" = "Opgeslagen grafieken exporteren...";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_ExportingStatisticCharts" = "Statistische grafieken exporteren...";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_ExportingThemes" = "Thema's exporteren...";
+
+/* (No Comment) */
+"_WebSiteExport_PublishButton" = "Publiceren";
+
+/* (No Comment) */
+"_WebSiteExport_ResetThemeToDefaults" = "Thema terugzetten op standaardwaarden";
+
+/* (No Comment) */
+"_WebSiteExport_ResetThemeToDefaults_Short" = "Reset";
+
+/* (No Comment) */
+"_WebSiteExport_ShareMenuItem" = "Deel...";
+
+/* (No Comment) */
+"_WebSiteExport_ShouldSaveModifiedWebSite_InformativeText" = "Wil je de wijzigingen die je hebt aangebracht aan deze website opslaan?";
+
+/* (No Comment) */
+"_WebSiteExport_ShouldSaveModifiedWebSite_MessageText" = "Wijzigingen opslaan op website?";
+
+/* Manage Themes */
+"_WebSiteExport_Show_ManageThemes_MenuTitle" = "Thema's beheren...";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_DivorcedFamiliesCount" = "Gescheiden gezinnen";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_EarliestEvent" = "Vroegste gebeurtenis";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_Family_Statistics_Section_Title" = "Gezinsstatistieken";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_FamilyCount" = "Totaal gezinnen";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_FamilyEventCount" = "Familie Evenementen";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_FemalePersonCount" = "Vrouwelijke personen";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_IntersexGenderPersonCount" = "Intersekse personen";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_LatestEvent" = "Laatste gebeurtenis";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_MalePersonCount" = "Mannelijke personen";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_MarriedFamiliesCount" = "Getrouwde gezinnen";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_Person_Statistics_Section_Title" = "Persoon Statistieken";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_PersonCount" = "Totaal personen";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_PersonEventCount" = "Persoon Gebeurtenissen";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_StatisticCharts_Section_Title" = "Statistische grafieken";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_Time_Statistics_Section_Title" = "Tijd & Data";
+
+/* Statistics Page */
+"_WebSiteExport_Statistics_Page_Title_Section_Title" = "Statistieken";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_UnknownGenderPersonCount" = "Personen met onbekend geslacht";
+
+/* (No Comment) */
+"_WebSiteExport_Stripes_Theme" = "Strepen";
+
+/* (No Comment) */
+"_WebSiteExport_TopMenu_Theme" = "Thema Topmenu";
+
+/* (No Comment) */
+"_WebSiteExport_Unnamed_WebSite" = "Naamloze website";
+
+/* (No Comment) */
+"_WebSiteExport_UploadToFTPMenuItem" = "Uploaden naar FTP-server...";
+
+/* (No Comment) */
+"_WebSiteExport_UploadToMacFamilyTreeComMenuItem" = "Upload to MacFamilyTree.com…";
+
+/* (No Comment) */
+"_WebSiteExport_WebSite_ChangeDate" = "Wijzigingsdatum: %@";
+
+/* (No Comment) */
+"_WebSiteExport_WebSite_CreationDate" = "Aanmaakdatum: %@";
+
+/* (No Comment) */
+"_WebSiteExportMFTTreeObject_Active" = "Online";
+
+/* (No Comment) */
+"_WebSiteExportMFTTreeObject_NotActive" = "Inactief";
+
+/* (No Comment) */
+"_WebSiteExportMFTTreeObject_NotPublic" = "Niet openbaar";
+
+/* WebSiteExportMFTTreeObject */
+"_WebSiteExportMFTTreeObject_Public" = "Openbaar";
+
+/* WebSitesPane */
+"_WebSites_AddNewWebSiteButton" = "Nieuwe website toevoegen";
+
+/* (No Comment) */
+"_WebSites_DeleteWebSiteButton" = "Website verwijderen";
+
+/* (No Comment) */
+"_WebSites_DuplicateWebSiteButton" = "Dubbele website";
+
+/* (No Comment) */
+"_WebSites_EditWebSiteButton" = "Website bewerken";
+
+/* (No Comment) */
+"_WebSites_ManageMacFamilyTreeComButton" = "MacFamilyTree.com beheren...";
+
+/* (No Comment) */
+"_WebSitesController_DeleteWebSiteInformative" = "Wil je deze website echt verwijderen?";
+
+/* WebSiteExportController */
+"_WebSitesController_DeleteWebSiteMessage" = "Website verwijderen?";
+
+/* (No Comment) */
+"_WebSitesController_ExportedWebSiteToFolder" = "Website succesvol geëxporteerd";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToFolder_ForLocalViewing" = "Voor plaatselijke bezichtiging";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToFolder_ForWebServer" = "Voor webserver";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToFolder_OpenFolderInFinder" = "Tonen in Finder";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToFolder_Question_Informative" = "Wil je de website exporteren naar een map voor lokaal gebruik of wil je de website opslaan in een formaat dat gehost kan worden op een webserver?";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToFolder_Question_Message" = "Website exporteren naar map";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToShare_Question_Informative" = "Wilt u de geëxporteerde website delen voor lokaal gebruik, of wilt u de website delen in een formaat dat gehost kan worden op een webserver?";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToShare_Question_Message" = "Geëxporteerde website delen";
+
+/* (No Comment) */
+"_WebSitesController_LimitedPersonsForPreview_Question_Informative" = "Deze preview toont maximaal 500 personen. Op jouw geëxporteerde website worden echter alle geselecteerde personen weergegeven.";
+
+/* (No Comment) */
+"_WebSitesController_LimitedPersonsForPreview_Question_Message" = "Voorbeeld";
+

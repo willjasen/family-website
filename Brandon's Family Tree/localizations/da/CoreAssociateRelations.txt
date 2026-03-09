@@ -1,0 +1,78 @@
+﻿/* (No Comment) */
+"_AssociateRelation_Type_BestFriend" = "Bedste ven";
+
+/* (No Comment) */
+"_AssociateRelation_Type_BestFriend_Inverted" = "Bedste ven";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Boss" = "Chef";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Boss_Inverted" = "Ansat";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Coworker" = "Kollega";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Coworker_Inverted" = "Kollega";
+
+/* Person Container */
+"_AssociateRelation_Type_Friend" = "Ven";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Friend_Inverted" = "Ven";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Godfather" = "Fadder";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Godfather_Inverted" = "Fadder til %@";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Neighbor" = "Nabo";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Neighbor_Inverted" = "Nabo";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Servant" = "Tjener";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Servant_Inverted" = "Arbejdsgiver/Mester";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Teacher" = "Lærer";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Teacher_Inverted" = "Student";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfBirth" = "Fødselsvidne";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfBirth_Inverted" = "Vidne til fødslen af %@";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfCivilMarriage" = "Vidne til borgerlig vielse";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfCivilMarriage_Inverted" = "Vidne til borgerlig vielse af %@";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfDeath" = "Vidne til dødfald";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfDeath_Inverted" = "Vidne til dødfald af %@";
+
+/* Family Container */
+"_AssociateRelation_Type_WitnessOfMarriage" = "Vidne til bryllup";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfMarriage_Inverted" = "Vidne til bryllup af %@";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfReligiousMarriage" = "Vidne til religiøs vielse";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfReligiousMarriage_Inverted" = "Vidne til religiøs vielse af %@";
+

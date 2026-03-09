@@ -1,0 +1,1707 @@
+﻿/* (No Comment) */
+"_BaseEditController_DeleteBaseObjectQuestionInformative" = "Haluatko todella poistaa tämän kirjauksen sukupuustasi?";
+
+/* (No Comment) */
+"_BaseEditController_DeleteBaseObjectQuestionMessage" = "Poistetaanko '%@'?";
+
+/* (No Comment) */
+"_BaseEditController_DeletePersonQuestionInformative" = "Haluatko todella poistaa tämän henkilön sukupuustasi?";
+
+/* BaseEditController */
+"_BaseEditController_DeletePersonQuestionMessage" = "Poistetaanko henkilö '%@'?";
+
+/* (No Comment) */
+"_BaseEditController_ManuallyAddPlaceDetailInformative" = "Syötä nimi uudelle merkittävälle paikalle paikassa '%@'";
+
+/* (No Comment) */
+"_BaseEditController_ManuallyAddPlaceDetailTitle" = "Syötä manuaalisesti merkittävä paikka";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_AddEventButton" = "Lisää tapahtuma";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_AgeAtEvent" = "Tapahtumaikä";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_CopyEventToPersonMenuItem" = "Kopioi tapahtuma henkilölle…";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_CreateStoryFromEventMenuItem" = "Luo tarina tapahtumalle";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_DeadButNoFurtherInfoCheckbox" = "Merkitse henkilö kuolleeksi ilman lisätietoja";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_DeleteEvent" = "Poista tapahtuma";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_EditEventDetails" = "Muokkaa tapahtuman tietoja";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_EditFamilyEventConclusionTypes" = "Muokkaa perhetapahtumatyyppejä…";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_EditFamilyMenuItem" = "Muokkaa perhettä %@";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_EditPersonEventConclusionTypes" = "Muokkaa henkilötapahtumatyyppejä…";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_EditPlaceDetails" = "Muokkaa paikkatietoja…";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_EventPlaceholder" = "%@ – Syötä tietoja tähän";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_FamilyEventPlaceholder" = "%@ ja %@ – Syötä tietoja tähän";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_FurtherOptionsButton" = "Lisävalintoja…";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_LargePlaceholder" = "Tapahtumia ei ole";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_LookupNewPlaceDetail" = "Etsi uutta merkittävää paikkaa…";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_ManuallyAddPlaceDetail" = "Syötä manuaalisesti uusi merkittävä paikka";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_MarriedButNoFurtherInfoCheckbox" = "Merkitse aviopariksi, mutta ilman lisätietoja";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_NoDateAvailable" = "Päivää ei syötetty";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_NoNotesPlaceholder" = "Merkintöjä ei syötetty";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_NoPlacePlaceholder" = "Paikkaa ei syötetty";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_NoSourcesPlaceholder" = "Lähteitä ei syötetty";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_SmallPlaceholder" = "Käytä ylläolevaa painiketta uuden tapahtuman lisäämiseen.";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_Sorting_ByDate" = "Tapahtumapäivän mukaan";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_Sorting_ByDescription" = "Kuvauksen mukaan";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_Sorting_ByTypeAndDate" = "Tapahtumatyypin ja päivän mukaan";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_Sorting_ByTypeName" = "Tapahtumatyypin nimen mukaan";
+
+/* Shared Base Events */
+"_BaseEditEventsContentController_Title" = "Tapahtumat";
+
+/* BaseEditHeaderContentController */
+"_BaseEditHeaderContentController_Title" = "Otsikko";
+
+/* (No Comment) */
+"_BaseEditListContentController_SortAscending" = "Nouseva";
+
+/* (No Comment) */
+"_BaseEditListContentController_SortDescending" = "Laskeva";
+
+/* BaseEditListContentController */
+"_BaseEditListContentController_SortingButton" = "Järjestäminen";
+
+/* (No Comment) */
+"_BaseEditPlaceLinksContentController_OtherLanguagesButton" = "Muut kielet…";
+
+/* (No Comment) */
+"_BaseEditPlaceLinksContentController_ShowArticleButton" = "Näytä artikkeli";
+
+/* (No Comment) */
+"_BaseReferencedEntriesListContentController_EditFamilyEventMenuItem" = "Muokkaa perhetapahtumaa '%@'";
+
+/* (No Comment) */
+"_BaseReferencedEntriesListContentController_EditFamilyMenuItem" = "Muokkaa perhettä '%@'";
+
+/* (No Comment) */
+"_BaseReferencedEntriesListContentController_EditPersonEventMenuItem" = "Muokkaa henkilötapahtumaa '%@'";
+
+/* BaseReferencedEntriesListContentController */
+"_BaseReferencedEntriesListContentController_EditPersonMenuItem" = "Muokkaa henkilöä '%@'";
+
+/* (No Comment) */
+"_Column_aboveMainFullWidth_0" = "Pääalue";
+
+/* (No Comment) */
+"_Column_main_0" = "Vasen puoli";
+
+/* (No Comment) */
+"_Column_main_1" = "Oikea puoli";
+
+/* (No Comment) */
+"_Column_main_256" = "Sivupalkki";
+
+/* (No Comment) */
+"_Column_parents_0" = "Vasen puoli";
+
+/* (No Comment) */
+"_Column_parents_1" = "Oikea puoli";
+
+/* (No Comment) */
+"_Column_top_0" = "Pääalue";
+
+/* Common */
+"_CommonEdit_NoLabelsAssignedPlaceholder" = "Ei liitettyjä merkkejä";
+
+/* (No Comment) */
+"_DatabaseChangesController_DeleteChangeLogEntryMessage" = "Poistetaanko muutoslokikirjaus todella?";
+
+/* (No Comment) */
+"_DatabaseChangesController_PurgeAllChangesInformative" = "Vahvista haluatko poistaa kaikki muutoslokikirjaukset sukupuustasi.";
+
+/* (No Comment) */
+"_DatabaseChangesController_PurgeAllChangesInformativeWithDate" = "Vahvista haluatko todella poistaa kaikki muutoslokikirjaukset jotka on tehty ennen %@.";
+
+/* DatabaseChangesController */
+"_DatabaseChangesController_PurgeAllChangesMessage" = "Tyhjennetäänkö muutosloki todella? Tätä ei voi perua.";
+
+/* (No Comment) */
+"_DatabaseChangesController_PurgeAllChangesOfDeletedEntriesInformative" = "Vahvista haluatko poistaa kaikki poistettuja henkilöitä, perheitä ym. koskevat muutoslokikirjaukset sukupuustasi.";
+
+/* (No Comment) */
+"_DatabaseChangesController_PurgeAllChangesOfDeletedEntriesMessage" = "Tyhjennetäänkö poistettujen kirjausten muutosloki todella? Tätä ei voi perua.";
+
+/* (No Comment) */
+"_DatabaseChangesController_PurgeButton" = "Poista muutosloki";
+
+/* (No Comment) */
+"_EditAssociateRelationGeneralController_Source" = "Alkuperä";
+
+/* (No Comment) */
+"_EditAssociateRelationGeneralController_Target" = "Kohde";
+
+/* EditAssociateRelationGeneralController */
+"_EditAssociateRelationGeneralController_Title" = "Yleistä";
+
+/* (No Comment) */
+"_EditAssociatesContentController_AddAssociatedPersonButton" = "Lisää vaikuttava henkilö";
+
+/* (No Comment) */
+"_EditAssociatesContentController_AddExistingFamilyAsAssociate" = "Lisää oleva perhe merkittäväksi perheeksi";
+
+/* (No Comment) */
+"_EditAssociatesContentController_AddExistingPersonAsAssociate" = "Lisää nykyinen henkilö vaikuttavaksi henkilöksi";
+
+/* (No Comment) */
+"_EditAssociatesContentController_AddNewFamilyAsAssociate" = "Lisää uusi merkittävä perhe";
+
+/* (No Comment) */
+"_EditAssociatesContentController_AddNewPersonAsAssociate" = "Lisää uusi vaikuttava henkilö";
+
+/* (No Comment) */
+"_EditAssociatesContentController_EditAssociateRelationConclusionTypes" = "Muokkaa merkittäviä henkilötyyppejä";
+
+/* (No Comment) */
+"_EditAssociatesContentController_LargePlaceholder" = "Ei vaikuttavia henkilöitä saatavilla";
+
+/* (No Comment) */
+"_EditAssociatesContentController_RemoveAssociateButton" = "Poista vaikuttava henkilö";
+
+/* (No Comment) */
+"_EditAssociatesContentController_RemoveAssociateRelationInformative" = "Tämä ei poista henkilöä sukupuustasi, mutta poistaa sukulaisuuden tähän henkilöön.";
+
+/* (No Comment) */
+"_EditAssociatesContentController_RemoveAssociateRelationMessage" = "Haluatko todella poistaa suklaisuuden henkilöön '%@'?";
+
+/* (No Comment) */
+"_EditAssociatesContentController_SmallPlaceholder" = "Käytä ylläolevaa painiketta lisätäksesi vaikuttavia henkilöitä kuten Kummisetiä";
+
+/* EditAssociatesContentController */
+"_EditAssociatesContentController_Title" = "Vaikuttavat henkilöt";
+
+/* (No Comment) */
+"_EditBookmarkContentController_OtherBookmarkedEntries_BaseMedia" = "Media";
+
+/* (No Comment) */
+"_EditBookmarkContentController_OtherBookmarkedEntries_Family" = "Perheet";
+
+/* (No Comment) */
+"_EditBookmarkContentController_OtherBookmarkedEntries_Person" = "Henkilöt";
+
+/* (No Comment) */
+"_EditBookmarkContentController_OtherBookmarkedEntries_Place" = "Paikat";
+
+/* (No Comment) */
+"_EditBookmarkContentController_OtherBookmarkedEntries_Source" = "Lähteet";
+
+/* EditBookmarkContentController */
+"_EditBookmarkContentController_Title" = "Kirjanmerkit";
+
+/* Common */
+"_EditCommon_PrivateFlagLabel" = "Yksityinen";
+
+/* (No Comment) */
+"_EditCreationAndChangeDateContentController_ChangeDate" = "Muutospäivä";
+
+/* (No Comment) */
+"_EditCreationAndChangeDateContentController_CreationDate" = "Luontipäivä";
+
+/* EditCreationAndChangeDateContentController */
+"_EditCreationAndChangeDateContentController_Title" = "Viimeksi muokattu";
+
+/* (No Comment) */
+"_EditDNATestResultATDNARawDataContentController_DataPresentString" = "atDNA raakadata tallennettu, tiedoston koko: %@";
+
+/* EditDNATestResultATDNARawDataContentController */
+"_EditDNATestResultATDNARawDataContentController_Title" = "atDNA raakadata";
+
+/* EditDNATestResultBaseMTDNARegionSNPDifferencesContentController */
+"_EditDNATestResultBaseMTDNARegionSNPDifferencesContentController_AddMarkerButton" = "Lisää merkki";
+
+/* (No Comment) */
+"_EditDNATestResultBaseMTDNARegionSNPDifferencesContentController_LargePlaceholder" = "Merkkejä ei syötetty";
+
+/* (No Comment) */
+"_EditDNATestResultBaseMTDNARegionSNPDifferencesContentController_SmallPlaceholder" = "Käytä painiketta yläpuolella lisätäksesi merkkejä";
+
+/* (No Comment) */
+"_EditDNATestResultBaseRawDataContentController_AddDataButton" = "Lisää dataa";
+
+/* (No Comment) */
+"_EditDNATestResultBaseRawDataContentController_DeleteDNARawDataInformative" = "Haluatko todella poistaa tähän testiin liittyvän raakadatan?";
+
+/* (No Comment) */
+"_EditDNATestResultBaseRawDataContentController_DeleteDNARawDataMessage" = "Poistetaanko DNA data todella?";
+
+/* EditDNATestResultBaseRawDataContentController */
+"_EditDNATestResultBaseRawDataContentController_LargePlaceholder" = "DNA raakadataa ei ole lisätty";
+
+/* (No Comment) */
+"_EditDNATestResultBaseRawDataContentController_SelectFileMessage" = "Valitse tiedosto tallennettavaksi DNA raakadatana";
+
+/* (No Comment) */
+"_EditDNATestResultBaseRawDataContentController_SmallPlaceholder" = "Käytä ylläolevaa painiketta lisätäksesi DNA raakadataa";
+
+/* (No Comment) */
+"_EditDNATestResultController_Title" = "DNA testitulos";
+
+/* (No Comment) */
+"_EditDNATestResultGeneralContentController_NoNameEnteredPlaceholder" = "Testin nimeä ei syötetty";
+
+/* EditDNATestResultGeneralContentController */
+"_EditDNATestResultGeneralContentController_Title" = "Yleistä";
+
+/* (No Comment) */
+"_EditDNATestResultMTDNAGeneralInformationContentController_NoHaplogroupPlaceholder" = "Haploryhmää ei syötetty";
+
+/* EditDNATestResultMTDNAGeneralInformationContentController */
+"_EditDNATestResultMTDNAGeneralInformationContentController_Title" = "mtDNA tiedot";
+
+/* (No Comment) */
+"_EditDNATestResultMTDNARawDataContentController_DataPresentString" = "mtDNA raakadata tallennettu, tiedoston koko: %@";
+
+/* EditDNATestResultMTDNARawDataContentController */
+"_EditDNATestResultMTDNARawDataContentController_Title" = "mtDNA raakadata";
+
+/* EditDNATestResultMTNDNACodingRegionSNPDifferencesContentController */
+"_EditDNATestResultMTNDNACodingRegionSNPDifferencesContentController_Title" = "mtDNA Coding Region SNP eroavuudet";
+
+/* EditDNATestResultMTNDNAHVR1SNPDifferencesContentController */
+"_EditDNATestResultMTNDNAHVR1SNPDifferencesContentController_Title" = "mtDNA HVR1 SNP Differences eroavuudet";
+
+/* EditDNATestResultMTNDNAHVR2SNPDifferencesContentController */
+"_EditDNATestResultMTNDNAHVR2SNPDifferencesContentController_Title" = "mtDNA HVR2 SNP Differences eroavuudet";
+
+/* (No Comment) */
+"_EditDNATestResultYDNAGeneralInformationContentController_NoHaplogroupPlaceholder" = "Haploryhmää ei syötetty";
+
+/* EditDNATestResultYDNAGeneralInformationContentController */
+"_EditDNATestResultYDNAGeneralInformationContentController_Title" = "Y-DNA tiedot";
+
+/* (No Comment) */
+"_EditDNATestResultYDNARawDataContentController_DataPresentString" = "Y-DNA raakadata tallennettu, tiedoston koko: %@";
+
+/* EditDNATestResultYDNARawDataContentController */
+"_EditDNATestResultYDNARawDataContentController_Title" = "Y-DNA raakadata";
+
+/* (No Comment) */
+"_EditDNATestResultYDNASTRMarkerListContentController_AddMarkerButton" = "Lisää markkeri";
+
+/* (No Comment) */
+"_EditDNATestResultYDNASTRMarkerListContentController_LargePlaceholder" = "Y-DNA STR markkeria ei syötetty";
+
+/* (No Comment) */
+"_EditDNATestResultYDNASTRMarkerListContentController_SmallPlaceholder" = "Käytä ylläolevaa painiketta syöttääksesi Y-DNA STR markkereita";
+
+/* EditDNATestResultYDNASTRMarkerListContentController */
+"_EditDNATestResultYDNASTRMarkerListContentController_Title" = "Y-DNA STR markkerit";
+
+/* EditEventGeneralContentController */
+"_EditEventGeneralContentController_Title" = "Yleistä";
+
+/* (No Comment) */
+"_EditEventPlaceContentController_AssignPlace" = "Valitse paikka";
+
+/* (No Comment) */
+"_EditEventPlaceContentController_LargePlaceholder" = "Paikkaa ei valittu";
+
+/* (No Comment) */
+"_EditEventPlaceContentController_SelectExistingPlace" = "Valitse paikka";
+
+/* (No Comment) */
+"_EditEventPlaceContentController_ShowPlace" = "Näytä paikka";
+
+/* (No Comment) */
+"_EditEventPlaceContentController_SmallPlaceholder" = "Yhtään paikkaa ei ole valittu tälle tapahtumalle. Käytä ylläolevaa painiketta valitaksesi olemassaoleva tai etsiäksesi uuden paikan";
+
+/* EditEventPlaceContentController */
+"_EditEventPlaceContentController_Title" = "Paikka";
+
+/* (No Comment) */
+"_EditEventPlaceController_FieldsHint" = "Syötä tietoja tästä paikasta allaoleviin kenttiin. Jos tarvitset eri kenttiä, jatka valitsemalla eri paikkamalli tai lisäämällä kentät paikkamalliin.";
+
+/* EditEventPlaceController */
+"_EditEventPlaceController_TemplateHint" = "Valitse paikkamalli tälle paikalle allaolevan painikkeen avulla. Jos sopivaa mallia ei ole, käytä 'Muokkaa malleja' valintaa luodaksesi uuden mallin.";
+
+/* EditEventPlaceDetailContentController */
+"_EditEventPlaceDetailContentController_Title" = "Merkittävä paikka";
+
+/* EditEventPlace */
+"_EditEventPlaceSheetLookupNewPlaceSection_Title" = "Etsi uusi paikka";
+
+/* (No Comment) */
+"_EditEventPlaceSheetManualEnterPlaceSection_Title" = "Syötä paikka manuaalisesti";
+
+/* (No Comment) */
+"_EditEventPlaceSheetManualEnterPlaceSection_TitleReplace" = "Muokkaa paikkaa manuaalisesti";
+
+/* (No Comment) */
+"_EditEventPlaceSheetSelectExistingPlaceSection_Title" = "Valitse olemassaoleva paikka";
+
+/* (No Comment) */
+"_EditEventPlaceSheetSelectExistingPlaceSection_TitleReplace" = "Korvaa olemassaolevalla paikalla";
+
+/* (No Comment) */
+"_EditEventPlaceViewController_EditPlace" = "Muokkaa paikkaa";
+
+/* (No Comment) */
+"_EditEventPlaceViewController_JustLookUpCoordinate" = "Etsi vain koordinaatteja";
+
+/* (No Comment) */
+"_EditEventPlaceViewController_RemoveCurrentPlace" = "Poista nykyinen paikka";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_AddExistingManButton" = "Lisää olemassa oleva mies";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_AddExistingWomanButton" = "Lisää olemassa oleva nainen";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_AddNewManButton" = "Lisää uusi mies";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_AddNewWomanButton" = "Lisää uusi nainen";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_EditParentButton" = "Muokkaa";
+
+/* EditFamilyController */
+"_EditFamilyBaseEditParentContentController_NoManPlaceholder" = "Yhtään miestä ei ole lisätty tähän perheeseen. Valitse painikkeista alla syöttääksesi uuden tai olemassa olevan miehen tähän perheeseen.";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_NoWomanPlaceholder" = "Yhtään naista ei ole lisätty tähän perheeseen. Valitse painikkeista alla syöttääksesi uuden tai olemassa olevan naisen tähän perheeseen.";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_RemoveAsManButton" = "Poista miehenä";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_RemoveAsPartner1Button" = "Poista puolisona 1";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_RemoveAsPartner2Button" = "Poista puolisona 2";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_RemoveAsWomanButton" = "Poista naisena";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_RemoveFromFamilyInformative" = "Haluatko todella poistaa tämän vanhemman tästä perheestä? Vanhempaa ei poisteta, mutta hän ei ole enää osa tätä perhettä.";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_RemoveFromFamilyMessage" = "Poista vanhempi '%@'?";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_ShowParentButton" = "Näytä";
+
+/* EditFamilyChildContentController */
+"_EditFamilyChildContentController_Title" = "Lapset";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_AddChildTopLevelButton" = "Lisää lapsia";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_AddExistingChildButton" = "Lisää olemassa oleva lapsi";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_AddNewChildButton" = "Lisää uusi lapsi";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_ChildOrder" = "Lapsi #%d";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_ChildOrderPopup" = "Oma lasten järjestys";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_DeleteChildRelationInformative" = "Haluatko todella poistaa tämän lapsen tästä perheestä? Lasta ei poisteta, mutta hän ei ole enää osa tätä perhettä.";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_DeleteChildRelationMessage" = "Poistetaanko lapsi '%@' perheestä?";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_EditChildButton" = "Muokkaa";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_LargePlaceholder" = "Lapsia ei löydy";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_RemoveAsChildButton" = "Poista lapsena";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_SmallPlaceholder" = "Yhtään lasta ei ole lisätty tähän perheeseen. Valitse painikkeista yllä lisätäksesi lapsia.";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_Sorting_ByBirthDate" = "Syntymajan mukaan";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_Sorting_ByName" = "Nimen mukaan";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_Sorting_CustomOrder" = "Oma järjestys";
+
+/* (No Comment) */
+"_EditFamilyController_AddFatherPlaceholder" = "Lisää henkilön %@ isä";
+
+/* (No Comment) */
+"_EditFamilyController_AddMotherPlaceholder" = "Lisää henkilön %@ äiti";
+
+/* (No Comment) */
+"_EditFamilyController_AddNewFamily" = "Lisää uusi perhe";
+
+/* (No Comment) */
+"_EditFamilyController_AddParent1Placeholder" = "Liitä vanhempi 1 henkilölle %@";
+
+/* (No Comment) */
+"_EditFamilyController_AddParent2Placeholder" = "Liitä vanhempi 2 henkilölle %@";
+
+/* (No Comment) */
+"_EditFamilyController_DeleteFamily" = "Poista perhe";
+
+/* (No Comment) */
+"_EditFamilyController_DeleteFamilyQuestionMessage" = "Poistetaanko perhe todella?";
+
+/* (No Comment) */
+"_EditFamilyController_NoFamiliesPlaceholder_AddFamilyButton" = "Lisää ensimmäinen perhe";
+
+/* (No Comment) */
+"_EditFamilyController_NoFamiliesPlaceholder_Message" = "Tässä sukupuussa ei ole yhtään perhettä. Valitse \"Lisää ensimmäinen perhe\" luodaksesi ensimmäisen perheesi.";
+
+/* (No Comment) */
+"_EditFamilyController_NoFamiliesPlaceholder_Title" = "Perheitä ei löydy";
+
+/* (No Comment) */
+"_EditFamilyController_ParentsOfLabel" = "Henkilön %@ vanhemmat";
+
+/* (No Comment) */
+"_EditFamilyController_Title" = "Muokkaa perhettä";
+
+/* EditFamilyEditManContentController */
+"_EditFamilyEditManContentController_Title" = "Mies";
+
+/* EditFamilyEditWomanContentController */
+"_EditFamilyEditWomanContentController_Title" = "Nainen";
+
+/* (No Comment) */
+"_EditFamilyEventController_Title" = "Muokkaa perhetapahtumaa";
+
+/* EditFamilyTreeInformationContactContentController */
+"_EditFamilyTreeInformationContactContentController_Title" = "Tekijän yhteystiedot";
+
+/* (No Comment) */
+"_EditFamilyTreeInformationController_Title" = "Tekijä";
+
+/* EditFamilyTreeInformationFamilyCrestContentController */
+"_EditFamilyTreeInformationFamilyCrestContentController_Title" = "Perhevaakuna";
+
+/* EditFamilyTreeInformationHeaderContentController */
+"_EditFamilyTreeInformationHeaderContentController_LargeTitle" = "Tietoja tämän sukupuun tekijästä";
+
+/* (No Comment) */
+"_EditFamilyTreeInformationIconSettingsContentController_AddToIconButton" = "Lisää mediaa ikoniin";
+
+/* (No Comment) */
+"_EditFamilyTreeInformationIconSettingsContentController_RemoveMediaFromIconMenuItem" = "Poista ikonista";
+
+/* EditFamilyTreeInformationIconSettingsContentController */
+"_EditFamilyTreeInformationIconSettingsContentController_Title" = "Ikoniasetukset";
+
+/* (No Comment) */
+"_EditFamilyTreeInformationNameAndAddressContentController_NoNamePlaceholder" = "Nimeä ei syötetty";
+
+/* EditFamilyTreeInformationNameAndAddressContentController */
+"_EditFamilyTreeInformationNameAndAddressContentController_Title" = "Tekijän nimi ja osoite";
+
+/* (No Comment) */
+"_EditLabel_DeleteLabelMessage" = "Tämä hävittää tämän merkin lopullisesti ja poistaa sen kaikista liittyvistä kirjauksista sukupuussasi.";
+
+/* Edit Labels Views */
+"_EditLabel_DeleteLabelTitle" = "Poistetaanko merkki todella?";
+
+/* (No Comment) */
+"_EditLabelsContentController_NoLabelsLargePlaceholder" = "Merkkejä ei ole";
+
+/* (No Comment) */
+"_EditLabelsContentController_NoLabelsSmallPlaceholder" = "Tässä sukupuussa ei ole merkkejä. Käytä painiketta yllä merkkien lisäämiseksi.";
+
+/* Shared Labels */
+"_EditLabelsContentController_Title" = "Merkit";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_AddEntryButton" = "Lisää";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_EditMediaRelationAssignmentButton" = "Muokkaa tehtäväaluetta";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_LargePlaceholder" = "Liitettyjä tehtäväalueita ei ole";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_RemoveFromMediaButton" = "Poista";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_RemoveMediaFromEntryAndDeleteInformative" = "Koska tämä on viimeinen tähän mediaan liitetty kirjaus, niin media poistetaan sukupuusta.";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_RemoveMediaFromEntryAndDeleteMessage" = "Haluatko todella poistaa tämän median?";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_RemoveMediaFromEntryInformative" = "Tämä ei poista mediaa, mutta poistaa kirjauksen liittymisen tähän mediaan.";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_RemoveMediaFromEntryMessage" = "Haluatko todella poistaa kirjauksen '%@' tästä mediasta?";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_SmallPlaceholder" = "Käytä painiketta yllä liittääksesi kirjauksia kuten henkilöitä tai perheitä tähän mediaan";
+
+/* EditMediaAssignedEntriesContentController */
+"_EditMediaAssignedEntriesContentController_Title" = "Liitetyt kirjaukset";
+
+/* (No Comment) */
+"_EditMediaContentController_AddMediaButton" = "Lisää mediaa";
+
+/* (No Comment) */
+"_EditMediaContentController_BringToFrontMenuItem" = "Järjestä media eteen";
+
+/* (No Comment) */
+"_EditMediaContentController_DeleteMediaQuestionInformative" = "Haluatko todella poistaa tämän median sukupuustasi?";
+
+/* (No Comment) */
+"_EditMediaContentController_DeleteMediaQuestionMessage" = "Poistetaanko media todella?";
+
+/* (No Comment) */
+"_EditMediaContentController_DeleteMenuItem" = "Poista";
+
+/* (No Comment) */
+"_EditMediaContentController_DoNotUseAsEntryImageMenuItem" = "Älä käytä kirjauskuvana";
+
+/* (No Comment) */
+"_EditMediaContentController_EditMenuItem" = "Muokkaa…";
+
+/* (No Comment) */
+"_EditMediaContentController_LargePlaceholder" = "Mediaa ei ole";
+
+/* (No Comment) */
+"_EditMediaContentController_MarkAsNotPrivateMenuItem" = "Älä merkitse yksityiseksi";
+
+/* (No Comment) */
+"_EditMediaContentController_MarkAsPrivateMenuItem" = "Merkitse yksityiseksi";
+
+/* (No Comment) */
+"_EditMediaContentController_NoPicture_SmallPlaceholder" = "Käytä ylläolevaa painiketta kuvien lisäämiseen.";
+
+/* (No Comment) */
+"_EditMediaContentController_ShowSlideshowButton" = "Diaesitys";
+
+/* (No Comment) */
+"_EditMediaContentController_SmallPlaceholder" = "Käytä painiketta yllä lisätäksesi kuvia, PDF-tiedostoja, videoita, audioita tai webbisivuja";
+
+/* Media */
+"_EditMediaContentController_Title" = "Media";
+
+/* (No Comment) */
+"_EditMediaContentController_UseAsEntryImageMenuItem" = "Käytä kirjauskuvana";
+
+/* EditMediaController */
+"_EditMediaController_LargePlaceholder" = "Mediaa ei ole";
+
+/* (No Comment) */
+"_EditMediaController_SmallPlaceholder" = "Lisää mediaa mediaosioihin kun muokkaat henkilöitä, perheitä tai paikkoja";
+
+/* (No Comment) */
+"_EditMediaController_Title" = "Muokkaa mediaa";
+
+/* (No Comment) */
+"_EditMediaCropColorizeContentController_Explanation" = "Valitse painike yllä tämän kuvan rajaamiseksi, värittämiseksi, naarmujen poistamiseksi, parantamiseksi tai taustan poistamiseksi.";
+
+/* (No Comment) */
+"_EditMediaCropColorizeContentController_OpenCropColorizeButton" = "Muokkaa & paranna kuvaa…";
+
+/* (No Comment) */
+"_EditMediaCropColorizeContentController_SuiteableForColorizeExplanation" = "Tämä kuva näyttää sopivalta värittämiseen. Automaattiväritä, paranna, poista naarmuja tai rajaa kuvia ylläolevaa paiketta käyttäen.";
+
+/* EditMediaCropColorizeContentController */
+"_EditMediaCropColorizeContentController_Title" = "Tekoäly & Rajaa";
+
+/* EditMediaGeneralContentController */
+"_EditMediaGeneralContentController_Title" = "Yleistä";
+
+/* EditMediaMediaPreviewContentController */
+"_EditMediaMediaPreviewContentController_Title" = "Media";
+
+/* (No Comment) */
+"_EditMediaMediaPreviewContentControlleriOSPlatformView_ShowAudioButton" = "Näytä audio…";
+
+/* (No Comment) */
+"_EditMediaMediaPreviewContentControlleriOSPlatformView_ShowFullImageButton" = "Näytä täysikokoinen kuva…";
+
+/* (No Comment) */
+"_EditMediaMediaPreviewContentControlleriOSPlatformView_ShowFullPDFButton" = "Näytä koko PDF…";
+
+/* (No Comment) */
+"_EditMediaMediaPreviewContentControlleriOSPlatformView_ShowVideoButton" = "Näytä video…";
+
+/* (No Comment) */
+"_EditMediaMediaPreviewContentControlleriOSPlatformView_ShowWebsiteButton" = "Näytä webbisivu…";
+
+/* (No Comment) */
+"_EditNotesContentController_AddNoteButton" = "Lisää merkintä";
+
+/* (No Comment) */
+"_EditNotesContentController_DeleteNoteQuestionMessage" = "Poistetaanko merkki todella?";
+
+/* (No Comment) */
+"_EditNotesContentController_LargePlaceholder" = "Ei merkintöjä";
+
+/* (No Comment) */
+"_EditNotesContentController_NoNoteTextPlaceholder" = "Merkintätekstiä ei syötetty";
+
+/* (No Comment) */
+"_EditNotesContentController_SmallPlaceholder" = "Käytä painiketta yllä lisätäksesi uuden merkinnän";
+
+/* (No Comment) */
+"_EditNotesContentController_Sorting_ByChangeDate" = "Muutospäivän mukaan";
+
+/* (No Comment) */
+"_EditNotesContentController_Sorting_ByCreationDate" = "Luomispäivän mukaan";
+
+/* (No Comment) */
+"_EditNotesContentController_Sorting_ByText" = "Tekstin mukaan";
+
+/* EditNotesContentController */
+"_EditNotesContentController_Title" = "Merkinnät";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_AddAdditionalNameButton" = "Lisää nimi";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_AdditionalNamePlaceholder" = "%@ – Lisää tietoja tähän";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_DeleteAdditionalNameQuestionInformative" = "Haluatko todella poistaa tämän lisänimen?";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_DeleteAdditionalNameQuestionMessage" = "Poista lisänimi '%@'?";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_EditAdditionalNameConclusionTypes" = "Muokkaa lisänimityyppejä…";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_LargePlaceholder" = "Lisänimi puuttuu";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_SmallPlaceholder" = "Käytä ylläolevaa painiketta uuden lisänimen lisäämiseksi.";
+
+/* EditPerson Additional Names */
+"_EditPersonAdditionalNamesContentController_Title" = "Lisänimet";
+
+/* (No Comment) */
+"_EditPersonController_AddBrotherMenuItem" = "Lisää uusi veli";
+
+/* (No Comment) */
+"_EditPersonController_AddChildPlaceholder" = "Lisää uusi lapsi";
+
+/* (No Comment) */
+"_EditPersonController_AddExistingFurtherPartnerMenuItem" = "Lisää olemassaoleva henkilö uudeksi puolisoksi…";
+
+/* (No Comment) */
+"_EditPersonController_AddExistingPersonAsChildMenuItem" = "Lisää olemassaoleva henkilö lapseksi";
+
+/* (No Comment) */
+"_EditPersonController_AddExistingPersonAsFatherMenuItem" = "Lisää olemassaoleva henkilö isäksi…";
+
+/* (No Comment) */
+"_EditPersonController_AddExistingPersonAsMotherMenuItem" = "Lisää olemassaoleva henkilö äidiksi";
+
+/* (No Comment) */
+"_EditPersonController_AddExistingPersonAsPartnerMenuItem" = "Lisää olemassaoleva henkilö puolisoksi…";
+
+/* EditPersonController */
+"_EditPersonController_AddFatherPlaceholder" = "Lisää uusi isä";
+
+/* (No Comment) */
+"_EditPersonController_AddFurtherFather" = "Lisää lisä-isä";
+
+/* (No Comment) */
+"_EditPersonController_AddFurtherMother" = "Lisää lisä-äiti";
+
+/* (No Comment) */
+"_EditPersonController_AddFurtherPartnerMenuItem" = "Lisää uusi puoliso";
+
+/* (No Comment) */
+"_EditPersonController_AddMotherPlaceholder" = "Lisää uusi äiti";
+
+/* (No Comment) */
+"_EditPersonController_AddNewPersonAsChildMenuItem" = "Lisää uusi lapsi";
+
+/* (No Comment) */
+"_EditPersonController_AddNewPersonAsFatherMenuItem" = "Lisää uusi isä";
+
+/* (No Comment) */
+"_EditPersonController_AddNewPersonAsMotherMenuItem" = "Lisää uusi äiti";
+
+/* (No Comment) */
+"_EditPersonController_AddNewPersonAsPartnerMenuItem" = "Lisää uusi puoliso";
+
+/* (No Comment) */
+"_EditPersonController_AddNewPersonMenuItem" = "Lisää uusi henkilö";
+
+/* (No Comment) */
+"_EditPersonController_AddPartnerPlaceholder" = "Lisää uusi puoliso";
+
+/* (No Comment) */
+"_EditPersonController_AddSisterMenuItem" = "Lisää uusi sisar";
+
+/* (No Comment) */
+"_EditPersonController_BrotherOrSisterOfFamilyMenuItem" = "Henkilön '%@' veli tai sisar perheessä…";
+
+/* (No Comment) */
+"_EditPersonController_ChildRelationTypeForFatherMenuItem" = "Sukulaisuus isään %@";
+
+/* (No Comment) */
+"_EditPersonController_ChildRelationTypeForMotherMenuItem" = "Sukulaisuus äitiin %@";
+
+/* (No Comment) */
+"_EditPersonController_ChildRelationTypeMenuItem" = "Lapsen sukulaisuuslaji";
+
+/* (No Comment) */
+"_EditPersonController_DeleteFamily" = "Poista perhe";
+
+/* (No Comment) */
+"_EditPersonController_DeletePerson" = "Poista henkilö";
+
+/* (No Comment) */
+"_EditPersonController_DeletePersonMenuItem" = "Poista %@…";
+
+/* (No Comment) */
+"_EditPersonController_EditFamilyMenuItem" = "Muokkaa perhettä %@";
+
+/* (No Comment) */
+"_EditPersonController_EditFamilyMenuItem_WithoutPlaceholder" = "Muokkaa perhettä";
+
+/* (No Comment) */
+"_EditPersonController_EditPersonMenuItem" = "Muokkaa %@";
+
+/* (No Comment) */
+"_EditPersonController_NoPersonsPlaceholder_AddPersonButton" = "Lisää ensimmäinen henkilö";
+
+/* (No Comment) */
+"_EditPersonController_NoPersonsPlaceholder_Message" = "Tässä sukupuussa ei ole yhtään henkilöä. Valitse \"Lisää ensimmäinen henkilö\" luodaksesi ensimmäisen henkilösi.";
+
+/* (No Comment) */
+"_EditPersonController_NoPersonsPlaceholder_Title" = "Henkilöitä ei ole";
+
+/* (No Comment) */
+"_EditPersonController_ParentsOptionsButton" = "Vanhempien valinnat…";
+
+/* (No Comment) */
+"_EditPersonController_PartnerOptionsButton" = "Puolison valinnat…";
+
+/* (No Comment) */
+"_EditPersonController_RemovePersonFromFamilyMenuItem" = "Poista %@ perheestä";
+
+/* (No Comment) */
+"_EditPersonController_RemovePersonQuestionInformative" = "Tämä ei poista henkilöä sukupuustasi, mutta poistaa henkilön tästä perheestä.";
+
+/* (No Comment) */
+"_EditPersonController_RemovePersonQuestionMessage" = "Haluatko todella poistaa henkilön '%@' perheestä '%@'?";
+
+/* (No Comment) */
+"_EditPersonController_SelectFamily" = "Valitse perhe";
+
+/* (No Comment) */
+"_EditPersonController_ShowOldestAncestorsMenuItem" = "Vanhimmat esivanhemmat…";
+
+/* (No Comment) */
+"_EditPersonController_ShowYoungestAncestorsMenuItem" = "Nuorimmat jälkeläiset…";
+
+/* Titles */
+"_EditPersonController_Title" = "Muokkaa henkilöä";
+
+/* (No Comment) */
+"_EditPersonDNAContentController_AddDNATest" = "Lisää DNA testitulos";
+
+/* (No Comment) */
+"_EditPersonDNAContentController_EditDNATestResultButton" = "Muokkaa DNA dataa";
+
+/* (No Comment) */
+"_EditPersonDNAContentController_LargePlaceholder" = "DNA testituloksia ei ole syötetty";
+
+/* (No Comment) */
+"_EditPersonDNAContentController_SmallPlaceholder" = "Käytä painikkeita yllä lisätäksesi DNA testituloksia tälle henkilölle";
+
+/* (No Comment) */
+"_EditPersonDNAContentController_Sorting_ByDate" = "Päivämäärän mukaan";
+
+/* (No Comment) */
+"_EditPersonDNAContentController_Sorting_ByTitle" = "Otsikon mukaan";
+
+/* EditPersonDNAContentController */
+"_EditPersonDNAContentController_Title" = "DNA";
+
+/* (No Comment) */
+"_EditPersonEventController_Title" = "Muokkaa henkilötapahtumaa";
+
+/* (No Comment) */
+"_EditPersonFactController_Title" = "Muokkaa henkilötietoa";
+
+/* EditPersonFactGeneralContentController */
+"_EditPersonFactGeneralContentController_Title" = "Yleistä";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_AddFactButton" = "Lisää tieto";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_DeleteFactQuestionMessage" = "Poistetaanko henkilötieto?";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_EditFactDetails" = "Muokkaa tietojen yksityiskohtia";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_EditPersonFactConclusionTypes" = "Muokkaa henkilötietotyyppejä";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_FactPlaceholder" = "%@ – syötä tietoja tähän";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_LargePlaceholder" = "Faktoja ei ole";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_SmallPlaceholder" = "Käytä ylläolevaa painiketta uuden faktan lisäämiseksi.";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_Sorting_ByFactType" = "Tietotyypin mukaan";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_Sorting_ByFactValue" = "Tietoarvon mukaan";
+
+/* EditPersonFactsContentController */
+"_EditPersonFactsContentController_Title" = "Tiedot";
+
+/* (No Comment) */
+"_EditPersonFamilySearchContentController_DetailsButton" = "Yksityiskohdat";
+
+/* EditPersonFamilySearchContentController */
+"_EditPersonFamilySearchContentController_Title" = "FamilySearch";
+
+/* (No Comment) */
+"_EditPersonGroupController_AddPersonGroupButton" = "Lisää ensimmäinen henkilöryhmä";
+
+/* EditPersonGroupController */
+"_EditPersonGroupController_LargePlaceholder" = "Henkilöryhmiä ei ole";
+
+/* (No Comment) */
+"_EditPersonGroupController_SmallPlaceholder" = "Tässä sukupuussa ei ole henkilöryhmiä. Henkilöryhmiä voidaan käyttää korostamaan erillisiä haaroja sukupuussasi. Valitse \"Lisää ensimmäinen henkilöryhmä\" luodaksesi ensimmäisen henkilöryhmäsi.";
+
+/* (No Comment) */
+"_EditPersonGroupController_Title" = "Muokkaa henkilöryhmää";
+
+/* (No Comment) */
+"_EditPersonGroupGeneralContentController_NamePlaceholder" = "Nimeä ei määritetty";
+
+/* (No Comment) */
+"_EditPersonGroupGeneralContentController_Title" = "Yleistä";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_AddPersonToGroupButton" = "Lisää henkilöitä";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_DeletePersonGroupRelationInformative" = "Tämä ei poista henkilöä eikä henkilöryhmää, mutta henkilö poistetaan tästä henkilöryhmästä.";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_DeletePersonGroupRelationMessage" = "Poista '%@' henkilöryhmästä '%@'?";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_LargePlaceholder" = "Tässä henkilöryhmässä ei ole henkilöitä";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_ManagePersonsInGroupButton" = "Hallitse henkilöitä";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_RemoveFromPersonGroupButton" = "Poista ryhmästä";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_SmallPlaceholder" = "Käytä painiketta yllä lisätäksesi henkilöitä tähän henkilöryhmään.";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_Sorting_ByBirthDate" = "Syntymäpäivän mukaan";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_Sorting_ByName" = "Nimen mukaan";
+
+/* EditPersonGroupPersonsInGroupContentController */
+"_EditPersonGroupPersonsInGroupContentController_Title" = "Henkilöt ryhmässä";
+
+/* (No Comment) */
+"_EditPersonGroupsContentController_NoPersonGroupsLargePlaceholder" = "Henkilöryhmiä ei ole";
+
+/* (No Comment) */
+"_EditPersonGroupsContentController_NoPersonGroupsSmallPlaceholder" = "Tähän sukupuuhun ei ole lisätty henkilöryhmiä. Käytä Henkilöryhmät toimintoa lisätäksesi henkilöryhmiä.";
+
+/* _EditPersonGroupsContentController_Title */
+"_EditPersonGroupsContentController_Title" = "Henkilöryhmät";
+
+/* EditPerson Name */
+"_EditPersonNameContentController_Title" = "Nimi & sukupuoli";
+
+/* (No Comment) */
+"_EditPersonNumberingSystemContentController_NoNumberingSystemAssigned" = "Valitse numerointijärjestelmä alkaen tästä henkilöstä käyttämällä painiketta alla:";
+
+/* (No Comment) */
+"_EditPersonNumberingSystemContentController_NumberingSystemAssignedAndHasValueAndIsNotStartPerson" = "Tällä henkilöllä on numero nykyisessä numerointijärjestelmässä alkaen henkilöstä:";
+
+/* (No Comment) */
+"_EditPersonNumberingSystemContentController_NumberingSystemAssignedAndIsStartPerson" = "Tämä henkilö on aloitushenkilö nykyisessä numerointijärjestelmässä (%@).";
+
+/* (No Comment) */
+"_EditPersonNumberingSystemContentController_NumberingSystemAssignedAndPersonHasNoValue" = "Tällä henkilöllä ei ole numeroa nykyisessä numerointijärjestelmässä. Se tarkoittaa, että tämä henkilö ei ole tämän numerointijärjestelmän aloitushenkilön esivanhempi tai jälkeläinen (%@):";
+
+/* (No Comment) */
+"_EditPersonNumberingSystemContentController_SetNumberingSystemTopLevelMenuItem" = "Numerointijärjestelmä…";
+
+/* EditPersonNumberingSystemContentController */
+"_EditPersonNumberingSystemContentController_Title" = "Numerointijärjestelmä";
+
+/* (No Comment) */
+"_EditPlaceAlternateNamesContentController_AlternatePlaceNamesPlaceholder" = "Syötä tähän mahdolliset vaihtoehtoiset paikannimet";
+
+/* EditPlaceAlternateNamesContentController */
+"_EditPlaceAlternateNamesContentController_Title" = "Vaihtoehtoiset paikannimet";
+
+/* EditPlaceController */
+"_EditPlaceController_LargePlaceholder" = "Paikkoja ei ole";
+
+/* (No Comment) */
+"_EditPlaceController_LookupNewPlaceButton" = "Etsi ensimmäinen paikka";
+
+/* (No Comment) */
+"_EditPlaceController_SmallPlaceholder" = "Syötä paikkoja henkilö- tai perhetapahtumille tai käytä painiketta alla etsiäksesi uuden paikan.";
+
+/* (No Comment) */
+"_EditPlaceController_Title" = "Muokkaa paikkaa";
+
+/* (No Comment) */
+"_EditPlaceCoordinateContentController_AddCoordinateButton" = "Syötä käsin";
+
+/* (No Comment) */
+"_EditPlaceCoordinateContentController_DeleteCoordinateQuestionMessage" = "Poistetaanko koordinaatit?";
+
+/* (No Comment) */
+"_EditPlaceCoordinateContentController_LargePlaceholder" = "Koordinaatteja ei syötetty";
+
+/* (No Comment) */
+"_EditPlaceCoordinateContentController_LookupButton" = "Haku";
+
+/* (No Comment) */
+"_EditPlaceCoordinateContentController_SmallPlaceholder" = "Käytä painikkeita yllä syöttääksesi koordinaatit tälle paikalle käsin tai etsi niitä paikannimen avulla.";
+
+/* (No Comment) */
+"_EditPlaceCoordinateContentController_SmallPlaceholder_CTW" = "Käytä ylläolevaa painiketta lisätäksesi tämän paikan koordinaatit manuaalisesti.";
+
+/* EditPlaceCoordinateContentController */
+"_EditPlaceCoordinateContentController_Title" = "Koordinaatit";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_AddCoordinateButton" = "Lisää koordinaatit";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_AddEmptyPlaceDetail" = "Lisää tyhjä merkittävä paikka";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_AddPlaceDetail" = "Lisää";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_DeletePlaceDetailQuestionMessage" = "Poistetaanko merkittävä paikka todella?";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_EventCount" = "Tapahtumien määrä";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_LargePlaceholder" = "Yhtään paikkatietoa ei syötetty";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_LookupCoordinateButton" = "Etsi koordinaatit…";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_MegeWithOtherPlaceDetailButton" = "Yhdistä toiseen paikkatietoon";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_NoNamePlaceholder" = "Yhtään merkittävää paikannimeä ei syötetty";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_RemoveCoordinateButton" = "Poista koordinaatit";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_SearchOtherPlaceDetail" = "Etsi uusi merkittävä paikka…";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_SmallPlaceholder" = "Käytä 'Lisää' painiketta ylhäällä lisätäksesi paikkatietoja. Paikkatiedot ovat erityisiä osoitteita, osia tai muita kiinnostuskohteita paikassa.";
+
+/* EditPlaceDetailsContentController */
+"_EditPlaceDetailsContentController_Title" = "Paikkatiedot";
+
+/* (No Comment) */
+"_EditPlaceEventsAtPlaceContentController_LargePlaceholder" = "Tapahtumia ei ole lisätty";
+
+/* (No Comment) */
+"_EditPlaceEventsAtPlaceContentController_RemoveFromPlace" = "Poista paikasta";
+
+/* (No Comment) */
+"_EditPlaceEventsAtPlaceContentController_SmallPlaceholder" = "Yhtään henkilö- tai perhetapahtumaa ei ole lisätty tähän paikkaan. Käytä 'Henkilöt' tai 'Perheet' osiota liittääksesi paikkoja tapahtumiin.";
+
+/* (No Comment) */
+"_EditPlaceEventsAtPlaceContentController_Sorting_ByDate" = "Tapahtuma-ajan mukaan";
+
+/* (No Comment) */
+"_EditPlaceEventsAtPlaceContentController_Sorting_ByType" = "Tapahtumatyypin mukaan";
+
+/* EditPlaceEventsAtPlaceContentController */
+"_EditPlaceEventsAtPlaceContentController_Title" = "Tapahtumat paikassa";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_AddField" = "Lisää kenttä…";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_AddTemplateKeyToTemplate" = "Lisää kenttä '%@' malliin '%@'";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_DeleteFieldContentsInformative" = "Haluatko todella poistaa tämän lisätiedon tästä näytetystä paikasta?";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_DeleteFieldContentsMessage" = "Poistetaanko tämä tieto paikasta?";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_EditTemplateKeys" = "Muokkaa paikkakenttiä…";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_LargePlaceholder" = "Enempää paikkakenttiä ei määritetty";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_SmallPlaceholder" = "Voit lisätä lisää paikkakenttiä tälle paikalle, joita ei ole määritelty tälle mallille käyttämällä ylläolevaa painiketta.";
+
+/* EditPlaceFurtherPlaceNameFieldsContentController */
+"_EditPlaceFurtherPlaceNameFieldsContentController_Title" = "Lisää paikan nimikenttiä";
+
+/* (No Comment) */
+"_EditPlaceHeaderContentController_EventCountTitlePlural" = "%d tapahtumaa tässä paikassa";
+
+/* EditPlaceHeaderContentController */
+"_EditPlaceHeaderContentController_EventCountTitleSingular" = "Yksi tapahtuma tässä paikassa";
+
+/* (No Comment) */
+"_EditPlaceHeaderContentController_EventsDateRangePlural" = "Tapahtumien aikajakso";
+
+/* (No Comment) */
+"_EditPlaceHeaderContentController_EventsDateRangeSingular" = "Tapahtumapäivä";
+
+/* (No Comment) */
+"_EditPlaceHeaderContentController_PlaceDetailCountTitlePlural" = "%d paikkatietoa";
+
+/* (No Comment) */
+"_EditPlaceHeaderContentController_PlaceDetailCountTitleSingular" = "Yksi paikkatieto";
+
+/* _EditPlaceLinksContentController_OtherLanguagesButton */
+"_EditPlaceLinksContentController_Title" = "Webbisivut";
+
+/* (No Comment) */
+"_EditPlaceNameContentController_EditTemplates" = "Muokkaa paikkamalleja…";
+
+/* EditPlaceNameContentController */
+"_EditPlaceNameContentController_Title" = "Paikannimi";
+
+/* (No Comment) */
+"_EditPlacePane_Map_PlaceholderButton" = "Etsi koordinaatteja…";
+
+/* (No Comment) */
+"_EditPlacePane_Map_PlaceholderMessage" = "Halutessasi näyttää valitun paikan sijainnin kartalla, etsi tämän paikan maantieteelliset koordinaatit:";
+
+/* (No Comment) */
+"_EditPlacePane_Map_PlaceholderMessagePlaceDetail" = "Halutessasi näyttää valitun paikkatiedon sijainnin kartalla, etsi tämän paikkatiedon maantieteelliset koordinaatit";
+
+/* EditPlacePane */
+"_EditPlacePane_Map_PlaceholderTitle" = "Ei koordinaatteja";
+
+/* (No Comment) */
+"_EditPlacePane_MapKitTypePopupButton" = "Karttatyyppi";
+
+/* (No Comment) */
+"_EditPlacePane_MapKitTypePopupButton_FromPreferences" = "Kuten määritelty asetuksissa";
+
+/* (No Comment) */
+"_EditPlacePane_MapKitTypePopupButton_Hybrid" = "Hybridi";
+
+/* (No Comment) */
+"_EditPlacePane_MapKitTypePopupButton_Satellite" = "Satelliitti";
+
+/* (No Comment) */
+"_EditPlacePane_MapKitTypePopupButton_Standard" = "Standardi";
+
+/* (No Comment) */
+"_EditPlacePane_MapKitTypePopupButton_StandardMuted" = "Standardi (äänetön)";
+
+/* (No Comment) */
+"_EditPlacePane_MapOptionsButton" = "Kartta valinnat";
+
+/* (No Comment) */
+"_EditPlacePane_OnlyShowPlaceDetailsForSelectedPlaceOnMapCheckbox" = "Näytä paikkatiedot vain kun paikka on valittu";
+
+/* (No Comment) */
+"_EditPlacePane_OnlyShowSelectedPlaceOnMapCheckbox" = "Näytä vain valittu paikka kartalla";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton" = "Nuppineulan väri";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton_ByEventCount_BlueToMagentaToOrange" = "Tapahtumamäärän mukaan (Sinisestä Magnetan kautta Oranssiin)";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton_ByEventCount_BlueToRed" = "Tapahtumamäärän mukaan (Sinisestä Punaiseen)";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton_ByEventCount_GreenToYellowToRed" = "Tapahtumamäärän mukaan (Vihreästä Keltaisen kautta Punaiseen)";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton_ByEventCount_TurquoiseToYellowToLightRed" = "Tapahtumamäärän mukaan (Turkoosista Keltaisen kautta Vaaleanpunaiseen)";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton_ByEventCount_YellowToRed" = "Tapahtumamäärän mukaan (Keltaisesta Punaiseen)";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton_SingleColor" = "Yksivärinen";
+
+/* (No Comment) */
+"_EditPlacePane_ShowEventCountOnPlacePins" = "Näytä tapahtumamäärä nuppineuloilla";
+
+/* (No Comment) */
+"_EditPrivateContentController_Explanation" = "Jos valittu, tämä tieto ei näy kaavioissa tai raporteissa";
+
+/* (No Comment) */
+"_EditPrivateContentController_MarkAsPrivate" = "Merkitty yksityiseksi";
+
+/* EditPrivateContentController */
+"_EditPrivateContentController_Title" = "Yksityinen";
+
+/* EditReferenceNumbersContentController */
+"_EditReferenceNumbersContentController_Title" = "Viitenumerot";
+
+/* (No Comment) */
+"_EditSourceContentController_AddToDoButton" = "Lisää ensimmäinen lähde";
+
+/* (No Comment) */
+"_EditSourceContentController_DeleteSourceQuestionMessage" = "Poistetaanko lähde todella?";
+
+/* EditSourceContentController */
+"_EditSourceContentController_LargePlaceholder" = "Lähteitä ei ole";
+
+/* (No Comment) */
+"_EditSourceContentController_SmallPlaceholder" = "Tässä sukupuussa ei ole lähteitä. Valitse \"Lisää ensimmäinen lähde\" luodaksesi ensimmäisen lähteesi.";
+
+/* (No Comment) */
+"_EditSourceController_Title" = "Muokkaa lähteitä";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_AddField" = "Lisää kenttä…";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_AddTemplateKeyToTemplate" = "Lisää kenttä '%@' malliin '%@'";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_DeleteFieldContentsInformative" = "Haluatko todella poistaa tämän lisätiedon nyt näytettävästä lähteestä?";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_DeleteFieldContentsMessage" = "Poistetaanko tämä tieto lähteestä?";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_EditTemplateKeys" = "Muokkaa lähdekenttiä…";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_LargePlaceholder" = "Lisätietokenttiä ei ole määritelty";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_SmallPlaceholder" = "Voit lisätä lisätietoa tähän lähteeseen, joka ei ole määritelty valittuun malliin käyttäen painiketta yllä.";
+
+/* EditSourceFurtherFieldsContentController */
+"_EditSourceFurtherFieldsContentController_Title" = "Lisätietoa";
+
+/* (No Comment) */
+"_EditSourceGeneralContentController_EditSourceRepository" = "Muokkaa lähteiden säilytyspaikkoja…";
+
+/* (No Comment) */
+"_EditSourceGeneralContentController_EditTemplates" = "Muokkaa lähdemalleja…";
+
+/* EditSourceGeneralContentController */
+"_EditSourceGeneralContentController_Title" = "Lähdetietoja";
+
+/* (No Comment) */
+"_EditSourceGeneralContentController_TitlePlaceholder" = "Otsikkoa ei määritelty";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_AddEntryToSourceButton" = "Lisää kirjaus";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_CitationNotes" = "Lainausmerkinnät";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_LargePlaceholder" = "Viitattuja kirjauksia ei ole";
+
+/* EditSourceReferencedEntriesContentController */
+"_EditSourceReferencedEntriesContentController_RemoveFromSourceButton" = "Poista lähteestä";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_SmallPlaceholder" = "Käytä painiketta yllä lisätäksesi viitattuja kirjauksia tähän lähteeseen";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_Sorting_ByPage" = "Sivun mukaan";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_Sorting_ByType" = "Lajin mukaan";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_Title" = "Viitattuja kirjauksia";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_EvidenceExplanation" = "Määrittele tässä lähteen todistuksen laatu.";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_EvidenceQuality" = "Todisteen laatu";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_GeneralExplanation" = "Valitse lähteen-, tiedon ja todistuksen laatu tälle lähteelle ja lainatulle kirjaukselle:";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_InformationExplanation" = "Ovatko tämän lähteen tiedot ensikäden vai toisenkäden tietoja?";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_InformationQuality" = "Tiedon laatu";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_QualityExplanation" = "Valitse onko lähde alkuperäinen dokumentti vai onko se johdannainen.";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_SourceQuality" = "Lähteen laatu";
+
+/* EditSourceRelationCertaintySettingsCertaintyViewContentController */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_Title" = "Lähteen varmuus";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_AddExistingSourceMenuItem" = "Lisää olemassaoleva lähde…";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_AddNewSourceMenuItem" = "Lisää uusi lähde";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_AddSourceButton" = "Lisää lähde";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_CitedSource" = "Siteerattu lähde";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_CopySourceCitation" = "Kopioi lähdelainaus";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_DeleteSourceMenuItem" = "Poista lähde";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_LargePlaceholder" = "Lähdelainauksia ei ole";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_PasteSourceCitation" = "Sijoita lähdelainaus";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_RemoveObjectFromSourceInformative" = "Haluatko todella poistaa tämän lähdelainauksen? Se ei poista lähdettä, mutta poistaa tämän kirjauksen lähteestä.";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_RemoveObjectFromSourceMessage" = "Poistetaanko kirjaus lähteestä '%@'?";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_SmallPlaceholder" = "Käytä painiketta yllä lisätäksesi lähdelainauksia tähän kirjaukseen";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_Sorting_ByCertainty" = "Järjestä lähteen varmuuden mukaan";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_Sorting_ByDate" = "Järjestä lähteen päivän mukaan";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_Sorting_ByPage" = "Järjestä sivunumeron mukaan";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_Sorting_ByTitle" = "Järjestä lähteen otsikon mukaan";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_SourceDate" = "Lähteen päivä";
+
+/* EditSourceRelationsContentController */
+"_EditSourceRelationsContentController_Title" = "Lähdelainaukset";
+
+/* (No Comment) */
+"_EditSourceSourceRepositoryContentController_NoSourceRepository" = "Ei lähdearkistoa";
+
+/* EditSourceSourceRepositoryContentController */
+"_EditSourceSourceRepositoryContentController_Title" = "Lähdearkisto";
+
+/* (No Comment) */
+"_EditSourceTextContentController_LargePlaceholder" = "Tekstiä ei syötetty";
+
+/* (No Comment) */
+"_EditSourceTextContentController_SmallPlaceholder" = "Osoita tähän lisätäksesi tekstiä tähän lähteeseen";
+
+/* EditSourceTextContentController */
+"_EditSourceTextContentController_Title" = "Lähdeteksti";
+
+/* (No Comment) */
+"_EditStoryContentController_AddStoryButton" = "Lisää ensimmäinen tarina";
+
+/* (No Comment) */
+"_EditStoryContentController_LargePlaceholder" = "Tarinoita ei ole";
+
+/* (No Comment) */
+"_EditStoryContentController_SmallPlaceholder" = "Toistaiseksi yhtään tarinaa ei ole lisätty tähän sukupuuhun. Käytä tarinoita kertoaksesi ja tallettaaksesi perhehistoriasi tapahtumia. Valitse \"Lisää ensimmäinen tarina\" luodaksesi ensimmäisen tarinasi.";
+
+/* (No Comment) */
+"_EditStoryController_Title" = "Muokkaa tarinaa";
+
+/* EditStoryController */
+"_EditStoryGeneralContentController_Title" = "Yleistä";
+
+/* (No Comment) */
+"_EditStoryGeneralContentController_TitlePlaceholder" = "Otsikko puuttuu";
+
+/* (No Comment) */
+"_EditStoryReferencedEntriesContentController_AddEntryToStoryButton" = "Lisää kirjaus";
+
+/* (No Comment) */
+"_EditStoryReferencedEntriesContentController_LargePlaceholder" = "Viitattuja kirjauksia ei ole";
+
+/* (No Comment) */
+"_EditStoryReferencedEntriesContentController_SmallPlaceholder" = "Käytä painikkeita lisätäksesi henkilöitä, tapahtumia tai perheitä joihin tässä tarinassa on viitattu.";
+
+/* (No Comment) */
+"_EditStoryReferencedEntriesContentController_Title" = "Viitatut kirjaukset";
+
+/* (No Comment) */
+"_EditStoryRelationsContentController_AddExistingStoryMenuItem" = "Lisää olemassaoleva tarina…";
+
+/* (No Comment) */
+"_EditStoryRelationsContentController_AddExistingStorySectionMenuItem" = "Lisää olemassaoleva tarinan kappale…";
+
+/* (No Comment) */
+"_EditStoryRelationsContentController_AddNewStoryMenuItem" = "Lisää uusi tarina";
+
+/* (No Comment) */
+"_EditStoryRelationsContentController_AddStoryButton" = "Lisää tarina";
+
+/* (No Comment) */
+"_EditStoryRelationsContentController_LargePlaceholder" = "Tarinoita ei ole";
+
+/* (No Comment) */
+"_EditStoryRelationsContentController_SmallPlaceholder" = "Käytä painiketta yllä lisätäksesi uuden tai olemassaolevan tarinan.";
+
+/* EditStoryRelationsContentController */
+"_EditStoryRelationsContentController_Title" = "Tarinat";
+
+/* (No Comment) */
+"_EditStorySectionReferencedEntriesContentController_AddEntryToStorySectionButton" = "Lisää kirjaus";
+
+/* (No Comment) */
+"_EditStorySectionReferencedEntriesContentController_LargePlaceholder" = "Viitattuja kirjauksia ei ole";
+
+/* (No Comment) */
+"_EditStorySectionReferencedEntriesContentController_SmallPlaceholder" = "Käytä painikkeita lisätäksesi henkilöitä, tapahtumia tai perheitä joihin tässä tarinan kappaleessa on viitattu.";
+
+/* EditStorySectionReferencedEntriesContentController */
+"_EditStorySectionReferencedEntriesContentController_Title" = "Viitatut kirjaukset tässä kappaleessa";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_AddMedia" = "Lisää mediaa";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_AddStorySecton" = "Lisää tarinan kappale";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_LargePlaceholder" = "Tarinan kappaleita ei ole";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_MoveDown" = "Siirrä kappaletta alas";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_MoveUp" = "Siirrä kappaletta ylös";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_NoStorySectionRelationsPlaceholder" = "Viitattuja kirjauksia ei ole";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_NoSubtitlePlaceholder" = "Kappaleen otsikkoa ei ole";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_NoTextPlaceholder" = "Kappaleen tekstiä ei ole";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_SmallPlaceholder" = "Käytä painiketta yllä lisätäksesi tähän tarinaan ensimmäisen kappaleen";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_StorySectionRelations" = "Viitattuja kirjauksia kappaleessa";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_Title" = "Tarinan kappaleet";
+
+/* (No Comment) */
+"_EditToDoAssignedEntriesContentController_AddEntryButton" = "Lisää kirjaus";
+
+/* (No Comment) */
+"_EditToDoAssignedEntriesContentController_LargePlaceholder" = "Liitettyjä kirjauksia ei ole";
+
+/* (No Comment) */
+"_EditToDoAssignedEntriesContentController_SmallPlaceholder" = "Valitse painike yllä lisätäksesi kirjauksia sukupuustasi tähän tehtävään";
+
+/* (No Comment) */
+"_EditToDoAssignedEntriesContentController_Sorting_ByDate" = "Päivän mukaan";
+
+/* (No Comment) */
+"_EditToDoAssignedEntriesContentController_Sorting_ByName" = "Nimen mukaan";
+
+/* EditToDoAssignedEntriesContentController */
+"_EditToDoAssignedEntriesContentController_Title" = "Liitetyt kirjaukset";
+
+/* (No Comment) */
+"_EditToDoContentController_AddExistingToDoMenuItem" = "Lisää olemassaoleva tehtävä";
+
+/* (No Comment) */
+"_EditToDoContentController_AddNewToDoMenuItem" = "Lisää uusi tehtävä";
+
+/* (No Comment) */
+"_EditToDoContentController_AddToDoButton" = "Lisää tehtävä";
+
+/* (No Comment) */
+"_EditToDoContentController_LargePlaceholder" = "Tehtäviä ei ole";
+
+/* (No Comment) */
+"_EditToDoContentController_NoDateEnteredPlaceholder" = "Päivää ei ole syötetty";
+
+/* (No Comment) */
+"_EditToDoContentController_NoTitleEnteredPlaceholder" = "Otsikkoa ei ole syötetty";
+
+/* (No Comment) */
+"_EditToDoContentController_RemoveFromToDoButton" = "Poista tehtävistä";
+
+/* (No Comment) */
+"_EditToDoContentController_SmallPlaceholder" = "Käytä painikkeita yllä lisätäksesi uuden tai olemassaolevan tehtävän";
+
+/* EditToDosContentController */
+"_EditToDoContentController_Title" = "Tehtävät";
+
+/* (No Comment) */
+"_EditToDoController_AddToDoButton" = "Lisää ensimmäinen tehtävä";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosInformative" = "Haluatko todella poistaa sukupuustasi kaikki Tehtävät jotka on merkitty valmiiksi?";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosInformative_NoDoneFound" = "Sukupuussasi ei ole yhtään Tehtävää merkitty valmiiksi, joten niistä yhtään ei ole poistettu.";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosMessage" = "Poistetaanko todella %d valmiiksi merkittyä Tehtävää?";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosMessage_NoDoneFound" = "Yhtään valmiiksi merkittyä Tehtävää ei löytynyt";
+
+/* EditToDoController */
+"_EditToDoController_LargePlaceholder" = "Tehtäviä ei ole";
+
+/* (No Comment) */
+"_EditToDoController_SmallPlaceholder" = "Tässä sukupuussa ei ole tehtäviä. Valitse \"Lisää ensimmäinen tehtävä\" luodaksesi ensimmäisen tehtäväsi.";
+
+/* (No Comment) */
+"_EditToDoController_Title" = "Muokkaa tehtävää";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditPriorityConclusionTypes" = "Muokkaa tärkeystyyppejä…";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditStatusConclusionTypes" = "Muokkaa tilatyyppejä…";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditTypeConclusionTypes" = "Muokkaa tyyppejä…";
+
+/* EditToDoGeneralContentController */
+"_EditToDoGeneralContentController_Title" = "Yleistä";
+
+/* (No Comment) */
+"_EditToDosContentController_Sorting_ByDueDate" = "Päivämäärän mukaan";
+
+/* (No Comment) */
+"_EditToDosContentController_Sorting_ByPriority" = "Tärkeyden mukaan";
+
+/* (No Comment) */
+"_EditToDosContentController_Sorting_ByStatus" = "Tilan mukaan";
+
+/* (No Comment) */
+"_EditToDosContentController_Sorting_ByTitle" = "Otsikon mukaan";
+
+/* (No Comment) */
+"_EditToDosContentController_Sorting_ByType" = "Lajin mukaan";
+
+/* (No Comment) */
+"_EditToDoTextContentController_LargePlaceholder" = "Tekstiä ei syötetty";
+
+/* (No Comment) */
+"_EditToDoTextContentController_SmallPlaceholder" = "Osoita tähän syöttääksesi tekstiä tähän tehtävään";
+
+/* EditToDoTextContentController */
+"_EditToDoTextContentController_Title" = "Teksti";
+
+/* (No Comment) */
+"_FreeformControlsEventsControlDescription_NEvents" = "%d tapahtumaa";
+
+/* (No Comment) */
+"_FreeformControlsEventsControlDescription_OneEvent" = "1 tapahtuma";
+
+/* Specialized Freeform Controls */
+"_FreeformControlsNotesControlDescription_NNotes" = "%d merkintää";
+
+/* (No Comment) */
+"_FreeformControlsNotesControlDescription_OneNote" = "1 merkintä";
+
+/* (No Comment) */
+"_FreeformControlsSourceRelationsControlDescription_NSources" = "%d lähdettä";
+
+/* (No Comment) */
+"_FreeformControlsSourceRelationsControlDescription_OneSource" = "1 lähde";
+
+/* (No Comment) */
+"_FreeformControlsStorySectionRelationsControlDescription_NRelations" = "%d viitattua kirjausta";
+
+/* (No Comment) */
+"_FreeformControlsStorySectionRelationsControlDescription_OneRelation" = "Yksi viitattu kirjaus";
+
+/* (No Comment) */
+"_FreeformControlsTextFieldControlDescription_NoMicrophoneAvailableDescription" = "Mikrofonia ei löytynyt";
+
+/* (No Comment) */
+"_FreeformControlsTextFieldControlDescription_NoMicrophoneAvailableRecovery" = "Mikrofoni tarvitaan puheentunnistukseen. Varmista että mikrofoni on käytettävissä eikä jonkun toisen ohjelman käytössä.";
+
+/* (No Comment) */
+"_FreeformControlsTextFieldControlDescription_SpeechNotGrantedDescription" = "Puheentunnistukseen tarvitaan lupa";
+
+/* (No Comment) */
+"_FreeformControlsTextFieldControlDescription_SpeechNotGrantedRecovery" = "Sukupuulla ei ole lupaa puheentunnistukseen. Anna sukupuulle lupa käyttämällä yksityisyysasetuksia Asetukset appissa.";
+
+/* (No Comment) */
+"_InteractiveTreeEditFamilyController_Title" = "Vuorovaikutteinen puu – Perheet";
+
+/* InteractiveTreeEditFamilySearchPersonSummaryContentController */
+"_InteractiveTreeEditFamilySearchPersonSummaryContentController_Title" = "Henkilöyhteenveto";
+
+/* InteractiveTreeEditPersonActionsContentController */
+"_InteractiveTreeEditPersonActionsContentController_Title" = "Toiminnot";
+
+/* (No Comment) */
+"_InteractiveTreeEditPersonController_SelectPersonsPlaceholder_Message" = "Valitse henkilö- tai perheyhteys aloittaaksesi muokkauksen";
+
+/* InteractiveTreeEditPersonController */
+"_InteractiveTreeEditPersonController_SelectPersonsPlaceholder_Title" = "Valitse henkilö tai perhe";
+
+/* (No Comment) */
+"_InteractiveTreeEditPersonController_Title" = "Vuorovaikutteinen puu – Henkilöt";
+
+/* (No Comment) */
+"_ManagePersonGroupPersons_NoPersonsInGroup" = "Yksikään henkilö ei ole osa tätä henkilöryhmää";
+
+/* (No Comment) */
+"_ManagePersonGroupPersons_NoPersonsLeftToAdd" = "Kaikki sukupuusi henkilöt on lisätty tähän henkilöryhmään";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsAddRelatives_Title" = "Lisää sukulaisia ryhmään";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsController_AddPersonsToGroup" = "Lisää henkilöitä ryhmään";
+
+/* ManagePersonGroupPersonsController */
+"_ManagePersonGroupPersonsController_Title" = "Ryhmän henkilöt";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_AllGenerations" = "Kaikki sukupolvet";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_AllRelativesOfChildren" = "Lisää kaikki jälkeläisten sukulaiset";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_AllRelativesOfParents" = "Lisää esipolvien kaikki sukulaiset";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_AllRelativesOfPartners" = "Lisää puolisoiden kaikki sukulaiset";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_Children" = "Lisää henkilön kaikki jälkeläiset";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_Explanation" = "Valitse mitkä henkilön '%@' sukulaiset haluat lisätä tähän henkilöryhmään:";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_GenerationsToCollect" = "Käytettävät sukupolvet";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_Parents" = "Lisää henkilön kaikki esipolvet";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_Partners" = "Lisää puolisot ryhmään";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_PartnersOfChildren" = "Lisää jälkeläisten kaikki puolisot";
+
+/* PlaceLookupControllerResultPlacePreviewLinksContentController */
+"_PlaceLookupControllerResultPlacePreviewLinksContentController_Title" = "Webbisivut";
+
+/* PlaceLookupControllerResultPlacePreviewNamesContentController */
+"_PlaceLookupControllerResultPlacePreviewNamesContentController_Title" = "Nimet";
+
+/* (No Comment) */
+"_SectionIdentifier_aboveMainFullWidth" = "Pääalueen yläpuolella – Täysi leveys";
+
+/* Section Identifiers */
+"_SectionIdentifier_main" = "Pääalue";
+
+/* (No Comment) */
+"_SectionIdentifier_parents" = "Vanhempien alue";
+
+/* (No Comment) */
+"_SectionIdentifier_top" = "Otsikkoalue";
+

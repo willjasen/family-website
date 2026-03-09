@@ -1,0 +1,42 @@
+﻿/* Evidence */
+"_SourceRelation_Evidence" = "Todistus";
+
+/* (No Comment) */
+"_SourceRelation_Evidence_Direct" = "Suora";
+
+/* (No Comment) */
+"_SourceRelation_Evidence_DontKnow" = "Ei tiedossa";
+
+/* (No Comment) */
+"_SourceRelation_Evidence_Indirect" = "Epäsuora";
+
+/* (No Comment) */
+"_SourceRelation_Evidence_Negative" = "Kielteinen";
+
+/* Information */
+"_SourceRelation_Information" = "Tieto";
+
+/* (No Comment) */
+"_SourceRelation_Information_DontKnow" = "Ei tiedossa";
+
+/* (No Comment) */
+"_SourceRelation_Information_Primary" = "Ensisijainen";
+
+/* (No Comment) */
+"_SourceRelation_Information_Secondary" = "Toissijainen";
+
+/* Certainty string */
+"_SourceRelation_NoCertaintyInformation" = "Ei määritelty";
+
+/* Quality */
+"_SourceRelation_Quality" = "Laatu";
+
+/* (No Comment) */
+"_SourceRelation_Quality_Derivative" = "Johdos";
+
+/* (No Comment) */
+"_SourceRelation_Quality_DontKnow" = "Ei tiedossa";
+
+/* (No Comment) */
+"_SourceRelation_Quality_Original" = "Alkuperäinen";
+

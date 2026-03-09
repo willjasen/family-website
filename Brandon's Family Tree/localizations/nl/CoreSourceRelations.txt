@@ -1,0 +1,42 @@
+﻿/* Evidence */
+"_SourceRelation_Evidence" = "Bewijs";
+
+/* (No Comment) */
+"_SourceRelation_Evidence_Direct" = "Direct";
+
+/* (No Comment) */
+"_SourceRelation_Evidence_DontKnow" = "Onbekend";
+
+/* (No Comment) */
+"_SourceRelation_Evidence_Indirect" = "Indirect";
+
+/* (No Comment) */
+"_SourceRelation_Evidence_Negative" = "Negatief";
+
+/* Information */
+"_SourceRelation_Information" = "Informatie";
+
+/* (No Comment) */
+"_SourceRelation_Information_DontKnow" = "Onbekend";
+
+/* (No Comment) */
+"_SourceRelation_Information_Primary" = "Primair";
+
+/* (No Comment) */
+"_SourceRelation_Information_Secondary" = "Secundair";
+
+/* Certainty string */
+"_SourceRelation_NoCertaintyInformation" = "Niet opgegeven";
+
+/* Quality */
+"_SourceRelation_Quality" = "Kwaliteit";
+
+/* (No Comment) */
+"_SourceRelation_Quality_Derivative" = "Afgeleid";
+
+/* (No Comment) */
+"_SourceRelation_Quality_DontKnow" = "Onbekend";
+
+/* (No Comment) */
+"_SourceRelation_Quality_Original" = "Origineel";
+

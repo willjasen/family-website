@@ -1,0 +1,1134 @@
+﻿/* BurnWebSiteExportPublish */
+"_BurnWebSiteExportPublish_Title" = "Записать веб-сайт на CD/DVD";
+
+/* FTPWebSiteExportPublish */
+"_FTPWebSiteExportPublish_Title" = "Загрузить на FTP сервер";
+
+/* (No Comment) */
+"_FTPWebSiteExportPublish_UploadFailed" = "Ошибка загрузки по FTP";
+
+/* (No Comment) */
+"_FTPWebSiteExportPublish_UploadFinishedMessage" = "Загрузка на FTP-сервер '%@' завершена за %@.";
+
+/* (No Comment) */
+"_FTPWebSiteExportPublish_UploadFinishedTitle" = "Загрузка по FTP завершена";
+
+/* (No Comment) */
+"_FTPWebSiteExportPublish_UploadProgress" = "Загружено %.2f из %.2f MB";
+
+/* (No Comment) */
+"_FTPWebSiteExportPublish_UploadProgressHeadline" = "Загрузка на FTP-сервер…";
+
+/* (No Comment) */
+"_MacFamilyTreeComEditTree_NoPasswordEntered" = "Пожалуйста, введите пароль для вашего веб-сайта на MacFamilyTree.com";
+
+/* MacFamilyTreeComEditTree */
+"_MacFamilyTreeComEditTree_Title" = "Изменить настройки древа";
+
+/* MacFamilyTreeComEditUser */
+"_MacFamilyTreeComEditUser_Title" = "Редактировать мой аккаунт";
+
+/* (No Comment) */
+"_MacFamilyTreeComLoginView_ForgotPasswordButton" = "Забыл пароль";
+
+/* (No Comment) */
+"_MacFamilyTreeComLoginView_LoginButton" = "Учётная запись";
+
+/* (No Comment) */
+"_MacFamilyTreeComLoginView_Password" = "Пароль:";
+
+/* (No Comment) */
+"_MacFamilyTreeComLoginView_RegisterButton" = "Создать новую учётную запись";
+
+/* MacFamilyTreeComLoginView */
+"_MacFamilyTreeComLoginView_UserName" = "Имя пользователя:";
+
+/* MacFamilyTreeComRegisterNewTree */
+"_MacFamilyTreeComRegisterNewTree_Title" = "Загрузить новый веб-сайт";
+
+/* MacFamilyTreeComRegisterNewUser */
+"_MacFamilyTreeComRegisterNewUser_Title" = "Зарегистрировать на MacFamilyTree.com";
+
+/* (No Comment) */
+"_MacFamilyTreeComWebSiteExportPublish_ListTopHint" = "Пожалуйста, выберите веб-сайт для замены из списка ниже или загрузите новый.";
+
+/* (No Comment) */
+"_MacFamilyTreeComWebSiteExportPublish_NoTreesPresentMessage" = "На данный момент нет загруженных веб-сайтов на MacFamilyTree.com. Пожалуйста, используйте кнопку «Новый веб-сайт», для загрузки первого веб-сайта.";
+
+/* (No Comment) */
+"_MacFamilyTreeComWebSiteExportPublish_NoTreesPresentTitle" = "На MacFamilyTree.com нет веб-сайтов";
+
+/* (No Comment) */
+"_MacFamilyTreeComWebSiteExportPublish_ReplaceExistingTreeButton" = "Заменить веб-сайт";
+
+/* MacFamilyTreeComWebSiteExportPublish */
+"_MacFamilyTreeComWebSiteExportPublish_Title" = "Загрузить на MacFamilyTree.com";
+
+/* (No Comment) */
+"_MacFamilyTreeComWebSiteExportPublish_UploadNewTreeButton" = "Новый веб-сайт";
+
+/* (No Comment) */
+"_MacFamilyTreeComWebSiteExportPublish_UploadProgressHeadline" = "Загрузка на MacFamilyTree.com...";
+
+/* (No Comment) */
+"_ManageMacFamilyTreeCom_DeleteTree_Informative" = "Вы действительно хотите удалить веб-сайт '%@' на MacFamilyTree.com? Это действие нельзя отменить.";
+
+/* (No Comment) */
+"_ManageMacFamilyTreeCom_DeleteTree_Message" = "Действительно удалить веб-сайт на MacFamilyTree.com?";
+
+/* (No Comment) */
+"_ManageMacFamilyTreeCom_EditUserButton" = "Редактировать мой аккаунт";
+
+/* (No Comment) */
+"_ManageMacFamilyTreeCom_ListTopHint" = "Ниже перечислены все веб-сайты, созданные на MacFamilyTree.com. Вы можете их удалить или изменить название, а также защитить паролем, выбрав веб-сайт. Чтобы заменить контент, отредактируйте или добавьте веб-сайт на предыдущем экране и выберите \"Опубликовать\".";
+
+/* (No Comment) */
+"_ManageMacFamilyTreeCom_LogoutButton" = "Выход";
+
+/* (No Comment) */
+"_ManageMacFamilyTreeCom_NoTreesPresentMessage" = "Вы не загрузили ни одного веб-сайта на MacFamilyTree.com. Для загрузки, создайте веб-сайт на предыдущем экране и загрузите его на MacFamilyTree.com.";
+
+/* (No Comment) */
+"_ManageMacFamilyTreeCom_NoTreesPresentTitle" = "На MacFamilyTree.com нет веб-сайтов";
+
+/* ManageMacFamilyTreeCom */
+"_ManageMacFamilyTreeCom_Title" = "Управление веб-сайтами и учётной записью на MacFamilyTree.com";
+
+/* (No Comment) */
+"_WebSiteExport_Beach_Theme" = "Пляж";
+
+/* (No Comment) */
+"_WebSiteExport_Blue_Theme" = "Голубые горы";
+
+/* (No Comment) */
+"_WebSiteExport_BurnCDMenuItem" = "Записать на CD/DVD…";
+
+/* (No Comment) */
+"_WebSiteExport_Chart_Page_Chart_Section_Title" = "Сохранённая диаграмма";
+
+/* (No Comment) */
+"_WebSiteExport_Charts_Page_Charts_Section_Title" = "Сохранённые диаграммы";
+
+/* Saved Charts Page */
+"_WebSiteExport_Charts_Page_Title_Section_Title" = "Диаграммы";
+
+/* Themes */
+"_WebSiteExport_Classic_Theme" = "Классическая";
+
+/* (No Comment) */
+"_WebSiteExport_Clean_Theme" = "Чистая";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ActiveLinkColor" = "Цвет активной ссылки";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_BlurRadius" = "Радиус размытия";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Color" = "Цвет";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ColorizePersonPlaceholderImages" = "Оттенок по полу";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_CustomHomePageImage" = "Выберите ниже изображение, для отображения на домашней странице.";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_DisableAnimations" = "Отключить анимацию";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_DNAPageSettings" = "DNA страница";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_EnabledStatisticChartTypes" = "Статистические диаграммы";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_EventPageSettings" = "Страница события";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ExportPersonsModeAll" = "Все люди";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ExportPersonsModeFromPersonGroups" = "Люди в группах человека";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ExportPersonsModeFromScope" = "Люди в умном фильтре";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_FamilyPageSettings" = "Семейная страница";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Font" = "Шрифт";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HideDetailsOfLivingPersons" = "Скрыть данные о живых людях";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HideInformationMarkedAsPrivate" = "Скрыть информацию, отмеченную как личная";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Highlight_Color_Number" = "Цвет #%d";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HomePageImageType" = "Изображение";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HomePageImageType_CustomImage" = "Пользовательское изображение";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HomePageImageType_FamilyCrest" = "Семейный герб";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HomePageImageType_None" = "Нет";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HomePageImageType_StartPerson" = "От первого человека";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HomePageSettings" = "Домашняя страница";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartAlignment" = "Выравнивание диаграммы Песочные часы";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartConnectionItemCornerRadius" = "Радиус закругления";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartPersonItemBorderColor" = "Цвет границы";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartPersonItemBorderWidth" = "Ширина границы";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartPersonItemCornerRadius" = "Радиус закругления";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartPersonItemSubTitleColor" = "Цвет подзаголовка";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartPersonItemSubTitleFont" = "Шрифт подзаголовка";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartPersonItemTitleColor" = "Цвет заголовка";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartPersonItemTitleFont" = "Шрифт заголовка";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartSelectedPersonItemBorderWidth" = "Выбранная ширина границы";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ImprintPageSettings" = "Выходные данные";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeAudio" = "Аудио медиа";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeDNA" = "DNA информация";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeGEDCOMFile" = "Загружаемый GEDCOM файл";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeLabels" = "Метки";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeLastEdited" = "Последнее редактирование";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeNumberingSystemString" = "Информация о системе нумерации";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludePDFs" = "PDF";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludePersonGroups" = "Группы человека";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludePictures" = "Изображения";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeSavedCharts" = "Сохранённые диаграммы";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeSources" = "Источники";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeStories" = "Истории";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeURLs" = "URL";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeVideos" = "Видео";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Label_For_Family_Members" = "Метка для членов семьи";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Label_For_Family_Members_Use_Man_Woman" = "Использовать мужчина/женщина";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Label_For_Family_Members_Use_Partner1_Partner2" = "Используйте партнёр 1/партнёр 2";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Language_Label" = "Язык";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_LinkColor" = "Цвет ссылки";
+
+/* Configuration */
+"_WebSiteExport_Configuration_MajorGroupTitle_General" = "Общие";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MajorGroupTitle_HourglassChart" = "График 'Песочные часы'";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MajorGroupTitle_Pages" = "Страницы";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MajorGroupTitle_Persons" = "Люди";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MajorGroupTitle_Theme" = "Тема";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MediaPageSettings" = "Медиа страница";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MidGroupTitle_HourglassChartOtherPersonItem" = "Другие люди";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MidGroupTitle_HourglassChartSelectedPersonItem" = "Выбранный человек";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Animations" = "Анимация";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_ExportOptions" = "Параметры";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_ExportPersonsMode" = "Люди, которых следует включить";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_HighlightColors" = "Цвета выделения";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_HomePageImage" = "Изображение";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_HomePageIntroduction" = "Введение";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_HourglassChart_Background" = "Фон";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_HourglassChart_ConnectionItem" = "Соединения";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_HourglassChart_PersonItem" = "Люди";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_ImprintAuthorContact" = "Контакты автора";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Includes" = "Включать";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Introduction" = "Введение";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Links" = "Ссылки";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Menu" = "Меню";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_PageSections" = "Разделы страницы";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_PersonPageHourglassChart" = "Диаграмма Песочные часы";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Persons" = "Люди";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Privacy" = "Конфиденциальность";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Sections" = "Разделы";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_StartPerson" = "Первый человек";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_ThemeImages" = "Изображения тем";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Title" = "Заголовок";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_WebSite" = "Веб-сайт";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_OptimizePictureFileSize" = "Оптимизация изображения для файлов меньшего размера";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_PageSections" = "Разделы страницы";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_PersonGroupPageSettings" = "Страница группы людей";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_PersonNameFormate" = "Формат имени человека";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_PersonPageSettings" = "Страница человека";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_PlacePageSettings" = "Страница места";
+
+/* Website Configuration */
+"_WebSiteExport_Configuration_Popup_Title" = "Настройки";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Section_Placement_Full_Width" = "Полная ширина";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Section_Placement_Header" = "Заголовок";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Section_Placement_Left" = "Слева";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Section_Placement_Right" = "Справа";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Section_Placement_Side" = "Боковая панель";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ShowFamilyCrestInTitle" = "Показывать фамильный герб в заголовке";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_SourcePageSettings" = "Страница источника";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_StatisticsPageSettings" = "Страница статистики";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_StoryPageSettings" = "Страница истории";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_TextAlignment" = "Выравнивание";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_TextAlignment_Center" = "По центру";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_TextAlignment_Left" = "По левому краю";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_TextAlignment_Right" = "По правому краю";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Theme_Label" = "Тема";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Theme_Title" = "Название темы";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ThemeBackgroundImage" = "Фоновое изображение";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ThemeHeaderBackgroundImage" = "Изображение заголовка";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_UseFamilyCrestAsFavicon" = "Использовать фамильный герб в качестве значка";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteAuthorAddress" = "Адрес";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteAuthorEmail" = "Email";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteAuthorName" = "Автор";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteAuthorPhone" = "Телефон";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteImprintNote" = "Примечание";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteIntroduction" = "Введение";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteStartPerson" = "Первый человек";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteSubTitle" = "Подзаголовок";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteTitle" = "Заголовок";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_3" = "Пожалуйста, проверьте URL сервера и путь.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_6" = "Ошибка хоста.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_7" = "Не удалось подключиться к хосту.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_9" = "Доступ запрещён.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_25" = "FTP сервер отклонил команду STORE.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_30" = "Ошибка порта FTP.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_35" = "Ошибка подключения SSL/TLS.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_60" = "Сертификат не может быть проверен с помощью известных CA сертификатов.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_64" = "Ошибка запрошенного уровеня FTP SSL.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_67" = "Вход запрещён. Проверьте ваше ftp имя пользователя и пароль.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_73" = "Файл уже существует и не может быть перезаписан. Проверьте разрешения на сервере.";
+
+/* CurlErrorCodes */
+"_WebSiteExport_CurlError_Generic" = "Внутренняя ошибка (%d).";
+
+/* (No Comment) */
+"_WebSiteExport_Dark_Theme" = "Каньон Антилопы";
+
+/* (No Comment) */
+"_WebSiteExport_DarkBubbles_Theme" = "Пузыри";
+
+/* (No Comment) */
+"_WebSiteExport_Default_WebSiteExportFolderName" = "Сайт моего семейного древа";
+
+/* Details Of Living Persons Hidden */
+"_WebSiteExport_Details_Of_Living_Persons_Hidden_Person_Name" = "Данные о человеке скрыты";
+
+/* (No Comment) */
+"_WebSiteExport_ExportToFolderMenuItem" = "Экспортировать в папку...";
+
+/* (No Comment) */
+"_WebSiteExport_Flowers_Theme" = "Цветы";
+
+/* (No Comment) */
+"_WebSiteExport_Forest_Path_Theme" = "Лесная тропа";
+
+/* (No Comment) */
+"_WebSiteExport_Forest_Theme" = "Лес";
+
+/* (No Comment) */
+"_WebSiteExport_Green_Hills_Theme" = "Восход";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Created_On" = "Создано: %@";
+
+/* Home Page */
+"_WebSiteExport_Home_Page_Created_With_MacFamilyTree" = "Веб-сайт создан с помощью MacFamilyTree 11";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Download_GedcomFile_Description" = "Нажмите на изображение выше, чтобы загрузить GEDCOM файл этого семейного древа. Файлы GEDCOM можно импортировать практически всеми доступными программами генеалогии.";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_GedcomFile_DownloadLinkTitle" = "Загрузить GEDCOM файл";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_BookmarkedFamilies" = "Семьи в закладках";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_BookmarkedMedia" = "Медиа в закладках";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_BookmarkedPersons" = "Люди в закладках";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_BookmarkedPlaces" = "Места в закладках";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_BookmarkedSources" = "Источники в закладках";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_CreationDate" = "Дата создания";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_GedcomFile" = "GEDCOM файл";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_Image" = "Изображение или фамильный герб";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_Introduction" = "Введение";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_Introduction_Placeholder" = "Это заполнитель для введения. Вы можете изменить его в разделе Веб-сайт > Страницы > Домашняя страница.";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_StartPerson" = "Первый человек";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_SubTitle" = "Подзаголовок";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_Title" = "Заголовок";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Author_Contact_Section_Title" = "Контакты автора";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Note_Section_Title" = "Примечание";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Synium_Contact_AppStore_Label" = "Mac App Store";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Synium_Contact_AppStore_Link_11" = "MacFamilyTree 11";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Synium_Contact_Company" = "Synium Software GmbH Germany";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Synium_Contact_Company_Label" = "Company";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Synium_Contact_Section_Title" = "Synium Contact";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Synium_Contact_Website_Label" = "Веб-сайт";
+
+/* Imprint Page */
+"_WebSiteExport_Imprint_Page_Title_Section_Title" = "Выходные данные";
+
+/* (No Comment) */
+"_WebSiteExport_IndexCards_Theme" = "Индексные карточки";
+
+/* (No Comment) */
+"_WebSiteExport_Inspector_ThemesTitle" = "Темы";
+
+/* Inspector */
+"_WebSiteExport_Inspector_WebSiteSettingsTitle" = "Веб-сайт";
+
+/* (No Comment) */
+"_WebSiteExport_Leafs_Theme" = "Бамбук";
+
+/* (No Comment) */
+"_WebSiteExport_LeftMenu_Theme" = "Приморская";
+
+/* (No Comment) */
+"_WebSiteExport_LeftMenuBlurryBackground_Theme" = "Фиолетовая";
+
+/* (No Comment) */
+"_WebSiteExport_List_No_Entry_DueToSearch_Placeholder" = "По введенному критерию поиска запись не найдена.";
+
+/* (No Comment) */
+"_WebSiteExport_List_No_Entry_Placeholder" = "Запись не найдена.";
+
+/* Lists */
+"_WebSiteExport_List_Search_Placeholder" = "Поиск…";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_By" = "Сортировать по";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Family_Last_Name_Key" = "Фамилия семьи";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Family_Name_Key" = "Фамилия";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_BirthDate_Key" = "Дата рождения";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_DeathDate_Key" = "Дата смерти";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_FirstName_Key" = "Имя";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_Group_Name_Key" = "Название группы";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_LastName_Key" = "Фамилия";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_NameMiddle_Key" = "Отчество";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_NamePrefix_Key" = "Префикс имени";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_NameSuffix_Key" = "Суффикс имени";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Place_Name_Key" = "Название места";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Source_Title_Key" = "Название источника";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Story_Title_Key" = "Название истории";
+
+/* (No Comment) */
+"_WebSiteExport_LoadingFamilyTreeData" = "Загрузка семейного древа…";
+
+/* (No Comment) */
+"_WebSiteExport_LoadingFamilyTreeData_Failed" = "Не удалось загрузить семейное древо.";
+
+/* (No Comment) */
+"_WebSiteExport_ManageThemes_Label" = "Тема:";
+
+/* (No Comment) */
+"_WebSiteExport_ManageWebSiteExportThemes" = "Управление темами";
+
+/* (No Comment) */
+"_WebSiteExport_ManageWebSiteExportThemes_AddThemeHint" = "Пожалуйста, выберите тему из списка ниже для добавления на этот сайт.";
+
+/* (No Comment) */
+"_WebSiteExport_ManageWebSiteExportThemes_AddThemeTitle" = "Добавить тему";
+
+/* (No Comment) */
+"_WebSiteExport_ManageWebSiteExportThemes_Hint" = "Ниже перечислены все связанные темы для этого сайта. Используйте кнопку «Добавить» выше, для добавления дополнительных тем. Перетягивая темы, вы можете изменять их порядок. Первая тема в этом списке будет темой вашего сайта по умолчанию.";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Charts" = "Диаграммы";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Families" = "Семьи";
+
+/* Website Menu */
+"_WebSiteExport_Menu_HomePage" = "Домашняя страница";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Imprint" = "Выходные данные";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_PersonGroups" = "Группы людей";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Persons" = "Люди";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Places" = "Места";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Sources" = "Источники";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Statistics" = "Статистика";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Stories" = "Истории";
+
+/* (No Comment) */
+"_WebSiteExport_MFT11_Theme" = "Одиннадцать";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_AuthenticationFailed" = "Ошибка авторизации. Убедитесь, что вы ввели имя пользователя и пароль правильно.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Client_Error" = "Ошибка клиента";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Client_Error_Informative_Text" = "Произошла ошибка клиента (%@). Пожалуйста, попробуйте ещё раз. Если ошибка продолжает появляться, пожалуйста, свяжитесь со службой поддержки.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_CommandMismatch" = "Несоответствие команды";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_CommandUnknown" = "Неизвестная команда";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Connection_Error" = "Ошибка подключения";
+
+/* MFT server NSURLConnection errors */
+"_WebSiteExport_MFTExport_ConnectionErrorCannotConnectToHost" = "Не удалось подключиться к серверу MacFamilyTree.com. Пожалуйста, проверьте подключение к Интернету и повторите попытку.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_ConnectionErrorCannotFindHost" = "Не удалось связаться с MacFamilyTree.com (ошибка DNS-запросов). Пожалуйста, проверьте, активно ли ваше Интернет соединение.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_ConnectionErrorTimedOut" = "Время подключения к серверу MacFamilyTree.com истекло. Пожалуйста, повторите попытку позже.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Delete_Old_Files" = "Удалить старые файлы";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_DeleteFailed" = "Ошибка удаления файлов";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error" = "Неизвестная ошибка";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_Connection_Cant_Be_Initialized" = "Соединение не может быть инициализировано";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_Email_Not_Valid" = "Неверный email адрес";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_NoSSL_Connect_Without_SSL" = "Подключение";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_Not_Logged_In" = "Вход не выполнен";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_Password_Empty" = "Пароль не заполнен";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_Passwords_mismatch" = "Несовпадение паролей";
+
+/* MFT Upload */
+"_WebSiteExport_MFTExport_Error_Undefined" = "Неопределенная ошибка";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_Upload_Limit_Exceeded" = "Ваш веб-сайт превышает лимит загрузки. Пожалуйста, исключите некоторые большие медиафайлы (PDF, фильмы, изображения) и повторите попытку.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_User_Or_Password_Empty" = "Имя или пароль не заполнены";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_User_String_Not_Valid" = "Пожалуйста, используйте только буквенно-цифровые символы для имени пользователя";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Failed" = "Сбой при загрузке";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_FileHashesError" = "Ошибка загрузки хэшей файлов";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Get_FileHashes" = "Получить хэши файлов";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Get_Upload_Limit" = "Лимит загрузки";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Open_In_Browser" = "Открыть в браузере";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_PersonListInvalid" = "Ошибка в списке загруженных людей";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_PersonUpdateFailed" = "Ошибка обновления людей";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Server_Error" = "Ошибка сервера";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Server_Error_Informative_Text" = "MacFamilyTree.com сервер в настоящее время недоступен. Пожалуйста, повторите попытку позже.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Successful" = "Загружено успешно";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Successful_Informative_Text" = "Ваш веб-сайт загружен. Теперь вы можете открыть его в браузере.";
+
+/* MFT server error keys */
+"_WebSiteExport_MFTExport_TreeNameInvalid" = "Недопустимое имя веб-сайта. Пожалуйста, используйте только буквенно-цифровые символы.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_TreeNameTaken" = "Веб-сайт с таким названием уже существует.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_TreeNameTooLong" = "Название веб-сайта слишком длинное (макс. %@ символов).";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_TreeNameTooShort" = "Название веб-сайта слишком короткое (мин. %@ символов).";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_TreeNotFound" = "Веб-сайт не найден.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_TreePasswordInvalid" = "Неверный пароль веб-сайта.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_TreePasswordTooShort" = "Пароль веб-сайта слишком короткий (мин. %@ символов).";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Unknown_Error" = "Неизвестная ошибка";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Unknown_Error_Informative_Text" = "Произошла неизвестная ошибка (%@). Пожалуйста, попробуйте ещё раз. Если ошибка продолжает появляться, пожалуйста, ​​обратитесь в нашу службу поддержки.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UnzipFailed" = "Ошибка извлечение веб-сайта";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Upload_New_FileHashes" = "Загрузка хэшей новых файлов";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Upload_New_Files" = "Загрузить новые файлы";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Upload_Successful" = "Загружено успешно";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Upload_Validating_New_Files" = "Проверка новых файлов...";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Upload_Validating_New_Persons_List" = "Проверка нового человека...";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_User_Or_Password_Wrong" = "Ошибка входа. Неверные имя или пароль.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserEmailAddressInvalid" = "Неверный email адрес";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserEmailAddressTaken" = "Этот еmail адрес уже используется для учётной записи MacFamilyTree.com. Вы можете зарегистрировать только одну учётную запись на один email.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserNameInvalid" = "Неверное имя пользователя";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserNameTaken" = "Имя пользователя уже существует";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserNameTooLong" = "Слишком длинное имя (макс. %@ символов)";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserNameTooShort" = "Слишком короткое имя (мин. %@ символов)";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserPasswordInvalid" = "Неверный пароль пользователя";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserPasswordTooShort" = "Пароль пользователя слишком короткий (мин. %@ символов)";
+
+/* (No Comment) */
+"_WebSiteExport_NavigateBackButton" = "Назад";
+
+/* WebSitePane */
+"_WebSiteExport_NavigateForwardButton" = "Вперёд";
+
+/* (No Comment) */
+"_WebSiteExport_NoWebSitesPlaceholder_AddWebSiteButton" = "Добавить первый веб-сайт";
+
+/* (No Comment) */
+"_WebSiteExport_NoWebSitesPlaceholder_Message" = "Для этого семейного древа нет веб-сайтов. Пожалуйста, выберите «Добавить первый веб-сайт», для его создания.";
+
+/* Websites */
+"_WebSiteExport_NoWebSitesPlaceholder_Title" = "Нет веб-сайтов";
+
+/* (No Comment) */
+"_WebSiteExport_Page_Header_Section_Title" = "Раздел заголовка";
+
+/* Common Page */
+"_WebSiteExport_Page_Overview_Section_Title" = "Обзор";
+
+/* Person Page */
+"_WebSiteExport_Person_Page_Hourglass_Section_Title" = "Диаграмма «Песочные часы»";
+
+/* Place Page */
+"_WebSiteExport_Place_Page_Map_Section_Title" = "Карта";
+
+/* (No Comment) */
+"_WebSiteExport_Place_Page_View_Place_In_Maps" = "Посмотреть место на картах";
+
+/* (No Comment) */
+"_WebSiteExport_Plain_Theme" = "Простой";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_CollectingFamilyTreeInformation" = "Сбор информации о семейном древе…";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_CreatingWebsiteForLocalViewingInformative" = "Создание веб-сайта для локального просмотра.";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_CreatingWebsiteForSharingInformative" = "Подготовка веб-сайта к публикации – подождите";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_CreatingWebsiteForWebServerInformative" = "Создание сайта для веб-сервера.";
+
+/* Progress */
+"_WebSiteExport_Progress_CreatingWebsiteHeadline" = "Создание веб-сайта…";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_CreatingWebsiteInformative" = "Пожалуйста, подождите";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_ExportingGedcom" = "Экспорт GEDCOM…";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_ExportingMedia" = "Экспорт медиафайлов…";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_ExportingResources" = "Экспорт ресурсов…";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_ExportingSavedCharts" = "Экспорт сохранённых диаграмм…";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_ExportingStatisticCharts" = "Экспорт статистических диаграмм…";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_ExportingThemes" = "Экспорт тем…";
+
+/* (No Comment) */
+"_WebSiteExport_PublishButton" = "Опубликовать";
+
+/* (No Comment) */
+"_WebSiteExport_ResetThemeToDefaults" = "Сбросить тему к значениям по умолчанию";
+
+/* (No Comment) */
+"_WebSiteExport_ResetThemeToDefaults_Short" = "Сброс";
+
+/* (No Comment) */
+"_WebSiteExport_ShareMenuItem" = "Поделиться...";
+
+/* (No Comment) */
+"_WebSiteExport_ShouldSaveModifiedWebSite_InformativeText" = "Хотите сохранить изменения, внесённые на этот сайт?";
+
+/* (No Comment) */
+"_WebSiteExport_ShouldSaveModifiedWebSite_MessageText" = "Сохранить изменения на веб-сайте?";
+
+/* Manage Themes */
+"_WebSiteExport_Show_ManageThemes_MenuTitle" = "Управление темами…";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_DivorcedFamiliesCount" = "Разведенные семьи";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_EarliestEvent" = "Самое раннее событие";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_Family_Statistics_Section_Title" = "Семейная статистика";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_FamilyCount" = "Всего семей";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_FamilyEventCount" = "Семейные события";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_FemalePersonCount" = "Лица женского пола";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_IntersexGenderPersonCount" = "Интерсекс люди";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_LatestEvent" = "Последнее событие";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_MalePersonCount" = "Лица мужского пола";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_MarriedFamiliesCount" = "Супружеские семьи";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_Person_Statistics_Section_Title" = "Статистика человека";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_PersonCount" = "Всего людей";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_PersonEventCount" = "События человека";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_StatisticCharts_Section_Title" = "Статистические диаграммы";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_Time_Statistics_Section_Title" = "Время и даты";
+
+/* Statistics Page */
+"_WebSiteExport_Statistics_Page_Title_Section_Title" = "Статистика";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_UnknownGenderPersonCount" = "Лица неизвестного пола";
+
+/* (No Comment) */
+"_WebSiteExport_Stripes_Theme" = "Полосы";
+
+/* (No Comment) */
+"_WebSiteExport_TopMenu_Theme" = "Градиентные блоки";
+
+/* (No Comment) */
+"_WebSiteExport_Unnamed_WebSite" = "Безымянный веб-сайт";
+
+/* (No Comment) */
+"_WebSiteExport_UploadToFTPMenuItem" = "Загрузить на FTP сервер...";
+
+/* (No Comment) */
+"_WebSiteExport_UploadToMacFamilyTreeComMenuItem" = "Загрузить на MacFamilyTree.com…";
+
+/* (No Comment) */
+"_WebSiteExport_WebSite_ChangeDate" = "Дата изменения: %@";
+
+/* (No Comment) */
+"_WebSiteExport_WebSite_CreationDate" = "Дата создания: %@";
+
+/* (No Comment) */
+"_WebSiteExportMFTTreeObject_Active" = "Онлайн";
+
+/* (No Comment) */
+"_WebSiteExportMFTTreeObject_NotActive" = "Неактивный";
+
+/* (No Comment) */
+"_WebSiteExportMFTTreeObject_NotPublic" = "Непубличный";
+
+/* WebSiteExportMFTTreeObject */
+"_WebSiteExportMFTTreeObject_Public" = "Публичный";
+
+/* WebSitesPane */
+"_WebSites_AddNewWebSiteButton" = "Добавить новый веб-сайт";
+
+/* (No Comment) */
+"_WebSites_DeleteWebSiteButton" = "Удалить сайт";
+
+/* (No Comment) */
+"_WebSites_DuplicateWebSiteButton" = "Дублировать веб-сайт";
+
+/* (No Comment) */
+"_WebSites_EditWebSiteButton" = "Редактировать сайт";
+
+/* (No Comment) */
+"_WebSites_ManageMacFamilyTreeComButton" = "Управление MacFamilyTree.com…";
+
+/* (No Comment) */
+"_WebSitesController_DeleteWebSiteInformative" = "Вы действительно хотите удалить этот сайт?";
+
+/* WebSiteExportController */
+"_WebSitesController_DeleteWebSiteMessage" = "Удалить сайт?";
+
+/* (No Comment) */
+"_WebSitesController_ExportedWebSiteToFolder" = "Веб-сайт успешно экспортирован";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToFolder_ForLocalViewing" = "Для локального просмотра";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToFolder_ForWebServer" = "Для веб-сервера";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToFolder_OpenFolderInFinder" = "Показать в Finder";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToFolder_Question_Informative" = "Хотите ли вы экспортировать веб-сайт в папку для локального просмотра или сохранить веб-сайт в формате, который можно разместить на веб-сервере?";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToFolder_Question_Message" = "Экспортировать веб-сайт в папку";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToShare_Question_Informative" = "Вы хотите поделиться экспортированным веб-сайтом для локального просмотра или поделиться веб-сайтом в формате, который можно разместить на веб-сервере?";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToShare_Question_Message" = "Поделиться экспортированным веб-сайтом";
+
+/* (No Comment) */
+"_WebSitesController_LimitedPersonsForPreview_Question_Informative" = "В этом просмотре отображается не более 500 человек. Однако ваш экспортированный веб-сайт будет содержать всех выбранных людей.";
+
+/* (No Comment) */
+"_WebSitesController_LimitedPersonsForPreview_Question_Message" = "Просмотр";
+

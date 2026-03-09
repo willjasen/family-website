@@ -1,0 +1,36 @@
+﻿/* (No Comment) */
+"_MediaContainerListController_DeleteMediaButton" = "Smazat médium";
+
+/* (No Comment) */
+"_MediaContainerListController_DeleteMediaInformative" = "Opravdu chcete trvale smazat vybrané položky médií?";
+
+/* (No Comment) */
+"_MediaContainerListController_DeleteMediaMessage" = "Smazat médium?";
+
+/* (No Comment) */
+"_MediaContainerListController_DeleteMediaOrRelationInformative" = "Opravdu chcete trvale smazat vybrané položky médií nebo chcete jen odstranit vztah média a zachovat toto médium ve své databázi?";
+
+/* MediaContainerListController */
+"_MediaContainerListController_DeleteMediaOrRelationMessage" = "Smazt médium nebo vztah médií?";
+
+/* (No Comment) */
+"_MediaContainerListController_DeleteMediaRelationButton" = "Smazat vztah médií?";
+
+/* (No Comment) */
+"_MediaContainerListController_FileWithoutTitleName" = "Soubor %d";
+
+/* (No Comment) */
+"_MediaContainerListController_NoDateTitle" = "Žádné datum";
+
+/* (No Comment) */
+"_MediaContainerListController_SortingMode_ByDate" = "Podle data narození";
+
+/* (No Comment) */
+"_MediaContainerListController_SortingMode_ByTitle" = "Podle názvu";
+
+/* Default Titles */
+"_MediaPicture_DefaultTitleWithDate" = "Fotografie z %@";
+
+/* (No Comment) */
+"_MediaVideo_DefaultTitleWithDate" = "Video z %@";
+

@@ -1,0 +1,78 @@
+﻿/* (No Comment) */
+"_AssociateRelation_Type_BestFriend" = "Beste vriend";
+
+/* (No Comment) */
+"_AssociateRelation_Type_BestFriend_Inverted" = "Beste vriend";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Boss" = "Baas";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Boss_Inverted" = "Werknemer";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Coworker" = "Medewerker";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Coworker_Inverted" = "Medewerker";
+
+/* Person Container */
+"_AssociateRelation_Type_Friend" = "Vriend";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Friend_Inverted" = "Vriend";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Godfather" = "Peetouder";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Godfather_Inverted" = "Peetouder van %@";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Neighbor" = "Buur";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Neighbor_Inverted" = "Buur";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Servant" = "Dienaar";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Servant_Inverted" = "Werkgever/meester";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Teacher" = "Leraar";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Teacher_Inverted" = "Student";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfBirth" = "Getuige van geboorte";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfBirth_Inverted" = "Getuige van geboorte van %@";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfCivilMarriage" = "Getuige van burgerlijk huwelijk";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfCivilMarriage_Inverted" = "Getuige van burgerlijk huwelijk van %@";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfDeath" = "Getuige van de dood";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfDeath_Inverted" = "Getuige van overlijden van %@";
+
+/* Family Container */
+"_AssociateRelation_Type_WitnessOfMarriage" = "Getuige van het huwelijk";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfMarriage_Inverted" = "Getuige van het huwelijk van %@";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfReligiousMarriage" = "Getuigenis van religieus huwelijk";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfReligiousMarriage_Inverted" = "Getuigenis van religieus huwelijk van %@";
+

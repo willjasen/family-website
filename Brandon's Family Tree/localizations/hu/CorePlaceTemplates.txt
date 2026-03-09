@@ -1,0 +1,318 @@
+﻿/* (No Comment) */
+"_EditPlaceTemplateKeysController_MergeTemplateKeysConflictInformative" = "A '%@' helymezőt szeretné összevonni a '%@' helymezővel, de a családfája egyes helyein mindkét helymező egy helyen van jelen. Kérjük, döntse el, hogyan járjon el ezekkel a helyekkel kapcsolatban:";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_MergeTemplateKeysConflictKeepBoth" = "Tartsa meg mindkét értéket";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_MergeTemplateKeysConflictKeepSingle" = "Tartsa meg %@ értéket";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_MergeTemplateKeysConflictMessage" = "Helymezők összevonása…";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_MergeTemplateKeysDoneInformative" = "'%@' hely mezőt összevonták a '%@' hely mezővel.";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_MergeTemplateKeysDoneMessage" = "Helymezők összevonása";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_ReallyMergeTemplateKeysInformative" = "Valóban össze akarja vonni a '%@' és '%@' sablonmezőket? Ezután ezek egyetlen sablonmezővé válnak.";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_ReallyMergeTemplateKeysMessage" = "Valóban össze akarja vonni a sablonmezőket?";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_RemoveTemplateKeyInformative" = "Valóban törölni akarja a kijelölt sablonmezőt? Ebben a sablonmezőben még mindig vannak olyan információk, amelyek véglegesen törlésre kerülnek.";
+
+/* EditPlaceTemplateKeysController */
+"_EditPlaceTemplateKeysController_RemoveTemplateKeyMessage" = "Valóban törölni akarja a sablonmezőt? A helyek összes mezője véglegesen törlődik.";
+
+/* (No Comment) */
+"_EditPlaceTemplatesController_MergeTemplateDoneMessage" = "Helysablonok összevonva";
+
+/* (No Comment) */
+"_EditPlaceTemplatesController_MergeTemplatesDoneInformative" = "A '%@' és '%@' helysablonokat sikeresen összevonta.";
+
+/* (No Comment) */
+"_EditPlaceTemplatesController_ReallyMergeTemplateInformative" = "Valóban egyesíteni szeretné a '%@' és '%@ sablonokat? Ezután ezekből egyetlen sablon lesz.";
+
+/* (No Comment) */
+"_EditPlaceTemplatesController_ReallyMergeTemplateMessage" = "Valóban össze akarja vonni a sablonokat?";
+
+/* (No Comment) */
+"_EditPlaceTemplatesController_RemoveTemplateInformative" = "Biztos benne, hogy törölni szeretné ezt a helysablont? Ehhez a sablonhoz helyek vannak csatolva, amelyek szintén véglegesen törlődnek, ha törli ezt a helysablont.";
+
+/* EditPlaceTemplatesController */
+"_EditPlaceTemplatesController_RemoveTemplateMessage" = "Valóban törölni akarja a helysablont? Az összes csatolt hely véglegesen törlődik.";
+
+/* (No Comment) */
+"_PlaceTemplate_PlacesCount" = "%d helyek";
+
+/* Counts */
+"_PlaceTemplate_PlacesCountSingular" = "%d hely";
+
+/* Relation Usage */
+"_RelationUsage_AdministrativeDivision1" = "Közigazgatási Osztály 1";
+
+/* (No Comment) */
+"_RelationUsage_AdministrativeDivision2" = "Közigazgatási Osztály 2";
+
+/* (No Comment) */
+"_RelationUsage_AdministrativeDivision3" = "Közigazgatási Osztály 3";
+
+/* (No Comment) */
+"_RelationUsage_AdministrativeDivision4" = "Közigazgatási Osztály 4";
+
+/* (No Comment) */
+"_RelationUsage_AdministrativeDivision5" = "Közigazgatási Osztály 5";
+
+/* (No Comment) */
+"_RelationUsage_AdministrativeDivisionOther" = "Más közigazgatási osztály";
+
+/* (No Comment) */
+"_RelationUsage_CountryName" = "Országnév";
+
+/* (No Comment) */
+"_RelationUsage_PlaceName" = "Helynév";
+
+/* (No Comment) */
+"PlaceTemplate_Australia" = "Ausztrália";
+
+/* (No Comment) */
+"PlaceTemplate_Austria" = "Ausztria";
+
+/* (No Comment) */
+"PlaceTemplate_Belgium" = "Belgium";
+
+/* (No Comment) */
+"PlaceTemplate_Bosnia and Herzegovina" = "Bosznia és Hercegovina";
+
+/* (No Comment) */
+"PlaceTemplate_Brazil" = "Brazília";
+
+/* (No Comment) */
+"PlaceTemplate_Bulgaria" = "Bulgária";
+
+/* (No Comment) */
+"PlaceTemplate_Canada (Province)" = "Kanada (tartomány)";
+
+/* (No Comment) */
+"PlaceTemplate_Canada (Territory)" = "Kanada (Territórium)";
+
+/* (No Comment) */
+"PlaceTemplate_China" = "Kína";
+
+/* (No Comment) */
+"PlaceTemplate_Croatia" = "Horvátország";
+
+/* (No Comment) */
+"PlaceTemplate_Czechia" = "Csehország";
+
+/* (No Comment) */
+"PlaceTemplate_Denmark" = "Dánia";
+
+/* (No Comment) */
+"PlaceTemplate_England (Borough)" = "Anglia (választókerület)";
+
+/* (No Comment) */
+"PlaceTemplate_England (Parish)" = "Anglia (Egyházközség)";
+
+/* (No Comment) */
+"PlaceTemplate_Finland" = "Finnország";
+
+/* (No Comment) */
+"PlaceTemplate_France" = "Franciaország";
+
+/* Templates */
+"PlaceTemplate_Generic" = "Generikus";
+
+/* (No Comment) */
+"PlaceTemplate_Generic_Level" = "Generikus (%d szint)";
+
+/* (No Comment) */
+"PlaceTemplate_Generic_OneComponent" = "Generikus (egy szint)";
+
+/* (No Comment) */
+"PlaceTemplate_Generic_ThreeComponents" = "Generikus (három szint)";
+
+/* (No Comment) */
+"PlaceTemplate_Generic_TwoComponents" = "Generikus (kettő szint)";
+
+/* (No Comment) */
+"PlaceTemplate_Germany" = "Németország";
+
+/* (No Comment) */
+"PlaceTemplate_Greece" = "Görögország";
+
+/* (No Comment) */
+"PlaceTemplate_Hungary" = "Magyarország";
+
+/* (No Comment) */
+"PlaceTemplate_Ireland" = "Írország";
+
+/* (No Comment) */
+"PlaceTemplate_Italy" = "Olaszország";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Administrative Divison" = "Közigazgatási Osztály";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Administrative Unit" = "Közigazgatási egység";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Autonomos Region" = "Autonóm régió";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Borough" = "Választókerület";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Canton" = "Kanton";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Commune" = "Közösség";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Country" = "Ország";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_County" = "Megye";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Decentralized Administration" = "Decentralizált közigazgatás";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Department" = "Tartomány";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_District" = "Kerület";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Federal District" = "Szövetségi kerület";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Federal Subject" = "Szövetségi téma";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Kray" = "Kray";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Level" = "%d szint";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Municipality" = "Község";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Oblast" = "Oblast";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Parish" = "Plébánia";
+
+/* Template Keys */
+"PlaceTemplate_KeyName_Place" = "Hely";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Province" = "Tartomány";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Region" = "Régió";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Republic" = "Köztársaság";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_State" = "Állam";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Territory" = "Terület";
+
+/* (No Comment) */
+"PlaceTemplate_Mexico" = "Mexikó";
+
+/* (No Comment) */
+"PlaceTemplate_Netherlands" = "Hollandia";
+
+/* (No Comment) */
+"PlaceTemplate_Norway" = "Norvégia";
+
+/* (No Comment) */
+"PlaceTemplate_Poland" = "Lengyelország";
+
+/* (No Comment) */
+"PlaceTemplate_Portugal" = "Portugália";
+
+/* (No Comment) */
+"PlaceTemplate_Romania" = "Románia";
+
+/* (No Comment) */
+"PlaceTemplate_Russia" = "Oroszország";
+
+/* (No Comment) */
+"PlaceTemplate_Serbia" = "Szerbia";
+
+/* (No Comment) */
+"PlaceTemplate_Slovakia" = "Szlovákia";
+
+/* (No Comment) */
+"PlaceTemplate_Slovenia" = "Szlovénia";
+
+/* (No Comment) */
+"PlaceTemplate_Spain" = "Spanyolország";
+
+/* (No Comment) */
+"PlaceTemplate_Sweden" = "Svédország";
+
+/* (No Comment) */
+"PlaceTemplate_Switzerland" = "Svájc";
+
+/* (No Comment) */
+"PlaceTemplate_United Kingdom" = "Egyesült Királyság";
+
+/* (No Comment) */
+"PlaceTemplate_United States of America" = "Egyesült Államok";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationBracketMode_AngleBrackets" = "Szögzárójelek";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationBracketMode_Brackets" = "Kerek zárójelek";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationBracketMode_CurlyBrackets" = "Kapcsos zárójelek";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationBracketMode_DoubleQuotes" = "Dupla idézőjel";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationBracketMode_None" = "Nincs";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationBracketMode_SingleQuotes" = "Egyszeres idézőjel";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationMode_Normal" = "Normális";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationMode_Short" = "Rövid";
+
+/* Enums */
+"PlaceTemplateKeyRelation_CitationMode_VeryShort" = "Nagyon rövid";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationTrailingMode_Colon" = "Kettőspont";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationTrailingMode_Comma" = "Vessző";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationTrailingMode_Hyphen" = "Kötőjel";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationTrailingMode_Period" = "Pont";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationTrailingMode_Semicolon" = "Pontosvessző";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationTrailingMode_Space" = "Szóköz";
+

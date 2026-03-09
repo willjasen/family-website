@@ -1,0 +1,1707 @@
+﻿/* (No Comment) */
+"_BaseEditController_DeleteBaseObjectQuestionInformative" = "Wenst u deze gegevens werkelijk uit uw kwartierstaat te verwijderen?";
+
+/* (No Comment) */
+"_BaseEditController_DeleteBaseObjectQuestionMessage" = "'%@' verwijderen?";
+
+/* (No Comment) */
+"_BaseEditController_DeletePersonQuestionInformative" = "Wenst u deze persoon werkelijk uit uw kwartierstaat te verwijderen?";
+
+/* BaseEditController */
+"_BaseEditController_DeletePersonQuestionMessage" = "Persoon '%@' verwijderen?";
+
+/* (No Comment) */
+"_BaseEditController_ManuallyAddPlaceDetailInformative" = "Voer de naam van de nieuwe plaats in Detail van '%@' in";
+
+/* (No Comment) */
+"_BaseEditController_ManuallyAddPlaceDetailTitle" = "Handmatig plaatsinformatie toevoegen";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_AddEventButton" = "Gebeurtenis toevoegen";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_AgeAtEvent" = "Leeftijd bij gebeurtenis";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_CopyEventToPersonMenuItem" = "Gebeurtenis naar persoon kopiëren...";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_CreateStoryFromEventMenuItem" = "Verhaal voor gebeurtenis aanmaken";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_DeadButNoFurtherInfoCheckbox" = "Persoon markeren als dood, zonder verdere informatie";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_DeleteEvent" = "Gebeurtenis verwijderen";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_EditEventDetails" = "Details gebeurtenis bewerken";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_EditFamilyEventConclusionTypes" = "Familiegebeurtenis types bewerken...";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_EditFamilyMenuItem" = "Bewerk Familie %@";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_EditPersonEventConclusionTypes" = "Persoonsgebeurtenis types bewerken...";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_EditPlaceDetails" = "Details van plaats bewerken...";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_EventPlaceholder" = "%@ - Voer hier uw informatie in";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_FamilyEventPlaceholder" = "%@ met %@ - Voer hier uw informatie in";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_FurtherOptionsButton" = "Verdere opties...";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_LargePlaceholder" = "Geen gebeurtenissen aanwezig.";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_LookupNewPlaceDetail" = "Nieuw detail van plaats opzoeken...";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_ManuallyAddPlaceDetail" = "Handmatig nieuwe plaatsgegevens toevoegen...";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_MarriedButNoFurtherInfoCheckbox" = "Markeer koppel als gehuwd, geen verder info beschikbaar";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_NoDateAvailable" = "Geen datum ingevoerd";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_NoNotesPlaceholder" = "Geen notities ingevoerd";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_NoPlacePlaceholder" = "Geen plaats ingevoerd";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_NoSourcesPlaceholder" = "Geen bronnen ingevoerd";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_SmallPlaceholder" = "Gebruik bovenstaande knop om een nieuwe gebeurtenis toe te voegen.";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_Sorting_ByDate" = "Op datum gebeurtenis";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_Sorting_ByDescription" = "Op omschrijving";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_Sorting_ByTypeAndDate" = "Op soort gebeurtenis en datum";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_Sorting_ByTypeName" = "Op soort gebeurtenis naam";
+
+/* Shared Base Events */
+"_BaseEditEventsContentController_Title" = "Gebeurtenissen";
+
+/* BaseEditHeaderContentController */
+"_BaseEditHeaderContentController_Title" = "Hoofding";
+
+/* (No Comment) */
+"_BaseEditListContentController_SortAscending" = "Oplopend";
+
+/* (No Comment) */
+"_BaseEditListContentController_SortDescending" = "Dalend";
+
+/* BaseEditListContentController */
+"_BaseEditListContentController_SortingButton" = "Rangschikken";
+
+/* (No Comment) */
+"_BaseEditPlaceLinksContentController_OtherLanguagesButton" = "Andere talen...";
+
+/* (No Comment) */
+"_BaseEditPlaceLinksContentController_ShowArticleButton" = "Toon artikel";
+
+/* (No Comment) */
+"_BaseReferencedEntriesListContentController_EditFamilyEventMenuItem" = "Familiegebeurtenis '%@' bewerken";
+
+/* (No Comment) */
+"_BaseReferencedEntriesListContentController_EditFamilyMenuItem" = "Familie '%@' bewerken";
+
+/* (No Comment) */
+"_BaseReferencedEntriesListContentController_EditPersonEventMenuItem" = "Persoonsgebeurtenis '%@' bewerken";
+
+/* BaseReferencedEntriesListContentController */
+"_BaseReferencedEntriesListContentController_EditPersonMenuItem" = "Persoon '%@' bewerken";
+
+/* (No Comment) */
+"_Column_aboveMainFullWidth_0" = "Hoofdgebied";
+
+/* (No Comment) */
+"_Column_main_0" = "Linkerkant";
+
+/* (No Comment) */
+"_Column_main_1" = "Rechterkant";
+
+/* (No Comment) */
+"_Column_main_256" = "Zijbalk";
+
+/* (No Comment) */
+"_Column_parents_0" = "Linkerkant";
+
+/* (No Comment) */
+"_Column_parents_1" = "Rechterkant";
+
+/* (No Comment) */
+"_Column_top_0" = "Hoofdgebied";
+
+/* Common */
+"_CommonEdit_NoLabelsAssignedPlaceholder" = "Geen labels toegewezen";
+
+/* (No Comment) */
+"_DatabaseChangesController_DeleteChangeLogEntryMessage" = "Wijzigingshistoriek werkelijk verwijderen?";
+
+/* (No Comment) */
+"_DatabaseChangesController_PurgeAllChangesInformative" = "Bevestig als u alle invoer in de wijzigingshistoriek van uw kwartierstaat wil wissen.";
+
+/* (No Comment) */
+"_DatabaseChangesController_PurgeAllChangesInformativeWithDate" = "Bevestig als u alle invoer in de wijzigingshistoriek, gemaakt voor %@, wenst te wissen.";
+
+/* DatabaseChangesController */
+"_DatabaseChangesController_PurgeAllChangesMessage" = "Wijzigingshistoriek écht wissen? Dit kan niet ongedaan gemaakt worden.";
+
+/* (No Comment) */
+"_DatabaseChangesController_PurgeAllChangesOfDeletedEntriesInformative" = "Bevestig als u alle invoer in de wijzigingshistoriek verwijzend naar verwijderde personen, families etc. wil wissen.";
+
+/* (No Comment) */
+"_DatabaseChangesController_PurgeAllChangesOfDeletedEntriesMessage" = "Wijzigingshistoriek van verwijderde invoer écht verwijderen? Dit kan niet ongedaan gemaakt worden.";
+
+/* (No Comment) */
+"_DatabaseChangesController_PurgeButton" = "Wijzigingshistoriek wissen";
+
+/* (No Comment) */
+"_EditAssociateRelationGeneralController_Source" = "Afkomst";
+
+/* (No Comment) */
+"_EditAssociateRelationGeneralController_Target" = "Doel";
+
+/* EditAssociateRelationGeneralController */
+"_EditAssociateRelationGeneralController_Title" = "Algemeen";
+
+/* (No Comment) */
+"_EditAssociatesContentController_AddAssociatedPersonButton" = "Voeg invloedrijke persoon toe";
+
+/* (No Comment) */
+"_EditAssociatesContentController_AddExistingFamilyAsAssociate" = "Bestaande familie toevoegen als invloedrijke familie";
+
+/* (No Comment) */
+"_EditAssociatesContentController_AddExistingPersonAsAssociate" = "Voeg bestaande persoon toe als invloedrijke persoon";
+
+/* (No Comment) */
+"_EditAssociatesContentController_AddNewFamilyAsAssociate" = "Nieuwe invloedrijke familie toevoegen";
+
+/* (No Comment) */
+"_EditAssociatesContentController_AddNewPersonAsAssociate" = "Voeg nieuwe invloedrijke persoon toe";
+
+/* (No Comment) */
+"_EditAssociatesContentController_EditAssociateRelationConclusionTypes" = "Invloedrijke relatietypen bewerken...";
+
+/* (No Comment) */
+"_EditAssociatesContentController_LargePlaceholder" = "Geen invloedrijke personen aanwezig";
+
+/* (No Comment) */
+"_EditAssociatesContentController_RemoveAssociateButton" = "Verwijder invloedrijke persoon";
+
+/* (No Comment) */
+"_EditAssociatesContentController_RemoveAssociateRelationInformative" = "Dit verwijdert de relatie tot deze persoon, maar verwijdert de persoon niet uit de kwartierstaat.";
+
+/* (No Comment) */
+"_EditAssociatesContentController_RemoveAssociateRelationMessage" = "Wenst u de relatie tot '%@' écht te verwijderen?";
+
+/* (No Comment) */
+"_EditAssociatesContentController_SmallPlaceholder" = "Gebruik de knop bovenaan om invloedrijke personen toe te voegen, zoals peetvaders.";
+
+/* EditAssociatesContentController */
+"_EditAssociatesContentController_Title" = "Invloedrijke personen";
+
+/* (No Comment) */
+"_EditBookmarkContentController_OtherBookmarkedEntries_BaseMedia" = "Media";
+
+/* (No Comment) */
+"_EditBookmarkContentController_OtherBookmarkedEntries_Family" = "Families";
+
+/* (No Comment) */
+"_EditBookmarkContentController_OtherBookmarkedEntries_Person" = "Personen";
+
+/* (No Comment) */
+"_EditBookmarkContentController_OtherBookmarkedEntries_Place" = "Plaatsen";
+
+/* (No Comment) */
+"_EditBookmarkContentController_OtherBookmarkedEntries_Source" = "Bronnen";
+
+/* EditBookmarkContentController */
+"_EditBookmarkContentController_Title" = "Bladwijzers";
+
+/* Common */
+"_EditCommon_PrivateFlagLabel" = "Privaat";
+
+/* (No Comment) */
+"_EditCreationAndChangeDateContentController_ChangeDate" = "Wijzig datum";
+
+/* (No Comment) */
+"_EditCreationAndChangeDateContentController_CreationDate" = "Aanmaakdatum";
+
+/* EditCreationAndChangeDateContentController */
+"_EditCreationAndChangeDateContentController_Title" = "Laatst bewerkt";
+
+/* (No Comment) */
+"_EditDNATestResultATDNARawDataContentController_DataPresentString" = "Raw data voor atDNA opgeslagen, bestandsgrootte: %@";
+
+/* EditDNATestResultATDNARawDataContentController */
+"_EditDNATestResultATDNARawDataContentController_Title" = "atDNA Raw Data";
+
+/* EditDNATestResultBaseMTDNARegionSNPDifferencesContentController */
+"_EditDNATestResultBaseMTDNARegionSNPDifferencesContentController_AddMarkerButton" = "Merker toevoegen";
+
+/* (No Comment) */
+"_EditDNATestResultBaseMTDNARegionSNPDifferencesContentController_LargePlaceholder" = "Geen merkers ingevoerd";
+
+/* (No Comment) */
+"_EditDNATestResultBaseMTDNARegionSNPDifferencesContentController_SmallPlaceholder" = "Gebruik bovenstaande knop om merkers toe te voegen";
+
+/* (No Comment) */
+"_EditDNATestResultBaseRawDataContentController_AddDataButton" = "Gegevens toevoegen";
+
+/* (No Comment) */
+"_EditDNATestResultBaseRawDataContentController_DeleteDNARawDataInformative" = "Wenst u de raw DNA-data geassocieerd met deze test écht te verwijderen?";
+
+/* (No Comment) */
+"_EditDNATestResultBaseRawDataContentController_DeleteDNARawDataMessage" = "DNA-gegevens werkelijk verwijderen?";
+
+/* EditDNATestResultBaseRawDataContentController */
+"_EditDNATestResultBaseRawDataContentController_LargePlaceholder" = "Geen raw DNA-date toegevoegd";
+
+/* (No Comment) */
+"_EditDNATestResultBaseRawDataContentController_SelectFileMessage" = "Kies een bestand om te bewaren als raw DNA-data";
+
+/* (No Comment) */
+"_EditDNATestResultBaseRawDataContentController_SmallPlaceholder" = "Gebruik bovenstaande knop om raw DNA-data toe te voegen";
+
+/* (No Comment) */
+"_EditDNATestResultController_Title" = "DNA-testresultaat";
+
+/* (No Comment) */
+"_EditDNATestResultGeneralContentController_NoNameEnteredPlaceholder" = "Geen testnaam ingevoerd";
+
+/* EditDNATestResultGeneralContentController */
+"_EditDNATestResultGeneralContentController_Title" = "Algemeen";
+
+/* (No Comment) */
+"_EditDNATestResultMTDNAGeneralInformationContentController_NoHaplogroupPlaceholder" = "Geen Haplogroep ingevoerd";
+
+/* EditDNATestResultMTDNAGeneralInformationContentController */
+"_EditDNATestResultMTDNAGeneralInformationContentController_Title" = "mtDNA-gegevens";
+
+/* (No Comment) */
+"_EditDNATestResultMTDNARawDataContentController_DataPresentString" = "Raw data mtDNA opgeslagen, bestandsgrootte: %@";
+
+/* EditDNATestResultMTDNARawDataContentController */
+"_EditDNATestResultMTDNARawDataContentController_Title" = "mtDNA Raw Data";
+
+/* EditDNATestResultMTNDNACodingRegionSNPDifferencesContentController */
+"_EditDNATestResultMTNDNACodingRegionSNPDifferencesContentController_Title" = "mt DNA Coding Region SNP verschillen";
+
+/* EditDNATestResultMTNDNAHVR1SNPDifferencesContentController */
+"_EditDNATestResultMTNDNAHVR1SNPDifferencesContentController_Title" = "mt DNA HVR1 SNP verschillen";
+
+/* EditDNATestResultMTNDNAHVR2SNPDifferencesContentController */
+"_EditDNATestResultMTNDNAHVR2SNPDifferencesContentController_Title" = "mt DNA HVR2 SNP verschillen";
+
+/* (No Comment) */
+"_EditDNATestResultYDNAGeneralInformationContentController_NoHaplogroupPlaceholder" = "Geen Haplogroep ingevoerd";
+
+/* EditDNATestResultYDNAGeneralInformationContentController */
+"_EditDNATestResultYDNAGeneralInformationContentController_Title" = "Y-DNA informatie";
+
+/* (No Comment) */
+"_EditDNATestResultYDNARawDataContentController_DataPresentString" = "Raw data Y-DNA opgeslagen, bestandsgrootte: %@";
+
+/* EditDNATestResultYDNARawDataContentController */
+"_EditDNATestResultYDNARawDataContentController_Title" = "Y-DNA Raw Data";
+
+/* (No Comment) */
+"_EditDNATestResultYDNASTRMarkerListContentController_AddMarkerButton" = "Merker toevoegen";
+
+/* (No Comment) */
+"_EditDNATestResultYDNASTRMarkerListContentController_LargePlaceholder" = "Geen Y-DNA STR merker ingevoerd";
+
+/* (No Comment) */
+"_EditDNATestResultYDNASTRMarkerListContentController_SmallPlaceholder" = "Gebruik bovenstaande knop om Y-DNA STR merkers toe te voegen";
+
+/* EditDNATestResultYDNASTRMarkerListContentController */
+"_EditDNATestResultYDNASTRMarkerListContentController_Title" = "Y-DNA STR-merkers";
+
+/* EditEventGeneralContentController */
+"_EditEventGeneralContentController_Title" = "Algemeen";
+
+/* (No Comment) */
+"_EditEventPlaceContentController_AssignPlace" = "Plaats toewijzen";
+
+/* (No Comment) */
+"_EditEventPlaceContentController_LargePlaceholder" = "Geen plaats toegewezen";
+
+/* (No Comment) */
+"_EditEventPlaceContentController_SelectExistingPlace" = "Selecteer plaats";
+
+/* (No Comment) */
+"_EditEventPlaceContentController_ShowPlace" = "Toon plaats";
+
+/* (No Comment) */
+"_EditEventPlaceContentController_SmallPlaceholder" = "Er is geen plaats toegewezen aan dit evenement. Gebruik de knop hierboven om een bestaande plaats toe te wijzen of zoek een nieuwe plaats op.";
+
+/* EditEventPlaceContentController */
+"_EditEventPlaceContentController_Title" = "Plaats";
+
+/* (No Comment) */
+"_EditEventPlaceController_FieldsHint" = "Enter the information for this place in the fields below. If you need different fields, consider selecting a different place template or adding the fields to the place template.";
+
+/* EditEventPlaceController */
+"_EditEventPlaceController_TemplateHint" = "Kies een plaatsjabloon voor deze plaats uit de onderstaande knop. Als er geen geschikt sjabloon beschikbaar is, gebruik dan de optie 'Sjablonen bewerken' om een nieuw sjabloon te maken.";
+
+/* EditEventPlaceDetailContentController */
+"_EditEventPlaceDetailContentController_Title" = "Plaats Detail";
+
+/* EditEventPlace */
+"_EditEventPlaceSheetLookupNewPlaceSection_Title" = "Nieuwe plaats opzoeken";
+
+/* (No Comment) */
+"_EditEventPlaceSheetManualEnterPlaceSection_Title" = "Plaats handmatig invoeren";
+
+/* (No Comment) */
+"_EditEventPlaceSheetManualEnterPlaceSection_TitleReplace" = "Plaats handmatig bewerken";
+
+/* (No Comment) */
+"_EditEventPlaceSheetSelectExistingPlaceSection_Title" = "Selecteer bestaande plaats";
+
+/* (No Comment) */
+"_EditEventPlaceSheetSelectExistingPlaceSection_TitleReplace" = "Vervangen door bestaande plaats";
+
+/* (No Comment) */
+"_EditEventPlaceViewController_EditPlace" = "Plaats bewerken";
+
+/* (No Comment) */
+"_EditEventPlaceViewController_JustLookUpCoordinate" = "Alleen opzoeken coördinaat";
+
+/* (No Comment) */
+"_EditEventPlaceViewController_RemoveCurrentPlace" = "Huidige plaats verwijderen";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_AddExistingManButton" = "Bestaande man toevoegen";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_AddExistingWomanButton" = "Bestaande vrouw toevoegen";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_AddNewManButton" = "Nieuwe man toevoegen";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_AddNewWomanButton" = "Nieuw vrouw toevoegen";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_EditParentButton" = "bewerken";
+
+/* EditFamilyController */
+"_EditFamilyBaseEditParentContentController_NoManPlaceholder" = "Nog geen man toegevoegd aan deze familie. Kies de knoppen onderaan om een nieuwe of bestaande man aan deze familie toe te voegen.";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_NoWomanPlaceholder" = "Nog geen vrouw toegevoegd aan deze familie. Kies de knoppen onderaan om een nieuwe of bestaande vrouw aan deze familie toe te voegen.";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_RemoveAsManButton" = "Verwijder als man";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_RemoveAsPartner1Button" = "Verwijder als partner 1";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_RemoveAsPartner2Button" = "Verwijder als partner 2";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_RemoveAsWomanButton" = "Verwijder als vrouw";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_RemoveFromFamilyInformative" = "Wenst u deze ouder écht te verwijderen uit deze familie? De ouder wordt niet gewist, maar zal niet langer deel uitmaken van deze familie.";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_RemoveFromFamilyMessage" = "Ouder '%@' verwijderen?";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_ShowParentButton" = "Toon";
+
+/* EditFamilyChildContentController */
+"_EditFamilyChildContentController_Title" = "Kinderen";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_AddChildTopLevelButton" = "Kinderen toevoegen";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_AddExistingChildButton" = "Bestaand kind toevoegen";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_AddNewChildButton" = "Nieuw kind toevoegen";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_ChildOrder" = "Kind #%d";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_ChildOrderPopup" = "Eigen volgorde kinderen";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_DeleteChildRelationInformative" = "Wenst u dit kind écht te verwijderen uit deze familie? Het kind wordt niet gewist, maar zal niet langer deel uitmaken van deze familie.";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_DeleteChildRelationMessage" = "Kind '%@' verwijderen uit familie?";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_EditChildButton" = "Bewerken";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_LargePlaceholder" = "Geen kinderen aanwezig";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_RemoveAsChildButton" = "Verwijder als kind";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_SmallPlaceholder" = "Geen kinderen toegevoegd in deze familie. Gebruik bovenstaande knoppen om kinderen toe te voegen.";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_Sorting_ByBirthDate" = "Op geboortedatum";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_Sorting_ByName" = "Op naam";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_Sorting_CustomOrder" = "Eigen volgorde";
+
+/* (No Comment) */
+"_EditFamilyController_AddFatherPlaceholder" = "Vader van %@ toevoegen";
+
+/* (No Comment) */
+"_EditFamilyController_AddMotherPlaceholder" = "Moeder van %@ toevoegen";
+
+/* (No Comment) */
+"_EditFamilyController_AddNewFamily" = "Nieuwe familie toevoegen";
+
+/* (No Comment) */
+"_EditFamilyController_AddParent1Placeholder" = "Ouder 1 van %@ toevoegen";
+
+/* (No Comment) */
+"_EditFamilyController_AddParent2Placeholder" = "Ouder 2 van %@ toevoegen";
+
+/* (No Comment) */
+"_EditFamilyController_DeleteFamily" = "Familie verwijderen";
+
+/* (No Comment) */
+"_EditFamilyController_DeleteFamilyQuestionMessage" = "Familie werkelijk verwijderen?";
+
+/* (No Comment) */
+"_EditFamilyController_NoFamiliesPlaceholder_AddFamilyButton" = "Eerste familie toevoegen";
+
+/* (No Comment) */
+"_EditFamilyController_NoFamiliesPlaceholder_Message" = "Geen families in deze kwartierstaat. Kies 'Eerste familie toevoegen\" om uw eerste familie aan te maken.";
+
+/* (No Comment) */
+"_EditFamilyController_NoFamiliesPlaceholder_Title" = "Geen families aanwezig";
+
+/* (No Comment) */
+"_EditFamilyController_ParentsOfLabel" = "Ouders van %@";
+
+/* (No Comment) */
+"_EditFamilyController_Title" = "Familie bewerken";
+
+/* EditFamilyEditManContentController */
+"_EditFamilyEditManContentController_Title" = "Man";
+
+/* EditFamilyEditWomanContentController */
+"_EditFamilyEditWomanContentController_Title" = "Vrouw";
+
+/* (No Comment) */
+"_EditFamilyEventController_Title" = "Familiegebeurtenis bewerken";
+
+/* EditFamilyTreeInformationContactContentController */
+"_EditFamilyTreeInformationContactContentController_Title" = "Contactgegevens auteur";
+
+/* (No Comment) */
+"_EditFamilyTreeInformationController_Title" = "Auteur";
+
+/* EditFamilyTreeInformationFamilyCrestContentController */
+"_EditFamilyTreeInformationFamilyCrestContentController_Title" = "Familiewapen";
+
+/* EditFamilyTreeInformationHeaderContentController */
+"_EditFamilyTreeInformationHeaderContentController_LargeTitle" = "Over de auteur van deze kwartierstaat";
+
+/* (No Comment) */
+"_EditFamilyTreeInformationIconSettingsContentController_AddToIconButton" = "Media aan icoon toevoegen";
+
+/* (No Comment) */
+"_EditFamilyTreeInformationIconSettingsContentController_RemoveMediaFromIconMenuItem" = "Uit icoon verwijderen";
+
+/* EditFamilyTreeInformationIconSettingsContentController */
+"_EditFamilyTreeInformationIconSettingsContentController_Title" = "Icoon-instellingen";
+
+/* (No Comment) */
+"_EditFamilyTreeInformationNameAndAddressContentController_NoNamePlaceholder" = "Geen naam ingevoerd";
+
+/* EditFamilyTreeInformationNameAndAddressContentController */
+"_EditFamilyTreeInformationNameAndAddressContentController_Title" = "Naam & adres auteur";
+
+/* (No Comment) */
+"_EditLabel_DeleteLabelMessage" = "Dit label wordt permanent verwijderd en uit alle bijbehorende vermeldingen in uw stamboom gehaald.";
+
+/* Edit Labels Views */
+"_EditLabel_DeleteLabelTitle" = "Label echt verwijderen?";
+
+/* (No Comment) */
+"_EditLabelsContentController_NoLabelsLargePlaceholder" = "Geen labels aanwezig";
+
+/* (No Comment) */
+"_EditLabelsContentController_NoLabelsSmallPlaceholder" = "Geen labels aanwezig in deze kwartierstaat. Gebruik bovenstaande knop om labels toe te voegen.";
+
+/* Shared Labels */
+"_EditLabelsContentController_Title" = "Labels";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_AddEntryButton" = "Invoer toevoegen";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_EditMediaRelationAssignmentButton" = "Toewijzingsgebied bewerken";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_LargePlaceholder" = "Geen toegewezen invoer aanwezig";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_RemoveFromMediaButton" = "Verwijderen";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_RemoveMediaFromEntryAndDeleteInformative" = "Aangezien dit de laatste invoer is die toegewezen is aan deze media, wordt de media verwijderd uit de kwartierstaat.";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_RemoveMediaFromEntryAndDeleteMessage" = "Wenst u deze media écht te verwijderen?";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_RemoveMediaFromEntryInformative" = "Dit verwijdert de media niet, maar verwijdert enkel de toewijzing van de invoer aan deze media.";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_RemoveMediaFromEntryMessage" = "Wenst u de invoer '%@' echt uit deze media te verwijderen?";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_SmallPlaceholder" = "Gebruik bovenstaande knop om invoer zoals personen of families toe te wijzen aan deze media";
+
+/* EditMediaAssignedEntriesContentController */
+"_EditMediaAssignedEntriesContentController_Title" = "Toegewezen invoer";
+
+/* (No Comment) */
+"_EditMediaContentController_AddMediaButton" = "Media toevoegen";
+
+/* (No Comment) */
+"_EditMediaContentController_BringToFrontMenuItem" = "Media vooraan plaatsen";
+
+/* (No Comment) */
+"_EditMediaContentController_DeleteMediaQuestionInformative" = "Wenst u deze media écht te verwijderen uit uw kwartierstaat?";
+
+/* (No Comment) */
+"_EditMediaContentController_DeleteMediaQuestionMessage" = "Media écht verwijderen?";
+
+/* (No Comment) */
+"_EditMediaContentController_DeleteMenuItem" = "Verwijder";
+
+/* (No Comment) */
+"_EditMediaContentController_DoNotUseAsEntryImageMenuItem" = "Niet gebruiken als startafbeelding";
+
+/* (No Comment) */
+"_EditMediaContentController_EditMenuItem" = "Bewerken...";
+
+/* (No Comment) */
+"_EditMediaContentController_LargePlaceholder" = "Geen media aanwezig";
+
+/* (No Comment) */
+"_EditMediaContentController_MarkAsNotPrivateMenuItem" = "Markeren als niet-privaat";
+
+/* (No Comment) */
+"_EditMediaContentController_MarkAsPrivateMenuItem" = "Markeren als privaat";
+
+/* (No Comment) */
+"_EditMediaContentController_NoPicture_SmallPlaceholder" = "Gebruik bovenstaande knop om afbeeldingen toe te voegen";
+
+/* (No Comment) */
+"_EditMediaContentController_ShowSlideshowButton" = "Diashow";
+
+/* (No Comment) */
+"_EditMediaContentController_SmallPlaceholder" = "Gebruik bovenstaande knop om foto's, video's, audio of webpagina's toe te voegen";
+
+/* Media */
+"_EditMediaContentController_Title" = "Media";
+
+/* (No Comment) */
+"_EditMediaContentController_UseAsEntryImageMenuItem" = "Gebruik als toegangsafbeelding";
+
+/* EditMediaController */
+"_EditMediaController_LargePlaceholder" = "Geen media aanwezig";
+
+/* (No Comment) */
+"_EditMediaController_SmallPlaceholder" = "Voeg media toe aan de sectie media bij het bewerken van personen, families of plaatsen";
+
+/* (No Comment) */
+"_EditMediaController_Title" = "Media bewerken";
+
+/* (No Comment) */
+"_EditMediaCropColorizeContentController_Explanation" = "Selecteer de knop bovenaan om deze afbeelding bij te snijden, te kleuren, krassen te verwijderen, te verbeteren of de achtergrond te verwijderen.";
+
+/* (No Comment) */
+"_EditMediaCropColorizeContentController_OpenCropColorizeButton" = "Bewerk & verbeter afbeelding…";
+
+/* (No Comment) */
+"_EditMediaCropColorizeContentController_SuiteableForColorizeExplanation" = "Deze afbeelding lijkt geschikt voor kleurvervulling. Auto-kleurvervulling, verbeteren, krassen verwijderen of afbeeldingen bijsnijden met de knop hierboven.";
+
+/* EditMediaCropColorizeContentController */
+"_EditMediaCropColorizeContentController_Title" = "AI & Gewas";
+
+/* EditMediaGeneralContentController */
+"_EditMediaGeneralContentController_Title" = "Algemeen";
+
+/* EditMediaMediaPreviewContentController */
+"_EditMediaMediaPreviewContentController_Title" = "Media";
+
+/* (No Comment) */
+"_EditMediaMediaPreviewContentControlleriOSPlatformView_ShowAudioButton" = "Toon audio...";
+
+/* (No Comment) */
+"_EditMediaMediaPreviewContentControlleriOSPlatformView_ShowFullImageButton" = "Toon afbeelding in vol formaat...";
+
+/* (No Comment) */
+"_EditMediaMediaPreviewContentControlleriOSPlatformView_ShowFullPDFButton" = "Toon volledige PDF...";
+
+/* (No Comment) */
+"_EditMediaMediaPreviewContentControlleriOSPlatformView_ShowVideoButton" = "Toon video...";
+
+/* (No Comment) */
+"_EditMediaMediaPreviewContentControlleriOSPlatformView_ShowWebsiteButton" = "Toon website";
+
+/* (No Comment) */
+"_EditNotesContentController_AddNoteButton" = "Notitie toevoegen";
+
+/* (No Comment) */
+"_EditNotesContentController_DeleteNoteQuestionMessage" = "Notitie werkelijk verwijderen?";
+
+/* (No Comment) */
+"_EditNotesContentController_LargePlaceholder" = "Geen notities";
+
+/* (No Comment) */
+"_EditNotesContentController_NoNoteTextPlaceholder" = "Geen notitie tekst ingevoerd";
+
+/* (No Comment) */
+"_EditNotesContentController_SmallPlaceholder" = "Gebruik bovenstaand knop om een nieuwe notitie toe te voegen";
+
+/* (No Comment) */
+"_EditNotesContentController_Sorting_ByChangeDate" = "Op wijzigingsdatum";
+
+/* (No Comment) */
+"_EditNotesContentController_Sorting_ByCreationDate" = "Op aanmaakdatum";
+
+/* (No Comment) */
+"_EditNotesContentController_Sorting_ByText" = "Op tekst";
+
+/* EditNotesContentController */
+"_EditNotesContentController_Title" = "Notities";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_AddAdditionalNameButton" = "Naam toevoegen";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_AdditionalNamePlaceholder" = "%@- Voer hier info in";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_DeleteAdditionalNameQuestionInformative" = "Wenst u deze bijkomende naam echt te verwijderen?";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_DeleteAdditionalNameQuestionMessage" = "Bijkomende naam '%@' verwijderen?";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_EditAdditionalNameConclusionTypes" = "Bijkomende naamtypes bewerken...";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_LargePlaceholder" = "Geen bijkomende naam aanwezig";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_SmallPlaceholder" = "Gebruik bovenstaande knop om een nieuwe bijkomende naam toe te voegen.";
+
+/* EditPerson Additional Names */
+"_EditPersonAdditionalNamesContentController_Title" = "Bijkomende namen";
+
+/* (No Comment) */
+"_EditPersonController_AddBrotherMenuItem" = "Nieuwe broer toevoegen";
+
+/* (No Comment) */
+"_EditPersonController_AddChildPlaceholder" = "Nieuw kind toevoegen";
+
+/* (No Comment) */
+"_EditPersonController_AddExistingFurtherPartnerMenuItem" = "Bestaand persoon toevoegen als andere partner...";
+
+/* (No Comment) */
+"_EditPersonController_AddExistingPersonAsChildMenuItem" = "Bestaand persoon toevoegen als kind...";
+
+/* (No Comment) */
+"_EditPersonController_AddExistingPersonAsFatherMenuItem" = "Bestaand persoon toevoegen als vader...";
+
+/* (No Comment) */
+"_EditPersonController_AddExistingPersonAsMotherMenuItem" = "Bestaand persoon toevoegen als moeder...";
+
+/* (No Comment) */
+"_EditPersonController_AddExistingPersonAsPartnerMenuItem" = "Bestaand persoon toevoegen als partner...";
+
+/* EditPersonController */
+"_EditPersonController_AddFatherPlaceholder" = "Nieuwe vader toevoegen";
+
+/* (No Comment) */
+"_EditPersonController_AddFurtherFather" = "Andere vader toevoegen";
+
+/* (No Comment) */
+"_EditPersonController_AddFurtherMother" = "Andere moeder toevoegen";
+
+/* (No Comment) */
+"_EditPersonController_AddFurtherPartnerMenuItem" = "Andere partner toevoegen";
+
+/* (No Comment) */
+"_EditPersonController_AddMotherPlaceholder" = "Nieuwe moeder toevoegen";
+
+/* (No Comment) */
+"_EditPersonController_AddNewPersonAsChildMenuItem" = "Nieuw kind toevoegen";
+
+/* (No Comment) */
+"_EditPersonController_AddNewPersonAsFatherMenuItem" = "Nieuwe vader toevoegen";
+
+/* (No Comment) */
+"_EditPersonController_AddNewPersonAsMotherMenuItem" = "Nieuwe moeder toevoegen";
+
+/* (No Comment) */
+"_EditPersonController_AddNewPersonAsPartnerMenuItem" = "Voeg nieuwe partner toe";
+
+/* (No Comment) */
+"_EditPersonController_AddNewPersonMenuItem" = "Nieuwe persoon toevoegen";
+
+/* (No Comment) */
+"_EditPersonController_AddPartnerPlaceholder" = "Voeg nieuwe partner toe";
+
+/* (No Comment) */
+"_EditPersonController_AddSisterMenuItem" = "Voeg nieuwe zuster toe";
+
+/* (No Comment) */
+"_EditPersonController_BrotherOrSisterOfFamilyMenuItem" = "Broer of zuster van '%@' in familie...";
+
+/* (No Comment) */
+"_EditPersonController_ChildRelationTypeForFatherMenuItem" = "Verwantschap met vader %@";
+
+/* (No Comment) */
+"_EditPersonController_ChildRelationTypeForMotherMenuItem" = "Relatie met moeder %@";
+
+/* (No Comment) */
+"_EditPersonController_ChildRelationTypeMenuItem" = "Soort verwantschap kind";
+
+/* (No Comment) */
+"_EditPersonController_DeleteFamily" = "Familie verwijderen";
+
+/* (No Comment) */
+"_EditPersonController_DeletePerson" = "Persoon verwijderen";
+
+/* (No Comment) */
+"_EditPersonController_DeletePersonMenuItem" = "Verwijder %@...";
+
+/* (No Comment) */
+"_EditPersonController_EditFamilyMenuItem" = "Bewerk familie %@";
+
+/* (No Comment) */
+"_EditPersonController_EditFamilyMenuItem_WithoutPlaceholder" = "Familie bewerken";
+
+/* (No Comment) */
+"_EditPersonController_EditPersonMenuItem" = "Bewerk %@";
+
+/* (No Comment) */
+"_EditPersonController_NoPersonsPlaceholder_AddPersonButton" = "Voeg eerste persoon toe";
+
+/* (No Comment) */
+"_EditPersonController_NoPersonsPlaceholder_Message" = "Geen personen in deze kwartierstaat. Kies \"Voeg eerste persoon toe\" om uw eerste persoon aan te maken.";
+
+/* (No Comment) */
+"_EditPersonController_NoPersonsPlaceholder_Title" = "Geen personen aanwezig";
+
+/* (No Comment) */
+"_EditPersonController_ParentsOptionsButton" = "Opties ouder...";
+
+/* (No Comment) */
+"_EditPersonController_PartnerOptionsButton" = "Opties partner...";
+
+/* (No Comment) */
+"_EditPersonController_RemovePersonFromFamilyMenuItem" = "%@ uit familie verwijderen";
+
+/* (No Comment) */
+"_EditPersonController_RemovePersonQuestionInformative" = "Dit verwijdert de persoon niet uit uw kwartierstaat, maar verwijdert de persoon uit deze familie.";
+
+/* (No Comment) */
+"_EditPersonController_RemovePersonQuestionMessage" = "Wenst u persoon '%@' écht uit de familie '%@' te verwijderen?";
+
+/* (No Comment) */
+"_EditPersonController_SelectFamily" = "Familie kiezen";
+
+/* (No Comment) */
+"_EditPersonController_ShowOldestAncestorsMenuItem" = "Oudste voorouders...";
+
+/* (No Comment) */
+"_EditPersonController_ShowYoungestAncestorsMenuItem" = "Jongste afstammelingen...";
+
+/* Titles */
+"_EditPersonController_Title" = "Persoon bewerken";
+
+/* (No Comment) */
+"_EditPersonDNAContentController_AddDNATest" = "DNA-testresultaat toevoegen";
+
+/* (No Comment) */
+"_EditPersonDNAContentController_EditDNATestResultButton" = "DNA-gegevens bewerken";
+
+/* (No Comment) */
+"_EditPersonDNAContentController_LargePlaceholder" = "Geen DNA-testresultaten ingevoerd";
+
+/* (No Comment) */
+"_EditPersonDNAContentController_SmallPlaceholder" = "Gebruik bovenstaande knoppen om DNA-testresultaten toe voegen aan deze persoon";
+
+/* (No Comment) */
+"_EditPersonDNAContentController_Sorting_ByDate" = "Op datum";
+
+/* (No Comment) */
+"_EditPersonDNAContentController_Sorting_ByTitle" = "Op titel";
+
+/* EditPersonDNAContentController */
+"_EditPersonDNAContentController_Title" = "DNA";
+
+/* (No Comment) */
+"_EditPersonEventController_Title" = "Bewerk persoonsgebeurtenis";
+
+/* (No Comment) */
+"_EditPersonFactController_Title" = "Bewerk persoonsfeit";
+
+/* EditPersonFactGeneralContentController */
+"_EditPersonFactGeneralContentController_Title" = "Algemeen";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_AddFactButton" = "Feit toevoegen";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_DeleteFactQuestionMessage" = "Persoonsfeit verwijderen?";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_EditFactDetails" = "Feitendetails bewerken";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_EditPersonFactConclusionTypes" = "Soort persoonsfeiten bewerken";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_FactPlaceholder" = "%@- voeg hier info toe";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_LargePlaceholder" = "Geen feiten aanwezig";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_SmallPlaceholder" = "Gebruik bovenstaande knop om een nieuw feit toe te voegen.";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_Sorting_ByFactType" = "Op soort feit";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_Sorting_ByFactValue" = "Op waarde feit";
+
+/* EditPersonFactsContentController */
+"_EditPersonFactsContentController_Title" = "Feiten";
+
+/* (No Comment) */
+"_EditPersonFamilySearchContentController_DetailsButton" = "Details";
+
+/* EditPersonFamilySearchContentController */
+"_EditPersonFamilySearchContentController_Title" = "FamilySearch";
+
+/* (No Comment) */
+"_EditPersonGroupController_AddPersonGroupButton" = "Eerste persoon toevoegen aan groep";
+
+/* EditPersonGroupController */
+"_EditPersonGroupController_LargePlaceholder" = "Geen persoonsgroepen aanwezig";
+
+/* (No Comment) */
+"_EditPersonGroupController_SmallPlaceholder" = "Er zijn geen persoonsgroepen in deze kwartierstaat. Persoonsgroepen kunnen gebruikt worden om specifieke takken in uw kwartierstaat te benadrukken. Kies \" Eerste persoonsgroep toevoegen \" om uw eerste persoonsgroep aan te maken.";
+
+/* (No Comment) */
+"_EditPersonGroupController_Title" = "Persoonsgroep bewerken";
+
+/* (No Comment) */
+"_EditPersonGroupGeneralContentController_NamePlaceholder" = "Geen naam ingesteld";
+
+/* (No Comment) */
+"_EditPersonGroupGeneralContentController_Title" = "Algemeen";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_AddPersonToGroupButton" = "Personen toevoegen";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_DeletePersonGroupRelationInformative" = "Dit verwijdert de persoon of persoonsgroep niet, maar de persoon wordt verwijderd uit deze persoonsgroep.";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_DeletePersonGroupRelationMessage" = "'%@' verwijderen uit personengroep '%@'?";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_LargePlaceholder" = "Geen personen in deze persoonsgroep";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_ManagePersonsInGroupButton" = "Personen beheren";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_RemoveFromPersonGroupButton" = "Uit groep verwijderen";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_SmallPlaceholder" = "Gebruik bovenstaande knop om personen toe te voegen aan deze persoonsgroep.";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_Sorting_ByBirthDate" = "Op geboortedatum";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_Sorting_ByName" = "Op naam";
+
+/* EditPersonGroupPersonsInGroupContentController */
+"_EditPersonGroupPersonsInGroupContentController_Title" = "Personen in groep:";
+
+/* (No Comment) */
+"_EditPersonGroupsContentController_NoPersonGroupsLargePlaceholder" = "Geen persoonsgroepen aanwezig";
+
+/* (No Comment) */
+"_EditPersonGroupsContentController_NoPersonGroupsSmallPlaceholder" = "Geen persoonsgroepen toegevoegd aan deze kwartierstaat. Gebruik de functie 'Persoonsgroepen' om ze toe te voegen.";
+
+/* _EditPersonGroupsContentController_Title */
+"_EditPersonGroupsContentController_Title" = "Persoonsgroepen";
+
+/* EditPerson Name */
+"_EditPersonNameContentController_Title" = "Naam & geslacht";
+
+/* (No Comment) */
+"_EditPersonNumberingSystemContentController_NoNumberingSystemAssigned" = "Kies een nummeringssysteem beginnend met deze persoon dmv onderstaande knop:";
+
+/* (No Comment) */
+"_EditPersonNumberingSystemContentController_NumberingSystemAssignedAndHasValueAndIsNotStartPerson" = "Deze persoon heeft een nummer in het huidig nummeringssysteem beginnend met persoon:";
+
+/* (No Comment) */
+"_EditPersonNumberingSystemContentController_NumberingSystemAssignedAndIsStartPerson" = "Deze persoon in de startpersoon in het huidig nummeringssysteem (%@).";
+
+/* (No Comment) */
+"_EditPersonNumberingSystemContentController_NumberingSystemAssignedAndPersonHasNoValue" = "Deze persoon heeft geen nummer in het huidig nummeringssysteem. D.w.z. dat deze persoon geen voorouder of afstammeling is van de startpersoon in dit nummeringssysteem (%@):";
+
+/* (No Comment) */
+"_EditPersonNumberingSystemContentController_SetNumberingSystemTopLevelMenuItem" = "Nummeringssysteem...";
+
+/* EditPersonNumberingSystemContentController */
+"_EditPersonNumberingSystemContentController_Title" = "Nummeringssysteem";
+
+/* (No Comment) */
+"_EditPlaceAlternateNamesContentController_AlternatePlaceNamesPlaceholder" = "Voer hier eventuele alternatieve plaatsnamen in";
+
+/* EditPlaceAlternateNamesContentController */
+"_EditPlaceAlternateNamesContentController_Title" = "Alternatieve plaatsnamen";
+
+/* EditPlaceController */
+"_EditPlaceController_LargePlaceholder" = "Geen plaatsen aanwezig";
+
+/* (No Comment) */
+"_EditPlaceController_LookupNewPlaceButton" = "Eerste plaats opzoeken";
+
+/* (No Comment) */
+"_EditPlaceController_SmallPlaceholder" = "Voer plaatsen in voor persoon- of familie-evenementen of gebruik de knop hieronder om een nieuwe plaats op te zoeken.";
+
+/* (No Comment) */
+"_EditPlaceController_Title" = "Plaats bewerken";
+
+/* (No Comment) */
+"_EditPlaceCoordinateContentController_AddCoordinateButton" = "Manueel invoeren";
+
+/* (No Comment) */
+"_EditPlaceCoordinateContentController_DeleteCoordinateQuestionMessage" = "Coördinaten verwijderen?";
+
+/* (No Comment) */
+"_EditPlaceCoordinateContentController_LargePlaceholder" = "Geen coördinaat ingevoerd";
+
+/* (No Comment) */
+"_EditPlaceCoordinateContentController_LookupButton" = "Opzoeken";
+
+/* (No Comment) */
+"_EditPlaceCoordinateContentController_SmallPlaceholder" = "Gebruik bovenstaande knoppen om de coördinaten manueel in te voeren of op te zoeken d.m.v. de plaatsnaam.";
+
+/* (No Comment) */
+"_EditPlaceCoordinateContentController_SmallPlaceholder_CTW" = "Gebruik bovenstaande knop om de coördinaten voor deze plaats manueel toe te voegen.";
+
+/* EditPlaceCoordinateContentController */
+"_EditPlaceCoordinateContentController_Title" = "Coördinaat";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_AddCoordinateButton" = "Coördinaat toevoegen";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_AddEmptyPlaceDetail" = "Lege plaats toevoegen";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_AddPlaceDetail" = "Toevoegen";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_DeletePlaceDetailQuestionMessage" = "Echt plaatsinformatie verwijderen?";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_EventCount" = "Aantal gebeurtenissen";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_LargePlaceholder" = "Geen plaatsgegevens ingevoerd";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_LookupCoordinateButton" = "Coördinaten opzoeken...";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_MegeWithOtherPlaceDetailButton" = "Samenvoegen met ander plaatsdetail";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_NoNamePlaceholder" = "Geen plaatsnaam ingevoerd";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_RemoveCoordinateButton" = "Coördinaat verwijderen";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_SearchOtherPlaceDetail" = "Nieuw detail van plaats opzoeken...Nieuw detail van plaats opzoeken...";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_SmallPlaceholder" = "Gebruik de 'Toevoegen'-knop hierboven om plaatsdetails toe te voegen. Plaatsdetails zijn specifieke adressen, secties of andere bezienswaardigheden op deze plaats.";
+
+/* EditPlaceDetailsContentController */
+"_EditPlaceDetailsContentController_Title" = "Plaats Details";
+
+/* (No Comment) */
+"_EditPlaceEventsAtPlaceContentController_LargePlaceholder" = "Geen gebeurtenissen toegevoegd";
+
+/* (No Comment) */
+"_EditPlaceEventsAtPlaceContentController_RemoveFromPlace" = "Van plaats verwijderen";
+
+/* (No Comment) */
+"_EditPlaceEventsAtPlaceContentController_SmallPlaceholder" = "Nog geen persoons- of familiegebeurtenis toegevoegd aan deze plaats. Gebruik de sectie 'Personen' of 'Familie' om plaatsen toe te wijzen aan gebeurtenissen.";
+
+/* (No Comment) */
+"_EditPlaceEventsAtPlaceContentController_Sorting_ByDate" = "Op datum gebeurtenis";
+
+/* (No Comment) */
+"_EditPlaceEventsAtPlaceContentController_Sorting_ByType" = "Op soort gebeurtenis";
+
+/* EditPlaceEventsAtPlaceContentController */
+"_EditPlaceEventsAtPlaceContentController_Title" = "Gebeurtenissen op plaats";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_AddField" = "Veld toevoegen...";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_AddTemplateKeyToTemplate" = "Veld '%@' toevoegen aan sjabloon '%@'";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_DeleteFieldContentsInformative" = "Wil je deze aanvullende informatie van de momenteel weergegeven plaats echt verwijderen?";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_DeleteFieldContentsMessage" = "Deze informatie van de plaats verwijderen?";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_EditTemplateKeys" = "Plaatsvelden bewerken...";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_LargePlaceholder" = "Geen verdere plaatsvelden gespecificeerd";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_SmallPlaceholder" = "Je kunt verder plaatsvelden toevoegen aan deze plaats die niet gespecificeerd zijn in de momenteel geselecteerde sjabloon door de knop hierboven te gebruiken.";
+
+/* EditPlaceFurtherPlaceNameFieldsContentController */
+"_EditPlaceFurtherPlaceNameFieldsContentController_Title" = "Overige plaatsnaamvelden";
+
+/* (No Comment) */
+"_EditPlaceHeaderContentController_EventCountTitlePlural" = "%d gebeurtenissen op deze plaats";
+
+/* EditPlaceHeaderContentController */
+"_EditPlaceHeaderContentController_EventCountTitleSingular" = "Eén gebeurtenis op deze plaats";
+
+/* (No Comment) */
+"_EditPlaceHeaderContentController_EventsDateRangePlural" = "Datumbereik gebeurtenissen";
+
+/* (No Comment) */
+"_EditPlaceHeaderContentController_EventsDateRangeSingular" = "Datum evenement";
+
+/* (No Comment) */
+"_EditPlaceHeaderContentController_PlaceDetailCountTitlePlural" = "%d plaatsgegevens";
+
+/* (No Comment) */
+"_EditPlaceHeaderContentController_PlaceDetailCountTitleSingular" = "Detail op één plaats";
+
+/* _EditPlaceLinksContentController_OtherLanguagesButton */
+"_EditPlaceLinksContentController_Title" = "Webpagina's";
+
+/* (No Comment) */
+"_EditPlaceNameContentController_EditTemplates" = "Plaatsjablonen bewerken...";
+
+/* EditPlaceNameContentController */
+"_EditPlaceNameContentController_Title" = "Plaatsnaam";
+
+/* (No Comment) */
+"_EditPlacePane_Map_PlaceholderButton" = "Coördinaten opzoeken...";
+
+/* (No Comment) */
+"_EditPlacePane_Map_PlaceholderMessage" = "Om de locatie van de geselecteerde plaats op de kaart te tonen, zoek je de geografische coördinaten voor deze plaats op:";
+
+/* (No Comment) */
+"_EditPlacePane_Map_PlaceholderMessagePlaceDetail" = "Om de locatie van het geselecteerde plaatsdetail op de kaart te tonen, zoek je de geografische coördinaten voor dit plaatsdetail op.";
+
+/* EditPlacePane */
+"_EditPlacePane_Map_PlaceholderTitle" = "Geen coördinaat";
+
+/* (No Comment) */
+"_EditPlacePane_MapKitTypePopupButton" = "Type kaart";
+
+/* (No Comment) */
+"_EditPlacePane_MapKitTypePopupButton_FromPreferences" = "Zoals gespecificeerd in voorkeuren";
+
+/* (No Comment) */
+"_EditPlacePane_MapKitTypePopupButton_Hybrid" = "Hybride";
+
+/* (No Comment) */
+"_EditPlacePane_MapKitTypePopupButton_Satellite" = "Satelliet";
+
+/* (No Comment) */
+"_EditPlacePane_MapKitTypePopupButton_Standard" = "Standaard";
+
+/* (No Comment) */
+"_EditPlacePane_MapKitTypePopupButton_StandardMuted" = "Standaard (gedempt)";
+
+/* (No Comment) */
+"_EditPlacePane_MapOptionsButton" = "Kaart Opties";
+
+/* (No Comment) */
+"_EditPlacePane_OnlyShowPlaceDetailsForSelectedPlaceOnMapCheckbox" = "Toon plaatsdetails alleen wanneer de plaats is geselecteerd";
+
+/* (No Comment) */
+"_EditPlacePane_OnlyShowSelectedPlaceOnMapCheckbox" = "Alleen geselecteerde plaats op kaart weergeven";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton" = "Kleur van pin";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton_ByEventCount_BlueToMagentaToOrange" = "Op aantal gebeurtenissen (van blauw naar magenta naar oranje)";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton_ByEventCount_BlueToRed" = "Op aantal gebeurtenissen (van blauw naar rood)";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton_ByEventCount_GreenToYellowToRed" = "Op aantal gebeurtenissen (van groen naar geel naar rood)";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton_ByEventCount_TurquoiseToYellowToLightRed" = "Op aantal gebeurtenissen (van turkoois naar geel naar lichtrood)";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton_ByEventCount_YellowToRed" = "Op aantal gebeurtenissen (geel tot rood)";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton_SingleColor" = "Eenkleurig";
+
+/* (No Comment) */
+"_EditPlacePane_ShowEventCountOnPlacePins" = "Gebeurtenistelling op pinnen weergeven";
+
+/* (No Comment) */
+"_EditPrivateContentController_Explanation" = "Als dit aangevinkt is, wordt deze informatie niet getoond in kaarten of rapporten";
+
+/* (No Comment) */
+"_EditPrivateContentController_MarkAsPrivate" = "Markeren als privé";
+
+/* EditPrivateContentController */
+"_EditPrivateContentController_Title" = "Privaat";
+
+/* EditReferenceNumbersContentController */
+"_EditReferenceNumbersContentController_Title" = "Referentienummers";
+
+/* (No Comment) */
+"_EditSourceContentController_AddToDoButton" = "Eerste bron toevoegen";
+
+/* (No Comment) */
+"_EditSourceContentController_DeleteSourceQuestionMessage" = "Bron werkelijk verwijderen?";
+
+/* EditSourceContentController */
+"_EditSourceContentController_LargePlaceholder" = "Geen bronnen aanwezig";
+
+/* (No Comment) */
+"_EditSourceContentController_SmallPlaceholder" = "Geen bronnen in deze kwartierstaat. Kies 'Voeg eerste bron toe' om uw eerste bron aan te maken.";
+
+/* (No Comment) */
+"_EditSourceController_Title" = "Bron bewerken";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_AddField" = "Veld toevoegen...";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_AddTemplateKeyToTemplate" = "Voeg veld '%@' toe aan sjabloon '%@'";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_DeleteFieldContentsInformative" = "Wenst u deze verdere informatie echt uit huidige getoonde bron verwijderen?";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_DeleteFieldContentsMessage" = "Deze info verwijderen uit de bron?";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_EditTemplateKeys" = "Bronvelden bewerken...";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_LargePlaceholder" = "Geen verdere informatievelden gespecifiëerd";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_SmallPlaceholder" = "U kan extra informatie toevoegen aan deze bron die nog niet ingesteld  is in het huidig geselecteerd sjabloon d.m.v. bovenstaande knop.";
+
+/* EditSourceFurtherFieldsContentController */
+"_EditSourceFurtherFieldsContentController_Title" = "Meer informatie";
+
+/* (No Comment) */
+"_EditSourceGeneralContentController_EditSourceRepository" = "Bronarchieven bewerken...";
+
+/* (No Comment) */
+"_EditSourceGeneralContentController_EditTemplates" = "Bronsjablonen bewerken...";
+
+/* EditSourceGeneralContentController */
+"_EditSourceGeneralContentController_Title" = "Informatie bron";
+
+/* (No Comment) */
+"_EditSourceGeneralContentController_TitlePlaceholder" = "Geen titel opgegeven";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_AddEntryToSourceButton" = "Invoer toevoegen";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_CitationNotes" = "Notities citaat";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_LargePlaceholder" = "Geen invoer met verwijzing aanwezig";
+
+/* EditSourceReferencedEntriesContentController */
+"_EditSourceReferencedEntriesContentController_RemoveFromSourceButton" = "Van bron verwijderen";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_SmallPlaceholder" = "Gebruik bovenstaande knop om invoer met verwijzing toe te voegen";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_Sorting_ByPage" = "Op pagina";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_Sorting_ByType" = "Op type";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_Title" = "Invoer met verwijzing";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_EvidenceExplanation" = "Stel in of het bewijs voor betrokken invoer in deze bron negatief, indirect of direct is.";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_EvidenceQuality" = "Kwaliteit bewijs";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_GeneralExplanation" = "Verduidelijk de bron, informatie en bewijskwaliteit van deze invoer voor vermelde bron:";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_InformationExplanation" = "Is de info in deze bron uit eerste hand of tweede hand?";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_InformationQuality" = "Kwaliteit informatie";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_QualityExplanation" = "Selecteer of deze bron origineel is of een afleiding.";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_SourceQuality" = "Kwaliteit bron";
+
+/* EditSourceRelationCertaintySettingsCertaintyViewContentController */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_Title" = "Zekerheid bron";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_AddExistingSourceMenuItem" = "Bestaande bron toevoegen...";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_AddNewSourceMenuItem" = "Nieuwe bron toevoegen";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_AddSourceButton" = "Bron toevoegen";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_CitedSource" = "Geciteerde bron";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_CopySourceCitation" = "Bronvermelding kopiëren";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_DeleteSourceMenuItem" = "Verwijder bron";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_LargePlaceholder" = "Geen broncitaten aanwezig";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_PasteSourceCitation" = "Bronvermelding plakken";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_RemoveObjectFromSourceInformative" = "Wenst u deze bronvermelding echt te verwijderen? Dit verwijdert niet de bron, maar wel deze invoer uit de bron.";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_RemoveObjectFromSourceMessage" = "Invoer van bron '%@' verwijderen?";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_SmallPlaceholder" = "Gebruik bovenstaande knop om broncitaten voor deze invoer toe te voegen";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_Sorting_ByCertainty" = "Rangschik op zekerheid bron";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_Sorting_ByDate" = "Rangschik op datum bron";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_Sorting_ByPage" = "Rangschik op paginanummer";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_Sorting_ByTitle" = "Rangschik op brontitel";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_SourceDate" = "Datum bron";
+
+/* EditSourceRelationsContentController */
+"_EditSourceRelationsContentController_Title" = "Broncitaten";
+
+/* (No Comment) */
+"_EditSourceSourceRepositoryContentController_NoSourceRepository" = "Geen bronarchief";
+
+/* EditSourceSourceRepositoryContentController */
+"_EditSourceSourceRepositoryContentController_Title" = "Bronarchief";
+
+/* (No Comment) */
+"_EditSourceTextContentController_LargePlaceholder" = "Geen tekst ingevoerd";
+
+/* (No Comment) */
+"_EditSourceTextContentController_SmallPlaceholder" = "Druk hier om tekst in te voeren voor deze bron";
+
+/* EditSourceTextContentController */
+"_EditSourceTextContentController_Title" = "Bron tekst";
+
+/* (No Comment) */
+"_EditStoryContentController_AddStoryButton" = "Eerste verhaal toevoegen";
+
+/* (No Comment) */
+"_EditStoryContentController_LargePlaceholder" = "Geen verhalen aanwezig";
+
+/* (No Comment) */
+"_EditStoryContentController_SmallPlaceholder" = "Nog geen verhalen toegevoegd aan deze kwartierstaat. Gebruik verhalen om speciale gebeurtenissen in uw familiegeschiedenis te vertellen en op te nemen. Kies \"Voeg eerste verhaal toe\" om uw eerste verhaal aan te maken.";
+
+/* (No Comment) */
+"_EditStoryController_Title" = "Verhaal bewerken";
+
+/* EditStoryController */
+"_EditStoryGeneralContentController_Title" = "Algemeen";
+
+/* (No Comment) */
+"_EditStoryGeneralContentController_TitlePlaceholder" = "Geen titel opgegeven";
+
+/* (No Comment) */
+"_EditStoryReferencedEntriesContentController_AddEntryToStoryButton" = "Invoer toevoegen";
+
+/* (No Comment) */
+"_EditStoryReferencedEntriesContentController_LargePlaceholder" = "Geen invoer met verwijzing aanwezig.";
+
+/* (No Comment) */
+"_EditStoryReferencedEntriesContentController_SmallPlaceholder" = "Gebruik de knoppen personen, gebeurtenissen of families waarnaar verwezen wordt in dit verhaal.";
+
+/* (No Comment) */
+"_EditStoryReferencedEntriesContentController_Title" = "Invoer met verwijzing";
+
+/* (No Comment) */
+"_EditStoryRelationsContentController_AddExistingStoryMenuItem" = "Bestaand verhaal toevoegen";
+
+/* (No Comment) */
+"_EditStoryRelationsContentController_AddExistingStorySectionMenuItem" = "Voeg bestaande verhaalsectie toe...";
+
+/* (No Comment) */
+"_EditStoryRelationsContentController_AddNewStoryMenuItem" = "Nieuw verhaal toevoegen";
+
+/* (No Comment) */
+"_EditStoryRelationsContentController_AddStoryButton" = "Verhaal toevoegen";
+
+/* (No Comment) */
+"_EditStoryRelationsContentController_LargePlaceholder" = "Geen verhalen aanwezig";
+
+/* (No Comment) */
+"_EditStoryRelationsContentController_SmallPlaceholder" = "Gebruik bovenstaande knop om een nieuw of bestaand verhaal toe te voegen.";
+
+/* EditStoryRelationsContentController */
+"_EditStoryRelationsContentController_Title" = "Verhalen";
+
+/* (No Comment) */
+"_EditStorySectionReferencedEntriesContentController_AddEntryToStorySectionButton" = "Invoer toevoegen";
+
+/* (No Comment) */
+"_EditStorySectionReferencedEntriesContentController_LargePlaceholder" = "Geen invoer met verwijzing aanwezig.";
+
+/* (No Comment) */
+"_EditStorySectionReferencedEntriesContentController_SmallPlaceholder" = "Gebruik de knoppen personen, gebeurtenissen of families waarnaar verwezen wordt in deze verhaalsectie.";
+
+/* EditStorySectionReferencedEntriesContentController */
+"_EditStorySectionReferencedEntriesContentController_Title" = "Invoer met verwijzing in sectie";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_AddMedia" = "Media toevoegen";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_AddStorySecton" = "Verhaal sectie toevoegen";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_LargePlaceholder" = "Geen verhalensecties aanwezig.";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_MoveDown" = "Sectie naar beneden verplaatsen";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_MoveUp" = "Sectie naar boven verplaatsen";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_NoStorySectionRelationsPlaceholder" = "Geen invoer met verwijzing aanwezig";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_NoSubtitlePlaceholder" = "Geen titel voor sectie opgegeven";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_NoTextPlaceholder" = "Geen afdelingstekst ingesteld";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_SmallPlaceholder" = "Gebruik bovenstaande knop om een eerste sectie aan dit verhaal toe te voegen";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_StorySectionRelations" = "Invoer met verwijzing in sectie";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_Title" = "Verhalensecties";
+
+/* (No Comment) */
+"_EditToDoAssignedEntriesContentController_AddEntryButton" = "Invoer toevoegen";
+
+/* (No Comment) */
+"_EditToDoAssignedEntriesContentController_LargePlaceholder" = "Geen toegewezen invoer aanwezig";
+
+/* (No Comment) */
+"_EditToDoAssignedEntriesContentController_SmallPlaceholder" = "Kies bovenstaande knop om invoer van uw kwartierstaat toe te voegen aan deze taak";
+
+/* (No Comment) */
+"_EditToDoAssignedEntriesContentController_Sorting_ByDate" = "Op datum";
+
+/* (No Comment) */
+"_EditToDoAssignedEntriesContentController_Sorting_ByName" = "Op naam";
+
+/* EditToDoAssignedEntriesContentController */
+"_EditToDoAssignedEntriesContentController_Title" = "Toegewezen invoer";
+
+/* (No Comment) */
+"_EditToDoContentController_AddExistingToDoMenuItem" = "Bestaande taak toevoegen";
+
+/* (No Comment) */
+"_EditToDoContentController_AddNewToDoMenuItem" = "Nieuwe taak toevoegen";
+
+/* (No Comment) */
+"_EditToDoContentController_AddToDoButton" = "Taak toevoegen";
+
+/* (No Comment) */
+"_EditToDoContentController_LargePlaceholder" = "Geen taken aanwezig";
+
+/* (No Comment) */
+"_EditToDoContentController_NoDateEnteredPlaceholder" = "Geen datum ingevoerd";
+
+/* (No Comment) */
+"_EditToDoContentController_NoTitleEnteredPlaceholder" = "Geen titel ingevoerd";
+
+/* (No Comment) */
+"_EditToDoContentController_RemoveFromToDoButton" = "Van taak verwijderen";
+
+/* (No Comment) */
+"_EditToDoContentController_SmallPlaceholder" = "Gebruik bovenstaande knoppen om een nieuwe of bestaande taak toe te voegen.";
+
+/* EditToDosContentController */
+"_EditToDoContentController_Title" = "Taken";
+
+/* (No Comment) */
+"_EditToDoController_AddToDoButton" = "Eerste taak toevoegen";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosInformative" = "Wilt u echt alle taken verwijderen uit uw stamboom die als voltooid zijn gemarkeerd?";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosInformative_NoDoneFound" = "Er zijn geen als voltooid gemarkeerde taken gevonden in uw stamboom, dus er is niets verwijderd.";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosMessage" = "Wilt u echt %d als voltooid gemarkeerde taken verwijderen?";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosMessage_NoDoneFound" = "Geen als voltooid gemarkeerde taken gevonden";
+
+/* EditToDoController */
+"_EditToDoController_LargePlaceholder" = "Geen taken aanwezig";
+
+/* (No Comment) */
+"_EditToDoController_SmallPlaceholder" = "Geen taken in deze kwartierstaat. Kies \"Eerste taak toevoegen\" om uw eerste taak aan te maken.";
+
+/* (No Comment) */
+"_EditToDoController_Title" = "Taak bewerken";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditPriorityConclusionTypes" = "Bewerk prioriteitstypes…";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditStatusConclusionTypes" = "Bewerk statustypes…";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditTypeConclusionTypes" = "Bewerk types…";
+
+/* EditToDoGeneralContentController */
+"_EditToDoGeneralContentController_Title" = "Algemeen";
+
+/* (No Comment) */
+"_EditToDosContentController_Sorting_ByDueDate" = "Op einddatum";
+
+/* (No Comment) */
+"_EditToDosContentController_Sorting_ByPriority" = "Op prioriteit";
+
+/* (No Comment) */
+"_EditToDosContentController_Sorting_ByStatus" = "Op status";
+
+/* (No Comment) */
+"_EditToDosContentController_Sorting_ByTitle" = "Op titel";
+
+/* (No Comment) */
+"_EditToDosContentController_Sorting_ByType" = "Op type";
+
+/* (No Comment) */
+"_EditToDoTextContentController_LargePlaceholder" = "Geen tekst ingevoerd";
+
+/* (No Comment) */
+"_EditToDoTextContentController_SmallPlaceholder" = "Druk hier om tekst voor deze taak in te voeren";
+
+/* EditToDoTextContentController */
+"_EditToDoTextContentController_Title" = "Tekst";
+
+/* (No Comment) */
+"_FreeformControlsEventsControlDescription_NEvents" = "%d gebeurtenissen";
+
+/* (No Comment) */
+"_FreeformControlsEventsControlDescription_OneEvent" = "Eén gebeurtenis";
+
+/* Specialized Freeform Controls */
+"_FreeformControlsNotesControlDescription_NNotes" = "%d notities";
+
+/* (No Comment) */
+"_FreeformControlsNotesControlDescription_OneNote" = "1 Notitie";
+
+/* (No Comment) */
+"_FreeformControlsSourceRelationsControlDescription_NSources" = "%d bronnen";
+
+/* (No Comment) */
+"_FreeformControlsSourceRelationsControlDescription_OneSource" = "1 bron";
+
+/* (No Comment) */
+"_FreeformControlsStorySectionRelationsControlDescription_NRelations" = "%d invoer met verwijzing";
+
+/* (No Comment) */
+"_FreeformControlsStorySectionRelationsControlDescription_OneRelation" = "Eén invoer met verwijzing";
+
+/* (No Comment) */
+"_FreeformControlsTextFieldControlDescription_NoMicrophoneAvailableDescription" = "Geen microfoon gevonden.";
+
+/* (No Comment) */
+"_FreeformControlsTextFieldControlDescription_NoMicrophoneAvailableRecovery" = "Een microfoon is vereist voor spraakherkenning. Zorg dat een microfoon beschikbaar is en niet gebruikt wordt door een andere app.";
+
+/* (No Comment) */
+"_FreeformControlsTextFieldControlDescription_SpeechNotGrantedDescription" = "Toestemming vereist voor spraakherkenning";
+
+/* (No Comment) */
+"_FreeformControlsTextFieldControlDescription_SpeechNotGrantedRecovery" = "FamilyTree heeft geen toestemming voor spraakherkenning? Geef FamilyTree toestemming via Instellingen > Beveiliging & Privacy.";
+
+/* (No Comment) */
+"_InteractiveTreeEditFamilyController_Title" = "Interactieve kwartierstaat - families";
+
+/* InteractiveTreeEditFamilySearchPersonSummaryContentController */
+"_InteractiveTreeEditFamilySearchPersonSummaryContentController_Title" = "Overzicht personen";
+
+/* InteractiveTreeEditPersonActionsContentController */
+"_InteractiveTreeEditPersonActionsContentController_Title" = "Acties";
+
+/* (No Comment) */
+"_InteractiveTreeEditPersonController_SelectPersonsPlaceholder_Message" = "Selecteer een persoon- of familie verband om te starten met bewerken.";
+
+/* InteractiveTreeEditPersonController */
+"_InteractiveTreeEditPersonController_SelectPersonsPlaceholder_Title" = "Kies persoon of familie";
+
+/* (No Comment) */
+"_InteractiveTreeEditPersonController_Title" = "Interactieve boom - personen";
+
+/* (No Comment) */
+"_ManagePersonGroupPersons_NoPersonsInGroup" = "Geen enkel persoon maakt deel uit van deze persoonsgroep";
+
+/* (No Comment) */
+"_ManagePersonGroupPersons_NoPersonsLeftToAdd" = "Alle personen in uw kwartierstaat werden toegevoegd aan deze persoonsgroep.";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsAddRelatives_Title" = "Verwanten aan groep toevoegen";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsController_AddPersonsToGroup" = "Personen aan groep toevoegen";
+
+/* ManagePersonGroupPersonsController */
+"_ManagePersonGroupPersonsController_Title" = "Personen in groep";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_AllGenerations" = "Alle generaties";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_AllRelativesOfChildren" = "Voeg alle verwanten van afstammelingen toe";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_AllRelativesOfParents" = "Voeg alle verwanten van voorouders toe";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_AllRelativesOfPartners" = "Alle verwanten van partners toevoegen";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_Children" = "Voeg alle afstammelingen van persoon toe";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_Explanation" = "Kies welke verwanten van '%@' u wenst toe te voegen aan deze persoonsgroep:";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_GenerationsToCollect" = "Te verzamelen generaties";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_Parents" = "Voeg alle voorouders van persoon toe";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_Partners" = "Partners aan groep toevoegen";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_PartnersOfChildren" = "Alle partners van afstammelingen toevoegen";
+
+/* PlaceLookupControllerResultPlacePreviewLinksContentController */
+"_PlaceLookupControllerResultPlacePreviewLinksContentController_Title" = "Webpagina's";
+
+/* PlaceLookupControllerResultPlacePreviewNamesContentController */
+"_PlaceLookupControllerResultPlacePreviewNamesContentController_Title" = "Namen";
+
+/* (No Comment) */
+"_SectionIdentifier_aboveMainFullWidth" = "Boven hoofdgebied - volle breedte";
+
+/* Section Identifiers */
+"_SectionIdentifier_main" = "Hoofgebied";
+
+/* (No Comment) */
+"_SectionIdentifier_parents" = "Gebied ouders";
+
+/* (No Comment) */
+"_SectionIdentifier_top" = "Gebied hoofding";
+

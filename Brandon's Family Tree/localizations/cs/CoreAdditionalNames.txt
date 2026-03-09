@@ -1,0 +1,60 @@
+﻿/* (No Comment) */
+"_AdditionalName_AdoptiveName" = "Adoptivní jméno";
+
+/* (No Comment) */
+"_AdditionalName_ArtistsName" = "Pseudonym";
+
+/* (No Comment) */
+"_AdditionalName_DoubleBarrelledName" = "Dvouhlavňové jméno";
+
+/* (No Comment) */
+"_AdditionalName_FamilyName" = "Rodinné jméno";
+
+/* (No Comment) */
+"_AdditionalName_FormalName" = "Formální (celé) jméno";
+
+/* AdditionalNameType */
+"_AdditionalName_MaidenName" = "Jméno při narození";
+
+/* (No Comment) */
+"_AdditionalName_MarriedName" = "Jméno po sňatku";
+
+/* (No Comment) */
+"_AdditionalName_NameVariation" = "Varianta jména";
+
+/* (No Comment) */
+"_AdditionalName_Nickname" = "Přezdívka";
+
+/* (No Comment) */
+"_AdditionalName_Other" = "Další jméno";
+
+/* (No Comment) */
+"_AdditionalName_Prefix_MaidenName_ForFemale" = "roz.";
+
+/* Prefix */
+"_AdditionalName_Prefix_MaidenName_ForMale" = "roz.";
+
+/* (No Comment) */
+"_AdditionalName_ProfessionalName" = "Profesní jméno";
+
+/* (No Comment) */
+"_AdditionalName_ReligiousName" = "Náboženské jméno";
+
+/* (No Comment) */
+"_AdditionalName_Title" = "Název";
+
+/* Configs */
+"_Person_AdditionalNamePreferenceConfiguration_All" = "Vše";
+
+/* (No Comment) */
+"_Person_AdditionalNamePreferenceConfiguration_None" = "Žádné";
+
+/* (No Comment) */
+"_Person_AdditionalNamePreferenceConfiguration_OnlyFamilyName" = "Pouze rodinné jméno";
+
+/* (No Comment) */
+"_Person_AdditionalNamePreferenceConfiguration_OnlyMarriedName" = "Pouze jméno po sňatku";
+
+/* (No Comment) */
+"_Person_AdditionalNamePreferenceConfiguration_OnlyNickName" = "Pouze přezdívka";
+

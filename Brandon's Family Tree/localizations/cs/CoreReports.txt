@@ -1,0 +1,1428 @@
+﻿/* (No Comment) */
+"_ReportCSVWriterConfiguration_CSVGroup" = "Skupina";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_CSVSection" = "Sekce";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_ExportHeaders" = "Exportovat CSV hlavičky";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_ExportHeadersExplanation" = "Pokud chcete do souboru CSV zahrnout hlavičku, vyberte tuto možnost. Informace v hlavičce usnadňují určení informací ve výsledném souboru CSV.";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_NewLineCharacter" = "Znak nového řádku";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_NewLineCharacter_CR" = "Znaky CR (Klasický Mac OS)";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_NewLineCharacter_CRLF" = "Znaky CRLF (Windows)";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_NewLineCharacter_LF" = "Znaky LF (moderní macOS, Unix)";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_NewLineCharacterExplanation" = "Zvolte znak, který má být použit jako znak označující nový řádek. Většině moderních aplikací na volbě nezáleží - pouze některé starší systémy mohou vyžadovat specifické nastavení.";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_Separator_Comma" = "Čárka (,)";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_Separator_Semicolon" = "Středník (;)";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_SeparatorPopupButtonTitle" = "CSV oddělovač";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_SeparatorPopupButtonTitleExplanation" = "Zvolte oddělovač použitý pro položky v CSV souboru. Většina aplikací je kompatibilní s čárkou jako oddělovačem.";
+
+/* CSVWriter */
+"_ReportCSVWriterConfiguration_Title" = "CSV Export";
+
+/* (No Comment) */
+"_ReportError_NoDataFoundToExportAsCSV" = "V tomto výkazu nelze nalézt žádná data, která lze exportovat jako soubor ve formátu CSV.";
+
+/* (No Comment) */
+"_ReportError_NoDistinctivePersonsFoundError" = "V tomto rodokmenu nebyly nalezeny žádné významné osoby.";
+
+/* (No Comment) */
+"_ReportError_NoFamiliesFoundMatchingTheSelectedCriteria" = "Nebyly nalezeny žádné rodiny, které odpovídají vybraným kritériím.";
+
+/* (No Comment) */
+"_ReportError_NoFamilyFoundInFamilyTreeError" = "V tomto rodokmenu nebyly dosud vytvořeny žádné rodiny. Chcete-li zobrazit tento výkaz, použijte sekci Upravit pro vložení osob a rodin.";
+
+/* Errors */
+"_ReportError_NoPersonFoundInFamilyTreeError" = "V tomto rodokmenu nebyly dosud vytvořeny žádné osoby. Chcete-li zobrazit tento výkaz, použijte sekci Upravit pro vložení osob a rodin.";
+
+/* (No Comment) */
+"_ReportError_NoPersonsFoundMatchingTheSelectedCriteria" = "Nebyly nalezeny žádné osoby, které odpovídají vybraným kritériím.";
+
+/* (No Comment) */
+"_ReportError_NoPlaceFoundInFamilyTreeError" = "V tomto rodokmenu nebyla dosud vytvořena žádná místa. Chcete-li zobrazit tento výkaz, použijte sekci Upravit pro vložení míst osob a rodinných událostí.";
+
+/* (No Comment) */
+"_ReportError_NoPlacesFoundMatchingTheSelectedCriteria" = "Nebyla nalezena žádná místa odpovídající vybraným kritériím.";
+
+/* (No Comment) */
+"_ReportError_NoPlacesWithCoordinatesFoundForPersonError" = "Pro vybranou položku nejsou nalezena žádná místa se souřadnicemi. Chcete-li zobrazit tento výkaz, přidejte zeměpisné souřadnice k místům v části Upravit.";
+
+/* (No Comment) */
+"_ReportError_NoPlausibilityAnalyzerResultsFound" = "Žádná varování nesrovnalostí nebyla nalezena.";
+
+/* (No Comment) */
+"_ReportError_NoSelectedFamilySetError" = "Pro tento výkaz nebyla vybrána žádná rodina.";
+
+/* (No Comment) */
+"_ReportError_NoSelectedPersonSetError" = "Pro tento výkaz nebyla vybrána žádná osoba.";
+
+/* (No Comment) */
+"_ReportError_NoSelectedStorySetError" = "Pro tento výkaz nebyl vybrán žádný příběh.";
+
+/* (No Comment) */
+"_ReportError_NoSourceFoundInFamilyTreeError" = "V tomto rodokmenu nebyly dosud vytvořeny žádné zdroje. Chcete-li zobrazit tento výkaz, použijte sekci Upravit pro vložení zdrojů.";
+
+/* (No Comment) */
+"_ReportError_NoSourcesFoundMatchingTheSelectedCriteria" = "Nebyly nalezeny žádné zdroje odpovídající vybraným kritériím.";
+
+/* (No Comment) */
+"_ReportError_NoStoryFoundInFamilyTreeError" = "Do tohoto rodokmenu zatím nebyly zapsány žádné příběhy. Chcete-li zobrazit tento výkaz, použijte prosím sekci Upravit k vložení příběhů.";
+
+/* (No Comment) */
+"_ReportError_NotEnoughDataPresentError" = "Pro zobrazení vybraného výkazu není k dispozici dostatek informací.";
+
+/* (No Comment) */
+"_ReportError_NoToDoFoundInFamilyTreeError" = "V tomto rodokmenu nebyly dosud vytvořeny žádné úkoly. Chcete-li zobrazit tento výkaz, použijte sekci Upravit pro vložení úkolů.";
+
+/* (No Comment) */
+"_ReportError_NoToDosFoundMatchingTheSelectedCriteria" = "Nebyly nalezeny žádné úkoly odpovídající vybraným kritériím.";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_ChapterColor" = "Barva textu kapitoly";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_ChapterColorMode" = "Režim barev textu kapitoly";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Opacity" = "Neprůhlednost";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_PageNumberColor" = "Barva textu čísla stránky";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_PageNumberColorMode" = "Režim barev textu čísla stránky";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_PageSetupButton" = "Vzhled stránky…";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Scaling" = "Měřítko";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_SectionColor" = "Barva textu sekce";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_SectionColorMode" = "Režim barev textu sekce";
+
+/* Page Background Renderer */
+"_ReportPageBackgroundRendererConfiguration_Style" = "Styl pozadí";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_BottomBar" = "Spodní pruh";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_BottomGradient" = "Spodní přechod";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_BottomLine" = "Spodní linka";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_BottomPageNumberRect" = "Číslo stránky v obdélníku vespod";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_InlineOuterBar" = "Vložený vnější pruh";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_InlineTopBar" = "Vložený horní pruh";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_InnerBar" = "Vnitřní pruh";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_InnerBlocksBar" = "Vnitřní pruh bloků";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_None" = "Žádný";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_OnlyBackground" = "Pouze barva pozadí";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_OuterAndInnerBar" = "Vnější a vnitřní pruh";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_OuterAndInnerBlocksBar" = "Vnější a vnitřní pruh bloků";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_OuterBar" = "Vnější pruh";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_OuterBlocksBar" = "Vnější pruh bloků";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_Rectangle" = "Obdélník";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_RoundInlineTopBar" = "Zaoblený vložený horní pruh";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_RoundRectangle" = "Zaoblený obdélník";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_ThickRectangle" = "Silný obdélník";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_ThickRoundRectangle" = "Silný a zaoblený obdélník";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_TopBar" = "Horní pruh";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_TopBottomBar" = "Horní a spodní pruh";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_TopBottomGradient" = "Horní a spodní přechod";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_TopBottomLine" = "Horní a spodní linka";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_TopGradient" = "Horní přechod";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_TopLine" = "Horní linka";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_XAtTop" = "Křížení nahoře";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_TextColorMode_ContrastToBackground" = "Kontrastní k pozadí";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_TextColorMode_Custom" = "Vlastní";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_Fill" = "Vyplnit stránku";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitBottomCenter" = "Vespod uprostřed";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitBottomLeft" = "Vespod vlevo";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitBottomRight" = "Vespod vpravo";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitCenterCenter" = "Na středu";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitCenterLeft" = "Uprostřed vlevo";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitCenterRight" = "Uprostřed vpravo";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitFill" = "Vyplnit stránku s ohledem na poměr stran";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitTopCenter" = "Nahoře uprostřed";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitTopLeft" = "Nahoře vlevo";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitTopRight" = "Nahoře vpravo";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_WatermarkFloatsAboveContentTitle" = "Vodoznak místa nad obsahem";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_WatermarkImage" = "Vodoznak";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_WatermarkInsettedByPageMargins" = "Vložit vodoznak do okrajů stránky";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_WatermarkPlacement" = "Umístění";
+
+/* (No Comment) */
+"_Reports_AhnentafelReport_GenerationNumber" = "%d. generace";
+
+/* (No Comment) */
+"_Reports_AhnentafelReport_Generations" = "Generace";
+
+/* (No Comment) */
+"_Reports_AhnentafelReport_List_Header_Kekule" = "Kekulé";
+
+/* (No Comment) */
+"_Reports_AhnentafelReport_List_Header_Narrative" = "Popisný výkaz";
+
+/* (No Comment) */
+"_Reports_AhnentafelReport_List_Header_Person" = "Osoba";
+
+/* AhnentafelReport */
+"_Reports_AhnentafelReport_Title" = "Výkaz rodokmenu";
+
+/* (No Comment) */
+"_Reports_BackgroundColor" = "Barva pozadí";
+
+/* (No Comment) */
+"_Reports_BarsColor" = "Barva pruhů";
+
+/* (No Comment) */
+"_Reports_BaseColorsGroupName" = "Základní barvy";
+
+/* (No Comment) */
+"_Reports_BaseFontsGroupName" = "Základní písma";
+
+/* (No Comment) */
+"_Reports_BaseStyler_Abbreviation_For_Female" = "(ž)";
+
+/* (No Comment) */
+"_Reports_BaseStyler_Abbreviation_For_Intersex" = "(i)";
+
+/* Gender Abbreviations */
+"_Reports_BaseStyler_Abbreviation_For_Male" = "(m)";
+
+/* (No Comment) */
+"_Reports_BaseStyler_Abbreviation_For_Unknown" = "(-)";
+
+/* (No Comment) */
+"_Reports_CapitalizeSectionTitles" = "Názvy sekcí kapitálkami";
+
+/* (No Comment) */
+"_Reports_ChapterFont" = "Písmo kapitoly";
+
+/* (No Comment) */
+"_Reports_Citations_CitationsMode" = "Režim citací";
+
+/* (No Comment) */
+"_Reports_Citations_DisplayPictures" = "Obrázky";
+
+/* (No Comment) */
+"_Reports_Citations_DisplayReferences" = "Odkazované položky";
+
+/* (No Comment) */
+"_Reports_Citations_DisplaySourceCitationNotes" = "Poznámky k citacím zdrojů";
+
+/* (No Comment) */
+"_Reports_Citations_DisplaySourceNotes" = "Poznámky zdrojů";
+
+/* (No Comment) */
+"_Reports_Citations_DisplaySourceRepository" = "Repozitář zdrojů";
+
+/* (No Comment) */
+"_Reports_Citations_DisplayText" = "Text";
+
+/* (No Comment) */
+"_Reports_Citations_SourcePicturesSize" = "Velikost obrázků";
+
+/* (No Comment) */
+"_Reports_Citations_SourcePicturesSize_FullAvailableWidth" = "Velké";
+
+/* (No Comment) */
+"_Reports_Citations_SourcePicturesSize_LargeThumbnail" = "Střední";
+
+/* (No Comment) */
+"_Reports_Citations_SourcePicturesSize_Thumbnail" = "Malé";
+
+/* (No Comment) */
+"_Reports_CitationsMajorGroupName" = "Citace";
+
+/* (No Comment) */
+"_Reports_CleanBookStyle" = "Jednoduchá kniha";
+
+/* (No Comment) */
+"_Reports_CleanTablesStyle" = "Čistá tabulka";
+
+/* (No Comment) */
+"_Reports_CleanTextStyle" = "Jednoduchý text";
+
+/* (No Comment) */
+"_Reports_ColorsMajorGroupName" = "Barvy";
+
+/* (No Comment) */
+"_Reports_ColumnsMajorGroupName" = "Sloupce";
+
+/* Sources */
+"_Reports_Common_Citations_Section_Title" = "Citace";
+
+/* Common */
+"_Reports_CustomReportTitle" = "Vlastní název výkazu";
+
+/* (No Comment) */
+"_Reports_DateFormatMinorGroupName" = "Formát data";
+
+/* (No Comment) */
+"_Reports_DateFormatStyle" = "Styl formátu dat";
+
+/* (No Comment) */
+"_Reports_DateFormatStyleExplanation" = "Zde vyberte, jaký styl formátu data se použije při přeformátování dat";
+
+/* (No Comment) */
+"_Reports_DateOptionsGroupName" = "Data";
+
+/* (No Comment) */
+"_Reports_DefaultHighlightColor" = "Výchozí barva zvýraznění";
+
+/* (No Comment) */
+"_Reports_DefaultHighlightColor_Explanation" = "Zadejte výchozí barvu zvýraznění. V konfiguraci kapitoly můžete nastavit individuální barvu zvýraznění pro každou kapitolu.";
+
+/* (No Comment) */
+"_Reports_DescendancyReport_ChildNumber_Header" = "Potomek";
+
+/* DescendancyReport */
+"_Reports_DescendancyReport_DescendantsSectionTitleWithGenerationNumber" = "%d. generace";
+
+/* (No Comment) */
+"_Reports_DescendancyReport_Marriage_Header" = "Sňatek";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_AddedCell_PlaceholderText" = "Text";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeBackgroundColor" = "Výplň buňky";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeBottomBorderColor" = "Barva dolního ohraničení buňky";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeBottomBorderWidth" = "Dolní ohraničení buňky";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeLeftBorderColor" = "Barva levého ohraničení buňky";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeLeftBorderWidth" = "Levé ohraničení buňky";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeRightBorderColor" = "Barva pravého ohraničení buňky";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeRightBorderWidth" = "Pravé ohraničení buňky";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeTopBorderColor" = "Barva horního ohraničení buňky";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeTopBorderWidth" = "Horní ohraničení buňky";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_ContentFrameSize_Height" = "Výška";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_ContentFrameSize_Width" = "Šířka";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_LayoutCellNode_EndPosition" = "Závěrečná pozice";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_LayoutCellNode_StartPosition" = "Počáteční pozice";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_LayoutNode_DrawGridLines" = "Zobrazit mřížku rozvržení";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_BaseNode" = "Uzel";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_Cell" = "Buňka";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_Flow" = "Skupina";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_Image" = "Obrázek";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_Layout" = "Seznam";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_PDF" = "PDF";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_Section" = "Sekce";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_Table" = "Tabulka";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_Text" = "Text";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Background" = "Pozadí";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Border" = "Ohraničení";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_CellOptions" = "Možnosti buňky";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Fonts" = "Písma";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Layout" = "Rozložení";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Margin" = "Okraj";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Options" = "Možnosti";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Padding" = "Odsazení";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Size" = "Velikost";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeBackgroundColor" = "Barva pozadí";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeBorderColor" = "Barva ohraničení";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeBorderRadius" = "Poloměr okraje";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeBottomBorderWidth" = "Šířka dole";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeBottomMarginWidth" = "Šířka dole";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeBottomPaddingWidth" = "Šířka dole";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeHorizontalAlign" = "Horizontální zarovnání";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeHorizontalAlign_Bottom" = "Vpravo";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeHorizontalAlign_Middle" = "Uprostřed";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeHorizontalAlign_Top" = "Vlevo";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeLeftBorderWidth" = "Šířka vlevo";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeLeftMarginWidth" = "Šířka vlevo";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeLeftPaddingWidth" = "Šířka vlevo";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeRightBorderWidth" = "Šířka vpravo";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeRightMarginWidth" = "Šířka vpravo";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeRightPaddingWidth" = "Šířka vpravo";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeTopBorderWidth" = "Šířka nahoře";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeTopMarginWidth" = "Šířka nahoře";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeTopPaddingWidth" = "Šířka nahoře";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeVerticalAlign" = "Vertikální zarovnání";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeVerticalAlign_Bottom" = "Dole";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeVerticalAlign_Middle" = "Uprostřed";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeVerticalAlign_Top" = "Nahoře";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageFlowAreaIdentifier_AnyColumn" = "Libovolný sloupec";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageFlowAreaIdentifier_LeftColumn" = "Levý sloupec";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageFlowAreaIdentifier_OneColumn" = "Hlavní sloupec";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageFlowAreaIdentifier_RightColumn" = "Pravý sloupec";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageFlowAreaIdentifier_Title" = "Sloupec";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageOrder_Any" = "Libovolné pořadí";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageOrder_EvenPage" = "Sudá stránka";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageOrder_OddPage" = "Lichá stránka";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageOrder_Title" = "Pořadí stránky";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageType_Any" = "Libovolná stránka";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageType_EmptyPage" = "Prázdná stránka";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageType_OneColumn" = "Stránka o jednom sloupci";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageType_SmallLeftColumnBigRightColumn" = "Stránka s malý sloupcem vlevo a velkým sloupcem vpravo";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageType_Title" = "Typ stránky";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageType_TwoColumn" = "Stránka o dvou sloupcích";
+
+/* Edit Configurations */
+"_Reports_Editor_Configurations_PleaseSelectObjectsToEditPlaceholder" = "Vyberte objekty ve výkazu vlevo pro úpravu barev, textu a velikostí";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_SelectedObjectsOfDifferentTypePlaceholder" = "Vybrali jste více objektů různého druhu";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_Table_DrawGridLines" = "Zobrazit mřížku tabulky";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_Table_RepeatHeadersOnEachPage" = "Opakovat záhlaví";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_TableAlternateRowBackgroundColor" = "Střídavá barva řádků";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_TableRowBackgroundColor" = "Barva řádku";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_TextColor" = "Barva textu";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_TextFont" = "Písmo textu";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WantsNewLayoutPageArea" = "Začít na nové stránce";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WantsNewLine" = "Začít po zalomení řádku";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WantsNewPage" = "Začít na nové stránce";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WantsSameLine" = "Vyhnout se zalomení řádku";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WantsToStickToPreviousObject" = "Držet se předchozího objektu";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_Full" = "Plná šířka";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_Full_ForScaleableNodes" = "Plná šířka";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_Needed" = "Padnoucí šířka";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_Needed_ForScaleableNodes" = "Pevná šířka";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_Predefined" = "Přizpůsobená šířka";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_Predefined_ForScaleableNodes" = "Přizpůsobená šířka a fixní šířka";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_PredefinedWidthFactor" = "Přizpůsobená šířka";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_Title" = "Režim šířky";
+
+/* (No Comment) */
+"_Reports_EmphasizedFont" = "Zvýrazněné písmo";
+
+/* (No Comment) */
+"_Reports_EmphasizedFontColor" = "Barva zvýrazněného textu";
+
+/* (No Comment) */
+"_Reports_EnabledSourceTemplateKeyIdentifiers" = "Pole zdroje k zobrazení";
+
+/* (No Comment) */
+"_Reports_EventsMajorGroupName" = "Události";
+
+/* FactsListReport */
+"_Reports_FactsListReport_TotalFactsCountKey" = "Celkem faktů";
+
+/* (No Comment) */
+"_Reports_FontsMajorGroupName" = "Písma";
+
+/* Major Groups */
+"_Reports_GeneralMajorGroupName" = "Obecné";
+
+/* (No Comment) */
+"_Reports_GridTablesStyle" = "Jednoduchá tabulka";
+
+/* Fonts */
+"_Reports_HeaderFont" = "Písmo nadpisu";
+
+/* Colors */
+"_Reports_HeaderFontColor" = "Barva textu záhlaví";
+
+/* Private Information */
+"_Reports_HidePrivateInformation" = "Skrýt informace označené jako soukromé";
+
+/* (No Comment) */
+"_Reports_HidePrivateInformationExplanation" = "Každá informace označená jako soukromá v režimu úprav bude skryta v tomto výkazu pokud je vybrána tato volba";
+
+/* (No Comment) */
+"_Reports_InformationColumnsMinorGroupName" = "Informační sloupce";
+
+/* (No Comment) */
+"_Reports_InformationGroupName" = "Informace";
+
+/* (No Comment) */
+"_Reports_KeyFont" = "Písmo klíčů";
+
+/* (No Comment) */
+"_Reports_KeyFontColor" = "Barva textu klíčů";
+
+/* (No Comment) */
+"_Reports_LeftTitleStyle" = "Nadpis vlevo";
+
+/* (No Comment) */
+"_Reports_List_DrawGridLines" = "Zobrazit mřížku tabulky";
+
+/* (No Comment) */
+"_Reports_List_HeaderBirthDate" = "Datum narození";
+
+/* (No Comment) */
+"_Reports_List_HeaderBirthPlace" = "Místo narození";
+
+/* (No Comment) */
+"_Reports_List_HeaderDeathDate" = "Datum úmrtí";
+
+/* (No Comment) */
+"_Reports_List_HeaderDeathPlace" = "Místo úmrtí";
+
+/* (No Comment) */
+"_Reports_List_RepeatHeaderOnEachPage" = "Opakovat záhlaví tabulky na nových stránkách";
+
+/* (No Comment) */
+"_Reports_List_RepeatHeaderOnEachPageExplanation" = "Pokud je aktivní, řádek záhlaví tabulky se opakuje ve chvíli, kdy tabulka zabírá více než jednu stránku";
+
+/* (No Comment) */
+"_Reports_ListCellFont" = "Písmo seznamu buněk";
+
+/* (No Comment) */
+"_Reports_ListHeaderFont" = "Písmo záhlaví seznamu";
+
+/* (No Comment) */
+"_Reports_ListHeaderFontColor" = "Barva textu záhlaví";
+
+/* (No Comment) */
+"_Reports_ListKeyFont" = "Písmo seznamu klíče";
+
+/* (No Comment) */
+"_Reports_ListMode" = "Režim seznamu";
+
+/* (No Comment) */
+"_Reports_ListMode_BookSetting" = "Použít nastavení knihy";
+
+/* (No Comment) */
+"_Reports_ListMode_DefaultFromStyler" = "Výchozí ze šablony";
+
+/* (No Comment) */
+"_Reports_ListMode_PrefersList" = "Zobrazit jako seznam";
+
+/* (No Comment) */
+"_Reports_ListMode_PrefersTable" = "Zobrazit jako tabulku";
+
+/* (No Comment) */
+"_Reports_ListsColorGroupName" = "Barvy seznamů";
+
+/* Lists */
+"_Reports_ListSectionFont" = "Písmo sekce seznamu";
+
+/* (No Comment) */
+"_Reports_ListSectionFontColor" = "Barva textu sekce";
+
+/* (No Comment) */
+"_Reports_ListsFontGroupName" = "Seznamy";
+
+/* (No Comment) */
+"_Reports_ListsOptionsGroupName" = "Seznamy";
+
+/* Localization */
+"_Reports_Localization" = "Jazyk";
+
+/* (No Comment) */
+"_Reports_LocalizationExplanation" = "Zvolte jazyk pro použití v tomto výkazu. Všechny informace v tomto výkazu budou automaticky přeloženy do zvoleného jazyka";
+
+/* (No Comment) */
+"_Reports_LocalizationMajorGroupName" = "Jazyk";
+
+/* (No Comment) */
+"_Reports_MainFont" = "Hlavní písmo";
+
+/* (No Comment) */
+"_Reports_MainFontColor" = "Hlavní barva textu";
+
+/* (No Comment) */
+"_Reports_MarriageList_OnlyShowFamiliesWithMarriageEvent" = "Zobrazovat pouze partnery po sňatku";
+
+/* (No Comment) */
+"_Reports_MarriageList_ShowBirthDateForPersons" = "Zobrazit data narození osob";
+
+/* (No Comment) */
+"_Reports_MarriageList_ShowMarriageDateAsAdditionalInformation" = "Zobrazit datum sňatku odsazený";
+
+/* (No Comment) */
+"_Reports_MarriageList_ShowMarriagePlaceAsAdditionalInformation" = "Zobrazit místo sňatku odsazený";
+
+/* MarriageList */
+"_Reports_MarriageList_Sort_By_FamilyName" = "Podle rodného jména";
+
+/* (No Comment) */
+"_Reports_MarriageList_Sort_By_ManName" = "Podle jména muže";
+
+/* (No Comment) */
+"_Reports_MarriageList_Sort_By_MarriageDate" = "Podle data sňatku";
+
+/* (No Comment) */
+"_Reports_MarriageList_Sort_By_MarriageLocation" = "Podle místa sňatku";
+
+/* (No Comment) */
+"_Reports_MarriageList_Sort_By_WomanName" = "Podle jména ženy";
+
+/* MediaGalleryReport */
+"_Reports_MediaGalleryReport_GroupingMode" = "Seskupení médií";
+
+/* (No Comment) */
+"_Reports_MediaGalleryReport_GroupingMode_ByDecade" = "Seskupit podle dekád";
+
+/* (No Comment) */
+"_Reports_MediaGalleryReport_GroupingMode_ByLabel" = "Seskupit podle štítku";
+
+/* (No Comment) */
+"_Reports_MediaGalleryReport_GroupingMode_BySelectedObject" = "Seskupit podle přiřazeného záznamu";
+
+/* (No Comment) */
+"_Reports_MediaGalleryReport_GroupingMode_None" = "Žádné seskupení";
+
+/* (No Comment) */
+"_Reports_MediaGalleryReport_SortingMode" = "Řazení";
+
+/* (No Comment) */
+"_Reports_MediaGalleryReport_SortingMode_ByDate" = "Podle data";
+
+/* (No Comment) */
+"_Reports_MediaGalleryReport_SortingMode_ByTitle" = "Podle názvu";
+
+/* (No Comment) */
+"_Reports_MediaSection_FamilyMainSubsectionKey" = "Média přiřazená k rodině";
+
+/* (No Comment) */
+"_Reports_MediaSection_MediaFromFamiliesSubsectionKey" = "Média přiřazená k rodinám";
+
+/* (No Comment) */
+"_Reports_MediaSection_MediaFromFamilyEventsSubsectionKey" = "Média přiřazená k rodinným událostem";
+
+/* (No Comment) */
+"_Reports_MediaSection_MediaFromManSubsectionKey" = "Média přiřazená k partnerovi č. 1";
+
+/* (No Comment) */
+"_Reports_MediaSection_MediaFromPersonEventsSubsectionKey" = "Média přiřazená k osobním událostem";
+
+/* (No Comment) */
+"_Reports_MediaSection_MediaFromWomanSubsectionKey" = "Média přiřazená k partnerovi č. 2";
+
+/* (No Comment) */
+"_Reports_MediaSection_PersonMainSubsectionKey" = "Média přiřazená k osobě";
+
+/* (No Comment) */
+"_Reports_MediaSize_FullSize" = "Plná velikost";
+
+/* (No Comment) */
+"_Reports_MediaSize_LargeThumbnail" = "Velký náhled";
+
+/* (No Comment) */
+"_Reports_MediaSize_Thumbnail" = "Náhled";
+
+/* (No Comment) */
+"_Reports_MediaSize_Title" = "Velikost médií";
+
+/* (No Comment) */
+"_Reports_MirrorPageMarginsAndBackgroundOnOddPages" = "Zrcadlové okraje a pozadí na lichých stránkách";
+
+/* (No Comment) */
+"_Reports_MirrorPageMarginsAndBackgroundOnOddPagesExplanation" = "Pokud je zaškrtnuta tato možnost, levý a pravý okraj se zrcadlí na lichých stránkách a pozadí se odpovídajícím způsobem upraví. Užitečné při vytváření výkazů pro knihy.";
+
+/* (No Comment) */
+"_Reports_ModernBarsLightTextStyle" = "Světlé moderní pruhy";
+
+/* (No Comment) */
+"_Reports_ModernBarsTextStyle" = "Moderní pruhy";
+
+/* (No Comment) */
+"_Reports_OtherFontColorsGroupName" = "Jiné";
+
+/* (No Comment) */
+"_Reports_OtherFontsGroupName" = "Jiné";
+
+/* (No Comment) */
+"_Reports_PageBottomMargin" = "Spodní okraj";
+
+/* (No Comment) */
+"_Reports_PageFontsMinorGroupName" = "Písma";
+
+/* Page Margins */
+"_Reports_PageLeftMargin" = "Levý okraj";
+
+/* (No Comment) */
+"_Reports_PageMarginsMajorGroupName" = "Okraje stránky";
+
+/* (No Comment) */
+"_Reports_PageMarginsMinorGroupName" = "Okraje stránky";
+
+/* (No Comment) */
+"_Reports_PageNumberFont" = "Písmo čísla stránky";
+
+/* (No Comment) */
+"_Reports_PageRightMargin" = "Pravý okraj";
+
+/* (No Comment) */
+"_Reports_PageStyleMajorGroupName" = "Styl stránky";
+
+/* (No Comment) */
+"_Reports_PageTextColorsMinorGroupName" = "Barvy textu";
+
+/* (No Comment) */
+"_Reports_PageTopMargin" = "Horní okraj";
+
+/* (No Comment) */
+"_Reports_PageWatermarkMajorGroupName" = "Vodoznak";
+
+/* (No Comment) */
+"_Reports_Person_NotSet" = "Osoba není nastavena";
+
+/* (No Comment) */
+"_Reports_PersonItem_PictureSize" = "Obrázky osoby";
+
+/* (No Comment) */
+"_Reports_PersonItem_PictureSize_Large" = "Zobrazit velké obrázky osoby";
+
+/* (No Comment) */
+"_Reports_PersonItem_PictureSize_Medium" = "Zobrazit střední obrázky osoby";
+
+/* (No Comment) */
+"_Reports_PersonItem_PictureSize_None" = "Nezobrazovat obrázky osoby";
+
+/* (No Comment) */
+"_Reports_PersonItem_PictureSize_Small" = "Zobrazit malé obrázky osoby";
+
+/* Pictures */
+"_Reports_PersonPicturesSize" = "Obrázky osoby";
+
+/* (No Comment) */
+"_Reports_PersonPicturesSize_Large" = "Velké";
+
+/* (No Comment) */
+"_Reports_PersonPicturesSize_Medium" = "Střední";
+
+/* (No Comment) */
+"_Reports_PersonPicturesSize_None" = "Žádné";
+
+/* (No Comment) */
+"_Reports_PersonPicturesSize_Small" = "Malé";
+
+/* (No Comment) */
+"_Reports_PersonReport_Ancestors_Section_Title" = "Předci";
+
+/* (No Comment) */
+"_Reports_PersonReport_AncestorsDepth" = "Generace předků";
+
+/* (No Comment) */
+"_Reports_PersonReport_AncestorsOrDescendants_Generation_Header" = "Generace";
+
+/* (No Comment) */
+"_Reports_PersonReport_Associates_PersonOrFamily_Header" = "Osoba nebo rodina";
+
+/* (No Comment) */
+"_Reports_PersonReport_BornOnKey" = "Narozen";
+
+/* (No Comment) */
+"_Reports_PersonReport_BornOrDiedInKey" = "v";
+
+/* (No Comment) */
+"_Reports_PersonReport_BrothersAndSisters" = "Sourozenci";
+
+/* (No Comment) */
+"_Reports_PersonReport_Descendants_Section_Title" = "Potomci";
+
+/* (No Comment) */
+"_Reports_PersonReport_DescendantsDepth" = "Generace potomků";
+
+/* (No Comment) */
+"_Reports_PersonReport_DiedOnKey" = "Zemřel na";
+
+/* (No Comment) */
+"_Reports_PersonReport_Event_Date" = "Datum";
+
+/* (No Comment) */
+"_Reports_PersonReport_Event_Place" = "Místo";
+
+/* (No Comment) */
+"_Reports_PersonReport_Event_Type" = "Typ";
+
+/* (No Comment) */
+"_Reports_PersonReport_Events_Section_Title" = "Události";
+
+/* (No Comment) */
+"_Reports_PersonReport_Facts_FactDescription_Header" = "Popis";
+
+/* (No Comment) */
+"_Reports_PersonReport_Facts_FactType_Header" = "Typ";
+
+/* (No Comment) */
+"_Reports_PersonReport_Facts_Section_Title" = "Fakta";
+
+/* (No Comment) */
+"_Reports_PersonReport_HourglassChart_Section_Title" = "Graf rozrod-vývod";
+
+/* (No Comment) */
+"_Reports_PersonReport_IDs_AncestralFileNumberIDKey" = "Ancestral File Number";
+
+/* (No Comment) */
+"_Reports_PersonReport_IDs_FamilySearchIDKey" = "FamilySearch ID";
+
+/* (No Comment) */
+"_Reports_PersonReport_IDs_GedcomIDKey" = "GEDCOM ID";
+
+/* (No Comment) */
+"_Reports_PersonReport_IDs_ReferenceNumberKey" = "Referenční číslo";
+
+/* (No Comment) */
+"_Reports_PersonReport_Kinship_Section_Title" = "Příbuznost";
+
+/* (No Comment) */
+"_Reports_PersonReport_KinshipDepth" = "Generace příbuznosti";
+
+/* (No Comment) */
+"_Reports_PersonReport_NameDetails_Section_Title" = "Podrobnosti jména";
+
+/* (No Comment) */
+"_Reports_PersonReport_NarrativeReport_Section_Title" = "Popisný výkaz";
+
+/* (No Comment) */
+"_Reports_PersonReport_OccupationKey" = "Povolání";
+
+/* (No Comment) */
+"_Reports_PersonReport_Parents_Section_Title" = "Rodiče";
+
+/* (No Comment) */
+"_Reports_PersonReport_Partners_Section_Title" = "Partneři";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowAncestors" = "Předci";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowDescendants" = "Potomci";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowEvents" = "Události";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowHourglassChart" = "Graf rozrod-vývod";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowKinship" = "Příbuznost";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowNameDetails" = "Podrobnosti jména";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowParents" = "Rodiče";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowPartners" = "Partneři";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowSources" = "Zdroje";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowWorldHistory" = "Světová historie";
+
+/* PersonReport */
+"_Reports_PersonReport_Title" = "Osobní výkaz";
+
+/* (No Comment) */
+"_Reports_PersonReport_WorldHistory_Category_Header" = "Kategorie";
+
+/* (No Comment) */
+"_Reports_PersonReport_WorldHistory_Section_Title" = "Světová historie";
+
+/* (No Comment) */
+"_Reports_PicturesOptionsGroupName" = "Obrázky";
+
+/* (No Comment) */
+"_Reports_PlaceFormat_Normal" = "Normální název místa";
+
+/* (No Comment) */
+"_Reports_PlaceFormat_Short" = "Krátký název místa";
+
+/* (No Comment) */
+"_Reports_PlaceFormat_VeryShort" = "Velmi krátký název místa";
+
+/* (No Comment) */
+"_Reports_PlaceFormatMinorGroupName" = "Formát místa";
+
+/* Place Format */
+"_Reports_PlaceFormatStyle" = "Formát místa";
+
+/* (No Comment) */
+"_Reports_PlaceFormatStyleExplanation" = "Zde zvolte, zda se má zobrazovat celý nebo pouze zkrácený název místa.";
+
+/* (No Comment) */
+"_Reports_PlainTextStyle" = "Prostý text";
+
+/* (No Comment) */
+"_Reports_PrimaryFont" = "Hlavní písmo";
+
+/* (No Comment) */
+"_Reports_ReformatDatesToSelectedLocale" = "Přeformátovat data";
+
+/* (No Comment) */
+"_Reports_ReformatDatesToSelectedLocaleExplanation" = "Pokud je tato volba povolena, všechna data budou přeformátována tak, aby odpovídala zadané lokalizaci";
+
+/* RegisterReport */
+"_Reports_RegisterReport_DescendantsSectionTitleWithGenerationNumber" = "%d. generace";
+
+/* (No Comment) */
+"_Reports_Report_Associates_Section_Title" = "Vlivné osoby a rodiny";
+
+/* (No Comment) */
+"_Reports_Report_Media_Section_Title" = "Média";
+
+/* (No Comment) */
+"_Reports_Report_Notes_Section_Family_Note_Key" = "Rodinná poznámka";
+
+/* (No Comment) */
+"_Reports_Report_Notes_Section_Note_Key" = "Poznámka";
+
+/* (No Comment) */
+"_Reports_Report_Notes_Section_Person_Note_Key" = "Osobní poznámka";
+
+/* (No Comment) */
+"_Reports_Report_Notes_Section_Title" = "Poznámky";
+
+/* (No Comment) */
+"_Reports_Report_Overview_Section_Title" = "Přehled";
+
+/* (No Comment) */
+"_Reports_Report_ShowAssociates" = "Vlivné osoby";
+
+/* (No Comment) */
+"_Reports_Report_ShowFacts" = "Fakta";
+
+/* (No Comment) */
+"_Reports_Report_ShowNotes" = "Poznámky";
+
+/* (No Comment) */
+"_Reports_Report_ShowOverview" = "Přehled";
+
+/* (No Comment) */
+"_Reports_Report_ShowUserDescription" = "Popis";
+
+/* (No Comment) */
+"_Reports_ReportBarSectionsTablesStyle" = "Pruhové sekce";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_AddImageNode" = "Přidat obrázek…";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_AddLayoutCell" = "Přidat buňku";
+
+/* ReportEditorController Edit Operations */
+"_Reports_ReportEditorController_EditOperation_AddNodesPopupButton" = "Přidat…";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_AddPDFNode" = "Přidat PDF…";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_AddRow" = "Přidat řádek";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_AddTextNode" = "Přidat text";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_RemoveLayoutCell" = "Odebrat buňku";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_RemoveNode" = "Smazat";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_RemoveRow" = "Odebrat řádek";
+
+/* (No Comment) */
+"_Reports_ReportForestGreenTablesStyler" = "Lesně zelený";
+
+/* (No Comment) */
+"_Reports_ReportFormGridTablesStyle" = "Klasický formulář";
+
+/* (No Comment) */
+"_Reports_ReportFormTablesStyle" = "Formulář";
+
+/* (No Comment) */
+"_Reports_ReportTypewriterStyler" = "Psací stroj";
+
+/* (No Comment) */
+"_Reports_SecondaryFont" = "Druhotné písmo";
+
+/* (No Comment) */
+"_Reports_SecondaryFontColor" = "Sekundární barva textu";
+
+/* (No Comment) */
+"_Reports_SectionFont" = "Písmo sekce";
+
+/* (No Comment) */
+"_Reports_SectionsMinorGroupName" = "Sekce";
+
+/* (No Comment) */
+"_Reports_SeparateSectionsCheckbox" = "Oddělené sekce";
+
+/* (No Comment) */
+"_Reports_SeparateSectionsCheckboxExplanation" = "Pokud je vybrána tato možnost, zobrazí se samostatné sekce pro vybraný režim řazení. Například pokud řadíte podle příjmení, všechny osoby se stejným příjmením budou zobrazeny ve stejné sekci.";
+
+/* (No Comment) */
+"_Reports_ShowAge" = "Zobrazit věk";
+
+/* Columns */
+"_Reports_ShowBirthDate" = "Zobrazit data narození";
+
+/* (No Comment) */
+"_Reports_ShowBirthPlace" = "Zobrazit místo narození";
+
+/* (No Comment) */
+"_Reports_ShowChapters" = "Zobrazit kapitoly";
+
+/* (No Comment) */
+"_Reports_ShowChildren" = "Zobrazit potomky";
+
+/* Citations */
+"_Reports_ShowCitations" = "Zdroje citací";
+
+/* (No Comment) */
+"_Reports_ShowCitationsExplanation" = "Zvolte, zda má být k výkazu přidána sekce s citacemi.";
+
+/* (No Comment) */
+"_Reports_ShowDeathDate" = "Zobrazit datum úmrtí";
+
+/* (No Comment) */
+"_Reports_ShowDeathPlace" = "Zobrazit místo úmrtí";
+
+/* (No Comment) */
+"_Reports_ShowKekule" = "Zobrazit Kekulé";
+
+/* (No Comment) */
+"_Reports_ShowMarriageDate" = "Zobrazit datum sňatku";
+
+/* (No Comment) */
+"_Reports_ShowMarriagePlace" = "Zobrazit místo sňatku";
+
+/* (No Comment) */
+"_Reports_ShowMedia" = "Média";
+
+/* (No Comment) */
+"_Reports_ShowNarrative" = "Popisný výkaz";
+
+/* Page Numbers, sections */
+"_Reports_ShowPageNumbers" = "Zobrazit čísla stránek";
+
+/* (No Comment) */
+"_Reports_ShowParents" = "Zobrazit rodiče";
+
+/* (No Comment) */
+"_Reports_ShowPDFs" = "Zobrazit PDF soubory";
+
+/* (No Comment) */
+"_Reports_ShowPicture" = "Zobrazit obrázek";
+
+/* (No Comment) */
+"_Reports_ShowPictures" = "Zobrazit obrázky";
+
+/* (No Comment) */
+"_Reports_ShowSections" = "Zobrazit sekce";
+
+/* (No Comment) */
+"_Reports_Sort_By_BirthDate" = "Podle data narození";
+
+/* (No Comment) */
+"_Reports_Sort_By_BirthPlace" = "Podle místa narození";
+
+/* (No Comment) */
+"_Reports_Sort_By_DeathDate" = "Podle data úmrtí";
+
+/* (No Comment) */
+"_Reports_Sort_By_DeathPlace" = "Podle místa úmrzí";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventDate" = "Podle data události";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventDescription" = "Podle popisu";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventTypeAndDate" = "Podle typu a data události";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventTypeName" = "Podle názvu typu události";
+
+/* (No Comment) */
+"_Reports_Sort_By_FirstName" = "Podle křestního jména";
+
+/* (No Comment) */
+"_Reports_Sort_By_FullName" = "Podle celého jména";
+
+/* (No Comment) */
+"_Reports_Sort_By_LastName" = "Podle příjmení";
+
+/* Sorting */
+"_Reports_Sorting" = "Řazení";
+
+/* (No Comment) */
+"_Reports_SortingExplanation" = "Zde vyberte pořadí položek k zobrazení v tomto výkazu";
+
+/* (No Comment) */
+"_Reports_SortingMinorGroupName" = "Řazení";
+
+/* (No Comment) */
+"_Reports_SortOrderAscendingCheckbox" = "Seřadit vzestupně";
+
+/* (No Comment) */
+"_Reports_SourceInformationGroupName" = "Informace o zdroji";
+
+/* (No Comment) */
+"_Reports_Sources_Page_Header" = "Stránka";
+
+/* (No Comment) */
+"_Reports_Sources_Section_Title" = "Zdroje";
+
+/* (No Comment) */
+"_Reports_StoryReport_ReferencedEntries_Title" = "Odkazované položky";
+
+/* (No Comment) */
+"_Reports_StoryReport_ReferencedEntriesInSection_Title" = "Odkazované položky v sekci '%@'";
+
+/* (No Comment) */
+"_Reports_StoryReport_Section_Media" = "Média";
+
+/* (No Comment) */
+"_Reports_StoryReport_Section_ReferencedEntries" = "Odkazované položky v sekci";
+
+/* (No Comment) */
+"_Reports_StoryReport_Section_Text" = "Text";
+
+/* (No Comment) */
+"_Reports_StoryReport_ShowReferencedEntries" = "Odkazované položky v příběhu";
+
+/* (No Comment) */
+"_Reports_StoryReport_ShowReferencedEntriesInStorySections" = "Odkazované položky v sekci příběhu";
+
+/* Story Report */
+"_Reports_StoryReport_UserDescription" = "Popis";
+
+/* (No Comment) */
+"_Reports_StoryReport_WorldHistory_Category_Header" = "Kategorie";
+
+/* (No Comment) */
+"_Reports_StoryReport_WorldHistory_Section_Title" = "Světová historie";
+
+/* (No Comment) */
+"_Reports_StyleOptionsMajorGroupName" = "Možnosti stylu";
+
+/* (No Comment) */
+"_Reports_SubSectionFont" = "Písmo podsekce";
+
+/* (No Comment) */
+"_Reports_SubSectionFontColor" = "Barva textu podsekce";
+
+/* Minor Groups */
+"_Reports_TextGroupName" = "Text";
+
+/* Style Names */
+"_Reports_TextStyle" = "Jednoduchý text";
+
+/* (No Comment) */
+"_Reports_ThemesMajorGroupName" = "Šablony";
+
+/* (No Comment) */
+"_Reports_ToDoReport_Notes" = "Poznámky";
+
+/* (No Comment) */
+"_Reports_ToDoReport_Priority" = "Priorita";
+
+/* (No Comment) */
+"_Reports_ToDoReport_Status" = "Stav";
+
+/* (No Comment) */
+"_Reports_ToDoReport_Text" = "Text";
+
+/* ToDoReport */
+"_Reports_ToDoReport_Type" = "Typ";
+
+/* (No Comment) */
+"_Reports_TopTitleBarTextStyle" = "Horní pruh";
+
+/* (No Comment) */
+"_Reports_UseSubsectionsInMediaSection" = "Seskupit média";
+
+/* (No Comment) */
+"_Reports_WorldHistoryMajorGroupName" = "Světová historie";
+
+/* (No Comment) */
+"_ReportViewConfiguration_PageFormatMode" = "Režim zobrazení stránky";
+
+/* (No Comment) */
+"_ReportViewConfiguration_PageFormatMode_PageFormatThatFitsReportViewBounds" = "Zobrazit výkaz bez stránek a tak velký, jak je to jen možné";
+
+/* (No Comment) */
+"_ReportViewConfiguration_PageFormatMode_UseSpecifiedFormat" = "Zobrazit stránky pomocí zadaného formátu stránky";
+
+/* (No Comment) */
+"_ReportViewConfiguration_PageFormatMode_WidthOfSpecifiedFormatButNoPageBreaks" = "Zobrazit stránky s vynecháním zalomení stránek";
+
+/* (No Comment) */
+"_ReportViewConfiguration_PageFormatModeExplanation" = "Zde nastavte, jak má být výkaz zobrazován na vaši obrazovce. Buď zobrazte výkaz na jednotlivých stránkách, jako by se zobrazovala na papíře, nebo tak velká jak je to možné.";
+
+/* ReportView */
+"_ReportViewConfiguration_PaginationMajorGroupName" = "Stránkování";
+
+/* Sample Report */
+"_SampleReportTitle" = "Vzorový výkaz";
+

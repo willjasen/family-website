@@ -1,0 +1,2202 @@
+﻿/* Background Image Mode */
+"_BackgroundGeneratorChartCompositorObject_BackgroundImageMode" = "Afbeeldingsstijl achtergrond";
+
+/* (No Comment) */
+"_BackgroundGeneratorChartCompositorObject_BackgroundImageMode_BlurryEdges" = "Wazige randen";
+
+/* (No Comment) */
+"_BackgroundGeneratorChartCompositorObject_BackgroundImageMode_Radial" = "Radiaal";
+
+/* (No Comment) */
+"_BackgroundGeneratorChartCompositorObject_BackgroundImageMode_Rectangle" = "Rechthoek";
+
+/* (No Comment) */
+"_BackgroundGeneratorChartCompositorObject_BlurryEdgesSize" = "Grootte wazige rand";
+
+/* (No Comment) */
+"_BarHistoryEventTimelineGeneratorChartCompositorObjectConfiguration_CustomTextColor" = "Eigen tekstkleur voor historische gebeurtenissen";
+
+/* (No Comment) */
+"_BarHistoryEventTimelineGeneratorChartCompositorObjectConfiguration_Font" = "Lettertype voor historische gebeurtenissen";
+
+/* (No Comment) */
+"_BarHistoryEventTimelineGeneratorChartCompositorObjectConfiguration_TextColoringMode" = "Kleuring tekst voor geschiedkundige gebeurtenissen";
+
+/* (No Comment) */
+"_BarPersonTimelineGeneratorChartCompositorObjectConfiguration_EventMarkerMode" = "Merkers gebeurtenissen";
+
+/* (No Comment) */
+"_BarPersonTimelineGeneratorChartCompositorObjectConfiguration_EventMarkerMode_Circles" = "Cirkels";
+
+/* (No Comment) */
+"_BarPersonTimelineGeneratorChartCompositorObjectConfiguration_EventMarkerMode_Lines" = "Lijnen";
+
+/* BaseChartBuilder */
+"_BaseChartBuilderConfiguration_PlaceFormat_CompleteLocationString" = "Volledige plaatsnaam";
+
+/* (No Comment) */
+"_BaseChartBuilderConfiguration_PlaceFormat_OnlyPlaceName" = "Afgekorte plaatsnaam";
+
+/* LineColorModes */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineColorMode" = "Modus lijnkleur";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineColorMode_ContrastToBackground" = "Contrast met achtergrond";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineColorMode_Custom" = "Eigen";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration" = "Decoratie lijneinde";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_Bar" = "Balk";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_LargeCircle" = "Grote cirkel";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_LargeDot" = "Grote punt";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_None" = "Geen";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_SmallCircle" = "Kleine cirkel";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_SmallDot" = "Kleine punt";
+
+/* BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration */
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_MediaPictureAssignmentMode" = "Modus Media-afbeeldingen";
+
+/* (No Comment) */
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_MediaPictureAssignmentMode_FullPictureWithoutAssignment" = "Volledige afbeelding zonder croppen";
+
+/* (No Comment) */
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_MediaPictureAssignmentMode_OnlyUserProvidedAssignment" = "Afbeelding croppen indien uitdrukkelijk vermeld";
+
+/* (No Comment) */
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_MediaPictureAssignmentMode_UserProvidedOrVision" = "Afbeelding croppen als een gezicht werd gedetecteerd (indien gespecifieerd)";
+
+/* (No Comment) */
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_MediaPictureAssignmentModeExplanation" = "Bepaal hoe media moeten getoond worden. Kies uit volledige afbeeldingen of als afbeelding moeten getoond worden als gezichten door gebruik te maken van A.I.";
+
+/* (No Comment) */
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_OutsetForMediaPictureAssignmentModeForVision" = "Tussenruimte voor gedetecteerde gezichten";
+
+/* (No Comment) */
+"_ChartCompositorObjectsContainer_RealignmentMode_DistributeObjectsEvenlyOnPageFromBorderToBorder" = "Verdeel objecten over alle pagina's";
+
+/* ChartCompositorObjectsContainer_RealignmentMode */
+"_ChartCompositorObjectsContainer_RealignmentMode_MoveObjectsAwayFromPageCuts" = "Hou objecten verwijderd van pagina-einden";
+
+/* (No Comment) */
+"_ChartFillSettings_FillType_LinearGradient" = "Verloop";
+
+/* ChartFillSettings */
+"_ChartFillSettings_FillType_None" = "Geen";
+
+/* (No Comment) */
+"_ChartFillSettings_FillType_None_Explanation" = "Geen vullingstype geselecteerd";
+
+/* (No Comment) */
+"_ChartFillSettings_FillType_RadialGradient" = "Radiaal verloop";
+
+/* (No Comment) */
+"_ChartFillSettings_FillType_RadialGradient_Abbreviation" = "Radiaal";
+
+/* (No Comment) */
+"_ChartFillSettings_FillType_SolidColor" = "Kleur";
+
+/* (No Comment) */
+"_ChartObjectType_BezierConnectionBuilderItemGeneratorChartCompositorObject" = "Bezier verbindingen";
+
+/* (No Comment) */
+"_ChartObjectType_BlobConnectionBuilderItemGeneratorChartCompositorObject" = "Organische verbindingen";
+
+/* Chart object types */
+"_ChartObjectType_DirectStraightConnectionBuilderItemGeneratorChartCompositorObject" = "Rechte verbindingen";
+
+/* (No Comment) */
+"_ChartObjectType_HConnectionBuilderItemGeneratorChartCompositorObject" = "H-verbindingen";
+
+/* (No Comment) */
+"_ChartObjectType_YStraightConnectionBuilderItemGeneratorChartCompositorObject" = "Y rechte verbindingen";
+
+/* (No Comment) */
+"_Charts_XAlignment_Center" = "Midden";
+
+/* Alignment */
+"_Charts_XAlignment_Left" = "Links";
+
+/* (No Comment) */
+"_Charts_XAlignment_Right" = "Rechts";
+
+/* (No Comment) */
+"_Charts_YAlignment_Bottom" = "Bodem";
+
+/* (No Comment) */
+"_Charts_YAlignment_Middle" = "Midden";
+
+/* (No Comment) */
+"_Charts_YAlignment_Top" = "Top";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_ExportAsSeparatePages" = "Afzonderlijke pagina's";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_ExportAsSeparatePages_Explanation" = "Indien aangevinkt, worden meerder pagina's gebruikt voor het diagram.";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_ExportBackground" = "Toon achtergrond";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_ExportBackground_Explanation" = "Indien aangevinkt, zal de achtergrond zichtbaar zijn op de afbeelding.";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_Margins" = "Marges";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_Margins_Explanation" = "Gebruik deze optie om de marges rond het diagram in te stellen";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_Margins_ExplanationForPrinting" = "Stelt de marge van de kaart t.o.v. de rand in voor elke pagina.";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_PrintingTitle" = "Afdrukinstellingen";
+
+/* ChartsBaseCGContextViewerConfiguration */
+"_ChartsBaseCGContextViewerConfiguration_Title" = "Export instellingen";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewer_JPEGToLarge_Description" = "Dit diagram is te groot om te exporteren als JPEG-bestand. Pas de schaal aan naar een lagere schaal of exporteer het diagram als PNG- of PDF-bestand.";
+
+/* ChartsBitmapCGContextViewerConfiguration */
+"_ChartsBitmapCGContextViewerConfiguration_ExportFormat" = "Uitvoerformaat";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_ExportFormat_Explanation" = "Kies hier het gewenste afbeeldingsformaat. PNG-bestanden kunnen een transparante achtergrond bevatten, terwijl JPEG-bestanden een betere compressie bieden en een kleinere bestandsgrootte hebben.";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_ExportFormat_JPEG" = "Exporteer als JPEG-afbeelding";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_ExportFormat_PNG" = "Exporteer als PNG-afbeelding";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_JPEGQuality" = "JPEG kwaliteit";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_JPEGQuality_Explanation" = "De JPEG-kwaliteit bepaalt hoe sterk de afbeelding gecomprimeerd wordt. Lagere kwaliteit resulteert in een kleinere bestandsgrootte maar kan mogelijks artifacten geven.";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_Scaling" = "Schaling";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_Scaling_Explanation" = "Stel hier de grootte van de finale afbeelding in. Grotere schaal vergroot de bestandsgrootte maar biedt meer detail.";
+
+/* (No Comment) */
+"_ChartsEditor_AlignMode_BottomY" = "Onderaan uitlijnen, verticaal";
+
+/* ChartEditor */
+"_ChartsEditor_AlignMode_LeftX" = "Links uitlijnen, horizontaal";
+
+/* (No Comment) */
+"_ChartsEditor_AlignMode_MiddleX" = "Centrum uitlijnen, horizontaal";
+
+/* (No Comment) */
+"_ChartsEditor_AlignMode_MiddleY" = "Centrum uitlijnen, verticaal";
+
+/* (No Comment) */
+"_ChartsEditor_AlignMode_RightX" = "Rechts uitlijnen, horizontaal";
+
+/* (No Comment) */
+"_ChartsEditor_AlignMode_TopY" = "Bovenaan uitlijnden, verticaal";
+
+/* (No Comment) */
+"_Common_AdditionalNameFormat" = "Bijkomende namen";
+
+/* (No Comment) */
+"_Common_AdditionalNameFormatExplanation" = "Configureer hier welke bijkomende namen er moeten getoond worden in het diagram";
+
+/* (No Comment) */
+"_Common_Alignment" = "Uitlijning";
+
+/* (No Comment) */
+"_Common_Alignment_BottomToTop" = "Van onder naar boven";
+
+/* (No Comment) */
+"_Common_Alignment_FathersBottomMothersTop" = "Vaders onderaan, moeders boven";
+
+/* (No Comment) */
+"_Common_Alignment_FathersLeftMothersRight" = "Vaders links, moeders rechts";
+
+/* (No Comment) */
+"_Common_Alignment_FathersLeftMothersRightCondensed" = "Vaders links, moeders rechts (samengedrukt)";
+
+/* (No Comment) */
+"_Common_Alignment_FathersRightMothersLeft" = "Vaders rechts, moeders linkt";
+
+/* (No Comment) */
+"_Common_Alignment_FathersRightMothersLeftCondensed" = "Vaders rechts, moeders links (samengedrukt)";
+
+/* (No Comment) */
+"_Common_Alignment_FathersTopMothersBottom" = "Vaders bovenaan, moeders onderaan";
+
+/* (No Comment) */
+"_Common_Alignment_LeftToRight" = "Van links naar rechts";
+
+/* (No Comment) */
+"_Common_Alignment_LeftToRightCondensed" = "Links naar rechts (gecondenseerd)";
+
+/* (No Comment) */
+"_Common_Alignment_RightToLeft" = "Van rechts naar links";
+
+/* (No Comment) */
+"_Common_Alignment_RightToLeftCondensed" = "Rechts naar links (gecondenseerd)";
+
+/* (No Comment) */
+"_Common_Alignment_TopToBottom" = "Van boven naar onder";
+
+/* (No Comment) */
+"_Common_AlignmentExplanation" = "Bepaalt de algemene lay-out van personen in de grafiek";
+
+/* (No Comment) */
+"_Common_AlignOnGrid" = "Uitlijnen op statisch rooster";
+
+/* (No Comment) */
+"_Common_AlignOnGridExplanation" = "Rangschikt alle personen afhankelijk van de grootte van het grootste persoonsvak. Dit resulteert in een meer uniform uiterlijk, maar gebruikt meer ruimte.";
+
+/* (No Comment) */
+"_Common_AncestorGenerationsOfPartnerSlider" = "Generaties voorouders van partners";
+
+/* (No Comment) */
+"_Common_AncestorGenerationsSlider" = "Voorouder generaties";
+
+/* (No Comment) */
+"_Common_AnestorGenerationsForPartnersSlider" = "Generaties van voorouders voor partners";
+
+/* (No Comment) */
+"_Common_AnglesGroupName" = "Hoeken";
+
+/* (No Comment) */
+"_Common_AngleSlider" = "Hoek";
+
+/* (No Comment) */
+"_Common_ArrowsGroupName" = "Pijlen";
+
+/* (No Comment) */
+"_Common_AssociatedPersonsGroupName" = "Invloedrijke personen";
+
+/* (No Comment) */
+"_Common_AssociateRelationLines" = "Invloedrijke relaties";
+
+/* (No Comment) */
+"_Common_Author" = "Auteur";
+
+/* (No Comment) */
+"_Common_AuthorColor" = "Kleur auteur";
+
+/* (No Comment) */
+"_Common_AuthorCustomTextColor" = "Eigen auteurkleur";
+
+/* (No Comment) */
+"_Common_AuthorEnabledCheckbox" = "Toon auteur";
+
+/* (No Comment) */
+"_Common_AuthorFont" = "Lettertype auteur";
+
+/* (No Comment) */
+"_Common_AuthorGroupName" = "Auteur";
+
+/* (No Comment) */
+"_Common_AuthorTextColoringMode" = "Kleuring auteur";
+
+/* (No Comment) */
+"_Common_BackgroundColor" = "Achtergrondkleur";
+
+/* (No Comment) */
+"_Common_BackgroundEdgeRadius" = "Straal rand achtergrond";
+
+/* (No Comment) */
+"_Common_BackgroundEnabledCheckbox" = "Toon achtergrond";
+
+/* (No Comment) */
+"_Common_BackgroundEnabledCheckboxExplanation" = "Indien aangevinkt, selecteer een kleur, verloop of afbeelding om te gebruiken als achtergrond voor dit diagram.";
+
+/* (No Comment) */
+"_Common_BackgroundFill" = "Vulling achtergrond";
+
+/* (No Comment) */
+"_Common_BackgroundGroupName" = "Achtergrond";
+
+/* (No Comment) */
+"_Common_BackgroundImageOpacity" = "Opaciteit achtergrondafbeelding";
+
+/* (No Comment) */
+"_Common_BackgroundTintFactor" = "Achtergrondtint";
+
+/* (No Comment) */
+"_Common_BarAndTextColor" = "Kleur balk en tekst";
+
+/* (No Comment) */
+"_Common_BarColor" = "Bar Kleur";
+
+/* (No Comment) */
+"_Common_BarEdgeRadius" = "Straal balkrand";
+
+/* (No Comment) */
+"_Common_BarGroupName" = "Balk";
+
+/* (No Comment) */
+"_Common_BarHeight" = "Hoogte balk";
+
+/* (No Comment) */
+"_Common_BarsGroupName" = "Balken";
+
+/* (No Comment) */
+"_Common_BarsSpacing" = "Ruimte tussen balken";
+
+/* (No Comment) */
+"_Common_BarStyle" = "Bar stijl";
+
+/* (No Comment) */
+"_Common_BarsWidth" = "Breedte balken";
+
+/* (No Comment) */
+"_Common_BorderColor" = "Kleur rand";
+
+/* (No Comment) */
+"_Common_BorderGroupName" = "Rand";
+
+/* (No Comment) */
+"_Common_BorderWidth" = "Breedte randen";
+
+/* (No Comment) */
+"_Common_BottomDarkeningFactor" = "Achtergrondgradiëntfactor";
+
+/* (No Comment) */
+"_Common_BottomLineColor" = "Kleur onderlijn";
+
+/* (No Comment) */
+"_Common_BottomLineWidth" = "Breedte onderlijn";
+
+/* (No Comment) */
+"_Common_BottomMarginSlider" = "Onderste marge";
+
+/* (No Comment) */
+"_Common_BoundsHeight" = "Hoogte";
+
+/* (No Comment) */
+"_Common_BoundsWidth" = "Breedte";
+
+/* (No Comment) */
+"_Common_BranchesToTraverse" = "Aantal te volgen takken";
+
+/* (No Comment) */
+"_Common_BranchesToTraverse_MaternalAndPaternal" = "Materneel en paterneel";
+
+/* (No Comment) */
+"_Common_BranchesToTraverse_MaternalOfStartPerson" = "Materneel";
+
+/* (No Comment) */
+"_Common_BranchesToTraverse_OnlyMaternal" = "Enkel materneel";
+
+/* (No Comment) */
+"_Common_BranchesToTraverse_OnlyPaternal" = "Enkel paterneel";
+
+/* (No Comment) */
+"_Common_BranchesToTraverse_PaternalOfStartPerson" = "Paterneel van probant";
+
+/* (No Comment) */
+"_Common_BranchesToTraverseExplanation" = "Selecteer welke takken gevolgd moeten worden bij het tonen van dit diagram. Bijvoorbeeld, het selecteren van 'enkel paterneel' resulteert in een diagram dat enkel de vader, grootvader van de gekozen persoon evalueert.";
+
+/* (No Comment) */
+"_Common_BranchItemSpacingSlider" = "Ruimte tussen items";
+
+/* (No Comment) */
+"_Common_BranchItemSpacingSliderExplanation" = "Bepaalt hoever de personen geplaatst worden tegenover hun dichtste verwant";
+
+/* (No Comment) */
+"_Common_BrothersAndSistersGroupName" = "Broers & Zusters";
+
+/* (No Comment) */
+"_Common_ChildrenGenerationsSlider" = "Generaties kinderen";
+
+/* (No Comment) */
+"_Common_ColoringMode" = "Kleurmodus";
+
+/* (No Comment) */
+"_Common_ColoringMode_Alternating" = "Alternerend";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByAge" = "Per leeftijd";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByGender" = "Per geslacht";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByGenerationGreenBlue" = "Op generatie (groen/blauw)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByGenerationOrangeCyan" = "Op generatie (oranje/cyaan)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByGenerationRainbow" = "Op generatie (regenboog)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByGenerationSunset" = "Op generatie (zonsondergang)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByLabel" = "op label";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByPedigreeDark" = "Op stamboom (donker)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByPedigreeLight" = "Op stamboom (licht)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByPersonGroup" = "Op persoonsgroep";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByYear" = "Per jaar";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByYearRainbow" = "Op jaar (regenboog)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByYearRainbowSubdued" = "Op jaar (regenboog, gedimd)";
+
+/* (No Comment) */
+"_Common_ColoringMode_Custom" = "Uniform kleur";
+
+/* (No Comment) */
+"_Common_ColoringMode_Rainbow" = "Regenboog";
+
+/* (No Comment) */
+"_Common_ColoringMode_Uniform" = "Uniform";
+
+/* (No Comment) */
+"_Common_ColoringMode_White" = "Wit";
+
+/* (No Comment) */
+"_Common_ColoringModeExplanation" = "Selecteer hier verschillende kleurschema's voor personen in dit diagram";
+
+/* (No Comment) */
+"_Common_ColorsGroupName" = "Kleuren";
+
+/* (No Comment) */
+"_Common_ConnectionLineType" = "Soort verbindingslijn";
+
+/* (No Comment) */
+"_Common_ContentGroupName" = "Inhoud";
+
+/* (No Comment) */
+"_Common_CurveFactor" = "Curve";
+
+/* (No Comment) */
+"_Common_CustomColor" = "Eigen kleur";
+
+/* (No Comment) */
+"_Common_CustomTextColor" = "Eigen tekstkleur";
+
+/* (No Comment) */
+"_Common_Date" = "Datum";
+
+/* (No Comment) */
+"_Common_DateColor" = "Datumkleur";
+
+/* (No Comment) */
+"_Common_DateCustomTextColor" = "Eigen datumkleur";
+
+/* (No Comment) */
+"_Common_DateEnabledCheckbox" = "Toon datum";
+
+/* (No Comment) */
+"_Common_DateFont" = "Lettertype datum";
+
+/* (No Comment) */
+"_Common_DateFormatGroupName" = "Datumformaten";
+
+/* (No Comment) */
+"_Common_DateFormatStyle" = "Stijl datumformaat";
+
+/* (No Comment) */
+"_Common_DateFormatStyle_Full" = "Volledig (Maandag, 17 november 2014)";
+
+/* (No Comment) */
+"_Common_DateFormatStyle_Long" = "Lang (17 november 2014)";
+
+/* (No Comment) */
+"_Common_DateFormatStyle_Medium" = "Medium (17 nov 2014)";
+
+/* (No Comment) */
+"_Common_DateFormatStyle_Short" = "Kort (11/17/2014)";
+
+/* (No Comment) */
+"_Common_DateFormatStyleExplanation" = "Bepaal hier welk datumformaat er moet gebruikt worden bij het instellen van datums";
+
+/* (No Comment) */
+"_Common_DateGroupName" = "Datum";
+
+/* (No Comment) */
+"_Common_DatesGroupName" = "Datums";
+
+/* (No Comment) */
+"_Common_DateTextColor" = "Tekstkleur datum";
+
+/* (No Comment) */
+"_Common_DateTextColoringMode" = "Kleuring datum";
+
+/* (No Comment) */
+"_Common_DescendantGenerationsSlider" = "Generaties afstammelingen";
+
+/* (No Comment) */
+"_Common_DisplayValuesGroupName" = "Waarden";
+
+/* (No Comment) */
+"_Common_DistributeToAllPagesButton" = "Maakt objecten passend op alle pagina's";
+
+/* (No Comment) */
+"_Common_EdgeHeight" = "Randhoogte";
+
+/* (No Comment) */
+"_Common_EdgeRadius" = "Randstraal";
+
+/* (No Comment) */
+"_Common_EmphasizedGroupBackgroundFill" = "Benadrukte achtergrondkleur groepen";
+
+/* (No Comment) */
+"_Common_EnabledPersonGroupIdentifiers" = "Persoonsgroepen";
+
+/* (No Comment) */
+"_Common_EndGenerationScale" = "Eindschaal generatie";
+
+/* (No Comment) */
+"_Common_EndGenerationScaleExplanation" = "Bepaalt de schaalverhouding van de eindgeneratie t.o.v. de startgeneratie";
+
+/* (No Comment) */
+"_Common_EvaluateDataFromDate" = "Vanaf datum";
+
+/* (No Comment) */
+"_Common_EvaluateDataToDate" = "Tot datum";
+
+/* (No Comment) */
+"_Common_EventsFactsAndAssociateRelationsGroupName" = "Evenementen, Feiten en Invloedrijke Relaties";
+
+/* (No Comment) */
+"_Common_EventsGroupName" = "Gebeurtenissen";
+
+/* (No Comment) */
+"_Common_FatherGenerationsSlider" = "Generaties vader";
+
+/* (No Comment) */
+"_Common_FillMode" = "Vulmodus";
+
+/* (No Comment) */
+"_Common_FillMode_BarAtBottom" = "Balk beneden";
+
+/* (No Comment) */
+"_Common_FillMode_BarAtTop" = "Balk boven";
+
+/* (No Comment) */
+"_Common_FillMode_BarAtTopAndBottom" = "Balk boven- en onderaan";
+
+/* (No Comment) */
+"_Common_FillMode_DarkBarAtBottom" = "Donkere balk onderaan";
+
+/* (No Comment) */
+"_Common_FillMode_DarkBarAtTop" = "Donkere balk bovenaan";
+
+/* (No Comment) */
+"_Common_FillMode_DarkBarAtTopAndBottom" = "Donkere balk boven- en onderaan";
+
+/* (No Comment) */
+"_Common_FillMode_DarkGradientAtBottom" = "Donker verloop naar onder";
+
+/* (No Comment) */
+"_Common_FillMode_DarkGradientAtRight" = "Donker verloop naar rechts";
+
+/* (No Comment) */
+"_Common_FillMode_DarkGradientAtTop" = "Donker verloop naar boven";
+
+/* (No Comment) */
+"_Common_FillMode_Flat" = "Plat";
+
+/* (No Comment) */
+"_Common_FillMode_Glossy" = "Glanzend";
+
+/* (No Comment) */
+"_Common_FillMode_LightBarAtBottom" = "Lichte balk onderaan";
+
+/* (No Comment) */
+"_Common_FillMode_LightBarAtTop" = "Lichte balk bovenaan";
+
+/* (No Comment) */
+"_Common_FillMode_LightBarAtTopAndBottom" = "Lichte balk boven- en onderaan";
+
+/* (No Comment) */
+"_Common_FillMode_LightGradientAtBottom" = "Licht verloop naar beneden";
+
+/* (No Comment) */
+"_Common_FillMode_LightGradientAtLeft" = "Licht verloop naar rechts";
+
+/* (No Comment) */
+"_Common_FillMode_LightGradientAtTop" = "Licht verloop naar boven";
+
+/* (No Comment) */
+"_Common_FillMode_LightShineAtCenter" = "Lichtschijnsel midden";
+
+/* (No Comment) */
+"_Common_FillMode_None" = "Geen";
+
+/* (No Comment) */
+"_Common_FillMode_VeryDarkGradientAtBottom" = "Zeer donker verloop naar beneden";
+
+/* (No Comment) */
+"_Common_FillMode_VeryDarkGradientAtTop" = "Zeer donker verloop naar boven";
+
+/* (No Comment) */
+"_Common_FillMode_VeryLightGradientAtBottom" = "Zeer licht verloop naar beneden";
+
+/* (No Comment) */
+"_Common_FillMode_VeryLightGradientAtTop" = "Zeer licht verloop naar boven";
+
+/* (No Comment) */
+"_Common_FloatingSideBar" = "Zwevende zijbalk";
+
+/* (No Comment) */
+"_Common_Font" = "Lettertype";
+
+/* (No Comment) */
+"_Common_FontsGroupName" = "Lettertypen";
+
+/* (No Comment) */
+"_Common_FromDate" = "Vanaf datum";
+
+/* (No Comment) */
+"_Common_FullName" = "Volledige naam";
+
+/* Group Names */
+"_Common_GeneralGroupName" = "Algemeen";
+
+/* (No Comment) */
+"_Common_GenerationMarginsSlier" = "Marge generaties";
+
+/* (No Comment) */
+"_Common_GenerationScaleSubGroupName" = "Schaal generaties";
+
+/* Control Names */
+"_Common_GenerationsSlider" = "Generaties";
+
+/* (No Comment) */
+"_Common_GenerationsSpacingSlider" = "Tussenruimte generaties";
+
+/* (No Comment) */
+"_Common_GenerationsSpacingSliderExplanation" = "Controleert de tussenruimte tussen de personen van elke generatie";
+
+/* (No Comment) */
+"_Common_GeometryGroupName" = "Geometrie";
+
+/* (No Comment) */
+"_Common_GraphSegmentWidth" = "Segmentbreedte grafiek";
+
+/* (No Comment) */
+"_Common_GraphType" = "Soort grafiek";
+
+/* (No Comment) */
+"_Common_GraphType_Bars" = "Balken";
+
+/* (No Comment) */
+"_Common_GraphType_Lines" = "Lijnen";
+
+/* (No Comment) */
+"_Common_GridGroupName" = "Rooster";
+
+/* (No Comment) */
+"_Common_GroupColoringMode" = "Modus Groepkleuring";
+
+/* (No Comment) */
+"_Common_GroupingMode" = "Groeperingsmodus";
+
+/* (No Comment) */
+"_Common_GroupInnerPadding" = "Binnenvulling";
+
+/* (No Comment) */
+"_Common_GroupsGroupName" = "Groepen";
+
+/* (No Comment) */
+"_Common_HasArrowAtEnd" = "Pijl aan het einde";
+
+/* (No Comment) */
+"_Common_HasArrowAtStart" = "Pijl bij het begin";
+
+/* (No Comment) */
+"_Common_HasProjectedBirthDate" = "Heeft geprojecteerde geboortedatum";
+
+/* (No Comment) */
+"_Common_HasProjectedDeathDate" = "Heeft geprojecteerde overlijdensdatum";
+
+/* (No Comment) */
+"_Common_HidePrivateInformation" = "Verberg informatie gemarkeerd als 'privaat'";
+
+/* (No Comment) */
+"_Common_HidePrivateInformationExplanation" = "Indien aangevinkt, wordt alle als privaat gemerkte informatie verborgen in het diagram";
+
+/* (No Comment) */
+"_Common_HighlightLivingPersons" = "Levende personen markeren";
+
+/* (No Comment) */
+"_Common_HistoryGroupName" = "Wereldgeschiedenis";
+
+/* (No Comment) */
+"_Common_HorizontalSpacing" = "Horizontale tussenruimte";
+
+/* (No Comment) */
+"_Common_IDs" = "Referentienummers";
+
+/* (No Comment) */
+"_Common_ImageAlignment" = "Afbeelding uitlijnen";
+
+/* (No Comment) */
+"_Common_ImageHeightFactorSlider" = "Hoogte afbeelding";
+
+/* (No Comment) */
+"_Common_ImageMargins" = "Afbeeldingsmarges";
+
+/* (No Comment) */
+"_Common_ImageSpacing" = "Tussenruimte afbeeldingen";
+
+/* (No Comment) */
+"_Common_IncludePlaceDetail" = "Plaatsinformatie opnemen in plaatsnaam";
+
+/* (No Comment) */
+"_Common_IndentPartners" = "Inspringende partners";
+
+/* Privacy */
+"_Common_InformationHiddenDueToPrivacySettings" = "Informatie verborgen omwille van privacy";
+
+/* (No Comment) */
+"_Common_InnerBarMarginsSlider" = "Marges binnenbalk";
+
+/* (No Comment) */
+"_Common_InnerBoxMarginsSlider" = "Binnenste marges";
+
+/* (No Comment) */
+"_Common_ItemMarginsSlider" = "Marges items";
+
+/* (No Comment) */
+"_Common_ItemSpacingSlider" = "Tussenruimte items";
+
+/* (No Comment) */
+"_Common_ItemSpacingSliderExplanation" = "Bepaalt de afstand tussen personen binnen een generatie";
+
+/* (No Comment) */
+"_Common_LabelsGroupName" = "Labels";
+
+/* (No Comment) */
+"_Common_LeftLineColor" = "Kleur linker lijn";
+
+/* (No Comment) */
+"_Common_LeftLineWidth" = "Breedte linker lijn";
+
+/* (No Comment) */
+"_Common_LineColor" = "Kleur lijn";
+
+/* ChartLineDashPatternTypes */
+"_Common_LineDashPatternType" = "Streepjespatroon lijn";
+
+/* (No Comment) */
+"_Common_LineDashPatternType_Long" = "Lang";
+
+/* (No Comment) */
+"_Common_LineDashPatternType_Short" = "Kort";
+
+/* (No Comment) */
+"_Common_LineDashPatternType_ShortGaps" = "Korte gaten";
+
+/* (No Comment) */
+"_Common_LineDashPatternType_Solid" = "Vast";
+
+/* (No Comment) */
+"_Common_LineDashPatternType_VeryShort" = "Zeer kort";
+
+/* (No Comment) */
+"_Common_LineDistanceFromDestinationObjects" = "Afstand lijn van bestemming";
+
+/* (No Comment) */
+"_Common_LineDistanceFromOriginObjects" = "Afstand lijn van oorsprong";
+
+/* (No Comment) */
+"_Common_LineEndingName" = "Lijnstoppen";
+
+/* (No Comment) */
+"_Common_LineGroupName" = "Lijn";
+
+/* (No Comment) */
+"_Common_LinesGroupName" = "Lijnen";
+
+/* (No Comment) */
+"_Common_LineWidth" = "Breedte lijn";
+
+/* (No Comment) */
+"_Common_Localization" = "Localisatie";
+
+/* (No Comment) */
+"_Common_LocalizationAndFormatsGroupName" = "Localisatie & Formaten";
+
+/* (No Comment) */
+"_Common_LocalizationExplanation" = "Bepaal de localisatie in dit diagram. Alle persoonsgebeurtenissen, persoonsfeiten of familiegebeurtenissen en andere tekst word gelokaliseerd in de opgegeven taal";
+
+/* (No Comment) */
+"_Common_MarginsGroupName" = "Marges";
+
+/* (No Comment) */
+"_Common_MarkDeadPersons" = "Markeer overleden personen";
+
+/* (No Comment) */
+"_Common_MaximumRecursionDepth" = "Maximale herhalingsdiepte";
+
+/* (No Comment) */
+"_Common_MaximumRecursionDepthExplanation" = "Bepaalt hoeveel maal dezelfde persoon kan verschijnen in dezelfde grafiek alvorens de beoordeling eindigt. Dit kan het gevolg van invoerfouten zijn of het gevolg van relaties tussen neven/nichten of incestueuze relaties.";
+
+/* (No Comment) */
+"_Common_MaximumResults" = "Maximum resultaten";
+
+/* (No Comment) */
+"_Common_MediaGroupName" = "Media";
+
+/* (No Comment) */
+"_Common_MotherGenerationsSlider" = "Moeder generaties";
+
+/* (No Comment) */
+"_Common_NameAlignment" = "Naam Uitlijning";
+
+/* (No Comment) */
+"_Common_NameBarColor" = "Naam balk kleur";
+
+/* (No Comment) */
+"_Common_NameFont" = "Lettertype naam";
+
+/* (No Comment) */
+"_Common_NameFormat" = "Formaat persoonsnaam";
+
+/* (No Comment) */
+"_Common_NameFormatExplanation" = "Kies het te gebruiken naamformaat voor alle personen in dit specifiek diagram.";
+
+/* (No Comment) */
+"_Common_NamesFormatGroupName" = "Naamformaten";
+
+/* (No Comment) */
+"_Common_NameTextColor" = "Kleur naamtekst";
+
+/* (No Comment) */
+"_Common_NoBackground" = "Geen achtergrond";
+
+/* (No Comment) */
+"_Common_NormalGroupBackgroundFill" = "Normale achtergrondkleur groep";
+
+/* (No Comment) */
+"_Common_NotesGroupName" = "Notities";
+
+/* (No Comment) */
+"_Common_OmitEmptyPagesWhenPrintingOrExporting" = "Ledige bladzijden overslaan tijdens afdrukken";
+
+/* Date Ranges */
+"_Common_OnlyEvalulateEntriesInDateRange" = "Evalueer enkel invoer binnen datumbereik";
+
+/* (No Comment) */
+"_Common_OnlyEvalulateEntriesInDateRangeExplanation" = "Indien opgegeven worden enkel datums in dit bereik geëvalueerd. Andere worden genegeerd.";
+
+/* (No Comment) */
+"_Common_OtherFont" = "Ander lettertype";
+
+/* (No Comment) */
+"_Common_OtherTextColor" = "Andere tekstkleur";
+
+/* (No Comment) */
+"_Common_OverviewGroupName" = "Overzicht";
+
+/* (No Comment) */
+"_Common_PageOverlapPoints" = "Pagina overlapping";
+
+/* (No Comment) */
+"_Common_PagesCountX" = "Horizontale pagina's";
+
+/* (No Comment) */
+"_Common_PagesCountY" = "Verticale pagina's";
+
+/* (No Comment) */
+"_Common_ParentGenerationsSlider" = "Ouder generaties";
+
+/* (No Comment) */
+"_Common_PartnerIndentionSlider" = "Inspringing partner";
+
+/* (No Comment) */
+"_Common_PartnerIndentionSliderExplanation" = "Bepaalt de afstand tussen kind en partner van kind.";
+
+/* (No Comment) */
+"_Common_PartnersGroupName" = "Partners";
+
+/* (No Comment) */
+"_Common_PersonGroupsName" = "Persoonsgroepen";
+
+/* (No Comment) */
+"_Common_PersonsGroupName" = "Personen";
+
+/* (No Comment) */
+"_Common_PersonWidthSlider" = "Breedte personen";
+
+/* (No Comment) */
+"_Common_PlaceFormat" = "Plaatsformaat";
+
+/* (No Comment) */
+"_Common_PlaceFormatExplanation" = "Bepaal hier als de volledige plaatsnaam of enkel een afkorting moet getoond worden.";
+
+/* (No Comment) */
+"_Common_PlaceholderImageOpacity" = "Ondoorzichtigheid van plaatshouderafbeelding";
+
+/* (No Comment) */
+"_Common_PlacesFormatGroupName" = "Plaatsformaten";
+
+/* (No Comment) */
+"_Common_PrintCutMarks" = "Druk snijmerktekens af";
+
+/* (No Comment) */
+"_Common_PrintPageNumbers" = "Druk paginanummers af";
+
+/* (No Comment) */
+"_Common_ReformatDatesToSelectedLocale" = "Datums herformateren";
+
+/* (No Comment) */
+"_Common_ReformatDatesToSelectedLocaleExplanation" = "Indien aangevinkt, worden alle datums opnieuw ingesteld naar de opgegeven localisatie";
+
+/* (No Comment) */
+"_Common_ResultsToCollapse" = "Te koppelen resultaten";
+
+/* (No Comment) */
+"_Common_RightLineColor" = "Kleur rechter lijn";
+
+/* (No Comment) */
+"_Common_RightLineWidth" = "Breedte rechter lijn";
+
+/* (No Comment) */
+"_Common_Rotation" = "Rotatie";
+
+/* (No Comment) */
+"_Common_ScaleAllValuesToRelativeValues" = "Toon als relatieve waarden";
+
+/* (No Comment) */
+"_Common_ScaleAllValuesToRelativeValuesExplanation" = "In plaats van absolute aantallen, toon alle waarde als relatieve waarden voor elk gegeven jaar.";
+
+/* (No Comment) */
+"_Common_ScaleBrothersAndSisters" = "Broers en zusters schalen";
+
+/* (No Comment) */
+"_Common_ScaleBrothersAndSistersExplanation" = "Indien aangevinkt, worden broers en zusters van een directe voorouder of afstammeling van de probant geschaald op 50%";
+
+/* (No Comment) */
+"_Common_ScalingOfBrothersAndSistersSlider" = "Schaling van broers en zusters";
+
+/* (No Comment) */
+"_Common_ShadowAngle" = "Schaduwhoek";
+
+/* (No Comment) */
+"_Common_ShadowBlur" = "Schaduwwaas";
+
+/* (No Comment) */
+"_Common_ShadowColor" = "Schaduwkleur";
+
+/* (No Comment) */
+"_Common_ShadowColoringFactor" = "Kleuring schaduw";
+
+/* (No Comment) */
+"_Common_ShadowDistance" = "Schaduwlengte";
+
+/* (No Comment) */
+"_Common_ShadowGroupName" = "Schaduwen";
+
+/* (No Comment) */
+"_Common_ShadowLength" = "Schaduwlengte";
+
+/* (No Comment) */
+"_Common_ShadowMode" = "Schaduwmodus";
+
+/* (No Comment) */
+"_Common_ShadowMode_Blurry" = "Wazig";
+
+/* (No Comment) */
+"_Common_ShadowMode_Flat" = "Plat";
+
+/* (No Comment) */
+"_Common_ShadowMode_None" = "Geen";
+
+/* (No Comment) */
+"_Common_ShadowOpacity" = "Opaciteit schaduw";
+
+/* (No Comment) */
+"_Common_ShowAncestorsOfPartners" = "Toon voorouders van partners";
+
+/* (No Comment) */
+"_Common_ShowAncestorsOfPartnersExplanation" = "Als deze optie actief is worden naast de voorouders van de probant, ook de voorouders van zijn/haar partner getoond.";
+
+/* (No Comment) */
+"_Common_ShowAncestralFileNumberID" = "Toon Ancestral File Number ID";
+
+/* (No Comment) */
+"_Common_ShowBrothersAndSisters" = "Toon broers en zusters";
+
+/* (No Comment) */
+"_Common_ShowBrothersAndSistersOfAncestors" = "Toon broers en zusters van voorouders";
+
+/* (No Comment) */
+"_Common_ShowBrothersAndSistersOfStartPerson" = "Toon broers en zusters van geselecteerde persoon";
+
+/* (No Comment) */
+"_Common_ShowBrothersAndSistersOfStartPersonExplanation" = "D.m.v. deze optie, kan u de broers en zussen van de huidig geselecteerde persoon insluiten in dit diagram.";
+
+/* (No Comment) */
+"_Common_ShowDisplayValuesOnBars" = "toon waarden op balken";
+
+/* (No Comment) */
+"_Common_ShowFamilySearchID" = "Toon FamilySearch ID";
+
+/* (No Comment) */
+"_Common_ShowGedcomID" = "Toon GEDCOM-ID";
+
+/* (No Comment) */
+"_Common_ShowGroupsForPartnerItems" = "Toon groepen voor partners";
+
+/* (No Comment) */
+"_Common_ShowKinships" = "Toon verwantschappen";
+
+/* (No Comment) */
+"_Common_ShowKinshipsExplanation" = "Bepaal als de verwantschap tot de geselecteerde startpersoon moet getoond worden voor elk persoon in dit diagram.";
+
+/* (No Comment) */
+"_Common_ShowLabels" = "Toon labels";
+
+/* (No Comment) */
+"_Common_ShowNotes" = "Notities tonen";
+
+/* (No Comment) */
+"_Common_ShowNumberingSystem" = "Toon nummeringssysteem";
+
+/* (No Comment) */
+"_Common_ShowOnlyBloodlines" = "Volg enkel directe bloedlijnen";
+
+/* (No Comment) */
+"_Common_ShowOnlySpecificPersonGroups" = "Enkel specifieke persoonsgroepen tonen";
+
+/* (No Comment) */
+"_Common_ShowOnlySpecificPersonGroupsExplanation" = "Indien actief, worden enkel personen in deze persoonsgroepen doorkruist. Personen die niet aanwezig zijn in deze peroonsgroepen, worden m.u.v. de bronpersoon niet getoond.";
+
+/* (No Comment) */
+"_Common_ShowPartnersOfStartItem" = "Toon partners van geselecteerde persoon";
+
+/* (No Comment) */
+"_Common_ShowPersonAgeAtEvent" = "Toon leeftijd van  persoon  op moment van gebeurtenis";
+
+/* (No Comment) */
+"_Common_ShowPersonBirthDate" = "Toon geboortedatum persoon";
+
+/* (No Comment) */
+"_Common_ShowPersonDeathDate" = "Toon overlijdensdatum persoon";
+
+/* (No Comment) */
+"_Common_ShowPersonEventCause" = "Toon oorzaak persoonsgebeurtenis";
+
+/* (No Comment) */
+"_Common_ShowPersonEventDescription" = "Toon eigen omschrijving persoonsgebeurtenis";
+
+/* (No Comment) */
+"_Common_ShowPersonEventIcons" = "Toon iconen persoonsgebeurtenissen";
+
+/* (No Comment) */
+"_Common_ShowPersonEventLocation" = "Toon locaties persoonsgebeurtenissen";
+
+/* (No Comment) */
+"_Common_ShowPersonImages" = "Toon afbeeldingen persoon";
+
+/* (No Comment) */
+"_Common_ShowReferenceNumber" = "Toon referentienummer";
+
+/* (No Comment) */
+"_Common_SideBarWidthSlider" = "Breedte zijbalk";
+
+/* (No Comment) */
+"_Common_SpacingGroupName" = "Tussenruimte";
+
+/* (No Comment) */
+"_Common_SpacingSlider" = "Tussenruimte";
+
+/* (No Comment) */
+"_Common_StartAngleSlider" = "Starthoek";
+
+/* (No Comment) */
+"_Common_StartGenerationScale" = "Generatie startschaal";
+
+/* (No Comment) */
+"_Common_StartGenerationScaleExpanation" = "Bepaalt de schaalverhouding van de startgeneratie t.o.v. de eindgeneratie";
+
+/* (No Comment) */
+"_Common_StrokeGroupName" = "Slag";
+
+/* (No Comment) */
+"_Common_StyleGroupName" = "Stijl";
+
+/* (No Comment) */
+"_Common_SubTitle" = "Ondertitel";
+
+/* (No Comment) */
+"_Common_SubTitleColor" = "Kleur ondertitel";
+
+/* (No Comment) */
+"_Common_SubTitleCustomTextColor" = "Eigen ondertitelkleur";
+
+/* (No Comment) */
+"_Common_SubTitleEnabledCheckbox" = "Toon ondertitel";
+
+/* (No Comment) */
+"_Common_SubTitleFont" = "Lettertype ondertitel";
+
+/* (No Comment) */
+"_Common_SubTitleGroupName" = "Ondertitel";
+
+/* (No Comment) */
+"_Common_SubTitleTextColoringMode" = "Kleuring ondertitel";
+
+/* (No Comment) */
+"_Common_TextColor" = "Tekstkleur";
+
+/* (No Comment) */
+"_Common_TextColoringMode" = "Kleuring tekst";
+
+/* (No Comment) */
+"_Common_TextColoringMode_ByGenerationRainbow" = "Op generatie (regenboog)";
+
+/* (No Comment) */
+"_Common_TextColoringMode_ContrastToBackgroundColor" = "Contrast met achtergrond";
+
+/* (No Comment) */
+"_Common_TextColoringMode_ContrastToBackgroundColorTinted" = "Getint contrast naar achtergrond";
+
+/* (No Comment) */
+"_Common_TextColoringMode_Custom" = "Eigen";
+
+/* (No Comment) */
+"_Common_TextColoringMode_Gender" = "Op geslacht";
+
+/* (No Comment) */
+"_Common_TextGroupName" = "Tekst";
+
+/* (No Comment) */
+"_Common_ThemeGroupName" = "Thema";
+
+/* (No Comment) */
+"_Common_Title" = "Titel";
+
+/* (No Comment) */
+"_Common_TitleColor" = "Titelkleur";
+
+/* (No Comment) */
+"_Common_TitleCustomTextColor" = "Eigen titelkleur";
+
+/* (No Comment) */
+"_Common_TitleEnabledCheckbox" = "Toon titel";
+
+/* (No Comment) */
+"_Common_TitleFont" = "Lettertype titel";
+
+/* (No Comment) */
+"_Common_TitleGroupName" = "Titel";
+
+/* (No Comment) */
+"_Common_TitleImageMode" = "Titelafbeelding";
+
+/* (No Comment) */
+"_Common_TitleTextColoringMode" = "Kleuring titel";
+
+/* (No Comment) */
+"_Common_ToDate" = "Tot datum";
+
+/* (No Comment) */
+"_Common_TopImageHeight" = "Hoogte bovenste afbeelding";
+
+/* (No Comment) */
+"_Common_TopLineColor" = "Kleur bovenste lijn";
+
+/* (No Comment) */
+"_Common_TopLineWidth" = "Breedte bovenlijn";
+
+/* (No Comment) */
+"_Common_TopMarginSlider" = "Bovenste marge";
+
+/* (No Comment) */
+"_Common_TotalAngleSlider" = "Totale hoek";
+
+/* (No Comment) */
+"_Common_TypeFont" = "Soort lettertype";
+
+/* (No Comment) */
+"_Common_TypeTextColor" = "Soort tekstkleur";
+
+/* (No Comment) */
+"_Common_UniformColor" = "Uniform kleur";
+
+/* (No Comment) */
+"_Common_UniformColorForColoringModeExplanation" = "Door 'uniform kleur' te kiezen uit de instelling Kleurmodus, bepaalt u dmv deze instelling een uniform persoonskleur";
+
+/* (No Comment) */
+"_Common_VerticalSpacing" = "Verticale tussenruimte";
+
+/* (No Comment) */
+"_Common_WidthPerYearSlider" = "Breedte per jaar";
+
+/* (No Comment) */
+"_Common_XAxisLabel" = "Label X-as";
+
+/* (No Comment) */
+"_Common_XAxisLabelColor" = "Kleur label X-as";
+
+/* (No Comment) */
+"_Common_XAxisLabelFont" = "Lettertype label X-as";
+
+/* (No Comment) */
+"_Common_XAxisLineColor" = "Kleur lijn X-as";
+
+/* (No Comment) */
+"_Common_XLineLabelColor" = "Kleur labels X-lijn";
+
+/* (No Comment) */
+"_Common_XLineLabelFont" = "Lettertype labels X-lijn";
+
+/* (No Comment) */
+"_Common_XLinesWidth" = "Breedte X-lijnen";
+
+/* (No Comment) */
+"_Common_XScale" = "Schaling breedte";
+
+/* (No Comment) */
+"_Common_YAxisLabel" = "Label Y-as";
+
+/* (No Comment) */
+"_Common_YAxisLabelColor" = "Kleur label Y-as";
+
+/* (No Comment) */
+"_Common_YAxisLabelFont" = "Lettertype  label Y-as";
+
+/* (No Comment) */
+"_Common_YAxisLineColor" = "Kleur lijn Y-as";
+
+/* (No Comment) */
+"_Common_YLineLabelColor" = "Kleur labels Y-lijn";
+
+/* (No Comment) */
+"_Common_YLineLabelFont" = "Lettertype label Y-lijn";
+
+/* (No Comment) */
+"_Common_YLinesWidth" = "Breedte Y-lijnen";
+
+/* (No Comment) */
+"_Common_YScale" = "Schaling hoogte";
+
+/* DistributionChartBuilder */
+"_DistributionChartBuilder_DistributionType" = "Soort verdeling";
+
+/* (No Comment) */
+"_DistributionChartBuilder_DistributionTypeExplanation" = "Stel in welk soort verdelingsdiagram u wenst te maken met de gegevens uit uw kwartierstaat.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_BirthCountry" = "Verdeling geboortelanden";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_BirthCountry_Description" = "De geboortelanden in uw kwartierstaat die tonen waar personen geboren werden";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_BirthPlace" = "Verdeling van geboorteplaatsen";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_BirthPlace_Description" = "De geboorteplaatsen van personen in uw kwartierstaat tonen";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_DeathCountry" = "Verdeling van landen met sterfte";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_DeathCountry_Description" = "De landen van overlijden in je family tree die laten zien waar personen zijn overleden.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_DeathPlace" = "Verdeling van overlijdensplaatsen";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_DeathPlace_Description" = "De plaatsen van overlijden in je family tree die laten zien waar personen zijn overleden.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_EventValues_Illnesses" = "Verdeling van ziektes";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_EventValues_Illnesses_Description" = "Bekijk welke ziektes werden ingevoerd voor de personen in uw kwartierstaat.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_EventValues_Occupations" = "Verdeling beroepen";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_EventValues_Occupations_Description" = "Welk beroep oefenden de personen in uw kwartierstaat uit doorheen de jaren?";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_CasteName" = "Verdeling kastenamen";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_CasteName_Description" = "Veel gebruikte kastenamen per jaar";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_EyeColor" = "Verdeling van oogkleuren";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_EyeColor_Description" = "Welke oogkleuren kwamen het meest voor in kwartierstaat door de jaren heen?";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_NationalOrTribalOrigin" = "Verdeling nationaliteit of stam";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_NationalOrTribalOrigin_Description" = "Verdeling van nationaliteit of stam, persoonsfeit, per jaar.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_Race" = "Verdeling etnische origine";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_Race_Description" = "Verdeling etnische";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_SkinColor" = "Verdeling van huidskleuren";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_SkinColor_Description" = "Welke huidskleuren kwamen veel voor in uw kwartierstaat?";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_FirstName" = "Verdeling van voornamen";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_FirstName_Description" = "Gebruik van de voornamen in uw kwartierstaat per jaar";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Gender" = "Verdeling van geslachten";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Gender_Description" = "Verdeling van de geslachten in uw kwartierstaat per jaar";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_LastName" = "Verdeling familienamen";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_LastName_Description" = "Gebruik van de familienamen in uw kwartierstaat per jaar";
+
+/* (No Comment) */
+"_DistributionValuesBarGeneratorChartCompositorObject_ColoringMode_Custom" = "Eigen kleur";
+
+/* (No Comment) */
+"_DistributionValuesBarGeneratorChartCompositorObject_ColoringMode_Rainbow" = "Regenboog";
+
+/* EditorTextGeneratorChartCompositorObject */
+"_EditorTextGeneratorChartCompositorObject_NewTextTitle" = "Nieuwe tekst";
+
+/* (No Comment) */
+"_Error_NoParentsForPersonFoundInFamilyTreeError" = "Geen ouders gevonden voor geselecteerde persoon";
+
+/* Errors */
+"_Error_NoPersonFoundInFamilyTreeError" = "Nog geen personen ingevoerd in deze kwartierstaat. Gebruik de sectie 'Bewerken' om personen en families in te voeren om ze te tonen in dit diagram.";
+
+/* (No Comment) */
+"_Error_NoSelectedPersonSetError" = "Geen persoon geselecteerd voor dit diagram";
+
+/* (No Comment) */
+"_Error_NotEnoughDataPresentError" = "Onvoldoende gegevens in kwartierstaat om dit diagram te tonen.";
+
+/* (No Comment) */
+"_FanChartBuilder_ExpandVerySmallFanItemsIfPossible" = "Expandeer heel kleine waaiersegmenten indien mogelijk";
+
+/* (No Comment) */
+"_FanChartBuilder_ExpandVerySmallFanItemsIfPossibleExplanation" = "Als een waaiersegment heel klein is, wordt het vergroot tussen de grenzen van het bovenliggend waaierdiagram voor meer ruimte.";
+
+/* FanChartBuilder */
+"_FanChartBuilder_Mode" = "Modus";
+
+/* (No Comment) */
+"_FanChartBuilder_Mode_Ancestors" = "Voorouders";
+
+/* (No Comment) */
+"_FanChartBuilder_Mode_Descendants" = "Afstammelingen";
+
+/* (No Comment) */
+"_FanChartBuilder_ModeExplanation" = "Bepaal hier als het waaierdiagram de voorouders of afstammelingen van de geselecteerde persoon moet tonen.";
+
+/* Genogram */
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventPosition" = "Positie van gebeurtenissen & feiten";
+
+/* (No Comment) */
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventPosition_Right" = "Rechts";
+
+/* (No Comment) */
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventsBackground" = "Achtergrond van gebeurtenissen & feiten";
+
+/* (No Comment) */
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventsBackground_Filled" = "Gevuld";
+
+/* (No Comment) */
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventsBackground_None" = "Geen";
+
+/* (No Comment) */
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventsPosition_Below" = "Onder";
+
+/* GridChartObject */
+"_GridGeneratorChartCompositorObjectConfiguration_ColorMode" = "Modus kleuring";
+
+/* (No Comment) */
+"_GridGeneratorChartCompositorObjectConfiguration_ColorMode_ContrastToBackground" = "Contrast met achtergrond";
+
+/* (No Comment) */
+"_GridGeneratorChartCompositorObjectConfiguration_ColorMode_Custom" = "Eigen";
+
+/* (No Comment) */
+"_RelationshipChartBuilder_NoRelationError" = "Er kon geen verwantschap vastgesteld worden tussen de geselecteerde personen";
+
+/* (No Comment) */
+"_RelationshipChartBuilder_PathIsBloodline" = "Bloedlijn";
+
+/* (No Comment) */
+"_RelationshipChartBuilder_PathIsNotBloodline" = "Geen bloedlijn";
+
+/* (No Comment) */
+"_RelationshipChartBuilder_PathWithNStepsIsIsNotBloodline" = "Pad met %ld stappen (%@)";
+
+/* RelationshipChartBuilder */
+"_RelationshipChartBuilder_SelectDifferentPersonsError" = "Selecteer twee verschillende personen om een verwantschapsdiagram aan te maken";
+
+/* (No Comment) */
+"_RelationshipChartBuilder_SelectedRelationshipPath" = "Beschikbare paden naar verwant";
+
+/* (No Comment) */
+"_RelationshipChartBuilder_SelectedRelationshipPathExplanation" = "Als er meerder paden tussen de start- en doelpersoon in uw kwartierstaat zijn, kan u hier de verschillende mogelijkheden selecteren.";
+
+/* SegmentedPortraitPersonBuilderItemGeneratorChartCompositorObjectConfiguration_BarStyle */
+"_SegmentedPortraitPersonBuilderItemGeneratorChartCompositorObjectConfiguration_BarStyle_Arrow" = "Pijl";
+
+/* (No Comment) */
+"_SegmentedPortraitPersonBuilderItemGeneratorChartCompositorObjectConfiguration_BarStyle_Diagonal" = "Diagonaal";
+
+/* (No Comment) */
+"_SegmentedPortraitPersonBuilderItemGeneratorChartCompositorObjectConfiguration_BarStyle_Round" = "Ronde";
+
+/* (No Comment) */
+"_SegmentedPortraitPersonBuilderItemGeneratorChartCompositorObjectConfiguration_BarStyle_Wave" = "Golf";
+
+/* _SideBarPersonBuilderItemGeneratorChartCompositorObject */
+"_SideBarPersonBuilderItemGeneratorChartCompositorObject_SideBarPosition" = "Zijbalk Positie";
+
+/* (No Comment) */
+"_SideBarPersonBuilderItemGeneratorChartCompositorObject_SideBarPosition_Bottom" = "Bodem";
+
+/* (No Comment) */
+"_SideBarPersonBuilderItemGeneratorChartCompositorObject_SideBarPosition_Left" = "Links";
+
+/* (No Comment) */
+"_SideBarPersonBuilderItemGeneratorChartCompositorObject_SideBarPosition_Right" = "Rechts";
+
+/* (No Comment) */
+"_SideBarPersonBuilderItemGeneratorChartCompositorObject_SideBarPosition_Top" = "Top";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_AssociatedPersonsSpacing" = "Invloedrijke personen Afstand";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_AssociatedPersonsSpacingExplanation" = "Specificeer de afstand tussen personen en de invloedrijke personen hier.";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowAssociateRelationsOfChildren" = "Toon invloedrijke personen van kinderen";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowAssociateRelationsOfParents" = "Toon invloedrijke personen van ouders";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowAssociateRelationsOfPartners" = "Toon invloedrijke personen van partners";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowAssociateRelationsOfStartPerson" = "Toon invloedrijke personen van startpersoon";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowChildren" = "Toon kinderen";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowGrandparents" = "Toon grootouders";
+
+/* SociogramChartBuilderConfiguration */
+"_SociogramChartBuilderConfiguration_ShowParents" = "Toon ouders";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowPartners" = "Toon partners";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_AgeAxisLabel" = "Leeftijd";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_ChildsAxisLabel" = "Kinderen";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_CountAxisLabel" = "Aantal";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_CountryAxisLabel" = "Land";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_DivorcesAxisLabel" = "Scheidingen";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_EventOrFactAxisLabel" = "Gebeurtenis of feit";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_FactValueAxisLabel" = "Waarde feit";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_FamiliesAxisLabel" = "Families";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_GenderAxisLabel" = "Geslacht";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_MarriagesAxisLabel" = "Huwelijken";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_MonthAxisLabel" = "Maand";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_PersonFirstNamesAxisLabel" = "Voornamen persoon";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_PersonLastNamesAxisLabel" = "Familienamen persoon";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_PersonsAxisLabel" = "Personen";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_PersonTitleAxisLabel" = "Titels persoon";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_PlaceAxisLabel" = "Plaats";
+
+/* StatisticsChartBuilder */
+"_StatisticsChartBuilder_StatisticsType" = "Soort statistiek";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_StatisticsTypeExplanation" = "Stel in welk soort statistiek u wenst te maken van de gegevens uit uw kwartierstaat.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtChristening" = "Leeftijd bij doopsel";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtChristening_Description" = "De leeftijd van personen bij hun doop.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtDeath" = "Leeftijd bij overlijden";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtDeath_Description" = "Toont hoelang personen in uw kwartierstaat leefden.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtDivorce" = "Leeftijd bij scheiding";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtDivorce_Description" = "Toont een diagram op welke leeftijd scheidden.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtMarriage" = "Leeftijd bij huwelijk";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtMarriage_Description" = "Statistiek: op welke leeftijd huwden de personen in uw kwartierstaat.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtRetirement" = "Pensioenleeftijd";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtRetirement_Description" = "Toont de leeftijd wanneer personen in uw kwartierstaat met pensioen gingen.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeOfChildAtParentsDeath" = "Leeftijd kind bij overlijden ouders";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeOfChildAtParentsDeath_Description" = "Hoe oud waren kinderen in uw kwartierstaat toen ze hun moeder of vader verloren?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeOfParentsAtBirthOfChild" = "Leeftijd van de ouders bij geboorte kind";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeOfParentsAtBirthOfChild_Description" = "Berekent de leeftijd van de ouders bij geboorte kinderen.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeOfPersonAtDeathOfPartner" = "Leeftijd persoon bij overlijden partner";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeOfPersonAtDeathOfPartner_Description" = "Statistiek: leeftijd persoon bij overlijden partner.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_BirthMonth" = "Geboortemaand";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_BirthMonth_Description" = "In welke maand werden de meeste personen geboren?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_ChildsPerFamily" = "Kinderen per familie";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_ChildsPerFamily_Description" = "Aantal kinderen per familie in uw kwartierstaat";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_ConclusionTypes" = "Soorten gebeurtenissen of feiten";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_ConclusionTypes_Description" = "Statistiek: meest voorkomende soorten gebeurtenissen of feiten.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_DeathMonth" = "Maand van overlijden";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_DeathMonth_Description" = "De maanden waarin de meeste personen in uw kwartierstaat overleden.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_DivorceMonth" = "Maand van scheiding";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_DivorceMonth_Description" = "De maanden waarin de meeste personen in uw kwartierstaat scheidden.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_CasteName" = "Feiten: Kastenaam";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_CasteName_Description" = "Wat was de meest voorkomende kaste in uw kwartierstaat?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_EyeColor" = "Feiten: Oogkleur";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_EyeColor_Description" = "Statistiek: oogkleur van personen in uw kwartierstaat.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_NationalOrTribalOrigin" = "Feiten: Nationaliteit of Stam";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_NationalOrTribalOrigin_Description" = "De meest voorkomende nationaliteiten of stammen in uw kwartierstaat";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_Race" = "Feiten: Etnische origine";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_Race_Description" = "Statistiek over de etnische origine van personen in uw kwartierstaat";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_SkinColor" = "Feiten: Huidskleur";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_SkinColor_Description" = "Statistiek: de huidskleuren in uw kwartierstaat";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_FirstNames" = "Verdeling voornamen";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_FirstNames_Description" = "Meest voorkomende voornamen in uw kwartierstaat";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Gender" = "Geslacht";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Gender_Description" = "Verdeling van geslachten in uw kwartierstaat";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_LastNames" = "Verdeling familienamen";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_LastNames_Description" = "De meest voorkomende familienamen in uw kwartierstaat";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_MarriageMonth" = "Huwelijksmaand";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_MarriageMonth_Description" = "Welke maand kozen personen gewoonlijk om te huwen?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_FamilyEvent_Marriage;topLevelGroupingLocationString" = "Land van huwelijk";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_FamilyEvent_Marriage;topLevelGroupingLocationString_Description" = "De landen waar jouw verwanten ervoor kozen te trouwen.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_FamilyEvent_Marriage;veryShortLocationString" = "Plaats van het huwelijk";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_FamilyEvent_Marriage;veryShortLocationString_Description" = "In welke stad of plaats zijn personen in jouw stamboom getrouwd?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Birth;topLevelGroupingLocationString" = "Geboorteland";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Birth;topLevelGroupingLocationString_Description" = "Het land van herkomst voor alle personen.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Birth;veryShortLocationString" = "Plaats van geboorte";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Birth;veryShortLocationString_Description" = "Uit welke stad komen de meeste personen in jouw stamboom?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Burial;topLevelGroupingLocationString" = "Land van begrafenis";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Burial;topLevelGroupingLocationString_Description" = "In welk land liggen de meeste van je familieleden begraven?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Burial;veryShortLocationString" = "Plaats van begrafenis";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Burial;veryShortLocationString_Description" = "De meest voorkomende begraafplaats in jouw stamboom.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Christening;topLevelGroupingLocationString" = "Land van doop";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Christening;topLevelGroupingLocationString_Description" = "Het land waar de meeste van je familieleden gedoopt zijn.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Christening;veryShortLocationString" = "Plaats van doop";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Christening;veryShortLocationString_Description" = "In welke stad werden personen in jouw stamboom gedoopt?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Death;topLevelGroupingLocationString" = "Land van overlijden";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Death;topLevelGroupingLocationString_Description" = "Statistieken over het land waar de meeste personen in jouw stamboom zijn overleden.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Death;veryShortLocationString" = "Plaats van overlijden";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Death;veryShortLocationString_Description" = "De stad of plaats waar de meeste personen in jouw stamboom zijn overleden.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_TimeBetweenMarriageAndBirthOfChild" = "Tijd tussen huwelijk en geboorte kind";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_TimeBetweenMarriageAndBirthOfChild_Description" = "Hoeveel tijd was er tussen het huwelijk en de geboorte van de kinderen? Negatieve waarden betekenen dat het kind voor het huwelijk geboren was.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Titles" = "Verdeling titels";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Titles_Description" = "Statistiek: titels van alle personen.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Birth" = "Geboortejaar";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Birth_Description" = "Toont in welke jaren de meeste personen in uw kwartierstaat geboren werden.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Burial" = "Begrafenisjaar";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Burial_Description" = "Statistiek: wanneer werden personen in uw kwartierstaat begraven";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Christening" = "Jaar van doopsel";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Christening_Description" = "Statistiek: in welk jaar werden personen in uw kwartierstaat gedoopt?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Death" = "Jaar van overlijden";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Death_Description" = "Het jaar van elk overlijden in uw kwartierstaat";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_YearAxisLabel" = "Jaar";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_YearsAxisLabel" = "Jaren";
+
+/* (No Comment) */
+"_StyleNames_AgeFanChartCompositorStyle" = "Leeftijdwaaier";
+
+/* (No Comment) */
+"_StyleNames_BlackBorderBoxedChartCompositorStyle" = "Zwarte rand";
+
+/* (No Comment) */
+"_StyleNames_BlackBoxedChartCompositorStyle" = "Zwarte kaart";
+
+/* (No Comment) */
+"_StyleNames_BlackWhiteFanChartCompositorStyle" = "Zwart-wit waaier";
+
+/* (No Comment) */
+"_StyleNames_BlueTextChartCompositorStyle" = "Blauwe tekst";
+
+/* (No Comment) */
+"_StyleNames_BlueWhiteBoxedChartCompositorStyle" = "Blauw-witte dozen";
+
+/* (No Comment) */
+"_StyleNames_ByAgeBoxedChartCompositorStyle" = "Op jaar dozen";
+
+/* (No Comment) */
+"_StyleNames_ByYearFanChartCompositorStyle" = "Op jaar waaier";
+
+/* (No Comment) */
+"_StyleNames_ByYearGradientFanChartCompositorStyle" = "Per jaargrafiek ventilator";
+
+/* (No Comment) */
+"_StyleNames_ComicWhiteBoxedChartCompositorStyle" = "Tekstballonnen";
+
+/* (No Comment) */
+"_StyleNames_DarkBlueSideBarChartCompositorStyle" = "Donkerblauw";
+
+/* (No Comment) */
+"_StyleNames_DarkBoxedChartCompositorStyle" = "Nacht dozen";
+
+/* (No Comment) */
+"_StyleNames_DarkBoxedChartCompositorStyle2" = "Donker kader";
+
+/* (No Comment) */
+"_StyleNames_DarkCardChartCompositorStyle" = "Donkere kaarten";
+
+/* (No Comment) */
+"_StyleNames_DarkCircularPersonChartCompositorStyle" = "Donker cirkelvormig";
+
+/* (No Comment) */
+"_StyleNames_DarkDistributionChartCompositorStyle" = "Donker";
+
+/* (No Comment) */
+"_StyleNames_DarkFanChartCompositorStyle" = "Nacht waaier";
+
+/* (No Comment) */
+"_StyleNames_DarkFlatBarStatisticsChartCompositorStyle" = "Donkere platte balken";
+
+/* (No Comment) */
+"_StyleNames_DarkLinesStatisticsChartCompositorStyle" = "Donkere lijnen";
+
+/* (No Comment) */
+"_StyleNames_DarkNameBarChartCompositorStyle" = "Donkere naamsbalken";
+
+/* (No Comment) */
+"_StyleNames_DarkPortraitBoxChartCompositorStyle" = "Donkere portretten";
+
+/* (No Comment) */
+"_StyleNames_DarkTextChartCompositorStyle" = "Donkere tekst";
+
+/* (No Comment) */
+"_StyleNames_DarkTimelineBarChartCompositorStyle" = "Donkere balken";
+
+/* (No Comment) */
+"_StyleNames_GenderPennantChartCompositorStyle" = "Geslacht vlag";
+
+/* (No Comment) */
+"_StyleNames_GenderTextChartCompositorStyle" = "Geslacht tekst";
+
+/* (No Comment) */
+"_StyleNames_GreenBlueCardChartCompositorStyle" = "Groen-blauwe kaarten";
+
+/* (No Comment) */
+"_StyleNames_GreenBoxedBarChartCompositorStyle" = "Groene balken";
+
+/* (No Comment) */
+"_StyleNames_GreenBoxedChartCompositorStyle" = "Groene dozen";
+
+/* (No Comment) */
+"_StyleNames_LightBarsFanChartCompositorStyle" = "Lichte balken waaier";
+
+/* (No Comment) */
+"_StyleNames_LightBarsFanChartCompositorStyle2" = "Lichte balken waaier 2";
+
+/* Style Names */
+"_StyleNames_LightBoxedChartCompositorStyle" = "Heldere dozen";
+
+/* (No Comment) */
+"_StyleNames_LightBoxedChartCompositorStyle2" = "Ronde heldere dozen";
+
+/* (No Comment) */
+"_StyleNames_LightBoxedChartCompositorStyle3" = "Geslacht dozen";
+
+/* (No Comment) */
+"_StyleNames_LightCardChartCompositorStyle" = "Heldere kaarten";
+
+/* (No Comment) */
+"_StyleNames_LightCardChartCompositorStyle2" = "Heldere kaarten 2";
+
+/* (No Comment) */
+"_StyleNames_LightCircularPersonChartCompositorStyle" = "Licht rond";
+
+/* (No Comment) */
+"_StyleNames_LightDistributionChartCompositorStyle" = "Gradiënten";
+
+/* (No Comment) */
+"_StyleNames_LightFanChartCompositorStyle" = "Lichte waaier";
+
+/* (No Comment) */
+"_StyleNames_LightFlatBarStatisticsChartCompositorStyle" = "Lichte platte balken";
+
+/* (No Comment) */
+"_StyleNames_LightGenderFanChartCompositorStyle" = "Lichte geslachts waaier";
+
+/* (No Comment) */
+"_StyleNames_LightGenderFanChartCompositorStyle2" = "Lichte geslachts waaier 2";
+
+/* (No Comment) */
+"_StyleNames_LightGenogramChartCompositorStyle" = "Licht genogram";
+
+/* (No Comment) */
+"_StyleNames_LightGenogramChartCompositorStyle2" = "Licht genogram 2";
+
+/* (No Comment) */
+"_StyleNames_LightGenogramChartCompositorStyle3" = "Licht genogram 3";
+
+/* (No Comment) */
+"_StyleNames_LightGenogramChartCompositorStyle4" = "Licht genogram 4";
+
+/* (No Comment) */
+"_StyleNames_LightLinesStatisticsChartCompositorStyle" = "Lichte lijnen";
+
+/* (No Comment) */
+"_StyleNames_LightNameBarChartCompositorStyle" = "Lichte naambalken";
+
+/* (No Comment) */
+"_StyleNames_LightPortraitBoxChartCompositorStyle" = "Lichte portretten";
+
+/* (No Comment) */
+"_StyleNames_LightPortraitBoxOnDarkBackgroundChartCompositorStyle" = "Donkere portretten 2";
+
+/* (No Comment) */
+"_StyleNames_LightTextChartCompositorStyle" = "Zwart-wit";
+
+/* (No Comment) */
+"_StyleNames_LightTimelineBackgroundBarChartCompositorStyle" = "Lichte achtergrondbalken";
+
+/* (No Comment) */
+"_StyleNames_LightTimelineBarChartCompositorStyle" = "Lichte balken";
+
+/* (No Comment) */
+"_StyleNames_LightTimelineFromToChartCompositorStyle" = "Lichte eenvoudige balken";
+
+/* (No Comment) */
+"_StyleNames_LightTimelineFromToChartCompositorStyle2" = "Lichte eenvoudige balken 2";
+
+/* (No Comment) */
+"_StyleNames_MagentaBoxedBarChartCompositorStyle" = "Magenta balken";
+
+/* (No Comment) */
+"_StyleNames_MagentaSimpleCircleOnDarkBackgroundChartCompositorStyle" = "Magenta cirkels";
+
+/* (No Comment) */
+"_StyleNames_OrangeCyanCardChartCompositorStyle" = "Oranje/Cyaan kaarten";
+
+/* (No Comment) */
+"_StyleNames_OrangeCyanSimpleCircleOnDarkBackgroundChartCompositorStyle" = "Oranje/Cyaan cirkels";
+
+/* (No Comment) */
+"_StyleNames_OrganicCircularPersonChartCompositorStyle" = "Organisch rond";
+
+/* (No Comment) */
+"_StyleNames_OrganicOrangeCyanCircularPersonChartCompositorStyle" = "Organisch oranje/cyaan rond";
+
+/* (No Comment) */
+"_StyleNames_OrganicSimpleCircleChartCompositorStyle" = "Organische cirkels";
+
+/* (No Comment) */
+"_StyleNames_PedigreeBoxedBarChartCompositorStyle" = "Stamboom balken";
+
+/* (No Comment) */
+"_StyleNames_PedigreePennantChartCompositorStyle" = "Stamboom vlag";
+
+/* (No Comment) */
+"_StyleNames_PedigreeSideBarChartCompositorStyle" = "Stamboom inkleuring met balk rechts";
+
+/* (No Comment) */
+"_StyleNames_RainbowBoxedBarChartCompositorStyle" = "Regenboog balken";
+
+/* (No Comment) */
+"_StyleNames_RainbowPennantChartCompositorStyle" = "Regenboog wimpel";
+
+/* (No Comment) */
+"_StyleNames_RainbowTextChartCompositorStyle" = "Regenboog tekst";
+
+/* (No Comment) */
+"_StyleNames_RedTextChartCompositorStyle" = "Rode tekst";
+
+/* (No Comment) */
+"_StyleNames_SunsetBoxedBarChartCompositorStyle" = "Zonsondergang balken";
+
+/* (No Comment) */
+"_StyleNames_SunsetBoxedChartCompositorStyle" = "Zonsondergang dozen";
+
+/* (No Comment) */
+"_StyleNames_SunsetCardChartCompositorStyle" = "Zonsondergang kaarten";
+
+/* (No Comment) */
+"_StyleNames_SunsetCircularPersonChartCompositorStyle" = "Zonsondergang rond";
+
+/* (No Comment) */
+"_StyleNames_SunsetDistributionChartCompositorStyle" = "Zonsondergang";
+
+/* (No Comment) */
+"_StyleNames_SunsetFanChartCompositorStyle" = "Zonsondergang waaier";
+
+/* (No Comment) */
+"_StyleNames_SunsetFlatBarStatisticsChartCompositorStyle" = "Zonsondergang platte balken";
+
+/* (No Comment) */
+"_StyleNames_TraditionalFanChartCompositorStyle" = "Traditioneel";
+
+/* (No Comment) */
+"_StyleNames_TraditionalGradientFanChartCompositorStyle" = "Traditionele kleurverlopen";
+
+/* (No Comment) */
+"_StyleNames_TypewriterTextChartCompositorStyle" = "Schrijfmachine";
+
+/* (No Comment) */
+"_StyleNames_TypewriterTimelineBarChartCompositorStyle" = "Schrijfmachine";
+
+/* (No Comment) */
+"_StyleNames_VeryLightPedigreeGradientFanChartCompositorStyle" = "Lichte Gradiënten Stamboom ventilator";
+
+/* (No Comment) */
+"_StyleNames_VioletCardChartCompositorStyle" = "Violette kaarten";
+
+/* (No Comment) */
+"_StyleNames_WhiteBoxedChartCompositorStyle" = "Witte vakken";
+
+/* (No Comment) */
+"_StyleNames_WhiteCardChartCompositorStyle" = "Witte kaarten";
+
+/* (No Comment) */
+"_StyleNamesBlueDiagonalSegmentedPortraitChartCompositorStyle" = "Blauw gestileerde dozen";
+
+/* (No Comment) */
+"_StyleNamesBluePolaroidChartCompositorStyle" = "Blauwe polaroids";
+
+/* (No Comment) */
+"_StyleNamesBottomSideBarChartCompositorStyle" = "Onderste balk";
+
+/* (No Comment) */
+"_StyleNamesDarkBarPortraitCompositorStyle" = "Donkere bar portretten";
+
+/* (No Comment) */
+"_StyleNamesDarkPolaroidChartCompositorStyle" = "Donkere polaroids";
+
+/* (No Comment) */
+"_StyleNamesFloatingRainbowSideBarChartCompositorStyle" = "Regenboog drijvende repen";
+
+/* (No Comment) */
+"_StyleNamesGenderBarPortraitCompositorStyle" = "Genderbar portretten";
+
+/* (No Comment) */
+"_StyleNamesLargeBarPortraitCompositorStyle" = "Grote bar portretten";
+
+/* (No Comment) */
+"_StyleNamesLightBlueBarPortraitCompositorStyle" = "Lichtblauwe bar portretten";
+
+/* (No Comment) */
+"_StyleNamesLightWaveSegmentedPortraitChartCompositorStyle" = "Licht gestileerde dozen";
+
+/* (No Comment) */
+"_StyleNamesPedigreeBarPortraitCompositorStyle" = "Stamboom Bar Portretten";
+
+/* (No Comment) */
+"_StyleNamesPedigreeRoundSegmentedPortraitChartCompositorStyle" = "Stamboom Ronde Gestileerde Dozen";
+
+/* (No Comment) */
+"_StyleNamesPedigreeSegmentedPortraitChartCompositorStyle" = "Stamboom Gestileerde Dozen";
+
+/* (No Comment) */
+"_StyleNamesRainbowSegmentedPortraitChartCompositorStyle" = "Regenboog Gestileerde Dozen";
+
+/* (No Comment) */
+"_StyleNamesRainbowSideBarChartCompositorStyle" = "Regenboog Repen";
+
+/* (No Comment) */
+"_StyleNamesSimplePolaroidChartCompositorStyle" = "Polaroids";
+
+/* (No Comment) */
+"_StyleNamesSunsetPolaroidChartCompositorStyle" = "Polaroid Zonsondergang";
+
+/* (No Comment) */
+"_StyleNamesSunsetSideBarChartCompositorStyle" = "Zonsondergang Bars";
+
+/* (No Comment) */
+"_Timeline_GroupingMode_GroupByBirthCountry_SortByDate" = "Groepeer op geboorteland, sorteer op datum";
+
+/* (No Comment) */
+"_Timeline_GroupingMode_GroupByBirthPlace_SortByDate" = "Groepeer op geboorteplaats, sorteer op datum";
+
+/* (No Comment) */
+"_Timeline_GroupingMode_GroupByDeathCountry_SortByDate" = "Groepeer op land van overlijden, rangschik op datum";
+
+/* (No Comment) */
+"_Timeline_GroupingMode_GroupByDeathPlace_SortByDate" = "Groepeer op plaats van overlijden, rangschik op datum";
+
+/* (No Comment) */
+"_Timeline_GroupingMode_GroupByGender_SortByDate" = "Groepeer op geslacht, rangschik op datum";
+
+/* (No Comment) */
+"_Timeline_GroupingMode_GroupByLastName_SortByDate" = "Groepeer op familienaam, rangschik op datum";
+
+/* Timeline */
+"_Timeline_GroupingMode_SortByDate" = "Sorteer op datum";
+
+/* (No Comment) */
+"_TimelineChartBuilder_CollapseAllGroupsForBestFit" = "Vouw groepen samen voor beter ruimtegebruik";
+
+/* (No Comment) */
+"_TimelineChartBuilder_CollapseAllGroupsForBestFitExplanation" = "Indien bepaald, worden groepen gepositioneerd voor het beste ruimtegebruik, maar alfabetische volgorde is dan niet gegarandeerd.";
+
+/* (No Comment) */
+"_TimelineChartBuilder_GroupByBirthCountry_NoPlace" = "Onbekend geboorteland";
+
+/* (No Comment) */
+"_TimelineChartBuilder_GroupByBirthPlace_NoPlace" = "Onbekende geboorteplaats";
+
+/* (No Comment) */
+"_TimelineChartBuilder_GroupByDeathCountry_NoPlace" = "Onbekend overlijdensland";
+
+/* (No Comment) */
+"_TimelineChartBuilder_GroupByDeathPlace_NoPlace" = "Onbekende overlijdensplaats";
+
+/* (No Comment) */
+"_TimelineChartBuilder_GroupByLastName_NoLastName" = "Onbekende familienaam";
+
+/* (No Comment) */
+"_TimelineChartBuilder_HistoryPersons_Key" = "Geschiedenis: beroemde personen";
+
+/* (No Comment) */
+"_TitleGeneratorChartCompositorObjectConfiguration_TitleImageMode_FamilyCrest" = "Familiewapen";
+
+/* (No Comment) */
+"_TitleGeneratorChartCompositorObjectConfiguration_TitleImageMode_None" = "Geen";
+
+/* (No Comment) */
+"_TitleGeneratorChartCompositorObjectConfiguration_TitleImageMode_SelectedEntryImage" = "Gekozen toegangsafbeelding";
+
+/* TreeChartBuilder */
+"_TreeChartBuilder_MainTreePrefix" = "Hoofdboom";
+
+/* (No Comment) */
+"_TreeChartBuilder_SubTreeAlignment" = "Uitlijning gesplitste bomen";
+
+/* (No Comment) */
+"_TreeChartBuilder_SubTreeAlignment_ByGeneration" = "Op generatie";
+
+/* (No Comment) */
+"_TreeChartBuilder_SubTreeAlignment_ShortestDistanceToOrigin" = "Kortste afstand naar oorsprong";
+
+/* (No Comment) */
+"_TreeChartBuilder_SubTreeAlignmentExplanation" = "In complexe gevallen moet een boom getoond worden als een aparte boom van de hoofdboom. Bepaal hier de lay-out van die gesplitste bomen.";
+
+/* (No Comment) */
+"_TreeChartBuilder_SubTreePrefix" = "Gesplitste boom";
+

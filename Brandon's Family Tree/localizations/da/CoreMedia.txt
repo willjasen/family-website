@@ -1,0 +1,36 @@
+﻿/* (No Comment) */
+"_MediaContainerListController_DeleteMediaButton" = "Slet medie";
+
+/* (No Comment) */
+"_MediaContainerListController_DeleteMediaInformative" = "Vil du virkelig permanent slette den valgte medie-post?";
+
+/* (No Comment) */
+"_MediaContainerListController_DeleteMediaMessage" = "Slet medie?";
+
+/* (No Comment) */
+"_MediaContainerListController_DeleteMediaOrRelationInformative" = "Vil du permanent slette den valgte medie-post, eller vil du blot fjerne dets relation og bevare dette medie i din database?";
+
+/* MediaContainerListController */
+"_MediaContainerListController_DeleteMediaOrRelationMessage" = "Slet medie eller medierelation?";
+
+/* (No Comment) */
+"_MediaContainerListController_DeleteMediaRelationButton" = "Slet medierelation";
+
+/* (No Comment) */
+"_MediaContainerListController_FileWithoutTitleName" = "Arkiv %d";
+
+/* (No Comment) */
+"_MediaContainerListController_NoDateTitle" = "Ingen dato";
+
+/* (No Comment) */
+"_MediaContainerListController_SortingMode_ByDate" = "Efter fødseldato";
+
+/* (No Comment) */
+"_MediaContainerListController_SortingMode_ByTitle" = "Efter titel";
+
+/* Default Titles */
+"_MediaPicture_DefaultTitleWithDate" = "Billede fra %@";
+
+/* (No Comment) */
+"_MediaVideo_DefaultTitleWithDate" = "Video fra %@";
+

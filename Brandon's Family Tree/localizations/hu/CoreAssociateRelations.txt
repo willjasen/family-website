@@ -1,0 +1,78 @@
+﻿/* (No Comment) */
+"_AssociateRelation_Type_BestFriend" = "Legjobb barát";
+
+/* (No Comment) */
+"_AssociateRelation_Type_BestFriend_Inverted" = "Legjobb barát";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Boss" = "Főnök";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Boss_Inverted" = "Alkalmazott";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Coworker" = "Munkatárs";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Coworker_Inverted" = "Munkatárs";
+
+/* Person Container */
+"_AssociateRelation_Type_Friend" = "Barát";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Friend_Inverted" = "Barát";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Godfather" = "Keresztszülő";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Godfather_Inverted" = "%@ keresztszülője";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Neighbor" = "Szomszéd";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Neighbor_Inverted" = "Szomszéd";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Servant" = "Szolga";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Servant_Inverted" = "Munkáltató/mester";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Teacher" = "Tanár";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Teacher_Inverted" = "Hallgató";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfBirth" = "Születési tanú";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfBirth_Inverted" = "%@ születési tanúja";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfCivilMarriage" = "Polgári esküvő tanúja";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfCivilMarriage_Inverted" = "%@ polgári esküvői tanúja";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfDeath" = "Elhalálozási tanú";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfDeath_Inverted" = "%@ elhlálozási tanúja";
+
+/* Family Container */
+"_AssociateRelation_Type_WitnessOfMarriage" = "Házasságkötési tanú";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfMarriage_Inverted" = "%@ házasságkötési tanúja";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfReligiousMarriage" = "Egyházi házasságkötési tanú";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfReligiousMarriage_Inverted" = "%@ egyházi házasságkötési tanúja";
+
