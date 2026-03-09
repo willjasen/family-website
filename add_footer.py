@@ -20,7 +20,7 @@ def add_footer_with_gtag_to_all_html(directory, gtag_file):
                 # Find the closing </body> tag and insert the footer before it
                 for i, line in enumerate(content):
                     if "</body>" in line:
-                        content.insert(i, footer_tag + "\n")
+                        content[i] = line.replace("</body>", footer_tag + "\n</body>")
                         break
 
                 with open(file_path, 'w') as f:
