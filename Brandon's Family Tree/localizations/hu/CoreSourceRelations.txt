@@ -1,0 +1,42 @@
+﻿/* Evidence */
+"_SourceRelation_Evidence" = "Bizonyíték";
+
+/* (No Comment) */
+"_SourceRelation_Evidence_Direct" = "Közvetlen";
+
+/* (No Comment) */
+"_SourceRelation_Evidence_DontKnow" = "Nem ismert";
+
+/* (No Comment) */
+"_SourceRelation_Evidence_Indirect" = "Indirekt";
+
+/* (No Comment) */
+"_SourceRelation_Evidence_Negative" = "Negatív";
+
+/* Information */
+"_SourceRelation_Information" = "Információ";
+
+/* (No Comment) */
+"_SourceRelation_Information_DontKnow" = "Nem ismert";
+
+/* (No Comment) */
+"_SourceRelation_Information_Primary" = "Elsődleges";
+
+/* (No Comment) */
+"_SourceRelation_Information_Secondary" = "Másodlagos";
+
+/* Certainty string */
+"_SourceRelation_NoCertaintyInformation" = "Nem meghatározott";
+
+/* Quality */
+"_SourceRelation_Quality" = "Minőség";
+
+/* (No Comment) */
+"_SourceRelation_Quality_Derivative" = "Leszármaztatott";
+
+/* (No Comment) */
+"_SourceRelation_Quality_DontKnow" = "Nem ismert";
+
+/* (No Comment) */
+"_SourceRelation_Quality_Original" = "Eredeti";
+

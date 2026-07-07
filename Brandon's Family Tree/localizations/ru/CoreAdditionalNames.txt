@@ -1,0 +1,60 @@
+﻿/* (No Comment) */
+"_AdditionalName_AdoptiveName" = "Приёмное имя";
+
+/* (No Comment) */
+"_AdditionalName_ArtistsName" = "Сценический псевдоним";
+
+/* (No Comment) */
+"_AdditionalName_DoubleBarrelledName" = "Двойная фамилия";
+
+/* (No Comment) */
+"_AdditionalName_FamilyName" = "Домашнее имя";
+
+/* (No Comment) */
+"_AdditionalName_FormalName" = "Официальное имя";
+
+/* AdditionalNameType */
+"_AdditionalName_MaidenName" = "Имя при рождении";
+
+/* (No Comment) */
+"_AdditionalName_MarriedName" = "Фамилия в браке";
+
+/* (No Comment) */
+"_AdditionalName_NameVariation" = "Варианты имени";
+
+/* (No Comment) */
+"_AdditionalName_Nickname" = "Прозвище";
+
+/* (No Comment) */
+"_AdditionalName_Other" = "Другое имя";
+
+/* (No Comment) */
+"_AdditionalName_Prefix_MaidenName_ForFemale" = "урождённая";
+
+/* Prefix */
+"_AdditionalName_Prefix_MaidenName_ForMale" = "урождённый";
+
+/* (No Comment) */
+"_AdditionalName_ProfessionalName" = "Профессиональное имя";
+
+/* (No Comment) */
+"_AdditionalName_ReligiousName" = "Религиозное имя";
+
+/* (No Comment) */
+"_AdditionalName_Title" = "Название";
+
+/* Configs */
+"_Person_AdditionalNamePreferenceConfiguration_All" = "Все";
+
+/* (No Comment) */
+"_Person_AdditionalNamePreferenceConfiguration_None" = "Нет";
+
+/* (No Comment) */
+"_Person_AdditionalNamePreferenceConfiguration_OnlyFamilyName" = "Только фамилия семьи";
+
+/* (No Comment) */
+"_Person_AdditionalNamePreferenceConfiguration_OnlyMarriedName" = "Только фамилия в браке";
+
+/* (No Comment) */
+"_Person_AdditionalNamePreferenceConfiguration_OnlyNickName" = "Только прозвище";
+

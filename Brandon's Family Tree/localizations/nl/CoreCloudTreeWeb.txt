@@ -1,0 +1,207 @@
+﻿/* LoginPage */
+"_CoreCloudTreeWeb__CreateAppleID" = "Apple-ID aanmaken";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptedShare" = "Geaccepteerde CloudTree-uitnodiging: %@.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptedShare_Needs_To_Sign_In_To_Different_Container" = "Om deze boom te bekijken, meld je je eerst af. Meld je vervolgens aan bij %@.";
+
+/* AcceptShare */
+"_CoreCloudTreeWeb_AcceptShare_ActionsMenu_Title" = "CloudTree uitnodiging aanvaarden...";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptShare_Failed" = "Aanvaarden CloudTree uitnodiging mislukt (%@).";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptShare_Failed_No_Matching_Container" = "CloudTree-uitnodiging niet geaccepteerd, share-link is ongeldig.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptShare_Instruction" = "Om een uitnodiging voor een gedeelde family tree te accepteren, plak je de link die je hebt ontvangen in het tekstveld hierboven en klik je op 'Ok'.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptShare_NeedLoginOrCreateAppleIDDescription" = "Om deel te nemen aan deze kwartierstaat die met u gedeeld werd via CloudTree, moet u inloggen met uw Apple ID. Als u geen Apple ID heeft, maak er dan gratis een aan om deze kwartierstaat te vervoegen.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptShare_ShareLink" = "Link delen";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptShare_Title" = "Kwartierstaat vervoegen op CloudTree";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AddingPicturesNotSupportedInSharedDatabaseWarning" = "Afbeeldingen toevoegen aan een gedeelde kwartierstaat wordt momenteel niet ondersteund, maar zal binnenkort beschikbaar zijn.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Buy_MacFamilyTree_Or_MobileFamilyTree_Title" = "Koop MacFamilyTree of MobileFamilyTree in de App Store.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Close_Databases" = "Kwartierstaat sluiten";
+
+/* EventDropDownList */
+"_CoreCloudTreeWeb_CommonEvents" = "Algemene gebeurtenissen";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_CommonFacts" = "Algemene feiten";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Description" = "CloudTreeWeb is een service dat u toelaat gedeelde kwartierstaten te bewerken van $MFTLINKPLACEHOLDER$ of $MFTLINKPLACEHOLDER$.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_ErrorMessage_AuthenticationExpired_Error" = "Je sessie is verlopen. Log opnieuw in om door te gaan.";
+
+/* Errors */
+"_CoreCloudTreeWeb_ErrorMessage_Saving_ConflictError" = "Wijzigingen konden niet bewaard worden omdat dit bestand gewijzigd werd door een andere gebruiker. U moet de pagina opnieuw laden.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_ErrorMessage_Saving_UnknownError" = "Bewaren van wijzigingen mislukt t.g.v. onbekende fout. Laad deze pagina opnieuw. Als het probleem aanhoudt, contacteer ons.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Go_To_Overview" = "Overzicht";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Imprint_Title" = "Afdruk";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_1_Text" = "CloudTreeWeb is een optionele service voor MacFamilyTree en MobileFamilyTree. Door gebruik te maken van CloudTreeWeb, heeft u via het internet toegang tot kwartierstaten die aangemaakt zijn in MacFamilyTree of MobileFamilyTree. U heeft zelf toegang, maar CloudTreeWeb laat u ook toe om samen te werken met andere gebruikers die Windows of Android gebruiken. U kan bijvoorbeeld familieleden die geen Mac, Iphone of iPad hebben uitnodigen om waardevolle gegevens te verwerven voor uw kwartierstaat.";
+
+/* Instructions */
+"_CoreCloudTreeWeb_Instructions_Section_1_Title" = "Wat is CloudTreeWeb";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_2_Text" = "Om toegang te krijgen tot uw eigen kwartierstaten, logt u eenvoudig in met uw Apple ID die u gebruikt op uw Mac, iPhone of iPad. Uw kwartierstaten die gesynchroniseerd zijn met CloudTree openen automatisch. Wijzigingen die u maakt op CloudTreeWeb gebeuren ook in MacFamilyTree of MobileFamilyTree en omgekeerd.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_2_Title" = "Hoe krijg ik toegang tot mijn eigen kwartierstaten?";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_3_Text" = "Als u een andere gebruiker wenst uit te nodigen om mee te werken, zullen zij eerst een AppleID nodig hebben, die $BEGINLINK$ hier kan geregistreerd worden$ENDLINK$. Eens de gebruiker een Apple ID heeft, nodigt u dat AppleID uit bij uw kwartierstaat via CloudTree in MacFamilyTree of MobileFamilyTree. Voor details over uitnodigen via MobileFamilyTree of MacFamilyTree raadpleegt u de betrokken handleiding. Eens de uitnodiging gemaakt is, stuurt u die persoon de uitnodigingslink via mail of messenger. De gast logt vervolgens in op CloudTreeWeb met zijn Apple ID en aanvaardt de uitnodiging d.m.v. de knop die hieronder zal verschijnen.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_3_Title" = "Hoe nodig ik een gebruiker uit die MacFamilyTree of MobileFamilyTree niet gebruikt?";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_4_Text" = "Als een MacFamilyTree of MobileFamilyTree gebruiker u een uitnodigingslink gestuur heeft, kan u hem vervoegen om een kwartierstaat te helpen onderzoeken. U heeft een vrije Apple ID nodig die u $BEGINLINK$hier$ENDLINK$kan registreren. Na succesvolle registratie kan u inloggen bij CloudTreeWeb. Eens de registratie compleet is, aanvaardt u de uitnodigingslink door te klikken op 'Aanvaard CloudTree uitnodiging' hieronder en voert u de link in. De kwartierstaat zal verschijnen in het overzicht en kan bewerkt worden. Alle wijzigingen die u maakt zullen overgenomen worden in MacFamilyTree of MobileFamilyTree.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_4_Title" = "Ik werd uitgenodigd tot een kwartierstaat, maar gebruik geen MacFamilyTree of MobileFamilyTree. Hoe kan ik bijdragen aan de kwartierstaat?";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_5_Text" = "Uw gegevens zijn optimaal beschermd.CloudTreeWeb werkt zodanig dat derden geen toegang hebben tot uw gegevens. Zelfs wij, als ontwikkelaars, hebben geen toegang tot uw data. Dit is mogelijk omdat CloudTreeWeb de gegevens rechtstreeks van Apple iCloud naar uw computer of GSM overzet, zonder omweg langs onze servers. Op die wijze heeft CloudTree Web dezelfde veiligheidsstandaard als Apple\"s iCloud website bijvoorbeeld. Zorg ervoor dat uw Apple ID voldoende beschermd is - Bijvoorbeeld door gebruik te maken van een wachtwoord dat u nergens anders gebruikt of door gebruik te maken van 2 factor authenticatie.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_5_Title" = "Hoe worden mijn gegevens beschermd?";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_6_Text" = "We zijn blij van u te horen. Als u een suggestie tot verbetering heeft of een probleem opgemerkt hebt, meld dit dan via het contactformulier op $BEGINLINK$www.syniumsoftware.com$ENDLINK$";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_6_Title" = "Ik heb een voorstel of probleem - Hoe laat ik dit weten?";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Title" = "Hoe CloudTreeWeb gebruiken?";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_No_Private_Databases_Explanation" = "Momenteel heeft u nog geen kwartierstaten geüpload naar CloudTree. Gebruk MacFamilyTree op uw Mac of MobileFamilyTree op uw iPhone of iPad om kwartierstaten te uploaden.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_No_Private_Databases_Title" = "Geen kwartierstaten";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_No_Shared_Databases_Explanation" = "Geen kwartierstaten gedeeld met u op CloudTree. Om deel te nemen aan een kwartierstaat van een ander persoon, vraag de eigenaar van de kwartierstaat om ze met uw Apple ID te delen op CloudTree m.b.v. MacFamilyTree of MobileFamilyTree.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_No_Shared_Databases_Title" = "Geen kwartierstaten gedeeld met u";
+
+/* SelectDatabase */
+"_CoreCloudTreeWeb_Private_Databases" = "Mijn kwartierstaten";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Select_MacFamilyTree_Version" = "Selecteer MacFamilyTree- of MobileFamilyTree-versie";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Shared_Databases" = "Kwartierstaten gedeeld met mij";
+
+/* Warnings */
+"_CoreCloudTreeWeb_ThereAreUnsavedChangesWarning" = "Er zijn onbewaarde wijzigingen. Scherm werkelijk verlaten?";
+
+/* EditFamily */
+"_EditFamily_SelectFamily_ActionsMenu_Title" = "Familie kiezen...";
+
+/* (No Comment) */
+"_EditFamily_SelectFamily_ActionsMenu_Title_Short" = "Familie";
+
+/* EditMedia */
+"_EditMedia_Download_PDF" = "Download PDF";
+
+/* EditPerson */
+"_EditPerson_SelectPerson_ActionsMenu_Title" = "Kies persoon...";
+
+/* (No Comment) */
+"_EditPerson_SelectPerson_ActionsMenu_Title_Short" = "Persoon...";
+
+/* EditPLace */
+"_EditPerson_SelectPlace_ActionsMenu_Title" = "Kies plaats...";
+
+/* (No Comment) */
+"_EditPerson_SelectPlace_ActionsMenu_Title_Short" = "Plaats...";
+
+/* (No Comment) */
+"_EditPlaceMapSection_Title" = "Kaart";
+
+/* EditSource */
+"_EditSource_SelectSource_ActionsMenu_Title" = "Kies Bron...";
+
+/* (No Comment) */
+"_EditSource_SelectSource_ActionsMenu_Title_Short" = "Bron...";
+
+/* (No Comment) */
+"_FamiliesList_Title" = "Lijst met families";
+
+/* (No Comment) */
+"_ItemsList_LoadMore" = "Meer laden...";
+
+/* (No Comment) */
+"_ItemsList_NoChanges" = "Geen wijzigingen";
+
+/* (No Comment) */
+"_ItemsList_NoFamilies" = "Geen families";
+
+/* (No Comment) */
+"_ItemsList_NoPersons" = "Geen personen";
+
+/* (No Comment) */
+"_ItemsList_NoPlaces" = "Geen plaatsen";
+
+/* (No Comment) */
+"_ItemsList_NoSources" = "Geen bronnen";
+
+/* (No Comment) */
+"_ItemsList_SearchBar_Description" = "Zoeken is hoofdlettergevoelig en stemt enkel overeen met het begin van een naam.";
+
+/* (No Comment) */
+"_ItemsList_Select_Family_Title" = "Familie kiezen";
+
+/* ItemsList */
+"_ItemsList_Select_Person_Title" = "Kies persoon";
+
+/* (No Comment) */
+"_ItemsList_Select_Place_Title" = "Kies plaats";
+
+/* (No Comment) */
+"_ItemsList_Select_Source_Title" = "Selecteer bron";
+
+/* (No Comment) */
+"_PersonsList_Title" = "Lijst met personen";
+
+/* (No Comment) */
+"_PlacesList_Title" = "Lijst met plaatsen";
+
+/* (No Comment) */
+"_SourcesList_Title" = "Bronnenlijst";
+
+/* (No Comment) */
+"iCloud.com.syniumsoftware.familytree10" = "Versie 10";
+
+/* (No Comment) */
+"iCloud.com.syniumsoftware.familytree11" = "Versie 11";
+

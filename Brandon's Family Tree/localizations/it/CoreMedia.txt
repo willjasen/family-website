@@ -1,0 +1,36 @@
+﻿/* (No Comment) */
+"_MediaContainerListController_DeleteMediaButton" = "Elimina il documento mediale";
+
+/* (No Comment) */
+"_MediaContainerListController_DeleteMediaInformative" = "Sicuro di voler eliminare permanentemente la voce mediale selezionata?";
+
+/* (No Comment) */
+"_MediaContainerListController_DeleteMediaMessage" = "Elimino il documento mediale";
+
+/* (No Comment) */
+"_MediaContainerListController_DeleteMediaOrRelationInformative" = "Sicuro di voler eliminare permanentemente la voce mediale selezionata o vuoi solo rimuoverne la relazione e mantenere il documento mediale nel tuo database?";
+
+/* MediaContainerListController */
+"_MediaContainerListController_DeleteMediaOrRelationMessage" = "Elimino il documento mediale o la relazione mediale?";
+
+/* (No Comment) */
+"_MediaContainerListController_DeleteMediaRelationButton" = "Elimina la relazione mediale";
+
+/* (No Comment) */
+"_MediaContainerListController_FileWithoutTitleName" = "Documento %d";
+
+/* (No Comment) */
+"_MediaContainerListController_NoDateTitle" = "Senza data";
+
+/* (No Comment) */
+"_MediaContainerListController_SortingMode_ByDate" = "Per data di nascita";
+
+/* (No Comment) */
+"_MediaContainerListController_SortingMode_ByTitle" = "Per titolo";
+
+/* Default Titles */
+"_MediaPicture_DefaultTitleWithDate" = "Foto da %@";
+
+/* (No Comment) */
+"_MediaVideo_DefaultTitleWithDate" = "Filmato da %@";
+

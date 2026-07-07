@@ -1,0 +1,627 @@
+﻿/* Actions */
+"_EditPlaceholderPane_ImportFromAddressBookAction" = "Personen uit adresboek importeren";
+
+/* Subtitles */
+"_EditPlaceholderPane_NewTreeWelcomeMessage" = "Welkom bij MacFamilyTree 11! Om je onderzoek te starten, raden we aan de interactieve boom te gebruiken.";
+
+/* (No Comment) */
+"_EditPlaceholderPane_NewTreeWelcomeMessage_InitialCloudKitDownloadInProgress" = "Downloaden van CloudTree - even geduld a.u.b.";
+
+/* (No Comment) */
+"_EditPlaceholderPane_NewTreeWelcomeMessage_MobileFamilyTree" = "Welkom bij MobileFamilyTree 11! Om je onderzoek te starten, raden we aan de interactieve boom te gebruiken.";
+
+/* (No Comment) */
+"_FavoritesPlaceholderPane_ConfigureFavoritesAction" = "Favorieten selecteren...";
+
+/* (No Comment) */
+"_FunctionTitle_AhnentafelReportPaneName" = "Stamboomrapport";
+
+/* (No Comment) */
+"_FunctionTitle_AhnentafelReportPaneName_Abbreviation" = "Stamboom";
+
+/* (No Comment) */
+"_FunctionTitle_AncestorChartPaneName" = "Kwartierstaat diagram";
+
+/* (No Comment) */
+"_FunctionTitle_AncestorChartPaneName_Abbreviation" = "Kwartierstaat";
+
+/* (No Comment) */
+"_FunctionTitle_AnniversaryListReportPaneName" = "Verjaardagslijst";
+
+/* (No Comment) */
+"_FunctionTitle_AnniversaryListReportPaneName_Abbreviation" = "Verjaardagen";
+
+/* (No Comment) */
+"_FunctionTitle_BooksPaneName" = "Kwartierstaat boek";
+
+/* (No Comment) */
+"_FunctionTitle_BooksPaneName_Abbreviation" = "Kwartierstaat boek";
+
+/* (No Comment) */
+"_FunctionTitle_ChangeLogPane" = "Wijzigings Historiek";
+
+/* (No Comment) */
+"_FunctionTitle_ChangeLogPane_Abbreviation" = "Wijzigingen";
+
+/* (No Comment) */
+"_FunctionTitle_ChangeLogReportPaneName" = "Wijzigings rapport";
+
+/* (No Comment) */
+"_FunctionTitle_ChangesListReportPaneName" = "Lijst wijzigingen";
+
+/* (No Comment) */
+"_FunctionTitle_ChartsFunctionsPlaceholder" = "Overzicht grafiekfuncties";
+
+/* (No Comment) */
+"_FunctionTitle_ChartsFunctionsPlaceholder_Abbreviation" = "Overzicht grafieken";
+
+/* (No Comment) */
+"_FunctionTitle_DatabaseMaintenancePaneName" = "Database onderhoud";
+
+/* (No Comment) */
+"_FunctionTitle_DatabaseMaintenancePaneName_Abbreviation" = "Onderhoud";
+
+/* (No Comment) */
+"_FunctionTitle_DescendancyReportPaneName" = "Afstammingsrapport";
+
+/* (No Comment) */
+"_FunctionTitle_DescendancyReportPaneName_Abbreviation" = "Afstammingen";
+
+/* (No Comment) */
+"_FunctionTitle_DescendantChartPaneName" = "Parenteel";
+
+/* (No Comment) */
+"_FunctionTitle_DescendantChartPaneName_Abbreviation" = "Afstammelingen";
+
+/* (No Comment) */
+"_FunctionTitle_DistinctivePersonsListReportPaneName" = "Lijst specifieke personen";
+
+/* (No Comment) */
+"_FunctionTitle_DistinctivePersonsListReportPaneName_Abbreviation" = "Kenmerkend";
+
+/* (No Comment) */
+"_FunctionTitle_DistributionChartPaneName" = "Verdeling";
+
+/* (No Comment) */
+"_FunctionTitle_DistributionChartPaneName_Abbreviation" = "Verdeling";
+
+/* (No Comment) */
+"_FunctionTitle_DoubleAncestorChartPaneName" = "Dubbele kwartierstaat diagram";
+
+/* (No Comment) */
+"_FunctionTitle_DoubleAncestorChartPaneName_Abbreviation" = "Dubbele kwartierstaat";
+
+/* (No Comment) */
+"_FunctionTitle_EditChartPaneName" = "Diagram bewerken";
+
+/* (No Comment) */
+"_FunctionTitle_EditChartPaneName_Abbreviation" = "Diagram bewerken";
+
+/* (No Comment) */
+"_FunctionTitle_EditFamilyTreeInformationPaneName" = "Informatie over auteur";
+
+/* (No Comment) */
+"_FunctionTitle_EditFamilyTreeInformationPaneName_Abbreviation" = "Auteur";
+
+/* Placeholders */
+"_FunctionTitle_EditFunctionsPlaceholder" = "Overzicht bewerkingsfuncties";
+
+/* Placeholders Abbreviations */
+"_FunctionTitle_EditFunctionsPlaceholder_Abbreviation" = "Overzicht bewerkingen";
+
+/* (No Comment) */
+"_FunctionTitle_EditMediaPaneName" = "Media bewerken";
+
+/* (No Comment) */
+"_FunctionTitle_EditMediaPaneName_Abbreviation" = "Media";
+
+/* (No Comment) */
+"_FunctionTitle_EditReportInBookPaneName" = "Bewerk rapport in boek";
+
+/* (No Comment) */
+"_FunctionTitle_EditReportInBookPaneName_Abbreviation" = "Boekrapport bewerken";
+
+/* (No Comment) */
+"_FunctionTitle_EditReportPaneName" = "Rapport bewerken";
+
+/* (No Comment) */
+"_FunctionTitle_EditReportPaneName_Abbreviation" = "Rapport bewerken";
+
+/* (No Comment) */
+"_FunctionTitle_EventsListReportPaneName" = "Lijst van gebeurtenissen";
+
+/* (No Comment) */
+"_FunctionTitle_EventsListReportPaneName_Abbreviation" = "Gebeurtenissen";
+
+/* (No Comment) */
+"_FunctionTitle_ExportGEDCOMPaneName" = "GEDCOM exporteren";
+
+/* (No Comment) */
+"_FunctionTitle_ExportGEDCOMPaneName_Abbreviation" = "GEDCOM-bestand";
+
+/* (No Comment) */
+"_FunctionTitle_ExportSubtreePaneName" = "Deelkwartierstaat exporteren";
+
+/* (No Comment) */
+"_FunctionTitle_ExportSubtreePaneName_Abbreviation" = "Gedeeltelijke boom exporteren";
+
+/* (No Comment) */
+"_FunctionTitle_FactsListReportPaneName" = "Lijst feiten";
+
+/* (No Comment) */
+"_FunctionTitle_FactsListReportPaneName_Abbreviation" = "Feiten";
+
+/* (No Comment) */
+"_FunctionTitle_Family_PluralCount" = "%@ families";
+
+/* (No Comment) */
+"_FunctionTitle_Family_SingularCount" = "%@ familie";
+
+/* (No Comment) */
+"_FunctionTitle_FamilyGroupReportPaneName" = "Familierapport";
+
+/* (No Comment) */
+"_FunctionTitle_FamilyGroupReportPaneName_Abbreviation" = "Familie";
+
+/* (No Comment) */
+"_FunctionTitle_FamilyListPaneName" = "Families bewerken";
+
+/* (No Comment) */
+"_FunctionTitle_FamilyListPaneName_Abbreviation" = "Families";
+
+/* (No Comment) */
+"_FunctionTitle_FamilyQuizPaneName" = "Familiequiz";
+
+/* (No Comment) */
+"_FunctionTitle_FamilyQuizPaneName_Abbreviation" = "Quiz";
+
+/* (No Comment) */
+"_FunctionTitle_FamilySearchPaneName" = "FamilySearch";
+
+/* (No Comment) */
+"_FunctionTitle_FamilySearchPaneName_Abbreviation" = "FamilySearch";
+
+/* (No Comment) */
+"_FunctionTitle_FamilySearchTaskResults_PluralCount" = "%@ resultaten";
+
+/* (No Comment) */
+"_FunctionTitle_FamilySearchTaskResults_SingularCount" = "%@ resultaat";
+
+/* (No Comment) */
+"_FunctionTitle_FanChartPaneName" = "Waaierdiagram";
+
+/* (No Comment) */
+"_FunctionTitle_FanChartPaneName_Abbreviation" = "Waaier";
+
+/* (No Comment) */
+"_FunctionTitle_FavoritesFunctionsPlaceholder" = "Overzicht favorietenfuncties";
+
+/* (No Comment) */
+"_FunctionTitle_FavoritesFunctionsPlaceholder_Abbreviation" = "Overzicht favorieten";
+
+/* (No Comment) */
+"_FunctionTitle_FractalCircularTreeChartPaneName" = "Cirkelvormige boom";
+
+/* (No Comment) */
+"_FunctionTitle_FractalCircularTreeChartPaneName_Abbreviation" = "Cirkelvormig";
+
+/* (No Comment) */
+"_FunctionTitle_FractalFractalTreeChartPaneName" = "Gedeeltelijke boom";
+
+/* (No Comment) */
+"_FunctionTitle_FractalFractalTreeChartPaneName_Abbreviation" = "Gedeeltelijke boom";
+
+/* (No Comment) */
+"_FunctionTitle_FractalHTreeChartPaneName" = "Gedeeltelijke H-boom";
+
+/* (No Comment) */
+"_FunctionTitle_FractalHTreeChartPaneName_Abbreviation" = "H-boom";
+
+/* (No Comment) */
+"_FunctionTitle_FractalHVTreeChartPaneName" = "Vierkante boom";
+
+/* (No Comment) */
+"_FunctionTitle_FractalHVTreeChartPaneName_Abbreviation" = "Vierkant";
+
+/* (No Comment) */
+"_FunctionTitle_FractalSymmetricalTreeChartPaneName" = "Symmetrische boom";
+
+/* (No Comment) */
+"_FunctionTitle_FractalSymmetricalTreeChartPaneName_Abbreviation" = "Symmetrisch";
+
+/* (No Comment) */
+"_FunctionTitle_GenogramChartPaneName" = "Genogram diagram";
+
+/* (No Comment) */
+"_FunctionTitle_GenogramChartPaneName_Abbreviation" = "Genogram";
+
+/* (No Comment) */
+"_FunctionTitle_HourglassChartPaneName" = "Zandloperdiagram";
+
+/* (No Comment) */
+"_FunctionTitle_HourglassChartPaneName_Abbreviation" = "Zandloper";
+
+/* Function Names */
+"_FunctionTitle_InteractiveTreeEditPaneName" = "Interactieve kwartierstaat";
+
+/* Function Names Abbreviations */
+"_FunctionTitle_InteractiveTreeEditPaneName_Abbreviation" = "Interactief";
+
+/* (No Comment) */
+"_FunctionTitle_KinshipReportPaneName" = "Verwantschapsrapport";
+
+/* (No Comment) */
+"_FunctionTitle_KinshipReportPaneName_Abbreviation" = "Verwantschappen";
+
+/* (No Comment) */
+"_FunctionTitle_LDSOrdinancesListReportPaneName" = "Lijst LDS-ordonanties";
+
+/* (No Comment) */
+"_FunctionTitle_ListReportsFunctionsPlaceholder" = "Overzicht lijstfuncties";
+
+/* (No Comment) */
+"_FunctionTitle_ListReportsFunctionsPlaceholder_Abbreviation" = "Overzicht lijsten";
+
+/* (No Comment) */
+"_FunctionTitle_MapReportPaneName" = "Kaart rapport";
+
+/* (No Comment) */
+"_FunctionTitle_MapReportPaneName_Abbreviation" = "Kaarten";
+
+/* (No Comment) */
+"_FunctionTitle_MapsDiagramPaneName" = "Statistieken";
+
+/* (No Comment) */
+"_FunctionTitle_MapsDiagramPaneName_Abbreviation" = "Statistieken";
+
+/* (No Comment) */
+"_FunctionTitle_MarriageListReportPaneName" = "Huwelijkslijst";
+
+/* (No Comment) */
+"_FunctionTitle_MarriageListReportPaneName_Abbreviation" = "Huwelijken";
+
+/* (No Comment) */
+"_FunctionTitle_Media_PluralCount" = "%@ media";
+
+/* (No Comment) */
+"_FunctionTitle_Media_SingularCount" = "%@ media";
+
+/* (No Comment) */
+"_FunctionTitle_MediaGalleryName" = "Mediagallerij";
+
+/* (No Comment) */
+"_FunctionTitle_MediaGalleryName_Abbreviation" = "Gallerij";
+
+/* (No Comment) */
+"_FunctionTitle_MediaGalleryReportPaneName" = "Mediagallerij rapport";
+
+/* (No Comment) */
+"_FunctionTitle_NarrativeReportPaneName" = "Beschrijvend rapport";
+
+/* (No Comment) */
+"_FunctionTitle_NarrativeReportPaneName_Abbreviation" = "Verhalend";
+
+/* (No Comment) */
+"_FunctionTitle_Person_PluralCount" = "%@ personen";
+
+/* Count Strings */
+"_FunctionTitle_Person_SingularCount" = "%@ persoon";
+
+/* (No Comment) */
+"_FunctionTitle_PersonAnalysisListReportPaneName" = "Persoonsanalyse";
+
+/* (No Comment) */
+"_FunctionTitle_PersonAnalysisListReportPaneName_Abbreviation" = "Analyse";
+
+/* (No Comment) */
+"_FunctionTitle_PersonEventsReportPaneName" = "Persoonsgebeurtenissen rapport";
+
+/* (No Comment) */
+"_FunctionTitle_PersonEventsReportPaneName_Abbreviation" = "Persoonsgebeurtenissen";
+
+/* (No Comment) */
+"_FunctionTitle_PersonGroup_PluralCount" = "%@ persoonsgroepen";
+
+/* (No Comment) */
+"_FunctionTitle_PersonGroup_SingularCount" = "%@ persoonsgroep";
+
+/* (No Comment) */
+"_FunctionTitle_PersonGroupPaneName" = "Persoonsgroepen bewerken";
+
+/* (No Comment) */
+"_FunctionTitle_PersonGroupPaneName_Abbreviation" = "Groepen";
+
+/* (No Comment) */
+"_FunctionTitle_PersonListPaneName" = "Personen bewerken";
+
+/* (No Comment) */
+"_FunctionTitle_PersonListPaneName_Abbreviation" = "Personen";
+
+/* (No Comment) */
+"_FunctionTitle_PersonListReportPaneName" = "Persoonslijst";
+
+/* (No Comment) */
+"_FunctionTitle_PersonListReportPaneName_Abbreviation" = "Personen";
+
+/* (No Comment) */
+"_FunctionTitle_PersonReportPaneName" = "Persoonsrapport";
+
+/* (No Comment) */
+"_FunctionTitle_PersonReportPaneName_Abbreviation" = "Persoon";
+
+/* (No Comment) */
+"_FunctionTitle_Place_PluralCount" = "%@ plaatsen";
+
+/* (No Comment) */
+"_FunctionTitle_Place_SingularCount" = "%@ plaats";
+
+/* (No Comment) */
+"_FunctionTitle_PlaceListPaneName" = "Plaatsen bewerken";
+
+/* (No Comment) */
+"_FunctionTitle_PlaceListPaneName_Abbreviation" = "Plaatsen";
+
+/* (No Comment) */
+"_FunctionTitle_PlacesListReportPaneName" = "Plaatslijst";
+
+/* (No Comment) */
+"_FunctionTitle_PlacesListReportPaneName_Abbreviation" = "Plaatsen";
+
+/* (No Comment) */
+"_FunctionTitle_PlausibilityListReportPaneName" = "Waarschijnlijkheidslijst";
+
+/* (No Comment) */
+"_FunctionTitle_PlausibilityListReportPaneName_Abbreviation" = "Waarschijnlijkheid";
+
+/* (No Comment) */
+"_FunctionTitle_PublishFunctionsPlaceholder" = "Overzicht publicatiefuncties";
+
+/* (No Comment) */
+"_FunctionTitle_PublishFunctionsPlaceholder_Abbreviation" = "Overzicht publicatie";
+
+/* (No Comment) */
+"_FunctionTitle_RegisterReportPaneName" = "Register rapport";
+
+/* (No Comment) */
+"_FunctionTitle_RelationshipChartPaneName" = "Verwantschapsdiagram";
+
+/* (No Comment) */
+"_FunctionTitle_RelationshipChartPaneName_Abbreviation" = "Verwantschappen";
+
+/* (No Comment) */
+"_FunctionTitle_RemoveSubtreePaneName" = "Deelkwartierstaat verwijderen";
+
+/* (No Comment) */
+"_FunctionTitle_RemoveSubtreePaneName_Abbreviation" = "Gedeeltelijke boom verwijderen";
+
+/* (No Comment) */
+"_FunctionTitle_ReportsFunctionsPlaceholder" = "Overzicht rapportfuncties";
+
+/* (No Comment) */
+"_FunctionTitle_ReportsFunctionsPlaceholder_Abbreviation" = "Overzicht rapporten";
+
+/* (No Comment) */
+"_FunctionTitle_ResearchAssistantPaneName" = "Opzoekings Assistent";
+
+/* (No Comment) */
+"_FunctionTitle_ResearchAssistantPaneName_Abbreviation" = "Assistent";
+
+/* (No Comment) */
+"_FunctionTitle_SavedBook_PluralCount" = "%@ Boeken";
+
+/* (No Comment) */
+"_FunctionTitle_SavedBook_SingularCount" = "%@ Boek";
+
+/* (No Comment) */
+"_FunctionTitle_SavedChart_PluralCount" = "%@ bewaarde schermen";
+
+/* (No Comment) */
+"_FunctionTitle_SavedChart_SingularCount" = "%@ bewaard scherm";
+
+/* (No Comment) */
+"_FunctionTitle_SavedChartsPaneName" = "Bewaarde diagrammen";
+
+/* (No Comment) */
+"_FunctionTitle_SavedChartsPaneName_Abbreviation" = "Bewaarde diagrammen";
+
+/* (No Comment) */
+"_FunctionTitle_SavedReport_PluralCount" = "%@ bewaarde rapporten";
+
+/* (No Comment) */
+"_FunctionTitle_SavedReport_SingularCount" = "%@ bewaard rapport";
+
+/* (No Comment) */
+"_FunctionTitle_SavedReportsPaneName" = "Bewaarde rapporten";
+
+/* (No Comment) */
+"_FunctionTitle_SavedReportsPaneName_Abbreviation" = "Bewaarde rapporten";
+
+/* (No Comment) */
+"_FunctionTitle_SavedWebsite_PluralCount" = "%@ Websites";
+
+/* (No Comment) */
+"_FunctionTitle_SavedWebsite_SingularCount" = "%@ Website";
+
+/* (No Comment) */
+"_FunctionTitle_SearchAndReplacePaneName" = "Zoeken en vervangen";
+
+/* (No Comment) */
+"_FunctionTitle_SearchPaneName" = "Database doorzoeken";
+
+/* (No Comment) */
+"_FunctionTitle_SearchPaneName_Abbreviation" = "Zoeken";
+
+/* (No Comment) */
+"_FunctionTitle_SociogramChartPaneName" = "Sociogram Grafiek";
+
+/* (No Comment) */
+"_FunctionTitle_SociogramChartPaneName_Abbreviation" = "Sociogram";
+
+/* (No Comment) */
+"_FunctionTitle_Source_PluralCount" = "%@ bronnen";
+
+/* (No Comment) */
+"_FunctionTitle_Source_SingularCount" = "%@ bron";
+
+/* (No Comment) */
+"_FunctionTitle_SourceListPaneName" = "Bronnen bewerken";
+
+/* (No Comment) */
+"_FunctionTitle_SourceListPaneName_Abbreviation" = "Bronnen";
+
+/* (No Comment) */
+"_FunctionTitle_SourcesListReportPaneName" = "Bronnenlijst";
+
+/* (No Comment) */
+"_FunctionTitle_SourcesListReportPaneName_Abbreviation" = "Bronnen";
+
+/* (No Comment) */
+"_FunctionTitle_StatisticsChartPaneName" = "Statistieken";
+
+/* (No Comment) */
+"_FunctionTitle_StatisticsChartPaneName_Abbreviation" = "Statistieken";
+
+/* (No Comment) */
+"_FunctionTitle_StatusReportPaneName" = "Status rapport";
+
+/* (No Comment) */
+"_FunctionTitle_Story_PluralCount" = "%@ verhalen";
+
+/* (No Comment) */
+"_FunctionTitle_Story_SingularCount" = "%@ verhaal";
+
+/* (No Comment) */
+"_FunctionTitle_StoryPaneName" = "Verhalen bewerken";
+
+/* (No Comment) */
+"_FunctionTitle_StoryPaneName_Abbreviation" = "verhalen";
+
+/* (No Comment) */
+"_FunctionTitle_StoryReportPaneName" = "Verhalenrapport";
+
+/* (No Comment) */
+"_FunctionTitle_StoryReportPaneName_Abbreviation" = "Verhaal";
+
+/* (No Comment) */
+"_FunctionTitle_TimelineChartPaneName" = "Tijdlijn";
+
+/* (No Comment) */
+"_FunctionTitle_TimelineChartPaneName_Abbreviation" = "Tijdlijn";
+
+/* (No Comment) */
+"_FunctionTitle_TimelineReportPaneName" = "Tijdslijn rapport";
+
+/* (No Comment) */
+"_FunctionTitle_TodayReportPaneName" = "Dagrapport";
+
+/* (No Comment) */
+"_FunctionTitle_ToDo_PluralCount" = "%@ taken";
+
+/* (No Comment) */
+"_FunctionTitle_ToDo_PluralCount_Overdue" = "%@ achterstallig";
+
+/* (No Comment) */
+"_FunctionTitle_ToDo_SingularCount" = "%@ taak";
+
+/* (No Comment) */
+"_FunctionTitle_ToDo_SingularCount_Overdue" = "%@ achterstallig";
+
+/* (No Comment) */
+"_FunctionTitle_ToDoListReportPaneName" = "Takenlijst";
+
+/* (No Comment) */
+"_FunctionTitle_ToDoListReportPaneName_Abbreviation" = "Taken";
+
+/* (No Comment) */
+"_FunctionTitle_ToDosPaneName" = "Takenlijst bewerken";
+
+/* (No Comment) */
+"_FunctionTitle_ToDosPaneName_Abbreviation" = "Taken";
+
+/* (No Comment) */
+"_FunctionTitle_TreeChartPaneName" = "Boom";
+
+/* (No Comment) */
+"_FunctionTitle_TreeChartPaneName_Abbreviation" = "Boom";
+
+/* (No Comment) */
+"_FunctionTitle_ViewsFunctionsPlaceholder" = "Overzicht schermfuncties";
+
+/* (No Comment) */
+"_FunctionTitle_ViewsFunctionsPlaceholder_Abbreviation" = "Overzicht schermen";
+
+/* (No Comment) */
+"_FunctionTitle_VirtualGlobeChartPaneName_Abbreviation" = "Globe";
+
+/* (No Comment) */
+"_FunctionTitle_VirtualGlobePaneName" = "Virtuele wereld";
+
+/* (No Comment) */
+"_FunctionTitle_VirtualTreeDiagramPaneName" = "Virtuele boom";
+
+/* (No Comment) */
+"_FunctionTitle_VirtualTreeDiagramPaneName_Abbreviation" = "Virtuele boom";
+
+/* (No Comment) */
+"_FunctionTitle_WebSearchPaneName" = "Webzoeken";
+
+/* (No Comment) */
+"_FunctionTitle_WebSearchPaneName_Abbreviation" = "Webzoeken";
+
+/* (No Comment) */
+"_FunctionTitle_WebSiteExportWebSitesPaneName" = "Websites";
+
+/* (No Comment) */
+"_FunctionTitle_WebSiteExportWebSitesPaneName_Abbreviation" = "Websites";
+
+/* (No Comment) */
+"_FunctionTitle_WebSitePaneName" = "Website";
+
+/* (No Comment) */
+"_FunctionTitle_WebSitePaneName_Abbreviation" = "Website";
+
+/* More Function */
+"_MoreFunctionPanesTitle" = "Meer…";
+
+/* (No Comment) */
+"_PaneCategory_Charts" = "Diagrammen";
+
+/* Categories */
+"_PaneCategory_Edit" = "Bewerken";
+
+/* (No Comment) */
+"_PaneCategory_Favorites" = "Favorieten";
+
+/* (No Comment) */
+"_PaneCategory_ListReports" = "Lijsten";
+
+/* (No Comment) */
+"_PaneCategory_Publish" = "Publiceer";
+
+/* (No Comment) */
+"_PaneCategory_Reports" = "Rapporten";
+
+/* (No Comment) */
+"_PaneCategory_View" = "Schermen";
+
+/* (No Comment) */
+"_PaneCategoryBaseFunction_Emphasized" = "Benadrukt";
+
+/* (No Comment) */
+"_PaneCategoryBaseFunction_Emphasized_Explanation" = "Wanneer benadrukt, wordt een functie prominent weergegeven in het startgedeelte van elke categorie.";
+
+/* PaneCategoryFunction Configuration User Interface */
+"_PaneCategoryBaseFunction_Enabled" = "Ingeschakeld";
+
+/* (No Comment) */
+"_PaneCategoryBaseFunction_Enabled_Explanation" = "Specificeer hier of deze functie standaard weergegeven moet worden. Als deze is uitgeschakeld, wordt de functie verwijderd uit de gebruikersinterface. U kunt deze op elk moment hier weer inschakelen.";
+
+/* (No Comment) */
+"_PaneCategoryBaseFunction_Favorite" = "Markeren als favoriet";
+
+/* (No Comment) */
+"_PaneCategoryBaseFunction_Favorite_Explanation" = "Markeer belangrijke functies die je vaak gebruikt als favoriet. Deze zullen verschijnen in de categorie 'Favorieten' voor gemakkelijke en snelle toegang.";
+
+/* (No Comment) */
+"_PaneCategoryBaseFunction_RemoveFromFavoritesButton" = "Verwijderen uit favorieten";
+

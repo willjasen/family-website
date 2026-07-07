@@ -1,0 +1,837 @@
+﻿/* (No Comment) */
+"_Common_Accept" = "Accetta";
+
+/* (No Comment) */
+"_Common_Actions" = "Azioni";
+
+/* (No Comment) */
+"_Common_AddButton" = "Aggiungi";
+
+/* (No Comment) */
+"_Common_Age" = "Età";
+
+/* (No Comment) */
+"_Common_AscendingSortOrder" = "Ascendente";
+
+/* (No Comment) */
+"_Common_AssignButton" = "Assegna";
+
+/* (No Comment) */
+"_Common_Assigned_Entries" = "Voci assegnate";
+
+/* (No Comment) */
+"_Common_Authority" = "Autorità";
+
+/* (No Comment) */
+"_Common_Back" = "Indietro";
+
+/* (No Comment) */
+"_Common_BackgroundColor" = "Colore di sfondo";
+
+/* (No Comment) */
+"_Common_BirthDate" = "Data di nascita";
+
+/* (No Comment) */
+"_Common_BirthPlace" = "Luogo di nascita";
+
+/* (No Comment) */
+"_Common_Black" = "Nero";
+
+/* (No Comment) */
+"_Common_BrothersAndSisters" = "Fratelli";
+
+/* (No Comment) */
+"_Common_CancelButton" = "Annulla";
+
+/* (No Comment) */
+"_Common_Cause" = "Causa";
+
+/* (No Comment) */
+"_Common_ChangeButton" = "Modifica";
+
+/* (No Comment) */
+"_Common_ChangeDate" = "Data di modifica";
+
+/* (No Comment) */
+"_Common_Chart" = "Diagramma";
+
+/* (No Comment) */
+"_Common_Child" = "Figlio/a";
+
+/* (No Comment) */
+"_Common_ChildCountPlural" = "%d figli";
+
+/* (No Comment) */
+"_Common_ChildCountPluralString" = "%@ Figli";
+
+/* (No Comment) */
+"_Common_ChildCountSingular" = "%d figlio";
+
+/* (No Comment) */
+"_Common_ChildCountSingularString" = "%@ Figlio";
+
+/* (No Comment) */
+"_Common_Children" = "Figli";
+
+/* (No Comment) */
+"_Common_Childs" = "Figli";
+
+/* (No Comment) */
+"_Common_ChristeningDate" = "Data di battesimo";
+
+/* (No Comment) */
+"_Common_ChristeningPlace" = "Luogo di battesimo";
+
+/* (No Comment) */
+"_Common_Citation_Notes" = "Citazione della fonte";
+
+/* (No Comment) */
+"_Common_CloseButton" = "Chiudi";
+
+/* (No Comment) */
+"_Common_Color" = "Colore";
+
+/* (No Comment) */
+"_Common_Colors_Blue" = "Blu";
+
+/* (No Comment) */
+"_Common_Colors_Green" = "Verde";
+
+/* (No Comment) */
+"_Common_Colors_Magenta" = "Magenta";
+
+/* (No Comment) */
+"_Common_Colors_Orange" = "Arancio";
+
+/* Colors */
+"_Common_Colors_Red" = "Rosso";
+
+/* (No Comment) */
+"_Common_Colors_Turquoise" = "Turchese";
+
+/* (No Comment) */
+"_Common_Colors_Yellow" = "Giallo";
+
+/* Keys */
+"_Common_CommandKey" = "⌘";
+
+/* Contextual */
+"_Common_ContextualMenu_ChangeLabel" = "Cambia etichetta";
+
+/* (No Comment) */
+"_Common_ContinueButton" = "Continua";
+
+/* (No Comment) */
+"_Common_ControlKey" = "CTRL";
+
+/* (No Comment) */
+"_Common_CopyButton" = "Copia";
+
+/* (No Comment) */
+"_Common_Count" = "Conteggio";
+
+/* (No Comment) */
+"_Common_Country" = "Nazione";
+
+/* (No Comment) */
+"_Common_County" = "Contea";
+
+/* (No Comment) */
+"_Common_Create" = "Crea";
+
+/* (No Comment) */
+"_Common_CreationDate" = "Data di creazione";
+
+/* (No Comment) */
+"_Common_Date" = "Data";
+
+/* (No Comment) */
+"_Common_DeathDate" = "Data di decesso";
+
+/* (No Comment) */
+"_Common_DeathPlace" = "Luogo di decesso";
+
+/* (No Comment) */
+"_Common_Decline" = "Declina";
+
+/* (No Comment) */
+"_Common_Default" = "Predefinito";
+
+/* (No Comment) */
+"_Common_DeleteAllButton" = "Elimina tutto";
+
+/* (No Comment) */
+"_Common_DeleteButton" = "Elimina";
+
+/* (No Comment) */
+"_Common_DeleteWithObject" = "Elimina '%@'";
+
+/* (No Comment) */
+"_Common_DescendingSortOrder" = "Discendente";
+
+/* (No Comment) */
+"_Common_Description" = "Descrizione";
+
+/* (No Comment) */
+"_Common_DisableButton" = "Disabilita";
+
+/* (No Comment) */
+"_Common_Discard" = "Tralascia";
+
+/* (No Comment) */
+"_Common_DisplayButton" = "Mostra";
+
+/* (No Comment) */
+"_Common_Done" = "Fatto";
+
+/* (No Comment) */
+"_Common_DontAskAgainButton" = "Non richiedere";
+
+/* (No Comment) */
+"_Common_Download" = "Scarica";
+
+/* (No Comment) */
+"_Common_DuplicateButton" = "Duplica";
+
+/* (No Comment) */
+"_Common_Edit" = "Modifica";
+
+/* (No Comment) */
+"_Common_EditWithObject" = "Modifica '%@'";
+
+/* (No Comment) */
+"_Common_EnableButton" = "Abilita";
+
+/* (No Comment) */
+"_Common_Entries" = "Voci";
+
+/* (No Comment) */
+"_Common_EntryCountPlural" = "%d Voci";
+
+/* (No Comment) */
+"_Common_EntryCountPluralString" = "%@ Voci";
+
+/* (No Comment) */
+"_Common_EntryCountSingular" = "%d Voce";
+
+/* (No Comment) */
+"_Common_EntryCountSingularString" = "%@ Voce";
+
+/* (No Comment) */
+"_Common_Error" = "Errore";
+
+/* Errors */
+"_Common_Errors_NoInternetConnection" = "Non è disponibile alcuna connessione Internet";
+
+/* (No Comment) */
+"_Common_Event" = "Evento";
+
+/* (No Comment) */
+"_Common_EventCountPlural" = "%d eventi";
+
+/* (No Comment) */
+"_Common_EventCountSingular" = "%d evento";
+
+/* (No Comment) */
+"_Common_Events" = "Eventi";
+
+/* (No Comment) */
+"_Common_EventsAtThisPlace" = "Eventi in questo luogo";
+
+/* (No Comment) */
+"_Common_Example" = "Esempio";
+
+/* (No Comment) */
+"_Common_Export" = "Esporta";
+
+/* (No Comment) */
+"_Common_Fact" = "Fatto";
+
+/* (No Comment) */
+"_Common_Facts" = "Fatti";
+
+/* (No Comment) */
+"_Common_Families" = "Famiglie";
+
+/* (No Comment) */
+"_Common_Family" = "Famiglia";
+
+/* (No Comment) */
+"_Common_FamilyEvents" = "Eventi della famiglia";
+
+/* (No Comment) */
+"_Common_FamilyTree" = "Albero genealogico";
+
+/* (No Comment) */
+"_Common_Father" = "Padre";
+
+/* (No Comment) */
+"_Common_Favorite" = "Preferito";
+
+/* (No Comment) */
+"_Common_Favorites" = "Preferiti";
+
+/* (No Comment) */
+"_Common_Female" = "Femmina";
+
+/* (No Comment) */
+"_Common_FirstName" = "Nome";
+
+/* (No Comment) */
+"_Common_FontStyle_Bold" = "Grassetto";
+
+/* (No Comment) */
+"_Common_FontStyle_BoldItalic" = "Grassetto Italico";
+
+/* (No Comment) */
+"_Common_FontStyle_Italic" = "Italico";
+
+/* (No Comment) */
+"_Common_FontStyle_Light" = "Luce";
+
+/* (No Comment) */
+"_Common_FontStyle_Medium" = "Mezzo";
+
+/* Font Styles */
+"_Common_FontStyle_Normal" = "Normale";
+
+/* (No Comment) */
+"_Common_FontStyle_SemiBold" = "Semi grassetto";
+
+/* Common */
+"_Common_Gender" = "Genere";
+
+/* (No Comment) */
+"_Common_Generation" = "Generazione";
+
+/* (No Comment) */
+"_Common_GenerationsPluralString" = "%d generazioni";
+
+/* (No Comment) */
+"_Common_GenerationsSingularString" = "%d generazione";
+
+/* (No Comment) */
+"_Common_Generic" = "Generico";
+
+/* (No Comment) */
+"_Common_Help" = "Aiuto";
+
+/* (No Comment) */
+"_Common_HideKeyboard" = "Nascondi tastiera";
+
+/* (No Comment) */
+"_Common_IgnoreButton" = "Ignora";
+
+/* (No Comment) */
+"_Common_Image" = "Immagine";
+
+/* (No Comment) */
+"_Common_ImportButton" = "Importa";
+
+/* Localization */
+"_Common_InternationalLocalization" = "Internazionale";
+
+/* (No Comment) */
+"_Common_Intersex" = "Intersessualità";
+
+/* (No Comment) */
+"_Common_IsAssignedToFamilySearch" = "È assegnato al Family Search";
+
+/* (No Comment) */
+"_Common_IsBookmarked" = "È preferito";
+
+/* (No Comment) */
+"_Common_IsNotAssignedToFamilySearch" = "Non è assegnato al Family Search";
+
+/* (No Comment) */
+"_Common_IsNotBookmarked" = "Non è preferito";
+
+/* (No Comment) */
+"_Common_Label" = "Etichetta";
+
+/* (No Comment) */
+"_Common_Labels" = "Etichette";
+
+/* (No Comment) */
+"_Common_LastName" = "Cognome";
+
+/* (No Comment) */
+"_Common_LaterButton" = "Dopo";
+
+/* (No Comment) */
+"_Common_Link" = "Collegamento";
+
+/* (No Comment) */
+"_Common_LoginButton" = "Ingresso";
+
+/* (No Comment) */
+"_Common_LogoutButton" = "Esci";
+
+/* (No Comment) */
+"_Common_Male" = "Maschio";
+
+/* (No Comment) */
+"_Common_Man" = "Uomo";
+
+/* (No Comment) */
+"_Common_MarkAsSeen" = "Segna come visto";
+
+/* (No Comment) */
+"_Common_Marriage" = "Matrimonio";
+
+/* (No Comment) */
+"_Common_MarriageDate" = "Data di matrimonio";
+
+/* (No Comment) */
+"_Common_MarriagePlace" = "Luogo di matrimonio";
+
+/* (No Comment) */
+"_Common_Media" = "Documento mediale";
+
+/* (No Comment) */
+"_Common_MergeButton" = "Unisci";
+
+/* (No Comment) */
+"_Common_MiddleName" = "Secondo nome";
+
+/* (No Comment) */
+"_Common_Mother" = "Madre";
+
+/* (No Comment) */
+"_Common_MultipleSelected" = "%d selezionati";
+
+/* (No Comment) */
+"_Common_Name" = "Nome";
+
+/* (No Comment) */
+"_Common_NeverButton" = "Mai";
+
+/* (No Comment) */
+"_Common_NextButton" = "Prossima";
+
+/* (No Comment) */
+"_Common_No" = "No";
+
+/* (No Comment) */
+"_Common_NoChildrenPlaceholder" = "Nessun figlio/a";
+
+/* (No Comment) */
+"_Common_NoConclusionTypesPlaceholder" = "Nessun elemento";
+
+/* (No Comment) */
+"_Common_NoDatePlaceholder" = "Nessuna data";
+
+/* Empty */
+"_Common_NoInformationEnteredTooltip" = "Nessuna informazione è stata inserita";
+
+/* (No Comment) */
+"_Common_NoLabelsPlaceholder" = "Nessuna etichetta";
+
+/* (No Comment) */
+"_Common_NoManPlaceholder" = "Nessun uomo";
+
+/* (No Comment) */
+"_Common_NoNameAvailable" = "Nessun nome disponibile";
+
+/* (No Comment) */
+"_Common_None" = "Nessuno";
+
+/* Selected Counts */
+"_Common_NoneSelected" = "Nessuno selezionato";
+
+/* (No Comment) */
+"_Common_NoPartnerPlaceholder" = "Nessun compagno/a";
+
+/* (No Comment) */
+"_Common_NoPersonGroupsPlaceholder" = "Nessun gruppo di persona";
+
+/* Placeholders */
+"_Common_NoPersonPlaceholder" = "Nessuna persona";
+
+/* (No Comment) */
+"_Common_NoPlacePlaceholder" = "Nessun luogo";
+
+/* (No Comment) */
+"_Common_NoSourceTemplateKeysPlaceholder" = "Nessun campo del modello della fonte";
+
+/* (No Comment) */
+"_Common_Note" = "Nota";
+
+/* (No Comment) */
+"_Common_Notes" = "Note";
+
+/* (No Comment) */
+"_Common_NothingToSelected" = "Niente da selezionare";
+
+/* (No Comment) */
+"_Common_Now" = "Oggi";
+
+/* (No Comment) */
+"_Common_NoWomanPlaceholder" = "Nessuna donna";
+
+/* (No Comment) */
+"_Common_NumberingSystem" = "Sistema di numerazione";
+
+/* Buttons */
+"_Common_OKButton" = "OK";
+
+/* (No Comment) */
+"_Common_OKDontAskAgainButton" = "OK. Non richiedere";
+
+/* (No Comment) */
+"_Common_OneSelected" = "Una selezionata";
+
+/* (No Comment) */
+"_Common_OpenButton" = "Apri";
+
+/* (No Comment) */
+"_Common_OpenInBrowser" = "Apri nel navigatore";
+
+/* (No Comment) */
+"_Common_OptionsButton" = "Opzioni";
+
+/* (No Comment) */
+"_Common_Order" = "Ordine";
+
+/* (No Comment) */
+"_Common_OtherNames" = "Altri nomi";
+
+/* (No Comment) */
+"_Common_Others" = "Altre";
+
+/* (No Comment) */
+"_Common_Page" = "Pagina";
+
+/* (No Comment) */
+"_Common_Parent1" = "Genitore 1";
+
+/* (No Comment) */
+"_Common_Parent2" = "Genitore 2";
+
+/* (No Comment) */
+"_Common_Parents" = "Genitori";
+
+/* (No Comment) */
+"_Common_Partner" = "Compagno/a";
+
+/* (No Comment) */
+"_Common_Partner1" = "Compagno/a 1";
+
+/* (No Comment) */
+"_Common_Partner2" = "Compagno/a 2";
+
+/* (No Comment) */
+"_Common_Partners" = "Compagni";
+
+/* (No Comment) */
+"_Common_Person" = "Persona";
+
+/* (No Comment) */
+"_Common_PersonCountPlural" = "%d Persone";
+
+/* (No Comment) */
+"_Common_PersonCountPluralString" = "%@ Persone";
+
+/* Counts */
+"_Common_PersonCountSingular" = "%d Persona";
+
+/* (No Comment) */
+"_Common_PersonCountSingularString" = "%@ Persona";
+
+/* Events & Facts */
+"_Common_PersonEvents" = "Eventi della persona";
+
+/* (No Comment) */
+"_Common_PersonFacts" = "Fatti delle persone";
+
+/* (No Comment) */
+"_Common_Persons" = "Persone";
+
+/* (No Comment) */
+"_Common_Picture" = "Foto";
+
+/* (No Comment) */
+"_Common_Pictures" = "Immagini";
+
+/* (No Comment) */
+"_Common_Place" = "Luogo";
+
+/* (No Comment) */
+"_Common_PlaceDetail" = "Dettagli del luogo";
+
+/* (No Comment) */
+"_Common_Places" = "Luoghi";
+
+/* (No Comment) */
+"_Common_PleaseWaitPlaceholder" = "Per cortesia attendi...";
+
+/* Population Prefix */
+"_Common_Population" = "Popolazione: %@";
+
+/* (No Comment) */
+"_Common_PrefixName" = "Titolo";
+
+/* (No Comment) */
+"_Common_PreviousButton" = "Precedente";
+
+/* (No Comment) */
+"_Common_Print" = "Stampa";
+
+/* Progress Counts */
+"_Common_ProgressCount" = "%d di %d";
+
+/* (No Comment) */
+"_Common_ProgressCountAsString" = "%@ di %@";
+
+/* (No Comment) */
+"_Common_QuitButton" = "Esci";
+
+/* (No Comment) */
+"_Common_ReferenceNumber" = "Numero di riferimento";
+
+/* (No Comment) */
+"_Common_RejectButton" = "Rifiuta";
+
+/* (No Comment) */
+"_Common_RemoveButton" = "Rimuovi";
+
+/* (No Comment) */
+"_Common_RenameButton" = "Rinomina";
+
+/* (No Comment) */
+"_Common_ReplaceButton" = "Sostituisci";
+
+/* (No Comment) */
+"_Common_ResetButton" = "Azzera";
+
+/* (No Comment) */
+"_Common_RetryButton" = "Riprova";
+
+/* (No Comment) */
+"_Common_Save" = "Salva";
+
+/* (No Comment) */
+"_Common_SaveButton" = "Salva";
+
+/* (No Comment) */
+"_Common_Search" = "Cerca";
+
+/* (No Comment) */
+"_Common_Search_Clear" = "Pulisci";
+
+/* (No Comment) */
+"_Common_Search_Menu_Title" = "Cerca il menù";
+
+/* (No Comment) */
+"_Common_Search_Options" = "Cerca le opzioni...";
+
+/* (No Comment) */
+"_Common_Search_Recent" = "Ricerche recenti";
+
+/* (No Comment) */
+"_Common_Section" = "Sezione";
+
+/* (No Comment) */
+"_Common_SelectButton" = "Seleziona";
+
+/* (No Comment) */
+"_Common_Settings" = "Impostazioni";
+
+/* (No Comment) */
+"_Common_SkipButton" = "Salta";
+
+/* (No Comment) */
+"_Common_Sorting_ByBirthDate" = "Per data di nascita";
+
+/* (No Comment) */
+"_Common_Sorting_ByBirthPlace" = "Per luogo di nascita";
+
+/* (No Comment) */
+"_Common_Sorting_ByDate" = "Per data";
+
+/* (No Comment) */
+"_Common_Sorting_ByDeathDate" = "Per data di decesso";
+
+/* (No Comment) */
+"_Common_Sorting_ByDeathPlace" = "Per luogo di decesso";
+
+/* (No Comment) */
+"_Common_Sorting_ByFirstName" = "Per nome";
+
+/* (No Comment) */
+"_Common_Sorting_ByLastName" = "Per cognome";
+
+/* Sorting */
+"_Common_Sorting_ByName" = "Per nome";
+
+/* (No Comment) */
+"_Common_Sorting_ByScore" = "Per punteggio";
+
+/* (No Comment) */
+"_Common_Source" = "Fonte";
+
+/* (No Comment) */
+"_Common_SourceCitationsPlural" = "%d Citazioni";
+
+/* (No Comment) */
+"_Common_SourceCitationsPluralString" = "%@ Citazioni";
+
+/* (No Comment) */
+"_Common_SourceCitationsSingular" = "%d Citazione";
+
+/* (No Comment) */
+"_Common_SourceCitationsSingularString" = "%@ Citazione";
+
+/* (No Comment) */
+"_Common_Sources" = "Fonti";
+
+/* (No Comment) */
+"_Common_State" = "Stato";
+
+/* (No Comment) */
+"_Common_StopSharingButton" = "Ferma la condivisione";
+
+/* (No Comment) */
+"_Common_SuffixName" = "Suffisso";
+
+/* (No Comment) */
+"_Common_Text" = "Testo";
+
+/* (No Comment) */
+"_Common_Title" = "Titolo";
+
+/* (No Comment) */
+"_Common_ToDo" = "Attività";
+
+/* (No Comment) */
+"_Common_ToDos" = "Più attività";
+
+/* (No Comment) */
+"_Common_Toggle" = "Seleziona tutto";
+
+/* (No Comment) */
+"_Common_Type" = "Tipo";
+
+/* (No Comment) */
+"_Common_Unknown" = "Sconosciuto";
+
+/* (No Comment) */
+"_Common_UnknownGender" = "Genere sconosciuto";
+
+/* (No Comment) */
+"_Common_UnknownPerson" = "Persona sconosciuta";
+
+/* (No Comment) */
+"_Common_Unlimited" = "Illimitato";
+
+/* (No Comment) */
+"_Common_UnnamedChart" = "Diagramma senza nome";
+
+/* (No Comment) */
+"_Common_UnnamedFamily" = "Famiglia senza nome";
+
+/* (No Comment) */
+"_Common_UnnamedLabel" = "Etichetta senza nome";
+
+/* (No Comment) */
+"_Common_UnnamedMedia" = "Documento mediale senza nome";
+
+/* (No Comment) */
+"_Common_UnnamedPerson" = "Persona senza nome";
+
+/* (No Comment) */
+"_Common_UnnamedPersonGroup" = "Gruppo della persona senza nome";
+
+/* (No Comment) */
+"_Common_UnnamedPlace" = "Luogo senza nome";
+
+/* (No Comment) */
+"_Common_UnnamedPlaceDetail" = "Dettaglio del luogo senza nome";
+
+/* (No Comment) */
+"_Common_UnnamedPlaceTemplate" = "Modello di luogo senza nome";
+
+/* (No Comment) */
+"_Common_UnnamedPlaceTemplateKey" = "Campo modello senza nome";
+
+/* (No Comment) */
+"_Common_UnnamedSource" = "Fonte senza nome";
+
+/* (No Comment) */
+"_Common_UnnamedSourceRepository" = "Deposito della fonte senza nome";
+
+/* (No Comment) */
+"_Common_UnnamedSourceTemplate" = "Modello della fonte senza nome";
+
+/* (No Comment) */
+"_Common_UnnamedSourceTemplateKey" = "Campo del modello senza nome";
+
+/* (No Comment) */
+"_Common_UnnamedStory" = "Storia senza nome";
+
+/* (No Comment) */
+"_Common_UnnamedStorySection" = "Sezione della storia senza nome";
+
+/* (No Comment) */
+"_Common_UnnamedTitle" = "Senza nome";
+
+/* (No Comment) */
+"_Common_UnnamedToDo" = "Attività senza nome";
+
+/* (No Comment) */
+"_Common_UpdateButton" = "Aggiorna";
+
+/* (No Comment) */
+"_Common_UploadButton" = "Carica";
+
+/* (No Comment) */
+"_Common_Value" = "Valore";
+
+/* (No Comment) */
+"_Common_Version" = "Versione";
+
+/* (No Comment) */
+"_Common_White" = "Bianco";
+
+/* (No Comment) */
+"_Common_Width" = "Larghezza";
+
+/* (No Comment) */
+"_Common_Woman" = "Donna";
+
+/* (No Comment) */
+"_Common_Year" = "Anno";
+
+/* (No Comment) */
+"_Common_Years" = "Anni";
+
+/* (No Comment) */
+"_Common_Yes" = "Si";
+
+/* (No Comment) */
+"_Person_NameFormat_FirstName_MiddleName_LastName_Suffix_Comma_Title" = "Suffisso \"Nome\" \"Secondo nome\" \"Cognome\", Titolo";
+
+/* (No Comment) */
+"_Person_NameFormat_LastName_Comma_FirstName_Comma_MiddleName_Comma_Suffix_Comma_Title" = "\"Cognome\", \"Nome\", \"Secondo nome\", Suffisso, Titolo";
+
+/* (No Comment) */
+"_Person_NameFormat_LastName_Suffix_Comma_FirstName_MiddleName_Comma_Title" = "Suffisso \"Cognome\", \"Nome\" \"Secondo nome\", Titolo";
+
+/* (No Comment) */
+"_Person_NameFormat_Title_Comma_FirstName_Suffix_Bracket_MiddleName_Bracket" = "Titolo \"Cognome\", \"Nome\" Suffisso (\"Secondo nome\")";
+
+/* (No Comment) */
+"_Person_NameFormat_Title_FirstName_Comma_LastName_Comma_MiddleName_Comma_Suffix" = "Titolo \"Nome\", \"Cognome\", \"Secondo nome\", Suffisso";
+
+/* Person Name Formats */
+"_Person_NameFormat_Title_FirstName_MiddleName_LastName_Suffix" = "Titolo \"Nome\" \"Secondo nome\" \"Cognome\" Suffisso";
+
+/* (No Comment) */
+"_Person_NameFormat_Title_LastName_MiddleName_FirstName_Suffix" = "Titolo \"Cognome\" \"Secondo nome\" \"Nome\" Suffisso";
+
+/* (No Comment) */
+"_Person_NameFormat_Title_LastName_Suffix_Comma_FirstName_MiddleName" = "Titolo \"Cognome\" Suffisso, \"Nome\" \"Secondo nome\"";
+
+/* (No Comment) */
+"_Person_NameFormat_Title_LastName_Suffix_FirstName_MiddleName" = "Titolo \"Cognome\" Suffisso \"Nome\" \"Secondo nome\"";
+

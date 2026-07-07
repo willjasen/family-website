@@ -1,0 +1,318 @@
+﻿/* (No Comment) */
+"_EditPlaceTemplateKeysController_MergeTemplateKeysConflictInformative" = "Вы собираетесь объединить поле места '%@' с полем места '%@', но в некоторых местах вашего семейного древа оба поля места присутствуют в одном месте. Пожалуйста, решите, как действовать для этих мест:";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_MergeTemplateKeysConflictKeepBoth" = "Сохранить оба значения";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_MergeTemplateKeysConflictKeepSingle" = "Сохранить значение %@";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_MergeTemplateKeysConflictMessage" = "Объединить поля места";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_MergeTemplateKeysDoneInformative" = "Поле места '%@' объединено с полем места '%@'";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_MergeTemplateKeysDoneMessage" = "Поля места объединены";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_ReallyMergeTemplateKeysInformative" = "Вы действительно хотите объединить поля шаблона '%@' и '%@'? После этого они станут одним полем шаблона.";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_ReallyMergeTemplateKeysMessage" = "Действительно объединить поля шаблона?";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_RemoveTemplateKeyInformative" = "Вы действительно хотите удалить выбранное поле шаблона? В это поле введена информация, которая будет удалена без возможности восстановления.";
+
+/* EditPlaceTemplateKeysController */
+"_EditPlaceTemplateKeysController_RemoveTemplateKeyMessage" = "Действительно удалить поле шаблона? Все поля из мест будут удалены.";
+
+/* (No Comment) */
+"_EditPlaceTemplatesController_MergeTemplateDoneMessage" = "Шаблоны мест объединены";
+
+/* (No Comment) */
+"_EditPlaceTemplatesController_MergeTemplatesDoneInformative" = "Шаблоны мест '%@' и '%@' успешно объединены.";
+
+/* (No Comment) */
+"_EditPlaceTemplatesController_ReallyMergeTemplateInformative" = "Вы действительно хотите объединить шаблоны '%@' и '%@'? После этого они станут одним шаблоном.";
+
+/* (No Comment) */
+"_EditPlaceTemplatesController_ReallyMergeTemplateMessage" = "Действительно объединить шаблоны?";
+
+/* (No Comment) */
+"_EditPlaceTemplatesController_RemoveTemplateInformative" = "Вы уверены, что хотите удалить этот шаблон места? К этому шаблону прикреплены места, которые также будут удалены без возможности восстановления.";
+
+/* EditPlaceTemplatesController */
+"_EditPlaceTemplatesController_RemoveTemplateMessage" = "Удалить шаблон места? Все прикрепленные места будут удалены без возможности восстановления.";
+
+/* (No Comment) */
+"_PlaceTemplate_PlacesCount" = "%d мест(а)";
+
+/* Counts */
+"_PlaceTemplate_PlacesCountSingular" = "%d место";
+
+/* Relation Usage */
+"_RelationUsage_AdministrativeDivision1" = "Административное деление 1";
+
+/* (No Comment) */
+"_RelationUsage_AdministrativeDivision2" = "Административное деление 2";
+
+/* (No Comment) */
+"_RelationUsage_AdministrativeDivision3" = "Административное деление 3";
+
+/* (No Comment) */
+"_RelationUsage_AdministrativeDivision4" = "Административное деление 4";
+
+/* (No Comment) */
+"_RelationUsage_AdministrativeDivision5" = "Административное деление 5";
+
+/* (No Comment) */
+"_RelationUsage_AdministrativeDivisionOther" = "Другое административное деление";
+
+/* (No Comment) */
+"_RelationUsage_CountryName" = "Название страны";
+
+/* (No Comment) */
+"_RelationUsage_PlaceName" = "Название места";
+
+/* (No Comment) */
+"PlaceTemplate_Australia" = "Австралия";
+
+/* (No Comment) */
+"PlaceTemplate_Austria" = "Австрия";
+
+/* (No Comment) */
+"PlaceTemplate_Belgium" = "Бельгия";
+
+/* (No Comment) */
+"PlaceTemplate_Bosnia and Herzegovina" = "Босния и Герцеговина";
+
+/* (No Comment) */
+"PlaceTemplate_Brazil" = "Бразилия";
+
+/* (No Comment) */
+"PlaceTemplate_Bulgaria" = "Болгария";
+
+/* (No Comment) */
+"PlaceTemplate_Canada (Province)" = "Канада (провинция)";
+
+/* (No Comment) */
+"PlaceTemplate_Canada (Territory)" = "Канада (территория)";
+
+/* (No Comment) */
+"PlaceTemplate_China" = "Китай";
+
+/* (No Comment) */
+"PlaceTemplate_Croatia" = "Хорватия";
+
+/* (No Comment) */
+"PlaceTemplate_Czechia" = "Чехия";
+
+/* (No Comment) */
+"PlaceTemplate_Denmark" = "Дания";
+
+/* (No Comment) */
+"PlaceTemplate_England (Borough)" = "Англия (округ)";
+
+/* (No Comment) */
+"PlaceTemplate_England (Parish)" = "Англия (приход)";
+
+/* (No Comment) */
+"PlaceTemplate_Finland" = "Финляндия";
+
+/* (No Comment) */
+"PlaceTemplate_France" = "Франция";
+
+/* Templates */
+"PlaceTemplate_Generic" = "Общий";
+
+/* (No Comment) */
+"PlaceTemplate_Generic_Level" = "Общий (%d уровней)";
+
+/* (No Comment) */
+"PlaceTemplate_Generic_OneComponent" = "Общий (один уровень)";
+
+/* (No Comment) */
+"PlaceTemplate_Generic_ThreeComponents" = "Общий (три уровня)";
+
+/* (No Comment) */
+"PlaceTemplate_Generic_TwoComponents" = "Общий (два уровня)";
+
+/* (No Comment) */
+"PlaceTemplate_Germany" = "Германия";
+
+/* (No Comment) */
+"PlaceTemplate_Greece" = "Греция";
+
+/* (No Comment) */
+"PlaceTemplate_Hungary" = "Венгрия";
+
+/* (No Comment) */
+"PlaceTemplate_Ireland" = "Ирландия";
+
+/* (No Comment) */
+"PlaceTemplate_Italy" = "Италия";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Administrative Divison" = "Административное деление";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Administrative Unit" = "Административная единица";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Autonomos Region" = "Автономный регион";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Borough" = "Район";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Canton" = "Кантон";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Commune" = "Коммуна";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Country" = "Страна";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_County" = "Округ";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Decentralized Administration" = "Децентрализованная административная единица";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Department" = "Департамент";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_District" = "Округ";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Federal District" = "Федеральный округ";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Federal Subject" = "Субъект федерации";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Kray" = "Край";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Level" = "Уровень %d";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Municipality" = "Муниципалитет";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Oblast" = "Область";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Parish" = "Приход";
+
+/* Template Keys */
+"PlaceTemplate_KeyName_Place" = "Место";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Province" = "Провинция";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Region" = "Регион";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Republic" = "Республика";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_State" = "Область/Штат";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Territory" = "Территория";
+
+/* (No Comment) */
+"PlaceTemplate_Mexico" = "Мексика";
+
+/* (No Comment) */
+"PlaceTemplate_Netherlands" = "Нидерланды";
+
+/* (No Comment) */
+"PlaceTemplate_Norway" = "Норвегия";
+
+/* (No Comment) */
+"PlaceTemplate_Poland" = "Польша";
+
+/* (No Comment) */
+"PlaceTemplate_Portugal" = "Португалия";
+
+/* (No Comment) */
+"PlaceTemplate_Romania" = "Румыния";
+
+/* (No Comment) */
+"PlaceTemplate_Russia" = "Россия";
+
+/* (No Comment) */
+"PlaceTemplate_Serbia" = "Сербия";
+
+/* (No Comment) */
+"PlaceTemplate_Slovakia" = "Словакия";
+
+/* (No Comment) */
+"PlaceTemplate_Slovenia" = "Словения";
+
+/* (No Comment) */
+"PlaceTemplate_Spain" = "Испания";
+
+/* (No Comment) */
+"PlaceTemplate_Sweden" = "Швеция";
+
+/* (No Comment) */
+"PlaceTemplate_Switzerland" = "Швейцария";
+
+/* (No Comment) */
+"PlaceTemplate_United Kingdom" = "Великобритания";
+
+/* (No Comment) */
+"PlaceTemplate_United States of America" = "Соединенные Штаты Америки";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationBracketMode_AngleBrackets" = "Угловые скобки";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationBracketMode_Brackets" = "Круглые скобки";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationBracketMode_CurlyBrackets" = "Фигурные скобки";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationBracketMode_DoubleQuotes" = "Двойные кавычки";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationBracketMode_None" = "Нет";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationBracketMode_SingleQuotes" = "Одинарные кавычки";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationMode_Normal" = "Нормальный";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationMode_Short" = "Короткий";
+
+/* Enums */
+"PlaceTemplateKeyRelation_CitationMode_VeryShort" = "Очень короткий";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationTrailingMode_Colon" = "Двоеточие";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationTrailingMode_Comma" = "Запятая";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationTrailingMode_Hyphen" = "Дефис";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationTrailingMode_Period" = "Период";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationTrailingMode_Semicolon" = "Точка с запятой";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationTrailingMode_Space" = "Пробел";
+

@@ -1,0 +1,51 @@
+﻿/* (No Comment) */
+"_LocalizationName_cs" = "Tsekki";
+
+/* (No Comment) */
+"_LocalizationName_da" = "Tanska";
+
+/* LocalizationNames */
+"_LocalizationName_de" = "Saksa";
+
+/* (No Comment) */
+"_LocalizationName_en" = "Englanti";
+
+/* (No Comment) */
+"_LocalizationName_es" = "Espanja";
+
+/* (No Comment) */
+"_LocalizationName_fi" = "Suomi";
+
+/* (No Comment) */
+"_LocalizationName_fr" = "Ranska";
+
+/* (No Comment) */
+"_LocalizationName_hu" = "Unkari";
+
+/* (No Comment) */
+"_LocalizationName_INTL" = "Kansainvälinen";
+
+/* (No Comment) */
+"_LocalizationName_it" = "Italia";
+
+/* (No Comment) */
+"_LocalizationName_nb" = "Norja";
+
+/* (No Comment) */
+"_LocalizationName_nl" = "Hollanti";
+
+/* (No Comment) */
+"_LocalizationName_pl" = "Puola";
+
+/* (No Comment) */
+"_LocalizationName_pt" = "Portugali";
+
+/* (No Comment) */
+"_LocalizationName_ru" = "Venäjä";
+
+/* (No Comment) */
+"_LocalizationName_sv" = "Ruotsi";
+
+/* (No Comment) */
+"_LocalizationName_zh" = "Yksinkertaistettu kiina";
+

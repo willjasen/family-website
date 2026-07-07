@@ -1,0 +1,36 @@
+﻿/* (No Comment) */
+"_MediaContainerListController_DeleteMediaButton" = "Media verwijderen";
+
+/* (No Comment) */
+"_MediaContainerListController_DeleteMediaInformative" = "Wenst u werkelijk de geselecteerde media permanent te verwijderen?";
+
+/* (No Comment) */
+"_MediaContainerListController_DeleteMediaMessage" = "Media verwijderen?";
+
+/* (No Comment) */
+"_MediaContainerListController_DeleteMediaOrRelationInformative" = "Wenst u werkelijk de geselecteerde media permanent te verwijderen of wenst u enkel de mediarelatie te verwijden en de media zelf te bewaren?";
+
+/* MediaContainerListController */
+"_MediaContainerListController_DeleteMediaOrRelationMessage" = "Verwijder media of mediarelatie?";
+
+/* (No Comment) */
+"_MediaContainerListController_DeleteMediaRelationButton" = "Verwijder media relatie";
+
+/* (No Comment) */
+"_MediaContainerListController_FileWithoutTitleName" = "Bestand %d";
+
+/* (No Comment) */
+"_MediaContainerListController_NoDateTitle" = "Geen datum";
+
+/* (No Comment) */
+"_MediaContainerListController_SortingMode_ByDate" = "Op geboortedatum";
+
+/* (No Comment) */
+"_MediaContainerListController_SortingMode_ByTitle" = "Op titel";
+
+/* Default Titles */
+"_MediaPicture_DefaultTitleWithDate" = "Afbeelding van %@";
+
+/* (No Comment) */
+"_MediaVideo_DefaultTitleWithDate" = "Video van %@";
+

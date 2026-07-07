@@ -1,0 +1,78 @@
+﻿/* (No Comment) */
+"_AssociateRelation_Type_BestFriend" = "Лучший друг";
+
+/* (No Comment) */
+"_AssociateRelation_Type_BestFriend_Inverted" = "Лучший друг";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Boss" = "Начальник";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Boss_Inverted" = "Сотрудник";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Coworker" = "Коллега";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Coworker_Inverted" = "Коллега";
+
+/* Person Container */
+"_AssociateRelation_Type_Friend" = "Друг";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Friend_Inverted" = "Друг";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Godfather" = "Крестный родитель";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Godfather_Inverted" = "Крестный родитель человека %@";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Neighbor" = "Сосед";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Neighbor_Inverted" = "Сосед";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Servant" = "Служащий";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Servant_Inverted" = "Работодатель/Руководитель";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Teacher" = "Учитель";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Teacher_Inverted" = "Студент";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfBirth" = "Свидетель рождения";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfBirth_Inverted" = "Свидетель рождения человека %@";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfCivilMarriage" = "Свидетель гражданского брака";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfCivilMarriage_Inverted" = "Свидетель гражданского брака человека %@";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfDeath" = "Свидетель смерти";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfDeath_Inverted" = "Свидетель смерти человека %@";
+
+/* Family Container */
+"_AssociateRelation_Type_WitnessOfMarriage" = "Свидетель брака";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfMarriage_Inverted" = "Свидетель брака человека %@";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfReligiousMarriage" = "Свидетель религиозного брака";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfReligiousMarriage_Inverted" = "Свидетель религиозного брака человека %@";
+

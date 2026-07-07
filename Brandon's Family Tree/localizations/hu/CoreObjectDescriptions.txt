@@ -1,0 +1,1704 @@
+﻿/* (No Comment) */
+"_AdditionalName_ChangeLog_Added" = "További név '%@' hozzáfűzve";
+
+/* (No Comment) */
+"_AdditionalName_ChangeLog_ConflictResolved" = "A beírás '%@' konfliktusát megszűntette '%@'";
+
+/* (No Comment) */
+"_AdditionalName_ChangeLog_Deleted" = "További név '%@' törölve";
+
+/* (No Comment) */
+"_AdditionalName_ChangeLogPropertyKey_FirstName" = "'%@'keresztneve megváltozott '%@'-ról '%@'-ra";
+
+/* (No Comment) */
+"_AdditionalName_ChangeLogPropertyKey_LastName" = "'%@' vezetékneve megváltozott '%@'-ról '%@'-ra";
+
+/* (No Comment) */
+"_AdditionalName_ChangeLogPropertyKey_Type" = "A további név típusa '%@'-ról '%@'-ra módosult";
+
+/* (No Comment) */
+"_BaseMedia_ChangeLog_Added" = "Médium hozzáfűzve";
+
+/* (No Comment) */
+"_BaseMedia_ChangeLog_Deleted" = "'%@' médium törölve";
+
+/* (No Comment) */
+"_BaseMedia_ChangeLogKey" = "%@ médium";
+
+/* (No Comment) */
+"_BaseMedia_ChangeLogPropertyKey_Date" = "Dátum megváltozott '%@'-ról '%@'-ra";
+
+/* (No Comment) */
+"_BaseMedia_ChangeLogPropertyKey_PDFFileIdentifier" = "PFG megszerkesztve";
+
+/* (No Comment) */
+"_BaseMedia_ChangeLogPropertyKey_PictureFileIdentifier" = "A kép szerkesztett";
+
+/* (No Comment) */
+"_BaseMedia_ChangeLogPropertyKey_Title" = "Titulus megváltozott '%@'-ról '%@'-ra";
+
+/* Base Object Composite Images Modes */
+"_BaseObject_CompositeImages_Mode_None" = "Mindig mutasson helyőrző icont";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_PrimaryImageFromPrimaryMediaContainer" = "Elsődleges kép megmutatása";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_PrimaryImageFromPrimaryMediaContainerAndConnectedMediaContainers" = "Elsődleges kép megmutatása, a kapcsolódó beírásokból is összegyűjtve";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_UpToSixImagesFromPrimaryMediaContainer" = "Maximum hat kép megmutatása";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_UpToSixImagesFromPrimaryMediaContainerAndConnectedMediaContainers" = "Maximum hat kép megmutatása, a kapcsolódó beírásokból is összegyűjtve";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_UpToTenImagesFromPrimaryMediaContainer" = "Maximum tíz kép megmutatása";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_UpToTenImagesFromPrimaryMediaContainerAndConnectedMediaContainers" = "Maximum tíz kép megmutatása, a kapcsolódó beírásokból is összegyűjtve";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_UpToThreeImagesFromPrimaryMediaContainer" = "Maximum hat kép megmutatása";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_UpToThreeImagesFromPrimaryMediaContainerAndConnectedMediaContainers" = "Maximum három kép megmutatása, a kapcsolódó beírásokból is összegyűjtve";
+
+/* (No Comment) */
+"_ChangeLog_NoValuePlaceholder" = "Nincs érték";
+
+/* Change Log */
+"_ChangeLogEntry_ObjectIsStillPresentTooltip" = "Ez a beírás megtalálható az adatbankban";
+
+/* (No Comment) */
+"_ChangeLogEntry_ObjectNoLongerPresentTooltip" = "Ezt a beírást törölte az adatbankból és már nem áll rendelkezésre";
+
+/* (No Comment) */
+"_ChildRelation_ChangeLog_Deleted" = "'%@' gyermek törölve a családból";
+
+/* (No Comment) */
+"_ChildRelation_ChangeLog_Deleted_Child" = "Törlés gyermekként a '%@' családból";
+
+/* (No Comment) */
+"_ChildRelation_ChangeLogPropertyKey_Child" = "'%@' gyermek hozzáfűzve";
+
+/* (No Comment) */
+"_ChildRelation_ChangeLogPropertyKey_Family" = "Hozzáfűzve gyermekként a '%@' családhoz";
+
+/* (No Comment) */
+"_ChildRelation_ChangeLogPropertyKey_RelationTypeToManInFamily" = "A(z) \"%@\" gyermek gyermekviszony típusa az apához megváltozott a \"%@\" -ról '%@'-ra";
+
+/* (No Comment) */
+"_ChildRelation_ChangeLogPropertyKey_RelationTypeToWomanInFamily" = "A(z) \"%@\" gyermek gyermekviszony típusa az anyához megváltozott a \"%@\" -ról '%@'-ra";
+
+/* (No Comment) */
+"_Event_ChangeLog_Added" = "'%@' esemény hozzáfűzve";
+
+/* (No Comment) */
+"_Event_ChangeLog_ConflictResolvedForAssignedPlace" = "Az eseményhely '%@' konfliktusát megszűntette '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLog_ConflictResolvedForAssignedPlaceDetail" = "Az eseményhely '%@' konfliktusát megszűntette '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLog_ConflictResolvedForCoordinate" = "Az eseménykoordináták '%@' konfliktusát megszűntette '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLog_ConflictResolvedForGenericProperty" = "Az esemény '%@' beírásának '%@' konfliktusát megszűntette '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLog_Deleted" = "'%@' esemény törölve";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_Address" = "'%@' eseménycím megváltozott '%@'-ról '%@'-ra";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_Agency" = "'%@' esemény ügynöksége megváltozott '%@'-ról '%@'-ra";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_AssignedPlace" = "'%@' esemény helye megváltozott '%@'-ra";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_AssignedPlaceDetail" = "'%@' esemény helyének részlete '%@'-ra változott.";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_Cause" = "'%@' esemény oka megváltozott '%@'-ról '%@'-ra";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_Coordinate" = "esemény koordinátái megváltoztak '%@'-ról '%@'-ra";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_Date" = "'%@' esemény dátuma megváltozott '%@'-ról '%@'-ra";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_Time" = "A(z) '%@' esemény ideje '%@'-ről '%@'-re módosult";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_Type" = "Esemény típusa megváltozott '%@'-ról '%@'-ra";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_UserDescription" = "'%@' esemény leírása megváltozott '%@'-ról '%@'-ra";
+
+/* (No Comment) */
+"_Fact_ChangeLog_Added" = "'%@' tény hozzáfűzve";
+
+/* (No Comment) */
+"_Fact_ChangeLog_ConflictResolvedForValue" = "A tény '%@' konfliktusát megszűntette '%@'";
+
+/* (No Comment) */
+"_Fact_ChangeLog_Deleted" = "Tény '%@' törölve";
+
+/* (No Comment) */
+"_Fact_ChangeLogPropertyKey_Type" = "Tény típusa megváltozott '%@'-ról '%@'-ra";
+
+/* (No Comment) */
+"_Fact_ChangeLogPropertyKey_Value" = "'%@' tény megváltozott '%@'-ról '%@'-ra";
+
+/* (No Comment) */
+"_Family_ChangeLog_Added" = "Család hozzáfűzve";
+
+/* (No Comment) */
+"_Family_ChangeLog_ConflictResolvedForMan" = "A hozzárendelt férfi konfliktusát megszűntette '%@'";
+
+/* (No Comment) */
+"_Family_ChangeLog_ConflictResolvedForWoman" = "A hozzárendelt nő konfliktusát megszűntette '%@'";
+
+/* (No Comment) */
+"_Family_ChangeLog_Deleted" = "Család törölve";
+
+/* (No Comment) */
+"_Family_ChangeLogKey" = "%@ család";
+
+/* (No Comment) */
+"_Family_ChangeLogPropertyKey_Man" = "'%@' személy férfiként hozzáfűzve";
+
+/* (No Comment) */
+"_Family_ChangeLogPropertyKey_Woman" = "'%@' személy nőként hozzáfűzve";
+
+/* (No Comment) */
+"_MediaRelation_ChangeLog_BaseMediaDeleted" = "'%@' médium törölve";
+
+/* (No Comment) */
+"_MediaRelation_ChangeLog_MediaContainerDeleted" = "'%@' beírás törölve a médiumból";
+
+/* (No Comment) */
+"_MediaRelation_ChangeLogPropertyKey_BaseMedia" = "'%@' médium hozzáfűzve";
+
+/* (No Comment) */
+"_MediaRelation_ChangeLogPropertyKey_MediaContainer" = "Méiumként hozzáfűzve '%@'-hoz";
+
+/* (No Comment) */
+"_ObjectDescription_AdditionalName" = "'%@' további neve '%@'";
+
+/* (No Comment) */
+"_ObjectDescription_AssociateRelation" = "Befolyásos személykapcsolat %@";
+
+/* (No Comment) */
+"_ObjectDescription_Book" = "%@ könyv";
+
+/* (No Comment) */
+"_ObjectDescription_BookBaseObjectsBasedReportBuilderObject" = "Beszámolórész objektum %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookBaseObjectsBasedReportBuilderSection" = "Beszámolórész %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookChapter" = "%@ könyvfejezet";
+
+/* (No Comment) */
+"_ObjectDescription_BookDiagramBaseObject" = "Digram-objektum-rész";
+
+/* (No Comment) */
+"_ObjectDescription_BookDiagramReportBuilderSection" = "Diagramrész %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookFamilyBasedReportBuilderSection" = "Beszámolórész %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookFamilySection" = "Családrész %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookGenericReportBuilderSection" = "Beszámolórész %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookPersonBasedReportBuilderSection" = "Beszámolórész %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookPersonSection" = "Személyrész %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookReportBuilderFamily" = "Beszámolórész család %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookReportBuilderPerson" = "Beszámolórész személy %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookSerializedBaseObjectReportBuilder" = "%@ rész konfigurálása";
+
+/* (No Comment) */
+"_ObjectDescription_BookSerializedBaseReportBuilder" = "%@ rész konfigurálása";
+
+/* (No Comment) */
+"_ObjectDescription_BookSerializedChapterReportBuilder" = "%@ fejezet konfigurálása";
+
+/* (No Comment) */
+"_ObjectDescription_BookSerializedEditedReportBuilder" = "%@ szerkesztett rész konfigurálása";
+
+/* (No Comment) */
+"_ObjectDescription_ChildRelation" = "%@ - %@ gyermekviszony";
+
+/* (No Comment) */
+"_ObjectDescription_ConclusionAdditionalNameType" = "További %@ névtípus";
+
+/* (No Comment) */
+"_ObjectDescription_ConclusionAssociateRelationType" = "Befolyásos kapcsolattípus %@";
+
+/* (No Comment) */
+"_ObjectDescription_ConclusionFamilyEventType" = "%@ családeseménytípus";
+
+/* (No Comment) */
+"_ObjectDescription_ConclusionPersonEventType" = "Személyeseménytípus %@";
+
+/* (No Comment) */
+"_ObjectDescription_ConclusionPersonFactType" = "%@ személyténytípus";
+
+/* (No Comment) */
+"_ObjectDescription_Coordinate" = "%@ hely koordinátái";
+
+/* (No Comment) */
+"_ObjectDescription_DNATestATDNASubResult" = "%@ atDNS-teszt eredmény";
+
+/* (No Comment) */
+"_ObjectDescription_DNATestMTDNASubResult" = "mtDNS teszteredmény - %@";
+
+/* (No Comment) */
+"_ObjectDescription_DNATestMTDNASubResultSNPDifference" = "DNS mtDNS SNP különbségek %@";
+
+/* (No Comment) */
+"_ObjectDescription_DNATestResult" = "DNS teszteredmény %@";
+
+/* (No Comment) */
+"_ObjectDescription_DNATestYDNASubResult" = "Y-DNS teszteredmény - %@";
+
+/* (No Comment) */
+"_ObjectDescription_DNATestYDNASubResultYSTRMarker" = "DNS Y-DNS STR jelző %@";
+
+/* (No Comment) */
+"_ObjectDescription_Family" = "%@ család";
+
+/* (No Comment) */
+"_ObjectDescription_FamilyEvent" = "Családesemény %@ %@-ból";
+
+/* (No Comment) */
+"_ObjectDescription_FamilyEvent_PlaceExtension" = "%@-ban";
+
+/* (No Comment) */
+"_ObjectDescription_FamilySearchKnownBadFurtherInformationMatch" = "FamilySearch-információ %@";
+
+/* (No Comment) */
+"_ObjectDescription_FamilySearchKnownBadPersonMatch" = "FamilySearch-információ %@";
+
+/* (No Comment) */
+"_ObjectDescription_FamilyTreeInformation" = "Családfa szerző-információ";
+
+/* (No Comment) */
+"_ObjectDescription_Label" = "Címke %@";
+
+/* (No Comment) */
+"_ObjectDescription_MediaAudio" = "Hang %@ %@-tól";
+
+/* (No Comment) */
+"_ObjectDescription_MediaPDF" = "PDF %@ %@-ból";
+
+/* (No Comment) */
+"_ObjectDescription_MediaPicture" = "Kép %@ %@-ból";
+
+/* (No Comment) */
+"_ObjectDescription_MediaRelation" = "%@ médiumviszony";
+
+/* (No Comment) */
+"_ObjectDescription_MediaRelationAssignment" = "%@ médiumviszony hozzárendelése";
+
+/* (No Comment) */
+"_ObjectDescription_MediaURL" = "Honlap %@ %@-ból";
+
+/* (No Comment) */
+"_ObjectDescription_MediaVideo" = "Videó %@ %@-ból";
+
+/* (No Comment) */
+"_ObjectDescription_Note" = "Jegyzet %@-hoz";
+
+/* Object Descriptions */
+"_ObjectDescription_Person" = "Személy %@";
+
+/* (No Comment) */
+"_ObjectDescription_PersonEvent" = "Esemény %@ %@-ból";
+
+/* (No Comment) */
+"_ObjectDescription_PersonEvent_PlaceExtension" = "%@-ban";
+
+/* (No Comment) */
+"_ObjectDescription_PersonFact" = "Tény %@ %@-ból";
+
+/* (No Comment) */
+"_ObjectDescription_PersonGroup" = "%@ személycsoport";
+
+/* (No Comment) */
+"_ObjectDescription_Place" = "Hely %@";
+
+/* (No Comment) */
+"_ObjectDescription_PlaceDetail" = "Helyrész %@";
+
+/* (No Comment) */
+"_ObjectDescription_PlaceKeyValue" = "Helyérték – %@: %@";
+
+/* (No Comment) */
+"_ObjectDescription_PlaceTemplate" = "%@ helysablon";
+
+/* (No Comment) */
+"_ObjectDescription_PlaceTemplateKey" = "Helysablonmező %@";
+
+/* (No Comment) */
+"_ObjectDescription_PlaceTemplateKeyRelation" = "Helysablonmezőkapcsolat %@ - %@";
+
+/* (No Comment) */
+"_ObjectDescription_Scope" = "Intelligens szűrő %@";
+
+/* (No Comment) */
+"_ObjectDescription_Source" = "%@ forrás";
+
+/* (No Comment) */
+"_ObjectDescription_SourceKeyValue" = "Forrásérték - %@:%@";
+
+/* (No Comment) */
+"_ObjectDescription_SourceRelation" = "Forrásidézet -%@ -%@";
+
+/* (No Comment) */
+"_ObjectDescription_SourceTemplate" = "%@ forrássablon";
+
+/* (No Comment) */
+"_ObjectDescription_SourceTemplateKey" = "%@ forrás-sablon-mező";
+
+/* (No Comment) */
+"_ObjectDescription_SourceTemplateKeyRelation" = "Forrássablon-mező-kapcsolat %@ – %@";
+
+/* (No Comment) */
+"_ObjectDescription_Story" = "Történet %@";
+
+/* (No Comment) */
+"_ObjectDescription_StorySection" = "Történetszakasz %@";
+
+/* (No Comment) */
+"_ObjectDescription_ToDo" = "%@ feladat";
+
+/* (No Comment) */
+"_ObjectProperty_AdditionalName_conclusionType" = "Típus";
+
+/* AdditionalName */
+"_ObjectProperty_AdditionalName_firstName" = "Keresztnév";
+
+/* (No Comment) */
+"_ObjectProperty_AdditionalName_lastName" = "Családnév";
+
+/* (No Comment) */
+"_ObjectProperty_AdditionalName_nameMiddle" = "Második keresztnév";
+
+/* (No Comment) */
+"_ObjectProperty_AdditionalName_namePrefix" = "Titulus";
+
+/* (No Comment) */
+"_ObjectProperty_AdditionalName_nameSuffix" = "Névrag";
+
+/* (No Comment) */
+"_ObjectProperty_AdditionalName_person" = "Személy";
+
+/* (No Comment) */
+"_ObjectProperty_AssociateRelation_conclusionType" = "Típus";
+
+/* AssociateRelation */
+"_ObjectProperty_AssociateRelation_date" = "Dátum";
+
+/* (No Comment) */
+"_ObjectProperty_BaseMedia_canShowAsMediaForMediaContainer" = "Használja beírási képként";
+
+/* (No Comment) */
+"_ObjectProperty_BaseMedia_date" = "Dátum";
+
+/* (No Comment) */
+"_ObjectProperty_BaseMedia_isBookmarked" = "Könyvjelzővel ellátott";
+
+/* BaseMedia */
+"_ObjectProperty_BaseMedia_title" = "Cím";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_ancestralFileNumberID" = "Ős-fájlszám";
+
+/* BaseObject */
+"_ObjectProperty_BaseObject_changeDate" = "Változtatás dátuma";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_cloudKitChangeTag" = "Változtatási információk a CloudTree-n";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_creationDate" = "Elkészítés dátuma";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_excludedPlausibilityAnalyzerClassNames" = "Plauzibilitáselemző információ";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_familySearchID" = "FamilySearch ID";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_gedcomID" = "Gedcom ID";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_isPrivate" = "Privátként megjelöt";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_referenceNumberID" = "Saját hivatkozási szám";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_researchAssistantCompletedQuestionsMask" = "Böngészőasszisztensinformáció";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_uniqueID" = "Belső egyedi azonosító";
+
+/* (No Comment) */
+"_ObjectProperty_Book_author" = "Szerző";
+
+/* (No Comment) */
+"_ObjectProperty_Book_chapterNumeralType" = "Fejezetszám";
+
+/* (No Comment) */
+"_ObjectProperty_Book_chaptersOnSeparatePage" = "Fejezeteket külön oldalra";
+
+/* (No Comment) */
+"_ObjectProperty_Book_date" = "Dátum";
+
+/* (No Comment) */
+"_ObjectProperty_Book_includeCitationsAsDefault" = "Idézetek bevonása új beszámolóhoz";
+
+/* (No Comment) */
+"_ObjectProperty_Book_languageShouldReformatDates" = "Lokalizált dátumformátum";
+
+/* (No Comment) */
+"_ObjectProperty_Book_localizationIdentifier" = "Nyelv";
+
+/* (No Comment) */
+"_ObjectProperty_Book_onlyColorizeChapterPages" = "Csak a fejezetoldalak színezése";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundChapterNumberColor" = "Fejezetszámszín";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundChapterTitleColor" = "Fejezetcímszín";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundPageNumberAlignment" = "Oldalszámok beigazítása";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundPageNumberColor" = "Oldalszámszín";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundPageNumberEnabled" = "Oldalszámok engedélyezve";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundPageNumberPosition" = "Oldalszámpozíció";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundRendererStyle" = "Oldalfejléc stílusa";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundSectionNumberColor" = "Rész számszín";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundSectionTitleColor" = "Rész címszín";
+
+/* (No Comment) */
+"_ObjectProperty_Book_style" = "Könyvtípus";
+
+/* (No Comment) */
+"_ObjectProperty_Book_styleFontScaling" = "Betűméretezés";
+
+/* (No Comment) */
+"_ObjectProperty_Book_templateClassName" = "Sablon";
+
+/* (No Comment) */
+"_ObjectProperty_Book_title" = "Cím";
+
+/* (No Comment) */
+"_ObjectProperty_Book_useTextualStyleAsDefault" = "Használja a szöveges stílust az új beszámolóhoz";
+
+/* Book */
+"_ObjectProperty_BookBaseItem_order" = "Index";
+
+/* (No Comment) */
+"_ObjectProperty_BookBaseObjectReportBuilder_baseObjectSection" = "Felérendelt rész";
+
+/* (No Comment) */
+"_ObjectProperty_BookBaseObjectsBasedReportBuilderObject_baseObject" = "Elem";
+
+/* (No Comment) */
+"_ObjectProperty_BookBaseObjectsBasedReportBuilderObject_baseObjectsBasedReportBuilderSection" = "Rész";
+
+/* (No Comment) */
+"_ObjectProperty_BookBaseObjectsBasedReportBuilderObject_order" = "Index";
+
+/* (No Comment) */
+"_ObjectProperty_BookBaseSection_alwaysWantsNewPageForItems" = "Alszekciók új oldalon";
+
+/* (No Comment) */
+"_ObjectProperty_BookBaseSection_bookChapter" = "Felérendelt fejezet";
+
+/* (No Comment) */
+"_ObjectProperty_BookBaseSection_name" = "Név";
+
+/* (No Comment) */
+"_ObjectProperty_BookChapter_chapterHighlightColor" = "Fejezet kiemelésszín";
+
+/* (No Comment) */
+"_ObjectProperty_BookChapter_chapterPageColor" = "Fejezetoldalszín";
+
+/* (No Comment) */
+"_ObjectProperty_BookChapter_chapterType" = "Fejezettípus";
+
+/* (No Comment) */
+"_ObjectProperty_BookChapter_name" = "Fejezetnév";
+
+/* (No Comment) */
+"_ObjectProperty_BookDiagramBaseObject_baseObject" = "Elem";
+
+/* (No Comment) */
+"_ObjectProperty_BookDiagramBaseObject_diagramReportBuilderSection" = "Rész";
+
+/* (No Comment) */
+"_ObjectProperty_BookPersonSection_person" = "Személy";
+
+/* (No Comment) */
+"_ObjectProperty_BookReportBuilderFamily_family" = "Család";
+
+/* (No Comment) */
+"_ObjectProperty_BookReportBuilderFamily_familyBasedReportBuilderSection" = "Rész";
+
+/* (No Comment) */
+"_ObjectProperty_BookReportBuilderPerson_person" = "Személy";
+
+/* (No Comment) */
+"_ObjectProperty_BookReportBuilderPerson_personBasedReportBuilderSection" = "Rész";
+
+/* (No Comment) */
+"_ObjectProperty_BookSerializedBaseReportBuilder_baseItem" = "Beszámolórész";
+
+/* (No Comment) */
+"_ObjectProperty_BookSerializedReportBuilder_serializedReportBuilderData" = "Beszámoló konfigurációja";
+
+/* (No Comment) */
+"_ObjectProperty_ChildRelation_child" = "Gyermek";
+
+/* (No Comment) */
+"_ObjectProperty_ChildRelation_family" = "Család";
+
+/* (No Comment) */
+"_ObjectProperty_ChildRelation_relationTypeToManInFamily" = "Az apához fűződő kapcsolat típusa";
+
+/* (No Comment) */
+"_ObjectProperty_ChildRelation_relationTypeToWomanInFamily" = "Az anyához fűződő kapcsolat típusa";
+
+/* ChildRelation */
+"_ObjectProperty_ChildRelation_type" = "Gyermekviszonytípus";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionAssociateRelationType_compatibleAssociatedContainerClassName" = "Hivatkozási cél";
+
+/* ConclusionAssociateRelationType */
+"_ObjectProperty_ConclusionAssociateRelationType_invertedTypeName" = "Invertált típusnév";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionAssociateRelationType_invertedTypeName_ForFamily" = "Névtípus a személy nézőpontjából";
+
+/* ConclusionToDoPriorityType */
+"_ObjectProperty_ConclusionToDoPriorityType_isDefault" = "Standard";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionToDoStatusType_isDefault" = "Standard";
+
+/* ConclusionToDoStatusType */
+"_ObjectProperty_ConclusionToDoStatusType_typeShouldBeConsideredAsDone" = "„Kész”-nek kell tekinteni";
+
+/* ConclusionToDoTypeType */
+"_ObjectProperty_ConclusionToDoTypeType_isDefault" = "Standard";
+
+/* ConclusionType */
+"_ObjectProperty_ConclusionType_gedcomTag" = "GEDCOM Tag";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_iconPNGData" = "Icon";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_identifier" = "Azonosító";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_isEnabled" = "Engedélyezett";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_isUserCreated" = "Felhasználó által létrehozott";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_showAsPlaceholder" = "Megjelenítés helyőrzőként";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_typeName" = "Névtípus";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_typeName_ForFamily" = "Névtípus a család nézőpontjából";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_typeNameLocalizationKey" = "Név lokalizációs kulcsa";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_generated_coordinate_string" = "Koordináták";
+
+/* Coordinate */
+"_ObjectProperty_Coordinate_latitude" = "Szélességi fok";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_latitudeDegrees" = "Szélességi fok - fokozat";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_latitudeIsSouth" = "Szélességi fok - betájolás";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_latitudeMinutes" = "Szélességi fok - percek";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_latitudeSeconds" = "Szélességi fok - másodpercek";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_longitude" = "Hosszúsági fok";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_longitudeDegrees" = "Hosszúsági fok - fokozat";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_longitudeIsWest" = "Hosszúsági fok - betájolás";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_longitudeMinutes" = "Hosszúsági fok - percek";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_longitudeSeconds" = "Hosszúsági fok - másodpercek";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_place" = "Hely";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_placeDetail" = "Helyrész";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestMTDNASubResult_haplogroupString" = "mfDNS Haplo-csoport";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestMTDNASubResultSNPDifference_differenceString" = "SNP különbség";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestMTDNASubResultSNPDifference_order" = "Sorrend";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestResult_dateString" = "Dátum";
+
+/* DNATestResult */
+"_ObjectProperty_DNATestResult_name" = "Tesztnév";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestResult_person" = "Személy";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestResult_templateIdentifier" = "Sablon";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestResult_urlToVendor" = "URL";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestYDNASubResult_haplogroupString" = "Y-DNA Haplo-csoport";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestYDNASubResultYSTRMarker_order" = "Sorrend";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestYDNASubResultYSTRMarker_strName" = "STR jelzőnév";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestYDNASubResultYSTRMarker_strValueString" = "STR jelzőérték";
+
+/* (No Comment) */
+"_ObjectProperty_Event_address" = "Lakcím";
+
+/* (No Comment) */
+"_ObjectProperty_Event_agency" = "Hatóság";
+
+/* (No Comment) */
+"_ObjectProperty_Event_assignedPlace" = "Hely";
+
+/* (No Comment) */
+"_ObjectProperty_Event_assignedPlaceDetail" = "Helyrész";
+
+/* (No Comment) */
+"_ObjectProperty_Event_cause" = "Ok";
+
+/* Event */
+"_ObjectProperty_Event_date" = "Dátum";
+
+/* (No Comment) */
+"_ObjectProperty_Event_ldsStatus" = "LDS státusz";
+
+/* (No Comment) */
+"_ObjectProperty_Event_ldsTempleCode" = "LDS templomkód";
+
+/* (No Comment) */
+"_ObjectProperty_Event_time" = "Idő";
+
+/* (No Comment) */
+"_ObjectProperty_Event_userDescription" = "Leírás";
+
+/* Fact */
+"_ObjectProperty_Fact_value" = "Érték";
+
+/* Family */
+"_ObjectProperty_Family_cached_marriageDate" = "Házasságkötési dátum";
+
+/* (No Comment) */
+"_ObjectProperty_Family_cached_marriageDateAsDate" = "Házasságkötési dátum";
+
+/* (No Comment) */
+"_ObjectProperty_Family_childRelations" = "Gyermekviszonyok";
+
+/* (No Comment) */
+"_ObjectProperty_Family_events" = "Családesemények";
+
+/* (No Comment) */
+"_ObjectProperty_Family_isBookmarked" = "Könyvjelzővel ellátott";
+
+/* (No Comment) */
+"_ObjectProperty_Family_man" = "Férfi";
+
+/* (No Comment) */
+"_ObjectProperty_Family_woman" = "Nő";
+
+/* FamilyEvent */
+"_ObjectProperty_FamilyEvent_conclusionType" = "Eseménytípus";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyEvent_family" = "Család";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressCity" = "Szerző lakcíme város";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressCountry" = "Szerző lakcíme ország";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressLine" = "Szerző lakcímsor 1";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressLine1" = "Szerző lakcímsor 2";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressLine2" = "Szerző lakcímsor 3";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressLine3" = "Szerző lakcímsor 4";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressPostalCode" = "Szerző lakcím Irányítószám";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressState" = "Szerző lakcím tartomány";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorEmail" = "Szerző e-mail";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorFax" = "Szerző fax";
+
+/* FamilyTreeInformation */
+"_ObjectProperty_FamilyTreeInformation_authorName" = "Szerző neve";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorPhoneNumber" = "Szerző telefonszáma";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorWebAddress" = "Szerző webcíme";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_mediaThumbnailsStyle" = "Médium miniatűr stílusa";
+
+/* Label */
+"_ObjectProperty_Label_colorComponentsString" = "Szín";
+
+/* (No Comment) */
+"_ObjectProperty_Label_title" = "Cím";
+
+/* MediaAudio */
+"_ObjectProperty_MediaAudio_audioFileIdentifier" = "Hang";
+
+/* MediaPDF */
+"_ObjectProperty_MediaPDF_pdfFileIdentifier" = "PDF";
+
+/* (No Comment) */
+"_ObjectProperty_MediaPDF_thumbnailFileIdentifier" = "Miniatűr nézet";
+
+/* MediaPicture */
+"_ObjectProperty_MediaPicture_pictureFileIdentifier" = "Kép";
+
+/* (No Comment) */
+"_ObjectProperty_MediaPicture_thumbnailFileIdentifier" = "Miniatűr nézet";
+
+/* MediaRelation */
+"_ObjectProperty_MediaRelation_hasMediaRelationAssignment" = "Van hozzárendelési területe";
+
+/* MediaURL */
+"_ObjectProperty_MediaURL_url" = "Honlap címe";
+
+/* (No Comment) */
+"_ObjectProperty_MediaVideo_thumbnailFileIdentifier" = "Miniatűr nézet";
+
+/* MediaVideo */
+"_ObjectProperty_MediaVideo_videoFileIdentifier" = "Videó";
+
+/* Note */
+"_ObjectProperty_Note_text" = "Szöveg";
+
+/* NoteContainer */
+"_ObjectProperty_NoteContainer_notes" = "Jegyzetek";
+
+/* OrderedConclusionType */
+"_ObjectProperty_OrderedConclusionType_order" = "Sorrend";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_birthDate" = "Születési dátum";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_birthDateAsDate" = "Születési dátum";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_christeningDate" = "Keresztelési időpont";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_christeningDateAsDate" = "Keresztelési időpont";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_deathDate" = "Elhalálozási dátum";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_deathDateAsDate" = "Elhalálozási dátum";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_fullName" = "Teljes név";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_fullNameForSorting" = "Teljes név használata a szortírozásnál";
+
+/* Person */
+"_ObjectProperty_Person_firstName" = "Keresztnév";
+
+/* (No Comment) */
+"_ObjectProperty_Person_firstNameSoundex" = "Keresztnév soundex-je";
+
+/* (No Comment) */
+"_ObjectProperty_Person_gender" = "Neme";
+
+/* (No Comment) */
+"_ObjectProperty_Person_isBookmarked" = "Könyvjelzővel ellátott";
+
+/* (No Comment) */
+"_ObjectProperty_Person_isStartPerson" = "Kijelölve kezdő személyként";
+
+/* (No Comment) */
+"_ObjectProperty_Person_lastName" = "Családnév";
+
+/* (No Comment) */
+"_ObjectProperty_Person_lastNameSoundex" = "Családnév soundex-je";
+
+/* (No Comment) */
+"_ObjectProperty_Person_marriedName" = "Házassági név";
+
+/* (No Comment) */
+"_ObjectProperty_Person_nameMiddle" = "Második keresztnév";
+
+/* (No Comment) */
+"_ObjectProperty_Person_nameMiddleSoundex" = "Második keresztnév soundex-je";
+
+/* (No Comment) */
+"_ObjectProperty_Person_namePrefix" = "Titulus";
+
+/* (No Comment) */
+"_ObjectProperty_Person_namePrefixSoundex" = "Cím soundex-je";
+
+/* (No Comment) */
+"_ObjectProperty_Person_nameSuffix" = "Névrag";
+
+/* (No Comment) */
+"_ObjectProperty_Person_nameSuffixSoundex" = "Rag soundex-je";
+
+/* PersonEvent */
+"_ObjectProperty_PersonEvent_conclusionType" = "Eseménytípus";
+
+/* (No Comment) */
+"_ObjectProperty_PersonEvent_person" = "Személy";
+
+/* PersonFact */
+"_ObjectProperty_PersonFact_conclusionType" = "Ténytípus";
+
+/* (No Comment) */
+"_ObjectProperty_PersonFact_person" = "Személy";
+
+/* PersonGroup */
+"_ObjectProperty_PersonGroup_name" = "Név";
+
+/* (No Comment) */
+"_ObjectProperty_PersonGroup_personGroupColor" = "Szín";
+
+/* (No Comment) */
+"_ObjectProperty_PersonGroup_userDescription" = "Leírás";
+
+/* (No Comment) */
+"_ObjectProperty_Place_alternatePlaceNames" = "Alternatív nevek";
+
+/* (No Comment) */
+"_ObjectProperty_Place_coordinate" = "Koordináták";
+
+/* (No Comment) */
+"_ObjectProperty_Place_country" = "Ország";
+
+/* (No Comment) */
+"_ObjectProperty_Place_county" = "Megye";
+
+/* (No Comment) */
+"_ObjectProperty_Place_geoNameID" = "GeoName ID";
+
+/* (No Comment) */
+"_ObjectProperty_Place_isBookmarked" = "Könyvjelzős";
+
+/* (No Comment) */
+"_ObjectProperty_Place_place" = "Hely";
+
+/* (No Comment) */
+"_ObjectProperty_Place_state" = "Állam";
+
+/* Place */
+"_ObjectProperty_Place_template" = "Helysablon";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceDetail_geoNameID" = "GeoName ID";
+
+/* PlaceDetail */
+"_ObjectProperty_PlaceDetail_name" = "Név";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceDetail_place" = "Hely";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceKeyValue_place" = "Hely";
+
+/* PlaceKeyValue */
+"_ObjectProperty_PlaceKeyValue_templateKey" = "Helysablonmező";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceKeyValue_value" = "Érték";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplate_countryIdentifier" = "Ország";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplate_isDefaultTemplate" = "Standard sablon";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplate_isFavoriteTemplate" = "Kedvenc sablon";
+
+/* PlaceTemplate */
+"_ObjectProperty_PlaceTemplate_name" = "Név";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKey_gedcomTag" = "GEDCOM FORM Tag helyhez";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKey_internationalName" = "Nemzetközi név";
+
+/* PlaceTemplateKey */
+"_ObjectProperty_PlaceTemplateKey_localName" = "Helyi név";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKey_order" = "Sorrend";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_normalCitationBracketMode" = "Normális idéző ​​zárójelek";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_normalCitationEnabled" = "Engedélyezett normális idézethez";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_normalCitationOrder" = "Normális idézet idézési sorrendje";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_normalCitationTrailingMode" = "Normális idézetelválasztó jel";
+
+/* PlaceTemplateKeyRelation */
+"_ObjectProperty_PlaceTemplateKeyRelation_order" = "Sorrend";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_shortCitationBracketMode" = "Rövid idéző ​​zárójelek";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_shortCitationEnabled" = "Engedélyezett rövid idézethez";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_shortCitationOrder" = "Rövid idézet idézési sorrendje";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_shortCitationTrailingMode" = "Rövid idézetelválasztó jel";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_veryShortCitationBracketMode" = "Nagyon rövid idéző ​​zárójelek";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_veryShortCitationEnabled" = "Engedélyezett nagyon rövid idézethez";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_veryShortCitationOrder" = "Nagyon rövid idézet idézési sorrendje";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_veryShortCitationTrailingMode" = "Nagyon rövid idézetelválasztó jel";
+
+/* (No Comment) */
+"_ObjectProperty_SavedBook_author" = "Szerző";
+
+/* SavedBook */
+"_ObjectProperty_SavedBook_bookData" = "Könyv";
+
+/* (No Comment) */
+"_ObjectProperty_SavedBook_subTitle" = "Alcím";
+
+/* (No Comment) */
+"_ObjectProperty_SavedBook_thumbnailData" = "Miniatűr nézet";
+
+/* SavedChart */
+"_ObjectProperty_SavedChart_chartObjectsContainerData" = "Diagram";
+
+/* (No Comment) */
+"_ObjectProperty_SavedChart_thumbnailData" = "Miniatűr nézet";
+
+/* SavedReport */
+"_ObjectProperty_SavedReport_reportControllerData" = "Beszámoló";
+
+/* (No Comment) */
+"_ObjectProperty_SavedReport_thumbnailData" = "Miniatűr nézet";
+
+/* (No Comment) */
+"_ObjectProperty_SavedView_date" = "Dátum";
+
+/* SavedView */
+"_ObjectProperty_SavedView_title" = "Titulus";
+
+/* (No Comment) */
+"_ObjectProperty_SavedWebsite_changeDate" = "Változtatás dátuma";
+
+/* SavedWebsite */
+"_ObjectProperty_SavedWebsite_fileIdentifier" = "Adat";
+
+/* (No Comment) */
+"_ObjectProperty_Scope_archivedFiltersContainerData" = "Intelligens szűrő leírása";
+
+/* Scope */
+"_ObjectProperty_Scope_scopeEntity" = "Intelligens szűrőtípus";
+
+/* (No Comment) */
+"_ObjectProperty_Scope_scopeName" = "Intelligens szűrőnév";
+
+/* (No Comment) */
+"_ObjectProperty_Source_isBookmarked" = "Könyvjelzővel ellátott";
+
+/* (No Comment) */
+"_ObjectProperty_Source_sourceRepository" = "Forrásarhívum";
+
+/* Source */
+"_ObjectProperty_Source_template" = "Forrássablon";
+
+/* (No Comment) */
+"_ObjectProperty_Source_text" = "Szöveg";
+
+/* SourceContainer */
+"_ObjectProperty_SourceContainer_sourceRelations" = "Forrásidézetek";
+
+/* (No Comment) */
+"_ObjectProperty_SourceKeyValue_source" = "Forrás";
+
+/* SourceKeyValue */
+"_ObjectProperty_SourceKeyValue_templateKey" = "Sablon-mező";
+
+/* (No Comment) */
+"_ObjectProperty_SourceKeyValue_value" = "Érték";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRelation_certainty" = "Biztosság";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRelation_page" = "Oldalszám";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRelation_qualityEvidence" = "Bizonyítékminőség";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRelation_qualityInformation" = "Információminőség";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRelation_qualitySource" = "Forrásminőség";
+
+/* SourceRelation */
+"_ObjectProperty_SourceRelation_source" = "Forrás";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRelation_sourceContainer" = "Hivatkozott beírás";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_address" = "Lakcím";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_addressLine1" = "Címsor 1";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_addressLine2" = "Címsor 2";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_addressLine3" = "Címsor 3";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_city" = "Város";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_country" = "Ország";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_email" = "E-Mail";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_fax" = "Fax";
+
+/* SourceRepository */
+"_ObjectProperty_SourceRepository_name" = "Név";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_phone" = "Telefon";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_postalCode" = "Irányítószám";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_state" = "Lakcím";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_www" = "WWW";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplate_isDefaultTemplate" = "Alapértelmezett sablon";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplate_isFavoriteTemplate" = "Kedvenc sablon";
+
+/* SourceTemplate */
+"_ObjectProperty_SourceTemplate_name" = "Név";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKey_gedcomTag" = "GEDCOM Tag";
+
+/* SourceTemplateKey */
+"_ObjectProperty_SourceTemplateKey_name" = "Mezőnév";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKey_order" = "Sorrend";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKey_type" = "Mezőtípus";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_isDateForDisplayComponent" = "Része a forrásdátumnak";
+
+/* SourceTemplateKeyRelation */
+"_ObjectProperty_SourceTemplateKeyRelation_isTitleComponent" = "Része a forráscímnek";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_longCitationBracketMode" = "Hosszú idéző ​​zárójelek";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_longCitationEnabled" = "Hosszú idézéshez engedélyezett";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_longCitationFontMode" = "Hosszú idézet betűtípusa";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_longCitationOrder" = "Hosszú idézet idézési sorrendje";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_longCitationTrailingMode" = "Hosszú idézetelválasztó jel";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_order" = "Sorrend";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_shortCitationBracketMode" = "Rövid idéző ​​zárójelek";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_shortCitationEnabled" = "Rövid idézéshez engedélyezett";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_shortCitationFontMode" = "Rövid idézet betűtípusa";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_shortCitationOrder" = "Rövid idézet idézési sorrendje";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_shortCitationTrailingMode" = "Rövid idézetelválasztó jel";
+
+/* (No Comment) */
+"_ObjectProperty_Story_fromDate" = "Dátumtól";
+
+/* Story */
+"_ObjectProperty_Story_title" = "Cím";
+
+/* (No Comment) */
+"_ObjectProperty_Story_toDate" = "Dátumig";
+
+/* (No Comment) */
+"_ObjectProperty_Story_userDescription" = "Leírás";
+
+/* (No Comment) */
+"_ObjectProperty_StorySection_order" = "Sorrend";
+
+/* StorySection */
+"_ObjectProperty_StorySection_subtitle" = "Szakaszcím";
+
+/* (No Comment) */
+"_ObjectProperty_StorySection_text" = "Szöveg";
+
+/* ToDo */
+"_ObjectProperty_ToDo_dueDate" = "Határidő dátuma";
+
+/* (No Comment) */
+"_ObjectProperty_ToDo_priorityConclusionType" = "Prioritás";
+
+/* (No Comment) */
+"_ObjectProperty_ToDo_statusConclusionType" = "Státusz";
+
+/* (No Comment) */
+"_ObjectProperty_ToDo_text" = "Szöveg";
+
+/* (No Comment) */
+"_ObjectProperty_ToDo_title" = "Cím";
+
+/* (No Comment) */
+"_ObjectProperty_ToDo_typeConclusionType" = "Típus";
+
+/* (No Comment) */
+"_ObjectType_AdditionalName" = "További név";
+
+/* (No Comment) */
+"_ObjectType_AssociateRelation" = "Befolyásos személyviszony";
+
+/* (No Comment) */
+"_ObjectType_BaseMedia" = "Médium";
+
+/* (No Comment) */
+"_ObjectType_BaseObjectFamilySearchProperties" = "FamilySearch-információ";
+
+/* (No Comment) */
+"_ObjectType_Book" = "Könyv";
+
+/* (No Comment) */
+"_ObjectType_BookBaseObjectReportBuilder" = "Személy/családbeszámoló";
+
+/* (No Comment) */
+"_ObjectType_BookBaseObjectsBasedReportBuilderObject" = "Beszámolórész objektum";
+
+/* (No Comment) */
+"_ObjectType_BookBaseObjectsBasedReportBuilderSection" = "Beszámolórész";
+
+/* (No Comment) */
+"_ObjectType_BookChapter" = "Könyvfejezet";
+
+/* (No Comment) */
+"_ObjectType_BookDiagramBaseObject" = "Digram-objektum-rész";
+
+/* (No Comment) */
+"_ObjectType_BookDiagramReportBuilderSection" = "Diagramrész %@";
+
+/* (No Comment) */
+"_ObjectType_BookFamilyBasedReportBuilderSection" = "Beszámolórész";
+
+/* (No Comment) */
+"_ObjectType_BookFamilySection" = "Családrész";
+
+/* (No Comment) */
+"_ObjectType_BookGenericReportBuilderSection" = "Beszámolórész";
+
+/* (No Comment) */
+"_ObjectType_BookPersonBasedReportBuilderSection" = "Beszámolórész";
+
+/* (No Comment) */
+"_ObjectType_BookPersonSection" = "Személyrész";
+
+/* (No Comment) */
+"_ObjectType_BookReportBuilderFamily" = "Beszámolórész család";
+
+/* (No Comment) */
+"_ObjectType_BookReportBuilderPerson" = "Beszámolórész személy";
+
+/* (No Comment) */
+"_ObjectType_BookSerializedBaseObjectReportBuilder" = "Beszámoló konfigurációja";
+
+/* (No Comment) */
+"_ObjectType_BookSerializedBaseReportBuilder" = "Beszámolórész konfigurációja";
+
+/* (No Comment) */
+"_ObjectType_BookSerializedChapterReportBuilder" = "Fejezetbeszámoló konfigurálása";
+
+/* (No Comment) */
+"_ObjectType_BookSerializedEditedReportBuilder" = "Szerkesztett beszámoló konfigurációja";
+
+/* (No Comment) */
+"_ObjectType_ChangeLogEntry" = "Változtatási napló";
+
+/* (No Comment) */
+"_ObjectType_ChangeLogSubEntry" = "Változtatási naplóbeírás";
+
+/* (No Comment) */
+"_ObjectType_ChildRelation" = "Gyermekviszony";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerCloudKitChangesWorklist" = "CloudTree szinkronizálási információ";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerCloudKitChangesWorklistAddVerifyListItem" = "CloudTree szinkronizálási információ";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerCloudKitChangesWorklistForRecordType" = "CloudTree szinkronizálási információ";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerCloudKitChangesWorklistForRecordTypeEntry" = "CloudTree szinkronizálási információ";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerCloudKitChangesWorklistZoneNameServerChangeToken" = "CloudTree szinkronizálási információ";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerLocalChangesWorklist" = "CloudTree szinkronizálási információ";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerLocalChangesWorklistDanglingReferenceEntry" = "CloudTree szinkronizálási információ";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerLocalChangesWorklistFinalDeleteEntry" = "CloudTree szinkronizálási információ";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerLocalChangesWorklistForEntity" = "CloudTree szinkronizálási információ";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerLocalChangesWorklistForEntityEntry" = "CloudTree szinkronizálási információ";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerLocalChangesWorklistPostponedEntry" = "CloudTree szinkronizálási információ";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerSpecialPostDownloadStep" = "CloudTree szinkronizálási információ";
+
+/* (No Comment) */
+"_ObjectType_ConclusionAdditionalNameType" = "További névtípus";
+
+/* (No Comment) */
+"_ObjectType_ConclusionAssociateRelationType" = "Befolyásos kapcsolattípus";
+
+/* (No Comment) */
+"_ObjectType_ConclusionFamilyEventType" = "Családeseménytípus";
+
+/* (No Comment) */
+"_ObjectType_ConclusionPersonEventType" = "Személyeseménytípus";
+
+/* (No Comment) */
+"_ObjectType_ConclusionPersonFactType" = "Személyténytípus";
+
+/* (No Comment) */
+"_ObjectType_Coordinate" = "Koordináták";
+
+/* (No Comment) */
+"_ObjectType_DNATestATDNASubResult" = "Autoszomális DNS-eredményinformációk";
+
+/* (No Comment) */
+"_ObjectType_DNATestBaseSubResultRawDataFile" = "DNS nyersadatok";
+
+/* (No Comment) */
+"_ObjectType_DNATestMTDNASubResult" = "mtDNS tesztinformáció";
+
+/* (No Comment) */
+"_ObjectType_DNATestMTDNASubResultSNPDifference" = "mtDNS SNP különbségek";
+
+/* (No Comment) */
+"_ObjectType_DNATestResult" = "DNS teszteredmény";
+
+/* (No Comment) */
+"_ObjectType_DNATestYDNASubResult" = "Y-DNS teszteredmény";
+
+/* (No Comment) */
+"_ObjectType_DNATestYDNASubResultYSTRMarker" = "Y-DNS STR jelző";
+
+/* (No Comment) */
+"_ObjectType_Event" = "Esemény";
+
+/* (No Comment) */
+"_ObjectType_Fact" = "Tény";
+
+/* (No Comment) */
+"_ObjectType_Family" = "Család";
+
+/* (No Comment) */
+"_ObjectType_FamilyEvent" = "Családesemény";
+
+/* (No Comment) */
+"_ObjectType_FamilySearchKnownBadFurtherInformationMatch" = "FamilySearch-információ";
+
+/* (No Comment) */
+"_ObjectType_FamilySearchKnownBadPersonMatch" = "FamilySearch-információ";
+
+/* (No Comment) */
+"_ObjectType_FamilyTreeInformation" = "Családfa-információ";
+
+/* (No Comment) */
+"_ObjectType_Label" = "Címke";
+
+/* (No Comment) */
+"_ObjectType_LabelRelation" = "Címkekapcsolat";
+
+/* (No Comment) */
+"_ObjectType_MediaAudio" = "Hang médium";
+
+/* (No Comment) */
+"_ObjectType_MediaPDF" = "PDF médium";
+
+/* (No Comment) */
+"_ObjectType_MediaPicture" = "Kép médium";
+
+/* (No Comment) */
+"_ObjectType_MediaRelation" = "Médiumviszony";
+
+/* (No Comment) */
+"_ObjectType_MediaRelationAssignment" = "Médiumviszony hozzárendelése";
+
+/* (No Comment) */
+"_ObjectType_MediaRelationAssignmentPicture" = "Médiumviszonyhozzárendelés képhez";
+
+/* (No Comment) */
+"_ObjectType_MediaURL" = "URL médium";
+
+/* (No Comment) */
+"_ObjectType_MediaVideo" = "Videó médium";
+
+/* (No Comment) */
+"_ObjectType_Note" = "Jegyzet";
+
+/* Object Types */
+"_ObjectType_Person" = "Személy";
+
+/* (No Comment) */
+"_ObjectType_PersonEvent" = "Személyesemény";
+
+/* (No Comment) */
+"_ObjectType_PersonFact" = "Személytény";
+
+/* (No Comment) */
+"_ObjectType_PersonGroup" = "Személycsoport";
+
+/* (No Comment) */
+"_ObjectType_PersonGroupRelation" = "Személycsoport kapcsolat";
+
+/* (No Comment) */
+"_ObjectType_Place" = "Hely";
+
+/* (No Comment) */
+"_ObjectType_PlaceDetail" = "Helyrész";
+
+/* (No Comment) */
+"_ObjectType_PlaceKeyValue" = "Helyérték";
+
+/* (No Comment) */
+"_ObjectType_PlaceTemplate" = "Helysablon";
+
+/* (No Comment) */
+"_ObjectType_PlaceTemplateKey" = "Helysablonmező";
+
+/* (No Comment) */
+"_ObjectType_PlaceTemplateKeyRelation" = "Helysablonmezőkapcsolat";
+
+/* (No Comment) */
+"_ObjectType_ResearchAssistantQuestionInfo" = "Böngészőasszisztensinformáció";
+
+/* (No Comment) */
+"_ObjectType_SavedBook" = "Mentett könyv";
+
+/* (No Comment) */
+"_ObjectType_SavedChart" = "Mentett diagram";
+
+/* (No Comment) */
+"_ObjectType_SavedReport" = "Beszámoló";
+
+/* (No Comment) */
+"_ObjectType_SavedWebsite" = "Elmentett honlap";
+
+/* (No Comment) */
+"_ObjectType_Scope" = "Intelligens szűrő";
+
+/* (No Comment) */
+"_ObjectType_Source" = "Forrás";
+
+/* (No Comment) */
+"_ObjectType_SourceKeyValue" = "Forrásérték";
+
+/* (No Comment) */
+"_ObjectType_SourceRelation" = "Forrásidézet";
+
+/* (No Comment) */
+"_ObjectType_SourceRepository" = "Forrásarhívum";
+
+/* (No Comment) */
+"_ObjectType_SourceTemplate" = "Forrássablon";
+
+/* (No Comment) */
+"_ObjectType_SourceTemplateKey" = "Forrás-sablon-mező";
+
+/* (No Comment) */
+"_ObjectType_SourceTemplateKeyRelation" = "Forrássablon-mező-kapcsolat";
+
+/* (No Comment) */
+"_ObjectType_Story" = "Történet";
+
+/* (No Comment) */
+"_ObjectType_StoryRelation" = "Történetkapcsolat";
+
+/* (No Comment) */
+"_ObjectType_StorySection" = "Történetszakasz";
+
+/* (No Comment) */
+"_ObjectType_StorySectionRelation" = "Történetrészkapcsolat";
+
+/* (No Comment) */
+"_ObjectType_ToDo" = "Feladat";
+
+/* (No Comment) */
+"_ObjectType_ToDoRelation" = "Feladat kapcsolat";
+
+/* (No Comment) */
+"_Person_ChangeLog_Added" = "Személy hozzáfűzve";
+
+/* (No Comment) */
+"_Person_ChangeLog_ConflictResolved" = "A beírás '%@' konfliktusát megszűntette '%@'";
+
+/* (No Comment) */
+"_Person_ChangeLog_Deleted" = "'%@' személy törölve";
+
+/* (No Comment) */
+"_Person_ChangeLogKey" = "Személy %@";
+
+/* (No Comment) */
+"_Person_ChangeLogPropertyKey_FirstName" = "Keresztnév megváltozott '%@'-ról '%@'-ra";
+
+/* (No Comment) */
+"_Person_ChangeLogPropertyKey_Gender" = "Neme megváltozott '%@'-ról '%@'-ra";
+
+/* (No Comment) */
+"_Person_ChangeLogPropertyKey_LastName" = "Vezetéknév megváltozott '%@'-ról '%@'-ra";
+
+/* (No Comment) */
+"_Person_ChangeLogPropertyKey_NameMiddle" = "Második keresztnév megváltozott '%@'-ról '%@'-ra";
+
+/* (No Comment) */
+"_Person_ChangeLogPropertyKey_NamePrefix" = "Névelőtag megváltozott '%@'-ról '%@'-ra";
+
+/* (No Comment) */
+"_Person_ChangeLogPropertyKey_NameSuffix" = "Névutótag megváltozott '%@'-ról '%@'-ra";
+
+/* (No Comment) */
+"_PlaceTemplateKeyRelation_relationUsage" = "Használat";
+
+/* (No Comment) */
+"_Source_ChangeLog_Added" = "Forrás hozzáfűzve";
+
+/* (No Comment) */
+"_Source_ChangeLog_ConflictResolved" = "A forrás beírásának '%@' konfliktusát megszűntette '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLog_Deleted" = "'%@' forrás törölve";
+
+/* (No Comment) */
+"_Source_ChangeLogKey" = "%@ forrás";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Abbreviation" = "Rövidítés megváltozott '%@'-ról '%@'-ra";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Agency" = "Ügynökség megváltozott '%@'-ról '%@'-ra";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Author" = "Szerző megváltozott '%@'-ról '%@'-ra";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Date" = "Dátum megváltozott '%@'-ról '%@'-ra";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Place" = "hely megváltozott '%@'-ról '%@'-ra";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Publication" = "Publikáció megváltozott '%@'-ról '%@'-ra";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_ReferenceNumber" = "Hivatkozási szám megváltozott '%@'-ról '%@'-ra";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_ReferenceType" = "Hivatkozási típus megváltozott '%@'-ról '%@'-ra";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Text" = "Szöveg megváltozott";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Title" = "Titulus megváltozott '%@'-ról '%@'-ra";
+
+/* (No Comment) */
+"_SourceKeyValue_ChangeLog_Added" = "'%@' érték hozzáfűzve";
+
+/* (No Comment) */
+"_SourceKeyValue_ChangeLog_ConflictResolvedForValueProperty" = "A '%@' értékkonfliktus megoldása: '%@'";
+
+/* (No Comment) */
+"_SourceKeyValue_ChangeLog_Deleted" = "'%@' érték törölve";
+
+/* (No Comment) */
+"_SourceKeyValue_ChangeLogPropertyKey_Value" = "'%@' érték módosult '%@'-ról '%@'-re";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLog_SourceContainerDelete" = "Forrásidézet törölve' %@'-ból";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLog_SourceDelete" = "'%@' forrásidézet törölve";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLogPropertyKey_Page" = "'%@' forrás forrásidézetének oldala megváltozott '%@'-ról '%@'-ra";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLogPropertyKey_QualityEvidence" = "'%@' forrás forrásidézetének nyilvánvalósága megváltozott '%@'-ról '%@'-ra";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLogPropertyKey_QualityInformation" = "'%@' forrás forrásidézetének információminősége megváltozott '%@'-ról '%@'-ra";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLogPropertyKey_QualitySource" = "'%@' forrás forrásidézetének forrásminősége megváltozott '%@'-ról '%@'-ra";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLogPropertyKey_Source" = "Forrásidézetként hozzáfűzve '%@'-hoz";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLogPropertyKey_SourceContainer" = "'%@' forrásidézet hozzáfűzve";
+

@@ -1,0 +1,837 @@
+﻿/* (No Comment) */
+"_Common_Accept" = "Acceptera";
+
+/* (No Comment) */
+"_Common_Actions" = "Åtgärder";
+
+/* (No Comment) */
+"_Common_AddButton" = "Lägg till";
+
+/* (No Comment) */
+"_Common_Age" = "Ålder";
+
+/* (No Comment) */
+"_Common_AscendingSortOrder" = "Stigande";
+
+/* (No Comment) */
+"_Common_AssignButton" = "Tilldela";
+
+/* (No Comment) */
+"_Common_Assigned_Entries" = "Tilldelade poster";
+
+/* (No Comment) */
+"_Common_Authority" = "Myndighet";
+
+/* (No Comment) */
+"_Common_Back" = "Tillbaka";
+
+/* (No Comment) */
+"_Common_BackgroundColor" = "Bakgrundsfärg";
+
+/* (No Comment) */
+"_Common_BirthDate" = "Födelsedatum";
+
+/* (No Comment) */
+"_Common_BirthPlace" = "Födelseort";
+
+/* (No Comment) */
+"_Common_Black" = "Svart";
+
+/* (No Comment) */
+"_Common_BrothersAndSisters" = "Syskon";
+
+/* (No Comment) */
+"_Common_CancelButton" = "Avbryt";
+
+/* (No Comment) */
+"_Common_Cause" = "Orsak";
+
+/* (No Comment) */
+"_Common_ChangeButton" = "Ändra";
+
+/* (No Comment) */
+"_Common_ChangeDate" = "Ändra datum";
+
+/* (No Comment) */
+"_Common_Chart" = "Diagram";
+
+/* (No Comment) */
+"_Common_Child" = "Barn";
+
+/* (No Comment) */
+"_Common_ChildCountPlural" = "%d barn";
+
+/* (No Comment) */
+"_Common_ChildCountPluralString" = "%@ barn";
+
+/* (No Comment) */
+"_Common_ChildCountSingular" = "%d barn";
+
+/* (No Comment) */
+"_Common_ChildCountSingularString" = "%@ barn";
+
+/* (No Comment) */
+"_Common_Children" = "Barn";
+
+/* (No Comment) */
+"_Common_Childs" = "Barn";
+
+/* (No Comment) */
+"_Common_ChristeningDate" = "Dopdatum";
+
+/* (No Comment) */
+"_Common_ChristeningPlace" = "Doport";
+
+/* (No Comment) */
+"_Common_Citation_Notes" = "Citation Notes";
+
+/* (No Comment) */
+"_Common_CloseButton" = "Stäng";
+
+/* (No Comment) */
+"_Common_Color" = "Färg";
+
+/* (No Comment) */
+"_Common_Colors_Blue" = "Blått";
+
+/* (No Comment) */
+"_Common_Colors_Green" = "Grönt";
+
+/* (No Comment) */
+"_Common_Colors_Magenta" = "Magenta";
+
+/* (No Comment) */
+"_Common_Colors_Orange" = "Orange";
+
+/* Colors */
+"_Common_Colors_Red" = "Rött";
+
+/* (No Comment) */
+"_Common_Colors_Turquoise" = "Turkos";
+
+/* (No Comment) */
+"_Common_Colors_Yellow" = "Gul";
+
+/* Keys */
+"_Common_CommandKey" = "⌘";
+
+/* Contextual */
+"_Common_ContextualMenu_ChangeLabel" = "Ändra etikett";
+
+/* (No Comment) */
+"_Common_ContinueButton" = "Fortsätt";
+
+/* (No Comment) */
+"_Common_ControlKey" = "CTRL";
+
+/* (No Comment) */
+"_Common_CopyButton" = "Kopiera";
+
+/* (No Comment) */
+"_Common_Count" = "Antal";
+
+/* (No Comment) */
+"_Common_Country" = "Land";
+
+/* (No Comment) */
+"_Common_County" = "Kommun";
+
+/* (No Comment) */
+"_Common_Create" = "Skapa";
+
+/* (No Comment) */
+"_Common_CreationDate" = "Skapelsedatum";
+
+/* (No Comment) */
+"_Common_Date" = "Datum";
+
+/* (No Comment) */
+"_Common_DeathDate" = "Dödsdatum";
+
+/* (No Comment) */
+"_Common_DeathPlace" = "Dödsort";
+
+/* (No Comment) */
+"_Common_Decline" = "Avslå";
+
+/* (No Comment) */
+"_Common_Default" = "Standard";
+
+/* (No Comment) */
+"_Common_DeleteAllButton" = "Radera allt";
+
+/* (No Comment) */
+"_Common_DeleteButton" = "Radera";
+
+/* (No Comment) */
+"_Common_DeleteWithObject" = "Radera '%@'";
+
+/* (No Comment) */
+"_Common_DescendingSortOrder" = "Fallande";
+
+/* (No Comment) */
+"_Common_Description" = "Beskrivning";
+
+/* (No Comment) */
+"_Common_DisableButton" = "Inaktivera";
+
+/* (No Comment) */
+"_Common_Discard" = "Ta bort";
+
+/* (No Comment) */
+"_Common_DisplayButton" = "Visa";
+
+/* (No Comment) */
+"_Common_Done" = "Klar";
+
+/* (No Comment) */
+"_Common_DontAskAgainButton" = "Fråga inte igen";
+
+/* (No Comment) */
+"_Common_Download" = "Hämta";
+
+/* (No Comment) */
+"_Common_DuplicateButton" = "Dubblett";
+
+/* (No Comment) */
+"_Common_Edit" = "Redigera";
+
+/* (No Comment) */
+"_Common_EditWithObject" = "Redigera '%@'";
+
+/* (No Comment) */
+"_Common_EnableButton" = "Aktivera";
+
+/* (No Comment) */
+"_Common_Entries" = "Poster";
+
+/* (No Comment) */
+"_Common_EntryCountPlural" = "%d inmatningar";
+
+/* (No Comment) */
+"_Common_EntryCountPluralString" = "%@ inmatningar";
+
+/* (No Comment) */
+"_Common_EntryCountSingular" = "%d inmatning";
+
+/* (No Comment) */
+"_Common_EntryCountSingularString" = "%@ inmatning";
+
+/* (No Comment) */
+"_Common_Error" = "Fel";
+
+/* Errors */
+"_Common_Errors_NoInternetConnection" = "Inget internet tillgängligt";
+
+/* (No Comment) */
+"_Common_Event" = "Händelse";
+
+/* (No Comment) */
+"_Common_EventCountPlural" = "%d händelser";
+
+/* (No Comment) */
+"_Common_EventCountSingular" = "%d händelse";
+
+/* (No Comment) */
+"_Common_Events" = "Händelser";
+
+/* (No Comment) */
+"_Common_EventsAtThisPlace" = "Händelser på denna ort";
+
+/* (No Comment) */
+"_Common_Example" = "Exempel";
+
+/* (No Comment) */
+"_Common_Export" = "Exportera";
+
+/* (No Comment) */
+"_Common_Fact" = "Fakta";
+
+/* (No Comment) */
+"_Common_Facts" = "Uppgifter";
+
+/* (No Comment) */
+"_Common_Families" = "Familjer";
+
+/* (No Comment) */
+"_Common_Family" = "Familj";
+
+/* (No Comment) */
+"_Common_FamilyEvents" = "Familjehändelser";
+
+/* (No Comment) */
+"_Common_FamilyTree" = "Släktträd";
+
+/* (No Comment) */
+"_Common_Father" = "Far";
+
+/* (No Comment) */
+"_Common_Favorite" = "Favorit";
+
+/* (No Comment) */
+"_Common_Favorites" = "Favoriter";
+
+/* (No Comment) */
+"_Common_Female" = "Kvinna";
+
+/* (No Comment) */
+"_Common_FirstName" = "Förnamn";
+
+/* (No Comment) */
+"_Common_FontStyle_Bold" = "Fett";
+
+/* (No Comment) */
+"_Common_FontStyle_BoldItalic" = "Fett kursivt";
+
+/* (No Comment) */
+"_Common_FontStyle_Italic" = "Kursivt";
+
+/* (No Comment) */
+"_Common_FontStyle_Light" = "Ljus";
+
+/* (No Comment) */
+"_Common_FontStyle_Medium" = "Medium";
+
+/* Font Styles */
+"_Common_FontStyle_Normal" = "Normal";
+
+/* (No Comment) */
+"_Common_FontStyle_SemiBold" = "Halvfett";
+
+/* Common */
+"_Common_Gender" = "Kön";
+
+/* (No Comment) */
+"_Common_Generation" = "Generation";
+
+/* (No Comment) */
+"_Common_GenerationsPluralString" = "%d generationer";
+
+/* (No Comment) */
+"_Common_GenerationsSingularString" = "%d generation";
+
+/* (No Comment) */
+"_Common_Generic" = "Generisk";
+
+/* (No Comment) */
+"_Common_Help" = "Hjälp";
+
+/* (No Comment) */
+"_Common_HideKeyboard" = "Dölj tangentbordet";
+
+/* (No Comment) */
+"_Common_IgnoreButton" = "Ignorera";
+
+/* (No Comment) */
+"_Common_Image" = "Bild";
+
+/* (No Comment) */
+"_Common_ImportButton" = "Importera";
+
+/* Localization */
+"_Common_InternationalLocalization" = "Internationell";
+
+/* (No Comment) */
+"_Common_Intersex" = "Intersexuell";
+
+/* (No Comment) */
+"_Common_IsAssignedToFamilySearch" = "Har delats till FamilySearch";
+
+/* (No Comment) */
+"_Common_IsBookmarked" = "Bokmärkt";
+
+/* (No Comment) */
+"_Common_IsNotAssignedToFamilySearch" = "Har inte delats till Family Search";
+
+/* (No Comment) */
+"_Common_IsNotBookmarked" = "Ej bokmärkt";
+
+/* (No Comment) */
+"_Common_Label" = "Etikett";
+
+/* (No Comment) */
+"_Common_Labels" = "Etiketter";
+
+/* (No Comment) */
+"_Common_LastName" = "Efternamn";
+
+/* (No Comment) */
+"_Common_LaterButton" = "Senare";
+
+/* (No Comment) */
+"_Common_Link" = "Länk";
+
+/* (No Comment) */
+"_Common_LoginButton" = "Logga in";
+
+/* (No Comment) */
+"_Common_LogoutButton" = "Logga ut";
+
+/* (No Comment) */
+"_Common_Male" = "Manlig";
+
+/* (No Comment) */
+"_Common_Man" = "Man";
+
+/* (No Comment) */
+"_Common_MarkAsSeen" = "Markera som sedd";
+
+/* (No Comment) */
+"_Common_Marriage" = "Vigsel";
+
+/* (No Comment) */
+"_Common_MarriageDate" = "Vigseldatum";
+
+/* (No Comment) */
+"_Common_MarriagePlace" = "Vigselort";
+
+/* (No Comment) */
+"_Common_Media" = "Media";
+
+/* (No Comment) */
+"_Common_MergeButton" = "Slå samman";
+
+/* (No Comment) */
+"_Common_MiddleName" = "Mellannamn";
+
+/* (No Comment) */
+"_Common_Mother" = "Mor";
+
+/* (No Comment) */
+"_Common_MultipleSelected" = "%d har valts";
+
+/* (No Comment) */
+"_Common_Name" = "Namn";
+
+/* (No Comment) */
+"_Common_NeverButton" = "Aldrig";
+
+/* (No Comment) */
+"_Common_NextButton" = "Nästa";
+
+/* (No Comment) */
+"_Common_No" = "Nej";
+
+/* (No Comment) */
+"_Common_NoChildrenPlaceholder" = "Inga barn";
+
+/* (No Comment) */
+"_Common_NoConclusionTypesPlaceholder" = "Inga artiklar";
+
+/* (No Comment) */
+"_Common_NoDatePlaceholder" = "Inget datum";
+
+/* Empty */
+"_Common_NoInformationEnteredTooltip" = "Ingen Information har angetts";
+
+/* (No Comment) */
+"_Common_NoLabelsPlaceholder" = "Inga etiketter";
+
+/* (No Comment) */
+"_Common_NoManPlaceholder" = "Ingen man";
+
+/* (No Comment) */
+"_Common_NoNameAvailable" = "Inget namn tillgängligt";
+
+/* (No Comment) */
+"_Common_None" = "Inget";
+
+/* Selected Counts */
+"_Common_NoneSelected" = "Ingen har valts";
+
+/* (No Comment) */
+"_Common_NoPartnerPlaceholder" = "Ingen partner";
+
+/* (No Comment) */
+"_Common_NoPersonGroupsPlaceholder" = "Inga persongrupper";
+
+/* Placeholders */
+"_Common_NoPersonPlaceholder" = "Inga personer införda";
+
+/* (No Comment) */
+"_Common_NoPlacePlaceholder" = "Ingen ort";
+
+/* (No Comment) */
+"_Common_NoSourceTemplateKeysPlaceholder" = "Inget källmallsfält";
+
+/* (No Comment) */
+"_Common_Note" = "Anteckning";
+
+/* (No Comment) */
+"_Common_Notes" = "Anteckningar";
+
+/* (No Comment) */
+"_Common_NothingToSelected" = "Inget att välja";
+
+/* (No Comment) */
+"_Common_Now" = "Idag";
+
+/* (No Comment) */
+"_Common_NoWomanPlaceholder" = "Ingen kvinna";
+
+/* (No Comment) */
+"_Common_NumberingSystem" = "Numreringssystem";
+
+/* Buttons */
+"_Common_OKButton" = "OK";
+
+/* (No Comment) */
+"_Common_OKDontAskAgainButton" = "OK. Fråga inte igen";
+
+/* (No Comment) */
+"_Common_OneSelected" = "En har valts";
+
+/* (No Comment) */
+"_Common_OpenButton" = "Öppna";
+
+/* (No Comment) */
+"_Common_OpenInBrowser" = "Öppna i webbläsaren";
+
+/* (No Comment) */
+"_Common_OptionsButton" = "Alternativ";
+
+/* (No Comment) */
+"_Common_Order" = "Följd";
+
+/* (No Comment) */
+"_Common_OtherNames" = "Andra namn";
+
+/* (No Comment) */
+"_Common_Others" = "Annat";
+
+/* (No Comment) */
+"_Common_Page" = "Sida";
+
+/* (No Comment) */
+"_Common_Parent1" = "Förälder 1";
+
+/* (No Comment) */
+"_Common_Parent2" = "Förälder 2";
+
+/* (No Comment) */
+"_Common_Parents" = "Föräldrar";
+
+/* (No Comment) */
+"_Common_Partner" = "Partner";
+
+/* (No Comment) */
+"_Common_Partner1" = "Partner 1";
+
+/* (No Comment) */
+"_Common_Partner2" = "Partner 2";
+
+/* (No Comment) */
+"_Common_Partners" = "Partner";
+
+/* (No Comment) */
+"_Common_Person" = "Person";
+
+/* (No Comment) */
+"_Common_PersonCountPlural" = "%d personer";
+
+/* (No Comment) */
+"_Common_PersonCountPluralString" = "%@ personer";
+
+/* Counts */
+"_Common_PersonCountSingular" = "%d person";
+
+/* (No Comment) */
+"_Common_PersonCountSingularString" = "%@ person";
+
+/* Events & Facts */
+"_Common_PersonEvents" = "Personhändelser";
+
+/* (No Comment) */
+"_Common_PersonFacts" = "Personuppgifter";
+
+/* (No Comment) */
+"_Common_Persons" = "Personer";
+
+/* (No Comment) */
+"_Common_Picture" = "Bild";
+
+/* (No Comment) */
+"_Common_Pictures" = "Bilder";
+
+/* (No Comment) */
+"_Common_Place" = "Ort";
+
+/* (No Comment) */
+"_Common_PlaceDetail" = "Ortsdetalj";
+
+/* (No Comment) */
+"_Common_Places" = "Orter";
+
+/* (No Comment) */
+"_Common_PleaseWaitPlaceholder" = "Vänta…";
+
+/* Population Prefix */
+"_Common_Population" = "Befolkning: %@";
+
+/* (No Comment) */
+"_Common_PrefixName" = "Titel";
+
+/* (No Comment) */
+"_Common_PreviousButton" = "Föregående";
+
+/* (No Comment) */
+"_Common_Print" = "Skriv ut";
+
+/* Progress Counts */
+"_Common_ProgressCount" = "%d av %d";
+
+/* (No Comment) */
+"_Common_ProgressCountAsString" = "%@ av %@";
+
+/* (No Comment) */
+"_Common_QuitButton" = "Avsluta";
+
+/* (No Comment) */
+"_Common_ReferenceNumber" = "Referensnummer";
+
+/* (No Comment) */
+"_Common_RejectButton" = "Avfärda";
+
+/* (No Comment) */
+"_Common_RemoveButton" = "Ta bort";
+
+/* (No Comment) */
+"_Common_RenameButton" = "Byt namn";
+
+/* (No Comment) */
+"_Common_ReplaceButton" = "Ersätt";
+
+/* (No Comment) */
+"_Common_ResetButton" = "Återställ";
+
+/* (No Comment) */
+"_Common_RetryButton" = "Försök igen";
+
+/* (No Comment) */
+"_Common_Save" = "Spara";
+
+/* (No Comment) */
+"_Common_SaveButton" = "Spara";
+
+/* (No Comment) */
+"_Common_Search" = "Sök";
+
+/* (No Comment) */
+"_Common_Search_Clear" = "Radera";
+
+/* (No Comment) */
+"_Common_Search_Menu_Title" = "Sök efter";
+
+/* (No Comment) */
+"_Common_Search_Options" = "Sökalternativ...";
+
+/* (No Comment) */
+"_Common_Search_Recent" = "Senaste sökningar";
+
+/* (No Comment) */
+"_Common_Section" = "Avsnitt";
+
+/* (No Comment) */
+"_Common_SelectButton" = "Välj";
+
+/* (No Comment) */
+"_Common_Settings" = "Inställningar";
+
+/* (No Comment) */
+"_Common_SkipButton" = "Hoppa över";
+
+/* (No Comment) */
+"_Common_Sorting_ByBirthDate" = "Efter födelsedatum";
+
+/* (No Comment) */
+"_Common_Sorting_ByBirthPlace" = "Efter födelseort";
+
+/* (No Comment) */
+"_Common_Sorting_ByDate" = "Efter datum";
+
+/* (No Comment) */
+"_Common_Sorting_ByDeathDate" = "Efter dödsdatum";
+
+/* (No Comment) */
+"_Common_Sorting_ByDeathPlace" = "Efter dödsort";
+
+/* (No Comment) */
+"_Common_Sorting_ByFirstName" = "Efter förnamn";
+
+/* (No Comment) */
+"_Common_Sorting_ByLastName" = "Efter efternamn";
+
+/* Sorting */
+"_Common_Sorting_ByName" = "Efter namn";
+
+/* (No Comment) */
+"_Common_Sorting_ByScore" = "Efter punkter";
+
+/* (No Comment) */
+"_Common_Source" = "Källa";
+
+/* (No Comment) */
+"_Common_SourceCitationsPlural" = "%d citat";
+
+/* (No Comment) */
+"_Common_SourceCitationsPluralString" = "%@ citat";
+
+/* (No Comment) */
+"_Common_SourceCitationsSingular" = "%d citat";
+
+/* (No Comment) */
+"_Common_SourceCitationsSingularString" = "%@ citat";
+
+/* (No Comment) */
+"_Common_Sources" = "Källor";
+
+/* (No Comment) */
+"_Common_State" = "Län";
+
+/* (No Comment) */
+"_Common_StopSharingButton" = "Sluta dela";
+
+/* (No Comment) */
+"_Common_SuffixName" = "Suffix";
+
+/* (No Comment) */
+"_Common_Text" = "Text";
+
+/* (No Comment) */
+"_Common_Title" = "Titel";
+
+/* (No Comment) */
+"_Common_ToDo" = "Uppgift";
+
+/* (No Comment) */
+"_Common_ToDos" = "Uppgift";
+
+/* (No Comment) */
+"_Common_Toggle" = "Toggla alla";
+
+/* (No Comment) */
+"_Common_Type" = "Typ";
+
+/* (No Comment) */
+"_Common_Unknown" = "Okänd";
+
+/* (No Comment) */
+"_Common_UnknownGender" = "Okänt kön";
+
+/* (No Comment) */
+"_Common_UnknownPerson" = "Okänd person";
+
+/* (No Comment) */
+"_Common_Unlimited" = "Obegränsad";
+
+/* (No Comment) */
+"_Common_UnnamedChart" = "Namnlöst diagram";
+
+/* (No Comment) */
+"_Common_UnnamedFamily" = "Namnlös familj";
+
+/* (No Comment) */
+"_Common_UnnamedLabel" = "Namnlös etikett";
+
+/* (No Comment) */
+"_Common_UnnamedMedia" = "Namnlösa medier";
+
+/* (No Comment) */
+"_Common_UnnamedPerson" = "Namnlös person";
+
+/* (No Comment) */
+"_Common_UnnamedPersonGroup" = "Namnlös persongrupp";
+
+/* (No Comment) */
+"_Common_UnnamedPlace" = "Namnlös ort";
+
+/* (No Comment) */
+"_Common_UnnamedPlaceDetail" = "Namnlös ortsdetalj";
+
+/* (No Comment) */
+"_Common_UnnamedPlaceTemplate" = "Namnlös ortsmall";
+
+/* (No Comment) */
+"_Common_UnnamedPlaceTemplateKey" = "Namnlöst mallfält";
+
+/* (No Comment) */
+"_Common_UnnamedSource" = "Namnlös källa";
+
+/* (No Comment) */
+"_Common_UnnamedSourceRepository" = "Namnlöst källarkiv";
+
+/* (No Comment) */
+"_Common_UnnamedSourceTemplate" = "Namnlös källmall";
+
+/* (No Comment) */
+"_Common_UnnamedSourceTemplateKey" = "Namnlöst mallfält";
+
+/* (No Comment) */
+"_Common_UnnamedStory" = "Namnlös berättelse";
+
+/* (No Comment) */
+"_Common_UnnamedStorySection" = "Namnlöst avsnitt av berättelse";
+
+/* (No Comment) */
+"_Common_UnnamedTitle" = "Namnlös";
+
+/* (No Comment) */
+"_Common_UnnamedToDo" = "Namnlös uppgift";
+
+/* (No Comment) */
+"_Common_UpdateButton" = "Uppdatera";
+
+/* (No Comment) */
+"_Common_UploadButton" = "Skicka";
+
+/* (No Comment) */
+"_Common_Value" = "Värde";
+
+/* (No Comment) */
+"_Common_Version" = "Version";
+
+/* (No Comment) */
+"_Common_White" = "Vitt";
+
+/* (No Comment) */
+"_Common_Width" = "Bredd";
+
+/* (No Comment) */
+"_Common_Woman" = "Kvinna";
+
+/* (No Comment) */
+"_Common_Year" = "År";
+
+/* (No Comment) */
+"_Common_Years" = "År";
+
+/* (No Comment) */
+"_Common_Yes" = "Ja";
+
+/* (No Comment) */
+"_Person_NameFormat_FirstName_MiddleName_LastName_Suffix_Comma_Title" = "”Förnamn\" ”Mellannamn\" \"Efternamn\" Suffix, Titel";
+
+/* (No Comment) */
+"_Person_NameFormat_LastName_Comma_FirstName_Comma_MiddleName_Comma_Suffix_Comma_Title" = "”Efternamn\", \"Förnamn\", \"Mellannamn\", Suffix, Titel";
+
+/* (No Comment) */
+"_Person_NameFormat_LastName_Suffix_Comma_FirstName_MiddleName_Comma_Title" = "”Efternamn\" Suffix, \"Förnamn\" \"Mellannamn\", Titel";
+
+/* (No Comment) */
+"_Person_NameFormat_Title_Comma_FirstName_Suffix_Bracket_MiddleName_Bracket" = "Titel \"Efternamn\", \"Förnamn\" Suffix (\"Mellannamn\")";
+
+/* (No Comment) */
+"_Person_NameFormat_Title_FirstName_Comma_LastName_Comma_MiddleName_Comma_Suffix" = "Titel \"Förnamn\", \"Efternamn\", \"Mellannamn\", Suffix";
+
+/* Person Name Formats */
+"_Person_NameFormat_Title_FirstName_MiddleName_LastName_Suffix" = "Titel \"Förnamn\" \"Mellannamn\" \"Efternamn\" Suffix";
+
+/* (No Comment) */
+"_Person_NameFormat_Title_LastName_MiddleName_FirstName_Suffix" = "Titel \"Efternamn\" \"Mellannamn\" \"Förnamn\" Suffix";
+
+/* (No Comment) */
+"_Person_NameFormat_Title_LastName_Suffix_Comma_FirstName_MiddleName" = "Titel \"Efternamn\" Suffix, \"Förnamn\" \"Mellannamn\"";
+
+/* (No Comment) */
+"_Person_NameFormat_Title_LastName_Suffix_FirstName_MiddleName" = "Titel \"Efternamn\" Suffix \"Förnamn\" \"Mellannamn\"";
+

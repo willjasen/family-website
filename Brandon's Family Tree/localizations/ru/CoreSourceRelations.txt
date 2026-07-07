@@ -1,0 +1,42 @@
+﻿/* Evidence */
+"_SourceRelation_Evidence" = "Очевидность";
+
+/* (No Comment) */
+"_SourceRelation_Evidence_Direct" = "Прямые";
+
+/* (No Comment) */
+"_SourceRelation_Evidence_DontKnow" = "Не знаю";
+
+/* (No Comment) */
+"_SourceRelation_Evidence_Indirect" = "Косвенные";
+
+/* (No Comment) */
+"_SourceRelation_Evidence_Negative" = "Негативный";
+
+/* Information */
+"_SourceRelation_Information" = "Информация";
+
+/* (No Comment) */
+"_SourceRelation_Information_DontKnow" = "Не знаю";
+
+/* (No Comment) */
+"_SourceRelation_Information_Primary" = "Первичная";
+
+/* (No Comment) */
+"_SourceRelation_Information_Secondary" = "Вторичная";
+
+/* Certainty string */
+"_SourceRelation_NoCertaintyInformation" = "Не указано";
+
+/* Quality */
+"_SourceRelation_Quality" = "Качество";
+
+/* (No Comment) */
+"_SourceRelation_Quality_Derivative" = "Неоригинальный";
+
+/* (No Comment) */
+"_SourceRelation_Quality_DontKnow" = "Не знаю";
+
+/* (No Comment) */
+"_SourceRelation_Quality_Original" = "Оригинальный";
+

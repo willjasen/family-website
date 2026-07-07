@@ -1,0 +1,36 @@
+﻿/* (No Comment) */
+"_MediaContainerListController_DeleteMediaButton" = "Poista media";
+
+/* (No Comment) */
+"_MediaContainerListController_DeleteMediaInformative" = "Haluatko todella poistaa lopullisesti valitun median?";
+
+/* (No Comment) */
+"_MediaContainerListController_DeleteMediaMessage" = "Poista media?";
+
+/* (No Comment) */
+"_MediaContainerListController_DeleteMediaOrRelationInformative" = "Haluatko poistaa lopullisesti valitun median vai haluatko poistaa yhteyden mediakohteeseen ja pitää tämän median tietokannassasi?";
+
+/* MediaContainerListController */
+"_MediaContainerListController_DeleteMediaOrRelationMessage" = "Poistetaanko media tai mediayhteys?";
+
+/* (No Comment) */
+"_MediaContainerListController_DeleteMediaRelationButton" = "Poista mediayhteys";
+
+/* (No Comment) */
+"_MediaContainerListController_FileWithoutTitleName" = "Tiedosto %d";
+
+/* (No Comment) */
+"_MediaContainerListController_NoDateTitle" = "Ei päivää";
+
+/* (No Comment) */
+"_MediaContainerListController_SortingMode_ByDate" = "Syntymäajan mukaan";
+
+/* (No Comment) */
+"_MediaContainerListController_SortingMode_ByTitle" = "Tittelin mukaan";
+
+/* Default Titles */
+"_MediaPicture_DefaultTitleWithDate" = "Kuva ajalta %@";
+
+/* (No Comment) */
+"_MediaVideo_DefaultTitleWithDate" = "Video ajalta %@";
+

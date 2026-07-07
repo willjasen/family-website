@@ -1,0 +1,207 @@
+﻿/* LoginPage */
+"_CoreCloudTreeWeb__CreateAppleID" = "Apple ID létrehozása";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptedShare" = "Elfogadott CloudTree meghívó: %@";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptedShare_Needs_To_Sign_In_To_Different_Container" = "A fa megtekintéséhez először jelentkezzen ki. Ezután jelentkezzen be a %@-ra.";
+
+/* AcceptShare */
+"_CoreCloudTreeWeb_AcceptShare_ActionsMenu_Title" = "CloudTree-meghívás elfogadása…";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptShare_Failed" = "A CloudTree-meghívás elfogadása sikertelen (%@).";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptShare_Failed_No_Matching_Container" = "A CloudTree meghívás elfogadása sikertelen, a megosztási link érvénytelen.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptShare_Instruction" = "A megosztott fára szóló meghívás elfogadásához illessze be a kapott linket a fenti szövegmezőbe, majd nyomja meg az „Ok” gombot.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptShare_NeedLoginOrCreateAppleIDDescription" = "Hogy részt vehessen ebben a CloudTree-vel megosztott családfában, be kell jelentkeznie Apple ID-jével. Ha nincs Apple ID-je, hozzon létre egy ingyenes Apple ID-t, hogy csatlakozhasson ehhez a családfához.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptShare_ShareLink" = "Link megosztása";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AcceptShare_Title" = "Csatlakozzon a családfához a CloudTree-n";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_AddingPicturesNotSupportedInSharedDatabaseWarning" = "A képek hozzáadása a megosztott családfához jelenleg nem támogatott, de hamarosan elérhető lesz.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Buy_MacFamilyTree_Or_MobileFamilyTree_Title" = "Vásárolja meg a MacFamilyTree-t vagy a MobileFamilyTree-t az App Store-ban";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Close_Databases" = "Családfa bezárása";
+
+/* EventDropDownList */
+"_CoreCloudTreeWeb_CommonEvents" = "Közös események";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_CommonFacts" = "Közös tények";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Description" = "A CloudTreeWeb egy olyan szolgáltatás, amely lehetővé teszi a $MFTLINKPLACEHOLDER$ vagy a $MFTLINKPLACEHOLDER$ webhelyről önnel megosztott családfák szerkesztését.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_ErrorMessage_AuthenticationExpired_Error" = "Az Ön munkamenete lejárt. Kérjük, a folytatáshoz jelentkezzen be újra.";
+
+/* Errors */
+"_CoreCloudTreeWeb_ErrorMessage_Saving_ConflictError" = "A módosítások mentése sikertelen, mert ezt a felvételt egy másik felhasználó módosította. Újra kell töltenie az oldalt.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_ErrorMessage_Saving_UnknownError" = "A módosítások mentése ismeretlen hiba miatt nem sikerült. Töltse be újra az oldalt. Ha a probléma továbbra is fennáll, forduljon hozzánk.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Go_To_Overview" = "Áttekintés";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Imprint_Title" = "Impresszum";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_1_Text" = "A CloudTreeWeb egy ingyenes szolgáltatás a MacFamilyTree és a MobileFamilyTree számára. A CloudTreeWeb segítségével az interneten keresztül érheti el a MacFamilyTree vagy MobileFamilyTree programban létrehozott családfákat. Saját maga is hozzáférhet családfáihoz, de a CloudTreeWeb lehetővé teszi a családfán való együttműködést is a Windows-t vagy Android-ot használó felhasználókkal. Például meghívhat olyan családtagokat az együttműködésre, akik nem használnak Mac-et, iPhone-t vagy iPad-et, hogy értékes adatokat szerezzen a családfájához.";
+
+/* Instructions */
+"_CoreCloudTreeWeb_Instructions_Section_1_Title" = "Mi az a CloudTreeWeb?";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_2_Text" = "Saját családfáinak eléréséhez jelentkezzen be azzal az Apple ID-vel, amelyet Mac, iPhone vagy iPad készülékén használ. A CloudTree szolgáltatással szinkronizált fái ezután automatikusan megjelennek. A CloudTreeWeben végzett változtatások megjelennek a MacFamilyTree-ben vagy a MobileFamilyTree-ben is – ez fordítva is működik.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_2_Title" = "Hogyan férhetek hozzá a saját családfáimhoz?";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_3_Text" = "Ha másik felhasználót akar meghívni az együttműködésre, először egy Apple ID-re lesz szüksége, amit $BEGINLINK$itt$ENDLINK$ ingyenesen regisztrálhat. Miután a felhasználó megszerezte az Apple ID-t, hívja meg az Apple ID-t családfájába a MacFamilyTree vagy a MobileFamilyTree CloudTree-n keresztül. A MacFamilyTree vagy MobileFamilyTree programban való meghívással kapcsolatos részleteket a szoftver felhasználói kézikönyvében találja. A meghívást követően küldje el neki a meghívó linkjét – például e-mailben vagy messengeren. A meghívott személy ezután bejelentkezik az Apple ID-jével a CloudTreeWeb szolgáltatásba és az alábbi gombbal elfogadja a meghívást.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_3_Title" = "Hogyan hívhatok meg olyan felhasználót, aki nem használja a MacFamilyTree-t vagy a MobileFamilyTree-t?";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_4_Text" = "Ha egy MacFamilyTree vagy MobileFamilyTree felhasználó meghívó linket küldött Önnek, csatlakozhat hozzá a családfakutatásában. Először is szüksége van egy ingyenes Apple ID-ra, amit $BEGINLINK$itt$ENDLINK$ ingyenesen regisztrálhat. Miután sikeresen regisztrálta Apple ID-ját, használja azt a CloudTreeWebbe való bejelentkezéshez. A regisztráció után fogadja el a meghívó linket az alábbi „CloudTree meghívó elfogadása” linkre kattintva, és adja meg ott a linket. A családfa ekkor megjelenik a családfa áttekintő oldalon, és szerkeszthető lesz. Vegye figyelembe, hogy a végrehajtott módosítások automatikusan megjelennek a MacFamilyTree-ben vagy a MobileFamilyTree-ben.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_4_Title" = "Meghívtak egy fára, de nem használom a MacFamilyTree-t vagy a MobileFamilyTree-t. Hogyan adhatok hozzá adatokat a családfához?";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_5_Text" = "Adatait a lehető legjobb módon védjük. A CloudTreeWeb működése szerint a harmadik felek nem férhetnek hozzá az Ön adataihoz – még mi, fejlesztők sem férünk hozzá az Ön családfa-adataihoz. Ez azért lehetséges, mert a CloudTreeWeb közvetlenül az Apple iCloudból kéri le a családfa adatait az Ön számítógépéről vagy mobiltelefonjáról, anélkül, hogy kitérne a szervereinkre. Így a CloudTreeWeb ugyanazoknak a biztonsági szabványoknak felel meg, mint például az Apple saját iCloud.com honlapja. Győződjön meg arról, hogy Apple ID-je megfelelően védett - például olyan jelszó használatával, amelyet semmilyen más szolgáltatáshoz nem használ, és engedélyezze a kéttényezős hitelesítést.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_5_Title" = "Hogyan védik az adataimat?";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_6_Text" = "Örülünk, hogy hallunk önről. Ha javítási javaslata van, vagy problémát észlel, kérjük, használja a kapcsolatfelvételi űrlapot a $BEGINLINK$www.syniumsoftware.com$ENDLINK$ címen, hogy kapcsolatba lépjen velünk.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Section_6_Title" = "Van egy javaslatom vagy problémám – hogyan tudassam önökkel?";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Instructions_Title" = "Hogyan kell használni a CloudTreeWeb szolgáltatást?";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_No_Private_Databases_Explanation" = "Jelenleg nem töltött fel családfát a CloudTree-be. A családfák feltöltéséhez használja a MacFamilyTree alkalmazást Mac számítógépén vagy a MobileFamilyTree alkalmazást iPhone vagy iPad készülékén.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_No_Private_Databases_Title" = "Nincs családfa";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_No_Shared_Databases_Explanation" = "Nem osztottak meg önnel családfát a ClooudTree-n. Ha részt szeretne venni egy másik személy családfájában, kérje meg a családfa tulajdonosát, hogy ossza meg családfáját a CloudTree-en a MacFamilyTree vagy a MobileFamilyTree segítségével az Ön Apple ID-jával.";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_No_Shared_Databases_Title" = "Nem osztottak meg önnel családfát";
+
+/* SelectDatabase */
+"_CoreCloudTreeWeb_Private_Databases" = "Családfáim";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Select_MacFamilyTree_Version" = "MacCsaládfa-vagy MobileFamilyTree-verzió  kiválasztása";
+
+/* (No Comment) */
+"_CoreCloudTreeWeb_Shared_Databases" = "A velem megosztott családfák";
+
+/* Warnings */
+"_CoreCloudTreeWeb_ThereAreUnsavedChangesWarning" = "Nem mentett el minden módosítást. Valóban el akarja hagyni a nézetet?";
+
+/* EditFamily */
+"_EditFamily_SelectFamily_ActionsMenu_Title" = "Család kiválasztása...";
+
+/* (No Comment) */
+"_EditFamily_SelectFamily_ActionsMenu_Title_Short" = "Család...";
+
+/* EditMedia */
+"_EditMedia_Download_PDF" = "PDF letöltése";
+
+/* EditPerson */
+"_EditPerson_SelectPerson_ActionsMenu_Title" = "Személy kiválasztása...";
+
+/* (No Comment) */
+"_EditPerson_SelectPerson_ActionsMenu_Title_Short" = "Személy...";
+
+/* EditPLace */
+"_EditPerson_SelectPlace_ActionsMenu_Title" = "Hely kiválasztása...";
+
+/* (No Comment) */
+"_EditPerson_SelectPlace_ActionsMenu_Title_Short" = "Hely...";
+
+/* (No Comment) */
+"_EditPlaceMapSection_Title" = "Térkép";
+
+/* EditSource */
+"_EditSource_SelectSource_ActionsMenu_Title" = "Forrás kiválasztása...";
+
+/* (No Comment) */
+"_EditSource_SelectSource_ActionsMenu_Title_Short" = "Forrás...";
+
+/* (No Comment) */
+"_FamiliesList_Title" = "Családok listája";
+
+/* (No Comment) */
+"_ItemsList_LoadMore" = "Továbbiak töltése…";
+
+/* (No Comment) */
+"_ItemsList_NoChanges" = "Nincs változtatás";
+
+/* (No Comment) */
+"_ItemsList_NoFamilies" = "Nincsenek családok";
+
+/* (No Comment) */
+"_ItemsList_NoPersons" = "Nincsenek személyek";
+
+/* (No Comment) */
+"_ItemsList_NoPlaces" = "Nincsenek helyek";
+
+/* (No Comment) */
+"_ItemsList_NoSources" = "Nincsenek források";
+
+/* (No Comment) */
+"_ItemsList_SearchBar_Description" = "A keresés megkülönbözteti a kis- és nagybetűket, és csak a név elejével egyeztet.";
+
+/* (No Comment) */
+"_ItemsList_Select_Family_Title" = "Család kiválasztása";
+
+/* ItemsList */
+"_ItemsList_Select_Person_Title" = "Személy kiválasztása";
+
+/* (No Comment) */
+"_ItemsList_Select_Place_Title" = "Hely kiválasztása";
+
+/* (No Comment) */
+"_ItemsList_Select_Source_Title" = "Forrás kiválasztása";
+
+/* (No Comment) */
+"_PersonsList_Title" = "Személyek listája";
+
+/* (No Comment) */
+"_PlacesList_Title" = "Helylista";
+
+/* (No Comment) */
+"_SourcesList_Title" = "Forráslista";
+
+/* (No Comment) */
+"iCloud.com.syniumsoftware.familytree10" = "10. verzió";
+
+/* (No Comment) */
+"iCloud.com.syniumsoftware.familytree11" = "11. verzió";
+

@@ -1,0 +1,584 @@
+﻿/* Configuration */
+
+//Style Names
+"_Reports_TextStyle" = "Simple Text";
+"_Reports_TopTitleBarTextStyle" = "Top Bar";
+"_Reports_LeftTitleStyle" = "Left Title";
+"_Reports_GridTablesStyle" = "Simple Table";
+"_Reports_CleanTablesStyle" = "Clean Table";
+"_Reports_CleanTextStyle" = "Clean Text";
+"_Reports_CleanBookStyle" = "Simple Book";
+"_Reports_ReportFormTablesStyle" = "Form";
+"_Reports_ReportBarSectionsTablesStyle" = "Bar Section";
+"_Reports_ModernBarsTextStyle" = "Modern Bars";
+"_Reports_ModernBarsLightTextStyle" = "Light Modern Bars";
+"_Reports_ReportTypewriterStyler" = "Typewriter";
+"_Reports_PlainTextStyle" = "Plain Text";
+"_Reports_ReportFormGridTablesStyle" = "Classic Form";
+"_Reports_ReportForestGreenTablesStyler" = "Forest Green";
+
+//Major Groups
+"_Reports_GeneralMajorGroupName" = "General";
+"_Reports_ColumnsMajorGroupName" = "Columns";
+"_Reports_LocalizationMajorGroupName" = "Localization";
+"_Reports_ColorsMajorGroupName" = "Colors";
+"_Reports_FontsMajorGroupName" = "Fonts";
+"_Reports_StyleOptionsMajorGroupName" = "Style Options";
+"_Reports_ThemesMajorGroupName" = "Themes";
+"_Reports_CitationsMajorGroupName" = "Citations";
+"_Reports_EventsMajorGroupName" = "Events";
+"_Reports_PageStyleMajorGroupName" = "Page Style";
+"_Reports_PageMarginsMajorGroupName" = "Page Margins";
+"_Reports_PageWatermarkMajorGroupName" = "Watermark";
+"_Reports_WorldHistoryMajorGroupName" = "World History";
+
+//Minor Groups
+"_Reports_TextGroupName" = "Text";
+"_Reports_ListsOptionsGroupName" = "Lists";
+"_Reports_PicturesOptionsGroupName" = "Pictures";
+"_Reports_DateOptionsGroupName" = "Dates";
+"_Reports_ListsFontGroupName" = "Lists";
+"_Reports_OtherFontsGroupName" = "Other";
+"_Reports_SectionsMinorGroupName" = "Sections";
+"_Reports_DateFormatMinorGroupName" = "Date Format";
+"_Reports_PlaceFormatMinorGroupName" = "Place Format";
+
+"_Reports_BaseColorsGroupName" = "Base Colors";
+"_Reports_OtherFontColorsGroupName" = "Other";
+"_Reports_ListsColorGroupName" = "Lists Colors";
+"_Reports_BaseFontsGroupName" = "Base Fonts";
+
+"_Reports_ShowParents" = "Show Parents";
+"_Reports_ShowChildren" = "Show Children";
+
+"_Reports_SortingMinorGroupName" = "Sorting";
+
+"_Reports_SourceInformationGroupName" = "Source Information";
+
+"_Reports_InformationGroupName" = "Information";
+
+"_Reports_PageMarginsMinorGroupName" = "Page Margins";
+"_Reports_PageFontsMinorGroupName" = "Fonts";
+"_Reports_PageTextColorsMinorGroupName" = "Text Colors";
+
+"_Reports_InformationColumnsMinorGroupName" = "Information Columns";
+
+//Columns
+"_Reports_ShowBirthDate" = "Show Date of Birth";
+"_Reports_ShowBirthPlace" = "Show Place of Birth";
+"_Reports_ShowDeathDate" = "Show Date of Death";
+"_Reports_ShowDeathPlace" = "Show Place of Death";
+"_Reports_ShowPicture" = "Show Picture";
+"_Reports_ShowPictures" = "Show Pictures";
+"_Reports_ShowKekule" = "Show Kekulé";
+"_Reports_ShowAge" = "Show Age";
+"_Reports_ShowMarriageDate" = "Show Date of Marriage";
+"_Reports_ShowMarriagePlace" = "Show Place of Marriage";
+"_Reports_ShowNarrative" = "Narrative Report";
+
+//Lists
+"_Reports_ListSectionFont" = "List Section Font";
+"_Reports_ListHeaderFont" = "List Header Font";
+"_Reports_ListCellFont" = "List Cell Font";
+"_Reports_ListKeyFont" = "List Key Font";
+"_Reports_List_DrawGridLines" = "Show Table Grid";
+"_Reports_List_RepeatHeaderOnEachPage" = "Repeat Table Headers on New Pages";
+"_Reports_List_RepeatHeaderOnEachPageExplanation" = "If active, the header row of a table is repeated when the table spans more than one page";
+
+"_Reports_List_HeaderBirthDate" = "Date of Birth";
+"_Reports_List_HeaderBirthPlace" = "Place of Birth";
+"_Reports_List_HeaderDeathDate" = "Date of Death";
+"_Reports_List_HeaderDeathPlace" = "Place of Death";
+
+"_Reports_ListMode" = "List Mode";
+"_Reports_ListMode_DefaultFromStyler" = "Default from Theme";
+"_Reports_ListMode_BookSetting" = "Use Book Setting";
+"_Reports_ListMode_PrefersList" = "Display as List";
+"_Reports_ListMode_PrefersTable" = "Display as Table";
+
+//Fonts
+"_Reports_HeaderFont" = "Title Font";
+"_Reports_MainFont" = "Main Font";
+"_Reports_PrimaryFont" = "Main Font";
+"_Reports_SecondaryFont" = "Secondary Font";
+"_Reports_EmphasizedFont" = "Emphasized Font";
+"_Reports_KeyFont" = "Keys Font";
+"_Reports_ChapterFont" = "Chapter Font";
+"_Reports_SectionFont" = "Section Font";
+"_Reports_SubSectionFont" = "Subsection Font";
+"_Reports_PageNumberFont" = "Page Number Font";
+
+//Pictures
+"_Reports_PersonPicturesSize" = "Person Pictures";
+"_Reports_PersonPicturesSize_None" = "None";
+"_Reports_PersonPicturesSize_Small" = "Small";
+"_Reports_PersonPicturesSize_Medium" = "Medium";
+"_Reports_PersonPicturesSize_Large" = "Large";
+
+//Page Numbers, sections
+"_Reports_ShowPageNumbers" = "Show Page Numbers";
+"_Reports_ShowChapters" = "Show Chapters";
+"_Reports_ShowSections" = "Show Sections";
+
+//Page Margins
+"_Reports_PageLeftMargin" = "Left Margin";
+"_Reports_PageRightMargin" = "Right Margin";
+"_Reports_PageTopMargin" = "Top Margin";
+"_Reports_PageBottomMargin" = "Bottom Margin";
+"_Reports_MirrorPageMarginsAndBackgroundOnOddPages" = "Mirror Margins and Background on Odd Pages";
+"_Reports_MirrorPageMarginsAndBackgroundOnOddPagesExplanation" = "If activated, the left and right margins are mirrored on odd pages, and the background will be adjusted accordingly. This is useful when creating reports for books.";
+
+//ReportView
+"_ReportViewConfiguration_PaginationMajorGroupName" = "Pagination";
+"_ReportViewConfiguration_PageFormatMode" = "Page Display Mode";
+"_ReportViewConfiguration_PageFormatModeExplanation" = "Control here how the Report should be displayed on your screen. Either display the report on individual pages like it would appear on paper or show it as large as possible.";
+"_ReportViewConfiguration_PageFormatMode_UseSpecifiedFormat" = "Display Pages with specified Page Format";
+"_ReportViewConfiguration_PageFormatMode_WidthOfSpecifiedFormatButNoPageBreaks" = "Display Pages omitting Page Breaks";
+"_ReportViewConfiguration_PageFormatMode_PageFormatThatFitsReportViewBounds" = "Display Report without Pages and as large as possible";
+
+//Place Format
+"_Reports_PlaceFormatStyle" = "Place Format";
+"_Reports_PlaceFormatStyleExplanation" = "Specify here if the complete place name or just an abbreviation should be displayed.";
+"_Reports_PlaceFormat_Normal" = "Normal Place Name";
+"_Reports_PlaceFormat_Short" = "Short Place Name";
+"_Reports_PlaceFormat_VeryShort" = "Very Short Place Name";
+
+//Colors
+"_Reports_HeaderFontColor" = "Header Text Color";
+"_Reports_SubSectionFontColor" = "Subsection Text Color";
+"_Reports_MainFontColor" = "Main Text Color";
+"_Reports_SecondaryFontColor" = "Secondary Text Color";
+"_Reports_EmphasizedFontColor" = "Emphasized Text Color";
+"_Reports_KeyFontColor" = "Keys Text Color";
+"_Reports_ListHeaderFontColor" = "Header Text Color";
+"_Reports_ListSectionFontColor" = "Section Text Color";
+"_Reports_DefaultHighlightColor" = "Default Highlight Color";
+"_Reports_DefaultHighlightColor_Explanation" = "Specify the default highlight color. You can set individual highlight colors per chapter in the chapter configuration.";
+"_Reports_BackgroundColor" = "Background Color";
+"_Reports_BarsColor" = "Bars Color";
+
+//Sorting
+"_Reports_Sorting" = "Sorting";
+"_Reports_SortingExplanation" = "Specify the order of the entries to be displayed in this report here";
+
+"_Reports_Sort_By_FullName" = "By Full Name";
+"_Reports_Sort_By_LastName" = "By Last Name";
+"_Reports_Sort_By_FirstName" = "By First Name";
+"_Reports_Sort_By_BirthDate" = "By Date of Birth";
+"_Reports_Sort_By_DeathDate" = "By Date of Death";
+"_Reports_Sort_By_BirthPlace" = "By Place of Birth";
+"_Reports_Sort_By_DeathPlace" = "By Place of Death";
+"_Reports_Sort_By_EventTypeAndDate" = "By Event Type and Date";
+"_Reports_Sort_By_EventTypeName" = "By Event Type Name";
+"_Reports_Sort_By_EventDate" = "By Event Date";
+"_Reports_Sort_By_EventDescription" = "By Description";
+
+"_Reports_SortOrderAscendingCheckbox" = "Sort Ascending";
+"_Reports_SeparateSectionsCheckbox" = "Separate Sections";
+"_Reports_SeparateSectionsCheckboxExplanation" = "If enabled, separate sections are displayed for the selected sorting mode. For example, if sorted by Last Name, all persons with the same last name will be displayed in the same section.";
+
+//Localization
+"_Reports_Localization" = "Localization";
+"_Reports_LocalizationExplanation" = "Specify the localization to use in this report. All information in this report will be localized in the specified language";
+"_Reports_ReformatDatesToSelectedLocale" = "Reformat Dates";
+"_Reports_ReformatDatesToSelectedLocaleExplanation" = "If enabled, all dates will be reformatted to match the specified localization";
+"_Reports_DateFormatStyle" = "Date Format Style";
+"_Reports_DateFormatStyleExplanation" = "Specify here which date format style to use when reformatting dates";
+
+//Private Information
+"_Reports_HidePrivateInformation" = "Hide Information marked as Private";
+"_Reports_HidePrivateInformationExplanation" = "Every piece of information marked as private in edit mode is being hidden in the report if you select this option.";
+
+//Citations
+"_Reports_ShowCitations" = "Source Citations";
+"_Reports_ShowCitationsExplanation" = "Specify if a citations section should be appended to the report.";
+
+"_Reports_Citations_CitationsMode" = "Citations Mode";
+
+"_Reports_Citations_DisplayText" = "Text";
+"_Reports_Citations_DisplaySourceCitationNotes" = "Source Citation Notes";
+"_Reports_Citations_DisplaySourceNotes" = "Source Notes";
+"_Reports_Citations_DisplayReferences" = "Referenced Entries";
+"_Reports_Citations_DisplaySourceRepository" = "Source Repository";
+"_Reports_Citations_DisplayPictures" = "Pictures";
+
+"_Reports_Citations_SourcePicturesSize" = "Pictures Size";
+"_Reports_Citations_SourcePicturesSize_Thumbnail" = "Small";
+"_Reports_Citations_SourcePicturesSize_LargeThumbnail" = "Medium";
+"_Reports_Citations_SourcePicturesSize_FullAvailableWidth" = "Large";
+
+//Gender Abbreviations
+"_Reports_BaseStyler_Abbreviation_For_Male" = "(m)";
+"_Reports_BaseStyler_Abbreviation_For_Female" = "(f)";
+"_Reports_BaseStyler_Abbreviation_For_Unknown" = "(-)";
+"_Reports_BaseStyler_Abbreviation_For_Intersex" = "(i)";
+
+/* Report Builders */
+
+//Common
+"_Reports_CustomReportTitle" = "Custom Report Title";
+"_Reports_Report_ShowOverview" = "Overview";
+"_Reports_Report_ShowUserDescription" = "Description";
+"_Reports_Report_Overview_Section_Title" = "Overview";
+"_Reports_ShowMedia" = "Media";
+"_Reports_ShowPDFs" = "Show PDFs";
+"_Reports_MediaSize_Title" = "Media Size";
+"_Reports_MediaSize_Thumbnail" = "Thumbnail";
+"_Reports_MediaSize_LargeThumbnail" = "Large Thumbnail";
+"_Reports_MediaSize_FullSize" = "Full Size";
+"_Reports_Report_Media_Section_Title" = "Media";
+"_Reports_Report_Notes_Section_Title" = "Notes";
+"_Reports_Report_Notes_Section_Note_Key" = "Note";
+"_Reports_Report_Notes_Section_Person_Note_Key" = "Person Note";
+"_Reports_Report_Notes_Section_Family_Note_Key" = "Family Note";
+"_Reports_Report_Associates_Section_Title" = "Influential Persons and Families";
+"_Reports_Report_ShowAssociates" = "Influential Persons";
+"_Reports_CapitalizeSectionTitles" = "Capitalize Section Titles";
+"_Reports_PersonItem_PictureSize" = "Person Pictures";
+"_Reports_PersonItem_PictureSize_None" = "Don't show Person Pictures";
+"_Reports_PersonItem_PictureSize_Small" = "Show small Person Pictures";
+"_Reports_PersonItem_PictureSize_Medium" = "Show medium Person Pictures";
+"_Reports_PersonItem_PictureSize_Large" = "Show large Person Pictures";
+"_Reports_Person_NotSet" = "Person not set";
+"_Reports_EnabledSourceTemplateKeyIdentifiers" = "Source Fields to display";
+"_Reports_UseSubsectionsInMediaSection" = "Group Medias";
+"_Reports_MediaSection_PersonMainSubsectionKey" = "Medias attached to Person";
+"_Reports_MediaSection_FamilyMainSubsectionKey" = "Medias attached to Family";
+"_Reports_MediaSection_MediaFromPersonEventsSubsectionKey" = "Medias attached to Person Events";
+"_Reports_MediaSection_MediaFromFamilyEventsSubsectionKey" = "Medias attached to Family Events";
+"_Reports_MediaSection_MediaFromManSubsectionKey" = "Medias attached to Partner 1";
+"_Reports_MediaSection_MediaFromWomanSubsectionKey" = "Medias attached to Partner 2";
+"_Reports_MediaSection_MediaFromFamiliesSubsectionKey" = "Medias attached to Families";
+
+//MediaGalleryReport
+"_Reports_MediaGalleryReport_GroupingMode" = "Grouping of Media";
+"_Reports_MediaGalleryReport_GroupingMode_None" = "No Grouping";
+"_Reports_MediaGalleryReport_GroupingMode_BySelectedObject" = "Group by Assigned Entry";
+"_Reports_MediaGalleryReport_GroupingMode_ByDecade" = "Group by Decade";
+"_Reports_MediaGalleryReport_GroupingMode_ByLabel" = "Group by Label";
+"_Reports_MediaGalleryReport_SortingMode" = "Sorting";
+"_Reports_MediaGalleryReport_SortingMode_ByTitle" = "By Title";
+"_Reports_MediaGalleryReport_SortingMode_ByDate" = "By Date";
+
+//FactsListReport
+"_Reports_FactsListReport_TotalFactsCountKey" = "Total Facts";
+
+//MarriageList
+"_Reports_MarriageList_Sort_By_FamilyName" = "By Family Name";
+"_Reports_MarriageList_Sort_By_ManName" = "By Man Name";
+"_Reports_MarriageList_Sort_By_WomanName" = "By Woman Name";
+"_Reports_MarriageList_Sort_By_MarriageDate" = "By Marriage Date";
+"_Reports_MarriageList_Sort_By_MarriageLocation" = "By Marriage Place";
+"_Reports_MarriageList_ShowBirthDateForPersons" = "Show Date of Birth for Persons";
+"_Reports_MarriageList_ShowMarriageDateAsAdditionalInformation" = "Show Marriage Date Indented";
+"_Reports_MarriageList_ShowMarriagePlaceAsAdditionalInformation" = "Show Marriage Place Indented";
+"_Reports_MarriageList_OnlyShowFamiliesWithMarriageEvent" = "Only display Partners with a Marriage Event";
+
+//Sources
+"_Reports_Common_Citations_Section_Title" = "Citations";
+"_Reports_Sources_Section_Title" = "Sources";
+"_Reports_Sources_Page_Header" = "Page";
+"_Reports_Report_ShowNotes" = "Notes";
+"_Reports_Report_ShowFacts" = "Facts";
+
+//ToDoReport
+"_Reports_ToDoReport_Type" = "Type";
+"_Reports_ToDoReport_Status" = "Status";
+"_Reports_ToDoReport_Priority" = "Priority";
+"_Reports_ToDoReport_Text" = "Text";
+"_Reports_ToDoReport_Notes" = "Notes";
+
+//Story Report
+"_Reports_StoryReport_UserDescription" = "Description";
+"_Reports_StoryReport_ReferencedEntries_Title" = "Referenced Entries";
+"_Reports_StoryReport_Section_ReferencedEntries" = "Referenced Entries in Section";
+"_Reports_StoryReport_Section_Media" = "Media";
+"_Reports_StoryReport_Section_Text" = "Text";
+"_Reports_StoryReport_ShowReferencedEntries" = "Referenced Entries in Story";
+"_Reports_StoryReport_ShowReferencedEntriesInStorySections" = "Referenced Entries in Story Sections";
+"_Reports_StoryReport_ReferencedEntriesInSection_Title" = "Referenced Entries in Section '%@'";
+"_Reports_StoryReport_WorldHistory_Section_Title" = "World History";
+"_Reports_StoryReport_WorldHistory_Category_Header" = "Category";
+
+//PersonReport
+"_Reports_PersonReport_Title" = "Person Report";
+"_Reports_PersonReport_BornOnKey" = "Born on";
+"_Reports_PersonReport_DiedOnKey" = "Died on";
+"_Reports_PersonReport_BornOrDiedInKey" = "in";
+"_Reports_PersonReport_OccupationKey" = "Occupation";
+"_Reports_PersonReport_IDs_ReferenceNumberKey" = "Reference Number";
+"_Reports_PersonReport_IDs_GedcomIDKey" = "GEDCOM ID";
+"_Reports_PersonReport_IDs_AncestralFileNumberIDKey" = "Ancestral File Number";
+"_Reports_PersonReport_IDs_FamilySearchIDKey" = "FamilySearch ID";
+
+"_Reports_PersonReport_ShowKinship" = "Kinship";
+"_Reports_PersonReport_KinshipDepth" = "Kinship Generations";
+"_Reports_PersonReport_ShowNameDetails" = "Name Details";
+"_Reports_PersonReport_ShowEvents" = "Events";
+"_Reports_PersonReport_ShowPartners" = "Partners";
+"_Reports_PersonReport_ShowParents" = "Parents";
+"_Reports_PersonReport_ShowSources" = "Sources";
+"_Reports_PersonReport_ShowAncestors" = "Ancestors";
+"_Reports_PersonReport_ShowDescendants" = "Descendants";
+"_Reports_PersonReport_ShowHourglassChart" = "Hourglass Chart";
+"_Reports_PersonReport_ShowWorldHistory" = "World History";
+
+"_Reports_PersonReport_NarrativeReport_Section_Title" = "Narrative Report";
+"_Reports_PersonReport_Events_Section_Title" = "Events";
+"_Reports_PersonReport_Event_Type" = "Type";
+"_Reports_PersonReport_Event_Date" = "Date";
+"_Reports_PersonReport_Event_Place" = "Place";
+
+"_Reports_PersonReport_NameDetails_Section_Title" = "Name Details";
+"_Reports_PersonReport_Ancestors_Section_Title" = "Ancestors";
+"_Reports_PersonReport_AncestorsOrDescendants_Generation_Header" = "Generation";
+"_Reports_PersonReport_AncestorsDepth" = "Ancestor Generations";
+"_Reports_PersonReport_Descendants_Section_Title" = "Descendants";
+"_Reports_PersonReport_DescendantsDepth" = "Descendant Generations";
+"_Reports_PersonReport_Parents_Section_Title" = "Parents";
+"_Reports_PersonReport_BrothersAndSisters" = "Brothers and Sisters";
+"_Reports_PersonReport_Partners_Section_Title" = "Partners";
+"_Reports_PersonReport_Kinship_Section_Title" = "Kinship";
+"_Reports_PersonReport_Facts_Section_Title" = "Facts";
+"_Reports_PersonReport_Facts_FactType_Header" = "Type";
+"_Reports_PersonReport_Facts_FactDescription_Header" = "Description";
+"_Reports_PersonReport_Associates_PersonOrFamily_Header" = "Person or Family";
+"_Reports_PersonReport_HourglassChart_Section_Title" = "Hourglass Chart";
+"_Reports_PersonReport_WorldHistory_Section_Title" = "World History";
+"_Reports_PersonReport_WorldHistory_Category_Header" = "Category";
+
+//AhnentafelReport
+"_Reports_AhnentafelReport_Title" = "Ahnentafel Report";
+"_Reports_AhnentafelReport_Generations" = "Generations";
+"_Reports_AhnentafelReport_GenerationNumber" = "%d. Generation";
+"_Reports_AhnentafelReport_List_Header_Kekule" = "Kekulé";
+"_Reports_AhnentafelReport_List_Header_Person" = "Person";
+"_Reports_AhnentafelReport_List_Header_Narrative" = "Narrative Report";
+
+//DescendancyReport
+"_Reports_DescendancyReport_DescendantsSectionTitleWithGenerationNumber" = "%d. Generation";
+"_Reports_DescendancyReport_ChildNumber_Header" = "Child";
+"_Reports_DescendancyReport_Marriage_Header" = "Marriage";
+
+//RegisterReport
+"_Reports_RegisterReport_DescendantsSectionTitleWithGenerationNumber" = "%d. Generation";
+
+//ReportEditorController Edit Operations
+"_Reports_ReportEditorController_EditOperation_AddNodesPopupButton" = "Add…";
+"_Reports_ReportEditorController_EditOperation_AddTextNode" = "Add Text";
+"_Reports_ReportEditorController_EditOperation_AddImageNode" = "Add Image…";
+"_Reports_ReportEditorController_EditOperation_AddPDFNode" = "Add PDF…";
+"_Reports_ReportEditorController_EditOperation_RemoveNode" = "Delete";
+"_Reports_ReportEditorController_EditOperation_AddRow" = "Add Row";
+"_Reports_ReportEditorController_EditOperation_RemoveRow" = "Remove Row";
+"_Reports_ReportEditorController_EditOperation_AddLayoutCell" = "Add Cell";
+"_Reports_ReportEditorController_EditOperation_RemoveLayoutCell" = "Remove Cell";
+
+/* Edit Configurations */
+
+"_Reports_Editor_Configurations_PleaseSelectObjectsToEditPlaceholder" = "Please select text or other elements in the report to the left to edit colors, text and sizes";
+"_Reports_Editor_Configurations_SelectedObjectsOfDifferentTypePlaceholder" = "You have selected multiple objects of different kinds";
+"_Reports_Editor_Configurations_TextColor" = "Text Color";
+"_Reports_Editor_Configurations_TextFont" = "Text Font";
+"_Reports_Editor_Configurations_NodeBackgroundColor" = "Background Color";
+"_Reports_Editor_Configurations_NodeBorderColor" = "Border Color";
+"_Reports_Editor_Configurations_NodeBorderRadius" = "Edge Radius";
+
+"_Reports_Editor_Configurations_NodeLeftBorderWidth" = "Left";
+"_Reports_Editor_Configurations_NodeRightBorderWidth" = "Right";
+"_Reports_Editor_Configurations_NodeTopBorderWidth" = "Top";
+"_Reports_Editor_Configurations_NodeBottomBorderWidth" = "Bottom";
+
+"_Reports_Editor_Configurations_NodeLeftMarginWidth" = "Left";
+"_Reports_Editor_Configurations_NodeRightMarginWidth" = "Right";
+"_Reports_Editor_Configurations_NodeTopMarginWidth" = "Top";
+"_Reports_Editor_Configurations_NodeBottomMarginWidth" = "Bottom";
+
+"_Reports_Editor_Configurations_NodeLeftPaddingWidth" = "Left";
+"_Reports_Editor_Configurations_NodeRightPaddingWidth" = "Right";
+"_Reports_Editor_Configurations_NodeTopPaddingWidth" = "Top";
+"_Reports_Editor_Configurations_NodeBottomPaddingWidth" = "Bottom";
+
+"_Reports_Editor_Configurations_TableRowBackgroundColor" = "Row Color";
+"_Reports_Editor_Configurations_TableAlternateRowBackgroundColor" = "Alternate Row Color";
+"_Reports_Editor_Configurations_Table_RepeatHeadersOnEachPage" = "Repeat Headers";
+"_Reports_Editor_Configurations_Table_DrawGridLines" = "Show Table Grid";
+
+"_Reports_Editor_Configurations_LayoutNode_DrawGridLines" = "Show Layout Grid";
+"_Reports_Editor_Configurations_LayoutCellNode_StartPosition" = "Start Position";
+"_Reports_Editor_Configurations_LayoutCellNode_EndPosition" = "End Position";
+
+"_Reports_Editor_Configurations_CellNodeLeftBorderWidth" = "Cell Left Border";
+"_Reports_Editor_Configurations_CellNodeTopBorderWidth" = "Cell Top Border";
+"_Reports_Editor_Configurations_CellNodeRightBorderWidth" = "Cell Right Border";
+"_Reports_Editor_Configurations_CellNodeBottomBorderWidth" = "Cell Bottom Border";
+
+"_Reports_Editor_Configurations_CellNodeBackgroundColor" = "Cell Background";
+"_Reports_Editor_Configurations_CellNodeTopBorderColor" = "Cell Top Color";
+"_Reports_Editor_Configurations_CellNodeRightBorderColor" = "Cell Right Color";
+"_Reports_Editor_Configurations_CellNodeBottomBorderColor" = "Cell Bottom Color";
+"_Reports_Editor_Configurations_CellNodeLeftBorderColor" = "Cell Left Color";
+
+"_Reports_Editor_Configurations_AddedCell_PlaceholderText" = "Text";
+
+"_Reports_Editor_Configurations_MajorGroup_BaseNode" = "Node";
+"_Reports_Editor_Configurations_MajorGroup_Section" = "Section";
+"_Reports_Editor_Configurations_MajorGroup_Image" = "Image";
+"_Reports_Editor_Configurations_MajorGroup_Text" = "Text";
+"_Reports_Editor_Configurations_MajorGroup_Flow" = "Group";
+"_Reports_Editor_Configurations_MajorGroup_PDF" = "PDF";
+"_Reports_Editor_Configurations_MajorGroup_Table" = "Table";
+"_Reports_Editor_Configurations_MajorGroup_Cell" = "Cell";
+"_Reports_Editor_Configurations_MajorGroup_Layout" = "List";
+
+"_Reports_Editor_Configurations_MinorGroup_Background" = "Background";
+"_Reports_Editor_Configurations_MinorGroup_Border" = "Border";
+"_Reports_Editor_Configurations_MinorGroup_Margin" = "Margin";
+"_Reports_Editor_Configurations_MinorGroup_Padding" = "Padding";
+"_Reports_Editor_Configurations_MinorGroup_Size" = "Size";
+"_Reports_Editor_Configurations_MinorGroup_Layout" = "Layout";
+"_Reports_Editor_Configurations_MinorGroup_Options" = "Options";
+"_Reports_Editor_Configurations_MinorGroup_Fonts" = "Fonts";
+"_Reports_Editor_Configurations_MinorGroup_CellOptions" = "Cell Options";
+
+"_Reports_Editor_Configurations_NodeVerticalAlign" = "Vertical Align";
+"_Reports_Editor_Configurations_NodeVerticalAlign_Top" = "Top";
+"_Reports_Editor_Configurations_NodeVerticalAlign_Middle" = "Middle";
+"_Reports_Editor_Configurations_NodeVerticalAlign_Bottom" = "Bottom";
+
+"_Reports_Editor_Configurations_NodeHorizontalAlign" = "Horizontal Align";
+"_Reports_Editor_Configurations_NodeHorizontalAlign_Top" = "Left";
+"_Reports_Editor_Configurations_NodeHorizontalAlign_Middle" = "Center";
+"_Reports_Editor_Configurations_NodeHorizontalAlign_Bottom" = "Right";
+
+"_Reports_Editor_Configurations_WantsNewLine" = "Start after line break";
+"_Reports_Editor_Configurations_WantsSameLine" = "Avoid line break";
+"_Reports_Editor_Configurations_WantsToStickToPreviousObject" = "Stick to previous object";
+"_Reports_Editor_Configurations_WantsNewLayoutPageArea" = "Start on new page area";
+"_Reports_Editor_Configurations_WantsNewPage" = "Start on new page";
+
+"_Reports_Editor_Configurations_PageType_Title" = "Page Type";
+"_Reports_Editor_Configurations_PageType_Any" = "Any Page";
+"_Reports_Editor_Configurations_PageType_OneColumn" = "One Area Page";
+"_Reports_Editor_Configurations_PageType_SmallLeftColumnBigRightColumn" = "Small Left Big Right Area Page";
+"_Reports_Editor_Configurations_PageType_TwoColumn" = "Two Column Page";
+"_Reports_Editor_Configurations_PageType_EmptyPage" = "Empty Page";
+
+"_Reports_Editor_Configurations_PageOrder_Title" = "Page Order";
+"_Reports_Editor_Configurations_PageOrder_Any" = "Any Order";
+"_Reports_Editor_Configurations_PageOrder_EvenPage" = "Even Page";
+"_Reports_Editor_Configurations_PageOrder_OddPage" = "Odd Page";
+
+"_Reports_Editor_Configurations_PageFlowAreaIdentifier_Title" = "Column";
+"_Reports_Editor_Configurations_PageFlowAreaIdentifier_AnyColumn" = "Any Column";
+"_Reports_Editor_Configurations_PageFlowAreaIdentifier_OneColumn" = "Main Column";
+"_Reports_Editor_Configurations_PageFlowAreaIdentifier_LeftColumn" = "Left Column";
+"_Reports_Editor_Configurations_PageFlowAreaIdentifier_RightColumn" = "Right Column";
+
+"_Reports_Editor_Configurations_WidthMode_Title" = "Width Mode";
+"_Reports_Editor_Configurations_WidthMode_Full" = "Full Width";
+"_Reports_Editor_Configurations_WidthMode_Full_ForScaleableNodes" = "Full Width";
+"_Reports_Editor_Configurations_WidthMode_Needed" = "Fitting Width";
+"_Reports_Editor_Configurations_WidthMode_Needed_ForScaleableNodes" = "Fixed Width";
+"_Reports_Editor_Configurations_WidthMode_Predefined" = "Width Factor";
+"_Reports_Editor_Configurations_WidthMode_Predefined_ForScaleableNodes" = "Width Factor and Fixed Height";
+"_Reports_Editor_Configurations_WidthMode_PredefinedWidthFactor" = "Width Factor";
+"_Reports_Editor_Configurations_ContentFrameSize_Width" = "Width";
+"_Reports_Editor_Configurations_ContentFrameSize_Height" = "Height";
+
+/*CSVWriter*/
+"_ReportCSVWriterConfiguration_Title" = "CSV Export";
+"_ReportCSVWriterConfiguration_SeparatorPopupButtonTitle" = "CSV Separator";
+"_ReportCSVWriterConfiguration_SeparatorPopupButtonTitleExplanation" = "Specify the separator used for items in the CSV file. Most apps are compatible with comma as the separator.";
+"_ReportCSVWriterConfiguration_Separator_Semicolon" = "Semicolon (;)";
+"_ReportCSVWriterConfiguration_Separator_Comma" = "Comma (,)";
+"_ReportCSVWriterConfiguration_NewLineCharacter" = "New Line Character";
+"_ReportCSVWriterConfiguration_NewLineCharacterExplanation" = "Choose which character should be used as the character indicating a new line. Most modern apps are fine with any option – only some older systems might require a specific setting.";
+"_ReportCSVWriterConfiguration_NewLineCharacter_LF" = "LF Character (Modern macOS, Unix)";
+"_ReportCSVWriterConfiguration_NewLineCharacter_CRLF" = "CRLF Character (Windows)";
+"_ReportCSVWriterConfiguration_NewLineCharacter_CR" = "CR Character (Classic Mac OS)";
+"_ReportCSVWriterConfiguration_ExportHeaders" = "Export CSV Headers";
+"_ReportCSVWriterConfiguration_ExportHeadersExplanation" = "If you want to include Header information in your CSV File, please select this option. Header information makes it easier to pinpoint information in the resulting CSV file.";
+"_ReportCSVWriterConfiguration_CSVGroup" = "Group";
+"_ReportCSVWriterConfiguration_CSVSection" = "Section";
+
+
+/*Errors*/
+"_ReportError_NoPersonFoundInFamilyTreeError" = "No persons have been entered so far in this family tree. Please use the Edit section to enter persons and families in order to display this report.";
+"_ReportError_NoFamilyFoundInFamilyTreeError" = "No families have been entered so far in this family tree. Please use the Edit section to enter persons and families in order to display this report.";
+"_ReportError_NoPlaceFoundInFamilyTreeError" = "No places have been entered so far in this family tree. Please use the Edit section to enter places for person and family events in order to display this report.";
+"_ReportError_NoSourceFoundInFamilyTreeError" = "No sources have been entered so far in this family tree. Please use the Edit section to enter sources in order to display this report.";
+"_ReportError_NoStoryFoundInFamilyTreeError" = "No stories have been entered so far in this family tree. Please use the Edit section to enter stories in order to display this report.";
+"_ReportError_NoToDoFoundInFamilyTreeError" = "No ToDos have been entered so far in this family tree. Please use the Edit section to enter to dos in order to display this report.";
+"_ReportError_NoSelectedPersonSetError" = "No person has been selected for this report.";
+"_ReportError_NoSelectedFamilySetError" = "No family has been selected for this report.";
+"_ReportError_NoSelectedStorySetError" = "No story has been selected for this report.";
+"_ReportError_NotEnoughDataPresentError" = "Not enough data present in the family tree to display this report.";
+"_ReportError_NoPersonsFoundMatchingTheSelectedCriteria" = "No persons have been found that match the selected criteria.";
+"_ReportError_NoFamiliesFoundMatchingTheSelectedCriteria" = "No families have been found that match the selected criteria.";
+"_ReportError_NoPlacesFoundMatchingTheSelectedCriteria" = "No places have been found that match the selected criteria.";
+"_ReportError_NoSourcesFoundMatchingTheSelectedCriteria" = "No sources have been found that match the selected criteria.";
+"_ReportError_NoToDosFoundMatchingTheSelectedCriteria" = "No to dos have been found that match the selected criteria.";
+"_ReportError_NoPlausibilityAnalyzerResultsFound" = "No plausibility warnings found.";
+"_ReportError_NoDistinctivePersonsFoundError" = "No distinctive persons found in this family tree.";
+"_ReportError_NoPlacesWithCoordinatesFoundForPersonError" = "No places with coordinates found for the selected entry. Add geographical coordinates to places in the Edit section in order to display this report.";
+"_ReportError_NoDataFoundToExportAsCSV" = "No Data could be found in this Report that can be exported as a CSV File.";
+
+/*Sample Report*/
+"_SampleReportTitle" = "Sample Report";
+
+/*Page Background Renderer*/
+"_ReportPageBackgroundRendererConfiguration_Style" = "Background Style";
+"_ReportPageBackgroundRendererConfiguration_Style_None" = "None";
+"_ReportPageBackgroundRendererConfiguration_Style_OuterBar" = "Outer Bar";
+"_ReportPageBackgroundRendererConfiguration_Style_InnerBar" = "Inner Bar";
+"_ReportPageBackgroundRendererConfiguration_Style_OuterAndInnerBar" = "Outer & Inner Bar";
+"_ReportPageBackgroundRendererConfiguration_Style_OuterBlocksBar" = "Outer Blocks Bar";
+"_ReportPageBackgroundRendererConfiguration_Style_InnerBlocksBar" = "Inner Blocks Bar";
+"_ReportPageBackgroundRendererConfiguration_Style_OuterAndInnerBlocksBar" = "Outer & Inner Blocks Bar";
+"_ReportPageBackgroundRendererConfiguration_Style_InlineOuterBar" = "Inline Outer Bar";
+"_ReportPageBackgroundRendererConfiguration_Style_InlineTopBar" = "Inline Top Bar";
+"_ReportPageBackgroundRendererConfiguration_Style_RoundInlineTopBar" = "Round Inline Top Bar";
+"_ReportPageBackgroundRendererConfiguration_Style_TopBar" = "Top Bar";
+"_ReportPageBackgroundRendererConfiguration_Style_BottomBar" = "Bottom Bar";
+"_ReportPageBackgroundRendererConfiguration_Style_TopBottomBar" = "Top & Bottom Bar";
+"_ReportPageBackgroundRendererConfiguration_Style_TopGradient" = "Top Gradient";
+"_ReportPageBackgroundRendererConfiguration_Style_BottomGradient" = "Bottom Gradient";
+"_ReportPageBackgroundRendererConfiguration_Style_TopBottomGradient" = "Top & Bottom Gradient";
+"_ReportPageBackgroundRendererConfiguration_Style_TopLine" = "Top Line";
+"_ReportPageBackgroundRendererConfiguration_Style_BottomLine" = "Bottom Line";
+"_ReportPageBackgroundRendererConfiguration_Style_TopBottomLine" = "Top & Bottom Line";
+"_ReportPageBackgroundRendererConfiguration_Style_OnlyBackground" = "Background Color Only";
+"_ReportPageBackgroundRendererConfiguration_Style_XAtTop" = "X-Mark at Top";
+"_ReportPageBackgroundRendererConfiguration_Style_Rectangle" = "Rectangle";
+"_ReportPageBackgroundRendererConfiguration_Style_ThickRectangle" = "Thick Rectangle";
+"_ReportPageBackgroundRendererConfiguration_Style_RoundRectangle" = "Round Rectangle";
+"_ReportPageBackgroundRendererConfiguration_Style_ThickRoundRectangle" = "Thick, Round Rectangle";
+"_ReportPageBackgroundRendererConfiguration_Style_BottomPageNumberRect" = "Page Number Rectangle at Bottom";
+"_ReportPageBackgroundRendererConfiguration_ChapterColorMode" = "Chapter Text Color Mode";
+"_ReportPageBackgroundRendererConfiguration_ChapterColor" = "Chapter Text Color";
+"_ReportPageBackgroundRendererConfiguration_SectionColorMode" = "Section Text Color Mode";
+"_ReportPageBackgroundRendererConfiguration_SectionColor" = "Section Text Color";
+"_ReportPageBackgroundRendererConfiguration_PageNumberColorMode" = "Page Number Text Color Mode";
+"_ReportPageBackgroundRendererConfiguration_PageNumberColor" = "Page Number Text Color";
+"_ReportPageBackgroundRendererConfiguration_TextColorMode_ContrastToBackground" = "Contrast to Background";
+"_ReportPageBackgroundRendererConfiguration_TextColorMode_Custom" = "Custom";
+"_ReportPageBackgroundRendererConfiguration_PageSetupButton" = "Page Setup…";
+"_ReportPageBackgroundRendererConfiguration_WatermarkImage" = "Watermark";
+"_ReportPageBackgroundRendererConfiguration_WatermarkFloatsAboveContentTitle" = "Place Watermark Above Content";
+"_ReportPageBackgroundRendererConfiguration_WatermarkInsettedByPageMargins" = "Place Watermark in Page Margins";
+"_ReportPageBackgroundRendererConfiguration_Scaling" = "Scaling";
+"_ReportPageBackgroundRendererConfiguration_Opacity" = "Opacity";
+"_ReportPageBackgroundRendererConfiguration_WatermarkPlacement" = "Placement";
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_Fill" = "Fill Page";
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitFill" = "Fill Page respecting Aspect Ratio";
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitTopLeft" = "Top Left";
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitTopCenter" = "Top Center";
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitTopRight" = "Top Right";
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitCenterLeft" = "Center Left";
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitCenterCenter" = "Completely Centered";
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitCenterRight" = "Center Right";
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitBottomLeft" = "Bottom Left";
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitBottomCenter" = "Bottom Center";
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitBottomRight" = "Bottom Right";
+

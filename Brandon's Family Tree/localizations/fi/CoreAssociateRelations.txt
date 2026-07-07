@@ -1,0 +1,78 @@
+﻿/* (No Comment) */
+"_AssociateRelation_Type_BestFriend" = "Paras ystävä";
+
+/* (No Comment) */
+"_AssociateRelation_Type_BestFriend_Inverted" = "Paras ystävä";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Boss" = "Pomo";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Boss_Inverted" = "Alainen";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Coworker" = "Työkaveri";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Coworker_Inverted" = "Työkaveri";
+
+/* Person Container */
+"_AssociateRelation_Type_Friend" = "Ystävä";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Friend_Inverted" = "Ystävä";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Godfather" = "Kummi";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Godfather_Inverted" = "Henkilön %@ kummi";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Neighbor" = "Naapuri";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Neighbor_Inverted" = "Naapuri";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Servant" = "Palvelija";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Servant_Inverted" = "Työnataja/mestari";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Teacher" = "Opettaja";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Teacher_Inverted" = "Oppilas";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfBirth" = "Syntymätodistaja";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfBirth_Inverted" = "Henkilön %@ syntymätodistaja";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfCivilMarriage" = "Siviilavioliiton todistaja";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfCivilMarriage_Inverted" = "Henkilön %@ siviilavioliiton todistaja";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfDeath" = "Kuolintodistaja";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfDeath_Inverted" = "Henkilön %@ kuolintodistaja";
+
+/* Family Container */
+"_AssociateRelation_Type_WitnessOfMarriage" = "Avioliiton todistaja";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfMarriage_Inverted" = "Henkilön %@ avioliiton todistaja";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfReligiousMarriage" = "Uskonnollisen avioliiton todistaja";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfReligiousMarriage_Inverted" = "Henkilön %@ uskonnollisen avioliiton todistaja";
+

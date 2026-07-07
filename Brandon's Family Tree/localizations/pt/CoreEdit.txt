@@ -1,0 +1,1707 @@
+﻿/* (No Comment) */
+"_BaseEditController_DeleteBaseObjectQuestionInformative" = "Você tem certeza que deseja apagar esta entrada de sua árvore genealógica?";
+
+/* (No Comment) */
+"_BaseEditController_DeleteBaseObjectQuestionMessage" = "Apagar '%@'?";
+
+/* (No Comment) */
+"_BaseEditController_DeletePersonQuestionInformative" = "Você tem certeza que deseja apagar esta pessoa de sua árvore genealógica?";
+
+/* BaseEditController */
+"_BaseEditController_DeletePersonQuestionMessage" = "Apagar pessoa '%@'?";
+
+/* (No Comment) */
+"_BaseEditController_ManuallyAddPlaceDetailInformative" = "Insira o nome do novo detalhe do local '%@'";
+
+/* (No Comment) */
+"_BaseEditController_ManuallyAddPlaceDetailTitle" = "Adicionar manualmente detalhes do local";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_AddEventButton" = "Adicione Evento";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_AgeAtEvent" = "Idade no Evento";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_CopyEventToPersonMenuItem" = "Copiar evento para pessoa…";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_CreateStoryFromEventMenuItem" = "Criar história para o evento";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_DeadButNoFurtherInfoCheckbox" = "Marcar pessoa como falecida, mas nenhuma informação adicional está disponível";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_DeleteEvent" = "Apagar evento";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_EditEventDetails" = "Editar detalhes do evento";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_EditFamilyEventConclusionTypes" = "Editar tipos de evento familiar…";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_EditFamilyMenuItem" = "Editar Família %@";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_EditPersonEventConclusionTypes" = "Editar tipos de evento pessoal…";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_EditPlaceDetails" = "Editar detalhes do local…";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_EventPlaceholder" = "%@ – Insira as informações aqui";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_FamilyEventPlaceholder" = "%@ com %@ – Insira as informações aqui";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_FurtherOptionsButton" = "Opções Adicionais…";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_LargePlaceholder" = "Nenhum evento presente";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_LookupNewPlaceDetail" = "Pesquisar novos detalhes do local…";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_ManuallyAddPlaceDetail" = "Adicionar manualmente novos detalhes do local…";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_MarriedButNoFurtherInfoCheckbox" = "Marcar casal como casados, mas nenhuma informação adicional está disponível";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_NoDateAvailable" = "Nenhuma data inserida";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_NoNotesPlaceholder" = "Nenhuma nota inserida";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_NoPlacePlaceholder" = "Nenhum lugar inserido";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_NoSourcesPlaceholder" = "Nenhuma origem inserida";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_SmallPlaceholder" = "Use o botão acima para adicionar um novo evento.";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_Sorting_ByDate" = "Por Data do Evento";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_Sorting_ByDescription" = "Por Descrição";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_Sorting_ByTypeAndDate" = "Por Tipo e Data do Evento";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_Sorting_ByTypeName" = "Por Nome do Tipo de Evento";
+
+/* Shared Base Events */
+"_BaseEditEventsContentController_Title" = "Eventos";
+
+/* BaseEditHeaderContentController */
+"_BaseEditHeaderContentController_Title" = "Cabeçalho";
+
+/* (No Comment) */
+"_BaseEditListContentController_SortAscending" = "Ascendente";
+
+/* (No Comment) */
+"_BaseEditListContentController_SortDescending" = "Descendente";
+
+/* BaseEditListContentController */
+"_BaseEditListContentController_SortingButton" = "Ordenação";
+
+/* (No Comment) */
+"_BaseEditPlaceLinksContentController_OtherLanguagesButton" = "Outros idiomas…";
+
+/* (No Comment) */
+"_BaseEditPlaceLinksContentController_ShowArticleButton" = "Mostrar artigo";
+
+/* (No Comment) */
+"_BaseReferencedEntriesListContentController_EditFamilyEventMenuItem" = "Editar evento familiar '%@'";
+
+/* (No Comment) */
+"_BaseReferencedEntriesListContentController_EditFamilyMenuItem" = "Editar família '%@'";
+
+/* (No Comment) */
+"_BaseReferencedEntriesListContentController_EditPersonEventMenuItem" = "Editar evento pessoal '%@'";
+
+/* BaseReferencedEntriesListContentController */
+"_BaseReferencedEntriesListContentController_EditPersonMenuItem" = "Editar pessoa '%@'";
+
+/* (No Comment) */
+"_Column_aboveMainFullWidth_0" = "Área Principal";
+
+/* (No Comment) */
+"_Column_main_0" = "Lado esquerdo";
+
+/* (No Comment) */
+"_Column_main_1" = "Lado direito";
+
+/* (No Comment) */
+"_Column_main_256" = "Barra lateral";
+
+/* (No Comment) */
+"_Column_parents_0" = "Lado esquerdo";
+
+/* (No Comment) */
+"_Column_parents_1" = "Lado direito";
+
+/* (No Comment) */
+"_Column_top_0" = "Área Principal";
+
+/* Common */
+"_CommonEdit_NoLabelsAssignedPlaceholder" = "Nenhuma etiqueta atribuída";
+
+/* (No Comment) */
+"_DatabaseChangesController_DeleteChangeLogEntryMessage" = "Deseja realmente apagar a entrada do registro de alterações?";
+
+/* (No Comment) */
+"_DatabaseChangesController_PurgeAllChangesInformative" = "Confirme se deseja apagar todas as entradas do registro de alterações de sua árvore genealógica.";
+
+/* (No Comment) */
+"_DatabaseChangesController_PurgeAllChangesInformativeWithDate" = "Confirme se deseja apagar todas as entradas do registro de alterações feitas anterior a %@.";
+
+/* DatabaseChangesController */
+"_DatabaseChangesController_PurgeAllChangesMessage" = "Deseja realmente limpar o registro de alterações? Esta ação não pode ser desfeita.";
+
+/* (No Comment) */
+"_DatabaseChangesController_PurgeAllChangesOfDeletedEntriesInformative" = "Confirme se deseja apagar todas as entradas do registro de alterações referentes a pessoas, famílias etc. apagadas.";
+
+/* (No Comment) */
+"_DatabaseChangesController_PurgeAllChangesOfDeletedEntriesMessage" = "Deseja realmente limpar o registro de alterações para entradas apagadas? Esta ação não pode ser desfeita.";
+
+/* (No Comment) */
+"_DatabaseChangesController_PurgeButton" = "Limpar registro de alterações";
+
+/* (No Comment) */
+"_EditAssociateRelationGeneralController_Source" = "Origem";
+
+/* (No Comment) */
+"_EditAssociateRelationGeneralController_Target" = "Destino";
+
+/* EditAssociateRelationGeneralController */
+"_EditAssociateRelationGeneralController_Title" = "Geral";
+
+/* (No Comment) */
+"_EditAssociatesContentController_AddAssociatedPersonButton" = "Adicionar pessoa influente";
+
+/* (No Comment) */
+"_EditAssociatesContentController_AddExistingFamilyAsAssociate" = "Adicionar família existente como família influente";
+
+/* (No Comment) */
+"_EditAssociatesContentController_AddExistingPersonAsAssociate" = "Adicionar pessoa existente como pessoa influente";
+
+/* (No Comment) */
+"_EditAssociatesContentController_AddNewFamilyAsAssociate" = "Adicionar nova família influente";
+
+/* (No Comment) */
+"_EditAssociatesContentController_AddNewPersonAsAssociate" = "Adicionar nova pessoa influente";
+
+/* (No Comment) */
+"_EditAssociatesContentController_EditAssociateRelationConclusionTypes" = "Editar tipos de relação influente…";
+
+/* (No Comment) */
+"_EditAssociatesContentController_LargePlaceholder" = "Nenhuma pessoa influente presente";
+
+/* (No Comment) */
+"_EditAssociatesContentController_RemoveAssociateButton" = "Remover pessoa influente";
+
+/* (No Comment) */
+"_EditAssociatesContentController_RemoveAssociateRelationInformative" = "Isso não removerá a pessoa de sua árvore genealógica, mas apenas a relação com essa pessoa.";
+
+/* (No Comment) */
+"_EditAssociatesContentController_RemoveAssociateRelationMessage" = "Você tem certeza que deseja remover a relação com '%@'?";
+
+/* (No Comment) */
+"_EditAssociatesContentController_SmallPlaceholder" = "Use o botão acima para adicionar Pessoas Influentes como Padrinhos";
+
+/* EditAssociatesContentController */
+"_EditAssociatesContentController_Title" = "Pessoas Influentes";
+
+/* (No Comment) */
+"_EditBookmarkContentController_OtherBookmarkedEntries_BaseMedia" = "Mídia";
+
+/* (No Comment) */
+"_EditBookmarkContentController_OtherBookmarkedEntries_Family" = "Famílias";
+
+/* (No Comment) */
+"_EditBookmarkContentController_OtherBookmarkedEntries_Person" = "Pessoas";
+
+/* (No Comment) */
+"_EditBookmarkContentController_OtherBookmarkedEntries_Place" = "Locais";
+
+/* (No Comment) */
+"_EditBookmarkContentController_OtherBookmarkedEntries_Source" = "Origens";
+
+/* EditBookmarkContentController */
+"_EditBookmarkContentController_Title" = "Favoritos";
+
+/* Common */
+"_EditCommon_PrivateFlagLabel" = "Particular";
+
+/* (No Comment) */
+"_EditCreationAndChangeDateContentController_ChangeDate" = "Alterar data";
+
+/* (No Comment) */
+"_EditCreationAndChangeDateContentController_CreationDate" = "Data de criação";
+
+/* EditCreationAndChangeDateContentController */
+"_EditCreationAndChangeDateContentController_Title" = "Última edição";
+
+/* (No Comment) */
+"_EditDNATestResultATDNARawDataContentController_DataPresentString" = "Dados brutos para atDNA armazenados, tamanho do arquivo: %@";
+
+/* EditDNATestResultATDNARawDataContentController */
+"_EditDNATestResultATDNARawDataContentController_Title" = "Dados brutos atDNA";
+
+/* EditDNATestResultBaseMTDNARegionSNPDifferencesContentController */
+"_EditDNATestResultBaseMTDNARegionSNPDifferencesContentController_AddMarkerButton" = "Adicionar Marcador";
+
+/* (No Comment) */
+"_EditDNATestResultBaseMTDNARegionSNPDifferencesContentController_LargePlaceholder" = "Nenhum marcador inserido";
+
+/* (No Comment) */
+"_EditDNATestResultBaseMTDNARegionSNPDifferencesContentController_SmallPlaceholder" = "Use o botão acima para adicionar marcadores";
+
+/* (No Comment) */
+"_EditDNATestResultBaseRawDataContentController_AddDataButton" = "Adicionar Dados";
+
+/* (No Comment) */
+"_EditDNATestResultBaseRawDataContentController_DeleteDNARawDataInformative" = "Você tem certeza que deseja apagar os dados brutos de DNA associados a este teste?";
+
+/* (No Comment) */
+"_EditDNATestResultBaseRawDataContentController_DeleteDNARawDataMessage" = "Deseja realmente apagar os dados de DNA?";
+
+/* EditDNATestResultBaseRawDataContentController */
+"_EditDNATestResultBaseRawDataContentController_LargePlaceholder" = "Nenhum dado bruto de DNA foi adicionado";
+
+/* (No Comment) */
+"_EditDNATestResultBaseRawDataContentController_SelectFileMessage" = "Selecione um arquivo para salvar como dados brutos de DNA";
+
+/* (No Comment) */
+"_EditDNATestResultBaseRawDataContentController_SmallPlaceholder" = "Use o botão acima para adicionar dados brutos de DNA";
+
+/* (No Comment) */
+"_EditDNATestResultController_Title" = "Resultado do teste de DNA";
+
+/* (No Comment) */
+"_EditDNATestResultGeneralContentController_NoNameEnteredPlaceholder" = "Nenhum nome de teste foi inserido";
+
+/* EditDNATestResultGeneralContentController */
+"_EditDNATestResultGeneralContentController_Title" = "Geral";
+
+/* (No Comment) */
+"_EditDNATestResultMTDNAGeneralInformationContentController_NoHaplogroupPlaceholder" = "Nenhum haplogrupo inserido";
+
+/* EditDNATestResultMTDNAGeneralInformationContentController */
+"_EditDNATestResultMTDNAGeneralInformationContentController_Title" = "Informações mtDNA";
+
+/* (No Comment) */
+"_EditDNATestResultMTDNARawDataContentController_DataPresentString" = "Dados brutos para mtDNA armazenados, tamanho do arquivo: %@";
+
+/* EditDNATestResultMTDNARawDataContentController */
+"_EditDNATestResultMTDNARawDataContentController_Title" = "Dados brutos mtDNA";
+
+/* EditDNATestResultMTNDNACodingRegionSNPDifferencesContentController */
+"_EditDNATestResultMTNDNACodingRegionSNPDifferencesContentController_Title" = "Diferenças SNP da região de codificação do mtDNA";
+
+/* EditDNATestResultMTNDNAHVR1SNPDifferencesContentController */
+"_EditDNATestResultMTNDNAHVR1SNPDifferencesContentController_Title" = "Diferenças SNP do mtDNA HVR1";
+
+/* EditDNATestResultMTNDNAHVR2SNPDifferencesContentController */
+"_EditDNATestResultMTNDNAHVR2SNPDifferencesContentController_Title" = "Diferenças SNP do mtDNA HVR2";
+
+/* (No Comment) */
+"_EditDNATestResultYDNAGeneralInformationContentController_NoHaplogroupPlaceholder" = "Nenhum haplogrupo inserido";
+
+/* EditDNATestResultYDNAGeneralInformationContentController */
+"_EditDNATestResultYDNAGeneralInformationContentController_Title" = "Informações Y-DNA";
+
+/* (No Comment) */
+"_EditDNATestResultYDNARawDataContentController_DataPresentString" = "Dados brutos para Y-DNA armazenados, tamanho do arquivo: %@";
+
+/* EditDNATestResultYDNARawDataContentController */
+"_EditDNATestResultYDNARawDataContentController_Title" = "Dados brutos Y-DNA";
+
+/* (No Comment) */
+"_EditDNATestResultYDNASTRMarkerListContentController_AddMarkerButton" = "Adicionar Marcador";
+
+/* (No Comment) */
+"_EditDNATestResultYDNASTRMarkerListContentController_LargePlaceholder" = "Nenhum marcador Y-DNA STR inserido";
+
+/* (No Comment) */
+"_EditDNATestResultYDNASTRMarkerListContentController_SmallPlaceholder" = "Use o botão acima para adicionar marcadores Y-DNA STR";
+
+/* EditDNATestResultYDNASTRMarkerListContentController */
+"_EditDNATestResultYDNASTRMarkerListContentController_Title" = "Marcadores Y-DNA STR";
+
+/* EditEventGeneralContentController */
+"_EditEventGeneralContentController_Title" = "Geral";
+
+/* (No Comment) */
+"_EditEventPlaceContentController_AssignPlace" = "Atribuir local";
+
+/* (No Comment) */
+"_EditEventPlaceContentController_LargePlaceholder" = "Nenhum local atribuído";
+
+/* (No Comment) */
+"_EditEventPlaceContentController_SelectExistingPlace" = "Selecionar local";
+
+/* (No Comment) */
+"_EditEventPlaceContentController_ShowPlace" = "Mostrar local";
+
+/* (No Comment) */
+"_EditEventPlaceContentController_SmallPlaceholder" = "Nenhum local foi atribuído a este evento. Use o botão acima para atribuir um local existente ou procurar um novo local";
+
+/* EditEventPlaceContentController */
+"_EditEventPlaceContentController_Title" = "Local";
+
+/* (No Comment) */
+"_EditEventPlaceController_FieldsHint" = "Insira as informações para este local nos campos abaixo. Se precisar de campos diferentes, considere selecionar um modelo de local diferente ou adicionar os campos ao modelo de local.";
+
+/* EditEventPlaceController */
+"_EditEventPlaceController_TemplateHint" = "Selecione um modelo de local para este local no botão abaixo. Se nenhum modelo adequado estiver disponível, use a opção 'Editar modelos' para criar um novo modelo";
+
+/* EditEventPlaceDetailContentController */
+"_EditEventPlaceDetailContentController_Title" = "Detalhe do local";
+
+/* EditEventPlace */
+"_EditEventPlaceSheetLookupNewPlaceSection_Title" = "Pesquisar novo local";
+
+/* (No Comment) */
+"_EditEventPlaceSheetManualEnterPlaceSection_Title" = "Inserir local manualmente";
+
+/* (No Comment) */
+"_EditEventPlaceSheetManualEnterPlaceSection_TitleReplace" = "Editar local manualmente";
+
+/* (No Comment) */
+"_EditEventPlaceSheetSelectExistingPlaceSection_Title" = "Selecionar local existente";
+
+/* (No Comment) */
+"_EditEventPlaceSheetSelectExistingPlaceSection_TitleReplace" = "Substiutir com local existente";
+
+/* (No Comment) */
+"_EditEventPlaceViewController_EditPlace" = "Editar local";
+
+/* (No Comment) */
+"_EditEventPlaceViewController_JustLookUpCoordinate" = "Apenas coordenada de pesquisa";
+
+/* (No Comment) */
+"_EditEventPlaceViewController_RemoveCurrentPlace" = "Remover local atual";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_AddExistingManButton" = "Adicionar homem existente";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_AddExistingWomanButton" = "Adicionar mulher existente";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_AddNewManButton" = "Adicionar um novo homem";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_AddNewWomanButton" = "Adicionar uma nova mulher";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_EditParentButton" = "Editar";
+
+/* EditFamilyController */
+"_EditFamilyBaseEditParentContentController_NoManPlaceholder" = "Nenhum homem foi adicionado para esta família. Selecione os botões abaixo para adicionar um homem novo ou existente para esta família.";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_NoWomanPlaceholder" = "Nenhuma mulher foi adicionada para esta família. Selecione os botões abaixo para adicionar uma mulher nova ou existente para esta família.";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_RemoveAsManButton" = "Remover como homem";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_RemoveAsPartner1Button" = "Remover como cônjuge 1";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_RemoveAsPartner2Button" = "Remover como cônjuge 2";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_RemoveAsWomanButton" = "Remover como mulher";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_RemoveFromFamilyInformative" = "Você deseja realmente remover este pai desta família? O pai não será apagado, mas não fará mais parte desta família.";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_RemoveFromFamilyMessage" = "Remover pai '%@'?";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_ShowParentButton" = "Mostrar";
+
+/* EditFamilyChildContentController */
+"_EditFamilyChildContentController_Title" = "Filho(a)";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_AddChildTopLevelButton" = "Adicionar filho(a)";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_AddExistingChildButton" = "Adicionar filho(a) existente";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_AddNewChildButton" = "Adicionar novo filho(a)";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_ChildOrder" = "Filho(a) #%d";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_ChildOrderPopup" = "Personalizar ordem do(a) filho(a)";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_DeleteChildRelationInformative" = "Você deseja realmente remover este(a) filho(a) desta família? O(A) filho(a) não será apagado(a), mas não fará mais parte desta família.";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_DeleteChildRelationMessage" = "Remover filho(a) '%@' da família?";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_EditChildButton" = "Editar";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_LargePlaceholder" = "Nenhum(a) filho(a) presente";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_RemoveAsChildButton" = "Remover como filho(a)";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_SmallPlaceholder" = "Nenhum(a) filho(a) foi inserido nesta família. Use os botões acima para adicionar filhos.";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_Sorting_ByBirthDate" = "Por Data de Nascimento";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_Sorting_ByName" = "Por Nome";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_Sorting_CustomOrder" = "Personalizar Ordem";
+
+/* (No Comment) */
+"_EditFamilyController_AddFatherPlaceholder" = "Adicionr pai de %@";
+
+/* (No Comment) */
+"_EditFamilyController_AddMotherPlaceholder" = "Adicionr mãe de %@";
+
+/* (No Comment) */
+"_EditFamilyController_AddNewFamily" = "Adicionar nova família";
+
+/* (No Comment) */
+"_EditFamilyController_AddParent1Placeholder" = "Adicionar pai 1 de %@";
+
+/* (No Comment) */
+"_EditFamilyController_AddParent2Placeholder" = "Adicionar pai 2 de %@";
+
+/* (No Comment) */
+"_EditFamilyController_DeleteFamily" = "Apagar família";
+
+/* (No Comment) */
+"_EditFamilyController_DeleteFamilyQuestionMessage" = "Deseja realmente apagar a família?";
+
+/* (No Comment) */
+"_EditFamilyController_NoFamiliesPlaceholder_AddFamilyButton" = "Adicionar Primeira Família";
+
+/* (No Comment) */
+"_EditFamilyController_NoFamiliesPlaceholder_Message" = "Não existe famílias nesta árvore genealógica. Selecione \"Adicionar Primeira Família\" para criar sua primeira família.";
+
+/* (No Comment) */
+"_EditFamilyController_NoFamiliesPlaceholder_Title" = "Nenhuma família presente";
+
+/* (No Comment) */
+"_EditFamilyController_ParentsOfLabel" = "Pais de %@";
+
+/* (No Comment) */
+"_EditFamilyController_Title" = "Editar Família";
+
+/* EditFamilyEditManContentController */
+"_EditFamilyEditManContentController_Title" = "Homem";
+
+/* EditFamilyEditWomanContentController */
+"_EditFamilyEditWomanContentController_Title" = "Mulher";
+
+/* (No Comment) */
+"_EditFamilyEventController_Title" = "Editar evento familiar";
+
+/* EditFamilyTreeInformationContactContentController */
+"_EditFamilyTreeInformationContactContentController_Title" = "Contato do autor";
+
+/* (No Comment) */
+"_EditFamilyTreeInformationController_Title" = "Autor";
+
+/* EditFamilyTreeInformationFamilyCrestContentController */
+"_EditFamilyTreeInformationFamilyCrestContentController_Title" = "Brasão da Família";
+
+/* EditFamilyTreeInformationHeaderContentController */
+"_EditFamilyTreeInformationHeaderContentController_LargeTitle" = "Sobre o autor deste árvore genealógica";
+
+/* (No Comment) */
+"_EditFamilyTreeInformationIconSettingsContentController_AddToIconButton" = "Adicionar mídia para ícone";
+
+/* (No Comment) */
+"_EditFamilyTreeInformationIconSettingsContentController_RemoveMediaFromIconMenuItem" = "Remover do ícone";
+
+/* EditFamilyTreeInformationIconSettingsContentController */
+"_EditFamilyTreeInformationIconSettingsContentController_Title" = "Ajustes do ícone";
+
+/* (No Comment) */
+"_EditFamilyTreeInformationNameAndAddressContentController_NoNamePlaceholder" = "Nenhum nome inserido";
+
+/* EditFamilyTreeInformationNameAndAddressContentController */
+"_EditFamilyTreeInformationNameAndAddressContentController_Title" = "Nome e endereço do autor";
+
+/* (No Comment) */
+"_EditLabel_DeleteLabelMessage" = "Isso vai apagar permanentemente essa etiqueta e a removerá de todas as entradas associadas em sua árvore genealógica.";
+
+/* Edit Labels Views */
+"_EditLabel_DeleteLabelTitle" = "Deseja realmente apagar a etqueta?";
+
+/* (No Comment) */
+"_EditLabelsContentController_NoLabelsLargePlaceholder" = "Nenhuma etiqueta presente";
+
+/* (No Comment) */
+"_EditLabelsContentController_NoLabelsSmallPlaceholder" = "Nenhuma etiqueta está presente nesta árvore genealógica. Use o botão acima para adicionar etiquetas.";
+
+/* Shared Labels */
+"_EditLabelsContentController_Title" = "Etiquetas";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_AddEntryButton" = "Edicionar Entrada";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_EditMediaRelationAssignmentButton" = "Editar Área de Atribuições";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_LargePlaceholder" = "Nenhuma entrada atribuída está presente";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_RemoveFromMediaButton" = "Remover";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_RemoveMediaFromEntryAndDeleteInformative" = "Como esta é a última entrada atribuída para esta mídia, a mídia será removida da árvore genealógica.";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_RemoveMediaFromEntryAndDeleteMessage" = "Você deseja realmente apagar esta mídia?";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_RemoveMediaFromEntryInformative" = "Esta ação não vai apagar a mídia, mas apenas remover a atribuição da entrada para esta mídia.";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_RemoveMediaFromEntryMessage" = "Você deseja realmente remover a entrada '%@' desta mídia?";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_SmallPlaceholder" = "Use o botão acima para atribuir entradas como pessoas ou famílias para esta mídia";
+
+/* EditMediaAssignedEntriesContentController */
+"_EditMediaAssignedEntriesContentController_Title" = "Entradas Atribuídas";
+
+/* (No Comment) */
+"_EditMediaContentController_AddMediaButton" = "Adicionar Mídia";
+
+/* (No Comment) */
+"_EditMediaContentController_BringToFrontMenuItem" = "Ordenar mídia para frente";
+
+/* (No Comment) */
+"_EditMediaContentController_DeleteMediaQuestionInformative" = "Você tem certeza que deseja apagar esta mídia de sua árvore genealógica?";
+
+/* (No Comment) */
+"_EditMediaContentController_DeleteMediaQuestionMessage" = "Deseja realmente apagar a mídia?";
+
+/* (No Comment) */
+"_EditMediaContentController_DeleteMenuItem" = "Apagar";
+
+/* (No Comment) */
+"_EditMediaContentController_DoNotUseAsEntryImageMenuItem" = "Não usar como imagem de entrada";
+
+/* (No Comment) */
+"_EditMediaContentController_EditMenuItem" = "Editar…";
+
+/* (No Comment) */
+"_EditMediaContentController_LargePlaceholder" = "Nenhuma mídia presente";
+
+/* (No Comment) */
+"_EditMediaContentController_MarkAsNotPrivateMenuItem" = "Marcar como não particular";
+
+/* (No Comment) */
+"_EditMediaContentController_MarkAsPrivateMenuItem" = "Marcar como particular";
+
+/* (No Comment) */
+"_EditMediaContentController_NoPicture_SmallPlaceholder" = "Use o botão acima para adicionar imagens.";
+
+/* (No Comment) */
+"_EditMediaContentController_ShowSlideshowButton" = "Apresentação";
+
+/* (No Comment) */
+"_EditMediaContentController_SmallPlaceholder" = "Use o botão acima para adicionar fotos, PDFs, vídeos, áudio ou páginas da web";
+
+/* Media */
+"_EditMediaContentController_Title" = "Mídia";
+
+/* (No Comment) */
+"_EditMediaContentController_UseAsEntryImageMenuItem" = "Usar como imagem de entrada";
+
+/* EditMediaController */
+"_EditMediaController_LargePlaceholder" = "Nenhuma mídia presente";
+
+/* (No Comment) */
+"_EditMediaController_SmallPlaceholder" = "Adicionar mídia às seções de mídia ao editar pessoas, famílias ou locais";
+
+/* (No Comment) */
+"_EditMediaController_Title" = "Editar Mídia";
+
+/* (No Comment) */
+"_EditMediaCropColorizeContentController_Explanation" = "Selecione o botão acima para cortar, colorir, remover riscos, melhorar ou remover o fundo desta imagem.";
+
+/* (No Comment) */
+"_EditMediaCropColorizeContentController_OpenCropColorizeButton" = "Editar e Aprimorar Imagem…";
+
+/* (No Comment) */
+"_EditMediaCropColorizeContentController_SuiteableForColorizeExplanation" = "Esta imagem parece ser adequada para colorização. Você pode colorir automaticamente, aprimorar, remover riscos ou cortar imagens usando o botão acima.";
+
+/* EditMediaCropColorizeContentController */
+"_EditMediaCropColorizeContentController_Title" = "IA e Cortar";
+
+/* EditMediaGeneralContentController */
+"_EditMediaGeneralContentController_Title" = "Geral";
+
+/* EditMediaMediaPreviewContentController */
+"_EditMediaMediaPreviewContentController_Title" = "Mídia";
+
+/* (No Comment) */
+"_EditMediaMediaPreviewContentControlleriOSPlatformView_ShowAudioButton" = "Mostrar Áudio…";
+
+/* (No Comment) */
+"_EditMediaMediaPreviewContentControlleriOSPlatformView_ShowFullImageButton" = "Mostrar Tamanho Completo da Imagem…";
+
+/* (No Comment) */
+"_EditMediaMediaPreviewContentControlleriOSPlatformView_ShowFullPDFButton" = "Mostrar PDF Completo";
+
+/* (No Comment) */
+"_EditMediaMediaPreviewContentControlleriOSPlatformView_ShowVideoButton" = "Mostrar Vídeo…";
+
+/* (No Comment) */
+"_EditMediaMediaPreviewContentControlleriOSPlatformView_ShowWebsiteButton" = "Mostrar Site…";
+
+/* (No Comment) */
+"_EditNotesContentController_AddNoteButton" = "Adicionar Nota";
+
+/* (No Comment) */
+"_EditNotesContentController_DeleteNoteQuestionMessage" = "Deseja realmente apagar a nota?";
+
+/* (No Comment) */
+"_EditNotesContentController_LargePlaceholder" = "Nenhuma nota presente";
+
+/* (No Comment) */
+"_EditNotesContentController_NoNoteTextPlaceholder" = "Nenhuma nota de texto inserida";
+
+/* (No Comment) */
+"_EditNotesContentController_SmallPlaceholder" = "Use o botão acima para adicionar uma nova nota";
+
+/* (No Comment) */
+"_EditNotesContentController_Sorting_ByChangeDate" = "Por Data de Modificação";
+
+/* (No Comment) */
+"_EditNotesContentController_Sorting_ByCreationDate" = "Por Data de Criação";
+
+/* (No Comment) */
+"_EditNotesContentController_Sorting_ByText" = "Por Texto";
+
+/* EditNotesContentController */
+"_EditNotesContentController_Title" = "Notas";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_AddAdditionalNameButton" = "Adicionar Nome";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_AdditionalNamePlaceholder" = "%@ – Insira as informações aqui";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_DeleteAdditionalNameQuestionInformative" = "Você tem certeza que deseja apagar este nome adicional?";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_DeleteAdditionalNameQuestionMessage" = "Apagar o nome adicional '%@'?";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_EditAdditionalNameConclusionTypes" = "Editar tipos de nome adicionais…";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_LargePlaceholder" = "Nenhum nome adicional presente";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_SmallPlaceholder" = "Use o botão acima para adicionar um novo nome adicional.";
+
+/* EditPerson Additional Names */
+"_EditPersonAdditionalNamesContentController_Title" = "Nomes Adicionais";
+
+/* (No Comment) */
+"_EditPersonController_AddBrotherMenuItem" = "Adicionar Novo Irmão";
+
+/* (No Comment) */
+"_EditPersonController_AddChildPlaceholder" = "Adicionar Novo(a) Filho(a)";
+
+/* (No Comment) */
+"_EditPersonController_AddExistingFurtherPartnerMenuItem" = "Adicionar Pessoa Existente como Cônjuge Adicional…";
+
+/* (No Comment) */
+"_EditPersonController_AddExistingPersonAsChildMenuItem" = "Adicionar Pessoa Existente como Filho(a)…";
+
+/* (No Comment) */
+"_EditPersonController_AddExistingPersonAsFatherMenuItem" = "Adicionar Pessoa Existente como Pai…";
+
+/* (No Comment) */
+"_EditPersonController_AddExistingPersonAsMotherMenuItem" = "Adicionar Pessoa Existente como Mãe…";
+
+/* (No Comment) */
+"_EditPersonController_AddExistingPersonAsPartnerMenuItem" = "Adicionar Pessoa Existente como Cônjuge…";
+
+/* EditPersonController */
+"_EditPersonController_AddFatherPlaceholder" = "Adicionar Novo Pai";
+
+/* (No Comment) */
+"_EditPersonController_AddFurtherFather" = "Adicionar Outro Pai";
+
+/* (No Comment) */
+"_EditPersonController_AddFurtherMother" = "Adicionar Outra Mãe";
+
+/* (No Comment) */
+"_EditPersonController_AddFurtherPartnerMenuItem" = "Adicionar Outro Cônjuge";
+
+/* (No Comment) */
+"_EditPersonController_AddMotherPlaceholder" = "Adicionar Nova Mãe";
+
+/* (No Comment) */
+"_EditPersonController_AddNewPersonAsChildMenuItem" = "Adicionar Novo(a) Filho(a)";
+
+/* (No Comment) */
+"_EditPersonController_AddNewPersonAsFatherMenuItem" = "Adicionar Novo Pai";
+
+/* (No Comment) */
+"_EditPersonController_AddNewPersonAsMotherMenuItem" = "Adicionar Nova Mãe";
+
+/* (No Comment) */
+"_EditPersonController_AddNewPersonAsPartnerMenuItem" = "Adicionar Novo Cônjuge";
+
+/* (No Comment) */
+"_EditPersonController_AddNewPersonMenuItem" = "Adicionar nova pessoa";
+
+/* (No Comment) */
+"_EditPersonController_AddPartnerPlaceholder" = "Adicionar Novo Cônjuge";
+
+/* (No Comment) */
+"_EditPersonController_AddSisterMenuItem" = "Adicionar Nova Irmã";
+
+/* (No Comment) */
+"_EditPersonController_BrotherOrSisterOfFamilyMenuItem" = "Irmão ou Irmã de '%@' na Família…";
+
+/* (No Comment) */
+"_EditPersonController_ChildRelationTypeForFatherMenuItem" = "Relação com o Pai %@";
+
+/* (No Comment) */
+"_EditPersonController_ChildRelationTypeForMotherMenuItem" = "Relação com a Mãe %@";
+
+/* (No Comment) */
+"_EditPersonController_ChildRelationTypeMenuItem" = "Tipo de Relação de Filho(a)";
+
+/* (No Comment) */
+"_EditPersonController_DeleteFamily" = "Apagar família";
+
+/* (No Comment) */
+"_EditPersonController_DeletePerson" = "Apagar pessoa";
+
+/* (No Comment) */
+"_EditPersonController_DeletePersonMenuItem" = "Apagar %@…";
+
+/* (No Comment) */
+"_EditPersonController_EditFamilyMenuItem" = "Editar Família %@";
+
+/* (No Comment) */
+"_EditPersonController_EditFamilyMenuItem_WithoutPlaceholder" = "Editar família";
+
+/* (No Comment) */
+"_EditPersonController_EditPersonMenuItem" = "Editar %@";
+
+/* (No Comment) */
+"_EditPersonController_NoPersonsPlaceholder_AddPersonButton" = "Adicionar Primeira Pessoa";
+
+/* (No Comment) */
+"_EditPersonController_NoPersonsPlaceholder_Message" = "Não existe pessoas nesta árvore genealógica. Selecione \"Adicionar Primeira Pessoa\" para criar sua primeira pessoa.";
+
+/* (No Comment) */
+"_EditPersonController_NoPersonsPlaceholder_Title" = "Nenhuma pessoa presente";
+
+/* (No Comment) */
+"_EditPersonController_ParentsOptionsButton" = "Opções de Pais…";
+
+/* (No Comment) */
+"_EditPersonController_PartnerOptionsButton" = "Opções de Cônjuges…";
+
+/* (No Comment) */
+"_EditPersonController_RemovePersonFromFamilyMenuItem" = "Remover %@ da família";
+
+/* (No Comment) */
+"_EditPersonController_RemovePersonQuestionInformative" = "Essa ação não vai apagar a pessoa de sua árvore genealógica, mas removerá a pessoa desta família.";
+
+/* (No Comment) */
+"_EditPersonController_RemovePersonQuestionMessage" = "Você tem certeza que deseja remover a pessoa '%@' da família '%@'?";
+
+/* (No Comment) */
+"_EditPersonController_SelectFamily" = "Selecionar Família";
+
+/* (No Comment) */
+"_EditPersonController_ShowOldestAncestorsMenuItem" = "Antepassados mais antigos…";
+
+/* (No Comment) */
+"_EditPersonController_ShowYoungestAncestorsMenuItem" = "Descendentes mais novos…";
+
+/* Titles */
+"_EditPersonController_Title" = "Editar Pessoa";
+
+/* (No Comment) */
+"_EditPersonDNAContentController_AddDNATest" = "Adicionar resultado de teste de DNA";
+
+/* (No Comment) */
+"_EditPersonDNAContentController_EditDNATestResultButton" = "Editar data do DNA";
+
+/* (No Comment) */
+"_EditPersonDNAContentController_LargePlaceholder" = "Nenhum teste de DNA foi inserido";
+
+/* (No Comment) */
+"_EditPersonDNAContentController_SmallPlaceholder" = "Use os botões acima para adicionar resultados de teste de DNA para esta pessoa";
+
+/* (No Comment) */
+"_EditPersonDNAContentController_Sorting_ByDate" = "Por Data";
+
+/* (No Comment) */
+"_EditPersonDNAContentController_Sorting_ByTitle" = "Por Título";
+
+/* EditPersonDNAContentController */
+"_EditPersonDNAContentController_Title" = "DNA";
+
+/* (No Comment) */
+"_EditPersonEventController_Title" = "Editar Evento Pessoal";
+
+/* (No Comment) */
+"_EditPersonFactController_Title" = "Editar Fato Pessoal";
+
+/* EditPersonFactGeneralContentController */
+"_EditPersonFactGeneralContentController_Title" = "Geral";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_AddFactButton" = "Adicionar Fato";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_DeleteFactQuestionMessage" = "Apagar fato pessoal?";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_EditFactDetails" = "Editar Detalhes do Fato";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_EditPersonFactConclusionTypes" = "Editar tipos de fato pessoal";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_FactPlaceholder" = "%@ – Insira as informações aqui";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_LargePlaceholder" = "Nenhum fato presente";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_SmallPlaceholder" = "Use o botão acima para adicionar um fato.";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_Sorting_ByFactType" = "Por Tipo de Fato";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_Sorting_ByFactValue" = "Por Valor do Fato";
+
+/* EditPersonFactsContentController */
+"_EditPersonFactsContentController_Title" = "Fatos";
+
+/* (No Comment) */
+"_EditPersonFamilySearchContentController_DetailsButton" = "Detalhes";
+
+/* EditPersonFamilySearchContentController */
+"_EditPersonFamilySearchContentController_Title" = "FamilySearch";
+
+/* (No Comment) */
+"_EditPersonGroupController_AddPersonGroupButton" = "Criar Primeiro Grupo de Pessoas";
+
+/* EditPersonGroupController */
+"_EditPersonGroupController_LargePlaceholder" = "Nenhum grupo de pessoas presente";
+
+/* (No Comment) */
+"_EditPersonGroupController_SmallPlaceholder" = "Não existe grupos de pessoas nesta árvore genealógica. Grupos de pessoas podem ser usados para destacar ramos distintos em sua árvore genealógica. Selecione \"Adicionar Primeiro Grupo de Pessoas\" para criar seu primeiro grupo de pessoas.";
+
+/* (No Comment) */
+"_EditPersonGroupController_Title" = "Editar Grupo de Pessoas";
+
+/* (No Comment) */
+"_EditPersonGroupGeneralContentController_NamePlaceholder" = "Nenhum nome especificado";
+
+/* (No Comment) */
+"_EditPersonGroupGeneralContentController_Title" = "Geral";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_AddPersonToGroupButton" = "Adicionar Pessoas";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_DeletePersonGroupRelationInformative" = "Essa ação não apaga a pessoa nem o grupo de pessoas, mas a pessoa será removida desse grupo de pessoas.";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_DeletePersonGroupRelationMessage" = "Remover '%@' do Grupo de Pessoas '%@'?";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_LargePlaceholder" = "Nenhuma pessoa neste grupo de pessoas";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_ManagePersonsInGroupButton" = "Gerenciar Pessoas";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_RemoveFromPersonGroupButton" = "Remover do grupo";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_SmallPlaceholder" = "Use o botão acima para adicionar pessoas para este grupo de pessoas.";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_Sorting_ByBirthDate" = "Por Data de Nascimento";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_Sorting_ByName" = "Por Nome";
+
+/* EditPersonGroupPersonsInGroupContentController */
+"_EditPersonGroupPersonsInGroupContentController_Title" = "Pessoas no Grupo";
+
+/* (No Comment) */
+"_EditPersonGroupsContentController_NoPersonGroupsLargePlaceholder" = "Nenhum grupo de pessoas presente";
+
+/* (No Comment) */
+"_EditPersonGroupsContentController_NoPersonGroupsSmallPlaceholder" = "Nenhum grupo de pessoas foi adicionado para esta árvore genealógica. Use a função Grupo de Pessoas para adicionar seus Grupos de Pessoas.";
+
+/* _EditPersonGroupsContentController_Title */
+"_EditPersonGroupsContentController_Title" = "Grupos de Pessoas";
+
+/* EditPerson Name */
+"_EditPersonNameContentController_Title" = "Nome e Gênero";
+
+/* (No Comment) */
+"_EditPersonNumberingSystemContentController_NoNumberingSystemAssigned" = "Escolha um sistema de numeração começando com esta pessoa usando o botão abaixo:";
+
+/* (No Comment) */
+"_EditPersonNumberingSystemContentController_NumberingSystemAssignedAndHasValueAndIsNotStartPerson" = "Esta pessoa tem um número no sistema de numeração atual começando com pessoa:";
+
+/* (No Comment) */
+"_EditPersonNumberingSystemContentController_NumberingSystemAssignedAndIsStartPerson" = "Esta pessoa é a pessoa inicial no sistema de numeração atual (%@).";
+
+/* (No Comment) */
+"_EditPersonNumberingSystemContentController_NumberingSystemAssignedAndPersonHasNoValue" = "Essa pessoa não tem nenhum número no sistema de numeração atual. Isso significa que esta pessoa não é antepassado ou descendente da pessoa inicial deste sistema de numeração (%@):";
+
+/* (No Comment) */
+"_EditPersonNumberingSystemContentController_SetNumberingSystemTopLevelMenuItem" = "Sistema de Numeração…";
+
+/* EditPersonNumberingSystemContentController */
+"_EditPersonNumberingSystemContentController_Title" = "Sistema de Numeração";
+
+/* (No Comment) */
+"_EditPlaceAlternateNamesContentController_AlternatePlaceNamesPlaceholder" = "Insira aqui quaisquer nomes de lugares alternativos";
+
+/* EditPlaceAlternateNamesContentController */
+"_EditPlaceAlternateNamesContentController_Title" = "Nomes de locais alternativos";
+
+/* EditPlaceController */
+"_EditPlaceController_LargePlaceholder" = "Nenhum local presente";
+
+/* (No Comment) */
+"_EditPlaceController_LookupNewPlaceButton" = "Pesquisar primeiro local";
+
+/* (No Comment) */
+"_EditPlaceController_SmallPlaceholder" = "Insira locais para eventos pessoais ou familiares ou use o botão abaixo para adicionar um novo local.";
+
+/* (No Comment) */
+"_EditPlaceController_Title" = "Editar Local";
+
+/* (No Comment) */
+"_EditPlaceCoordinateContentController_AddCoordinateButton" = "Inserir manualmente";
+
+/* (No Comment) */
+"_EditPlaceCoordinateContentController_DeleteCoordinateQuestionMessage" = "Apagar coordenadas?";
+
+/* (No Comment) */
+"_EditPlaceCoordinateContentController_LargePlaceholder" = "Nenhuma coordenada inserida";
+
+/* (No Comment) */
+"_EditPlaceCoordinateContentController_LookupButton" = "Pesquisar";
+
+/* (No Comment) */
+"_EditPlaceCoordinateContentController_SmallPlaceholder" = "Use os botões acima para inserir as coordenadas para este local manualmente ou procure-as usando o nome do local.";
+
+/* (No Comment) */
+"_EditPlaceCoordinateContentController_SmallPlaceholder_CTW" = "Use o botão acima para inserir as coordenadas para este local manualmente.";
+
+/* EditPlaceCoordinateContentController */
+"_EditPlaceCoordinateContentController_Title" = "Coordenada";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_AddCoordinateButton" = "Adicionar coordenada";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_AddEmptyPlaceDetail" = "Adicionar detalhe de local vazio";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_AddPlaceDetail" = "Adicionar";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_DeletePlaceDetailQuestionMessage" = "Deseja realmente apagar detalhes do local?";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_EventCount" = "Contagem de eventos";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_LargePlaceholder" = "Nenhum detalhe de local inserido";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_LookupCoordinateButton" = "Pesquisar coordenada…";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_MegeWithOtherPlaceDetailButton" = "Mesclar com outros detalhes do local";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_NoNamePlaceholder" = "Nenhum nome de detalhe de local inserido";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_RemoveCoordinateButton" = "Remover coordenada";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_SearchOtherPlaceDetail" = "Pesquisar novos detalhes do local…";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_SmallPlaceholder" = "Use o botão 'Adicionar' acima para adicionar detalhes do local. Os detalhes do local são endereços específicos, seções ou outros pontos de interesse neste local.";
+
+/* EditPlaceDetailsContentController */
+"_EditPlaceDetailsContentController_Title" = "Detalhes do local";
+
+/* (No Comment) */
+"_EditPlaceEventsAtPlaceContentController_LargePlaceholder" = "Nenhum evento adicionado";
+
+/* (No Comment) */
+"_EditPlaceEventsAtPlaceContentController_RemoveFromPlace" = "Remover do local";
+
+/* (No Comment) */
+"_EditPlaceEventsAtPlaceContentController_SmallPlaceholder" = "Nenhum evento pessoal ou familiar foi adicionado para este lugar. Use a seção 'Pessoas' ou 'Família' para atribuir locais aos eventos.";
+
+/* (No Comment) */
+"_EditPlaceEventsAtPlaceContentController_Sorting_ByDate" = "Por Data de Evento";
+
+/* (No Comment) */
+"_EditPlaceEventsAtPlaceContentController_Sorting_ByType" = "Por Tipo de Evento";
+
+/* EditPlaceEventsAtPlaceContentController */
+"_EditPlaceEventsAtPlaceContentController_Title" = "Eventos no Local";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_AddField" = "Adicionar campo…";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_AddTemplateKeyToTemplate" = "Adicionar campo '%@' para o modelo '%@'";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_DeleteFieldContentsInformative" = "Você realmente deseja apagar essas informações adicionais do local exibido no momento?";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_DeleteFieldContentsMessage" = "Apagar esta informação do local?";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_EditTemplateKeys" = "Editar campo de local…";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_LargePlaceholder" = "Nenhum campo de informação adicional especificado";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_SmallPlaceholder" = "Você pode adicionar mais informações para este local que não estejam especificadas no modelo selecionado atualmente usando o botão acima.";
+
+/* EditPlaceFurtherPlaceNameFieldsContentController */
+"_EditPlaceFurtherPlaceNameFieldsContentController_Title" = "Componentes de campos de nomes de locais";
+
+/* (No Comment) */
+"_EditPlaceHeaderContentController_EventCountTitlePlural" = "%d eventos neste local";
+
+/* EditPlaceHeaderContentController */
+"_EditPlaceHeaderContentController_EventCountTitleSingular" = "Um evento neste local";
+
+/* (No Comment) */
+"_EditPlaceHeaderContentController_EventsDateRangePlural" = "Intervalo de datas dos eventos";
+
+/* (No Comment) */
+"_EditPlaceHeaderContentController_EventsDateRangeSingular" = "Data do evento";
+
+/* (No Comment) */
+"_EditPlaceHeaderContentController_PlaceDetailCountTitlePlural" = "%d detalhes de local";
+
+/* (No Comment) */
+"_EditPlaceHeaderContentController_PlaceDetailCountTitleSingular" = "Detalhe de um lugar";
+
+/* _EditPlaceLinksContentController_OtherLanguagesButton */
+"_EditPlaceLinksContentController_Title" = "Páginas da web";
+
+/* (No Comment) */
+"_EditPlaceNameContentController_EditTemplates" = "Editar modelo de local…";
+
+/* EditPlaceNameContentController */
+"_EditPlaceNameContentController_Title" = "Nome do Local";
+
+/* (No Comment) */
+"_EditPlacePane_Map_PlaceholderButton" = "Pesquisar coordenadas…";
+
+/* (No Comment) */
+"_EditPlacePane_Map_PlaceholderMessage" = "Para mostrar a localização do local selecionado no mapa, procure a coordenada geográfica deste local:";
+
+/* (No Comment) */
+"_EditPlacePane_Map_PlaceholderMessagePlaceDetail" = "Para mostrar a localização do detalhe do local selecionado no mapa, procure as coordenadas geográficas para este detalhe do local";
+
+/* EditPlacePane */
+"_EditPlacePane_Map_PlaceholderTitle" = "Nenhuma coordenada";
+
+/* (No Comment) */
+"_EditPlacePane_MapKitTypePopupButton" = "Tipo de Mapa";
+
+/* (No Comment) */
+"_EditPlacePane_MapKitTypePopupButton_FromPreferences" = "Conforme especificado nas preferências";
+
+/* (No Comment) */
+"_EditPlacePane_MapKitTypePopupButton_Hybrid" = "Híbrido";
+
+/* (No Comment) */
+"_EditPlacePane_MapKitTypePopupButton_Satellite" = "Satélite";
+
+/* (No Comment) */
+"_EditPlacePane_MapKitTypePopupButton_Standard" = "Padrão";
+
+/* (No Comment) */
+"_EditPlacePane_MapKitTypePopupButton_StandardMuted" = "Padrão (silenciado)";
+
+/* (No Comment) */
+"_EditPlacePane_MapOptionsButton" = "Opções do Mapa";
+
+/* (No Comment) */
+"_EditPlacePane_OnlyShowPlaceDetailsForSelectedPlaceOnMapCheckbox" = "Mostrar somente os detalhes do local quando o local for selecionado";
+
+/* (No Comment) */
+"_EditPlacePane_OnlyShowSelectedPlaceOnMapCheckbox" = "Mostrar apenas o local selecionado no mapa";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton" = "Cor do pino";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton_ByEventCount_BlueToMagentaToOrange" = "Por contagem de eventos (azul para magenta para laranja)";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton_ByEventCount_BlueToRed" = "Por contagem de eventos (azul para vermelho)";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton_ByEventCount_GreenToYellowToRed" = "Por contagem de eventos (verde para amarelo para vermelho)";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton_ByEventCount_TurquoiseToYellowToLightRed" = "Por contagem de eventos (turquesa para amarelo para vermelho claro)";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton_ByEventCount_YellowToRed" = "Por contagem de eventos (amarelo para vermelho)";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton_SingleColor" = "De cor única";
+
+/* (No Comment) */
+"_EditPlacePane_ShowEventCountOnPlacePins" = "Mostrar contagem de eventos em pinos";
+
+/* (No Comment) */
+"_EditPrivateContentController_Explanation" = "Se selecionado, esta informação não vai aparecer em gráficos ou relatórios";
+
+/* (No Comment) */
+"_EditPrivateContentController_MarkAsPrivate" = "Marcado como Particular";
+
+/* EditPrivateContentController */
+"_EditPrivateContentController_Title" = "Particular";
+
+/* EditReferenceNumbersContentController */
+"_EditReferenceNumbersContentController_Title" = "Números de Referência";
+
+/* (No Comment) */
+"_EditSourceContentController_AddToDoButton" = "Adicionar Primeira Origem";
+
+/* (No Comment) */
+"_EditSourceContentController_DeleteSourceQuestionMessage" = "Deseja realmente apagar o recurso?";
+
+/* EditSourceContentController */
+"_EditSourceContentController_LargePlaceholder" = "Nenhuma origem presente";
+
+/* (No Comment) */
+"_EditSourceContentController_SmallPlaceholder" = "Não existe origens nesta árvore genealógica. Selecione \"Adicionar Primeira Origem\" para criar sua primeira origem.";
+
+/* (No Comment) */
+"_EditSourceController_Title" = "Editar Origem";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_AddField" = "Adicionar Campo…";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_AddTemplateKeyToTemplate" = "Adicione o campo '%@' para o modelo '%@'";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_DeleteFieldContentsInformative" = "Você deseja realmente apagar essas informações adicionais da origem exibida atualmente?";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_DeleteFieldContentsMessage" = "Apagar esta informação da origem?";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_EditTemplateKeys" = "Editar Campos de Origem…";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_LargePlaceholder" = "Nenhum campo de informação adicional foi especificado";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_SmallPlaceholder" = "Você pode adicionar mais informações para esta origem que não estão especificadas no modelo atualmente selecionado usando o botão acima.";
+
+/* EditSourceFurtherFieldsContentController */
+"_EditSourceFurtherFieldsContentController_Title" = "Informações Adicionais";
+
+/* (No Comment) */
+"_EditSourceGeneralContentController_EditSourceRepository" = "Editar Repositórios de Origem…";
+
+/* (No Comment) */
+"_EditSourceGeneralContentController_EditTemplates" = "Editar Modelos de Origem…";
+
+/* EditSourceGeneralContentController */
+"_EditSourceGeneralContentController_Title" = "Informações da Origem";
+
+/* (No Comment) */
+"_EditSourceGeneralContentController_TitlePlaceholder" = "Nenhum título foi especificado";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_AddEntryToSourceButton" = "Edicionar Entrada";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_CitationNotes" = "Notas de Citação";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_LargePlaceholder" = "Nenhum entrada de referência presente";
+
+/* EditSourceReferencedEntriesContentController */
+"_EditSourceReferencedEntriesContentController_RemoveFromSourceButton" = "Remover da origem";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_SmallPlaceholder" = "Use o botão acima para adicionar entradas referenciadas para esta origem";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_Sorting_ByPage" = "Por Página";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_Sorting_ByType" = "Por Tipo";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_Title" = "Entradas de Referência";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_EvidenceExplanation" = "Especifique se a evidência para a entrada referenciada nesta origem é negativa, indireta ou direta.";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_EvidenceQuality" = "Qualidade da Evidência";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_GeneralExplanation" = "Especifique a origem, as informações e a qualidade da evidência desta entrada referenciada para a origem mencionada:";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_InformationExplanation" = "As informações nesta origem são de primeira ou de segunda mão?";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_InformationQuality" = "Qualidade da Informação";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_QualityExplanation" = "Escolha se a origem é o documento original ou se foi uma origem derivada.";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_SourceQuality" = "Qualidade da Origem";
+
+/* EditSourceRelationCertaintySettingsCertaintyViewContentController */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_Title" = "Certeza da Origem";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_AddExistingSourceMenuItem" = "Adicionar Origem Existente…";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_AddNewSourceMenuItem" = "Adicionar Nova Origem";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_AddSourceButton" = "Adicionar Origem";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_CitedSource" = "Origem Citada";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_CopySourceCitation" = "Copiar Citação de Origem";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_DeleteSourceMenuItem" = "Apagar Recurso";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_LargePlaceholder" = "Nenhum citação de origem presente";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_PasteSourceCitation" = "Colar Citação de Origem";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_RemoveObjectFromSourceInformative" = "Você tem certeza que deseja remover esta citação de origem? Essa ação não vai apagar a origem, mas removerá esta entrada da origem.";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_RemoveObjectFromSourceMessage" = "Remover a entrada de origem '%@'?";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_SmallPlaceholder" = "Use o botão acima para adicionar citações de origem para esta entrada";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_Sorting_ByCertainty" = "Ordenar por Certeza da Origem";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_Sorting_ByDate" = "Ordanr por Data da Origem";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_Sorting_ByPage" = "Ordenar por Número de Página";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_Sorting_ByTitle" = "Ordenar por Título da Origem";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_SourceDate" = "Data da Origem";
+
+/* EditSourceRelationsContentController */
+"_EditSourceRelationsContentController_Title" = "Citações da Origem";
+
+/* (No Comment) */
+"_EditSourceSourceRepositoryContentController_NoSourceRepository" = "Nenhum repositório de origem";
+
+/* EditSourceSourceRepositoryContentController */
+"_EditSourceSourceRepositoryContentController_Title" = "Repositóro de Origem";
+
+/* (No Comment) */
+"_EditSourceTextContentController_LargePlaceholder" = "Nenhum texto inserido";
+
+/* (No Comment) */
+"_EditSourceTextContentController_SmallPlaceholder" = "Pressione aqui para inserir texto para esta fonte";
+
+/* EditSourceTextContentController */
+"_EditSourceTextContentController_Title" = "Texto de origem";
+
+/* (No Comment) */
+"_EditStoryContentController_AddStoryButton" = "Adicionar primeira história";
+
+/* (No Comment) */
+"_EditStoryContentController_LargePlaceholder" = "Nenhuma história presente";
+
+/* (No Comment) */
+"_EditStoryContentController_SmallPlaceholder" = "Atualmente, nenhuma história foi adicionada a esta árvore genealógica. Use histórias para contar e registrar eventos especiais de sua história familiar. Selecione \"Adicionar primeira história\" para criar sua primeira história.";
+
+/* (No Comment) */
+"_EditStoryController_Title" = "Editar história";
+
+/* EditStoryController */
+"_EditStoryGeneralContentController_Title" = "Geral";
+
+/* (No Comment) */
+"_EditStoryGeneralContentController_TitlePlaceholder" = "Nenhum título especificado";
+
+/* (No Comment) */
+"_EditStoryReferencedEntriesContentController_AddEntryToStoryButton" = "Adicionar entrada";
+
+/* (No Comment) */
+"_EditStoryReferencedEntriesContentController_LargePlaceholder" = "Nenhuma entrada referenciada presente";
+
+/* (No Comment) */
+"_EditStoryReferencedEntriesContentController_SmallPlaceholder" = "Use os botões para adicionar pessoas, eventos ou famílias que são referenciados nesta história.";
+
+/* (No Comment) */
+"_EditStoryReferencedEntriesContentController_Title" = "Entradas referenciadas";
+
+/* (No Comment) */
+"_EditStoryRelationsContentController_AddExistingStoryMenuItem" = "Adicionar história existente…";
+
+/* (No Comment) */
+"_EditStoryRelationsContentController_AddExistingStorySectionMenuItem" = "Adicionar seção de história existente…";
+
+/* (No Comment) */
+"_EditStoryRelationsContentController_AddNewStoryMenuItem" = "Adicionar nova história";
+
+/* (No Comment) */
+"_EditStoryRelationsContentController_AddStoryButton" = "Adicionar história";
+
+/* (No Comment) */
+"_EditStoryRelationsContentController_LargePlaceholder" = "Nenhuma hitória presente";
+
+/* (No Comment) */
+"_EditStoryRelationsContentController_SmallPlaceholder" = "Use o botão acima para adicionar uma história nova ou existente.";
+
+/* EditStoryRelationsContentController */
+"_EditStoryRelationsContentController_Title" = "Histórias";
+
+/* (No Comment) */
+"_EditStorySectionReferencedEntriesContentController_AddEntryToStorySectionButton" = "Adicionar entrada";
+
+/* (No Comment) */
+"_EditStorySectionReferencedEntriesContentController_LargePlaceholder" = "Nenhuma entrada referenciada presente";
+
+/* (No Comment) */
+"_EditStorySectionReferencedEntriesContentController_SmallPlaceholder" = "Use os botões para adicionar pessoas, eventos ou famílias que são referenciados nesta seção da história.";
+
+/* EditStorySectionReferencedEntriesContentController */
+"_EditStorySectionReferencedEntriesContentController_Title" = "Entradas referenciadas na seção";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_AddMedia" = "Adicionar mídia";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_AddStorySecton" = "Adicionar seção de história";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_LargePlaceholder" = "Nenhuma seção de história presente";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_MoveDown" = "Mover seção para baixo";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_MoveUp" = "Mover seção para cima";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_NoStorySectionRelationsPlaceholder" = "Nenhuma entrada referenciada presente";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_NoSubtitlePlaceholder" = "Nenhum título da seção especificada";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_NoTextPlaceholder" = "Nenhum texto de seção especificado";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_SmallPlaceholder" = "Use o botão acima para adicionar uma primeira seção a esta história";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_StorySectionRelations" = "Entradas referenciadas na seção";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_Title" = "Seção de histórias";
+
+/* (No Comment) */
+"_EditToDoAssignedEntriesContentController_AddEntryButton" = "Adicionar Entrada";
+
+/* (No Comment) */
+"_EditToDoAssignedEntriesContentController_LargePlaceholder" = "Nenhum entrada atribuída presente";
+
+/* (No Comment) */
+"_EditToDoAssignedEntriesContentController_SmallPlaceholder" = "Selecione o botão acima para adicionar entradas de sua árvore genealógica para esta tarefa";
+
+/* (No Comment) */
+"_EditToDoAssignedEntriesContentController_Sorting_ByDate" = "Por Data";
+
+/* (No Comment) */
+"_EditToDoAssignedEntriesContentController_Sorting_ByName" = "Por Nome";
+
+/* EditToDoAssignedEntriesContentController */
+"_EditToDoAssignedEntriesContentController_Title" = "Entradas Atribuídas";
+
+/* (No Comment) */
+"_EditToDoContentController_AddExistingToDoMenuItem" = "Adicionar Tarefa Existente";
+
+/* (No Comment) */
+"_EditToDoContentController_AddNewToDoMenuItem" = "Adicionar Nova Tarefa";
+
+/* (No Comment) */
+"_EditToDoContentController_AddToDoButton" = "Adicionar Tarefa";
+
+/* (No Comment) */
+"_EditToDoContentController_LargePlaceholder" = "Nenhuma tarefa presente";
+
+/* (No Comment) */
+"_EditToDoContentController_NoDateEnteredPlaceholder" = "Nenhuma data inserida";
+
+/* (No Comment) */
+"_EditToDoContentController_NoTitleEnteredPlaceholder" = "Nenhum título inserido";
+
+/* (No Comment) */
+"_EditToDoContentController_RemoveFromToDoButton" = "Remover da tarefa";
+
+/* (No Comment) */
+"_EditToDoContentController_SmallPlaceholder" = "Use os botões acima para adicionar uma nova tarefa ou anexar uma tarefa existente";
+
+/* EditToDosContentController */
+"_EditToDoContentController_Title" = "Tarefas";
+
+/* (No Comment) */
+"_EditToDoController_AddToDoButton" = "Adicionar primeira tarefa";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosInformative" = "Você realmente deseja apagar todas as tarefas de sua árvore genealógica que foram marcadas como concluídas?";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosInformative_NoDoneFound" = "Em sua árvore genealógica, nenhuma tarefa marcada como concluída foi encontrada, então nenhuma foi removida.";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosMessage" = "Deseja realmente apagar %d tarefas que estão marcadas como concluídas?";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosMessage_NoDoneFound" = "Nenhuma tarefa marcada como concluída foi encontrada";
+
+/* EditToDoController */
+"_EditToDoController_LargePlaceholder" = "Nenhuma tarefa presente";
+
+/* (No Comment) */
+"_EditToDoController_SmallPlaceholder" = "Não há tarefas nesta árvore genealógica. Selecione \"Adicionar primeira tarefa\" para criar sua primeira tarefa.";
+
+/* (No Comment) */
+"_EditToDoController_Title" = "Editar Tarefa";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditPriorityConclusionTypes" = "Editar tipos de prioridade…";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditStatusConclusionTypes" = "Editar tipos de status…";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditTypeConclusionTypes" = "Editar tipos…";
+
+/* EditToDoGeneralContentController */
+"_EditToDoGeneralContentController_Title" = "Geral";
+
+/* (No Comment) */
+"_EditToDosContentController_Sorting_ByDueDate" = "Por Data de Vencimento";
+
+/* (No Comment) */
+"_EditToDosContentController_Sorting_ByPriority" = "Por Prioridade";
+
+/* (No Comment) */
+"_EditToDosContentController_Sorting_ByStatus" = "Por Status";
+
+/* (No Comment) */
+"_EditToDosContentController_Sorting_ByTitle" = "Por Título";
+
+/* (No Comment) */
+"_EditToDosContentController_Sorting_ByType" = "Por Tipo";
+
+/* (No Comment) */
+"_EditToDoTextContentController_LargePlaceholder" = "Nenhum texto inserido";
+
+/* (No Comment) */
+"_EditToDoTextContentController_SmallPlaceholder" = "Pressione aqui para inserir texto para esta tarefa";
+
+/* EditToDoTextContentController */
+"_EditToDoTextContentController_Title" = "Texto";
+
+/* (No Comment) */
+"_FreeformControlsEventsControlDescription_NEvents" = "%d Eventos";
+
+/* (No Comment) */
+"_FreeformControlsEventsControlDescription_OneEvent" = "1 Evento";
+
+/* Specialized Freeform Controls */
+"_FreeformControlsNotesControlDescription_NNotes" = "%d notas";
+
+/* (No Comment) */
+"_FreeformControlsNotesControlDescription_OneNote" = "1 nota";
+
+/* (No Comment) */
+"_FreeformControlsSourceRelationsControlDescription_NSources" = "%d origens";
+
+/* (No Comment) */
+"_FreeformControlsSourceRelationsControlDescription_OneSource" = "1 origem";
+
+/* (No Comment) */
+"_FreeformControlsStorySectionRelationsControlDescription_NRelations" = "%d entradas referenciadas";
+
+/* (No Comment) */
+"_FreeformControlsStorySectionRelationsControlDescription_OneRelation" = "Uma entrada referenciada";
+
+/* (No Comment) */
+"_FreeformControlsTextFieldControlDescription_NoMicrophoneAvailableDescription" = "Nenhum microfone foi encontrado.";
+
+/* (No Comment) */
+"_FreeformControlsTextFieldControlDescription_NoMicrophoneAvailableRecovery" = "É necessário um microfone para o reconhecimento de fala. Verifique há um microfone disponível e/ou não esteja sendo usado por nenhum outro aplicativo.";
+
+/* (No Comment) */
+"_FreeformControlsTextFieldControlDescription_SpeechNotGrantedDescription" = "Permissão necessária para reconhecimento de voz";
+
+/* (No Comment) */
+"_FreeformControlsTextFieldControlDescription_SpeechNotGrantedRecovery" = "A árvore genealógica não tem permissão para reconhecimento de fala. Conceda permissão à árvore genealógica usando os ajustes de privacidade no aplicativo Ajustes.";
+
+/* (No Comment) */
+"_InteractiveTreeEditFamilyController_Title" = "Árvore Interativa – Famílias";
+
+/* InteractiveTreeEditFamilySearchPersonSummaryContentController */
+"_InteractiveTreeEditFamilySearchPersonSummaryContentController_Title" = "Resumo da Pessoa";
+
+/* InteractiveTreeEditPersonActionsContentController */
+"_InteractiveTreeEditPersonActionsContentController_Title" = "Ações";
+
+/* (No Comment) */
+"_InteractiveTreeEditPersonController_SelectPersonsPlaceholder_Message" = "Selecione uma pessoa ou uma conexão familiar para começar a edição";
+
+/* InteractiveTreeEditPersonController */
+"_InteractiveTreeEditPersonController_SelectPersonsPlaceholder_Title" = "Selecionar pessoa ou família";
+
+/* (No Comment) */
+"_InteractiveTreeEditPersonController_Title" = "Árvore Interativa – Pessoas";
+
+/* (No Comment) */
+"_ManagePersonGroupPersons_NoPersonsInGroup" = "Nenhuma pessoa faz parte deste grupo de pessoas";
+
+/* (No Comment) */
+"_ManagePersonGroupPersons_NoPersonsLeftToAdd" = "Todas as pessoas em sua árvore genealógica foram adicionadas para este grupo de pessoas";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsAddRelatives_Title" = "Adicionar parentes ao grupo";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsController_AddPersonsToGroup" = "Adicionar pessoas do grupo";
+
+/* ManagePersonGroupPersonsController */
+"_ManagePersonGroupPersonsController_Title" = "Pessoas no Grupo";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_AllGenerations" = "Todas as Gerações";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_AllRelativesOfChildren" = "Adicionar todos os parentes dos descendentes";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_AllRelativesOfParents" = "Adicionar todos os parentes dos antepassados";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_AllRelativesOfPartners" = "Adicionar todos os parentes do cônjuge";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_Children" = "Adicionar todos os descendentes da pessoa";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_Explanation" = "Selecione quais parentes de '%@' você deseja adicionar para este grupo de pessoas:";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_GenerationsToCollect" = "Gerações para coletar";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_Parents" = "Adicionar todos os antepassados da pessoa";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_Partners" = "Edicionar cônjuges ao grupo";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_PartnersOfChildren" = "Adicionar todos os cônjuges de descendentes";
+
+/* PlaceLookupControllerResultPlacePreviewLinksContentController */
+"_PlaceLookupControllerResultPlacePreviewLinksContentController_Title" = "Páginas da web";
+
+/* PlaceLookupControllerResultPlacePreviewNamesContentController */
+"_PlaceLookupControllerResultPlacePreviewNamesContentController_Title" = "Nomes";
+
+/* (No Comment) */
+"_SectionIdentifier_aboveMainFullWidth" = "Acima da área principal – Largura total";
+
+/* Section Identifiers */
+"_SectionIdentifier_main" = "Área Principal";
+
+/* (No Comment) */
+"_SectionIdentifier_parents" = "Área de Pais";
+
+/* (No Comment) */
+"_SectionIdentifier_top" = "Área do Cabeçalho";
+

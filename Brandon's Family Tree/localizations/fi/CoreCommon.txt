@@ -1,0 +1,837 @@
+﻿/* (No Comment) */
+"_Common_Accept" = "Hyväksy";
+
+/* (No Comment) */
+"_Common_Actions" = "Toiminnat";
+
+/* (No Comment) */
+"_Common_AddButton" = "Lisää";
+
+/* (No Comment) */
+"_Common_Age" = "Ikä";
+
+/* (No Comment) */
+"_Common_AscendingSortOrder" = "Nouseva";
+
+/* (No Comment) */
+"_Common_AssignButton" = "Valitse";
+
+/* (No Comment) */
+"_Common_Assigned_Entries" = "Liittyvät kirjaukset";
+
+/* (No Comment) */
+"_Common_Authority" = "Viranomaiset";
+
+/* (No Comment) */
+"_Common_Back" = "Takaisin";
+
+/* (No Comment) */
+"_Common_BackgroundColor" = "Taustan väri";
+
+/* (No Comment) */
+"_Common_BirthDate" = "Syntymäaika";
+
+/* (No Comment) */
+"_Common_BirthPlace" = "Syntymäpaikka";
+
+/* (No Comment) */
+"_Common_Black" = "Musta";
+
+/* (No Comment) */
+"_Common_BrothersAndSisters" = "Sisarukset";
+
+/* (No Comment) */
+"_Common_CancelButton" = "Kumoa";
+
+/* (No Comment) */
+"_Common_Cause" = "Syy";
+
+/* (No Comment) */
+"_Common_ChangeButton" = "Muuta";
+
+/* (No Comment) */
+"_Common_ChangeDate" = "Muutospäivä";
+
+/* (No Comment) */
+"_Common_Chart" = "Kuvaaja";
+
+/* (No Comment) */
+"_Common_Child" = "Lapsi";
+
+/* (No Comment) */
+"_Common_ChildCountPlural" = "%d lasta";
+
+/* (No Comment) */
+"_Common_ChildCountPluralString" = "%@ lasta";
+
+/* (No Comment) */
+"_Common_ChildCountSingular" = "%d lapsi";
+
+/* (No Comment) */
+"_Common_ChildCountSingularString" = "%@ lapsi";
+
+/* (No Comment) */
+"_Common_Children" = "Lapset";
+
+/* (No Comment) */
+"_Common_Childs" = "Lapset";
+
+/* (No Comment) */
+"_Common_ChristeningDate" = "Ristimispäivä";
+
+/* (No Comment) */
+"_Common_ChristeningPlace" = "Ristimispaikka";
+
+/* (No Comment) */
+"_Common_Citation_Notes" = "Viitemerkinnät";
+
+/* (No Comment) */
+"_Common_CloseButton" = "Sulje";
+
+/* (No Comment) */
+"_Common_Color" = "Väri";
+
+/* (No Comment) */
+"_Common_Colors_Blue" = "Sininen";
+
+/* (No Comment) */
+"_Common_Colors_Green" = "Vihreä";
+
+/* (No Comment) */
+"_Common_Colors_Magenta" = "Magenta";
+
+/* (No Comment) */
+"_Common_Colors_Orange" = "Oranssi";
+
+/* Colors */
+"_Common_Colors_Red" = "Punainen";
+
+/* (No Comment) */
+"_Common_Colors_Turquoise" = "Turkoosi";
+
+/* (No Comment) */
+"_Common_Colors_Yellow" = "Keltainen";
+
+/* Keys */
+"_Common_CommandKey" = "⌘";
+
+/* Contextual */
+"_Common_ContextualMenu_ChangeLabel" = "Muuta merkkiä";
+
+/* (No Comment) */
+"_Common_ContinueButton" = "Jatka";
+
+/* (No Comment) */
+"_Common_ControlKey" = "CTRL";
+
+/* (No Comment) */
+"_Common_CopyButton" = "Kopioi";
+
+/* (No Comment) */
+"_Common_Count" = "Lukumäärä";
+
+/* (No Comment) */
+"_Common_Country" = "Maa";
+
+/* (No Comment) */
+"_Common_County" = "Maakunta";
+
+/* (No Comment) */
+"_Common_Create" = "Luo";
+
+/* (No Comment) */
+"_Common_CreationDate" = "Luomispäivä";
+
+/* (No Comment) */
+"_Common_Date" = "Päivä";
+
+/* (No Comment) */
+"_Common_DeathDate" = "Kuolinaika";
+
+/* (No Comment) */
+"_Common_DeathPlace" = "Kuolinpaikka";
+
+/* (No Comment) */
+"_Common_Decline" = "Kiellä";
+
+/* (No Comment) */
+"_Common_Default" = "Oletus";
+
+/* (No Comment) */
+"_Common_DeleteAllButton" = "Poista kaikki";
+
+/* (No Comment) */
+"_Common_DeleteButton" = "Poista";
+
+/* (No Comment) */
+"_Common_DeleteWithObject" = "Poista '%@'";
+
+/* (No Comment) */
+"_Common_DescendingSortOrder" = "Laskeva";
+
+/* (No Comment) */
+"_Common_Description" = "Kuvaus";
+
+/* (No Comment) */
+"_Common_DisableButton" = "Kiellä";
+
+/* (No Comment) */
+"_Common_Discard" = "Hylkää";
+
+/* (No Comment) */
+"_Common_DisplayButton" = "Näytä";
+
+/* (No Comment) */
+"_Common_Done" = "Valmis";
+
+/* (No Comment) */
+"_Common_DontAskAgainButton" = "Älä kysy uudelleen";
+
+/* (No Comment) */
+"_Common_Download" = "Lataa";
+
+/* (No Comment) */
+"_Common_DuplicateButton" = "Monista";
+
+/* (No Comment) */
+"_Common_Edit" = "Muokkaa";
+
+/* (No Comment) */
+"_Common_EditWithObject" = "Muokkaa '%@'";
+
+/* (No Comment) */
+"_Common_EnableButton" = "Salli";
+
+/* (No Comment) */
+"_Common_Entries" = "Kirjauksia";
+
+/* (No Comment) */
+"_Common_EntryCountPlural" = "%d kirjausta";
+
+/* (No Comment) */
+"_Common_EntryCountPluralString" = "%@ kirjausta";
+
+/* (No Comment) */
+"_Common_EntryCountSingular" = "%d kirjaus";
+
+/* (No Comment) */
+"_Common_EntryCountSingularString" = "%@ kirjaus";
+
+/* (No Comment) */
+"_Common_Error" = "Virhe";
+
+/* Errors */
+"_Common_Errors_NoInternetConnection" = "Internet yhteyttä ei ole";
+
+/* (No Comment) */
+"_Common_Event" = "Tapahtuma";
+
+/* (No Comment) */
+"_Common_EventCountPlural" = "%d tapahtumaa";
+
+/* (No Comment) */
+"_Common_EventCountSingular" = "%d tapahtuma";
+
+/* (No Comment) */
+"_Common_Events" = "Tapahtumat";
+
+/* (No Comment) */
+"_Common_EventsAtThisPlace" = "Tapahtumat tässä paikassa";
+
+/* (No Comment) */
+"_Common_Example" = "Esimerkki";
+
+/* (No Comment) */
+"_Common_Export" = "Vie";
+
+/* (No Comment) */
+"_Common_Fact" = "Tieto";
+
+/* (No Comment) */
+"_Common_Facts" = "Tiedot";
+
+/* (No Comment) */
+"_Common_Families" = "Perheet";
+
+/* (No Comment) */
+"_Common_Family" = "Perhe";
+
+/* (No Comment) */
+"_Common_FamilyEvents" = "Perhetapahtumat";
+
+/* (No Comment) */
+"_Common_FamilyTree" = "Sukupuu";
+
+/* (No Comment) */
+"_Common_Father" = "Isä";
+
+/* (No Comment) */
+"_Common_Favorite" = "Suosikki";
+
+/* (No Comment) */
+"_Common_Favorites" = "Suosikit";
+
+/* (No Comment) */
+"_Common_Female" = "Naispuolinen";
+
+/* (No Comment) */
+"_Common_FirstName" = "Etunimi";
+
+/* (No Comment) */
+"_Common_FontStyle_Bold" = "Lihavoitu";
+
+/* (No Comment) */
+"_Common_FontStyle_BoldItalic" = "Lihavoitu kursiivi";
+
+/* (No Comment) */
+"_Common_FontStyle_Italic" = "Kursiivi";
+
+/* (No Comment) */
+"_Common_FontStyle_Light" = "Vaalea";
+
+/* (No Comment) */
+"_Common_FontStyle_Medium" = "Keski";
+
+/* Font Styles */
+"_Common_FontStyle_Normal" = "Normaali";
+
+/* (No Comment) */
+"_Common_FontStyle_SemiBold" = "Puolilihava";
+
+/* Common */
+"_Common_Gender" = "Sukupuoli";
+
+/* (No Comment) */
+"_Common_Generation" = "Sukupolvi";
+
+/* (No Comment) */
+"_Common_GenerationsPluralString" = "%d sukupolvea";
+
+/* (No Comment) */
+"_Common_GenerationsSingularString" = "%d sukupolvi";
+
+/* (No Comment) */
+"_Common_Generic" = "Yleinen";
+
+/* (No Comment) */
+"_Common_Help" = "Apu";
+
+/* (No Comment) */
+"_Common_HideKeyboard" = "Kätke näppäimet";
+
+/* (No Comment) */
+"_Common_IgnoreButton" = "Ohita";
+
+/* (No Comment) */
+"_Common_Image" = "Kuva";
+
+/* (No Comment) */
+"_Common_ImportButton" = "Tuo";
+
+/* Localization */
+"_Common_InternationalLocalization" = "Kansainvälinen";
+
+/* (No Comment) */
+"_Common_Intersex" = "Intersukupuolinen";
+
+/* (No Comment) */
+"_Common_IsAssignedToFamilySearch" = "On rinnastettu Family Searchiin";
+
+/* (No Comment) */
+"_Common_IsBookmarked" = "Merkitty kirjanmerkkeihin";
+
+/* (No Comment) */
+"_Common_IsNotAssignedToFamilySearch" = "Ei ole rinnastettu Family Searchiin";
+
+/* (No Comment) */
+"_Common_IsNotBookmarked" = "Ei merkitty kirjanmerkkeihin";
+
+/* (No Comment) */
+"_Common_Label" = "Merkki";
+
+/* (No Comment) */
+"_Common_Labels" = "Merkit";
+
+/* (No Comment) */
+"_Common_LastName" = "Sukunimi";
+
+/* (No Comment) */
+"_Common_LaterButton" = "Myöhemmin";
+
+/* (No Comment) */
+"_Common_Link" = "Linkki";
+
+/* (No Comment) */
+"_Common_LoginButton" = "Kirjaudu";
+
+/* (No Comment) */
+"_Common_LogoutButton" = "Kirjaudu ulos";
+
+/* (No Comment) */
+"_Common_Male" = "Miespuolinen";
+
+/* (No Comment) */
+"_Common_Man" = "Mies";
+
+/* (No Comment) */
+"_Common_MarkAsSeen" = "Merkitse nähdyksi";
+
+/* (No Comment) */
+"_Common_Marriage" = "Avioliitto";
+
+/* (No Comment) */
+"_Common_MarriageDate" = "Avioliittopäivä";
+
+/* (No Comment) */
+"_Common_MarriagePlace" = "Avioliittopaikka";
+
+/* (No Comment) */
+"_Common_Media" = "Media";
+
+/* (No Comment) */
+"_Common_MergeButton" = "Yhdistä";
+
+/* (No Comment) */
+"_Common_MiddleName" = "Muut nimet";
+
+/* (No Comment) */
+"_Common_Mother" = "Äiti";
+
+/* (No Comment) */
+"_Common_MultipleSelected" = "%d valittu";
+
+/* (No Comment) */
+"_Common_Name" = "Nimi";
+
+/* (No Comment) */
+"_Common_NeverButton" = "Ei koskaan";
+
+/* (No Comment) */
+"_Common_NextButton" = "Seuraava";
+
+/* (No Comment) */
+"_Common_No" = "Ei";
+
+/* (No Comment) */
+"_Common_NoChildrenPlaceholder" = "Ei lapsia";
+
+/* (No Comment) */
+"_Common_NoConclusionTypesPlaceholder" = "Ei kirjauksia";
+
+/* (No Comment) */
+"_Common_NoDatePlaceholder" = "Ei päivää";
+
+/* Empty */
+"_Common_NoInformationEnteredTooltip" = "Tietoa ei ole syötetty";
+
+/* (No Comment) */
+"_Common_NoLabelsPlaceholder" = "Ei merkkejä";
+
+/* (No Comment) */
+"_Common_NoManPlaceholder" = "Ei miestä";
+
+/* (No Comment) */
+"_Common_NoNameAvailable" = "Nimeä ei saatavissa";
+
+/* (No Comment) */
+"_Common_None" = "Ei mitään";
+
+/* Selected Counts */
+"_Common_NoneSelected" = "Mitään ei valittu";
+
+/* (No Comment) */
+"_Common_NoPartnerPlaceholder" = "Ei puolisoa";
+
+/* (No Comment) */
+"_Common_NoPersonGroupsPlaceholder" = "Ei henkilöryhmiä";
+
+/* Placeholders */
+"_Common_NoPersonPlaceholder" = "Ei henkilöä";
+
+/* (No Comment) */
+"_Common_NoPlacePlaceholder" = "Ei paikkakuntaa";
+
+/* (No Comment) */
+"_Common_NoSourceTemplateKeysPlaceholder" = "Ei lähdemalli kenttää";
+
+/* (No Comment) */
+"_Common_Note" = "Muistiinpano";
+
+/* (No Comment) */
+"_Common_Notes" = "Muistiinpanot";
+
+/* (No Comment) */
+"_Common_NothingToSelected" = "Ei valittavaa";
+
+/* (No Comment) */
+"_Common_Now" = "Tänään";
+
+/* (No Comment) */
+"_Common_NoWomanPlaceholder" = "Ei naista";
+
+/* (No Comment) */
+"_Common_NumberingSystem" = "Numerointijärjestelmä";
+
+/* Buttons */
+"_Common_OKButton" = "OK";
+
+/* (No Comment) */
+"_Common_OKDontAskAgainButton" = "OK. Älä kysy enää";
+
+/* (No Comment) */
+"_Common_OneSelected" = "Yksi valittu";
+
+/* (No Comment) */
+"_Common_OpenButton" = "Avaa";
+
+/* (No Comment) */
+"_Common_OpenInBrowser" = "Avaa selaimessa";
+
+/* (No Comment) */
+"_Common_OptionsButton" = "Valinnat";
+
+/* (No Comment) */
+"_Common_Order" = "Järjestys";
+
+/* (No Comment) */
+"_Common_OtherNames" = "Muut nimet";
+
+/* (No Comment) */
+"_Common_Others" = "Muut";
+
+/* (No Comment) */
+"_Common_Page" = "Sivu";
+
+/* (No Comment) */
+"_Common_Parent1" = "Vanhempi 1";
+
+/* (No Comment) */
+"_Common_Parent2" = "Vanhempi 2";
+
+/* (No Comment) */
+"_Common_Parents" = "Vanhemmat";
+
+/* (No Comment) */
+"_Common_Partner" = "Puoliso";
+
+/* (No Comment) */
+"_Common_Partner1" = "Puoliso 1";
+
+/* (No Comment) */
+"_Common_Partner2" = "Puoliso 2";
+
+/* (No Comment) */
+"_Common_Partners" = "Puolisot";
+
+/* (No Comment) */
+"_Common_Person" = "Henkilö";
+
+/* (No Comment) */
+"_Common_PersonCountPlural" = "%d henkilöä";
+
+/* (No Comment) */
+"_Common_PersonCountPluralString" = "%@ henkilöä";
+
+/* Counts */
+"_Common_PersonCountSingular" = "%d henkilö";
+
+/* (No Comment) */
+"_Common_PersonCountSingularString" = "%@ henkilö";
+
+/* Events & Facts */
+"_Common_PersonEvents" = "Henkilötapahtumat";
+
+/* (No Comment) */
+"_Common_PersonFacts" = "Henkilötiedot";
+
+/* (No Comment) */
+"_Common_Persons" = "Henkilöt";
+
+/* (No Comment) */
+"_Common_Picture" = "Kuva";
+
+/* (No Comment) */
+"_Common_Pictures" = "Kuva";
+
+/* (No Comment) */
+"_Common_Place" = "Paikka";
+
+/* (No Comment) */
+"_Common_PlaceDetail" = "Paikan tiedot";
+
+/* (No Comment) */
+"_Common_Places" = "Paikat";
+
+/* (No Comment) */
+"_Common_PleaseWaitPlaceholder" = "Odota…";
+
+/* Population Prefix */
+"_Common_Population" = "Aukasluku: %@";
+
+/* (No Comment) */
+"_Common_PrefixName" = "Otsikko";
+
+/* (No Comment) */
+"_Common_PreviousButton" = "Edellinen";
+
+/* (No Comment) */
+"_Common_Print" = "Tulosta";
+
+/* Progress Counts */
+"_Common_ProgressCount" = "%d / %d";
+
+/* (No Comment) */
+"_Common_ProgressCountAsString" = "%@ / %@";
+
+/* (No Comment) */
+"_Common_QuitButton" = "Lopeta";
+
+/* (No Comment) */
+"_Common_ReferenceNumber" = "Viitenumero";
+
+/* (No Comment) */
+"_Common_RejectButton" = "Hylkää";
+
+/* (No Comment) */
+"_Common_RemoveButton" = "Poista";
+
+/* (No Comment) */
+"_Common_RenameButton" = "Nimeä uudellen";
+
+/* (No Comment) */
+"_Common_ReplaceButton" = "Korvaa";
+
+/* (No Comment) */
+"_Common_ResetButton" = "Palauta";
+
+/* (No Comment) */
+"_Common_RetryButton" = "Yritä uudelleen";
+
+/* (No Comment) */
+"_Common_Save" = "Tallenna";
+
+/* (No Comment) */
+"_Common_SaveButton" = "Tallenna";
+
+/* (No Comment) */
+"_Common_Search" = "Etsi";
+
+/* (No Comment) */
+"_Common_Search_Clear" = "Tyhjennä";
+
+/* (No Comment) */
+"_Common_Search_Menu_Title" = "Hakuvalikko";
+
+/* (No Comment) */
+"_Common_Search_Options" = "Hakuehdot…";
+
+/* (No Comment) */
+"_Common_Search_Recent" = "Äskeiset haut";
+
+/* (No Comment) */
+"_Common_Section" = "Kappale";
+
+/* (No Comment) */
+"_Common_SelectButton" = "Valitse";
+
+/* (No Comment) */
+"_Common_Settings" = "Asetukset";
+
+/* (No Comment) */
+"_Common_SkipButton" = "Ohita";
+
+/* (No Comment) */
+"_Common_Sorting_ByBirthDate" = "Syntymäajan mukaan";
+
+/* (No Comment) */
+"_Common_Sorting_ByBirthPlace" = "Syntymäpaikan mukaan";
+
+/* (No Comment) */
+"_Common_Sorting_ByDate" = "Päivän mukaan";
+
+/* (No Comment) */
+"_Common_Sorting_ByDeathDate" = "Kuolinajan mukaan";
+
+/* (No Comment) */
+"_Common_Sorting_ByDeathPlace" = "Kuolinpaikan mukaan";
+
+/* (No Comment) */
+"_Common_Sorting_ByFirstName" = "Etunimen mukaan";
+
+/* (No Comment) */
+"_Common_Sorting_ByLastName" = "Sukunimen mukaan";
+
+/* Sorting */
+"_Common_Sorting_ByName" = "Nimen mukaan";
+
+/* (No Comment) */
+"_Common_Sorting_ByScore" = "Arvostuksen mukaan";
+
+/* (No Comment) */
+"_Common_Source" = "Lähde";
+
+/* (No Comment) */
+"_Common_SourceCitationsPlural" = "%d lainausta";
+
+/* (No Comment) */
+"_Common_SourceCitationsPluralString" = "%@ lainausta";
+
+/* (No Comment) */
+"_Common_SourceCitationsSingular" = "%d lainaus";
+
+/* (No Comment) */
+"_Common_SourceCitationsSingularString" = "%@ lainaus";
+
+/* (No Comment) */
+"_Common_Sources" = "Lähteet";
+
+/* (No Comment) */
+"_Common_State" = "Osavaltio";
+
+/* (No Comment) */
+"_Common_StopSharingButton" = "Lopeta jako";
+
+/* (No Comment) */
+"_Common_SuffixName" = "Liite";
+
+/* (No Comment) */
+"_Common_Text" = "Teksti";
+
+/* (No Comment) */
+"_Common_Title" = "Titteli";
+
+/* (No Comment) */
+"_Common_ToDo" = "Tehtävä";
+
+/* (No Comment) */
+"_Common_ToDos" = "Tehtävät";
+
+/* (No Comment) */
+"_Common_Toggle" = "Vaihda kaikki";
+
+/* (No Comment) */
+"_Common_Type" = "Laji";
+
+/* (No Comment) */
+"_Common_Unknown" = "Tuntematon";
+
+/* (No Comment) */
+"_Common_UnknownGender" = "Sukupuoli tuntematon";
+
+/* (No Comment) */
+"_Common_UnknownPerson" = "Tuntematon henkilö";
+
+/* (No Comment) */
+"_Common_Unlimited" = "Rajaton";
+
+/* (No Comment) */
+"_Common_UnnamedChart" = "Nimetön kaavio";
+
+/* (No Comment) */
+"_Common_UnnamedFamily" = "Nimeämätön perhe";
+
+/* (No Comment) */
+"_Common_UnnamedLabel" = "Nimetön merkki";
+
+/* (No Comment) */
+"_Common_UnnamedMedia" = "Nimetön media";
+
+/* (No Comment) */
+"_Common_UnnamedPerson" = "Nimetön henkilö";
+
+/* (No Comment) */
+"_Common_UnnamedPersonGroup" = "Nimetön henkilöryhmä";
+
+/* (No Comment) */
+"_Common_UnnamedPlace" = "Nimetön paikkakunta";
+
+/* (No Comment) */
+"_Common_UnnamedPlaceDetail" = "Nimetön merkittävä paikka";
+
+/* (No Comment) */
+"_Common_UnnamedPlaceTemplate" = "Nimetön paikkamalli";
+
+/* (No Comment) */
+"_Common_UnnamedPlaceTemplateKey" = "Nimetön paikkamallikemttä";
+
+/* (No Comment) */
+"_Common_UnnamedSource" = "Nimetön lähde";
+
+/* (No Comment) */
+"_Common_UnnamedSourceRepository" = "Nimetön lähteen säilytyspaikka";
+
+/* (No Comment) */
+"_Common_UnnamedSourceTemplate" = "Nimetön lähdemalli";
+
+/* (No Comment) */
+"_Common_UnnamedSourceTemplateKey" = "Nimetön lähdemallin kenttä";
+
+/* (No Comment) */
+"_Common_UnnamedStory" = "Nimetön tarina";
+
+/* (No Comment) */
+"_Common_UnnamedStorySection" = "Nimetön tarinan kappale";
+
+/* (No Comment) */
+"_Common_UnnamedTitle" = "Nimetön";
+
+/* (No Comment) */
+"_Common_UnnamedToDo" = "Nimetön tehtävä";
+
+/* (No Comment) */
+"_Common_UpdateButton" = "Päivitä";
+
+/* (No Comment) */
+"_Common_UploadButton" = "Vie";
+
+/* (No Comment) */
+"_Common_Value" = "Arvo";
+
+/* (No Comment) */
+"_Common_Version" = "Versio";
+
+/* (No Comment) */
+"_Common_White" = "Valkoinen";
+
+/* (No Comment) */
+"_Common_Width" = "Leveys";
+
+/* (No Comment) */
+"_Common_Woman" = "Nainen";
+
+/* (No Comment) */
+"_Common_Year" = "Vuosi";
+
+/* (No Comment) */
+"_Common_Years" = "Vuotta";
+
+/* (No Comment) */
+"_Common_Yes" = "Kyllä";
+
+/* (No Comment) */
+"_Person_NameFormat_FirstName_MiddleName_LastName_Suffix_Comma_Title" = "\"Etunimi\" \"Muut nimet\" \"Sukunimi\" Liite, Titteli";
+
+/* (No Comment) */
+"_Person_NameFormat_LastName_Comma_FirstName_Comma_MiddleName_Comma_Suffix_Comma_Title" = "\"Sukunimi\", \"Etunimi\", \"Muut nimet\", Liite, Titteli";
+
+/* (No Comment) */
+"_Person_NameFormat_LastName_Suffix_Comma_FirstName_MiddleName_Comma_Title" = "\"Sukunimi\" Liite, \"Etunimi\", \"Muut nimet\", Titteli";
+
+/* (No Comment) */
+"_Person_NameFormat_Title_Comma_FirstName_Suffix_Bracket_MiddleName_Bracket" = "Titteli \"Sukunimi\", \"Etunimi\" Liite (\"Muut nimet\")";
+
+/* (No Comment) */
+"_Person_NameFormat_Title_FirstName_Comma_LastName_Comma_MiddleName_Comma_Suffix" = "Titteli \"Etunimi\", \"Sukunimi\", \"Muut nimet\", Liite";
+
+/* Person Name Formats */
+"_Person_NameFormat_Title_FirstName_MiddleName_LastName_Suffix" = "Titteli \"Etunimi\" \"Muut nimet\" \"Sukunimi\" Liite";
+
+/* (No Comment) */
+"_Person_NameFormat_Title_LastName_MiddleName_FirstName_Suffix" = "Titteli \"Sukunimi\" \"Muut nimet\" \"Etunimi\" Liite";
+
+/* (No Comment) */
+"_Person_NameFormat_Title_LastName_Suffix_Comma_FirstName_MiddleName" = "Titteli \"Sukunimi\" Liite, \"Etunimi\" \"Muut nimet\"";
+
+/* (No Comment) */
+"_Person_NameFormat_Title_LastName_Suffix_FirstName_MiddleName" = "Titteli \"Sukunimi\" Liite \"Etunimi\" \"Muut nimet\"";
+

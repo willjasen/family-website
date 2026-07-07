@@ -1,0 +1,594 @@
+﻿/* (No Comment) */
+"_EditSourceTemplateKeysController_MergeTemplateKeysConflictInformative" = "Вы собираетесь объединить исходное поле '%@' с исходным полем '%@', но в некоторых источниках в вашем семейном дереве оба исходных поля присутствуют в одном источнике. Пожалуйста, решите, как поступить с этими источниками:";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_MergeTemplateKeysConflictKeepBoth" = "Сохранить оба значения";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_MergeTemplateKeysConflictKeepSingle" = "Сохранить значение %@";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_MergeTemplateKeysConflictMessage" = "Объединить поля источников";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_MergeTemplateKeysDoneInformative" = "Исходное поле '%@' объединено с исходным полем '%@'";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_MergeTemplateKeysDoneMessage" = "Исходные поля объединены";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_ReallyMergeTemplateKeysInformative" = "Вы действительно хотите объединить поля шаблона '%@' и '%@'? Впоследствии они станут единым полем шаблона.";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_ReallyMergeTemplateKeysMessage" = "Действительно объединить поля шаблона?";
+
+/* (No Comment) */
+"_EditSourceTemplateKeysController_RemoveTemplateKeyInformative" = "Вы действительно хотите удалить выбранное поле шаблона? В этом поле введена информация, которая будет навсегда удалена.";
+
+/* EditSourceTemplateKeysController */
+"_EditSourceTemplateKeysController_RemoveTemplateKeyMessage" = "Действительно удалить поле шаблона? Все поля из источников будут навсегда удалены.";
+
+/* (No Comment) */
+"_EditSourceTemplatesController_MergeTemplateDoneMessage" = "Исходные шаблоны объединены";
+
+/* (No Comment) */
+"_EditSourceTemplatesController_MergeTemplatesDoneInformative" = "Исходные шаблоны '%@' и '%@' успешно объединены.";
+
+/* (No Comment) */
+"_EditSourceTemplatesController_ReallyMergeTemplateInformative" = "Вы действительно хотите объединить шаблоны '%@ и %@? Впоследствии они будут одном шаблоном.";
+
+/* (No Comment) */
+"_EditSourceTemplatesController_ReallyMergeTemplateMessage" = "Действительно объединитьь шаблоны?";
+
+/* (No Comment) */
+"_EditSourceTemplatesController_RemoveTemplateInformative" = "Вы действительно уверены, что хотите удалить этот исходный шаблон? К этому шаблону прикреплены источники, которые также будут удалены, если вы удалите этот шаблон.";
+
+/* EditSourceTemplatesController */
+"_EditSourceTemplatesController_RemoveTemplateMessage" = "Действительно удалить исходный шаблон? Все прикреплённые источники будут удалены.";
+
+/* (No Comment) */
+"_SourceTemplate_SourcesCount" = "%d источников";
+
+/* Counts */
+"_SourceTemplate_SourcesCountSingular" = "%d источник";
+
+/* (No Comment) */
+"_SourceTemplateKey_Type_Date" = "Дата";
+
+/* SourceTemplateKey */
+"_SourceTemplateKey_Type_Text" = "Текст";
+
+/* (No Comment) */
+"SourceTemplate_AddressBook" = "Адресная книга";
+
+/* (No Comment) */
+"SourceTemplate_Book" = "Книга";
+
+/* (No Comment) */
+"SourceTemplate_BusinessOrganisationalRecord" = "Записи об организации бизнеса";
+
+/* (No Comment) */
+"SourceTemplate_CDROM" = "CD-ROM";
+
+/* (No Comment) */
+"SourceTemplate_CemeteryRecord_Digital" = "Кладбищенская запись (цифровая)";
+
+/* (No Comment) */
+"SourceTemplate_CemeteryRecord_Microfilm" = "Кладбищенская запись (микрофильм)";
+
+/* (No Comment) */
+"SourceTemplate_CemeteryRecord_PhysicalCopy" = "Кладбищенская запись (физическая копия)";
+
+/* (No Comment) */
+"SourceTemplate_Census_Digital" = "Перепись (цифровая)";
+
+/* (No Comment) */
+"SourceTemplate_Census_Microfilm" = "Перепись (микрофильм)";
+
+/* (No Comment) */
+"SourceTemplate_Census_PhysicalCopy" = "Перепись (физическая копия)";
+
+/* (No Comment) */
+"SourceTemplate_ChurchRecord_Books" = "Церковная запись (книги)";
+
+/* (No Comment) */
+"SourceTemplate_ChurchRecord_Digital" = "Церковная запись (цифровая)";
+
+/* (No Comment) */
+"SourceTemplate_ChurchRecord_Microfilm" = "Церковная запись (микрофильм)";
+
+/* (No Comment) */
+"SourceTemplate_CorporateRecord_Digital" = "Корпоративная запись (цифровая)";
+
+/* (No Comment) */
+"SourceTemplate_CorporateRecord_Microfilm" = "Корпоративная запись (микрофильм)";
+
+/* (No Comment) */
+"SourceTemplate_CorporateRecord_PhysicalCopy" = "Корпоративная запись (физическая копия)";
+
+/* (No Comment) */
+"SourceTemplate_CourtDocuments" = "Судебные документы";
+
+/* (No Comment) */
+"SourceTemplate_Deed" = "Поступок";
+
+/* (No Comment) */
+"SourceTemplate_DiaryOrJournal" = "Дневник/Журнал";
+
+/* (No Comment) */
+"SourceTemplate_DraftRegistration" = "Постановка на воинский учёт";
+
+/* (No Comment) */
+"SourceTemplate_EmailMessage" = "E-Mail сообщение";
+
+/* (No Comment) */
+"SourceTemplate_EmigrationRecord_Digital" = "Запись об эмиграции (цифровая)";
+
+/* (No Comment) */
+"SourceTemplate_EmigrationRecord_Microfilm" = "Запись об эмиграции (микрофильм)";
+
+/* (No Comment) */
+"SourceTemplate_EmigrationRecord_PhysicalCopy" = "Запись об эмиграции (физическая копия)";
+
+/* (No Comment) */
+"SourceTemplate_FamilyBible" = "Семейная Библия";
+
+/* (No Comment) */
+"SourceTemplate_FamilyChart" = "Семейная диаграмма";
+
+/* (No Comment) */
+"SourceTemplate_FamilySearch" = "FamilySearch";
+
+/* (No Comment) */
+"SourceTemplate_FuneralHomeRecord" = "Запись похоронного бюро";
+
+/* SourceTemplate */
+"SourceTemplate_Generic" = "Общий";
+
+/* (No Comment) */
+"SourceTemplate_GraveMarkers" = "Надгробные указатели";
+
+/* (No Comment) */
+"SourceTemplate_HistoricalLetter_Digital" = "Историческое письмо (цифровое)";
+
+/* (No Comment) */
+"SourceTemplate_HistoricalLetter_Microfilm" = "Историческое письмо (микрофильм)";
+
+/* (No Comment) */
+"SourceTemplate_HistoricalLetter_PhysicalCopy" = "Историческое письмо (физическая копия)";
+
+/* (No Comment) */
+"SourceTemplate_HistoricalResearch" = "Историческое исследование";
+
+/* (No Comment) */
+"SourceTemplate_ImmigrationRecord_Digital" = "Запись об иммиграции (цифровая)";
+
+/* (No Comment) */
+"SourceTemplate_ImmigrationRecord_Microfilm" = "Запись об иммиграции (микрофильм)";
+
+/* (No Comment) */
+"SourceTemplate_ImmigrationRecord_PhysicalCopy" = "Запись об иммиграции (физическая копия)";
+
+/* (No Comment) */
+"SourceTemplate_Interview_Digital" = "Интервью (цифровое)";
+
+/* (No Comment) */
+"SourceTemplate_Interview_Microfilm" = "Интервью (микрофильм)";
+
+/* (No Comment) */
+"SourceTemplate_Interview_PhysicalCopy" = "Интервью (физическая копия)";
+
+/* _SourceTemplate_KeyName */
+"SourceTemplate_KeyName_Abbreviation" = "Аббревиатура";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Agency" = "Агентство";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Author" = "Автор";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_AuthorAddress" = "Алрес автора";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_AuthorCredentials" = "Сведения об авторе";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_BookPeriodicalName" = "Название книги/журнала";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_CallNumber" = "Классификационный код";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Cemetery" = "Кладбище";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_CensusYear" = "Год переписи";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Church" = "Церковь";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Collection" = "Коллекция";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Compiler" = "Составитель";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Congress" = "Конгресс";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_ContactPerson" = "Контактное лицо";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Copyright" = "Авторское право";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_County" = "Округ";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Court" = "Суд";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Date" = "Дата";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_DateViewed" = "Просмотренная дата";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Detail" = "Подробности";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Edition" = "Издание";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_FileNumber" = "Номер файла";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_FilmNumber" = "Номер фильма";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_FilmType" = "Тип фильма";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_FolderLabel" = "Метка папки";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Format" = "Формат";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Informant" = "Информатор";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_InformantAddress" = "Адрес информатора";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_InformantName" = "Имя информатора";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_InformantRelationship" = "Отношения с информатором";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Interviewee" = "Интервьюируемый";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Interviewer" = "Интервьюер";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Issue" = "Выпуск";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_LocationOfSource" = "Местоположение источника";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_MediaType" = "Тип медиа";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_MicrofilmRollNumber" = "Номер рулона микрофильма";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_MilitaryDivision" = "Военная коллегия";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_NumberOfRolls" = "Количество рулонов";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_OrderNumber" = "Порядковый номер";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Organization" = "Огранизация";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_OtherAuthors" = "Другие авторы";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_OtherSubjects" = "Другие субъекты";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Owner" = "Владелец";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_OwnerAddress" = "Адрес владельца";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_OwnerLocation" = "Местонахождение владельца";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Page" = "Страница";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Place" = "Место";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Presenter" = "Предъявитель";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Publication" = "Публикация";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Publisher" = "Издатель";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Recipient" = "Получатель";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Recorder" = "Рекордер";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_RecordGroup" = "Группа записей";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_ReferenceNumber" = "Номер ссылки";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_ReferenceType" = "Тип ссылки";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Register" = "Книга записей";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Schedule" = "Расписание";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_School" = "Школа";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_SerialNumber" = "Серийный номер";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Series" = "Серия";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_SeriesTitle" = "Название серии";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Session" = "Сессия";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_StateOrCountry" = "Штат или страна";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_StateTerritory" = "Штат/Территория";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Subject" = "Субъект";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Submitter" = "Автор дополнения";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Title" = "Название";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_TownshipCivilDistrict" = "Посёлок/Гражданский округ";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Tribe" = "Род";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Vessel" = "Судно";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_VolumeNumber" = "Номер тома";
+
+/* (No Comment) */
+"SourceTemplate_KeyName_Volumes" = "Тома";
+
+/* (No Comment) */
+"SourceTemplate_LandGrantRegister" = "Запись о передаче земли";
+
+/* (No Comment) */
+"SourceTemplate_LandRecord_Digital" = "Земельная книга (цифровая)";
+
+/* (No Comment) */
+"SourceTemplate_LandRecord_Microfilm" = "Земельная книга (микрофильм)";
+
+/* (No Comment) */
+"SourceTemplate_LandRecord_PhysicalCopy" = "Земельная книга (физическая копия)";
+
+/* (No Comment) */
+"SourceTemplate_LegalDocument_Digital" = "Юридический документ (цифровой)";
+
+/* (No Comment) */
+"SourceTemplate_LegalDocument_Microfilm" = "Юридический документ (микрофильм)";
+
+/* (No Comment) */
+"SourceTemplate_LegalDocument_PhysicalCopy" = "Юридический документ (физическая копия)";
+
+/* (No Comment) */
+"SourceTemplate_LegalGeneticTesting" = "Официальный генетический тест";
+
+/* (No Comment) */
+"SourceTemplate_Letter" = "Письмо";
+
+/* (No Comment) */
+"SourceTemplate_LocalAndStateRecord_Digital" = "Местные и государственные записи (цифровые)";
+
+/* (No Comment) */
+"SourceTemplate_LocalAndStateRecord_Microfilm" = "Местные и государственные записи (микрофильм)";
+
+/* (No Comment) */
+"SourceTemplate_LocalAndStateRecord_PhysicalCopy" = "Местные и государственные записи (физическая копия)";
+
+/* (No Comment) */
+"SourceTemplate_ManuscriptRecord" = "Рукописная запись";
+
+/* (No Comment) */
+"SourceTemplate_Map" = "Карта";
+
+/* (No Comment) */
+"SourceTemplate_MedicalRecord" = "Медицинская запись";
+
+/* (No Comment) */
+"SourceTemplate_MilitaryRecord" = "Военная запись";
+
+/* (No Comment) */
+"SourceTemplate_NationalGovernmentRecord_Digital" = "Национальная правительственная запись (цифровая)";
+
+/* (No Comment) */
+"SourceTemplate_NationalGovernmentRecord_Microfilm" = "Национальная правительственная запись (микрофильм)";
+
+/* (No Comment) */
+"SourceTemplate_NationalGovernmentRecord_PhysicalCopy" = "Национальная правительственная запись (физическая копия)";
+
+/* (No Comment) */
+"SourceTemplate_NativeAmericanTribalCensus" = "Перепись индейских племен";
+
+/* (No Comment) */
+"SourceTemplate_NaturalizationRecord" = "Запись о натурализации";
+
+/* (No Comment) */
+"SourceTemplate_Newspaper" = "Газета";
+
+/* (No Comment) */
+"SourceTemplate_NonLegalPrivateGeneticTesting" = "Нелегальное/частное генетическое тестирование";
+
+/* (No Comment) */
+"SourceTemplate_PassengerList" = "Список пассажиров";
+
+/* (No Comment) */
+"SourceTemplate_PensionFile" = "Пенсионное дело";
+
+/* (No Comment) */
+"SourceTemplate_Periodical" = "Периодическое издание";
+
+/* (No Comment) */
+"SourceTemplate_PersonalBible" = "Личная Библия";
+
+/* (No Comment) */
+"SourceTemplate_PersonalCorrespondence" = "Личная переписка";
+
+/* (No Comment) */
+"SourceTemplate_Portrait" = "Портрет";
+
+/* (No Comment) */
+"SourceTemplate_PreservationFilm" = "Плёнка для сохранения";
+
+/* (No Comment) */
+"SourceTemplate_ResearchReport_Digital" = "Отчёт об исследовании (цифровой)";
+
+/* (No Comment) */
+"SourceTemplate_ResearchReport_Microfilm" = "Отчёт об исследовании (микрофильм)";
+
+/* (No Comment) */
+"SourceTemplate_ResearchReport_PhysicalCopy" = "Отчёт об исследовании (физическая копия)";
+
+/* (No Comment) */
+"SourceTemplate_SchoolRecord_Digital" = "Школьная запись (цифровая)";
+
+/* (No Comment) */
+"SourceTemplate_SchoolRecord_Microfilm" = "Школьная запись (микрофильм)";
+
+/* (No Comment) */
+"SourceTemplate_SchoolRecord_PhysicalCopy" = "Школьная запись (физическая копия)";
+
+/* (No Comment) */
+"SourceTemplate_TaxList" = "Налоговый список";
+
+/* (No Comment) */
+"SourceTemplate_UnpublishedNarrative" = "Неопубликованное повествование";
+
+/* (No Comment) */
+"SourceTemplate_USCongressionalRecord_Digital" = "Отчёт Конгресса США (цифровой)";
+
+/* (No Comment) */
+"SourceTemplate_USCongressionalRecord_Microfilm" = "Отчёт Конгресса США (микрофильм)";
+
+/* (No Comment) */
+"SourceTemplate_VerticalFile" = "Вертикальный файл";
+
+/* (No Comment) */
+"SourceTemplate_Video" = "Видео";
+
+/* (No Comment) */
+"SourceTemplate_VitalRecord" = "Важная запись";
+
+/* (No Comment) */
+"SourceTemplate_VitalRecord_BirthCertificate" = "Важная запись - Свидетельство о рождении";
+
+/* (No Comment) */
+"SourceTemplate_VitalRecord_DeathCertificate" = "Важная запись - Свидетельство о смерти";
+
+/* (No Comment) */
+"SourceTemplate_VitalRecord_DivorceCertificate" = "Важная запись - Свидетельство о разводе";
+
+/* (No Comment) */
+"SourceTemplate_VitalRecord_MarriageLicense" = "Важная запись - Свидетельство о браке";
+
+/* (No Comment) */
+"SourceTemplate_WebSite" = "Веб-сайт";
+
+/* (No Comment) */
+"SourceTemplate_Will" = "Завещание";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationBracketMode_AngleBrackets" = "Угловые скобки";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationBracketMode_Brackets" = "Круглые скобки";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationBracketMode_CurlyBrackets" = "Фигурные скобки";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationBracketMode_DoubleQuotes" = "Двойные кавычки";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationBracketMode_None" = "Нет";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationBracketMode_SingleQuotes" = "Одинарные кавычки";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationFontMode_Bold" = "Жирный";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationFontMode_Italic" = "Курсив";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationFontMode_Normal" = "Нормальный";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationMode_Long" = "Полные ссылки";
+
+/* SourceTemplateKeyRelation - Enums */
+"SourceTemplateKeyRelation_CitationMode_Short" = "Короткие ссылки";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationTrailingMode_Colon" = "Двоеточие";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationTrailingMode_Comma" = "Запятая";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationTrailingMode_Hyphen" = "Дефис";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationTrailingMode_Period" = "Точка";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationTrailingMode_Semicolon" = "Точка с запятой";
+
+/* (No Comment) */
+"SourceTemplateKeyRelation_CitationTrailingMode_Space" = "Пробел";
+

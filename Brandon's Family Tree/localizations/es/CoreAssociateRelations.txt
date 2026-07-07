@@ -1,0 +1,78 @@
+﻿/* (No Comment) */
+"_AssociateRelation_Type_BestFriend" = "Mejor amigo";
+
+/* (No Comment) */
+"_AssociateRelation_Type_BestFriend_Inverted" = "Mejor amigo";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Boss" = "Jefe";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Boss_Inverted" = "Empleado";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Coworker" = "Colega";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Coworker_Inverted" = "Colega";
+
+/* Person Container */
+"_AssociateRelation_Type_Friend" = "Amigo";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Friend_Inverted" = "Amigo";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Godfather" = "Padrino";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Godfather_Inverted" = "Padrino de %@";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Neighbor" = "Vecino";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Neighbor_Inverted" = "Vecino";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Servant" = "Sirviente";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Servant_Inverted" = "Empleador/Amo";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Teacher" = "Profesor";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Teacher_Inverted" = "Estudiante";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfBirth" = "Testigo de nacimiento";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfBirth_Inverted" = "Testigo de nacimiento de %@";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfCivilMarriage" = "Testigo de matrimonio civil";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfCivilMarriage_Inverted" = "Testigo de matrimonio civil de %@";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfDeath" = "Testigo de fallecimiento";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfDeath_Inverted" = "Testigo de fallecimiento de %@";
+
+/* Family Container */
+"_AssociateRelation_Type_WitnessOfMarriage" = "Testigo de matrimonio";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfMarriage_Inverted" = "Testigo de matrimonio de %@";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfReligiousMarriage" = "Testigo de matrimonio eclesiástico";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfReligiousMarriage_Inverted" = "Testigo de matrimonio religioso de %@";
+

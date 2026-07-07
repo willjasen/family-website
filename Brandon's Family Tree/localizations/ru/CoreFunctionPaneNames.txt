@@ -1,0 +1,627 @@
+﻿/* Actions */
+"_EditPlaceholderPane_ImportFromAddressBookAction" = "Импортировать людей из Адресной книги...";
+
+/* Subtitles */
+"_EditPlaceholderPane_NewTreeWelcomeMessage" = "Добро пожаловать в MacFamilyTree 11! Чтобы начать своё исследование, мы рекомендуем использовать Интерактивное древо.";
+
+/* (No Comment) */
+"_EditPlaceholderPane_NewTreeWelcomeMessage_InitialCloudKitDownloadInProgress" = "В настоящее время древо загружается из CloudTree. Пожалуйста, подождите";
+
+/* (No Comment) */
+"_EditPlaceholderPane_NewTreeWelcomeMessage_MobileFamilyTree" = "Добро пожаловать в MobileFamilyTree 11! Чтобы начать своё исследование, мы рекомендуем использовать Интерактивное древо.";
+
+/* (No Comment) */
+"_FavoritesPlaceholderPane_ConfigureFavoritesAction" = "Выбрать избранное…";
+
+/* (No Comment) */
+"_FunctionTitle_AhnentafelReportPaneName" = "Восходящая поколенная роспись";
+
+/* (No Comment) */
+"_FunctionTitle_AhnentafelReportPaneName_Abbreviation" = "Предки";
+
+/* (No Comment) */
+"_FunctionTitle_AncestorChartPaneName" = "Предков";
+
+/* (No Comment) */
+"_FunctionTitle_AncestorChartPaneName_Abbreviation" = "Предков";
+
+/* (No Comment) */
+"_FunctionTitle_AnniversaryListReportPaneName" = "Юбилеи";
+
+/* (No Comment) */
+"_FunctionTitle_AnniversaryListReportPaneName_Abbreviation" = "Юбилеи";
+
+/* (No Comment) */
+"_FunctionTitle_BooksPaneName" = "Родословная книга";
+
+/* (No Comment) */
+"_FunctionTitle_BooksPaneName_Abbreviation" = "Родословная книга";
+
+/* (No Comment) */
+"_FunctionTitle_ChangeLogPane" = "Журнал изменений";
+
+/* (No Comment) */
+"_FunctionTitle_ChangeLogPane_Abbreviation" = "Изменения";
+
+/* (No Comment) */
+"_FunctionTitle_ChangeLogReportPaneName" = "Отчёт журнала изменений";
+
+/* (No Comment) */
+"_FunctionTitle_ChangesListReportPaneName" = "Список изменений";
+
+/* (No Comment) */
+"_FunctionTitle_ChartsFunctionsPlaceholder" = "Обзор функций диаграммы";
+
+/* (No Comment) */
+"_FunctionTitle_ChartsFunctionsPlaceholder_Abbreviation" = "Обзор диаграмм";
+
+/* (No Comment) */
+"_FunctionTitle_DatabaseMaintenancePaneName" = "Управление базой данных";
+
+/* (No Comment) */
+"_FunctionTitle_DatabaseMaintenancePaneName_Abbreviation" = "Управление";
+
+/* (No Comment) */
+"_FunctionTitle_DescendancyReportPaneName" = "Нисходящая поколенная роспись";
+
+/* (No Comment) */
+"_FunctionTitle_DescendancyReportPaneName_Abbreviation" = "Потомки";
+
+/* (No Comment) */
+"_FunctionTitle_DescendantChartPaneName" = "Потомков";
+
+/* (No Comment) */
+"_FunctionTitle_DescendantChartPaneName_Abbreviation" = "Потомков";
+
+/* (No Comment) */
+"_FunctionTitle_DistinctivePersonsListReportPaneName" = "Особенные люди";
+
+/* (No Comment) */
+"_FunctionTitle_DistinctivePersonsListReportPaneName_Abbreviation" = "Отличительный";
+
+/* (No Comment) */
+"_FunctionTitle_DistributionChartPaneName" = "Распространённость";
+
+/* (No Comment) */
+"_FunctionTitle_DistributionChartPaneName_Abbreviation" = "Распространённость";
+
+/* (No Comment) */
+"_FunctionTitle_DoubleAncestorChartPaneName" = "Двойная предков";
+
+/* (No Comment) */
+"_FunctionTitle_DoubleAncestorChartPaneName_Abbreviation" = "Двойная предков";
+
+/* (No Comment) */
+"_FunctionTitle_EditChartPaneName" = "Изменить диаграмму";
+
+/* (No Comment) */
+"_FunctionTitle_EditChartPaneName_Abbreviation" = "Редактировать диаграмму";
+
+/* (No Comment) */
+"_FunctionTitle_EditFamilyTreeInformationPaneName" = "Информация об авторе";
+
+/* (No Comment) */
+"_FunctionTitle_EditFamilyTreeInformationPaneName_Abbreviation" = "Автор";
+
+/* Placeholders */
+"_FunctionTitle_EditFunctionsPlaceholder" = "Обзор функций редактирования";
+
+/* Placeholders Abbreviations */
+"_FunctionTitle_EditFunctionsPlaceholder_Abbreviation" = "Обзор изменений";
+
+/* (No Comment) */
+"_FunctionTitle_EditMediaPaneName" = "Медиа";
+
+/* (No Comment) */
+"_FunctionTitle_EditMediaPaneName_Abbreviation" = "Медиа";
+
+/* (No Comment) */
+"_FunctionTitle_EditReportInBookPaneName" = "Редактировать отчёт в книге";
+
+/* (No Comment) */
+"_FunctionTitle_EditReportInBookPaneName_Abbreviation" = "Редактировать отчёт о книге";
+
+/* (No Comment) */
+"_FunctionTitle_EditReportPaneName" = "Изменить отчёт";
+
+/* (No Comment) */
+"_FunctionTitle_EditReportPaneName_Abbreviation" = "Редактировать отчёт";
+
+/* (No Comment) */
+"_FunctionTitle_EventsListReportPaneName" = "События";
+
+/* (No Comment) */
+"_FunctionTitle_EventsListReportPaneName_Abbreviation" = "События";
+
+/* (No Comment) */
+"_FunctionTitle_ExportGEDCOMPaneName" = "Экспорт GEDCOM файла";
+
+/* (No Comment) */
+"_FunctionTitle_ExportGEDCOMPaneName_Abbreviation" = "GEDCOM файл";
+
+/* (No Comment) */
+"_FunctionTitle_ExportSubtreePaneName" = "Экспорт вложенного древа";
+
+/* (No Comment) */
+"_FunctionTitle_ExportSubtreePaneName_Abbreviation" = "Экспорт вложенного дерева";
+
+/* (No Comment) */
+"_FunctionTitle_FactsListReportPaneName" = "Список фактов";
+
+/* (No Comment) */
+"_FunctionTitle_FactsListReportPaneName_Abbreviation" = "Факты";
+
+/* (No Comment) */
+"_FunctionTitle_Family_PluralCount" = "%@ семьи";
+
+/* (No Comment) */
+"_FunctionTitle_Family_SingularCount" = "%@ семья";
+
+/* (No Comment) */
+"_FunctionTitle_FamilyGroupReportPaneName" = "Отчёт о семье";
+
+/* (No Comment) */
+"_FunctionTitle_FamilyGroupReportPaneName_Abbreviation" = "Семья";
+
+/* (No Comment) */
+"_FunctionTitle_FamilyListPaneName" = "Семьи";
+
+/* (No Comment) */
+"_FunctionTitle_FamilyListPaneName_Abbreviation" = "Семьи";
+
+/* (No Comment) */
+"_FunctionTitle_FamilyQuizPaneName" = "Семейная викторина";
+
+/* (No Comment) */
+"_FunctionTitle_FamilyQuizPaneName_Abbreviation" = "Викторина";
+
+/* (No Comment) */
+"_FunctionTitle_FamilySearchPaneName" = "FamilySearch";
+
+/* (No Comment) */
+"_FunctionTitle_FamilySearchPaneName_Abbreviation" = "FamilySearch";
+
+/* (No Comment) */
+"_FunctionTitle_FamilySearchTaskResults_PluralCount" = "%@ результатов";
+
+/* (No Comment) */
+"_FunctionTitle_FamilySearchTaskResults_SingularCount" = "%@ результат";
+
+/* (No Comment) */
+"_FunctionTitle_FanChartPaneName" = "Веерная";
+
+/* (No Comment) */
+"_FunctionTitle_FanChartPaneName_Abbreviation" = "Веерная";
+
+/* (No Comment) */
+"_FunctionTitle_FavoritesFunctionsPlaceholder" = "Обзор избранных функций";
+
+/* (No Comment) */
+"_FunctionTitle_FavoritesFunctionsPlaceholder_Abbreviation" = "Обзор избранного";
+
+/* (No Comment) */
+"_FunctionTitle_FractalCircularTreeChartPaneName" = "Круглая";
+
+/* (No Comment) */
+"_FunctionTitle_FractalCircularTreeChartPaneName_Abbreviation" = "Круглая";
+
+/* (No Comment) */
+"_FunctionTitle_FractalFractalTreeChartPaneName" = "Фрактальная";
+
+/* (No Comment) */
+"_FunctionTitle_FractalFractalTreeChartPaneName_Abbreviation" = "Фрактальная";
+
+/* (No Comment) */
+"_FunctionTitle_FractalHTreeChartPaneName" = "Фрактальное H-древо";
+
+/* (No Comment) */
+"_FunctionTitle_FractalHTreeChartPaneName_Abbreviation" = "H-древо";
+
+/* (No Comment) */
+"_FunctionTitle_FractalHVTreeChartPaneName" = "Квадратная";
+
+/* (No Comment) */
+"_FunctionTitle_FractalHVTreeChartPaneName_Abbreviation" = "Квадратная";
+
+/* (No Comment) */
+"_FunctionTitle_FractalSymmetricalTreeChartPaneName" = "Симметричное древо";
+
+/* (No Comment) */
+"_FunctionTitle_FractalSymmetricalTreeChartPaneName_Abbreviation" = "Симметричная";
+
+/* (No Comment) */
+"_FunctionTitle_GenogramChartPaneName" = "Генограмма";
+
+/* (No Comment) */
+"_FunctionTitle_GenogramChartPaneName_Abbreviation" = "Генограмма";
+
+/* (No Comment) */
+"_FunctionTitle_HourglassChartPaneName" = "Песочные часы";
+
+/* (No Comment) */
+"_FunctionTitle_HourglassChartPaneName_Abbreviation" = "Песочные часы";
+
+/* Function Names */
+"_FunctionTitle_InteractiveTreeEditPaneName" = "Интерактивное древо";
+
+/* Function Names Abbreviations */
+"_FunctionTitle_InteractiveTreeEditPaneName_Abbreviation" = "Древо";
+
+/* (No Comment) */
+"_FunctionTitle_KinshipReportPaneName" = "Отчёт о родстве";
+
+/* (No Comment) */
+"_FunctionTitle_KinshipReportPaneName_Abbreviation" = "Родство";
+
+/* (No Comment) */
+"_FunctionTitle_LDSOrdinancesListReportPaneName" = "Список таинств LDS";
+
+/* (No Comment) */
+"_FunctionTitle_ListReportsFunctionsPlaceholder" = "Список функций отчёта";
+
+/* (No Comment) */
+"_FunctionTitle_ListReportsFunctionsPlaceholder_Abbreviation" = "Обзор списков";
+
+/* (No Comment) */
+"_FunctionTitle_MapReportPaneName" = "География событий";
+
+/* (No Comment) */
+"_FunctionTitle_MapReportPaneName_Abbreviation" = "География событий";
+
+/* (No Comment) */
+"_FunctionTitle_MapsDiagramPaneName" = "Статистические карты";
+
+/* (No Comment) */
+"_FunctionTitle_MapsDiagramPaneName_Abbreviation" = "Статистические карты";
+
+/* (No Comment) */
+"_FunctionTitle_MarriageListReportPaneName" = "Браки";
+
+/* (No Comment) */
+"_FunctionTitle_MarriageListReportPaneName_Abbreviation" = "Браки";
+
+/* (No Comment) */
+"_FunctionTitle_Media_PluralCount" = "%@ медиа";
+
+/* (No Comment) */
+"_FunctionTitle_Media_SingularCount" = "%@ медиа";
+
+/* (No Comment) */
+"_FunctionTitle_MediaGalleryName" = "Медиагалерея";
+
+/* (No Comment) */
+"_FunctionTitle_MediaGalleryName_Abbreviation" = "Галерея";
+
+/* (No Comment) */
+"_FunctionTitle_MediaGalleryReportPaneName" = "Отчёт медиа-галереи";
+
+/* (No Comment) */
+"_FunctionTitle_NarrativeReportPaneName" = "Текстовый отчёт";
+
+/* (No Comment) */
+"_FunctionTitle_NarrativeReportPaneName_Abbreviation" = "Текстовый отчёт";
+
+/* (No Comment) */
+"_FunctionTitle_Person_PluralCount" = "%@ человек(а)";
+
+/* Count Strings */
+"_FunctionTitle_Person_SingularCount" = "%@ человек";
+
+/* (No Comment) */
+"_FunctionTitle_PersonAnalysisListReportPaneName" = "Анализ людей";
+
+/* (No Comment) */
+"_FunctionTitle_PersonAnalysisListReportPaneName_Abbreviation" = "Анализ";
+
+/* (No Comment) */
+"_FunctionTitle_PersonEventsReportPaneName" = "Отчёт о событиях человека";
+
+/* (No Comment) */
+"_FunctionTitle_PersonEventsReportPaneName_Abbreviation" = "События человека";
+
+/* (No Comment) */
+"_FunctionTitle_PersonGroup_PluralCount" = "%@ групп(ы) людей";
+
+/* (No Comment) */
+"_FunctionTitle_PersonGroup_SingularCount" = "%@ групп людей";
+
+/* (No Comment) */
+"_FunctionTitle_PersonGroupPaneName" = "Изменить группу людей";
+
+/* (No Comment) */
+"_FunctionTitle_PersonGroupPaneName_Abbreviation" = "Группы";
+
+/* (No Comment) */
+"_FunctionTitle_PersonListPaneName" = "Люди";
+
+/* (No Comment) */
+"_FunctionTitle_PersonListPaneName_Abbreviation" = "Люди";
+
+/* (No Comment) */
+"_FunctionTitle_PersonListReportPaneName" = "Люди";
+
+/* (No Comment) */
+"_FunctionTitle_PersonListReportPaneName_Abbreviation" = "Люди";
+
+/* (No Comment) */
+"_FunctionTitle_PersonReportPaneName" = "Персональный отчёт";
+
+/* (No Comment) */
+"_FunctionTitle_PersonReportPaneName_Abbreviation" = "Человек";
+
+/* (No Comment) */
+"_FunctionTitle_Place_PluralCount" = "%@ мест(а)";
+
+/* (No Comment) */
+"_FunctionTitle_Place_SingularCount" = "%@ место";
+
+/* (No Comment) */
+"_FunctionTitle_PlaceListPaneName" = "Места";
+
+/* (No Comment) */
+"_FunctionTitle_PlaceListPaneName_Abbreviation" = "Места";
+
+/* (No Comment) */
+"_FunctionTitle_PlacesListReportPaneName" = "Список мест";
+
+/* (No Comment) */
+"_FunctionTitle_PlacesListReportPaneName_Abbreviation" = "Места";
+
+/* (No Comment) */
+"_FunctionTitle_PlausibilityListReportPaneName" = "Достоверность";
+
+/* (No Comment) */
+"_FunctionTitle_PlausibilityListReportPaneName_Abbreviation" = "Достоверность";
+
+/* (No Comment) */
+"_FunctionTitle_PublishFunctionsPlaceholder" = "Обзор функций публикации";
+
+/* (No Comment) */
+"_FunctionTitle_PublishFunctionsPlaceholder_Abbreviation" = "Обзор публикаций";
+
+/* (No Comment) */
+"_FunctionTitle_RegisterReportPaneName" = "Регистр потомков";
+
+/* (No Comment) */
+"_FunctionTitle_RelationshipChartPaneName" = "Диаграмма отношений";
+
+/* (No Comment) */
+"_FunctionTitle_RelationshipChartPaneName_Abbreviation" = "Отношения";
+
+/* (No Comment) */
+"_FunctionTitle_RemoveSubtreePaneName" = "Удалить вложенное древо";
+
+/* (No Comment) */
+"_FunctionTitle_RemoveSubtreePaneName_Abbreviation" = "Удалить вложенное дерево";
+
+/* (No Comment) */
+"_FunctionTitle_ReportsFunctionsPlaceholder" = "Обзор функций отчёта";
+
+/* (No Comment) */
+"_FunctionTitle_ReportsFunctionsPlaceholder_Abbreviation" = "Обзор отчётов";
+
+/* (No Comment) */
+"_FunctionTitle_ResearchAssistantPaneName" = "Ассистент поиска";
+
+/* (No Comment) */
+"_FunctionTitle_ResearchAssistantPaneName_Abbreviation" = "Ассистент";
+
+/* (No Comment) */
+"_FunctionTitle_SavedBook_PluralCount" = "%@ книг";
+
+/* (No Comment) */
+"_FunctionTitle_SavedBook_SingularCount" = "%@ книга";
+
+/* (No Comment) */
+"_FunctionTitle_SavedChart_PluralCount" = "%@ сохранённых просмотров";
+
+/* (No Comment) */
+"_FunctionTitle_SavedChart_SingularCount" = "%@ сохранённый просмотр";
+
+/* (No Comment) */
+"_FunctionTitle_SavedChartsPaneName" = "Сохранённые диаграммы";
+
+/* (No Comment) */
+"_FunctionTitle_SavedChartsPaneName_Abbreviation" = "Сохранённые диаграммы";
+
+/* (No Comment) */
+"_FunctionTitle_SavedReport_PluralCount" = "%@ сохранённых отчётов";
+
+/* (No Comment) */
+"_FunctionTitle_SavedReport_SingularCount" = "%@ сохранённый отчёт";
+
+/* (No Comment) */
+"_FunctionTitle_SavedReportsPaneName" = "Сохранённые отчёты";
+
+/* (No Comment) */
+"_FunctionTitle_SavedReportsPaneName_Abbreviation" = "Сохранённые отчёты";
+
+/* (No Comment) */
+"_FunctionTitle_SavedWebsite_PluralCount" = "%@ веб-сайтов";
+
+/* (No Comment) */
+"_FunctionTitle_SavedWebsite_SingularCount" = "%@ веб-сайт";
+
+/* (No Comment) */
+"_FunctionTitle_SearchAndReplacePaneName" = "Поиск и замена";
+
+/* (No Comment) */
+"_FunctionTitle_SearchPaneName" = "Поиск в базе данных";
+
+/* (No Comment) */
+"_FunctionTitle_SearchPaneName_Abbreviation" = "Поиск";
+
+/* (No Comment) */
+"_FunctionTitle_SociogramChartPaneName" = "График социограммы";
+
+/* (No Comment) */
+"_FunctionTitle_SociogramChartPaneName_Abbreviation" = "Социограмма";
+
+/* (No Comment) */
+"_FunctionTitle_Source_PluralCount" = "%@ источника(ов)";
+
+/* (No Comment) */
+"_FunctionTitle_Source_SingularCount" = "%@ источник";
+
+/* (No Comment) */
+"_FunctionTitle_SourceListPaneName" = "Источники";
+
+/* (No Comment) */
+"_FunctionTitle_SourceListPaneName_Abbreviation" = "Источники";
+
+/* (No Comment) */
+"_FunctionTitle_SourcesListReportPaneName" = "Список источников";
+
+/* (No Comment) */
+"_FunctionTitle_SourcesListReportPaneName_Abbreviation" = "Источники";
+
+/* (No Comment) */
+"_FunctionTitle_StatisticsChartPaneName" = "Статистика";
+
+/* (No Comment) */
+"_FunctionTitle_StatisticsChartPaneName_Abbreviation" = "Статистика";
+
+/* (No Comment) */
+"_FunctionTitle_StatusReportPaneName" = "Сводный отчёт древа";
+
+/* (No Comment) */
+"_FunctionTitle_Story_PluralCount" = "%@ историй";
+
+/* (No Comment) */
+"_FunctionTitle_Story_SingularCount" = "%@ история";
+
+/* (No Comment) */
+"_FunctionTitle_StoryPaneName" = "Редактировать истории";
+
+/* (No Comment) */
+"_FunctionTitle_StoryPaneName_Abbreviation" = "Истории";
+
+/* (No Comment) */
+"_FunctionTitle_StoryReportPaneName" = "Лента историй";
+
+/* (No Comment) */
+"_FunctionTitle_StoryReportPaneName_Abbreviation" = "История";
+
+/* (No Comment) */
+"_FunctionTitle_TimelineChartPaneName" = "Шкала времени";
+
+/* (No Comment) */
+"_FunctionTitle_TimelineChartPaneName_Abbreviation" = "Шкала времени";
+
+/* (No Comment) */
+"_FunctionTitle_TimelineReportPaneName" = "Хронология событий человека";
+
+/* (No Comment) */
+"_FunctionTitle_TodayReportPaneName" = "Отчёт за сегодняшний день";
+
+/* (No Comment) */
+"_FunctionTitle_ToDo_PluralCount" = "%@ задач(и)";
+
+/* (No Comment) */
+"_FunctionTitle_ToDo_PluralCount_Overdue" = "%@ просрочено";
+
+/* (No Comment) */
+"_FunctionTitle_ToDo_SingularCount" = "%@ задача";
+
+/* (No Comment) */
+"_FunctionTitle_ToDo_SingularCount_Overdue" = "%@ просрочено";
+
+/* (No Comment) */
+"_FunctionTitle_ToDoListReportPaneName" = "Список дел";
+
+/* (No Comment) */
+"_FunctionTitle_ToDoListReportPaneName_Abbreviation" = "Задачи";
+
+/* (No Comment) */
+"_FunctionTitle_ToDosPaneName" = "Список задач";
+
+/* (No Comment) */
+"_FunctionTitle_ToDosPaneName_Abbreviation" = "Задачи";
+
+/* (No Comment) */
+"_FunctionTitle_TreeChartPaneName" = "Полная диаграмма древа";
+
+/* (No Comment) */
+"_FunctionTitle_TreeChartPaneName_Abbreviation" = "Древо";
+
+/* (No Comment) */
+"_FunctionTitle_ViewsFunctionsPlaceholder" = "Обзор функций просмотра";
+
+/* (No Comment) */
+"_FunctionTitle_ViewsFunctionsPlaceholder_Abbreviation" = "Обзор просмотров";
+
+/* (No Comment) */
+"_FunctionTitle_VirtualGlobeChartPaneName_Abbreviation" = "Глобус";
+
+/* (No Comment) */
+"_FunctionTitle_VirtualGlobePaneName" = "Виртуальный глобус";
+
+/* (No Comment) */
+"_FunctionTitle_VirtualTreeDiagramPaneName" = "Виртуальное древо";
+
+/* (No Comment) */
+"_FunctionTitle_VirtualTreeDiagramPaneName_Abbreviation" = "Виртуальное древо";
+
+/* (No Comment) */
+"_FunctionTitle_WebSearchPaneName" = "Веб-поиск";
+
+/* (No Comment) */
+"_FunctionTitle_WebSearchPaneName_Abbreviation" = "Веб-поиск";
+
+/* (No Comment) */
+"_FunctionTitle_WebSiteExportWebSitesPaneName" = "Веб-сайты";
+
+/* (No Comment) */
+"_FunctionTitle_WebSiteExportWebSitesPaneName_Abbreviation" = "Веб-сайты";
+
+/* (No Comment) */
+"_FunctionTitle_WebSitePaneName" = "Веб-сайт";
+
+/* (No Comment) */
+"_FunctionTitle_WebSitePaneName_Abbreviation" = "Веб-сайт";
+
+/* More Function */
+"_MoreFunctionPanesTitle" = "Ещё…";
+
+/* (No Comment) */
+"_PaneCategory_Charts" = "Диаграммы";
+
+/* Categories */
+"_PaneCategory_Edit" = "Правка";
+
+/* (No Comment) */
+"_PaneCategory_Favorites" = "Избранное";
+
+/* (No Comment) */
+"_PaneCategory_ListReports" = "Списки";
+
+/* (No Comment) */
+"_PaneCategory_Publish" = "Публикация";
+
+/* (No Comment) */
+"_PaneCategory_Reports" = "Отчёты";
+
+/* (No Comment) */
+"_PaneCategory_View" = "Просмотр";
+
+/* (No Comment) */
+"_PaneCategoryBaseFunction_Emphasized" = "Выделено";
+
+/* (No Comment) */
+"_PaneCategoryBaseFunction_Emphasized_Explanation" = "При выделении функция отображается на видном месте в начальном разделе каждой категории.";
+
+/* PaneCategoryFunction Configuration User Interface */
+"_PaneCategoryBaseFunction_Enabled" = "Включено";
+
+/* (No Comment) */
+"_PaneCategoryBaseFunction_Enabled_Explanation" = "Укажите здесь, должна ли эта функция отображаться по умолчанию. Если отключено, функция будет удалена из пользовательского интерфейса. Вы можете снова включить его здесь в любое время.";
+
+/* (No Comment) */
+"_PaneCategoryBaseFunction_Favorite" = "Отметить как избранное";
+
+/* (No Comment) */
+"_PaneCategoryBaseFunction_Favorite_Explanation" = "Отметьте важные функции, которые вы часто используете, как избранные. Они появятся в категории «Избранное» для быстрого доступа.";
+
+/* (No Comment) */
+"_PaneCategoryBaseFunction_RemoveFromFavoritesButton" = "Удалить из избранного";
+

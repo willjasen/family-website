@@ -1,0 +1,1134 @@
+﻿/* BurnWebSiteExportPublish */
+"_BurnWebSiteExportPublish_Title" = "Honlap írása CD/DVD-re";
+
+/* FTPWebSiteExportPublish */
+"_FTPWebSiteExportPublish_Title" = "Feltöltés az FTP szerverre";
+
+/* (No Comment) */
+"_FTPWebSiteExportPublish_UploadFailed" = "FTP feltöltés sikertelen";
+
+/* (No Comment) */
+"_FTPWebSiteExportPublish_UploadFinishedMessage" = "Az '%@' FTP- szerverre történő feltöltés %@-ban befejeződött.";
+
+/* (No Comment) */
+"_FTPWebSiteExportPublish_UploadFinishedTitle" = "FTP feltöltés befejeződött";
+
+/* (No Comment) */
+"_FTPWebSiteExportPublish_UploadProgress" = "Felöltött %.2f ból %.2f MB";
+
+/* (No Comment) */
+"_FTPWebSiteExportPublish_UploadProgressHeadline" = "Feltöltés az FTP- szerverre...";
+
+/* (No Comment) */
+"_MacFamilyTreeComEditTree_NoPasswordEntered" = "Adjon meg egy jelszót a MacFamilyTree.com-on lévő honlapjához.";
+
+/* MacFamilyTreeComEditTree */
+"_MacFamilyTreeComEditTree_Title" = "Fabeállítások szerkesztése";
+
+/* MacFamilyTreeComEditUser */
+"_MacFamilyTreeComEditUser_Title" = "Fiókom szerkesztése";
+
+/* (No Comment) */
+"_MacFamilyTreeComLoginView_ForgotPasswordButton" = "Elfelejtett jelszó";
+
+/* (No Comment) */
+"_MacFamilyTreeComLoginView_LoginButton" = "Bejelentkezés";
+
+/* (No Comment) */
+"_MacFamilyTreeComLoginView_Password" = "Jelszó:";
+
+/* (No Comment) */
+"_MacFamilyTreeComLoginView_RegisterButton" = "Új fiók létrehozása";
+
+/* MacFamilyTreeComLoginView */
+"_MacFamilyTreeComLoginView_UserName" = "Felhasználói név:";
+
+/* MacFamilyTreeComRegisterNewTree */
+"_MacFamilyTreeComRegisterNewTree_Title" = "Új honlap feltöltésse";
+
+/* MacFamilyTreeComRegisterNewUser */
+"_MacFamilyTreeComRegisterNewUser_Title" = "Regisztráljon a MacFamilyTree.com-on";
+
+/* (No Comment) */
+"_MacFamilyTreeComWebSiteExportPublish_ListTopHint" = "Válassza ki a lecserélni kívánt honlapot az alábbi listából, vagy töltsön fel egy új honlapot.";
+
+/* (No Comment) */
+"_MacFamilyTreeComWebSiteExportPublish_NoTreesPresentMessage" = "Jelenleg még nem töltött fel honlapot a MacFamilyTree.com-ra. Kérjük, használja az 'Ùj honlap' gombot az első honlapjának feltöltéséhez.";
+
+/* (No Comment) */
+"_MacFamilyTreeComWebSiteExportPublish_NoTreesPresentTitle" = "Nincsen honlap a MacFamilyTree.com-on";
+
+/* (No Comment) */
+"_MacFamilyTreeComWebSiteExportPublish_ReplaceExistingTreeButton" = "Cserélje ki a honlapot";
+
+/* MacFamilyTreeComWebSiteExportPublish */
+"_MacFamilyTreeComWebSiteExportPublish_Title" = "Feltöltés a MacFamilyTree.com-ra";
+
+/* (No Comment) */
+"_MacFamilyTreeComWebSiteExportPublish_UploadNewTreeButton" = "Új honlap";
+
+/* (No Comment) */
+"_MacFamilyTreeComWebSiteExportPublish_UploadProgressHeadline" = "Feltöltés a MacFamilyTree.com-ra...";
+
+/* (No Comment) */
+"_ManageMacFamilyTreeCom_DeleteTree_Informative" = "Valóban törölni szeretné a '%@' honlapot a MacFamilyTree.com-on? Ezt nem lehet visszacsinálni.";
+
+/* (No Comment) */
+"_ManageMacFamilyTreeCom_DeleteTree_Message" = "Valóban törölni akarja a honlapot a MacFamilyTree-n?";
+
+/* (No Comment) */
+"_ManageMacFamilyTreeCom_EditUserButton" = "Fiókom szerkesztése";
+
+/* (No Comment) */
+"_ManageMacFamilyTreeCom_ListTopHint" = "Az alábbiakban felsoroljuk az összes honlapot, amelyet a MacFamilyTree.com oldalon hozott létre. A honlap kiválasztásával eltávolíthatja a honlapokat, vagy szerkesztheti a címet és a jelszóvédelmet. A tartalom cseréjéhez válasszon ki egy honlapot az előző képernyőn, és válassza a „Publikáció” ​​lehetőséget.";
+
+/* (No Comment) */
+"_ManageMacFamilyTreeCom_LogoutButton" = "Kijelentkezés";
+
+/* (No Comment) */
+"_ManageMacFamilyTreeCom_NoTreesPresentMessage" = "Nem töltött fel családfát a MacFamilyTree.com-ra. Honlap feltöltéséhez hozzon létre egy honlapot az előző képernyőn, és töltse fel a MacFamilyTree.com-ra.";
+
+/* (No Comment) */
+"_ManageMacFamilyTreeCom_NoTreesPresentTitle" = "Nincsen honlap a MacFamilyTree.com-on";
+
+/* ManageMacFamilyTreeCom */
+"_ManageMacFamilyTreeCom_Title" = "MacFamilyTree.com honlapok és fiók kezelése";
+
+/* (No Comment) */
+"_WebSiteExport_Beach_Theme" = "Strand";
+
+/* (No Comment) */
+"_WebSiteExport_Blue_Theme" = "Kék hegyek";
+
+/* (No Comment) */
+"_WebSiteExport_BurnCDMenuItem" = "CD/DVD írása...";
+
+/* (No Comment) */
+"_WebSiteExport_Chart_Page_Chart_Section_Title" = "Mentett diagram";
+
+/* (No Comment) */
+"_WebSiteExport_Charts_Page_Charts_Section_Title" = "Mentett diagramok";
+
+/* Saved Charts Page */
+"_WebSiteExport_Charts_Page_Title_Section_Title" = "Diagramok";
+
+/* Themes */
+"_WebSiteExport_Classic_Theme" = "Klasszikus";
+
+/* (No Comment) */
+"_WebSiteExport_Clean_Theme" = "Tiszta";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ActiveLinkColor" = "Aktív link színe";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_BlurRadius" = "Elmosódási sugár";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Color" = "Szín";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ColorizePersonPlaceholderImages" = "Színezés nemek szerint";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_CustomHomePageImage" = "Válassza ki az alábbi saját képet a kezdőlapon való megjelenítéshez.";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_DisableAnimations" = "Animációk kikapcsolása";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_DNAPageSettings" = "DNS oldal";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_EnabledStatisticChartTypes" = "Statisztikai diagrammok";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_EventPageSettings" = "Esemény helye";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ExportPersonsModeAll" = "Minden személy";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ExportPersonsModeFromPersonGroups" = "Személyek a személycsoportokban";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ExportPersonsModeFromScope" = "Személyek az intelligens szűrőben";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_FamilyPageSettings" = "Családoldal";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Font" = "Betűtípus";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HideDetailsOfLivingPersons" = "Élő személyek adatainak elrejtése";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HideInformationMarkedAsPrivate" = "Privátként kijelölt információk elrejtése";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Highlight_Color_Number" = "Szín #%d";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HomePageImageType" = "Kép";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HomePageImageType_CustomImage" = "Saját kép";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HomePageImageType_FamilyCrest" = "Családi címer";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HomePageImageType_None" = "Nincs";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HomePageImageType_StartPerson" = "Kezdő személytől";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HomePageSettings" = "Kezdőlap";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartAlignment" = "Homokóradiagram beigazítása";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartConnectionItemCornerRadius" = "Saroksugár";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartPersonItemBorderColor" = "Szegélyszín";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartPersonItemBorderWidth" = "Szegélyszélesség";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartPersonItemCornerRadius" = "Saroksugár";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartPersonItemSubTitleColor" = "Alcím színe";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartPersonItemSubTitleFont" = "Alcím betűtípusa";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartPersonItemTitleColor" = "Címszín";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartPersonItemTitleFont" = "Title Font";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartSelectedPersonItemBorderWidth" = "Kiválasztott szegélyszélesség";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ImprintPageSettings" = "Impresszum";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeAudio" = "Hang média";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeDNA" = "DNS információ";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeGEDCOMFile" = "Letölthető GEDCOM-fájl";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeLabels" = "Címkék";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeLastEdited" = "Utolsó szerkesztés";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeNumberingSystemString" = "Számozási rendszer információ";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludePDFs" = "PDF-ek";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludePersonGroups" = "Személycsoportok";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludePictures" = "Képek";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeSavedCharts" = "Mentett diagramok";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeSources" = "Források";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeStories" = "Történetek";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeURLs" = "URL-ek";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeVideos" = "Videók";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Label_For_Family_Members" = "Családtagok címkéje";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Label_For_Family_Members_Use_Man_Woman" = "Férfi/nő használata";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Label_For_Family_Members_Use_Partner1_Partner2" = "Partner 1/Partner 2 használata";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Language_Label" = "Nyelv";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_LinkColor" = "Link színe";
+
+/* Configuration */
+"_WebSiteExport_Configuration_MajorGroupTitle_General" = "Általános";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MajorGroupTitle_HourglassChart" = "Homokóradiagram";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MajorGroupTitle_Pages" = "Oldalak";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MajorGroupTitle_Persons" = "Személyek";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MajorGroupTitle_Theme" = "Sablon";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MediaPageSettings" = "Médiumoldal";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MidGroupTitle_HourglassChartOtherPersonItem" = "Más személyek";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MidGroupTitle_HourglassChartSelectedPersonItem" = "Fókuszban álló személy";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Animations" = "Animációk";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_ExportOptions" = "Opciók";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_ExportPersonsMode" = "Bevonandó személyek";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_HighlightColors" = "Színek kiemelése";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_HomePageImage" = "Kép";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_HomePageIntroduction" = "Bevezetés";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_HourglassChart_Background" = "Háttér";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_HourglassChart_ConnectionItem" = "Kapcsolatok";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_HourglassChart_PersonItem" = "Személyek";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_ImprintAuthorContact" = "Szerző kapcsolat";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Includes" = "Bevonás";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Introduction" = "Bevezetés";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Links" = "Linkek";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Menu" = "Menü";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_PageSections" = "Oldalszakaszok";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_PersonPageHourglassChart" = "Homokóradiagram";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Persons" = "Személyek";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Privacy" = "Adatvédelem";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Sections" = "Részek";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_StartPerson" = "Kezdő személy";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_ThemeImages" = "Sablonkép";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Title" = "Cím";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_WebSite" = "Honlap";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_OptimizePictureFileSize" = "Képméret optimalizálása a kisebb fájlokhoz";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_PageSections" = "Oldalszakaszok";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_PersonGroupPageSettings" = "Személycsoport oldala";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_PersonNameFormate" = "Személy névformátuma";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_PersonPageSettings" = "Személyoldal";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_PlacePageSettings" = "Helyoldal";
+
+/* Website Configuration */
+"_WebSiteExport_Configuration_Popup_Title" = "Beállítások";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Section_Placement_Full_Width" = "Teljes szélesség";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Section_Placement_Header" = "Fejléc";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Section_Placement_Left" = "Balra";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Section_Placement_Right" = "Jobbra";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Section_Placement_Side" = "Oldal";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ShowFamilyCrestInTitle" = "Családi címer megmutatása a címben";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_SourcePageSettings" = "Forrásoldal";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_StatisticsPageSettings" = "Statisztikaoldal";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_StoryPageSettings" = "Történetoldal";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_TextAlignment" = "Beigazítás";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_TextAlignment_Center" = "Középső";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_TextAlignment_Left" = "Balra";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_TextAlignment_Right" = "Jobbra";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Theme_Label" = "Sablon";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Theme_Title" = "Sabloncím";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ThemeBackgroundImage" = "Háttérkép";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ThemeHeaderBackgroundImage" = "Fejléckép";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_UseFamilyCrestAsFavicon" = "Családi címer használata favicon-ként";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteAuthorAddress" = "Lakcím";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteAuthorEmail" = "E-Mail";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteAuthorName" = "Szerző";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteAuthorPhone" = "Telefon";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteImprintNote" = "Jegyzet";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteIntroduction" = "Bevezetés";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteStartPerson" = "Kezdő személy";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteSubTitle" = "Alcím";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteTitle" = "Cím";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_3" = "URL nincs rendesen formatálva.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_6" = "Host-ot nem lehetett megszüntetni.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_7" = "Kapcsolat a host-tal nem lehetséges.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_9" = "Hozzáférés megvonva.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_25" = "FTP szerver megvonta a STORE parancsot.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_30" = "FTP port hiba.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_35" = "SSL/TLS kapcsolat sikertelen.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_60" = "Peer tanúsítvány nem hitelesíthető az ismert CA tanúsítványokkal.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_64" = "SSL/TLS kapcsolat sikertelen.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_67" = "Sikertelen bejelentkezés. Ellenőrizze az ftp felhasználói nevét és a jelszavát.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_73" = "A fájl már létezik és nem lehet felülírni. Ellenőrizze a hozzáférési jogait a szerveren.";
+
+/* CurlErrorCodes */
+"_WebSiteExport_CurlError_Generic" = "Intern hiba (%d).";
+
+/* (No Comment) */
+"_WebSiteExport_Dark_Theme" = "Antilop-kanyon";
+
+/* (No Comment) */
+"_WebSiteExport_DarkBubbles_Theme" = "Buborékok";
+
+/* (No Comment) */
+"_WebSiteExport_Default_WebSiteExportFolderName" = "Családfa-honlapom";
+
+/* Details Of Living Persons Hidden */
+"_WebSiteExport_Details_Of_Living_Persons_Hidden_Person_Name" = "Személyrészletek elrejtve";
+
+/* (No Comment) */
+"_WebSiteExport_ExportToFolderMenuItem" = "Exportálás a gyűjtőbe...";
+
+/* (No Comment) */
+"_WebSiteExport_Flowers_Theme" = "Virágok";
+
+/* (No Comment) */
+"_WebSiteExport_Forest_Path_Theme" = "Erdei ösvény";
+
+/* (No Comment) */
+"_WebSiteExport_Forest_Theme" = "Erdő";
+
+/* (No Comment) */
+"_WebSiteExport_Green_Hills_Theme" = "Napkelte";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Created_On" = "Készült: %@";
+
+/* Home Page */
+"_WebSiteExport_Home_Page_Created_With_MacFamilyTree" = "MacFamilyTree 11 segítségével létrehozott honlap";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Download_GedcomFile_Description" = "Kattintson a fenti képre a családfa GEDCOM-fájljának letöltéséhez. A GEDCOM-fájlokat szinte minden, a piacon kapható genealógiai alkalmazás importálhatja.";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_GedcomFile_DownloadLinkTitle" = "GEDCOM-fájl letöltése";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_BookmarkedFamilies" = "Könyvjelzővel ellátott családok";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_BookmarkedMedia" = "Könyvjelzővel ellátott médiák";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_BookmarkedPersons" = "Könyvjelzővel ellátott személyek";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_BookmarkedPlaces" = "Könyvjelzővel ellátott helyek";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_BookmarkedSources" = "Könyvjelzővel ellátott források";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_CreationDate" = "Elkészítés dátuma";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_GedcomFile" = "GEDCOM-fájl";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_Image" = "Kép vagy családi címer";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_Introduction" = "Bevezetés";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_Introduction_Placeholder" = "Ez egy helyőrző a bevezetéshez. Ezt a Honlap > Oldalak > Kezdőlap menüpontban módosíthatja.";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_StartPerson" = "Kezdő személy";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_SubTitle" = "Alcím";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_Title" = "Cím";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Author_Contact_Section_Title" = "Szerző kapcsolat";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Note_Section_Title" = "Jegyzet";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Synium_Contact_AppStore_Label" = "Mac App Store";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Synium_Contact_AppStore_Link_11" = "MacCsaládfa 11";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Synium_Contact_Company" = "Synium Software GmbH Németország";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Synium_Contact_Company_Label" = "Cég";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Synium_Contact_Section_Title" = "Synium kapcsolat";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Synium_Contact_Website_Label" = "Honlap";
+
+/* Imprint Page */
+"_WebSiteExport_Imprint_Page_Title_Section_Title" = "Impresszum";
+
+/* (No Comment) */
+"_WebSiteExport_IndexCards_Theme" = "Indexkártyák";
+
+/* (No Comment) */
+"_WebSiteExport_Inspector_ThemesTitle" = "Sablonok";
+
+/* Inspector */
+"_WebSiteExport_Inspector_WebSiteSettingsTitle" = "Honlap";
+
+/* (No Comment) */
+"_WebSiteExport_Leafs_Theme" = "Bambusz";
+
+/* (No Comment) */
+"_WebSiteExport_LeftMenu_Theme" = "Tengerpart";
+
+/* (No Comment) */
+"_WebSiteExport_LeftMenuBlurryBackground_Theme" = "Lila";
+
+/* (No Comment) */
+"_WebSiteExport_List_No_Entry_DueToSearch_Placeholder" = "Nem található beírás a megadott keresési kifejezéshez.";
+
+/* (No Comment) */
+"_WebSiteExport_List_No_Entry_Placeholder" = "Nem talált beírást.";
+
+/* Lists */
+"_WebSiteExport_List_Search_Placeholder" = "Keresés...";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_By" = "Válogatás ... szerint";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Family_Last_Name_Key" = "Család vezetékneve";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Family_Name_Key" = "Családnév";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_BirthDate_Key" = "Születési dátum";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_DeathDate_Key" = "Elhalálozási dátum";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_FirstName_Key" = "Keresztnév";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_Group_Name_Key" = "Csoportnév";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_LastName_Key" = "Vezetéknév";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_NameMiddle_Key" = "Második keresztnév";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_NamePrefix_Key" = "Névelőtag";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_NameSuffix_Key" = "Névutótag";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Place_Name_Key" = "Helynév";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Source_Title_Key" = "Forráscím";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Story_Title_Key" = "Történetcím";
+
+/* (No Comment) */
+"_WebSiteExport_LoadingFamilyTreeData" = "Családfa betöltése...";
+
+/* (No Comment) */
+"_WebSiteExport_LoadingFamilyTreeData_Failed" = "Családfa betöltése sikertelen";
+
+/* (No Comment) */
+"_WebSiteExport_ManageThemes_Label" = "Sablon:";
+
+/* (No Comment) */
+"_WebSiteExport_ManageWebSiteExportThemes" = "Sablonok rendezése";
+
+/* (No Comment) */
+"_WebSiteExport_ManageWebSiteExportThemes_AddThemeHint" = "Válasszon ki egy sablont az alábbi listából, amelyet hozzá szeretne adni ehhez a honlaphoz.";
+
+/* (No Comment) */
+"_WebSiteExport_ManageWebSiteExportThemes_AddThemeTitle" = "Sablon hozzáfűzése";
+
+/* (No Comment) */
+"_WebSiteExport_ManageWebSiteExportThemes_Hint" = "A honlaphoz tartozó összes kapcsolódó téma az alábbiakban található. További témák hozzáfűzéséhez használja a fenti \"Hozzáfűzés” gombot. A témák húzásával a sorrendet is módosíthatja. A lista első témája a webhely alapértelmezett témája.";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Charts" = "Diagramok";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Families" = "Családok";
+
+/* Website Menu */
+"_WebSiteExport_Menu_HomePage" = "Kezdő oldal";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Imprint" = "Impresszum";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_PersonGroups" = "Személycsoportok";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Persons" = "Személyek";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Places" = "Helyek";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Sources" = "Források";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Statistics" = "Statisztika";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Stories" = "Történetek";
+
+/* (No Comment) */
+"_WebSiteExport_MFT11_Theme" = "Tizenegy";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_AuthenticationFailed" = "Bejelentkezés sikertelen. Győződjön meg róla, hogy a felhasználói nevet és a jelszót pontosan adta meg.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Client_Error" = "Clienthiba";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Client_Error_Informative_Text" = "Clienthiba (%@) lépett fel. Próbálkozzon újra. Ha a hiba újra fellép, forduljon az ügyfélszolgálathoz.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_CommandMismatch" = "Lekérési hiba (Command Missmatch)";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_CommandUnknown" = "Lekérés ismeretlen";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Connection_Error" = "Kapcsolathiba";
+
+/* MFT server NSURLConnection errors */
+"_WebSiteExport_MFTExport_ConnectionErrorCannotConnectToHost" = "Kapcsolat a MacFamilyTree.com szerverrel nem lehetséges. Ellenőrizze az internetkapcsolatát és próbálkozzon újra.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_ConnectionErrorCannotFindHost" = "Nem tudta felhívni a MacFamilyTree.com-t (DNS Lookup sikertelen). Ellenőrizze, hogy az internetkapcsolata rendesen működik-e.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_ConnectionErrorTimedOut" = "Timeout a MacFamilyTree.com-Server-kapcsolatban. Próbálkozzon később.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Delete_Old_Files" = "Régi fájlok törlése";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_DeleteFailed" = "Fájl törlése sikertelen";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error" = "Ismeretlen hiba";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_Connection_Cant_Be_Initialized" = "Kapcsolatot nem lehet megindítani";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_Email_Not_Valid" = "Emailcím érvénytelen.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_NoSSL_Connect_Without_SSL" = "Összakapcsolás";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_Not_Logged_In" = "Nem jelentkezett be";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_Password_Empty" = "Jelszómező üres";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_Passwords_mismatch" = "Jelszavak nem illenek össze";
+
+/* MFT Upload */
+"_WebSiteExport_MFTExport_Error_Undefined" = "Ismeretlen hiba";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_Upload_Limit_Exceeded" = "A honlapja meghaladja a feltöltési korlátot. Kérjük, törölje a nagy médiafájlokat (PDF-fájlok, filmek, képek) és próbálja újra.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_User_Or_Password_Empty" = "Nem adott meg felhasználói nevet vagy jelszót";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_User_String_Not_Valid" = "A felhasználói névnél csak afhanumerikus jeleket használjon.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Failed" = "Feltöltés sikertelen";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_FileHashesError" = "Hiba van a fájl-hashes feltöltésében";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Get_FileHashes" = "Fájl-hashest kap";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Get_Upload_Limit" = "Feltöltési limit megállaítása";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Open_In_Browser" = "Kinyitás a böngészőben";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_PersonListInvalid" = "Hiba van a feltöltött személylistában";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_PersonUpdateFailed" = "Személy frissítése sikertelen";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Server_Error" = "Serverhiba";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Server_Error_Informative_Text" = "MacFamilyTree.com server pillanatnyilag nem áll rendelkezésre. Próbálkozzon később.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Successful" = "Feltöltés sikeres";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Successful_Informative_Text" = "Honlapját feltöltötte. Most kinyithatja a böngészőben.";
+
+/* MFT server error keys */
+"_WebSiteExport_MFTExport_TreeNameInvalid" = "Honlapnév érvénytelen. Csak alfanumerikus jeleket használjon.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_TreeNameTaken" = "Már van honlap ezen a néven.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_TreeNameTooLong" = "Honlapnév túl hosszú (max. %@ characters).";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_TreeNameTooShort" = "Honlapnév túl rövid (min. %@ characters).";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_TreeNotFound" = "Honlapot nem találta.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_TreePasswordInvalid" = "Honlap jelszava érvénytelen.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_TreePasswordTooShort" = "Honlapjelszó túl rövid (min. %@ characters).";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Unknown_Error" = "Ismeretlen hiba";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Unknown_Error_Informative_Text" = "Ismeretlen hiba (%@) lépett fel. Próbálkozzon újra. Ha a hiba újra fellép, forduljon az ügyfélszolgálathoz.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UnzipFailed" = "Honlap kicsomagolása sikertelen";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Upload_New_FileHashes" = "Új fájl-hashes feltöltése";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Upload_New_Files" = "Új fájlok feltöltésse";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Upload_Successful" = "Feltöltés sikeres";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Upload_Validating_New_Files" = "Új fájlok ellenőrzése...";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Upload_Validating_New_Persons_List" = "Új sszemélyek ellenőrzése...";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_User_Or_Password_Wrong" = "Bejelentkezés sikertelen. Felhasználói név vagy jelszó hibás.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserEmailAddressInvalid" = "Emailcím érvénytelen.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserEmailAddressTaken" = "Ezt az emailcímet már használják. Egy emailcímmel csak egy fiókot hozhat létre.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserNameInvalid" = "Felhasználói név érvénytelen.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserNameTaken" = "Felhasználói név már létezik";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserNameTooLong" = "Felhasználói név túl hosszú (max. %@ characters)";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserNameTooShort" = "Felhasználói név túl rövid (min. %@ characters)";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserPasswordInvalid" = "Felhasználói jelszó érvénytelen.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserPasswordTooShort" = "Jelszó túl rövid (min. %@ karakter)";
+
+/* (No Comment) */
+"_WebSiteExport_NavigateBackButton" = "Vissza";
+
+/* WebSitePane */
+"_WebSiteExport_NavigateForwardButton" = "Előre";
+
+/* (No Comment) */
+"_WebSiteExport_NoWebSitesPlaceholder_AddWebSiteButton" = "Első honlap hozzáfűzése";
+
+/* (No Comment) */
+"_WebSiteExport_NoWebSitesPlaceholder_Message" = "Ehhez a családfához nincsenek honlapok. Kérjük, válassza az „Első honlap hozzáfűzése” lehetőséget az első honlap létrehozásához.";
+
+/* Websites */
+"_WebSiteExport_NoWebSitesPlaceholder_Title" = "Nincsenek honlapok";
+
+/* (No Comment) */
+"_WebSiteExport_Page_Header_Section_Title" = "Fejlécrész";
+
+/* Common Page */
+"_WebSiteExport_Page_Overview_Section_Title" = "Áttekintés";
+
+/* Person Page */
+"_WebSiteExport_Person_Page_Hourglass_Section_Title" = "Homokóradiagram";
+
+/* Place Page */
+"_WebSiteExport_Place_Page_Map_Section_Title" = "Térkép";
+
+/* (No Comment) */
+"_WebSiteExport_Place_Page_View_Place_In_Maps" = "Hely megtekintése térképeken";
+
+/* (No Comment) */
+"_WebSiteExport_Plain_Theme" = "Egyszerű";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_CollectingFamilyTreeInformation" = "Családfa-információk gyűjtése...";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_CreatingWebsiteForLocalViewingInformative" = "Honlap készítése helyi megtekintéshez.";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_CreatingWebsiteForSharingInformative" = "Honlap előkészítése megosztásra - kérjük, várjon";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_CreatingWebsiteForWebServerInformative" = "Honlap készítése webszerverhez.";
+
+/* Progress */
+"_WebSiteExport_Progress_CreatingWebsiteHeadline" = "Honlap készítése...";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_CreatingWebsiteInformative" = "Kérem várjon";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_ExportingGedcom" = "GEDCOM exportálása...";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_ExportingMedia" = "Médiafájlok exportálása...";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_ExportingResources" = "Erőforrások exportálása...";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_ExportingSavedCharts" = "Elmentett diagramok exportálása...";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_ExportingStatisticCharts" = "Statisztikai diagramok exportálása...";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_ExportingThemes" = "Sablonok exportálása....";
+
+/* (No Comment) */
+"_WebSiteExport_PublishButton" = "Publikáció";
+
+/* (No Comment) */
+"_WebSiteExport_ResetThemeToDefaults" = "Sablon visszaállítása alapértelmezett értékekre";
+
+/* (No Comment) */
+"_WebSiteExport_ResetThemeToDefaults_Short" = "Visszaállítás";
+
+/* (No Comment) */
+"_WebSiteExport_ShareMenuItem" = "Megosztás...";
+
+/* (No Comment) */
+"_WebSiteExport_ShouldSaveModifiedWebSite_InformativeText" = "El akarja menteni a honlapon elvégzett módosításokat?";
+
+/* (No Comment) */
+"_WebSiteExport_ShouldSaveModifiedWebSite_MessageText" = "Elmentse a módosítások a honlapon?";
+
+/* Manage Themes */
+"_WebSiteExport_Show_ManageThemes_MenuTitle" = "Sablonok rendezése...";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_DivorcedFamiliesCount" = "Elvált családok";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_EarliestEvent" = "Legkorábbi esemény";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_Family_Statistics_Section_Title" = "Családstatisztika";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_FamilyCount" = "Családok száma összesen";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_FamilyEventCount" = "Családesemények";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_FemalePersonCount" = "Női személy";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_IntersexGenderPersonCount" = "Interszexuális személy";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_LatestEvent" = "Utolsó esemény";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_MalePersonCount" = "Férfi személy";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_MarriedFamiliesCount" = "Házas családok";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_Person_Statistics_Section_Title" = "Személystatisztika";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_PersonCount" = "Személyek száma összesen";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_PersonEventCount" = "Személyesemények";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_StatisticCharts_Section_Title" = "Statisztikai diagrammok";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_Time_Statistics_Section_Title" = "Idő és dátumok";
+
+/* Statistics Page */
+"_WebSiteExport_Statistics_Page_Title_Section_Title" = "Statisztika";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_UnknownGenderPersonCount" = "Ismeretlen nemű személyek";
+
+/* (No Comment) */
+"_WebSiteExport_Stripes_Theme" = "Csíkok";
+
+/* (No Comment) */
+"_WebSiteExport_TopMenu_Theme" = "Színátmenet-boxok";
+
+/* (No Comment) */
+"_WebSiteExport_Unnamed_WebSite" = "Megnevezetlen honlap";
+
+/* (No Comment) */
+"_WebSiteExport_UploadToFTPMenuItem" = "Feltöltés az FTP szerverre...";
+
+/* (No Comment) */
+"_WebSiteExport_UploadToMacFamilyTreeComMenuItem" = "Feltöltés a MacFamilyTree.com-ra...";
+
+/* (No Comment) */
+"_WebSiteExport_WebSite_ChangeDate" = "Változtatás dátuma: %@";
+
+/* (No Comment) */
+"_WebSiteExport_WebSite_CreationDate" = "Elkészítés dátuma: %@";
+
+/* (No Comment) */
+"_WebSiteExportMFTTreeObject_Active" = "Online";
+
+/* (No Comment) */
+"_WebSiteExportMFTTreeObject_NotActive" = "Inaktív";
+
+/* (No Comment) */
+"_WebSiteExportMFTTreeObject_NotPublic" = "Nem nyilvános";
+
+/* WebSiteExportMFTTreeObject */
+"_WebSiteExportMFTTreeObject_Public" = "Nyilvános";
+
+/* WebSitesPane */
+"_WebSites_AddNewWebSiteButton" = "Új honlap hozzáfűzése";
+
+/* (No Comment) */
+"_WebSites_DeleteWebSiteButton" = "Honlap törlése";
+
+/* (No Comment) */
+"_WebSites_DuplicateWebSiteButton" = "Duplikált honlap";
+
+/* (No Comment) */
+"_WebSites_EditWebSiteButton" = "Honlap szerkesztése";
+
+/* (No Comment) */
+"_WebSites_ManageMacFamilyTreeComButton" = "MacFamilyTree.com rendetése...";
+
+/* (No Comment) */
+"_WebSitesController_DeleteWebSiteInformative" = "Valóban törölni akarja a honlapot?";
+
+/* WebSiteExportController */
+"_WebSitesController_DeleteWebSiteMessage" = "Törölni akarja a honlapot?";
+
+/* (No Comment) */
+"_WebSitesController_ExportedWebSiteToFolder" = "Sikeresen exportált honlap";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToFolder_ForLocalViewing" = "Helyi megtekintéshez";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToFolder_ForWebServer" = "Webszerverhez";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToFolder_OpenFolderInFinder" = "Megmutatás a keresőben";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToFolder_Question_Informative" = "Szeretné a honlapot exportálni egy gyűjtőbe helyi megtekintéshez, vagy olyan formátumban elmenteni , amely egy webszerveren tárolható?";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToFolder_Question_Message" = "Honlap exportálása a gyűjtőbe";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToShare_Question_Informative" = "Meg akarja osztani az exportált honlapot helyi megtekintésre, vagy olyan formátumban szeretné megosztani a honlapot, amely egy webszerveren tárolható?";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToShare_Question_Message" = "Exportált honlap megosztása";
+
+/* (No Comment) */
+"_WebSitesController_LimitedPersonsForPreview_Question_Informative" = "Ez az ízelítő csak maximum 500 személyt jelez ki. Az exportált honlap azonban az összes kiválasztott személyt tartalmazza majd.";
+
+/* (No Comment) */
+"_WebSitesController_LimitedPersonsForPreview_Question_Message" = "Ízelítő";
+

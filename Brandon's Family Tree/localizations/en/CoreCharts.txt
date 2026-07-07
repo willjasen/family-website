@@ -1,0 +1,870 @@
+﻿//Style Names
+"_StyleNames_LightBoxedChartCompositorStyle" = "Bright Boxes";
+"_StyleNames_LightBoxedChartCompositorStyle2" = "Round Bright Boxes";
+"_StyleNames_LightBoxedChartCompositorStyle3" = "Gender Boxes";
+"_StyleNames_DarkBoxedChartCompositorStyle" = "Night Boxes";
+"_StyleNames_DarkBoxedChartCompositorStyle2" = "Night Boxes 2";
+"_StyleNames_SunsetBoxedChartCompositorStyle" = "Sunset Boxes";
+"_StyleNames_BlackBoxedChartCompositorStyle" = "Black Boxes";
+"_StyleNames_BlackBorderBoxedChartCompositorStyle" = "Black Border";
+"_StyleNames_BlueWhiteBoxedChartCompositorStyle" = "Blue White Boxes";
+"_StyleNames_ByAgeBoxedChartCompositorStyle" = "By Age Boxes";
+"_StyleNames_ComicWhiteBoxedChartCompositorStyle" = "Comic Boxes";
+"_StyleNames_GreenBoxedChartCompositorStyle" = "Green Boxes";
+"_StyleNames_WhiteBoxedChartCompositorStyle" = "White Boxes";
+
+"_StyleNames_LightCardChartCompositorStyle" = "Bright Cards";
+"_StyleNames_LightCardChartCompositorStyle2" = "Bright Cards 2";
+"_StyleNames_DarkCardChartCompositorStyle" = "Night Cards";
+"_StyleNames_SunsetCardChartCompositorStyle" = "Sunset Cards";
+"_StyleNames_GreenBlueCardChartCompositorStyle" = "Green/Blue Cards";
+"_StyleNames_OrangeCyanCardChartCompositorStyle" = "Orange/Cyan Cards";
+"_StyleNames_VioletCardChartCompositorStyle" = "Violet Cards";
+"_StyleNames_WhiteCardChartCompositorStyle" = "White Cards";
+
+"_StyleNames_LightCircularPersonChartCompositorStyle" = "Light Circular";
+"_StyleNames_DarkCircularPersonChartCompositorStyle" = "Dark Circular";
+"_StyleNames_SunsetCircularPersonChartCompositorStyle" = "Sunset Circular";
+"_StyleNames_OrganicCircularPersonChartCompositorStyle" = "Organic Circular";
+"_StyleNames_OrganicOrangeCyanCircularPersonChartCompositorStyle" = "Organic Orange/Cyan Circular";
+
+"_StyleNames_LightFanChartCompositorStyle" = "Light Fan";
+"_StyleNames_LightBarsFanChartCompositorStyle" = "Light Bars Fan";
+"_StyleNames_LightBarsFanChartCompositorStyle2" = "Light Bars Fan 2";
+"_StyleNames_LightGenderFanChartCompositorStyle" = "Light Gender Fan";
+"_StyleNames_LightGenderFanChartCompositorStyle2" = "Light Gender Fan 2";
+"_StyleNames_DarkFanChartCompositorStyle" = "Night Fan";
+"_StyleNames_SunsetFanChartCompositorStyle" = "Sunset Fan";
+"_StyleNames_BlackWhiteFanChartCompositorStyle" = "Black/White Fan";
+"_StyleNames_AgeFanChartCompositorStyle" = "Age Fan";
+"_StyleNames_ByYearFanChartCompositorStyle" = "By Year Fan";
+"_StyleNames_ByYearGradientFanChartCompositorStyle" = "By Year Gradient Fan";
+"_StyleNames_TraditionalFanChartCompositorStyle" = "Traditional";
+"_StyleNames_TraditionalGradientFanChartCompositorStyle" = "Traditional Gradients";
+"_StyleNames_VeryLightPedigreeGradientFanChartCompositorStyle" = "Light Gradients Pedigree Fan";
+
+"_StyleNames_LightFlatBarStatisticsChartCompositorStyle" = "Light Flat Bars";
+"_StyleNames_DarkFlatBarStatisticsChartCompositorStyle" = "Dark Flat Bars";
+"_StyleNames_SunsetFlatBarStatisticsChartCompositorStyle" = "Sunset Flat Bars";
+"_StyleNames_LightLinesStatisticsChartCompositorStyle" = "Light Lines";
+"_StyleNames_DarkLinesStatisticsChartCompositorStyle" = "Dark Lines";
+
+"_StyleNames_LightDistributionChartCompositorStyle" = "Gradients";
+"_StyleNames_DarkDistributionChartCompositorStyle" = "Dark";
+"_StyleNames_SunsetDistributionChartCompositorStyle" = "Sunset";
+
+"_StyleNames_LightNameBarChartCompositorStyle" = "Light Name Bars";
+"_StyleNames_DarkNameBarChartCompositorStyle" = "Dark Name Bars";
+
+"_StyleNames_LightTimelineBarChartCompositorStyle" = "Light Bars";
+"_StyleNames_DarkTimelineBarChartCompositorStyle" = "Dark Bars";
+"_StyleNames_LightTimelineBackgroundBarChartCompositorStyle" = "Light Background Bars";
+"_StyleNames_LightTimelineFromToChartCompositorStyle" = "Light Simple Bars";
+"_StyleNames_LightTimelineFromToChartCompositorStyle2" = "Light Simple Bars 2";
+"_StyleNames_TypewriterTimelineBarChartCompositorStyle" = "Typewriter";
+
+"_StyleNames_LightGenogramChartCompositorStyle" = "Light Genogram";
+"_StyleNames_LightGenogramChartCompositorStyle2" = "Light Genogram 2";
+"_StyleNames_LightGenogramChartCompositorStyle3" = "Light Genogram 3";
+"_StyleNames_LightGenogramChartCompositorStyle4" = "Light Genogram 4";
+
+"_StyleNames_LightTextChartCompositorStyle" = "Black & White";
+"_StyleNames_BlueTextChartCompositorStyle" = "Blue Text";
+"_StyleNames_RedTextChartCompositorStyle" = "Red Text";
+"_StyleNames_RainbowTextChartCompositorStyle" = "Rainbow Text";
+"_StyleNames_GenderTextChartCompositorStyle" = "Gender Text";
+"_StyleNames_DarkTextChartCompositorStyle" = "Dark Text";
+"_StyleNames_TypewriterTextChartCompositorStyle" = "Typewriter";
+
+"_StyleNames_LightPortraitBoxChartCompositorStyle" = "Light Portraits";
+"_StyleNames_DarkPortraitBoxChartCompositorStyle" = "Dark Portraits";
+"_StyleNames_LightPortraitBoxOnDarkBackgroundChartCompositorStyle" = "Dark Portraits 2";
+
+"_StyleNames_MagentaSimpleCircleOnDarkBackgroundChartCompositorStyle" = "Magenta Circles";
+"_StyleNames_OrangeCyanSimpleCircleOnDarkBackgroundChartCompositorStyle" = "Orange/Cyan Circles";
+"_StyleNames_OrganicSimpleCircleChartCompositorStyle" = "Organic Circles";
+
+"_StyleNames_RainbowPennantChartCompositorStyle" = "Rainbow Pennant";
+"_StyleNames_GenderPennantChartCompositorStyle" = "Gender Pennant";
+"_StyleNames_PedigreePennantChartCompositorStyle" = "Pedigree Pennant";
+
+"_StyleNames_GreenBoxedBarChartCompositorStyle" = "Green Bar Boxes";
+"_StyleNames_RainbowBoxedBarChartCompositorStyle"= "Rainbow Bar Boxes";
+"_StyleNames_PedigreeBoxedBarChartCompositorStyle" = "Pedigree Bar Boxes";
+"_StyleNames_SunsetBoxedBarChartCompositorStyle" = "Sunset Bar Boxes";
+"_StyleNames_MagentaBoxedBarChartCompositorStyle" = "Magenta Bar Boxes";
+
+"_StyleNames_PedigreeSideBarChartCompositorStyle" = "Pedigree Coloring with Bar on Right";
+"_StyleNames_DarkBlueSideBarChartCompositorStyle" = "Dark Blue";
+"_StyleNamesSunsetSideBarChartCompositorStyle" = "Sunset Bars";
+"_StyleNamesRainbowSideBarChartCompositorStyle" = "Rainbow Bars";
+"_StyleNamesFloatingRainbowSideBarChartCompositorStyle" = "Rainbow Floating Bars";
+"_StyleNamesBottomSideBarChartCompositorStyle" = "Bottom Bar";
+
+"_StyleNamesSunsetPolaroidChartCompositorStyle" = "Polaroid Sunset";
+"_StyleNamesSimplePolaroidChartCompositorStyle" = "Polaroids";
+"_StyleNamesBluePolaroidChartCompositorStyle" = "Blue Polaroids";
+"_StyleNamesDarkPolaroidChartCompositorStyle" = "Dark Polaroids";
+
+"_StyleNamesPedigreeBarPortraitCompositorStyle" = "Pedigree Bar Portraits";
+"_StyleNamesLightBlueBarPortraitCompositorStyle" = "Light Blue Bar Portraits";
+"_StyleNamesGenderBarPortraitCompositorStyle" = "Gender Bar Portraits";
+"_StyleNamesDarkBarPortraitCompositorStyle" = "Dark Bar Portraits";
+"_StyleNamesLargeBarPortraitCompositorStyle" = "Large Bar Portraits";
+
+"_StyleNamesPedigreeSegmentedPortraitChartCompositorStyle" = "Pedigree Stylized Boxes";
+"_StyleNamesRainbowSegmentedPortraitChartCompositorStyle" = "Rainbow Stylized Boxes";
+"_StyleNamesBlueDiagonalSegmentedPortraitChartCompositorStyle" = "Blue Stylized Boxes";
+"_StyleNamesPedigreeRoundSegmentedPortraitChartCompositorStyle" = "Pedigree Round Stylized Boxes";
+"_StyleNamesLightWaveSegmentedPortraitChartCompositorStyle" = "Light Stylized Boxes";
+
+/*Common*/
+//Group Names
+"_Common_GeneralGroupName" = "General";
+"_Common_SpacingGroupName" = "Spacing";
+"_Common_PersonGroupsName" = "Person Groups";
+"_Common_ThemeGroupName" = "Theme";
+"_Common_ColorsGroupName" = "Colors";
+"_Common_BackgroundGroupName" = "Background";
+"_Common_TitleGroupName" = "Title";
+"_Common_SubTitleGroupName" = "Subtitle";
+"_Common_DateGroupName" = "Date";
+"_Common_AuthorGroupName" = "Author";
+"_Common_StyleGroupName" = "Style";
+"_Common_GroupsGroupName" = "Groups";
+"_Common_ContentGroupName" = "Content";
+"_Common_GeometryGroupName" = "Geometry";
+"_Common_LinesGroupName" = "Lines";
+"_Common_LineGroupName" = "Line";
+"_Common_ArrowsGroupName" = "Arrows";
+"_Common_TextGroupName" = "Text";
+"_Common_FontsGroupName" = "Fonts";
+"_Common_ShadowGroupName" = "Shadows";
+"_Common_BorderGroupName" = "Border";
+"_Common_LocalizationAndFormatsGroupName" = "Localization & Formats";
+"_Common_GenerationScaleSubGroupName" = "Generation Scale";
+"_Common_StrokeGroupName" = "Stroke";
+"_Common_PartnersGroupName" = "Partners";
+"_Common_BrothersAndSistersGroupName" = "Brothers and Sisters";
+"_Common_AnglesGroupName" = "Angles";
+"_Common_MarginsGroupName" = "Margins";
+"_Common_BarsGroupName" = "Bars";
+"_Common_GridGroupName" = "Grid";
+"_Common_DisplayValuesGroupName" = "Values";
+"_Common_DatesGroupName" = "Dates";
+"_Common_EventsGroupName" = "Events";
+"_Common_EventsFactsAndAssociateRelationsGroupName" = "Events, Facts & Influential Relations";
+"_Common_NotesGroupName" = "Notes";
+"_Common_LineEndingName" = "Line Caps";
+"_Common_HistoryGroupName" = "World History";
+"_Common_LabelsGroupName" = "Labels";
+"_Common_LinesGroupName" = "Lines";
+"_Common_BarGroupName" = "Bar";
+"_Common_NamesFormatGroupName" = "Name Formats";
+"_Common_PlacesFormatGroupName" = "Place Formats";
+"_Common_DateFormatGroupName" = "Date Formats";
+"_Common_OverviewGroupName" = "Overview";
+"_Common_MediaGroupName" = "Media";
+"_Common_PersonsGroupName" = "Persons";
+"_Common_AssociatedPersonsGroupName" = "Influential Persons";
+"_Common_AssociateRelationLines" = "Influential Relations";
+
+//Control Names
+"_Common_GenerationsSlider" = "Generations";
+"_Common_FatherGenerationsSlider" = "Father Generations";
+"_Common_MotherGenerationsSlider" = "Mother Generations";
+"_Common_DescendantGenerationsSlider" = "Descendant Generations";
+"_Common_AncestorGenerationsSlider" = "Ancestor Generations";
+"_Common_ShowAncestorsOfPartners" = "Show Ancestors of Partners";
+"_Common_AncestorGenerationsOfPartnerSlider" = "Ancestors of Partner Generations";
+"_Common_ShowAncestorsOfPartnersExplanation" = "Enabling this option not only shows the ancestors of the selected start person, but also the ancestors of the start person's partners.";
+"_Common_ShowPartnersOfStartItem" = "Show Partners of selected Person";
+"_Common_ShowGroupsForPartnerItems" = "Show Groups for Partners";
+"_Common_AnestorGenerationsForPartnersSlider" = "Generations of Ancestors for Partners";
+"_Common_ParentGenerationsSlider" = "Parent Generations";
+"_Common_ChildrenGenerationsSlider" = "Children Generations";
+"_Common_GenerationsSpacingSlider" = "Generations Spacing";
+"_Common_GenerationsSpacingSliderExplanation" = "Controls the spacing between the persons of each generation";
+"_Common_ItemSpacingSlider" = "Item Spacing";
+"_Common_ItemSpacingSliderExplanation" = "Specifies the distance between persons within a generation";
+"_Common_BranchItemSpacingSlider" = "Branch Item Spacing";
+"_Common_BranchItemSpacingSliderExplanation" = "Controls how far away the persons will be placed in relation to their nearest common relative";
+"_Common_PartnerIndentionSlider" = "Partner Indention";
+"_Common_PartnerIndentionSliderExplanation" = "Specifies the distance between child and partner of the child.";
+"_Common_IndentPartners" = "Indent Partners";
+"_Common_ScalingOfBrothersAndSistersSlider" = "Scaling of Brothers and Sisters";
+"_Common_ScaleBrothersAndSisters" = "Scale Brothers & Sisters";
+"_Common_ScaleBrothersAndSistersExplanation" = "If enabled, brothers and sisters of a direct ancestor or descendant of the start person will be scaled by 50%";
+"_Common_BackgroundColor" = "Background Color";
+"_Common_NameBarColor" = "Name Bar Color";
+"_Common_UniformColor" = "Uniform Color";
+"_Common_UniformColorForColoringModeExplanation" = "By selecting 'Uniform Color' from the Coloring Mode setting, you can specify a uniform person color using this setting.";
+"_Common_BackgroundFill" = "Background Fill";
+"_Common_EdgeRadius" = "Edge Radius";
+"_Common_BarEdgeRadius" = "Bar Edge Radius";
+"_Common_BackgroundEdgeRadius" = "Background Edge Radius";
+"_Common_EdgeHeight" = "Edge Height";
+"_Common_InnerBoxMarginsSlider" = "Inner Margins";
+"_Common_InnerBarMarginsSlider" = "Inner Bar Margins";
+"_Common_TopMarginSlider" = "Top Margin";
+"_Common_BottomMarginSlider" = "Bottom Margin";
+"_Common_GenerationMarginsSlier" = "Generation Margins";
+"_Common_ItemMarginsSlider" = "Item Margins";
+"_Common_PersonWidthSlider" = "Width of Persons";
+"_Common_ImageHeightFactorSlider" = "Image Height";
+"_Common_TopImageHeight" = "Top Image Height";
+"_Common_SideBarWidthSlider" = "Side Bar Width";
+"_Common_FloatingSideBar" = "Floating Side Bar";
+"_Common_SpacingSlider" = "Spacing";
+"_Common_BackgroundImageOpacity" = "Background Image Opacity";
+"_Common_ShowPersonImages" = "Show Person Images";
+"_Common_ImageSpacing" = "Image Spacing";
+"_Common_ShowPersonAgeAtEvent" = "Show Persons Age at Time of Event";
+"_Common_ShowPersonEventLocation" = "Show Person Event Locations";
+"_Common_ShowPersonEventIcons" = "Show Person Event Icons";
+"_Common_ShowPersonEventDescription" = "Show Person Event Description";
+"_Common_ShowPersonEventCause" = "Show Person Event Cause";
+"_Common_ShowDisplayValuesOnBars" = "Show Values on Bars";
+"_Common_ShowPersonBirthDate" = "Show Person Birth Date";
+"_Common_ShowPersonDeathDate" = "Show Person Death Date";
+"_Common_Font" = "Font";
+"_Common_ShowBrothersAndSisters" = "Show Brothers and Sisters";
+"_Common_ShowBrothersAndSistersOfAncestors" = "Show Brothers and Sisters of Ancestors";
+"_Common_ShowBrothersAndSistersOfStartPerson" = "Show Brothers and Sisters of the selected person";
+"_Common_ShowBrothersAndSistersOfStartPersonExplanation" = "Using this option, you can include Brothers and Sisters of the currently selected person in this chart.";
+"_Common_WidthPerYearSlider" = "Width per Year";
+"_Common_BackgroundTintFactor" = "Background Tint";
+"_Common_BarAndTextColor" = "Bar and Text Color";
+"_Common_ImageMargins" = "Image Margins";
+"_Common_BottomDarkeningFactor" = "Background Gradient Factor";
+"_Common_PlaceholderImageOpacity" = "Placeholder Image Opacity";
+"_Common_BarColor" = "Bar Color";
+"_Common_BarStyle" = "Bar Style";
+
+"_Common_GroupingMode" = "Grouping Mode";
+
+"_Common_IDs" = "Reference Numbers";
+"_Common_ShowNumberingSystem" = "Show Numbering System";
+"_Common_ShowReferenceNumber" = "Show Reference Number";
+"_Common_ShowGedcomID" = "Show GEDCOM ID";
+"_Common_ShowFamilySearchID" = "Show FamilySearch ID";
+"_Common_ShowAncestralFileNumberID" = "Show Ancestral File Number ID";
+
+"_Common_GraphType" = "Graph Type";
+"_Common_GraphType_Bars" = "Bars";
+"_Common_GraphType_Lines" = "Lines";
+
+"_Common_AngleSlider" = "Angle";
+"_Common_StartAngleSlider" = "Start Angle";
+"_Common_TotalAngleSlider" = "Total Angle";
+
+"_Common_GraphSegmentWidth" = "Graph Segment Width";
+
+"_Common_MaximumResults" = "Maximum Results";
+"_Common_ResultsToCollapse" = "Results to Merge";
+
+"_Common_ScaleAllValuesToRelativeValues" = "Show as Relative Values";
+"_Common_ScaleAllValuesToRelativeValuesExplanation" = "Instead of absolute values, show relative values for each given year.";
+
+"_Common_HorizontalSpacing" = "Horizontal Spacing";
+"_Common_VerticalSpacing" = "Vertical Spacing";
+
+"_Common_MarkDeadPersons" = "Mark deceased persons";
+
+"_Common_HasProjectedBirthDate" = "Has Projected Birth Date";
+"_Common_HasProjectedDeathDate" = "Has Projected Death Date";
+
+"_Common_AlignOnGrid" = "Align on Static Grid";
+"_Common_AlignOnGridExplanation" = "Layouts all persons depending on the size of the largest person box giving a more uniform look – but uses more space.";
+
+"_Common_ShowOnlyBloodlines" = "Only traverse direct blood lines";
+
+"_Common_XAxisLabelFont" = "X Axis Label Font";
+"_Common_YAxisLabelFont" = "Y Axis Label Font";
+"_Common_XLineLabelFont" = "X Line Label Font";
+"_Common_YLineLabelFont" = "Y Line Label Font";
+"_Common_XLineLabelColor" = "X Line Labels Color";
+"_Common_YLineLabelColor" = "Y Line Labels Color";
+"_Common_XAxisLabelColor" = "X Axis Label Color";
+"_Common_YAxisLabelColor" = "Y Axis Label Color";
+"_Common_XAxisLineColor" = "X Axis Line Color";
+"_Common_YAxisLineColor" = "Y Axis Line Color";
+"_Common_TopLineColor" = "Top Line Color";
+"_Common_BottomLineColor" = "Bottom Line Color";
+"_Common_LeftLineColor" = "Left Line Color";
+"_Common_RightLineColor" = "Right Line Color";
+"_Common_XLinesWidth" = "X Lines Width";
+"_Common_YLinesWidth" = "Y Lines Width";
+"_Common_TopLineWidth" = "Top Line Width";
+"_Common_BottomLineWidth" = "Bottom Line Width";
+"_Common_LeftLineWidth" = "Left Line Width";
+"_Common_RightLineWidth" = "Right Line Width";
+"_Common_XAxisLabel" = "X Axis Label";
+"_Common_YAxisLabel" = "Y Axis Label";
+
+"_Common_BarsWidth" = "Bars Width";
+"_Common_BarHeight" = "Bar Height";
+"_Common_BarsSpacing" = "Bars Spacing";
+
+"_Common_ColoringMode" = "Coloring Mode";
+"_Common_ColoringModeExplanation" = "Select different Color Schemes for Persons in this chart here.";
+"_Common_GroupColoringMode" = "Group Coloring Mode";
+"_Common_ColoringMode_White" = "White";
+"_Common_ColoringMode_Rainbow" = "Rainbow";
+"_Common_ColoringMode_Uniform" = "Uniform";
+"_Common_ColoringMode_Alternating" = "Alternating";
+"_Common_ColoringMode_ByGenerationRainbow" = "By Generation (Rainbow)";
+"_Common_ColoringMode_ByGenerationSunset" = "By Generation (Sunset)";
+"_Common_ColoringMode_ByGenerationGreenBlue" = "By Generation (Green/Blue)";
+"_Common_ColoringMode_ByGenerationOrangeCyan" = "By Generation (Orange/Cyan)";
+"_Common_ColoringMode_ByPedigreeLight" = "By Pedigree (Light)";
+"_Common_ColoringMode_ByPedigreeDark" = "By Pedigree (Dark)";
+"_Common_ColoringMode_ByGender" = "By Gender";
+"_Common_ColoringMode_ByYearRainbow" = "By Year (Rainbow)";
+"_Common_ColoringMode_ByYearRainbowSubdued" = "By Year (Rainbow, subdued)";
+"_Common_ColoringMode_ByAge" = "By Age";
+"_Common_ColoringMode_ByLabel" = "By Label";
+"_Common_ColoringMode_ByPersonGroup" = "By Person Group";
+"_Common_ColoringMode_ByYear" = "By Year";
+"_Common_ColoringMode_ByAge" = "By Age";
+"_Common_ColoringMode_Custom" = "Uniform Color";
+
+"_Common_HasArrowAtStart" = "Arrow at Start";
+"_Common_HasArrowAtEnd" = "Arrow at End";
+
+"_Common_ShadowMode" = "Shadow Mode";
+"_Common_ShadowMode_None" = "None";
+"_Common_ShadowMode_Flat" = "Flat";
+"_Common_ShadowMode_Blurry" = "Blurry";
+
+"_Common_FillMode" = "Fill Mode";
+"_Common_FillMode_Flat" = "Flat";
+"_Common_FillMode_DarkGradientAtBottom" = "Dark Gradient to Bottom";
+"_Common_FillMode_DarkGradientAtTop" = "Dark Gradient to Top";
+"_Common_FillMode_VeryDarkGradientAtBottom" = "Very Dark Gradient to Bottom";
+"_Common_FillMode_VeryDarkGradientAtTop" = "Very Dark Gradient to Top";
+"_Common_FillMode_DarkGradientAtRight" = "Dark Gradient to Right";
+"_Common_FillMode_LightGradientAtBottom" = "Light Gradient to Bottom";
+"_Common_FillMode_LightGradientAtTop" = "Light Gradient to Top";
+"_Common_FillMode_VeryLightGradientAtBottom" = "Very Light Gradient to Bottom";
+"_Common_FillMode_VeryLightGradientAtTop" = "Very Light Gradient to Top";
+"_Common_FillMode_LightGradientAtLeft" = "Light Gradient to Left";
+"_Common_FillMode_Glossy" = "Glossy";
+"_Common_FillMode_LightShineAtCenter" = "Light Shine at Center";
+"_Common_FillMode_BarAtBottom" = "Bar at Bottom";
+"_Common_FillMode_BarAtTop" = "Bar at Top";
+"_Common_FillMode_BarAtTopAndBottom" = "Bar at Top and Bottom";
+"_Common_FillMode_LightBarAtBottom" = "Light Bar at Bottom";
+"_Common_FillMode_LightBarAtTop" = "Light Bar at Top";
+"_Common_FillMode_LightBarAtTopAndBottom" = "Light Bar at Top and Bottom";
+"_Common_FillMode_DarkBarAtBottom" = "Dark Bar at Bottom";
+"_Common_FillMode_DarkBarAtTop" = "Dark Bar at Top";
+"_Common_FillMode_DarkBarAtTopAndBottom" = "Dark Bar at Top and Bottom";
+"_Common_FillMode_None" = "None";
+
+"_Common_BranchesToTraverse" = "Branches to traverse";
+"_Common_BranchesToTraverseExplanation" = "Select which branches should be traversed when displaying this chart. For example, selecting 'Only Paternal' results in a chart only evaluating the father, grandfather of the selected person.";
+"_Common_BranchesToTraverse_MaternalAndPaternal" = "Maternal and Paternal";
+"_Common_BranchesToTraverse_PaternalOfStartPerson" = "Paternal from Start Person";
+"_Common_BranchesToTraverse_MaternalOfStartPerson" = "Maternal from Start Person";
+"_Common_BranchesToTraverse_OnlyPaternal" = "Only Paternal";
+"_Common_BranchesToTraverse_OnlyMaternal" = "Only Maternal";
+
+"_Common_HidePrivateInformation" = "Hide Information marked as Private";
+"_Common_HidePrivateInformationExplanation" = "Every information marked as private in edit mode is hidden in the chart if this option is specified";
+"_Common_Localization" = "Localization";
+"_Common_LocalizationExplanation" = "Specify the localization to use for this chart. All person events, person facts or family events and other text will be localized in the specified language";
+"_Common_NameFormat" = "Person Name Format";
+"_Common_NameFormatExplanation" = "Choose the name format to be used for all persons in this specific chart.";
+"_Common_AdditionalNameFormat" = "Additional Names";
+"_Common_AdditionalNameFormatExplanation" = "Configure here which Additional Names should be displayed in the chart.";
+"_Common_PlaceFormat" = "Place Format";
+"_Common_PlaceFormatExplanation" = "Specify here if the complete place name or just an abbreviation should be displayed.";
+"_Common_IncludePlaceDetail" = "Include place detail in place name";
+"_Common_ShowKinships" = "Show Kinships";
+"_Common_ShowKinshipsExplanation" = "Specify if the kinship in relation to the selected start person is shown for each person in this chart.";
+
+"_Common_ReformatDatesToSelectedLocale" = "Reformat Dates";
+"_Common_ReformatDatesToSelectedLocaleExplanation" = "If enabled, all dates will be reformatted to match the specified localization";
+"_Common_DateFormatStyle" = "Date Format Style";
+"_Common_DateFormatStyleExplanation" = "Specify here which date format style to use when reformatting dates";
+"_Common_DateFormatStyle_Short" = "Short (11/17/2014)";
+"_Common_DateFormatStyle_Medium" = "Medium (17 Nov 2014)";
+"_Common_DateFormatStyle_Long" = "Long (17 November 2014)";
+"_Common_DateFormatStyle_Full" = "Full (Monday, 17 November 2014)";
+
+"_Common_StartGenerationScale" = "Generation Start Scale";
+"_Common_StartGenerationScaleExpanation" = "Specifies how the start generation should be scaled in relation to the end generation";
+"_Common_EndGenerationScale" = "Generation End Scale";
+"_Common_EndGenerationScaleExplanation" = "Specifies how the end generation should be scaled in relation to the start generation";
+
+"_Common_BackgroundEnabledCheckbox" = "Show Background";
+"_Common_BackgroundEnabledCheckboxExplanation" = "If enabled, select either a color, gradient or an image to be displayed as a background for this chart.";
+"_Common_NoBackground" = "No Background";
+
+"_Common_Title" = "Title";
+"_Common_TitleEnabledCheckbox" = "Show Title";
+"_Common_TitleImageMode" = "Title Image";
+"_TitleGeneratorChartCompositorObjectConfiguration_TitleImageMode_None" = "None";
+"_TitleGeneratorChartCompositorObjectConfiguration_TitleImageMode_SelectedEntryImage" = "Selected Entry Image";
+"_TitleGeneratorChartCompositorObjectConfiguration_TitleImageMode_FamilyCrest" = "Family Crest";
+"_Common_TitleColor" = "Title Color";
+"_Common_SubTitle" = "Subtitle";
+"_Common_SubTitleColor" = "Subtitle Color";
+"_Common_SubTitleEnabledCheckbox" = "Show Subtitle";
+"_Common_DateEnabledCheckbox" = "Show Date";
+"_Common_Date" = "Date";
+"_Common_DateColor" = "Date Color";
+"_Common_AuthorEnabledCheckbox" = "Show Author";
+"_Common_Author" = "Author";
+"_Common_AuthorFont" = "Author Font";
+"_Common_AuthorColor" = "Author Color";
+"_Common_AuthorTextColoringMode" = "Author Coloring";
+"_Common_AuthorCustomTextColor" = "Custom Author Color";
+
+"_Common_FullName" = "Full Name";
+
+"_Common_FromDate" = "From Date";
+"_Common_ToDate" = "To Date";
+
+"_Common_GroupInnerPadding" = "Inner Padding";
+"_Common_NormalGroupBackgroundFill" = "Normal Group Background Color";
+"_Common_EmphasizedGroupBackgroundFill" = "Emphasized Group Background Color";
+
+"_Common_XScale" = "Width Scaling";
+"_Common_YScale" = "Height Scaling";
+"_Common_Rotation" = "Rotation";
+"_Common_BoundsWidth" = "Width";
+"_Common_BoundsHeight" = "Height";
+
+"_Common_PagesCountX" = "Horizontal Pages";
+"_Common_PagesCountY" = "Vertical Pages";
+"_Common_OmitEmptyPagesWhenPrintingOrExporting" = "Omit Empty Pages when Printing";
+"_Common_PrintPageNumbers" = "Print Page Numbers";
+"_Common_PrintCutMarks" = "Print Cut Marks";
+"_Common_PageOverlapPoints" = "Page Overlap";
+"_Common_DistributeToAllPagesButton" = "Size objects to fit on all pages";
+
+"_Common_ConnectionLineType" = "Connection Line Type";
+"_Common_LineWidth" = "Line Width";
+"_Common_LineColor" = "Line Color";
+"_Common_CurveFactor" = "Curve";
+"_Common_LineDistanceFromOriginObjects" = "Line Distance from Origin";
+"_Common_LineDistanceFromDestinationObjects" = "Line Distance from Destination";
+
+"_Common_NameFont" = "Name Font";
+"_Common_OtherFont" = "Other Font";
+"_Common_TypeFont" = "Type Font";
+"_Common_DateFont" = "Date Font";
+"_Common_TitleFont" = "Title Font";
+"_Common_SubTitleFont" = "Subtitle Font";
+"_Common_DateFont" = "Date Font";
+
+"_Common_TextColor" = "Text Color";
+"_Common_NameTextColor" = "Name Text Color";
+"_Common_DateTextColor" = "Date Text Color";
+"_Common_TypeTextColor" = "Type Text Color";
+"_Common_OtherTextColor" = "Other Text Color";
+
+"_Common_ShadowOpacity" = "Shadow Opacity";
+"_Common_ShadowDistance" = "Shadow Distance";
+"_Common_ShadowAngle" = "Shadow Angle";
+"_Common_ShadowLength" = "Shadow Length";
+"_Common_ShadowBlur" = "Shadow Blur";
+"_Common_ShadowColoringFactor" = "Shadow Coloring";
+"_Common_ShadowColor" = "Shadow Color";
+
+"_Common_HighlightLivingPersons" = "Highlight Living Persons";
+
+"_Common_ShowNotes" = "Show Notes";
+
+"_Common_ShowLabels" = "Show Labels";
+
+"_Common_BorderColor" = "Border Color";
+"_Common_BorderWidth" = "Border Width";
+
+"_Common_CustomColor" = "Custom Color";
+
+"_Common_NameAlignment" = "Name Alignment";
+"_Common_ImageAlignment" = "Image Alignment";
+
+"_Common_Alignment" = "Alignment";
+"_Common_AlignmentExplanation" = "Specifies the general layout of the persons in the chart";
+"_Common_Alignment_LeftToRight" = "Left to Right";
+"_Common_Alignment_LeftToRightCondensed" = "Left to Right (Condensed)";
+"_Common_Alignment_RightToLeft" = "Right to Left";
+"_Common_Alignment_RightToLeftCondensed" = "Right to Left (Condensed)";
+"_Common_Alignment_TopToBottom" = "Top to Bottom";
+"_Common_Alignment_BottomToTop" = "Bottom to Top";
+"_Common_Alignment_FathersRightMothersLeft" = "Fathers Right, Mothers Left";
+"_Common_Alignment_FathersRightMothersLeftCondensed" = "Fathers Right, Mothers Left (Condensed)";
+"_Common_Alignment_FathersLeftMothersRight" = "Fathers Left, Mothers Right";
+"_Common_Alignment_FathersLeftMothersRightCondensed" = "Fathers Left, Mothers Right (Condensed)";
+"_Common_Alignment_FathersTopMothersBottom" = "Fathers Top, Mothers Bottom";
+"_Common_Alignment_FathersBottomMothersTop" = "Fathers Bottom, Mothers Top";
+
+"_Common_CustomTextColor" = "Custom Text Color";
+"_Common_TextColoringMode" = "Text Coloring";
+"_Common_TitleCustomTextColor" = "Custom Title Color";
+"_Common_TitleTextColoringMode" = "Title Coloring";
+"_Common_SubTitleCustomTextColor" = "Custom Subtitle Color";
+"_Common_SubTitleTextColoringMode" = "Subtitle Coloring";
+"_Common_DateCustomTextColor" = "Custom Date Color";
+"_Common_DateTextColoringMode" = "Date Coloring";
+"_Common_TextColoringMode_ContrastToBackgroundColor" = "Contrast to Background";
+"_Common_TextColoringMode_ContrastToBackgroundColorTinted" = "Tinted Contrast to Background";
+"_Common_TextColoringMode_Custom" = "Custom";
+"_Common_TextColoringMode_Gender" = "By Gender";
+"_Common_TextColoringMode_ByGenerationRainbow" = "By Generation (Rainbow)";
+
+"_Common_ShowOnlySpecificPersonGroups" = "Only show specific Person Groups";
+"_Common_ShowOnlySpecificPersonGroupsExplanation" = "If enabled, only persons in these persons groups are traversed. Persons not in these persons groups won't be shown except for the start person.";
+"_Common_EnabledPersonGroupIdentifiers" = "Person Groups";
+
+"_Common_MaximumRecursionDepth" = "Maximum Recursion Depth";
+"_Common_MaximumRecursionDepthExplanation" = "Determines how many times the same person may appear in the same chart before the evaluation ends. This can occur due to input errors as well as cases such as cousin or incestuous relationships.";
+
+/*Alignment*/
+"_Charts_XAlignment_Left" = "Left";
+"_Charts_XAlignment_Center" = "Center";
+"_Charts_XAlignment_Right" = "Right";
+"_Charts_YAlignment_Top" = "Top";
+"_Charts_YAlignment_Middle" = "Middle";
+"_Charts_YAlignment_Bottom" = "Bottom";
+
+/*Date Ranges*/
+"_Common_OnlyEvalulateEntriesInDateRange" = "Only evaluate Entries in Date Range";
+"_Common_OnlyEvalulateEntriesInDateRangeExplanation" = "If specified, only dates in this date range will be evaluated – all other entries will be discarded.";
+"_Common_EvaluateDataFromDate" = "From Date";
+"_Common_EvaluateDataToDate" = "To Date";
+
+/*ChartLineDashPatternTypes*/
+"_Common_LineDashPatternType" = "Line Dash Pattern";
+"_Common_LineDashPatternType_Solid" = "Solid";
+"_Common_LineDashPatternType_Short" = "Short";
+"_Common_LineDashPatternType_ShortGaps" = "Short Gaps";
+"_Common_LineDashPatternType_VeryShort" = "Very Short";
+"_Common_LineDashPatternType_Long" = "Long";
+
+/*ChartFillSettings*/
+"_ChartFillSettings_FillType_None" = "None";
+"_ChartFillSettings_FillType_None_Explanation" = "No fill type has been selected";
+"_ChartFillSettings_FillType_SolidColor" = "Color";
+"_ChartFillSettings_FillType_LinearGradient" = "Gradient";
+"_ChartFillSettings_FillType_RadialGradient" = "Radial Gradient";
+"_ChartFillSettings_FillType_RadialGradient_Abbreviation" = "Radial";
+
+/*Chart object types*/
+"_ChartObjectType_DirectStraightConnectionBuilderItemGeneratorChartCompositorObject" = "Straight Connections";
+"_ChartObjectType_YStraightConnectionBuilderItemGeneratorChartCompositorObject" = "Y Straight Connections";
+"_ChartObjectType_HConnectionBuilderItemGeneratorChartCompositorObject" = "H Connections";
+"_ChartObjectType_BezierConnectionBuilderItemGeneratorChartCompositorObject" = "Bezier Connections";
+"_ChartObjectType_BlobConnectionBuilderItemGeneratorChartCompositorObject" = "Organic Connections";
+
+/*Privacy*/
+"_Common_InformationHiddenDueToPrivacySettings" = "Information hidden due to privacy";
+
+/*Background Image Mode*/
+"_BackgroundGeneratorChartCompositorObject_BackgroundImageMode" = "Background Image Style";
+"_BackgroundGeneratorChartCompositorObject_BackgroundImageMode_Rectangle" = "Rectangle";
+"_BackgroundGeneratorChartCompositorObject_BackgroundImageMode_BlurryEdges" = "Blurry Edges";
+"_BackgroundGeneratorChartCompositorObject_BackgroundImageMode_Radial" = "Radial";
+
+"_BackgroundGeneratorChartCompositorObject_BlurryEdgesSize" = "Blurry Edge Size";
+
+/*SegmentedPortraitPersonBuilderItemGeneratorChartCompositorObjectConfiguration_BarStyle*/
+"_SegmentedPortraitPersonBuilderItemGeneratorChartCompositorObjectConfiguration_BarStyle_Arrow" = "Arrow";
+"_SegmentedPortraitPersonBuilderItemGeneratorChartCompositorObjectConfiguration_BarStyle_Diagonal" = "Diagonal";
+"_SegmentedPortraitPersonBuilderItemGeneratorChartCompositorObjectConfiguration_BarStyle_Round" = "Round";
+"_SegmentedPortraitPersonBuilderItemGeneratorChartCompositorObjectConfiguration_BarStyle_Wave" = "Wave";
+
+/*LineColorModes*/
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineColorMode" = "Line Color Mode";
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineColorMode_ContrastToBackground" = "Contrast to Background";
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineColorMode_Custom" = "Custom";
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration" = "Line End Decoration";
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_None" = "None";
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_SmallDot" = "Small Dot";
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_LargeDot" = "Large Dot";
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_SmallCircle" = "Small Circle";
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_LargeCircle" = "Large Circle";
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_Bar" = "Bar";
+
+
+/*ChartsBaseCGContextViewerConfiguration*/
+"_ChartsBaseCGContextViewerConfiguration_Title" = "Export Settings";
+"_ChartsBaseCGContextViewerConfiguration_PrintingTitle" = "Print Settings";
+"_ChartsBaseCGContextViewerConfiguration_Margins" = "Margins";
+"_ChartsBaseCGContextViewerConfiguration_Margins_Explanation" = "Use this option to specify the margins around the chart to the border of the image.";
+"_ChartsBaseCGContextViewerConfiguration_Margins_ExplanationForPrinting" = "Sets the margins of the chart to the border of each page.";
+"_ChartsBaseCGContextViewerConfiguration_ExportAsSeparatePages" = "Separate Pages";
+"_ChartsBaseCGContextViewerConfiguration_ExportAsSeparatePages_Explanation" = "If selected, multiple pages will be used for the chart.";
+"_ChartsBaseCGContextViewerConfiguration_ExportBackground" = "Show Background";
+"_ChartsBaseCGContextViewerConfiguration_ExportBackground_Explanation" = "If selected, the background will be visible on the image.";
+
+/*ChartsBitmapCGContextViewerConfiguration*/
+"_ChartsBitmapCGContextViewerConfiguration_ExportFormat" = "Export Format";
+"_ChartsBitmapCGContextViewerConfiguration_ExportFormat_Explanation" = "Please select the desired image format to be used here. PNG files can contain an transparent background while JPEG files offer better compression and smaller file size.";
+"_ChartsBitmapCGContextViewerConfiguration_ExportFormat_PNG" = "Export as PNG Image";
+"_ChartsBitmapCGContextViewerConfiguration_ExportFormat_JPEG" = "Export as JPEG Image";
+"_ChartsBitmapCGContextViewerConfiguration_Scaling" = "Scaling";
+"_ChartsBitmapCGContextViewerConfiguration_Scaling_Explanation" = "Set the scaling of the final image here. Larger scales increase file size but offer more details before any pixellation is visible.";
+"_ChartsBitmapCGContextViewerConfiguration_JPEGQuality" = "JPEG Quality";
+"_ChartsBitmapCGContextViewerConfiguration_JPEGQuality_Explanation" = "The JPEG Quality specifies how much the image is compressed. A lower quality will result in smaller file sizes but may result in compression artifacts.";
+
+/*TreeChartBuilder*/
+"_TreeChartBuilder_MainTreePrefix" = "Main Tree";
+"_TreeChartBuilder_SubTreePrefix" = "Separated Tree";
+"_TreeChartBuilder_SubTreeAlignment" = "Alignment of Separated Trees";
+"_TreeChartBuilder_SubTreeAlignmentExplanation" = "In complex situations, a tree has to be displayed as a separate tree from the main tree. Specify here how to layout these separated trees.";
+"_TreeChartBuilder_SubTreeAlignment_ShortestDistanceToOrigin" = "Shortest Distance to Origin";
+"_TreeChartBuilder_SubTreeAlignment_ByGeneration" = "By Generation";
+
+/*FanChartBuilder*/
+"_FanChartBuilder_Mode" = "Mode";
+"_FanChartBuilder_ModeExplanation" = "Specify here if the fan chart should display the ancestors or the descendants of the selected person";
+"_FanChartBuilder_Mode_Ancestors" = "Ancestors";
+"_FanChartBuilder_Mode_Descendants" = "Descendants";
+"_FanChartBuilder_ExpandVerySmallFanItemsIfPossible" = "Expand very small fan segments if possible";
+"_FanChartBuilder_ExpandVerySmallFanItemsIfPossibleExplanation" = "If a fan chart segment is very small, it will be expanded beyond the borders of the superior fan chart segment for more space.";
+
+/*StatisticsChartBuilder*/
+"_StatisticsChartBuilder_StatisticsType" = "Statistics Type";
+"_StatisticsChartBuilder_StatisticsTypeExplanation" = "Specify what type of statistic you want to create from your family tree data.";
+
+"_StatisticsChartBuilder_Type_AgeAtDeath" = "Age at Death";
+"_StatisticsChartBuilder_Type_AgeAtChristening" = "Age at Christening";
+"_StatisticsChartBuilder_Type_AgeAtRetirement" = "Age at Retirement";
+"_StatisticsChartBuilder_Type_AgeAtMarriage" = "Age at Marriage";
+"_StatisticsChartBuilder_Type_AgeAtDivorce" = "Age at Divorce";
+"_StatisticsChartBuilder_Type_AgeOfParentsAtBirthOfChild" = "Age of Parents at Birth of Child";
+"_StatisticsChartBuilder_Type_AgeOfChildAtParentsDeath" = "Age of Child at Parents Death";
+"_StatisticsChartBuilder_Type_AgeOfPersonAtDeathOfPartner" = "Age of Person at Death of Partner";
+"_StatisticsChartBuilder_Type_TimeBetweenMarriageAndBirthOfChild" = "Time between Marriage and Birth of Child";
+"_StatisticsChartBuilder_Type_LastNames" = "Last Name Distribution";
+"_StatisticsChartBuilder_Type_FirstNames" = "First Name Distribution";
+"_StatisticsChartBuilder_Type_Titles" = "Title Distribution";
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Birth" = "Year of Birth";
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Christening" = "Year of Christening";
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Death" = "Year of Death";
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Burial" = "Year of Burial";
+"_StatisticsChartBuilder_Type_BirthMonth" = "Month of Birth";
+"_StatisticsChartBuilder_Type_DeathMonth" = "Month of Death";
+"_StatisticsChartBuilder_Type_MarriageMonth" = "Month of Marriage";
+"_StatisticsChartBuilder_Type_DivorceMonth" = "Month of Divorce";
+"_StatisticsChartBuilder_Type_ChildsPerFamily" = "Children per Family";
+"_StatisticsChartBuilder_Type_ConclusionTypes" = "Event or Fact Types";
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Birth;veryShortLocationString" = "Place of Birth";
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Birth;topLevelGroupingLocationString" = "Country of Birth";
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Christening;veryShortLocationString" = "Place of Christening";
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Christening;topLevelGroupingLocationString" = "Country of Christening";
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Death;veryShortLocationString" = "Place of Death";
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Death;topLevelGroupingLocationString" = "Country of Death";
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Burial;veryShortLocationString" = "Place of Burial";
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Burial;topLevelGroupingLocationString" = "Country of Burial";
+"_StatisticsChartBuilder_Type_Places;_FamilyEvent_Marriage;veryShortLocationString" = "Place of Marriage";
+"_StatisticsChartBuilder_Type_Places;_FamilyEvent_Marriage;topLevelGroupingLocationString" = "Country of Marriage";
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_EyeColor" = "Facts: Eye Color";
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_NationalOrTribalOrigin" = "Facts: National or Tribal Origin";
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_Race" = "Facts: Ethnic Origin";
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_SkinColor" = "Facts: Skin Color";
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_CasteName" = "Facts: Caste Name";
+"_StatisticsChartBuilder_Type_Gender" = "Gender";
+
+"_StatisticsChartBuilder_Type_AgeAtDeath_Description" = "Shows how long persons lived in your family tree.";
+"_StatisticsChartBuilder_Type_AgeAtChristening_Description" = "The age of persons at the time of their christening.";
+"_StatisticsChartBuilder_Type_AgeAtRetirement_Description" = "Shows at which age persons retired from work in your family tree.";
+"_StatisticsChartBuilder_Type_AgeAtMarriage_Description" = "Statistics at which age persons in your family tree got married.";
+"_StatisticsChartBuilder_Type_AgeAtDivorce_Description" = "Displays a chart at which age persons got divorced.";
+"_StatisticsChartBuilder_Type_AgeOfParentsAtBirthOfChild_Description" = "Calculates the age of the parents when their children where born.";
+"_StatisticsChartBuilder_Type_AgeOfChildAtParentsDeath_Description" = "How old were children when they lost their mother or father in your family tree?";
+"_StatisticsChartBuilder_Type_AgeOfPersonAtDeathOfPartner_Description" = "Statistics on how old a person was when their partner died";
+"_StatisticsChartBuilder_Type_TimeBetweenMarriageAndBirthOfChild_Description" = "How long was the time between marriage and the birth of the children? Negative values mean that the child was born before marriage.";
+"_StatisticsChartBuilder_Type_LastNames_Description" = "The most common last names used in your family tree.";
+"_StatisticsChartBuilder_Type_FirstNames_Description" = "All first names that are commonly used in your family tree.";
+"_StatisticsChartBuilder_Type_Titles_Description" = "Statistics on name titles of all persons.";
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Birth_Description" = "Displays in which years the most persons in your family tree have been born.";
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Christening_Description" = "Statistics in which year persons in your family tree were christened.";
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Death_Description" = "The year of each death event in your family tree";
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Burial_Description" = "Statistics on when persons in your family tree got buried";
+"_StatisticsChartBuilder_Type_BirthMonth_Description" = "In which month were the most persons born?";
+"_StatisticsChartBuilder_Type_DeathMonth_Description" = "The months people in your family tree most passed away.";
+"_StatisticsChartBuilder_Type_MarriageMonth_Description" = "Which month did people usually choose to get married?";
+"_StatisticsChartBuilder_Type_DivorceMonth_Description" = "The months persons in your family tree got divorced.";
+"_StatisticsChartBuilder_Type_ChildsPerFamily_Description" = "Count of children per family in your family tree.";
+"_StatisticsChartBuilder_Type_ConclusionTypes_Description" = "Statistics on the most common types of events or facts.";
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Birth;veryShortLocationString_Description" = "From which town do the most persons in your family tree originate?";
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Birth;topLevelGroupingLocationString_Description" = "The country of origin for all persons.";
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Christening;veryShortLocationString_Description" = "In which town did persons in your family tree got christened?";
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Christening;topLevelGroupingLocationString_Description" = "The country most of your relatives got christened.";
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Death;veryShortLocationString_Description" = "The town or place most persons died in your family tree.";
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Death;topLevelGroupingLocationString_Description" = "Statistics on the country most persons in your family tree died.";
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Burial;veryShortLocationString_Description" = "The most common place of burial in your family tree.";
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Burial;topLevelGroupingLocationString_Description" = "In which country are most of your relatives buried?";
+"_StatisticsChartBuilder_Type_Places;_FamilyEvent_Marriage;veryShortLocationString_Description" = "In which town or place did persons in your family tree marry?";
+"_StatisticsChartBuilder_Type_Places;_FamilyEvent_Marriage;topLevelGroupingLocationString_Description" = "The countries your relatives chose to marry in.";
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_EyeColor_Description" = "Statistics on the eye color of persons in your family tree.";
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_NationalOrTribalOrigin_Description" = "The most common National or Tribal Origin of persons in your tree.";
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_Race_Description" = "Statistics on the Ethnic Origin of persons in your family tree.";
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_SkinColor_Description" = "Statistics on the skin color fact in your tree.";
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_CasteName_Description" = "Which was the most common caste in your family tree?";
+"_StatisticsChartBuilder_Type_Gender_Description" = "Distribution of people's gender in your tree.";
+
+"_StatisticsChartBuilder_AgeAxisLabel" = "Age";
+"_StatisticsChartBuilder_PersonsAxisLabel" = "Persons";
+"_StatisticsChartBuilder_CountAxisLabel" = "Count";
+"_StatisticsChartBuilder_PersonLastNamesAxisLabel" = "Person Last Names";
+"_StatisticsChartBuilder_PersonFirstNamesAxisLabel" = "Person First Names";
+"_StatisticsChartBuilder_PersonTitleAxisLabel"= "Person Titles";
+"_StatisticsChartBuilder_YearAxisLabel" = "Year";
+"_StatisticsChartBuilder_YearsAxisLabel" = "Years";
+"_StatisticsChartBuilder_MonthAxisLabel" = "Month";
+"_StatisticsChartBuilder_FamiliesAxisLabel" = "Families";
+"_StatisticsChartBuilder_ChildsAxisLabel" = "Children";
+"_StatisticsChartBuilder_MarriagesAxisLabel" = "Marriages";
+"_StatisticsChartBuilder_DivorcesAxisLabel" = "Divorces";
+"_StatisticsChartBuilder_EventOrFactAxisLabel" = "Event or Fact";
+"_StatisticsChartBuilder_PlaceAxisLabel" = "Place";
+"_StatisticsChartBuilder_CountryAxisLabel" = "Country";
+"_StatisticsChartBuilder_FactValueAxisLabel" = "Fact Value";
+"_StatisticsChartBuilder_GenderAxisLabel" = "Gender";
+
+/*GridChartObject*/
+"_GridGeneratorChartCompositorObjectConfiguration_ColorMode" = "Coloring Mode";
+"_GridGeneratorChartCompositorObjectConfiguration_ColorMode_ContrastToBackground" = "Contrast to Background";
+"_GridGeneratorChartCompositorObjectConfiguration_ColorMode_Custom" = "Custom";
+
+/*DistributionChartBuilder*/
+"_DistributionChartBuilder_DistributionType" = "Distribution Type";
+"_DistributionChartBuilder_DistributionTypeExplanation" = "Specify what type of distribution chart you want to create based on your family tree data.";
+
+"_DistributionChartBuilder_Type_LastName" = "Distribution of Last Names";
+"_DistributionChartBuilder_Type_FirstName" = "Distribution of First Names";
+"_DistributionChartBuilder_Type_BirthPlace" = "Distribution of Birth Places";
+"_DistributionChartBuilder_Type_BirthCountry" = "Distribution of Birth Countries";
+"_DistributionChartBuilder_Type_DeathPlace" = "Distribution of Death Places";
+"_DistributionChartBuilder_Type_DeathCountry" = "Distribution of Death Countries";
+"_DistributionChartBuilder_Type_Gender" = "Distribution of Genders";
+"_DistributionChartBuilder_Type_Facts_EyeColor" = "Distribution of Eye Colors";
+"_DistributionChartBuilder_Type_Facts_NationalOrTribalOrigin" = "Distribution of National or Tribal Origin";
+"_DistributionChartBuilder_Type_Facts_Race" = "Ethnic Origin Distribution";
+"_DistributionChartBuilder_Type_Facts_SkinColor" = "Distribution of Skin Colors";
+"_DistributionChartBuilder_Type_Facts_CasteName" = "Distribution of Caste Names";
+"_DistributionChartBuilder_Type_EventValues_Occupations" = "Distribution of Occupations";
+"_DistributionChartBuilder_Type_EventValues_Illnesses" = "Distribution of Illnesses";
+
+"_DistributionChartBuilder_Type_LastName_Description" = "Usage of the Last Names in your family tree by year.";
+"_DistributionChartBuilder_Type_FirstName_Description" = "Usage of the First Names in your family tree by year.";
+"_DistributionChartBuilder_Type_BirthPlace_Description" = "The Places of Birth in your family tree showing where persons were born.";
+"_DistributionChartBuilder_Type_BirthCountry_Description" = "The Countries of Birth in your family tree showing where persons were born.";
+"_DistributionChartBuilder_Type_DeathPlace_Description" = "The Places of Death in your family tree showing where persons died.";
+"_DistributionChartBuilder_Type_DeathCountry_Description" = "The Countries of Death in your family tree showing where persons died.";
+"_DistributionChartBuilder_Type_Gender_Description" = "Distribution of Genders in your family tree by year.";
+"_DistributionChartBuilder_Type_Facts_EyeColor_Description" = "Which Eye Colors were the most prevalent in your family tree throughout the years?";
+"_DistributionChartBuilder_Type_Facts_NationalOrTribalOrigin_Description" = "Distribution of the National or Tribal Origin Person Fact by year.";
+"_DistributionChartBuilder_Type_Facts_Race_Description" = "Ethnic Origin distribution in your family tree by year.";
+"_DistributionChartBuilder_Type_Facts_SkinColor_Description" = "Which skin colors were common in your family tree in the past?";
+"_DistributionChartBuilder_Type_Facts_CasteName_Description" = "Commonly used Caste Names by year.";
+"_DistributionChartBuilder_Type_EventValues_Occupations_Description" = "What kind of job did persons in your family tree have throughout the years?";
+"_DistributionChartBuilder_Type_EventValues_Illnesses_Description" = "See what Illnesses have been entered for persons in your family tree.";
+
+"_DistributionValuesBarGeneratorChartCompositorObject_ColoringMode_Rainbow" = "Rainbow";
+"_DistributionValuesBarGeneratorChartCompositorObject_ColoringMode_Custom" = "Custom Color";
+
+/*RelationshipChartBuilder*/
+"_RelationshipChartBuilder_SelectDifferentPersonsError" = "Please select two distinct persons to create a Relationship Chart";
+"_RelationshipChartBuilder_NoRelationError" = "No relationship could be determined between the selected persons";
+"_RelationshipChartBuilder_PathWithNStepsIsIsNotBloodline" = "Path with %ld steps (%@)";
+"_RelationshipChartBuilder_PathIsBloodline" = "Bloodline";
+"_RelationshipChartBuilder_PathIsNotBloodline" = "No Bloodline";
+"_RelationshipChartBuilder_SelectedRelationshipPath" = "Available Paths to Relative";
+"_RelationshipChartBuilder_SelectedRelationshipPathExplanation" = "If there are multiple paths between the start and the target person in your family tree, you can select the different possible paths here.";
+
+/*Timeline*/
+"_Timeline_GroupingMode_SortByDate" = "Sort by Date";
+"_Timeline_GroupingMode_GroupByBirthPlace_SortByDate" = "Group by Birth Place, Sort by Date";
+"_Timeline_GroupingMode_GroupByBirthCountry_SortByDate" = "Group by Birth Country, Sort by Date";
+"_Timeline_GroupingMode_GroupByDeathPlace_SortByDate" = "Group by Death Place, Sort by Date";
+"_Timeline_GroupingMode_GroupByDeathCountry_SortByDate" = "Group by Death Country, Sort by Date";
+"_Timeline_GroupingMode_GroupByGender_SortByDate" = "Group by Gender, Sort by Date";
+"_Timeline_GroupingMode_GroupByLastName_SortByDate" = "Group by Last Name, Sort by Date";
+
+"_TimelineChartBuilder_GroupByBirthPlace_NoPlace" = "Unknown Birth Place";
+"_TimelineChartBuilder_GroupByBirthCountry_NoPlace" = "Unknown Birth Country";
+"_TimelineChartBuilder_GroupByDeathPlace_NoPlace" = "Unknown Death Place";
+"_TimelineChartBuilder_GroupByDeathCountry_NoPlace" = "Unknown Death Country";
+"_TimelineChartBuilder_GroupByLastName_NoLastName" = "Unknown Last Name";
+
+"_TimelineChartBuilder_HistoryPersons_Key" = "History: Famous Persons";
+
+"_TimelineChartBuilder_CollapseAllGroupsForBestFit" = "Collapse Groups for better space usage";
+"_TimelineChartBuilder_CollapseAllGroupsForBestFitExplanation" = "When specified, groups will be positioned for the best space usage but alphabetical order is not guaranteed.";
+
+"_BarHistoryEventTimelineGeneratorChartCompositorObjectConfiguration_TextColoringMode" = "Text Coloring for History Events";
+"_BarHistoryEventTimelineGeneratorChartCompositorObjectConfiguration_CustomTextColor" = "Custom Text Color for History Events";
+"_BarHistoryEventTimelineGeneratorChartCompositorObjectConfiguration_Font" = "Font for History Events";
+
+"_BarPersonTimelineGeneratorChartCompositorObjectConfiguration_EventMarkerMode" = "Event Markers";
+"_BarPersonTimelineGeneratorChartCompositorObjectConfiguration_EventMarkerMode_Circles" = "Circles";
+"_BarPersonTimelineGeneratorChartCompositorObjectConfiguration_EventMarkerMode_Lines" = "Lines";
+
+/*Genogram*/
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventPosition" = "Position of Events & Facts";
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventPosition_Right" = "Right";
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventsPosition_Below" = "Below";
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventsBackground" = "Background of Events & Facts";
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventsBackground_None" = "None";
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventsBackground_Filled" = "Filled";
+
+/*BaseChartBuilder*/
+"_BaseChartBuilderConfiguration_PlaceFormat_CompleteLocationString" = "Complete Place Name";
+"_BaseChartBuilderConfiguration_PlaceFormat_OnlyPlaceName" = "Abbreviated Place Name";
+
+/*BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration*/
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_MediaPictureAssignmentMode" = "Media Picture Mode";
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_MediaPictureAssignmentModeExplanation" = "Specify here how media should be displayed. Choose whether full pictures should be displayed or if pictures should be cropped to faces using Artificial Intelligence.";
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_MediaPictureAssignmentMode_FullPictureWithoutAssignment" = "Full Picture without cropping";
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_MediaPictureAssignmentMode_OnlyUserProvidedAssignment" = "Crop Picture when explicitly specified";
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_MediaPictureAssignmentMode_UserProvidedOrVision" = "Crop Picture when specified and when face is detected";
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_OutsetForMediaPictureAssignmentModeForVision" = "Spacing for detected Faces";
+
+/*EditorTextGeneratorChartCompositorObject*/
+"_EditorTextGeneratorChartCompositorObject_NewTextTitle" = "New Text";
+
+/*ChartCompositorObjectsContainer_RealignmentMode*/
+"_ChartCompositorObjectsContainer_RealignmentMode_MoveObjectsAwayFromPageCuts" = "Move Objects away from Page Breaks";
+"_ChartCompositorObjectsContainer_RealignmentMode_DistributeObjectsEvenlyOnPageFromBorderToBorder" = "Distribute Objects to cover All Pages";
+
+/*SociogramChartBuilderConfiguration*/
+"_SociogramChartBuilderConfiguration_ShowParents" = "Show Parents";
+"_SociogramChartBuilderConfiguration_ShowGrandparents" = "Show Grandparents";
+"_SociogramChartBuilderConfiguration_ShowChildren" = "Show Children";
+"_SociogramChartBuilderConfiguration_ShowPartners" = "Show Partners";
+"_SociogramChartBuilderConfiguration_ShowAssociateRelationsOfStartPerson" = "Show Influential Persons of Start Person";
+"_SociogramChartBuilderConfiguration_ShowAssociateRelationsOfParents" = "Show Influential Persons of Parents";
+"_SociogramChartBuilderConfiguration_ShowAssociateRelationsOfChildren" = "Show Influential Persons of Children";
+"_SociogramChartBuilderConfiguration_ShowAssociateRelationsOfPartners" = "Show Influential Persons of Partners";
+"_SociogramChartBuilderConfiguration_AssociatedPersonsSpacing" = "Influential Persons Spacing";
+"_SociogramChartBuilderConfiguration_AssociatedPersonsSpacingExplanation" = "Specify the spacing between persons and the influential persons here.";
+
+/*_SideBarPersonBuilderItemGeneratorChartCompositorObject*/
+"_SideBarPersonBuilderItemGeneratorChartCompositorObject_SideBarPosition" = "Side Bar Position";
+"_SideBarPersonBuilderItemGeneratorChartCompositorObject_SideBarPosition_Right" = "Right";
+"_SideBarPersonBuilderItemGeneratorChartCompositorObject_SideBarPosition_Left" = "Left";
+"_SideBarPersonBuilderItemGeneratorChartCompositorObject_SideBarPosition_Top" = "Top";
+"_SideBarPersonBuilderItemGeneratorChartCompositorObject_SideBarPosition_Bottom" = "Bottom";
+
+/*ChartEditor*/
+"_ChartsEditor_AlignMode_LeftX" = "Align Left, Horizontally";
+"_ChartsEditor_AlignMode_MiddleX" = "Align Centered, Horizontally";
+"_ChartsEditor_AlignMode_RightX" = "Align Right, Horizontally";
+"_ChartsEditor_AlignMode_TopY" = "Align Top, Vertically";
+"_ChartsEditor_AlignMode_MiddleY" = "Align Centered, Vertically";
+"_ChartsEditor_AlignMode_BottomY" = "Align Bottom, Vertically";
+
+/*Errors*/
+"_Error_NoPersonFoundInFamilyTreeError" = "No persons have been entered in this family tree so far. Please use the Edit section to enter persons and families in order to display this chart.";
+"_Error_NoSelectedPersonSetError" = "No person has been selected for this chart.";
+"_Error_NotEnoughDataPresentError" = "Not enough data present in the family tree to display this chart.";
+"_Error_NoParentsForPersonFoundInFamilyTreeError" = "No parents found for the selected person.";
+"_ChartsBitmapCGContextViewer_JPEGToLarge_Description" = "This chart is too large to be exported as a JPEG file. Please adjust the Scale setting to a lower scale or export the chart as a PNG or PDF file.";

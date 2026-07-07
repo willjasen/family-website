@@ -1,0 +1,1134 @@
+﻿/* BurnWebSiteExportPublish */
+"_BurnWebSiteExportPublish_Title" = "Polta webbisivu CD/DVD:lle";
+
+/* FTPWebSiteExportPublish */
+"_FTPWebSiteExportPublish_Title" = "Vie FTP palvelimelle";
+
+/* (No Comment) */
+"_FTPWebSiteExportPublish_UploadFailed" = "FTP:lle vienti epäonnistui";
+
+/* (No Comment) */
+"_FTPWebSiteExportPublish_UploadFinishedMessage" = "Vienti FTP palvelimelle '%@' on valmis %@.";
+
+/* (No Comment) */
+"_FTPWebSiteExportPublish_UploadFinishedTitle" = "FTP vienti valmis";
+
+/* (No Comment) */
+"_FTPWebSiteExportPublish_UploadProgress" = "Viety %.2f / %.2f MB";
+
+/* (No Comment) */
+"_FTPWebSiteExportPublish_UploadProgressHeadline" = "Viedään FTP palvelimelle…";
+
+/* (No Comment) */
+"_MacFamilyTreeComEditTree_NoPasswordEntered" = "Syötä salasana webbisivullesi MacFamilyTree.com palvelimella";
+
+/* MacFamilyTreeComEditTree */
+"_MacFamilyTreeComEditTree_Title" = "Muokkaa sukupuuasetuksia";
+
+/* MacFamilyTreeComEditUser */
+"_MacFamilyTreeComEditUser_Title" = "Muokkaa tiliäni";
+
+/* (No Comment) */
+"_MacFamilyTreeComLoginView_ForgotPasswordButton" = "Salasana unohtunut";
+
+/* (No Comment) */
+"_MacFamilyTreeComLoginView_LoginButton" = "Kirjaudu";
+
+/* (No Comment) */
+"_MacFamilyTreeComLoginView_Password" = "Salasana:";
+
+/* (No Comment) */
+"_MacFamilyTreeComLoginView_RegisterButton" = "Luo uusi tili";
+
+/* MacFamilyTreeComLoginView */
+"_MacFamilyTreeComLoginView_UserName" = "Käyttäjänimi:";
+
+/* MacFamilyTreeComRegisterNewTree */
+"_MacFamilyTreeComRegisterNewTree_Title" = "Vie uusi webbisivu";
+
+/* MacFamilyTreeComRegisterNewUser */
+"_MacFamilyTreeComRegisterNewUser_Title" = "Rekisteröidy kohteeseen MacFamilyTree.com";
+
+/* (No Comment) */
+"_MacFamilyTreeComWebSiteExportPublish_ListTopHint" = "Valitse korvattava webbisivu luettelosta alla tai valitse uuden webbisivun vienti.";
+
+/* (No Comment) */
+"_MacFamilyTreeComWebSiteExportPublish_NoTreesPresentMessage" = "Tällä hetkellä et ole vienyt yhtään sukupuuta MacFamilyTree.com palvelimelle. Käytä 'Uusi Webbisivu' painiketta viedäksesi ensimmäisen webbisivusi.";
+
+/* (No Comment) */
+"_MacFamilyTreeComWebSiteExportPublish_NoTreesPresentTitle" = "Ei webbisivuja MacFamilyTree.com palvelimella";
+
+/* (No Comment) */
+"_MacFamilyTreeComWebSiteExportPublish_ReplaceExistingTreeButton" = "Korvaa Webbisivu";
+
+/* MacFamilyTreeComWebSiteExportPublish */
+"_MacFamilyTreeComWebSiteExportPublish_Title" = "Vie palvelimelle MacFamilyTree.com";
+
+/* (No Comment) */
+"_MacFamilyTreeComWebSiteExportPublish_UploadNewTreeButton" = "Uusi Webbisivu";
+
+/* (No Comment) */
+"_MacFamilyTreeComWebSiteExportPublish_UploadProgressHeadline" = "Viedään palvelimelle MacFamilyTree.com…";
+
+/* (No Comment) */
+"_ManageMacFamilyTreeCom_DeleteTree_Informative" = "Haluatko todella poistaa webbisivun '%@' MacFamilyTree.com palvelimelta? Tätä ei voi perua.";
+
+/* (No Comment) */
+"_ManageMacFamilyTreeCom_DeleteTree_Message" = "Poistetaanko webbisivu MacFamilyTree.com palvelimelta?";
+
+/* (No Comment) */
+"_ManageMacFamilyTreeCom_EditUserButton" = "Muokkaa tiliäni";
+
+/* (No Comment) */
+"_ManageMacFamilyTreeCom_ListTopHint" = "Allaolevassa luettelossa ovat kaikki MacFamilyTree.com palvelimelle luomasi webbisivut. Voit poistaa webbisivut tai muokata nimeä ja salasanasuojausta valitsemalla webbisivu. Sisällön korvaamiseksi, muokkaa tai lisää webbisivu edellisestä ruudusta ja valitse 'Julkaise'.";
+
+/* (No Comment) */
+"_ManageMacFamilyTreeCom_LogoutButton" = "Kirjaudu ulos";
+
+/* (No Comment) */
+"_ManageMacFamilyTreeCom_NoTreesPresentMessage" = "Et ole vienyt yhtään webbisivua MacFamilyTree.com palvelimelle. Webbisivun viemiseksi luo webbisivu edellisessä ruudussa ja vie se palvelimelle MacFamilyTree.com.";
+
+/* (No Comment) */
+"_ManageMacFamilyTreeCom_NoTreesPresentTitle" = "Ei webbisivuja MacFamilyTree.com palvelimella";
+
+/* ManageMacFamilyTreeCom */
+"_ManageMacFamilyTreeCom_Title" = "Hallinnoi MacFamilyTree.com Webbisivuja ja tiliä";
+
+/* (No Comment) */
+"_WebSiteExport_Beach_Theme" = "Ranta";
+
+/* (No Comment) */
+"_WebSiteExport_Blue_Theme" = "Siniset vuoret";
+
+/* (No Comment) */
+"_WebSiteExport_BurnCDMenuItem" = "Polta CD/DVD…";
+
+/* (No Comment) */
+"_WebSiteExport_Chart_Page_Chart_Section_Title" = "Tallennettu kuvaaja";
+
+/* (No Comment) */
+"_WebSiteExport_Charts_Page_Charts_Section_Title" = "Tallennetut kuvaajat";
+
+/* Saved Charts Page */
+"_WebSiteExport_Charts_Page_Title_Section_Title" = "Kuvaajat";
+
+/* Themes */
+"_WebSiteExport_Classic_Theme" = "Klassikko";
+
+/* (No Comment) */
+"_WebSiteExport_Clean_Theme" = "Puhdas";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ActiveLinkColor" = "Aktiivinen linkin väri";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_BlurRadius" = "Sumeuden läpimitta";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Color" = "Väri";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ColorizePersonPlaceholderImages" = "Väritä sukupuolen mukaan";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_CustomHomePageImage" = "Valitse alta kuva joka näytetään kotisivulla.";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_DisableAnimations" = "Estä animaatiot";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_DNAPageSettings" = "DNA sivu";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_EnabledStatisticChartTypes" = "Ilastokuvaajat";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_EventPageSettings" = "Tapahtumasivu";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ExportPersonsModeAll" = "Kaikki henkilöt";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ExportPersonsModeFromPersonGroups" = "Henkilöt henkilöryhmissä";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ExportPersonsModeFromScope" = "Henkilöt älysuodattimessa";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_FamilyPageSettings" = "Perhesivu";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Font" = "Fontti";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HideDetailsOfLivingPersons" = "Kätke elävien henkilöiden tiedot";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HideInformationMarkedAsPrivate" = "Kätke yksityisiksi merkityt tiedot";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Highlight_Color_Number" = "Väri #%d";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HomePageImageType" = "Kuva";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HomePageImageType_CustomImage" = "Oma kuva";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HomePageImageType_FamilyCrest" = "Perhevaakuna";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HomePageImageType_None" = "Ei mitään";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HomePageImageType_StartPerson" = "Aloitushenkilöstä";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HomePageSettings" = "Kotisivu";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartAlignment" = "Tiimalasikuvaajan kohdistus";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartConnectionItemCornerRadius" = "Nurkan säde";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartPersonItemBorderColor" = "Reunan väri";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartPersonItemBorderWidth" = "Reunan vahvuus";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartPersonItemCornerRadius" = "Nurkan säde";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartPersonItemSubTitleColor" = "Alaotsikon väri";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartPersonItemSubTitleFont" = "Alaotsikon fontti";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartPersonItemTitleColor" = "Otsikon väri";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartPersonItemTitleFont" = "Otsikon fontti";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartSelectedPersonItemBorderWidth" = "Valittu reunan vahvuus";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ImprintPageSettings" = "Paino";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeAudio" = "Audio Media";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeDNA" = "DNA Informaatio";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeGEDCOMFile" = "Ladattava GEDCOM tiedosto";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeLabels" = "Merkit";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeLastEdited" = "Viimeksi muokattu";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeNumberingSystemString" = "Numerointijärjestelmätieto";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludePDFs" = "PDF:t";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludePersonGroups" = "Henkilöryhmät";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludePictures" = "Kuvat";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeSavedCharts" = "Tallennetut kaaviot";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeSources" = "Lähteet";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeStories" = "Tarinat";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeURLs" = "URL:t";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeVideos" = "Videot";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Label_For_Family_Members" = "Termit perheenjäsenille";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Label_For_Family_Members_Use_Man_Woman" = "Käytä Mies/Vaimo";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Label_For_Family_Members_Use_Partner1_Partner2" = "Käytä Partner 1/Partner 2";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Language_Label" = "Kieli";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_LinkColor" = "Linkin väri";
+
+/* Configuration */
+"_WebSiteExport_Configuration_MajorGroupTitle_General" = "Yleistä";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MajorGroupTitle_HourglassChart" = "Tiimalasikuvaaja";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MajorGroupTitle_Pages" = "Sivut";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MajorGroupTitle_Persons" = "Henkilöt";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MajorGroupTitle_Theme" = "Teema";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MediaPageSettings" = "Mediasivu";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MidGroupTitle_HourglassChartOtherPersonItem" = "Muut henkilöt";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MidGroupTitle_HourglassChartSelectedPersonItem" = "Valittu henkilö";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Animations" = "Animaatiot";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_ExportOptions" = "Valinnat";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_ExportPersonsMode" = "Vietäviin henkilöihin";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_HighlightColors" = "Korostusvärit";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_HomePageImage" = "Kuva";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_HomePageIntroduction" = "Esittely";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_HourglassChart_Background" = "Tausta";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_HourglassChart_ConnectionItem" = "Yhteydet";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_HourglassChart_PersonItem" = "Henkilöt";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_ImprintAuthorContact" = "Yhteys tekijään";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Includes" = "Sisällytä";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Introduction" = "Perehdytys";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Links" = "Linkit";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Menu" = "Valikko";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_PageSections" = "Sivusektiot";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_PersonPageHourglassChart" = "Tiimalasikuvaaja";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Persons" = "Henkilöt";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Privacy" = "Yksityisyys";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Sections" = "Sektiot";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_StartPerson" = "Aloitushenkilö";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_ThemeImages" = "Teemakuvat";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Title" = "Otsikko";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_WebSite" = "Wbbisivu";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_OptimizePictureFileSize" = "Optimoi kuvan koko pienemmille tiedostoille";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_PageSections" = "Sivusektiot";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_PersonGroupPageSettings" = "Henkilöryhmäsivu";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_PersonNameFormate" = "Henkilönnimimuoto";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_PersonPageSettings" = "Henkilösivu";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_PlacePageSettings" = "Paikkakuntasivu";
+
+/* Website Configuration */
+"_WebSiteExport_Configuration_Popup_Title" = "Asetukset";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Section_Placement_Full_Width" = "Täysi leveys";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Section_Placement_Header" = "Otsikko";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Section_Placement_Left" = "Vasen";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Section_Placement_Right" = "Oikea";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Section_Placement_Side" = "Reuna";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ShowFamilyCrestInTitle" = "Näytä perhevaakuna otsikossa";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_SourcePageSettings" = "Lähdesivu";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_StatisticsPageSettings" = "Tilastosivu";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_StoryPageSettings" = "Tarinasivu";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_TextAlignment" = "Tasaus";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_TextAlignment_Center" = "Keskelle";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_TextAlignment_Left" = "Vasemmalle";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_TextAlignment_Right" = "Oikealle";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Theme_Label" = "Teema";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Theme_Title" = "Teemaotsikko";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ThemeBackgroundImage" = "Taustakuva";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ThemeHeaderBackgroundImage" = "Otsikkokuva";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_UseFamilyCrestAsFavicon" = "Käytä perhevaakunaa Faviconina";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteAuthorAddress" = "Osoite";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteAuthorEmail" = "Sähköposti";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteAuthorName" = "Tekijä";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteAuthorPhone" = "Puhelin";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteImprintNote" = "Merkintä";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteIntroduction" = "Perehdytys";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteStartPerson" = "Aloitushenkilö";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteSubTitle" = "Alaotsikko";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteTitle" = "Otsikko";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_3" = "Tarkista serverin URL ja polku.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_6" = "Isäntäkonetta ei voitu selvittää.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_7" = "Isäntäkoneeseen yhdistäminen epäonnistui.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_9" = "Pääsy estetty.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_25" = "FTP palvelin esti STORE-komennon.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_30" = "FTP porttivirhe.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_35" = "SSL/TLS yhteys epäonnistui.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_60" = "Peer sertifikaattia ei voitu tunnistaa tunnetuilla CA sertifikaateilla.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_64" = "Pyydetty FTP SSL taso epäonnistui.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_67" = "Kirjautuminen estetty. Tarkista FTP käyttäjänimi ja salasana.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_73" = "Tiedosto on jo olemassa eikä sitä voida korvata. Tarkista oikeutesi palvelimella.";
+
+/* CurlErrorCodes */
+"_WebSiteExport_CurlError_Generic" = "Sisäinen virhe (%d).";
+
+/* (No Comment) */
+"_WebSiteExport_Dark_Theme" = "Antilooppi kanjoni";
+
+/* (No Comment) */
+"_WebSiteExport_DarkBubbles_Theme" = "Kuplat";
+
+/* (No Comment) */
+"_WebSiteExport_Default_WebSiteExportFolderName" = "My Family Tree Webbisivu";
+
+/* Details Of Living Persons Hidden */
+"_WebSiteExport_Details_Of_Living_Persons_Hidden_Person_Name" = "Henkilötiedot piilotettu";
+
+/* (No Comment) */
+"_WebSiteExport_ExportToFolderMenuItem" = "Vie kansioon…";
+
+/* (No Comment) */
+"_WebSiteExport_Flowers_Theme" = "Kukat";
+
+/* (No Comment) */
+"_WebSiteExport_Forest_Path_Theme" = "Metsäpolku";
+
+/* (No Comment) */
+"_WebSiteExport_Forest_Theme" = "Metsä";
+
+/* (No Comment) */
+"_WebSiteExport_Green_Hills_Theme" = "Auringonnousu";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Created_On" = "Luotu: %@";
+
+/* Home Page */
+"_WebSiteExport_Home_Page_Created_With_MacFamilyTree" = "Webbisivu luotu MacFamilyTree 11 avulla";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Download_GedcomFile_Description" = "Osoita ylläolevaa kuvaa tuodaksesi GEDCOM tiedoston tästä sukupuusta. GEDCOM tiedoston voi tuoda lähes kaikille mahdollisille sukututkimusohjelmille markkinoilla.";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_GedcomFile_DownloadLinkTitle" = "Tuo GEDCOM tiedosto";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_BookmarkedFamilies" = "Kirjanmerkityt perheet";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_BookmarkedMedia" = "Kirjanmerkitty media";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_BookmarkedPersons" = "Kirjanmerkityt henkilöt";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_BookmarkedPlaces" = "Kirjanmerkityt paikat";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_BookmarkedSources" = "Kirjanmerkityt lähteet";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_CreationDate" = "Luontipäivä";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_GedcomFile" = "GEDCOM tiedosto";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_Image" = "Perhevaakunan kuva";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_Introduction" = "Perehdytys";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_Introduction_Placeholder" = "Tämä on paikka perehdytykselle. Voit muuttaa sitä webbisivulla > Sivut > Kotisivu";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_StartPerson" = "Aloitushenkilö";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_SubTitle" = "Alaotsikko";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_Title" = "Otsikko";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Author_Contact_Section_Title" = "Tekijän yhteystiedot";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Note_Section_Title" = "Merkintä";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Synium_Contact_AppStore_Label" = "Mac App Store";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Synium_Contact_AppStore_Link_11" = "MacFamilyTree 11";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Synium_Contact_Company" = "Synium Software GmbH Germany";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Synium_Contact_Company_Label" = "Yritys";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Synium_Contact_Section_Title" = "Yhteys Syniumiin";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Synium_Contact_Website_Label" = "Webbisivu";
+
+/* Imprint Page */
+"_WebSiteExport_Imprint_Page_Title_Section_Title" = "Imprint";
+
+/* (No Comment) */
+"_WebSiteExport_IndexCards_Theme" = "Luettelokortit";
+
+/* (No Comment) */
+"_WebSiteExport_Inspector_ThemesTitle" = "Teemat";
+
+/* Inspector */
+"_WebSiteExport_Inspector_WebSiteSettingsTitle" = "Webbisivu";
+
+/* (No Comment) */
+"_WebSiteExport_Leafs_Theme" = "Bambu";
+
+/* (No Comment) */
+"_WebSiteExport_LeftMenu_Theme" = "Merenranta";
+
+/* (No Comment) */
+"_WebSiteExport_LeftMenuBlurryBackground_Theme" = "Purppura";
+
+/* (No Comment) */
+"_WebSiteExport_List_No_Entry_DueToSearch_Placeholder" = "Hakutermiä vastaavaa kirjausta ei löytynyt.";
+
+/* (No Comment) */
+"_WebSiteExport_List_No_Entry_Placeholder" = "Kirjausta ei löytynyt";
+
+/* Lists */
+"_WebSiteExport_List_Search_Placeholder" = "Hae…";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_By" = "Järjestä";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Family_Last_Name_Key" = "Sukunimi";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Family_Name_Key" = "Perheen nimi";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_BirthDate_Key" = "Syntymäpäivä";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_DeathDate_Key" = "Kuolinpäivä";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_FirstName_Key" = "Etunimi";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_Group_Name_Key" = "Ryhmän nimi";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_LastName_Key" = "Sukunimi";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_NameMiddle_Key" = "Muut etunimet";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_NamePrefix_Key" = "Nimen etuliite";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_NameSuffix_Key" = "Nimen loppuliite";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Place_Name_Key" = "Paikannimi";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Source_Title_Key" = "Lähteen otsikko";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Story_Title_Key" = "Tarinan otsikko";
+
+/* (No Comment) */
+"_WebSiteExport_LoadingFamilyTreeData" = "Lataa sukupuu…";
+
+/* (No Comment) */
+"_WebSiteExport_LoadingFamilyTreeData_Failed" = "Sukupuun lataus epäonnistui";
+
+/* (No Comment) */
+"_WebSiteExport_ManageThemes_Label" = "Teema:";
+
+/* (No Comment) */
+"_WebSiteExport_ManageWebSiteExportThemes" = "Hallitse teemoja";
+
+/* (No Comment) */
+"_WebSiteExport_ManageWebSiteExportThemes_AddThemeHint" = "Valitse tälle webbisivulle lisättävä teema allaolevasta luettelosta";
+
+/* (No Comment) */
+"_WebSiteExport_ManageWebSiteExportThemes_AddThemeTitle" = "Lisää teema";
+
+/* (No Comment) */
+"_WebSiteExport_ManageWebSiteExportThemes_Hint" = "Kaikki tähän webbisivuun liitetyt teemat on luettelossa alla. Käytä 'Lisää' painiketta lisätäksesi lisää teemoja. Vetämällä teemoja voit myös muuttaa niiden järjestystä. Tämän listan ensimmäinen teema tulee webbisivusi oletusteemaksi.";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Charts" = "Kuvaajat";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Families" = "Perheet";
+
+/* Website Menu */
+"_WebSiteExport_Menu_HomePage" = "Koti";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Imprint" = "Imprint";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_PersonGroups" = "Henkilöryhmät";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Persons" = "Henkilöt";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Places" = "Paikat";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Sources" = "Lähteet";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Statistics" = "Tilastot";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Stories" = "Tarinat";
+
+/* (No Comment) */
+"_WebSiteExport_MFT11_Theme" = "Yksitoista";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_AuthenticationFailed" = "Tunnistaminen epäonnistui. Varmista että syötit käyttäjänimen ja salasanan oikein.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Client_Error" = "Asiakasohjelmavirhe";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Client_Error_Informative_Text" = "Asiakasohjelmavirhe (%@). Yritä uudelleen. Jos ongelma jatkuu, ota yhteys tukiryhmäämme.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_CommandMismatch" = "Komentovirhe";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_CommandUnknown" = "Tuntematon komento";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Connection_Error" = "Yhteysvirhe";
+
+/* MFT server NSURLConnection errors */
+"_WebSiteExport_MFTExport_ConnectionErrorCannotConnectToHost" = "Ei voitu yhdistää MacFamilyTree.com palvelimeen. Tarkista internetyhteys ja yritä uudelleen.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_ConnectionErrorCannotFindHost" = "Ei voitu yhdistää MacFamilyTree.com palvelimeen. (DNS haku epäonnistui). Tarkista internetyhteys.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_ConnectionErrorTimedOut" = "Yhteys MacFamilyTree.com palvelimeen aikakatkaistu. Yritä uudelleen myöhemmin.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Delete_Old_Files" = "Poistetaan vanhat tiedostot";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_DeleteFailed" = "Tiedoston poisto epäonnistui";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error" = "Tuntematon virhe";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_Connection_Cant_Be_Initialized" = "Yhteyttä ei voida muodostaa";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_Email_Not_Valid" = "Sähköpostiosoite virheellinen";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_NoSSL_Connect_Without_SSL" = "Yhdistetty";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_Not_Logged_In" = "Ei kirjauduttu";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_Password_Empty" = "Salasana puuttuu";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_Passwords_mismatch" = "Salasanavirhe";
+
+/* MFT Upload */
+"_WebSiteExport_MFTExport_Error_Undefined" = "Määrittelemätön virhe";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_Upload_Limit_Exceeded" = "Webbisivusi ylittää vientirajoituksen. Poista valinnasta joitain suuria mediatiedostoja (PDF, video, kuvat) ja yritä uudelleen.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_User_Or_Password_Empty" = "Käyttäjä tai salasana puuttuu";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_User_String_Not_Valid" = "Käytä vain alfanumeerisia merkkejä käyttäjänimessä";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Failed" = "Vienti epäonnistui";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_FileHashesError" = "Virhe vietävien tiedostojen tarkisteissa";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Get_FileHashes" = "Haetaan tiedostotarkisteet";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Get_Upload_Limit" = "Selvitä vientirajoitus";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Open_In_Browser" = "Avaa selaimessa";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_PersonListInvalid" = "Virhe vietyjen henkilöiden luettelossa";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_PersonUpdateFailed" = "Henkilöiden päivitys epäonnistui";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Server_Error" = "Palvelinvirhe";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Server_Error_Informative_Text" = "MacFamilyTree.com palvelin ei käytössä. Yritä uudelleen myöhemmin.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Successful" = "Vienti onnistui";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Successful_Informative_Text" = "Webbisivusi on viety. Voit nyt avata webbisivusi selaimella.";
+
+/* MFT server error keys */
+"_WebSiteExport_MFTExport_TreeNameInvalid" = "Webbisivun nimi virheellinen. Käytä vain alfanumeerisia merkkejä.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_TreeNameTaken" = "Webbisivun nimi on jo käytössä.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_TreeNameTooLong" = "Webbisivun nimi liian pitkä (maks. %@ merkkiä).";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_TreeNameTooShort" = "Webbisivun nimi liian lyhyt (min. %@ merkkiä).";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_TreeNotFound" = "Webbisivua ei löytynyt.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_TreePasswordInvalid" = "Webbisivun salasana virheellinen.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_TreePasswordTooShort" = "Webbisivun salasana liian lyhyt (min. %@ merkkiä).";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Unknown_Error" = "Tuntematon virhe";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Unknown_Error_Informative_Text" = "Tuntematon virhe (%@). Yritä uudelleen. Jos ongelma jatkuu, ota yhteys tukiryhmäämme.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UnzipFailed" = "Webbisivun purku epäonnistui";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Upload_New_FileHashes" = "Viedään uudet tiedostotarkisteet";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Upload_New_Files" = "Viedään uudet tiedostot";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Upload_Successful" = "Vienti onnistui";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Upload_Validating_New_Files" = "Tarkistetaan uudet tiedostot...";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Upload_Validating_New_Persons_List" = "Tarkistetaan uudet henkilöt...";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_User_Or_Password_Wrong" = "Kirjautuminen epäonnistui. Käyttäjä tai salasana väärä.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserEmailAddressInvalid" = "Sähköpostiosoite virheellinen";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserEmailAddressTaken" = "Tämä sähköpostiosoite on jo käytössä MacFamilyTree.com tilillä. Voit rekisteröidä vain yhden tilin per sähköpostiosoite.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserNameInvalid" = "Käyttäjänimi ei voimassa";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserNameTaken" = "Käyttäjänimi on jo käytössä";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserNameTooLong" = "Käyttäjänimi nimi liian pitkä (maks. %@ merkkiä).";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserNameTooShort" = "Käyttäjänimi nimi liian lyhyt (min. %@ merkkiä).";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserPasswordInvalid" = "Käyttäjänimi virheellinen";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserPasswordTooShort" = "Salasana liian lyhyt (min. %@ merkkiä).";
+
+/* (No Comment) */
+"_WebSiteExport_NavigateBackButton" = "Takaisin";
+
+/* WebSitePane */
+"_WebSiteExport_NavigateForwardButton" = "Eteenpäin";
+
+/* (No Comment) */
+"_WebSiteExport_NoWebSitesPlaceholder_AddWebSiteButton" = "Lisää ensimmäinen webbisivu";
+
+/* (No Comment) */
+"_WebSiteExport_NoWebSitesPlaceholder_Message" = "Tässä sukupuussa ei ole webbisivuja. Valitse \"Lisää ensimmäinen webbisivu\" luodaksesi ensimmäisen webbisivusi.";
+
+/* Websites */
+"_WebSiteExport_NoWebSitesPlaceholder_Title" = "Webbisivuja ei ole";
+
+/* (No Comment) */
+"_WebSiteExport_Page_Header_Section_Title" = "Otsikkosektio";
+
+/* Common Page */
+"_WebSiteExport_Page_Overview_Section_Title" = "Yleisnäkymä";
+
+/* Person Page */
+"_WebSiteExport_Person_Page_Hourglass_Section_Title" = "Tiimalasikuvaaja";
+
+/* Place Page */
+"_WebSiteExport_Place_Page_Map_Section_Title" = "Kartta";
+
+/* (No Comment) */
+"_WebSiteExport_Place_Page_View_Place_In_Maps" = "Näytä paikka Kartoissa";
+
+/* (No Comment) */
+"_WebSiteExport_Plain_Theme" = "Yksinkertainen";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_CollectingFamilyTreeInformation" = "Kerätään sukupuutietoja…";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_CreatingWebsiteForLocalViewingInformative" = "Luodaan paikallinen webbisivu.";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_CreatingWebsiteForSharingInformative" = "Valmistellaan webbisivua jakoon - odota";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_CreatingWebsiteForWebServerInformative" = "Luodaan webbisivu palvelimelle,";
+
+/* Progress */
+"_WebSiteExport_Progress_CreatingWebsiteHeadline" = "Luodaan webbisivua…";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_CreatingWebsiteInformative" = "Odota ole hyvä";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_ExportingGedcom" = "Viedään GEDCOM…";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_ExportingMedia" = "Viedään mediatiedostoja…";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_ExportingResources" = "Viedään resursseja…";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_ExportingSavedCharts" = "Viedään tallennettuja kuvaajia…";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_ExportingStatisticCharts" = "Viedään tilastokuvaajia…";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_ExportingThemes" = "Viedään teemoja…";
+
+/* (No Comment) */
+"_WebSiteExport_PublishButton" = "Julkaise";
+
+/* (No Comment) */
+"_WebSiteExport_ResetThemeToDefaults" = "Palauta teema oetusarvoihin";
+
+/* (No Comment) */
+"_WebSiteExport_ResetThemeToDefaults_Short" = "Palauta";
+
+/* (No Comment) */
+"_WebSiteExport_ShareMenuItem" = "Jaa…";
+
+/* (No Comment) */
+"_WebSiteExport_ShouldSaveModifiedWebSite_InformativeText" = "Haluatko tallentaa tähän webbisvuun tekemäsi muutokset?";
+
+/* (No Comment) */
+"_WebSiteExport_ShouldSaveModifiedWebSite_MessageText" = "Tallennetaanko muutokset webbisivulle?";
+
+/* Manage Themes */
+"_WebSiteExport_Show_ManageThemes_MenuTitle" = "Hallitse teemoja…";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_DivorcedFamiliesCount" = "Eronneet perheet";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_EarliestEvent" = "Aikaisin tapahtuma";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_Family_Statistics_Section_Title" = "Perhetilastot";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_FamilyCount" = "Perheitä yhteensä";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_FamilyEventCount" = "Perhetapahtumat";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_FemalePersonCount" = "Naispuoliset henkilöt";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_IntersexGenderPersonCount" = "Interseksuaaliset henkilöt";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_LatestEvent" = "Viimeisin tapahtuma";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_MalePersonCount" = "Miespuoliset henkilöt";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_MarriedFamiliesCount" = "Naimisissa olevat perheet";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_Person_Statistics_Section_Title" = "Henkilötilastot";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_PersonCount" = "Henkilöitä yhteensä";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_PersonEventCount" = "Henkilötapahtumat";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_StatisticCharts_Section_Title" = "Tilastokaaviot";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_Time_Statistics_Section_Title" = "Aika & päivät";
+
+/* Statistics Page */
+"_WebSiteExport_Statistics_Page_Title_Section_Title" = "Tilastot";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_UnknownGenderPersonCount" = "Henkilöt joiden sukupuoli tuntematon";
+
+/* (No Comment) */
+"_WebSiteExport_Stripes_Theme" = "Raidat";
+
+/* (No Comment) */
+"_WebSiteExport_TopMenu_Theme" = "Vinot laatikot";
+
+/* (No Comment) */
+"_WebSiteExport_Unnamed_WebSite" = "Nimetön webbisivu";
+
+/* (No Comment) */
+"_WebSiteExport_UploadToFTPMenuItem" = "Vie FTP palvelimelle…";
+
+/* (No Comment) */
+"_WebSiteExport_UploadToMacFamilyTreeComMenuItem" = "Vie palvelimelle MacFamilyTree.com…";
+
+/* (No Comment) */
+"_WebSiteExport_WebSite_ChangeDate" = "Muuta päivämäärä: %@";
+
+/* (No Comment) */
+"_WebSiteExport_WebSite_CreationDate" = "Luontipäivä: %@";
+
+/* (No Comment) */
+"_WebSiteExportMFTTreeObject_Active" = "Linjalla";
+
+/* (No Comment) */
+"_WebSiteExportMFTTreeObject_NotActive" = "Ei aktiivinen";
+
+/* (No Comment) */
+"_WebSiteExportMFTTreeObject_NotPublic" = "Ei julkinen";
+
+/* WebSiteExportMFTTreeObject */
+"_WebSiteExportMFTTreeObject_Public" = "Julkinen";
+
+/* WebSitesPane */
+"_WebSites_AddNewWebSiteButton" = "Lisää uusi webbisivu";
+
+/* (No Comment) */
+"_WebSites_DeleteWebSiteButton" = "Poista wbbisivu";
+
+/* (No Comment) */
+"_WebSites_DuplicateWebSiteButton" = "Monista webbisivu";
+
+/* (No Comment) */
+"_WebSites_EditWebSiteButton" = "Muokkaa webbisivua";
+
+/* (No Comment) */
+"_WebSites_ManageMacFamilyTreeComButton" = "Hallinnoi kohdetta MacFamilyTree.com…";
+
+/* (No Comment) */
+"_WebSitesController_DeleteWebSiteInformative" = "Haluatko todella poistaa tämän webbisivun?";
+
+/* WebSiteExportController */
+"_WebSitesController_DeleteWebSiteMessage" = "Poistetaanko webbisivu?";
+
+/* (No Comment) */
+"_WebSitesController_ExportedWebSiteToFolder" = "Webbisivu viety onnistuneesti";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToFolder_ForLocalViewing" = "Paikallisesti katsottavaksi";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToFolder_ForWebServer" = "Webbipalvelimelle";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToFolder_OpenFolderInFinder" = "Näytä Finderissa";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToFolder_Question_Informative" = "Haluatko viedä webbisivun kansioon paikallisesti katsottavaksi vai haluatko tallentaa webbisivun muodossa, jota voidaan hallita webbipalvelimella?";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToFolder_Question_Message" = "Vie webbisivu kansioon";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToShare_Question_Informative" = "Haluatko jakaa viedyn webbisivun paikallista katselua varten vai haluatko jakaa webbisivun muodossa, jota voidaan hallita webbipalvelimella?";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToShare_Question_Message" = "Jaa viety webbisivu";
+
+/* (No Comment) */
+"_WebSitesController_LimitedPersonsForPreview_Question_Informative" = "Tämä esikatselu näyttää enintään 500 henkilöä. Viety nettisivusi kuitenkin sisältää kaikki valitut henkilöt.";
+
+/* (No Comment) */
+"_WebSitesController_LimitedPersonsForPreview_Question_Message" = "Esikatselu";
+

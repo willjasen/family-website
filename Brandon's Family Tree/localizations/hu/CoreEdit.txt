@@ -1,0 +1,1707 @@
+﻿/* (No Comment) */
+"_BaseEditController_DeleteBaseObjectQuestionInformative" = "Valóban törölni akarja ezt a beírást a családfájából?";
+
+/* (No Comment) */
+"_BaseEditController_DeleteBaseObjectQuestionMessage" = "Törölje '%@'-t?";
+
+/* (No Comment) */
+"_BaseEditController_DeletePersonQuestionInformative" = "Valóban törölni akarja ezt a személyt a családfájából?";
+
+/* BaseEditController */
+"_BaseEditController_DeletePersonQuestionMessage" = "Törölje '%@' személyt?";
+
+/* (No Comment) */
+"_BaseEditController_ManuallyAddPlaceDetailInformative" = "Adja meg a „%@” új helyrészletének nevét";
+
+/* (No Comment) */
+"_BaseEditController_ManuallyAddPlaceDetailTitle" = "Helyrészletek manuális hozzáfűzése";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_AddEventButton" = "Esemény hozzáfűzése";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_AgeAtEvent" = "Kor eseménykor";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_CopyEventToPersonMenuItem" = "Másolja át az eseményt a személyhez...";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_CreateStoryFromEventMenuItem" = "Történet létrehozása az eseményhez";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_DeadButNoFurtherInfoCheckbox" = "Személy kijelölése halottként, de további információ nem áll rendelkezésre";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_DeleteEvent" = "Esemény törlése";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_EditEventDetails" = "Eseményrészletek szerkesztése";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_EditFamilyEventConclusionTypes" = "Családeseménytípus szerkesztése...";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_EditFamilyMenuItem" = "%@ család szerkesztése";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_EditPersonEventConclusionTypes" = "Személyeseménytípus szerkesztése";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_EditPlaceDetails" = "Helyrészletek szerkesztése...";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_EventPlaceholder" = "%@ – Ide írja be az információkat";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_FamilyEventPlaceholder" = "%@ %@-val – Ide írja be az információkat";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_FurtherOptionsButton" = "További opciók...";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_LargePlaceholder" = "Nincsenek események";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_LookupNewPlaceDetail" = "Új helyrészlet keresése...";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_ManuallyAddPlaceDetail" = "Új helyrészletek manuális hozzáfűzése…";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_MarriedButNoFurtherInfoCheckbox" = "Pár kijelölése házaspárként, de további információ nem áll rendelkezésre";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_NoDateAvailable" = "Nem adott meg dátumot";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_NoNotesPlaceholder" = "Nem írt be jegyzeteket";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_NoPlacePlaceholder" = "Nem írt be helyet";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_NoSourcesPlaceholder" = "Nem írt be forrásokat";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_SmallPlaceholder" = "Használja a fenti gombot új esemény hozzáfűzéséhez.";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_Sorting_ByDate" = "Esemény dátuma szerint";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_Sorting_ByDescription" = "Leírás szerint";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_Sorting_ByTypeAndDate" = "Esemény típusa és dátuma szerint";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_Sorting_ByTypeName" = "Esemény típusneve szerint";
+
+/* Shared Base Events */
+"_BaseEditEventsContentController_Title" = "Események";
+
+/* BaseEditHeaderContentController */
+"_BaseEditHeaderContentController_Title" = "Fejléc";
+
+/* (No Comment) */
+"_BaseEditListContentController_SortAscending" = "Növekvő sorrendben";
+
+/* (No Comment) */
+"_BaseEditListContentController_SortDescending" = "Csökkenő sorrendben";
+
+/* BaseEditListContentController */
+"_BaseEditListContentController_SortingButton" = "Válogatás";
+
+/* (No Comment) */
+"_BaseEditPlaceLinksContentController_OtherLanguagesButton" = "Más nyelvek...";
+
+/* (No Comment) */
+"_BaseEditPlaceLinksContentController_ShowArticleButton" = "Cikk megmutatása";
+
+/* (No Comment) */
+"_BaseReferencedEntriesListContentController_EditFamilyEventMenuItem" = "'%@' családesemény szerkesztése";
+
+/* (No Comment) */
+"_BaseReferencedEntriesListContentController_EditFamilyMenuItem" = "'%@' család szerkesztése";
+
+/* (No Comment) */
+"_BaseReferencedEntriesListContentController_EditPersonEventMenuItem" = "'%@' személyesemény szerkesztése";
+
+/* BaseReferencedEntriesListContentController */
+"_BaseReferencedEntriesListContentController_EditPersonMenuItem" = "'%@' személy szerkesztése";
+
+/* (No Comment) */
+"_Column_aboveMainFullWidth_0" = "Fő terület";
+
+/* (No Comment) */
+"_Column_main_0" = "Bal oldal";
+
+/* (No Comment) */
+"_Column_main_1" = "Jobb oldal";
+
+/* (No Comment) */
+"_Column_main_256" = "Oldalsáv";
+
+/* (No Comment) */
+"_Column_parents_0" = "Bal oldal";
+
+/* (No Comment) */
+"_Column_parents_1" = "Jobb oldal";
+
+/* (No Comment) */
+"_Column_top_0" = "Fő terület";
+
+/* Common */
+"_CommonEdit_NoLabelsAssignedPlaceholder" = "Nincs hozzárendelt címke";
+
+/* (No Comment) */
+"_DatabaseChangesController_DeleteChangeLogEntryMessage" = "Valóban törölni akarja a változtatási naplóbeírást?";
+
+/* (No Comment) */
+"_DatabaseChangesController_PurgeAllChangesInformative" = "Erősítse meg, hogy törölni kívánja-e az összes változásnapló-beírást a családfájából.";
+
+/* (No Comment) */
+"_DatabaseChangesController_PurgeAllChangesInformativeWithDate" = "Erősítse meg, hogy törölni kívánja-e a változásnapló összes  %@ előtt készült bejírását.";
+
+/* DatabaseChangesController */
+"_DatabaseChangesController_PurgeAllChangesMessage" = "Tényleg törölni akarja a változásnaplót? Ezt nem lehet visszacsinálni.";
+
+/* (No Comment) */
+"_DatabaseChangesController_PurgeAllChangesOfDeletedEntriesInformative" = "Erősítse meg, hogy törölni kíván-e minden olyan változásnapló-beírást, amely törölt személyekre, családokra stb. utal.";
+
+/* (No Comment) */
+"_DatabaseChangesController_PurgeAllChangesOfDeletedEntriesMessage" = "Valóban törölni akarja a törölt bejegyzések változásnaplóját? Ezt nem lehet visszacsinálni.";
+
+/* (No Comment) */
+"_DatabaseChangesController_PurgeButton" = "Változtatási napló törlése";
+
+/* (No Comment) */
+"_EditAssociateRelationGeneralController_Source" = "Eredet";
+
+/* (No Comment) */
+"_EditAssociateRelationGeneralController_Target" = "Cél";
+
+/* EditAssociateRelationGeneralController */
+"_EditAssociateRelationGeneralController_Title" = "Általános";
+
+/* (No Comment) */
+"_EditAssociatesContentController_AddAssociatedPersonButton" = "Befolyásos személy hozzáfűzése";
+
+/* (No Comment) */
+"_EditAssociatesContentController_AddExistingFamilyAsAssociate" = "Meglévő család hozzáfűzése befolyásos családként";
+
+/* (No Comment) */
+"_EditAssociatesContentController_AddExistingPersonAsAssociate" = "Meglévő személy hozzáfűzése befolyásos személyként";
+
+/* (No Comment) */
+"_EditAssociatesContentController_AddNewFamilyAsAssociate" = "Új befolyásos család hozzáfűzése";
+
+/* (No Comment) */
+"_EditAssociatesContentController_AddNewPersonAsAssociate" = "Új befolyásos személy hozzáfűzése";
+
+/* (No Comment) */
+"_EditAssociatesContentController_EditAssociateRelationConclusionTypes" = "Befolyásos kapcsolattípusok szerkesztése...";
+
+/* (No Comment) */
+"_EditAssociatesContentController_LargePlaceholder" = "Nincsenek befolyásos személyek";
+
+/* (No Comment) */
+"_EditAssociatesContentController_RemoveAssociateButton" = "Befolyásos személy törlése";
+
+/* (No Comment) */
+"_EditAssociatesContentController_RemoveAssociateRelationInformative" = "Ez nem törli a személyt a családfájából, hanem csak a kapcsolatát ezzel a személlyel.";
+
+/* (No Comment) */
+"_EditAssociatesContentController_RemoveAssociateRelationMessage" = "Valóban törölni akarja az '%@' kapcsolatot?";
+
+/* (No Comment) */
+"_EditAssociatesContentController_SmallPlaceholder" = "Használja a fenti gombot befolyásos személyek, mint a keresztapák, hozzáfűzéséhez";
+
+/* EditAssociatesContentController */
+"_EditAssociatesContentController_Title" = "Befolyásos személyek";
+
+/* (No Comment) */
+"_EditBookmarkContentController_OtherBookmarkedEntries_BaseMedia" = "Médium";
+
+/* (No Comment) */
+"_EditBookmarkContentController_OtherBookmarkedEntries_Family" = "Családok";
+
+/* (No Comment) */
+"_EditBookmarkContentController_OtherBookmarkedEntries_Person" = "Személyek";
+
+/* (No Comment) */
+"_EditBookmarkContentController_OtherBookmarkedEntries_Place" = "Helyek";
+
+/* (No Comment) */
+"_EditBookmarkContentController_OtherBookmarkedEntries_Source" = "Források";
+
+/* EditBookmarkContentController */
+"_EditBookmarkContentController_Title" = "Könyvjelzők";
+
+/* Common */
+"_EditCommon_PrivateFlagLabel" = "Privát";
+
+/* (No Comment) */
+"_EditCreationAndChangeDateContentController_ChangeDate" = "Változtatás dátuma";
+
+/* (No Comment) */
+"_EditCreationAndChangeDateContentController_CreationDate" = "Elkészítés dátuma";
+
+/* EditCreationAndChangeDateContentController */
+"_EditCreationAndChangeDateContentController_Title" = "Utolsó szerkesztés";
+
+/* (No Comment) */
+"_EditDNATestResultATDNARawDataContentController_DataPresentString" = "Tárolt atDNS nyers adatok, fájlméret: %@";
+
+/* EditDNATestResultATDNARawDataContentController */
+"_EditDNATestResultATDNARawDataContentController_Title" = "atDNS nyers adat";
+
+/* EditDNATestResultBaseMTDNARegionSNPDifferencesContentController */
+"_EditDNATestResultBaseMTDNARegionSNPDifferencesContentController_AddMarkerButton" = "Jelző hozzáfűzése";
+
+/* (No Comment) */
+"_EditDNATestResultBaseMTDNARegionSNPDifferencesContentController_LargePlaceholder" = "Nem írt be jelzőket";
+
+/* (No Comment) */
+"_EditDNATestResultBaseMTDNARegionSNPDifferencesContentController_SmallPlaceholder" = "Használja a fenti gombot jelzők hozzáfűzéséhez";
+
+/* (No Comment) */
+"_EditDNATestResultBaseRawDataContentController_AddDataButton" = "Adat hozzáfűzése";
+
+/* (No Comment) */
+"_EditDNATestResultBaseRawDataContentController_DeleteDNARawDataInformative" = "Valóban törölni akarja a teszthez kapcsolódó nyers DNS-adatokat?";
+
+/* (No Comment) */
+"_EditDNATestResultBaseRawDataContentController_DeleteDNARawDataMessage" = "Valóban törölje a DNS adatot?";
+
+/* EditDNATestResultBaseRawDataContentController */
+"_EditDNATestResultBaseRawDataContentController_LargePlaceholder" = "Nem fűzött hozzá nyers DNS adatot";
+
+/* (No Comment) */
+"_EditDNATestResultBaseRawDataContentController_SelectFileMessage" = "Válassza ki a nyers DNS-adatként menteni kívánt fájlt";
+
+/* (No Comment) */
+"_EditDNATestResultBaseRawDataContentController_SmallPlaceholder" = "Használja a fenti gombot nyers DNS-adatok hozzáfűzéséhez";
+
+/* (No Comment) */
+"_EditDNATestResultController_Title" = "DNS teszteredmény";
+
+/* (No Comment) */
+"_EditDNATestResultGeneralContentController_NoNameEnteredPlaceholder" = "Nem írt be tesztnevet";
+
+/* EditDNATestResultGeneralContentController */
+"_EditDNATestResultGeneralContentController_Title" = "Általános";
+
+/* (No Comment) */
+"_EditDNATestResultMTDNAGeneralInformationContentController_NoHaplogroupPlaceholder" = "Nem írt be Halocsoportot";
+
+/* EditDNATestResultMTDNAGeneralInformationContentController */
+"_EditDNATestResultMTDNAGeneralInformationContentController_Title" = "mtDNS információ";
+
+/* (No Comment) */
+"_EditDNATestResultMTDNARawDataContentController_DataPresentString" = "Tárolt mtDNS nyers adatok, fájlméret: %@";
+
+/* EditDNATestResultMTDNARawDataContentController */
+"_EditDNATestResultMTDNARawDataContentController_Title" = "mtDNA nyers adat";
+
+/* EditDNATestResultMTNDNACodingRegionSNPDifferencesContentController */
+"_EditDNATestResultMTNDNACodingRegionSNPDifferencesContentController_Title" = "mtDNS kódoló régió SNP különbségek";
+
+/* EditDNATestResultMTNDNAHVR1SNPDifferencesContentController */
+"_EditDNATestResultMTNDNAHVR1SNPDifferencesContentController_Title" = "mtDNS HVR1 SNP különbségek";
+
+/* EditDNATestResultMTNDNAHVR2SNPDifferencesContentController */
+"_EditDNATestResultMTNDNAHVR2SNPDifferencesContentController_Title" = "mtDNS HVR2 SNP különbségek";
+
+/* (No Comment) */
+"_EditDNATestResultYDNAGeneralInformationContentController_NoHaplogroupPlaceholder" = "Nem írt be Halocsoportot";
+
+/* EditDNATestResultYDNAGeneralInformationContentController */
+"_EditDNATestResultYDNAGeneralInformationContentController_Title" = "Y-DNA információ";
+
+/* (No Comment) */
+"_EditDNATestResultYDNARawDataContentController_DataPresentString" = "Tárolt Y-DNS nyers adatok, fájlméret: %@";
+
+/* EditDNATestResultYDNARawDataContentController */
+"_EditDNATestResultYDNARawDataContentController_Title" = "Y-DNA nyers adat";
+
+/* (No Comment) */
+"_EditDNATestResultYDNASTRMarkerListContentController_AddMarkerButton" = "Jelző hozzáfűzése";
+
+/* (No Comment) */
+"_EditDNATestResultYDNASTRMarkerListContentController_LargePlaceholder" = "Nem írt be Y-DNS STR jelzőket";
+
+/* (No Comment) */
+"_EditDNATestResultYDNASTRMarkerListContentController_SmallPlaceholder" = "Használja a fenti gombot Y-DNS STR jelzők hozzáfűzéséhez";
+
+/* EditDNATestResultYDNASTRMarkerListContentController */
+"_EditDNATestResultYDNASTRMarkerListContentController_Title" = "Y-DNS STR jelzők";
+
+/* EditEventGeneralContentController */
+"_EditEventGeneralContentController_Title" = "Általános";
+
+/* (No Comment) */
+"_EditEventPlaceContentController_AssignPlace" = "Hely hozzárendelése";
+
+/* (No Comment) */
+"_EditEventPlaceContentController_LargePlaceholder" = "Nincs hozzárendelt hely";
+
+/* (No Comment) */
+"_EditEventPlaceContentController_SelectExistingPlace" = "Hely kiválasztása";
+
+/* (No Comment) */
+"_EditEventPlaceContentController_ShowPlace" = "Hely megmutatása";
+
+/* (No Comment) */
+"_EditEventPlaceContentController_SmallPlaceholder" = "Ehhez az eseményhez nem rendeltek hozzá helyet. Használja a fenti gombot egy meglévő hely hozzárendeléséhez vagy új hely kereséséhez";
+
+/* EditEventPlaceContentController */
+"_EditEventPlaceContentController_Title" = "Hely";
+
+/* (No Comment) */
+"_EditEventPlaceController_FieldsHint" = "Adja meg a helyre vonatkozó információkat az alábbi mezőkben. Ha más mezőkre van szüksége, válasszon másik helysablont, vagy adja hozzá a mezőket a helysablonhoz.";
+
+/* EditEventPlaceController */
+"_EditEventPlaceController_TemplateHint" = "Válasszon helysablont ehhez a helyhez az alábbi gombbal. Ha nem áll rendelkezésre megfelelő sablon, kérjük, használja a „Sablonok szerkesztése” lehetőséget egy új sablon létrehozásához";
+
+/* EditEventPlaceDetailContentController */
+"_EditEventPlaceDetailContentController_Title" = "Helyrész";
+
+/* EditEventPlace */
+"_EditEventPlaceSheetLookupNewPlaceSection_Title" = "Új hely keresése...";
+
+/* (No Comment) */
+"_EditEventPlaceSheetManualEnterPlaceSection_Title" = "Helyek manuális beírása";
+
+/* (No Comment) */
+"_EditEventPlaceSheetManualEnterPlaceSection_TitleReplace" = "Helyek manuális szerkesztése";
+
+/* (No Comment) */
+"_EditEventPlaceSheetSelectExistingPlaceSection_Title" = "Meglévő hely kiválasztása";
+
+/* (No Comment) */
+"_EditEventPlaceSheetSelectExistingPlaceSection_TitleReplace" = "Cserélje le a meglévő hellyel";
+
+/* (No Comment) */
+"_EditEventPlaceViewController_EditPlace" = "Hely szerkesztése";
+
+/* (No Comment) */
+"_EditEventPlaceViewController_JustLookUpCoordinate" = "Csak koordináta keresés";
+
+/* (No Comment) */
+"_EditEventPlaceViewController_RemoveCurrentPlace" = "Aktuális hely törlése";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_AddExistingManButton" = "Meglévő férfi hozzáfűzése";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_AddExistingWomanButton" = "Meglévő nő hozzáfűzése";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_AddNewManButton" = "Új férfi hozzáfűzése";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_AddNewWomanButton" = "Új nő hozzáfűzése";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_EditParentButton" = "Szerkesztés";
+
+/* EditFamilyController */
+"_EditFamilyBaseEditParentContentController_NoManPlaceholder" = "Ehhez a családhoz még nem fűzött hozzá férfit. Az alábbi gombok kiválasztásával új vagy meglévő férfit fűzhet hozzá ehhez a családhoz.";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_NoWomanPlaceholder" = "Ehhez a családhoz még nem fűzött hozzá nőt. Az alábbi gombok kiválasztásával új vagy meglévő nőt fűzhet hozzá ehhez a családhoz.";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_RemoveAsManButton" = "Törlés férfiként";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_RemoveAsPartner1Button" = "Törlés 1 partnerként";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_RemoveAsPartner2Button" = "Törlés 1 partnerként";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_RemoveAsWomanButton" = "Törlés nőként";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_RemoveFromFamilyInformative" = "Valóban el akarja távolítani ezt a szülőt ebből a családból? A szülő nem törlődik, de már nem tagja a családnak.";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_RemoveFromFamilyMessage" = "Törölje a '%@' szülőt?";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_ShowParentButton" = "Megmutatás";
+
+/* EditFamilyChildContentController */
+"_EditFamilyChildContentController_Title" = "Gyermekek";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_AddChildTopLevelButton" = "Gyermekek hozzáfűzése";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_AddExistingChildButton" = "Meglévő gyermek hozzáfűzése";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_AddNewChildButton" = "Új gyermek hozzáfűzése";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_ChildOrder" = "#%d gyermek";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_ChildOrderPopup" = "Saját gyermeksorrend";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_DeleteChildRelationInformative" = "Valóban el akarja távolítani ezt a gyermeket ebből a családból? A gyermek nem törlődik, de már nem tagja a családnak.";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_DeleteChildRelationMessage" = "Törölje a '%@' gyermeket a családból?";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_EditChildButton" = "Szerkesztés";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_LargePlaceholder" = "Nincsenek gyermekek";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_RemoveAsChildButton" = "Törlés gyermekként";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_SmallPlaceholder" = "Nem adott meg gyermeket ebbe a családban. Gyermek hozzáfűzésére használja a fenti gombokat.";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_Sorting_ByBirthDate" = "Születési dátum szerint";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_Sorting_ByName" = "Név szerint";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_Sorting_CustomOrder" = "Saját sorrend";
+
+/* (No Comment) */
+"_EditFamilyController_AddFatherPlaceholder" = "%@ apjának hozzáfűzése";
+
+/* (No Comment) */
+"_EditFamilyController_AddMotherPlaceholder" = "%@ anyjának hozzáfűzése";
+
+/* (No Comment) */
+"_EditFamilyController_AddNewFamily" = "Új család hozzáfűzése";
+
+/* (No Comment) */
+"_EditFamilyController_AddParent1Placeholder" = "%@ 1. szülő hozzáfűzése";
+
+/* (No Comment) */
+"_EditFamilyController_AddParent2Placeholder" = "%@ 2. szülő hozzáfűzése";
+
+/* (No Comment) */
+"_EditFamilyController_DeleteFamily" = "Család törlése";
+
+/* (No Comment) */
+"_EditFamilyController_DeleteFamilyQuestionMessage" = "Valóban törölje a családot?";
+
+/* (No Comment) */
+"_EditFamilyController_NoFamiliesPlaceholder_AddFamilyButton" = "Első család létrehozása";
+
+/* (No Comment) */
+"_EditFamilyController_NoFamiliesPlaceholder_Message" = "Ebben a családfában nincsenek családok. Az első család létrehozásához válassza ki az „Első család létrehozása” lehetőséget.";
+
+/* (No Comment) */
+"_EditFamilyController_NoFamiliesPlaceholder_Title" = "Nincsenek családok";
+
+/* (No Comment) */
+"_EditFamilyController_ParentsOfLabel" = "%@ szülei";
+
+/* (No Comment) */
+"_EditFamilyController_Title" = "Család szerkesztése";
+
+/* EditFamilyEditManContentController */
+"_EditFamilyEditManContentController_Title" = "Férfi";
+
+/* EditFamilyEditWomanContentController */
+"_EditFamilyEditWomanContentController_Title" = "Nő";
+
+/* (No Comment) */
+"_EditFamilyEventController_Title" = "Családesemény szerkesztése";
+
+/* EditFamilyTreeInformationContactContentController */
+"_EditFamilyTreeInformationContactContentController_Title" = "Szerző kapcsolat";
+
+/* (No Comment) */
+"_EditFamilyTreeInformationController_Title" = "Szerző";
+
+/* EditFamilyTreeInformationFamilyCrestContentController */
+"_EditFamilyTreeInformationFamilyCrestContentController_Title" = "Családi címer";
+
+/* EditFamilyTreeInformationHeaderContentController */
+"_EditFamilyTreeInformationHeaderContentController_LargeTitle" = "A családfa szerzőjéről";
+
+/* (No Comment) */
+"_EditFamilyTreeInformationIconSettingsContentController_AddToIconButton" = "Média hozzáfűzése icon-hoz";
+
+/* (No Comment) */
+"_EditFamilyTreeInformationIconSettingsContentController_RemoveMediaFromIconMenuItem" = "Törlés az iconból";
+
+/* EditFamilyTreeInformationIconSettingsContentController */
+"_EditFamilyTreeInformationIconSettingsContentController_Title" = "Iconbeállítások";
+
+/* (No Comment) */
+"_EditFamilyTreeInformationNameAndAddressContentController_NoNamePlaceholder" = "Nem írt be nevet";
+
+/* EditFamilyTreeInformationNameAndAddressContentController */
+"_EditFamilyTreeInformationNameAndAddressContentController_Title" = "Szerző neve és címe";
+
+/* (No Comment) */
+"_EditLabel_DeleteLabelMessage" = "Ezzel véglegesen törli ezt a címkét, és eltávolítja a családfája összes kapcsolódó beírásából.";
+
+/* Edit Labels Views */
+"_EditLabel_DeleteLabelTitle" = "Valóban törölje a címkét?";
+
+/* (No Comment) */
+"_EditLabelsContentController_NoLabelsLargePlaceholder" = "Nincsenek címkék";
+
+/* (No Comment) */
+"_EditLabelsContentController_NoLabelsSmallPlaceholder" = "Nincsenek címkék ebben a családfában. Címkék hozzáfűzéséhez használja a fenti gombot.";
+
+/* Shared Labels */
+"_EditLabelsContentController_Title" = "Címkék";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_AddEntryButton" = "Beírás hozzáfűzése";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_EditMediaRelationAssignmentButton" = "Hozzárendelési terület szerkesztése";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_LargePlaceholder" = "Nincsenek hozzárendelt beírások";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_RemoveFromMediaButton" = "Törlés";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_RemoveMediaFromEntryAndDeleteInformative" = "Mivel ez a médiumhoz rendelt utolsó beírás, eltávolítjuk a médiumot a családfáról.";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_RemoveMediaFromEntryAndDeleteMessage" = "Valóban törölni akarja ezt a médiát?";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_RemoveMediaFromEntryInformative" = "Ez nem törli a médiát, csak eltávolítja a beírás hozzárendelését ehhez a médiához.";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_RemoveMediaFromEntryMessage" = "Valóban törölni akarja ezt a '%@' beírást erről a médiáról?";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_SmallPlaceholder" = "Használja a fenti gombot beírások, mint személyek vagy családok hozzáfűzésére ehhez a médiához";
+
+/* EditMediaAssignedEntriesContentController */
+"_EditMediaAssignedEntriesContentController_Title" = "Hozzárendelt beírások";
+
+/* (No Comment) */
+"_EditMediaContentController_AddMediaButton" = "Média hozzáfűzése";
+
+/* (No Comment) */
+"_EditMediaContentController_BringToFrontMenuItem" = "Média előre rendelése";
+
+/* (No Comment) */
+"_EditMediaContentController_DeleteMediaQuestionInformative" = "Valóban törölni akarja ezt a médiát a családfájából?";
+
+/* (No Comment) */
+"_EditMediaContentController_DeleteMediaQuestionMessage" = "Valóban törölje a médiát?";
+
+/* (No Comment) */
+"_EditMediaContentController_DeleteMenuItem" = "Törlés";
+
+/* (No Comment) */
+"_EditMediaContentController_DoNotUseAsEntryImageMenuItem" = "Ne használja beírási képként";
+
+/* (No Comment) */
+"_EditMediaContentController_EditMenuItem" = "Szerkesztés...";
+
+/* (No Comment) */
+"_EditMediaContentController_LargePlaceholder" = "Nincs média";
+
+/* (No Comment) */
+"_EditMediaContentController_MarkAsNotPrivateMenuItem" = "Kijelölés nem privátként";
+
+/* (No Comment) */
+"_EditMediaContentController_MarkAsPrivateMenuItem" = "Kijelölés privátként";
+
+/* (No Comment) */
+"_EditMediaContentController_NoPicture_SmallPlaceholder" = "Képek hozzáfűzéséhez használja a fenti gombot.";
+
+/* (No Comment) */
+"_EditMediaContentController_ShowSlideshowButton" = "Diavetítés";
+
+/* (No Comment) */
+"_EditMediaContentController_SmallPlaceholder" = "Használja a fenti gombot fényképek, PDF-ek, videók, audiók vagy honlap hozzáfűzéséhez";
+
+/* Media */
+"_EditMediaContentController_Title" = "Médium";
+
+/* (No Comment) */
+"_EditMediaContentController_UseAsEntryImageMenuItem" = "Használja beírási képként";
+
+/* EditMediaController */
+"_EditMediaController_LargePlaceholder" = "Nincs média";
+
+/* (No Comment) */
+"_EditMediaController_SmallPlaceholder" = "Fűzzön hozzá médiát a média részekhez a személyek, családok vagy helyek szerkesztésekor";
+
+/* (No Comment) */
+"_EditMediaController_Title" = "Médium szerkesztése";
+
+/* (No Comment) */
+"_EditMediaCropColorizeContentController_Explanation" = "Válassza a fenti gombot a kép kivágásához, színezéséhez, karcolások eltávolításához, javításához vagy a háttér törléséhez.";
+
+/* (No Comment) */
+"_EditMediaCropColorizeContentController_OpenCropColorizeButton" = "Kép szerkesztése és javítása...";
+
+/* (No Comment) */
+"_EditMediaCropColorizeContentController_SuiteableForColorizeExplanation" = "Ez a kép alkalmasnak tűnik színezésre. Automatikusan kiszínezheti, javíthatja, eltávolíthatja a karcolásokat vagy levághatja a képeket a fenti gombbal.";
+
+/* EditMediaCropColorizeContentController */
+"_EditMediaCropColorizeContentController_Title" = "AI és színezés";
+
+/* EditMediaGeneralContentController */
+"_EditMediaGeneralContentController_Title" = "Általános";
+
+/* EditMediaMediaPreviewContentController */
+"_EditMediaMediaPreviewContentController_Title" = "Médium";
+
+/* (No Comment) */
+"_EditMediaMediaPreviewContentControlleriOSPlatformView_ShowAudioButton" = "Audio megmutatása...";
+
+/* (No Comment) */
+"_EditMediaMediaPreviewContentControlleriOSPlatformView_ShowFullImageButton" = "Teljes méretű kép megmutatása...";
+
+/* (No Comment) */
+"_EditMediaMediaPreviewContentControlleriOSPlatformView_ShowFullPDFButton" = "Teljes PDF megmutatása...";
+
+/* (No Comment) */
+"_EditMediaMediaPreviewContentControlleriOSPlatformView_ShowVideoButton" = "Video megmutatása...";
+
+/* (No Comment) */
+"_EditMediaMediaPreviewContentControlleriOSPlatformView_ShowWebsiteButton" = "Hhonlap megmutatása...";
+
+/* (No Comment) */
+"_EditNotesContentController_AddNoteButton" = "Új jegyzet hozzáfűzése";
+
+/* (No Comment) */
+"_EditNotesContentController_DeleteNoteQuestionMessage" = "Valóban törölni akarja a jegyzetet?";
+
+/* (No Comment) */
+"_EditNotesContentController_LargePlaceholder" = "Nincsenek jegyzetek";
+
+/* (No Comment) */
+"_EditNotesContentController_NoNoteTextPlaceholder" = "Nem írt be jegyzetszöveget";
+
+/* (No Comment) */
+"_EditNotesContentController_SmallPlaceholder" = "Használja a fenti gombot új jegyzet hozzáfűzéséhez";
+
+/* (No Comment) */
+"_EditNotesContentController_Sorting_ByChangeDate" = "Változtatási dátum szerint";
+
+/* (No Comment) */
+"_EditNotesContentController_Sorting_ByCreationDate" = "Létrehozási dátum szerint";
+
+/* (No Comment) */
+"_EditNotesContentController_Sorting_ByText" = "Szöveg szerint";
+
+/* EditNotesContentController */
+"_EditNotesContentController_Title" = "Jegyzetek";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_AddAdditionalNameButton" = "Név hozzáfűzése";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_AdditionalNamePlaceholder" = "%@ – Ide írja be az információkat";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_DeleteAdditionalNameQuestionInformative" = "Valóban törölni akarja ezt a további nevet?";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_DeleteAdditionalNameQuestionMessage" = "Törölje a '%@' további nevet?";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_EditAdditionalNameConclusionTypes" = "További névtípusok szerkesztése...";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_LargePlaceholder" = "Nincsenek további nevek";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_SmallPlaceholder" = "Új további név hozzáfűzéséhez használja a fenti gombot.";
+
+/* EditPerson Additional Names */
+"_EditPersonAdditionalNamesContentController_Title" = "További nevek";
+
+/* (No Comment) */
+"_EditPersonController_AddBrotherMenuItem" = "Új fiú testvér hozzáfűzése";
+
+/* (No Comment) */
+"_EditPersonController_AddChildPlaceholder" = "Új gyermek hozzáfűzése";
+
+/* (No Comment) */
+"_EditPersonController_AddExistingFurtherPartnerMenuItem" = "Meglévő személy hozzáfűzése további partnerként...";
+
+/* (No Comment) */
+"_EditPersonController_AddExistingPersonAsChildMenuItem" = "Meglévő személy hozzáfűzése gyermekként...";
+
+/* (No Comment) */
+"_EditPersonController_AddExistingPersonAsFatherMenuItem" = "Meglévő személy hozzáfűzése apaként...";
+
+/* (No Comment) */
+"_EditPersonController_AddExistingPersonAsMotherMenuItem" = "Meglévő személy hozzáfűzése anyaként...";
+
+/* (No Comment) */
+"_EditPersonController_AddExistingPersonAsPartnerMenuItem" = "Meglévő személy hozzáfűzése partnerként...";
+
+/* EditPersonController */
+"_EditPersonController_AddFatherPlaceholder" = "Új apa hozzáfűzése";
+
+/* (No Comment) */
+"_EditPersonController_AddFurtherFather" = "További apa hozzáfűzése";
+
+/* (No Comment) */
+"_EditPersonController_AddFurtherMother" = "További anya hozzáfűzése";
+
+/* (No Comment) */
+"_EditPersonController_AddFurtherPartnerMenuItem" = "További partner hozzáfűzése";
+
+/* (No Comment) */
+"_EditPersonController_AddMotherPlaceholder" = "Új anya hozzáfűzése";
+
+/* (No Comment) */
+"_EditPersonController_AddNewPersonAsChildMenuItem" = "Új gyermek hozzáfűzése";
+
+/* (No Comment) */
+"_EditPersonController_AddNewPersonAsFatherMenuItem" = "Új apa hozzáfűzése";
+
+/* (No Comment) */
+"_EditPersonController_AddNewPersonAsMotherMenuItem" = "Új anya hozzáfűzése";
+
+/* (No Comment) */
+"_EditPersonController_AddNewPersonAsPartnerMenuItem" = "Új partner hozzáfűzése";
+
+/* (No Comment) */
+"_EditPersonController_AddNewPersonMenuItem" = "Új személy hozzáfűzése";
+
+/* (No Comment) */
+"_EditPersonController_AddPartnerPlaceholder" = "Új partner hozzáfűzése";
+
+/* (No Comment) */
+"_EditPersonController_AddSisterMenuItem" = "Új lány testvér hozzáfűzése";
+
+/* (No Comment) */
+"_EditPersonController_BrotherOrSisterOfFamilyMenuItem" = "'%@' fiú & lánytestvérei a családban...";
+
+/* (No Comment) */
+"_EditPersonController_ChildRelationTypeForFatherMenuItem" = "Kapcsolat az %@ apához";
+
+/* (No Comment) */
+"_EditPersonController_ChildRelationTypeForMotherMenuItem" = "Kapcsolat az %@ anyához";
+
+/* (No Comment) */
+"_EditPersonController_ChildRelationTypeMenuItem" = "Gyermekviszonytípus";
+
+/* (No Comment) */
+"_EditPersonController_DeleteFamily" = "Család törlése";
+
+/* (No Comment) */
+"_EditPersonController_DeletePerson" = "Személy törlése";
+
+/* (No Comment) */
+"_EditPersonController_DeletePersonMenuItem" = "'%@' törlése...";
+
+/* (No Comment) */
+"_EditPersonController_EditFamilyMenuItem" = "%@ család szerkesztése";
+
+/* (No Comment) */
+"_EditPersonController_EditFamilyMenuItem_WithoutPlaceholder" = "Család szerkesztése";
+
+/* (No Comment) */
+"_EditPersonController_EditPersonMenuItem" = "%@ szerkesztése";
+
+/* (No Comment) */
+"_EditPersonController_NoPersonsPlaceholder_AddPersonButton" = "Első személy létrehozása";
+
+/* (No Comment) */
+"_EditPersonController_NoPersonsPlaceholder_Message" = "Ebben a családfában nincsenek személyek. Az első személy létrehozásához válassza ki az \"Első személy létrehozása\" lehetőséget.";
+
+/* (No Comment) */
+"_EditPersonController_NoPersonsPlaceholder_Title" = "Nincsenek személyek";
+
+/* (No Comment) */
+"_EditPersonController_ParentsOptionsButton" = "Szülő opciók...";
+
+/* (No Comment) */
+"_EditPersonController_PartnerOptionsButton" = "Partner opciók...";
+
+/* (No Comment) */
+"_EditPersonController_RemovePersonFromFamilyMenuItem" = "Törli %@-t a családból";
+
+/* (No Comment) */
+"_EditPersonController_RemovePersonQuestionInformative" = "Ez nem törli a személyt a családfájából, de eltávolítja a családból.";
+
+/* (No Comment) */
+"_EditPersonController_RemovePersonQuestionMessage" = "Valóban törölni akarja a '%@' személyt a '%@' családból?";
+
+/* (No Comment) */
+"_EditPersonController_SelectFamily" = "Család kiválasztása";
+
+/* (No Comment) */
+"_EditPersonController_ShowOldestAncestorsMenuItem" = "A legrégebbi ősök…";
+
+/* (No Comment) */
+"_EditPersonController_ShowYoungestAncestorsMenuItem" = "A legfiatalabb utódok…";
+
+/* Titles */
+"_EditPersonController_Title" = "Személy szerkesztése";
+
+/* (No Comment) */
+"_EditPersonDNAContentController_AddDNATest" = "DNS teszteredmény hozzáfűzése";
+
+/* (No Comment) */
+"_EditPersonDNAContentController_EditDNATestResultButton" = "DNS adat";
+
+/* (No Comment) */
+"_EditPersonDNAContentController_LargePlaceholder" = "Nem adott meg DNS teszteredményt";
+
+/* (No Comment) */
+"_EditPersonDNAContentController_SmallPlaceholder" = "Használja a fenti gombot DNS teszteredmények hozzáfűzésére ehhez a személyhez";
+
+/* (No Comment) */
+"_EditPersonDNAContentController_Sorting_ByDate" = "Dátum szerint";
+
+/* (No Comment) */
+"_EditPersonDNAContentController_Sorting_ByTitle" = "Titulus szerint";
+
+/* EditPersonDNAContentController */
+"_EditPersonDNAContentController_Title" = "DNS";
+
+/* (No Comment) */
+"_EditPersonEventController_Title" = "Személyesemény szerkesztése";
+
+/* (No Comment) */
+"_EditPersonFactController_Title" = "Személytény szerkesztése";
+
+/* EditPersonFactGeneralContentController */
+"_EditPersonFactGeneralContentController_Title" = "Általános";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_AddFactButton" = "Tény hozzáfűzése";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_DeleteFactQuestionMessage" = "Törölje a személytényt?";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_EditFactDetails" = "Tényrészletek szerkesztése";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_EditPersonFactConclusionTypes" = "Személyténytípus szerkesztése";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_FactPlaceholder" = "%@ – Ide írja be az információkat";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_LargePlaceholder" = "Nincsenek tények";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_SmallPlaceholder" = "Új tény hozzáfűzéséhez használja a fenti gombot.";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_Sorting_ByFactType" = "Tény dátuma szerint";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_Sorting_ByFactValue" = "Tény értéke szerint";
+
+/* EditPersonFactsContentController */
+"_EditPersonFactsContentController_Title" = "Tények";
+
+/* (No Comment) */
+"_EditPersonFamilySearchContentController_DetailsButton" = "Részlet";
+
+/* EditPersonFamilySearchContentController */
+"_EditPersonFamilySearchContentController_Title" = "FamilySearch";
+
+/* (No Comment) */
+"_EditPersonGroupController_AddPersonGroupButton" = "Első személycsoport létrehozása";
+
+/* EditPersonGroupController */
+"_EditPersonGroupController_LargePlaceholder" = "Nincsenek személycsoportok";
+
+/* (No Comment) */
+"_EditPersonGroupController_SmallPlaceholder" = "Ebben a családfában nincsenek személycsoportok. A személycsoportok segítségével külön ágakat emelhet ki a családfában. Kérjük, válassza az \"Első személycsoport létrehozása\" lehetőséget az első személycsoport létrehozásához.";
+
+/* (No Comment) */
+"_EditPersonGroupController_Title" = "Személycsoport szerkesztése";
+
+/* (No Comment) */
+"_EditPersonGroupGeneralContentController_NamePlaceholder" = "Nem adott meg nevet";
+
+/* (No Comment) */
+"_EditPersonGroupGeneralContentController_Title" = "Általános";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_AddPersonToGroupButton" = "Személyek hozzáfűzése";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_DeletePersonGroupRelationInformative" = "Ez nem törli sem a személyt, sem a személycsoportot, de a személy törlődik ebből a személycsoportból.";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_DeletePersonGroupRelationMessage" = "Törölje '%@'-t a '%@' személycsoportból?";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_LargePlaceholder" = "Nincs személy ebben a személycsoportban";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_ManagePersonsInGroupButton" = "Személyek rendezése";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_RemoveFromPersonGroupButton" = "Törlés a csoportból";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_SmallPlaceholder" = "Használja a fenti gombot személyek hozzáfűzéséhez személycsoporthoz";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_Sorting_ByBirthDate" = "Születési dátum szerint";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_Sorting_ByName" = "Név szerint";
+
+/* EditPersonGroupPersonsInGroupContentController */
+"_EditPersonGroupPersonsInGroupContentController_Title" = "Személyek a csoportban";
+
+/* (No Comment) */
+"_EditPersonGroupsContentController_NoPersonGroupsLargePlaceholder" = "Nincsenek személycsoportok";
+
+/* (No Comment) */
+"_EditPersonGroupsContentController_NoPersonGroupsSmallPlaceholder" = "Nem fűztek hozzá személycsoportokat ehhez a családfához. Személycsoportok hozzáfűzéséhez használja a Személycsoportok funkciót.";
+
+/* _EditPersonGroupsContentController_Title */
+"_EditPersonGroupsContentController_Title" = "Személycsoportok";
+
+/* EditPerson Name */
+"_EditPersonNameContentController_Title" = "Név és nem";
+
+/* (No Comment) */
+"_EditPersonNumberingSystemContentController_NoNumberingSystemAssigned" = "Válasszon egy számozási rendszert ezzel a személlyel kezdődően az alábbi gomb segítségével:";
+
+/* (No Comment) */
+"_EditPersonNumberingSystemContentController_NumberingSystemAssignedAndHasValueAndIsNotStartPerson" = "Ennek a személynek az aktuális számozási rendszerben a következővel kezdődő száma van:";
+
+/* (No Comment) */
+"_EditPersonNumberingSystemContentController_NumberingSystemAssignedAndIsStartPerson" = "Ez a személy a kezdő személy a jelenlegi számozási rendszerben (%@).";
+
+/* (No Comment) */
+"_EditPersonNumberingSystemContentController_NumberingSystemAssignedAndPersonHasNoValue" = "Ennek a személynek nincs száma az aktuális számozási rendszerben. Ez azt jelenti, hogy ez a személy nem őse vagy leszármazottja a számozási rendszer kezdő személyének (%@):";
+
+/* (No Comment) */
+"_EditPersonNumberingSystemContentController_SetNumberingSystemTopLevelMenuItem" = "Számozási rendszer...";
+
+/* EditPersonNumberingSystemContentController */
+"_EditPersonNumberingSystemContentController_Title" = "Számozási rendszer";
+
+/* (No Comment) */
+"_EditPlaceAlternateNamesContentController_AlternatePlaceNamesPlaceholder" = "Írja be ide az esetleges alternatív helyneveket";
+
+/* EditPlaceAlternateNamesContentController */
+"_EditPlaceAlternateNamesContentController_Title" = "Alternatív helynevek";
+
+/* EditPlaceController */
+"_EditPlaceController_LargePlaceholder" = "Nincsenek helyek";
+
+/* (No Comment) */
+"_EditPlaceController_LookupNewPlaceButton" = "Első hely keresése";
+
+/* (No Comment) */
+"_EditPlaceController_SmallPlaceholder" = "Adja meg a helyeket személy- vagy családeseményekhez, vagy használja az alábbi gombot új hely kereséséhez.";
+
+/* (No Comment) */
+"_EditPlaceController_Title" = "Hely szerkesztése";
+
+/* (No Comment) */
+"_EditPlaceCoordinateContentController_AddCoordinateButton" = "Manuális beírás";
+
+/* (No Comment) */
+"_EditPlaceCoordinateContentController_DeleteCoordinateQuestionMessage" = "Törölje a kordinátákat?";
+
+/* (No Comment) */
+"_EditPlaceCoordinateContentController_LargePlaceholder" = "Nem adott meg koordinátákat";
+
+/* (No Comment) */
+"_EditPlaceCoordinateContentController_LookupButton" = "Kereső";
+
+/* (No Comment) */
+"_EditPlaceCoordinateContentController_SmallPlaceholder" = "Használja a fenti gombokat a hely koordinátáinak manuális megadásához, vagy keresse meg azokat a hely nevének megadásával.";
+
+/* (No Comment) */
+"_EditPlaceCoordinateContentController_SmallPlaceholder_CTW" = "Koordináták manuális beírásához használja a fenti gombot.";
+
+/* EditPlaceCoordinateContentController */
+"_EditPlaceCoordinateContentController_Title" = "Koordináták";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_AddCoordinateButton" = "Koordináták hozzáfűzése";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_AddEmptyPlaceDetail" = "Üres helyrészlet hozzáfűzése";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_AddPlaceDetail" = "Hozzáfűzés";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_DeletePlaceDetailQuestionMessage" = "Valóban törölni akarja a helyrészlatet?";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_EventCount" = "Események száma";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_LargePlaceholder" = "Nem írt be helyrészt";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_LookupCoordinateButton" = "Koordináta keresése...";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_MegeWithOtherPlaceDetailButton" = "Vonja össze más helyrészlettel";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_NoNamePlaceholder" = "Nem írt be helyrésznevet";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_RemoveCoordinateButton" = "Koordináták törlése";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_SearchOtherPlaceDetail" = "Új helyrészlet keresése...";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_SmallPlaceholder" = "Használja a fenti „Hozzáfűzés” gombot helyrészletek hozzáfűzéséhez. A helyrészletek az adott hely konkrét címei, szakaszai vagy egyéb érdekességek.";
+
+/* EditPlaceDetailsContentController */
+"_EditPlaceDetailsContentController_Title" = "Helyrészletek";
+
+/* (No Comment) */
+"_EditPlaceEventsAtPlaceContentController_LargePlaceholder" = "Nem fűzött hozzá eseményeket";
+
+/* (No Comment) */
+"_EditPlaceEventsAtPlaceContentController_RemoveFromPlace" = "Törlés a helyből";
+
+/* (No Comment) */
+"_EditPlaceEventsAtPlaceContentController_SmallPlaceholder" = "Nem fűztek hozzá  személyt vagy családeseményt ehhez a helyhez. A „Személyek” vagy a „Család” szakaszban rendelhet hozzá helyeket az eseményekhez.";
+
+/* (No Comment) */
+"_EditPlaceEventsAtPlaceContentController_Sorting_ByDate" = "Esemény dátuma szerint";
+
+/* (No Comment) */
+"_EditPlaceEventsAtPlaceContentController_Sorting_ByType" = "Esemény típusa szerint";
+
+/* EditPlaceEventsAtPlaceContentController */
+"_EditPlaceEventsAtPlaceContentController_Title" = "Események a helyen";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_AddField" = "Mező hozzáfűzése...";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_AddTemplateKeyToTemplate" = "'%@' hozzáfűzése '%@' sablonhoz";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_DeleteFieldContentsInformative" = "Valóban törölni szeretné ezt a további információt az aktuálisan kijelzett helyről?";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_DeleteFieldContentsMessage" = "Törölje ezt az információt a forrásból?";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_EditTemplateKeys" = "Helymezők szerkesztése...";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_LargePlaceholder" = "Nem adott meg további hely mezőt";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_SmallPlaceholder" = "A fenti gomb segítségével további helymezőket adhat hozzá ehhez a helyhez, amelyek nem szerepelnek az aktuálisan kiválasztott sablonban.";
+
+/* EditPlaceFurtherPlaceNameFieldsContentController */
+"_EditPlaceFurtherPlaceNameFieldsContentController_Title" = "További helynévmezők";
+
+/* (No Comment) */
+"_EditPlaceHeaderContentController_EventCountTitlePlural" = "%d esemény ezen a helyen";
+
+/* EditPlaceHeaderContentController */
+"_EditPlaceHeaderContentController_EventCountTitleSingular" = "Egy esemény ezen a helyen";
+
+/* (No Comment) */
+"_EditPlaceHeaderContentController_EventsDateRangePlural" = "Események dátumtartománya";
+
+/* (No Comment) */
+"_EditPlaceHeaderContentController_EventsDateRangeSingular" = "Esemény dátuma";
+
+/* (No Comment) */
+"_EditPlaceHeaderContentController_PlaceDetailCountTitlePlural" = "%d helyrészletek";
+
+/* (No Comment) */
+"_EditPlaceHeaderContentController_PlaceDetailCountTitleSingular" = "Egy helyrészlelt";
+
+/* _EditPlaceLinksContentController_OtherLanguagesButton */
+"_EditPlaceLinksContentController_Title" = "Honlapok";
+
+/* (No Comment) */
+"_EditPlaceNameContentController_EditTemplates" = "Helysablonok szerkesztése...";
+
+/* EditPlaceNameContentController */
+"_EditPlaceNameContentController_Title" = "Helynév";
+
+/* (No Comment) */
+"_EditPlacePane_Map_PlaceholderButton" = "Koordináták keresése...";
+
+/* (No Comment) */
+"_EditPlacePane_Map_PlaceholderMessage" = "A kiválasztott hely helyének térképen való megjelenítéséhez kérjük, keresse meg ennek a helynek a földrajzi koordinátáját:";
+
+/* (No Comment) */
+"_EditPlacePane_Map_PlaceholderMessagePlaceDetail" = "A kiválasztott helyrészlet helyének térképen való megjelenítéséhez kérjük, keresse meg ennek a helyrészletnek a földrajzi koordinátáit";
+
+/* EditPlacePane */
+"_EditPlacePane_Map_PlaceholderTitle" = "Nincsenek koordináták";
+
+/* (No Comment) */
+"_EditPlacePane_MapKitTypePopupButton" = "Térképtípus";
+
+/* (No Comment) */
+"_EditPlacePane_MapKitTypePopupButton_FromPreferences" = "A preferenciáknak megfelelően";
+
+/* (No Comment) */
+"_EditPlacePane_MapKitTypePopupButton_Hybrid" = "Hibrid";
+
+/* (No Comment) */
+"_EditPlacePane_MapKitTypePopupButton_Satellite" = "Műhold";
+
+/* (No Comment) */
+"_EditPlacePane_MapKitTypePopupButton_Standard" = "Standard";
+
+/* (No Comment) */
+"_EditPlacePane_MapKitTypePopupButton_StandardMuted" = "Standard (némított)";
+
+/* (No Comment) */
+"_EditPlacePane_MapOptionsButton" = "Térkép opciók";
+
+/* (No Comment) */
+"_EditPlacePane_OnlyShowPlaceDetailsForSelectedPlaceOnMapCheckbox" = "Csak akkor jeleníti meg a hely részleteit, ha kiválasztotta a helyet";
+
+/* (No Comment) */
+"_EditPlacePane_OnlyShowSelectedPlaceOnMapCheckbox" = "Csak a kiválasztott helyet mutatja meg a térképen";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton" = "Gombostű színe";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton_ByEventCount_BlueToMagentaToOrange" = "Eseményszám szerint (kék-magenta-narancs)";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton_ByEventCount_BlueToRed" = "Eseményszám szerint (kéktől pirosig)";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton_ByEventCount_GreenToYellowToRed" = "Eseményszám szerint (zöld-sárga-piros)";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton_ByEventCount_TurquoiseToYellowToLightRed" = "Eseményszám szerint (türkizkék-sárga-világospiros)";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton_ByEventCount_YellowToRed" = "Eseményszám szerint (sárgától pirosig)";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton_SingleColor" = "Egyszínű";
+
+/* (No Comment) */
+"_EditPlacePane_ShowEventCountOnPlacePins" = "Eseményszám megmutatása a gombostűkön";
+
+/* (No Comment) */
+"_EditPrivateContentController_Explanation" = "Ha kiválasztja, ezek az információk nem jelennek meg a diagramokon vagy a beszámolókban";
+
+/* (No Comment) */
+"_EditPrivateContentController_MarkAsPrivate" = "Kijelölve privátként";
+
+/* EditPrivateContentController */
+"_EditPrivateContentController_Title" = "Privát";
+
+/* EditReferenceNumbersContentController */
+"_EditReferenceNumbersContentController_Title" = "Hivatkozási számok";
+
+/* (No Comment) */
+"_EditSourceContentController_AddToDoButton" = "Első forrás létrehozása";
+
+/* (No Comment) */
+"_EditSourceContentController_DeleteSourceQuestionMessage" = "Valóban törölni akarja ezt a forrást?";
+
+/* EditSourceContentController */
+"_EditSourceContentController_LargePlaceholder" = "Nincsenek források";
+
+/* (No Comment) */
+"_EditSourceContentController_SmallPlaceholder" = "Ebben a családfában nincsenek források. Az első forrás létrehozásához válassza ki az \"Első forrás létrehozása\" lehetőséget.";
+
+/* (No Comment) */
+"_EditSourceController_Title" = "Forrás szerkesztése";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_AddField" = "Mező hozzáfűzése...";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_AddTemplateKeyToTemplate" = "'%@' hozzáfűzése '%@' sablonhoz";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_DeleteFieldContentsInformative" = "Valóban törölni akarja ezt a ezt a további információt az aktuálisan kijelzett forrásból?";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_DeleteFieldContentsMessage" = "Törölje ezt az információt a forrásból?";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_EditTemplateKeys" = "Forrásmezők szerkesztése…";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_LargePlaceholder" = "Nem adott meg további információs mezőket";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_SmallPlaceholder" = "A fenti gombbal további, az aktuálisan kiválasztott sablonban nem szereplő információkat is hozzáfűzhet ehhez a forráshoz.";
+
+/* EditSourceFurtherFieldsContentController */
+"_EditSourceFurtherFieldsContentController_Title" = "További információ";
+
+/* (No Comment) */
+"_EditSourceGeneralContentController_EditSourceRepository" = "Forrásarhívumok szerkesztése…";
+
+/* (No Comment) */
+"_EditSourceGeneralContentController_EditTemplates" = "Forrássablonok szerkesztése...";
+
+/* EditSourceGeneralContentController */
+"_EditSourceGeneralContentController_Title" = "Forrásinformáció";
+
+/* (No Comment) */
+"_EditSourceGeneralContentController_TitlePlaceholder" = "Nem határozott meg címet";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_AddEntryToSourceButton" = "Beírás hozzáfűzése";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_CitationNotes" = "Idézet-jegyzet";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_LargePlaceholder" = "Nincsenek hivatkozott beírások";
+
+/* EditSourceReferencedEntriesContentController */
+"_EditSourceReferencedEntriesContentController_RemoveFromSourceButton" = "Törlés a forrásból";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_SmallPlaceholder" = "Használja a fenti gombot referenciabeírások hozzáfűzéséhez";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_Sorting_ByPage" = "Oldal szerint";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_Sorting_ByType" = "Típus szerint";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_Title" = "Hivatkozott beírások";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_EvidenceExplanation" = "Adja meg, hogy a hivatkozott beírás bizonyítéka ebben a forrásban negatív, közvetett vagy közvetlen.";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_EvidenceQuality" = "Bizonyítékminőség";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_GeneralExplanation" = "Adja meg ennek a referenciabeírásnak a forrás-, az információ- és a bizonyítékminőségét az említett forrásra vonatkozóan";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_InformationExplanation" = "Az ebben a forrásban szereplő információk első kézből vagy másodkézből származnak?";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_InformationQuality" = "Információminőség";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_QualityExplanation" = "Válassza ki, hogy a forrás az eredeti dokumentum-e, vagy derivált forrás volt.";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_SourceQuality" = "Forrásminőség";
+
+/* EditSourceRelationCertaintySettingsCertaintyViewContentController */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_Title" = "Forrásbiztosság";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_AddExistingSourceMenuItem" = "Meglévő forrás hozzáfűzése...";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_AddNewSourceMenuItem" = "Új forrás hozzáfűzése";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_AddSourceButton" = "Forrás hozzáfűzése";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_CitedSource" = "Idézett forrás";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_CopySourceCitation" = "Forrásidézet másolása";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_DeleteSourceMenuItem" = "Forrás törlése";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_LargePlaceholder" = "Nincs forrásIdézet";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_PasteSourceCitation" = "Forrásidézet bevitele";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_RemoveObjectFromSourceInformative" = "Valóban törölni akarja ezt a forráshivatkozást? Ez nem törli a forrást, de törli ezt a beírást a forrásból.";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_RemoveObjectFromSourceMessage" = "Törölje a beírást a '%@' forrásból?";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_SmallPlaceholder" = "Használja a fenti gombot a forráshivatkozások hozzáfűzésére ehhez a beíráshoz";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_Sorting_ByCertainty" = "Válogatás forrásbiztosság szerint";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_Sorting_ByDate" = "Válogatás forrásdátum szerint";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_Sorting_ByPage" = "Válogatás oldalszám szerint";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_Sorting_ByTitle" = "Válogatás forráscím szerint";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_SourceDate" = "Forrás időpontja";
+
+/* EditSourceRelationsContentController */
+"_EditSourceRelationsContentController_Title" = "Forrásidézetek";
+
+/* (No Comment) */
+"_EditSourceSourceRepositoryContentController_NoSourceRepository" = "Nincs forrásarhívum";
+
+/* EditSourceSourceRepositoryContentController */
+"_EditSourceSourceRepositoryContentController_Title" = "Forrásarhívumok";
+
+/* (No Comment) */
+"_EditSourceTextContentController_LargePlaceholder" = "Nem írt be szöveget";
+
+/* (No Comment) */
+"_EditSourceTextContentController_SmallPlaceholder" = "Kattintson ide a forrás szövegének beírásához";
+
+/* EditSourceTextContentController */
+"_EditSourceTextContentController_Title" = "Forrásszöveg";
+
+/* (No Comment) */
+"_EditStoryContentController_AddStoryButton" = "Első történet hozzáfűzése";
+
+/* (No Comment) */
+"_EditStoryContentController_LargePlaceholder" = "Nincsen jelen történet";
+
+/* (No Comment) */
+"_EditStoryContentController_SmallPlaceholder" = "Jelenleg nincs történet hozzáfűzve ehhez a családfához. A történetek segítségével elmondhatja és rögzítheti családtörténetének különleges eseményeit. Az első történet létrehozásához válassza ki az \"Első történet hozzáfűzése\" lehetőséget.";
+
+/* (No Comment) */
+"_EditStoryController_Title" = "Történet szerkesztése";
+
+/* EditStoryController */
+"_EditStoryGeneralContentController_Title" = "Általános";
+
+/* (No Comment) */
+"_EditStoryGeneralContentController_TitlePlaceholder" = "Nem adott meg címet";
+
+/* (No Comment) */
+"_EditStoryReferencedEntriesContentController_AddEntryToStoryButton" = "Beírás hozzáfűzése";
+
+/* (No Comment) */
+"_EditStoryReferencedEntriesContentController_LargePlaceholder" = "Nincsenek hivatkozott beírások";
+
+/* (No Comment) */
+"_EditStoryReferencedEntriesContentController_SmallPlaceholder" = "Használja a gombokat olyan személyek, események vagy családok hozzáfűzéséhez, amelyekre ebben a történetben hivatkozik.";
+
+/* (No Comment) */
+"_EditStoryReferencedEntriesContentController_Title" = "Hivatkozott beírások";
+
+/* (No Comment) */
+"_EditStoryRelationsContentController_AddExistingStoryMenuItem" = "Meglévő történet hozzáfűzése...";
+
+/* (No Comment) */
+"_EditStoryRelationsContentController_AddExistingStorySectionMenuItem" = "Meglévő történetszakasz hozzáfűzése...";
+
+/* (No Comment) */
+"_EditStoryRelationsContentController_AddNewStoryMenuItem" = "Új történet hozzáfűzése";
+
+/* (No Comment) */
+"_EditStoryRelationsContentController_AddStoryButton" = "Történet hozzáfűzése";
+
+/* (No Comment) */
+"_EditStoryRelationsContentController_LargePlaceholder" = "Nincsen jelen történet";
+
+/* (No Comment) */
+"_EditStoryRelationsContentController_SmallPlaceholder" = "Használja a fenti gombot új vagy meglévő történet hozzáfűzéséhez.";
+
+/* EditStoryRelationsContentController */
+"_EditStoryRelationsContentController_Title" = "Történetek";
+
+/* (No Comment) */
+"_EditStorySectionReferencedEntriesContentController_AddEntryToStorySectionButton" = "Beírás hozzáfűzése";
+
+/* (No Comment) */
+"_EditStorySectionReferencedEntriesContentController_LargePlaceholder" = "Nincsenek hivatkozott beírások";
+
+/* (No Comment) */
+"_EditStorySectionReferencedEntriesContentController_SmallPlaceholder" = "Használja a gombokat az ebben a történetben hivatkozott személyek, események vagy családok hozzáfűzéséhez.";
+
+/* EditStorySectionReferencedEntriesContentController */
+"_EditStorySectionReferencedEntriesContentController_Title" = "Hivatkozott beírások a szakaszban";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_AddMedia" = "Médium hozzáfűzése";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_AddStorySecton" = "Történetszakasz hozzáfűzése";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_LargePlaceholder" = "Nincs jelen történetszakasz";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_MoveDown" = "A szakasz mozgatása lefelé";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_MoveUp" = "A szakasz mozgatása felfelé";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_NoStorySectionRelationsPlaceholder" = "Nincsenek hivatkozott beírások";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_NoSubtitlePlaceholder" = "Nem adott meg szakaszcímet";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_NoTextPlaceholder" = "Nem adott meg szakaszszöveget";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_SmallPlaceholder" = "Használja a fenti gombot egy első szakasz hozzáadásához ehhez a történethez";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_StorySectionRelations" = "Hivatkozott beírások a szakaszban";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_Title" = "Történetszakaszok";
+
+/* (No Comment) */
+"_EditToDoAssignedEntriesContentController_AddEntryButton" = "Beírás hozzáfűzése";
+
+/* (No Comment) */
+"_EditToDoAssignedEntriesContentController_LargePlaceholder" = "Nincsenek hozzárendelt beírások";
+
+/* (No Comment) */
+"_EditToDoAssignedEntriesContentController_SmallPlaceholder" = "Kattintson a fenti gombra, ha beírást szeretne hozzáfűzni a családfájából ehhez a feladathoz";
+
+/* (No Comment) */
+"_EditToDoAssignedEntriesContentController_Sorting_ByDate" = "Dátum szerint";
+
+/* (No Comment) */
+"_EditToDoAssignedEntriesContentController_Sorting_ByName" = "Név szerint";
+
+/* EditToDoAssignedEntriesContentController */
+"_EditToDoAssignedEntriesContentController_Title" = "Hozzárendelt beírások";
+
+/* (No Comment) */
+"_EditToDoContentController_AddExistingToDoMenuItem" = "Meglévő feladat hozzáfűzése";
+
+/* (No Comment) */
+"_EditToDoContentController_AddNewToDoMenuItem" = "Új feladat hozzáfűzése";
+
+/* (No Comment) */
+"_EditToDoContentController_AddToDoButton" = "Feladat hozzáfűzése";
+
+/* (No Comment) */
+"_EditToDoContentController_LargePlaceholder" = "Nincsenek feladatok";
+
+/* (No Comment) */
+"_EditToDoContentController_NoDateEnteredPlaceholder" = "Nem adott meg dátumot";
+
+/* (No Comment) */
+"_EditToDoContentController_NoTitleEnteredPlaceholder" = "Nem írt be címet";
+
+/* (No Comment) */
+"_EditToDoContentController_RemoveFromToDoButton" = "Törlés a feladatból";
+
+/* (No Comment) */
+"_EditToDoContentController_SmallPlaceholder" = "Használja a fenti gombot új feladat hozzáfűzéséhez vagy egy létező feladathoz csatolásra";
+
+/* EditToDosContentController */
+"_EditToDoContentController_Title" = "Feladatok";
+
+/* (No Comment) */
+"_EditToDoController_AddToDoButton" = "Első feladat hozzáfűzése";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosInformative" = "Valóban törölni akarja a családfájáról az összes késznek kijelölt feladatot?";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosInformative_NoDoneFound" = "A családfájában nem találtunk elvégzettnek jelölt feladatokat, így egyiket sem töröltük.";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosMessage" = "Valóban törölni akarja %d késznek kijelölt feladatokat?";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosMessage_NoDoneFound" = "Nincs késznek kijelölt feladat";
+
+/* EditToDoController */
+"_EditToDoController_LargePlaceholder" = "Nincsenek feladatok";
+
+/* (No Comment) */
+"_EditToDoController_SmallPlaceholder" = "Ebben a családfában nincsenek feladatok. Az első feladat létrehozásához válassza ki az „Első feladat létrehozása” lehetőséget.";
+
+/* (No Comment) */
+"_EditToDoController_Title" = "Feladat szerkesztése";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditPriorityConclusionTypes" = "Prioritástípus szerkesztése...";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditStatusConclusionTypes" = "Státusztípus szerkesztése...";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditTypeConclusionTypes" = "Típusok szerkesztése...";
+
+/* EditToDoGeneralContentController */
+"_EditToDoGeneralContentController_Title" = "Általános";
+
+/* (No Comment) */
+"_EditToDosContentController_Sorting_ByDueDate" = "Esedékesség napja szerint";
+
+/* (No Comment) */
+"_EditToDosContentController_Sorting_ByPriority" = "Prioritás szerint";
+
+/* (No Comment) */
+"_EditToDosContentController_Sorting_ByStatus" = "Státusz szerint";
+
+/* (No Comment) */
+"_EditToDosContentController_Sorting_ByTitle" = "Titulus szerint";
+
+/* (No Comment) */
+"_EditToDosContentController_Sorting_ByType" = "Típus szerint";
+
+/* (No Comment) */
+"_EditToDoTextContentController_LargePlaceholder" = "Nem írt be szöveget";
+
+/* (No Comment) */
+"_EditToDoTextContentController_SmallPlaceholder" = "Kattintson ide a feladat szövegének beírásához";
+
+/* EditToDoTextContentController */
+"_EditToDoTextContentController_Title" = "Szöveg";
+
+/* (No Comment) */
+"_FreeformControlsEventsControlDescription_NEvents" = "%d események";
+
+/* (No Comment) */
+"_FreeformControlsEventsControlDescription_OneEvent" = "1 esemény";
+
+/* Specialized Freeform Controls */
+"_FreeformControlsNotesControlDescription_NNotes" = "%d jegyzetek";
+
+/* (No Comment) */
+"_FreeformControlsNotesControlDescription_OneNote" = "1 jegyzet";
+
+/* (No Comment) */
+"_FreeformControlsSourceRelationsControlDescription_NSources" = "%d források";
+
+/* (No Comment) */
+"_FreeformControlsSourceRelationsControlDescription_OneSource" = "1 forrás";
+
+/* (No Comment) */
+"_FreeformControlsStorySectionRelationsControlDescription_NRelations" = "%d hivatkozott beírás";
+
+/* (No Comment) */
+"_FreeformControlsStorySectionRelationsControlDescription_OneRelation" = "Egy Hivatkozott beírás";
+
+/* (No Comment) */
+"_FreeformControlsTextFieldControlDescription_NoMicrophoneAvailableDescription" = "Nem található mikrofon.";
+
+/* (No Comment) */
+"_FreeformControlsTextFieldControlDescription_NoMicrophoneAvailableRecovery" = "A beszédfelismeréshez mikrofon szükséges. Győződjön meg róla, hogy rendelkezésre áll mikrofon, és nem használja más alkalmazás.";
+
+/* (No Comment) */
+"_FreeformControlsTextFieldControlDescription_SpeechNotGrantedDescription" = "A beszédfelismeréshez engedély szükséges";
+
+/* (No Comment) */
+"_FreeformControlsTextFieldControlDescription_SpeechNotGrantedRecovery" = "A családfának nincs engedélye a beszédfelismerésre. Kérjük, adjon engedélyt a családfa számára a beállítások alkalmazás adatvédelmi beállításaiban.";
+
+/* (No Comment) */
+"_InteractiveTreeEditFamilyController_Title" = "Interaktív fa - családok";
+
+/* InteractiveTreeEditFamilySearchPersonSummaryContentController */
+"_InteractiveTreeEditFamilySearchPersonSummaryContentController_Title" = "Személyösszegzés";
+
+/* InteractiveTreeEditPersonActionsContentController */
+"_InteractiveTreeEditPersonActionsContentController_Title" = "Akciók";
+
+/* (No Comment) */
+"_InteractiveTreeEditPersonController_SelectPersonsPlaceholder_Message" = "A szerkesztés megkezdéséhez válasszon személyt vagy családot";
+
+/* InteractiveTreeEditPersonController */
+"_InteractiveTreeEditPersonController_SelectPersonsPlaceholder_Title" = "Személy vagy család kiválasztása";
+
+/* (No Comment) */
+"_InteractiveTreeEditPersonController_Title" = "Interaktív fa - személyek";
+
+/* (No Comment) */
+"_ManagePersonGroupPersons_NoPersonsInGroup" = "Egyetlen személy sem tagja ennek a személycsoportnak";
+
+/* (No Comment) */
+"_ManagePersonGroupPersons_NoPersonsLeftToAdd" = "A családfájában szereplő összes személyt hozzáfűzte ehhez a személycsoporthoz";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsAddRelatives_Title" = "Rokonok hozzáfűzése csoporthoz";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsController_AddPersonsToGroup" = "Személyek hozzáfűzése csoporthoz";
+
+/* ManagePersonGroupPersonsController */
+"_ManagePersonGroupPersonsController_Title" = "Személyek a csoportban";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_AllGenerations" = "Minden generáció";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_AllRelativesOfChildren" = "Az utódok összes rokonának hozzáfűzése";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_AllRelativesOfParents" = "Az ősök összes rokonának hozzáfűzése";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_AllRelativesOfPartners" = "A partnerek összes rokonának hozzáfűzése";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_Children" = "A személy összes utódjának hozzáfűzése";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_Explanation" = "Válassza ki '%@' mely rokonait akarja hozzáfűzni ehhez a személycsoporthoz:";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_GenerationsToCollect" = "Használható generációk";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_Parents" = "A személy összes ősének hozzáfűzése";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_Partners" = "Partner hozzáfűzése csoporthoz";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_PartnersOfChildren" = "Az utódok összes partnerének hozzáfűzése";
+
+/* PlaceLookupControllerResultPlacePreviewLinksContentController */
+"_PlaceLookupControllerResultPlacePreviewLinksContentController_Title" = "Honlapok";
+
+/* PlaceLookupControllerResultPlacePreviewNamesContentController */
+"_PlaceLookupControllerResultPlacePreviewNamesContentController_Title" = "Nevek";
+
+/* (No Comment) */
+"_SectionIdentifier_aboveMainFullWidth" = "Fő-terület felett - teljes szélességben";
+
+/* Section Identifiers */
+"_SectionIdentifier_main" = "Fő terület";
+
+/* (No Comment) */
+"_SectionIdentifier_parents" = "Szülők területe";
+
+/* (No Comment) */
+"_SectionIdentifier_top" = "Fejléc terület";
+

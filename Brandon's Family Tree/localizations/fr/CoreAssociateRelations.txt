@@ -1,0 +1,78 @@
+﻿/* (No Comment) */
+"_AssociateRelation_Type_BestFriend" = "Meilleur ami";
+
+/* (No Comment) */
+"_AssociateRelation_Type_BestFriend_Inverted" = "Meilleur ami";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Boss" = "Patron";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Boss_Inverted" = "Employé";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Coworker" = "Collègue de travail";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Coworker_Inverted" = "Collègue de travail";
+
+/* Person Container */
+"_AssociateRelation_Type_Friend" = "Ami";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Friend_Inverted" = "Ami";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Godfather" = "Parrain/Marraine";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Godfather_Inverted" = "Parrain/Marraine de %@";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Neighbor" = "Voisin";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Neighbor_Inverted" = "Voisin";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Servant" = "Employé/Serviteur";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Servant_Inverted" = "Employeur/Maître";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Teacher" = "Enseignant";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Teacher_Inverted" = "Étudiant";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfBirth" = "Témoin de naissance";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfBirth_Inverted" = "Témoin de naissance de %@";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfCivilMarriage" = "Témoin du mariage civil";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfCivilMarriage_Inverted" = "Témoin du mariage civil de %@";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfDeath" = "Témoin de décès";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfDeath_Inverted" = "Témoin du décès de %@";
+
+/* Family Container */
+"_AssociateRelation_Type_WitnessOfMarriage" = "Témoin de mariage";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfMarriage_Inverted" = "Témoin du mariage de %@";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfReligiousMarriage" = "Témoin du mariage religieux";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfReligiousMarriage_Inverted" = "Témoin du mariage religieux de %@";
+

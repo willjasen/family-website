@@ -1,0 +1,1134 @@
+﻿/* BurnWebSiteExportPublish */
+"_BurnWebSiteExportPublish_Title" = "Gravar site para CD/DVD";
+
+/* FTPWebSiteExportPublish */
+"_FTPWebSiteExportPublish_Title" = "Enviar para servidor FTP";
+
+/* (No Comment) */
+"_FTPWebSiteExportPublish_UploadFailed" = "Falha ao enviar para FTP";
+
+/* (No Comment) */
+"_FTPWebSiteExportPublish_UploadFinishedMessage" = "O envio para o servidor FTP '%@' foi concluído em %@.";
+
+/* (No Comment) */
+"_FTPWebSiteExportPublish_UploadFinishedTitle" = "Envio para FTP concluído";
+
+/* (No Comment) */
+"_FTPWebSiteExportPublish_UploadProgress" = "Enviado %.2f de %.2f MB";
+
+/* (No Comment) */
+"_FTPWebSiteExportPublish_UploadProgressHeadline" = "Enviando para servidor FTP…";
+
+/* (No Comment) */
+"_MacFamilyTreeComEditTree_NoPasswordEntered" = "Insira uma senha para seu site no MacFamilyTree.com";
+
+/* MacFamilyTreeComEditTree */
+"_MacFamilyTreeComEditTree_Title" = "Editar ajustes da árvore";
+
+/* MacFamilyTreeComEditUser */
+"_MacFamilyTreeComEditUser_Title" = "Editar minha conta";
+
+/* (No Comment) */
+"_MacFamilyTreeComLoginView_ForgotPasswordButton" = "Esqueceu a senha";
+
+/* (No Comment) */
+"_MacFamilyTreeComLoginView_LoginButton" = "Ingressar";
+
+/* (No Comment) */
+"_MacFamilyTreeComLoginView_Password" = "Senha:";
+
+/* (No Comment) */
+"_MacFamilyTreeComLoginView_RegisterButton" = "Criar nova conta";
+
+/* MacFamilyTreeComLoginView */
+"_MacFamilyTreeComLoginView_UserName" = "Usuário:";
+
+/* MacFamilyTreeComRegisterNewTree */
+"_MacFamilyTreeComRegisterNewTree_Title" = "Enviar novo site";
+
+/* MacFamilyTreeComRegisterNewUser */
+"_MacFamilyTreeComRegisterNewUser_Title" = "Registrar no MacFamilyTree.com";
+
+/* (No Comment) */
+"_MacFamilyTreeComWebSiteExportPublish_ListTopHint" = "Selecione um site para substituir na lista abaixo ou escolha enviar um novo site.";
+
+/* (No Comment) */
+"_MacFamilyTreeComWebSiteExportPublish_NoTreesPresentMessage" = "Até agora, você não enviou nenhum site para o MacFamilyTree.com. Use o botão \"Novo Site\" para enviar seu primeiro site.";
+
+/* (No Comment) */
+"_MacFamilyTreeComWebSiteExportPublish_NoTreesPresentTitle" = "Não há sites no MacFamilyTree.com";
+
+/* (No Comment) */
+"_MacFamilyTreeComWebSiteExportPublish_ReplaceExistingTreeButton" = "Substituir site";
+
+/* MacFamilyTreeComWebSiteExportPublish */
+"_MacFamilyTreeComWebSiteExportPublish_Title" = "Enviar para o MacFamilyTree.com";
+
+/* (No Comment) */
+"_MacFamilyTreeComWebSiteExportPublish_UploadNewTreeButton" = "Novo site";
+
+/* (No Comment) */
+"_MacFamilyTreeComWebSiteExportPublish_UploadProgressHeadline" = "Enviando para MacFamilyTree.com…";
+
+/* (No Comment) */
+"_ManageMacFamilyTreeCom_DeleteTree_Informative" = "Você realmente deseja apagar o site '%@' no MacFamilyTree.com? Essa ação não pode ser desfeita.";
+
+/* (No Comment) */
+"_ManageMacFamilyTreeCom_DeleteTree_Message" = "Realmente deseja apagar o site MacFamilyTree.com?";
+
+/* (No Comment) */
+"_ManageMacFamilyTreeCom_EditUserButton" = "Editar minha conta";
+
+/* (No Comment) */
+"_ManageMacFamilyTreeCom_ListTopHint" = "Abaixo estão listados todos os sites que você criou no MacFamilyTree.com. Você pode remover os sites ou editar o título e a senha de proteção selecionando um site. Para substituir o conteúdo, edite ou adicione um site na tela anterior e selecione \"Publicar\".";
+
+/* (No Comment) */
+"_ManageMacFamilyTreeCom_LogoutButton" = "Desconctar";
+
+/* (No Comment) */
+"_ManageMacFamilyTreeCom_NoTreesPresentMessage" = "Você não enviou nenhum site para o MacFamilyTree.com. Para enviar um site, crie um site na tela anterior e envie-o para o MacFamilyTree.com.";
+
+/* (No Comment) */
+"_ManageMacFamilyTreeCom_NoTreesPresentTitle" = "Não há sites no MacFamilyTree.com";
+
+/* ManageMacFamilyTreeCom */
+"_ManageMacFamilyTreeCom_Title" = "Gerenciar sites e conta do MacFamilyTree.com";
+
+/* (No Comment) */
+"_WebSiteExport_Beach_Theme" = "Praia";
+
+/* (No Comment) */
+"_WebSiteExport_Blue_Theme" = "Montanhas azuis";
+
+/* (No Comment) */
+"_WebSiteExport_BurnCDMenuItem" = "Gravar CD/DVD…";
+
+/* (No Comment) */
+"_WebSiteExport_Chart_Page_Chart_Section_Title" = "Gráfico salvo";
+
+/* (No Comment) */
+"_WebSiteExport_Charts_Page_Charts_Section_Title" = "Gráficos salvos";
+
+/* Saved Charts Page */
+"_WebSiteExport_Charts_Page_Title_Section_Title" = "Gráficos";
+
+/* Themes */
+"_WebSiteExport_Classic_Theme" = "Clássico";
+
+/* (No Comment) */
+"_WebSiteExport_Clean_Theme" = "Limpo";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ActiveLinkColor" = "Cor do link ativo";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_BlurRadius" = "Raio de desfoque";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Color" = "Cor";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ColorizePersonPlaceholderImages" = "Tonalidade por gênero";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_CustomHomePageImage" = "Selecione uma imagem personalizada abaixo para mostrar na página inicial.";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_DisableAnimations" = "Desativar animações";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_DNAPageSettings" = "Página de DNA";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_EnabledStatisticChartTypes" = "Gráficos estatísticos";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_EventPageSettings" = "Página do Evento";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ExportPersonsModeAll" = "Todas as pessoas";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ExportPersonsModeFromPersonGroups" = "Pessoas no grupo de pessoas";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ExportPersonsModeFromScope" = "Pessoas no filtro inteligente";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_FamilyPageSettings" = "Página da Família";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Font" = "Fonte";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HideDetailsOfLivingPersons" = "Ocultar detalhes de pessoas vivas";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HideInformationMarkedAsPrivate" = "Ocultar informações marcadas como privada";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Highlight_Color_Number" = "Cor #%d";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HomePageImageType" = "Imagem";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HomePageImageType_CustomImage" = "Imagem personalizada";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HomePageImageType_FamilyCrest" = "Brasão da família";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HomePageImageType_None" = "Nenhum";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HomePageImageType_StartPerson" = "Da pessoa inicial";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HomePageSettings" = "Página Inicial";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartAlignment" = "Alinhamento do gráfico de ampulheta";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartConnectionItemCornerRadius" = "Raio do canto";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartPersonItemBorderColor" = "Cor da borda";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartPersonItemBorderWidth" = "Largura da borda";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartPersonItemCornerRadius" = "Raio do canto";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartPersonItemSubTitleColor" = "Cor do subtítulo";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartPersonItemSubTitleFont" = "Fonte do subtítulo";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartPersonItemTitleColor" = "Cor do título";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartPersonItemTitleFont" = "Fonte do tíitulo";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartSelectedPersonItemBorderWidth" = "Largura da borda selecionada";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ImprintPageSettings" = "Imprimir";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeAudio" = "Mídia de áudio";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeDNA" = "Informação de DNA";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeGEDCOMFile" = "Arquivo GEDCOM transferível";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeLabels" = "Etiquetas";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeLastEdited" = "Última edição";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeNumberingSystemString" = "Informações do sistema de numeração";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludePDFs" = "PDFs";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludePersonGroups" = "Grupos de Pessoas";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludePictures" = "Imagens";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeSavedCharts" = "Gráficos salvos";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeSources" = "Recursos";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeStories" = "Histórias";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeURLs" = "URLs";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeVideos" = "Vídeos";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Label_For_Family_Members" = "Etiqueta para membros da família";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Label_For_Family_Members_Use_Man_Woman" = "Usar Homem/Mulher";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Label_For_Family_Members_Use_Partner1_Partner2" = "Usar Cônjuge 1/Cônjuge 2";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Language_Label" = "Idioma";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_LinkColor" = "Cor do link";
+
+/* Configuration */
+"_WebSiteExport_Configuration_MajorGroupTitle_General" = "Geral";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MajorGroupTitle_HourglassChart" = "Gráfico de ampulheta";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MajorGroupTitle_Pages" = "Páginas";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MajorGroupTitle_Persons" = "Pessoas";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MajorGroupTitle_Theme" = "Tema";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MediaPageSettings" = "Página de Mídia";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MidGroupTitle_HourglassChartOtherPersonItem" = "Outras pessoas";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MidGroupTitle_HourglassChartSelectedPersonItem" = "Pessoa focada";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Animations" = "Animações";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_ExportOptions" = "Opções";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_ExportPersonsMode" = "Pessoas para incluir";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_HighlightColors" = "Cores de realce";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_HomePageImage" = "Imagem";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_HomePageIntroduction" = "Introdução";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_HourglassChart_Background" = "Fundo";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_HourglassChart_ConnectionItem" = "Conexões";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_HourglassChart_PersonItem" = "Pessoas";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_ImprintAuthorContact" = "Contato do autor";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Includes" = "Incluído";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Introduction" = "Introdução";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Links" = "Links";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Menu" = "Menu";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_PageSections" = "Seções da página";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_PersonPageHourglassChart" = "Gráfico de Ampulheta";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Persons" = "Pessoas";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Privacy" = "Privacidade";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Sections" = "Seções";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_StartPerson" = "Pessoal inicial";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_ThemeImages" = "Imagens do tema";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Title" = "Título";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_WebSite" = "Site";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_OptimizePictureFileSize" = "Otimizar o tamanho da imagem para arquivos menores";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_PageSections" = "Seções da página";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_PersonGroupPageSettings" = "Página do Grupo de Pessoas";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_PersonNameFormate" = "Formato do nome da pessoa";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_PersonPageSettings" = "Página da Pessoa";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_PlacePageSettings" = "Página do Local";
+
+/* Website Configuration */
+"_WebSiteExport_Configuration_Popup_Title" = "Ajustes";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Section_Placement_Full_Width" = "Largura total";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Section_Placement_Header" = "Cabeçalho";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Section_Placement_Left" = "Esquerdo";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Section_Placement_Right" = "Direito";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Section_Placement_Side" = "Lado";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ShowFamilyCrestInTitle" = "Mostrar brasão da família no título";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_SourcePageSettings" = "Página de Recursos";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_StatisticsPageSettings" = "Página de Estatísticas";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_StoryPageSettings" = "Página de História";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_TextAlignment" = "Alinhamento";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_TextAlignment_Center" = "Centralizar";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_TextAlignment_Left" = "Esquerda";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_TextAlignment_Right" = "Direita";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Theme_Label" = "Tema";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Theme_Title" = "Título do tema";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ThemeBackgroundImage" = "Imagem do fundo";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ThemeHeaderBackgroundImage" = "Imagem do cabeçalho";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_UseFamilyCrestAsFavicon" = "Usar brasão da família como favicon";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteAuthorAddress" = "Endereço";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteAuthorEmail" = "E-mail";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteAuthorName" = "Autor";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteAuthorPhone" = "Telefone";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteImprintNote" = "Nota";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteIntroduction" = "Introdução";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteStartPerson" = "Pessoa inicial";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteSubTitle" = "Subtítulo";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteTitle" = "Título";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_3" = "A URL não está formatada adequadamente.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_6" = "Não foi possível resolver o domínio.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_7" = "Falha ao conectar-se ao domínio.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_9" = "Acesso negado.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_25" = "Comando STORE negado no servidor FTP.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_30" = "Erro de porta FTP.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_35" = "Falha na conexão SSL/TLS.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_60" = "Certificado de pares não pode ser autenticado com certificados CA conhecidos.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_64" = "A solicitação de nível FTP SSL falhou.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_67" = "Início de sessão negado. Verifique seu nome e senha do ftp.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_73" = "O arquivo já existe e não pode ser substituído. Verifique suas permissões no servidor.";
+
+/* CurlErrorCodes */
+"_WebSiteExport_CurlError_Generic" = "Erro Interno (%d).";
+
+/* (No Comment) */
+"_WebSiteExport_Dark_Theme" = "Desfiladeiro antílope";
+
+/* (No Comment) */
+"_WebSiteExport_DarkBubbles_Theme" = "Bolhas";
+
+/* (No Comment) */
+"_WebSiteExport_Default_WebSiteExportFolderName" = "Site da minha árvore genealógica";
+
+/* Details Of Living Persons Hidden */
+"_WebSiteExport_Details_Of_Living_Persons_Hidden_Person_Name" = "Detalhes da pessoa ocultos";
+
+/* (No Comment) */
+"_WebSiteExport_ExportToFolderMenuItem" = "Exportar para pasta…";
+
+/* (No Comment) */
+"_WebSiteExport_Flowers_Theme" = "Flores";
+
+/* (No Comment) */
+"_WebSiteExport_Forest_Path_Theme" = "Caminho da Floresta";
+
+/* (No Comment) */
+"_WebSiteExport_Forest_Theme" = "Floresta";
+
+/* (No Comment) */
+"_WebSiteExport_Green_Hills_Theme" = "Nascer do sol";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Created_On" = "Criado em: %@";
+
+/* Home Page */
+"_WebSiteExport_Home_Page_Created_With_MacFamilyTree" = "Site criado com o MacFamilyTree 11";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Download_GedcomFile_Description" = "Clique na imagem acima para transferir um arquivo GEDCOM desta árvore genealógica. Arquivos GEDCOM podem ser importados por quase todos os aplicativos de genealogia disponíveis no mercado.";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_GedcomFile_DownloadLinkTitle" = "Transferir arquivo GEDCOM";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_BookmarkedFamilies" = "Famílias marcadas como favoritas";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_BookmarkedMedia" = "Mídias marcadas como favoritas";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_BookmarkedPersons" = "Pessoas marcadas como favoritas";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_BookmarkedPlaces" = "Locais marcadas como favoritas";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_BookmarkedSources" = "Origens marcadas como favoritas";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_CreationDate" = "Data de criação";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_GedcomFile" = "Arquivo GEDCOM";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_Image" = "Imagem ou brasão da família";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_Introduction" = "Introdução";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_Introduction_Placeholder" = "Este é um espaço reservado para a introdução. Você pode alterá-lo em Site > Páginas > Página inicial.";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_StartPerson" = "Pessoa inicial";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_SubTitle" = "Subtítulo";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_Title" = "Título";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Author_Contact_Section_Title" = "Contato do autor";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Note_Section_Title" = "Nota";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Synium_Contact_AppStore_Label" = "Mac App Store";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Synium_Contact_AppStore_Link_11" = "MacFamilyTree 11";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Synium_Contact_Company" = "Synium Software GmbH Alemanha";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Synium_Contact_Company_Label" = "Empresa";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Synium_Contact_Section_Title" = "Contato da Synium";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Synium_Contact_Website_Label" = "Site";
+
+/* Imprint Page */
+"_WebSiteExport_Imprint_Page_Title_Section_Title" = "Impressão";
+
+/* (No Comment) */
+"_WebSiteExport_IndexCards_Theme" = "Cartões de índice";
+
+/* (No Comment) */
+"_WebSiteExport_Inspector_ThemesTitle" = "Temas";
+
+/* Inspector */
+"_WebSiteExport_Inspector_WebSiteSettingsTitle" = "Site";
+
+/* (No Comment) */
+"_WebSiteExport_Leafs_Theme" = "Bambú";
+
+/* (No Comment) */
+"_WebSiteExport_LeftMenu_Theme" = "Beira-mar";
+
+/* (No Comment) */
+"_WebSiteExport_LeftMenuBlurryBackground_Theme" = "Roxo";
+
+/* (No Comment) */
+"_WebSiteExport_List_No_Entry_DueToSearch_Placeholder" = "Nenhuma entrada encontrada para o termo de busca inserido.";
+
+/* (No Comment) */
+"_WebSiteExport_List_No_Entry_Placeholder" = "Nenhuma entrada encontrada.";
+
+/* Lists */
+"_WebSiteExport_List_Search_Placeholder" = "Buscar…";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_By" = "Ordenar por";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Family_Last_Name_Key" = "Sobrenome da família";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Family_Name_Key" = "Nome da família";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_BirthDate_Key" = "Data de nascimento";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_DeathDate_Key" = "Data de falecimento";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_FirstName_Key" = "Nome";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_Group_Name_Key" = "Nome do grupo";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_LastName_Key" = "Sobrenome";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_NameMiddle_Key" = "Nome do meio";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_NamePrefix_Key" = "Prefixo do nome";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_NameSuffix_Key" = "Sulfixo do nome";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Place_Name_Key" = "Nome do local";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Source_Title_Key" = "Título da origem";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Story_Title_Key" = "Título da história";
+
+/* (No Comment) */
+"_WebSiteExport_LoadingFamilyTreeData" = "Carregando árvore genealógica…";
+
+/* (No Comment) */
+"_WebSiteExport_LoadingFamilyTreeData_Failed" = "Falha ao carregar árvore genealógica";
+
+/* (No Comment) */
+"_WebSiteExport_ManageThemes_Label" = "Tema:";
+
+/* (No Comment) */
+"_WebSiteExport_ManageWebSiteExportThemes" = "Gerenciar temas";
+
+/* (No Comment) */
+"_WebSiteExport_ManageWebSiteExportThemes_AddThemeHint" = "Escolha um tema para adicionar para este site na lista abaixo.";
+
+/* (No Comment) */
+"_WebSiteExport_ManageWebSiteExportThemes_AddThemeTitle" = "Adicionar tema";
+
+/* (No Comment) */
+"_WebSiteExport_ManageWebSiteExportThemes_Hint" = "Todos os temas associados para este site estão listados abaixo. Use o botão 'Adicionar' acima para adicionar temas adicionais. Ao arrastar temas, você também pode alterar a ordem. O primeiro tema desta lista será o tema padrão do seu site.";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Charts" = "Gráficos";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Families" = "Famílias";
+
+/* Website Menu */
+"_WebSiteExport_Menu_HomePage" = "Início";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Imprint" = "Impressão";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_PersonGroups" = "Grupo de pessoas";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Persons" = "Pessoas";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Places" = "Locais";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Sources" = "Recursos";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Statistics" = "Estatísticas";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Stories" = "Histórias";
+
+/* (No Comment) */
+"_WebSiteExport_MFT11_Theme" = "Onze";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_AuthenticationFailed" = "Falha na autenticação. Observe se você inseriu corretamente o nome e senha.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Client_Error" = "Erro de Cliente";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Client_Error_Informative_Text" = "Um erro de cliente ocorreu (%@). Tente novamente. Se a falha persistir, entre em contato com nosso suporte técnico.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_CommandMismatch" = "Comando não confere";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_CommandUnknown" = "Comando desconhecido";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Connection_Error" = "Erro de Conexão";
+
+/* MFT server NSURLConnection errors */
+"_WebSiteExport_MFTExport_ConnectionErrorCannotConnectToHost" = "Não foi possível conectar-se ao servidor do MacFamilyTree.com. Verifique sua conexão com a internet e tente novamente.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_ConnectionErrorCannotFindHost" = "Não foi possível contactar o MacFamilyTree.com (falha de DNS). Verifique se sua conexão com a internet está ativa.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_ConnectionErrorTimedOut" = "Sua conexão ao servidor MacFamilyTree.com terminou. Tente novamente mais tarde.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Delete_Old_Files" = "Apagar arquivos antigos";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_DeleteFailed" = "Falha ao apagar arquivos";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error" = "Erro desconhecido";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_Connection_Cant_Be_Initialized" = "A conexão não pode ser estabelecida";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_Email_Not_Valid" = "Endereço de e-mail inválido";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_NoSSL_Connect_Without_SSL" = "Conectar";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_Not_Logged_In" = "Não conectado";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_Password_Empty" = "Senha vazia";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_Passwords_mismatch" = "As senhas não conferem";
+
+/* MFT Upload */
+"_WebSiteExport_MFTExport_Error_Undefined" = "Erro não definido";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_Upload_Limit_Exceeded" = "Seu site excedeu o limite de envio. Desmarque alguns arquivos grandes de mídia (PDFs, filmes, fotos) e tente novamente.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_User_Or_Password_Empty" = "Usuário ou senha estão vazios";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_User_String_Not_Valid" = "Use apenas um caractere alfanumérico para o nome de usuário";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Failed" = "Falha ao enviar";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_FileHashesError" = "Erro em hashes de arquivos enviados";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Get_FileHashes" = "Obter hashes de arquivo";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Get_Upload_Limit" = "Obter limite de envio";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Open_In_Browser" = "Abrir no navegador";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_PersonListInvalid" = "Erro no envio de lista de pessoas";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_PersonUpdateFailed" = "Falha ao atualizar pessoas";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Server_Error" = "Erro de Servidor";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Server_Error_Informative_Text" = "O servidor MacFamilyTree.com não está disponível no momento. Tente novamente mais tarde.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Successful" = "Enviado com sucesso";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Successful_Informative_Text" = "Seu site foi enviado com sucesso. Você pode agora abrir seu site no navegador.";
+
+/* MFT server error keys */
+"_WebSiteExport_MFTExport_TreeNameInvalid" = "Nome de site inválido. Use apenas caracteres alfanuméricos.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_TreeNameTaken" = "Já existe um site com este nome.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_TreeNameTooLong" = "Nome muito longo (máx. %@ caracteres).";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_TreeNameTooShort" = "Nome muito curto (mín. %@ caracteres).";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_TreeNotFound" = "Site não encontrado.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_TreePasswordInvalid" = "Senha inválida do site.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_TreePasswordTooShort" = "Senha do site muito curta (mín. %@ caracteres).";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Unknown_Error" = "Erro Desconhecido";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Unknown_Error_Informative_Text" = "Um erro desconhecido ocorreu (%@). Tente novamente. Se a falha persistir, entre em contato com nosso suporte técnico.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UnzipFailed" = "Falha na extração do site";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Upload_New_FileHashes" = "Enviando novos hashes de arquivo";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Upload_New_Files" = "Enviar novos arquivos";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Upload_Successful" = "Enviado com sucesso";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Upload_Validating_New_Files" = "Validando novos arquivos...";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Upload_Validating_New_Persons_List" = "Validando novas pessoas...";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_User_Or_Password_Wrong" = "Falha ao ingressar. Nome ou senha estão errados.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserEmailAddressInvalid" = "Endereço de e-mail inválido";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserEmailAddressTaken" = "Este endereço de e-mail já está sendo usado para uma conta MacFamilyTree.com. Você pode apenas registrar uma conta por endereço de email.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserNameInvalid" = "Nome de usuário inválido";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserNameTaken" = "Já existe usuário com este nome";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserNameTooLong" = "Nome de usuário muito longo (máx. %@ caracteres)";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserNameTooShort" = "Nome de usuário muito curto (míx. %@ caracteres)";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserPasswordInvalid" = "Senha do usuário inválida";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserPasswordTooShort" = "Senha de usuário muito curta (mín. %@ caracteres)";
+
+/* (No Comment) */
+"_WebSiteExport_NavigateBackButton" = "Anterior";
+
+/* WebSitePane */
+"_WebSiteExport_NavigateForwardButton" = "Seguinte";
+
+/* (No Comment) */
+"_WebSiteExport_NoWebSitesPlaceholder_AddWebSiteButton" = "Adicionr primeiro site";
+
+/* (No Comment) */
+"_WebSiteExport_NoWebSitesPlaceholder_Message" = "Não há sites para esta árvore genealógica. Selecione \"Adicionar Primeiro Site\" para criar seu primeiro site.";
+
+/* Websites */
+"_WebSiteExport_NoWebSitesPlaceholder_Title" = "Nenhum site presente";
+
+/* (No Comment) */
+"_WebSiteExport_Page_Header_Section_Title" = "Seção de cabeçalho";
+
+/* Common Page */
+"_WebSiteExport_Page_Overview_Section_Title" = "Visão geral";
+
+/* Person Page */
+"_WebSiteExport_Person_Page_Hourglass_Section_Title" = "Gráfico de ampulheta";
+
+/* Place Page */
+"_WebSiteExport_Place_Page_Map_Section_Title" = "Mapa";
+
+/* (No Comment) */
+"_WebSiteExport_Place_Page_View_Place_In_Maps" = "Visualizar local no Mapas";
+
+/* (No Comment) */
+"_WebSiteExport_Plain_Theme" = "Simples";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_CollectingFamilyTreeInformation" = "Coletando informações da árvore genealógica…";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_CreatingWebsiteForLocalViewingInformative" = "Criando site para visualização local.";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_CreatingWebsiteForSharingInformative" = "Preparando o site para compartilhamento – Aguarde";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_CreatingWebsiteForWebServerInformative" = "Criando site para servidor web.";
+
+/* Progress */
+"_WebSiteExport_Progress_CreatingWebsiteHeadline" = "Criando site…";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_CreatingWebsiteInformative" = "Aguarde";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_ExportingGedcom" = "Exportando GEDCOM…";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_ExportingMedia" = "Exportando arquivos de mídia…";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_ExportingResources" = "Exportando recursos…";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_ExportingSavedCharts" = "Exportando gráficos salvos…";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_ExportingStatisticCharts" = "Exportando gráficos estatísticos…";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_ExportingThemes" = "Exportando temas…";
+
+/* (No Comment) */
+"_WebSiteExport_PublishButton" = "Publicar";
+
+/* (No Comment) */
+"_WebSiteExport_ResetThemeToDefaults" = "Redefinir tema para valores padrão";
+
+/* (No Comment) */
+"_WebSiteExport_ResetThemeToDefaults_Short" = "Redefinir";
+
+/* (No Comment) */
+"_WebSiteExport_ShareMenuItem" = "Compartilhar…";
+
+/* (No Comment) */
+"_WebSiteExport_ShouldSaveModifiedWebSite_InformativeText" = "Deseja salvar as alterações feitas neste site?";
+
+/* (No Comment) */
+"_WebSiteExport_ShouldSaveModifiedWebSite_MessageText" = "Salvar alterações no site?";
+
+/* Manage Themes */
+"_WebSiteExport_Show_ManageThemes_MenuTitle" = "Gerenciar temas…";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_DivorcedFamiliesCount" = "Famílias divorciadas";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_EarliestEvent" = "Evento mais antigo";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_Family_Statistics_Section_Title" = "Estatísticas da família";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_FamilyCount" = "Total de famílias";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_FamilyEventCount" = "Eventos familiares";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_FemalePersonCount" = "Pessoas do sexo feminino";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_IntersexGenderPersonCount" = "Pessoas intersexuais";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_LatestEvent" = "Evento mais novo";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_MalePersonCount" = "Pessoas do sexo masculino";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_MarriedFamiliesCount" = "Famílias casadas";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_Person_Statistics_Section_Title" = "Estatísticas de pessoa";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_PersonCount" = "Total de pessoas";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_PersonEventCount" = "Eventos pessoais";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_StatisticCharts_Section_Title" = "Gráficos estatísticos";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_Time_Statistics_Section_Title" = "Horário e data";
+
+/* Statistics Page */
+"_WebSiteExport_Statistics_Page_Title_Section_Title" = "Estatísticas";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_UnknownGenderPersonCount" = "Pessoas de gênero desconhecido";
+
+/* (No Comment) */
+"_WebSiteExport_Stripes_Theme" = "Faixas";
+
+/* (No Comment) */
+"_WebSiteExport_TopMenu_Theme" = "Caixas gradientes";
+
+/* (No Comment) */
+"_WebSiteExport_Unnamed_WebSite" = "Site sem nome";
+
+/* (No Comment) */
+"_WebSiteExport_UploadToFTPMenuItem" = "Enviar para o servidor de FTP…";
+
+/* (No Comment) */
+"_WebSiteExport_UploadToMacFamilyTreeComMenuItem" = "Enviar para o MacFamilyTree.com…";
+
+/* (No Comment) */
+"_WebSiteExport_WebSite_ChangeDate" = "Data de alteração: %@";
+
+/* (No Comment) */
+"_WebSiteExport_WebSite_CreationDate" = "Data de criação: %@";
+
+/* (No Comment) */
+"_WebSiteExportMFTTreeObject_Active" = "On-line";
+
+/* (No Comment) */
+"_WebSiteExportMFTTreeObject_NotActive" = "Inativo";
+
+/* (No Comment) */
+"_WebSiteExportMFTTreeObject_NotPublic" = "Não público";
+
+/* WebSiteExportMFTTreeObject */
+"_WebSiteExportMFTTreeObject_Public" = "Público";
+
+/* WebSitesPane */
+"_WebSites_AddNewWebSiteButton" = "Adicionar novo site";
+
+/* (No Comment) */
+"_WebSites_DeleteWebSiteButton" = "Apagar site";
+
+/* (No Comment) */
+"_WebSites_DuplicateWebSiteButton" = "Duplicar site";
+
+/* (No Comment) */
+"_WebSites_EditWebSiteButton" = "Editar site";
+
+/* (No Comment) */
+"_WebSites_ManageMacFamilyTreeComButton" = "Gerenciar MacFamilyTree.com…";
+
+/* (No Comment) */
+"_WebSitesController_DeleteWebSiteInformative" = "Você realmente deseja apagar este site?";
+
+/* WebSiteExportController */
+"_WebSitesController_DeleteWebSiteMessage" = "Apagar site?";
+
+/* (No Comment) */
+"_WebSitesController_ExportedWebSiteToFolder" = "Site exportado com sucesso";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToFolder_ForLocalViewing" = "Para visualização local";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToFolder_ForWebServer" = "Para servidor web";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToFolder_OpenFolderInFinder" = "Mostrar no Finder";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToFolder_Question_Informative" = "Você deseja exportar o site para uma pasta para visualização local ou deseja salvar o site em um formato que possa ser hospedado em um servidor web?";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToFolder_Question_Message" = "Exportar site para pasta";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToShare_Question_Informative" = "Você deseja compartilhar o site exportado para visualização local ou deseja compartilhar o site em um formato que possa ser hospedado em um servidor web?";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToShare_Question_Message" = "Compartilhar site exportado";
+
+/* (No Comment) */
+"_WebSitesController_LimitedPersonsForPreview_Question_Informative" = "Esta visualização exibe apenas um máximo de 500 pessoas. No entanto, seu site exportado conterá todas as pessoas selecionadas.";
+
+/* (No Comment) */
+"_WebSitesController_LimitedPersonsForPreview_Question_Message" = "Visualizar";
+

@@ -1,0 +1,357 @@
+﻿/* (No Comment) */
+"_ConclusionType_AssociateRelations" = "Vlivné vztahy";
+
+/* Duplicate Conclusion GEDCOM Tag */
+"_ConclusionType_DuplicateGedcomTag" = "Tento štítek GEDCOM se již používá. Zvolte prosím jiný, protože duplicitní štítky GEDCOM mohou vést k problémům při exportu souborů GEDCOM.";
+
+/* (No Comment) */
+"_ConclusionType_FamilyEvents" = "Rodinné události";
+
+/* (No Comment) */
+"_ConclusionType_IsNotUserCreatedFlag" = "Vestavěný typ";
+
+/* (No Comment) */
+"_ConclusionType_IsUserCreatedFlag" = "Typ vytvořený uživatelem";
+
+/* (No Comment) */
+"_ConclusionType_PersonEvents" = "Osobní události";
+
+/* (No Comment) */
+"_ConclusionType_PersonEventsFamilyEvents" = "Události";
+
+/* (No Comment) */
+"_ConclusionType_PersonEventsFamilyEventsPersonFacts" = "Události a fakta";
+
+/* (No Comment) */
+"_ConclusionType_PersonEventsFamilyEventsPersonFactsAssociateRelations" = "Události, fakta a vlivné vztahy";
+
+/* (No Comment) */
+"_ConclusionType_PersonFacts" = "Osobní fakta";
+
+/* LDS */
+"_Event_LDSNoTemple" = "Žádný chrám";
+
+/* (No Comment) */
+"_FamilyEvent_Annuled" = "Anulace";
+
+/* (No Comment) */
+"_FamilyEvent_Bann" = "Ohlášky";
+
+/* (No Comment) */
+"_FamilyEvent_Census" = "Záznam ze sčítání lidu";
+
+/* (No Comment) */
+"_FamilyEvent_Contract" = "Manželský závazek";
+
+/* (No Comment) */
+"_FamilyEvent_Divorce_Filing" = "Podání rozvodu";
+
+/* (No Comment) */
+"_FamilyEvent_Divorced" = "Rozvod";
+
+/* (No Comment) */
+"_FamilyEvent_Engagement" = "Zásnuby";
+
+/* (No Comment) */
+"_FamilyEvent_LDSSpouseSealing" = "LDS přijetí manžela/manželky";
+
+/* (No Comment) */
+"_FamilyEvent_License" = "Povolení k sňatku";
+
+/* FamilyEvents */
+"_FamilyEvent_Marriage" = "Sňatek";
+
+/* (No Comment) */
+"_FamilyEvent_MarriageCivil" = "Civilní svatba";
+
+/* (No Comment) */
+"_FamilyEvent_MarriageReligion" = "Církevní svatba";
+
+/* (No Comment) */
+"_FamilyEvent_OtherEvent" = "Jiná událost";
+
+/* (No Comment) */
+"_FamilyEvent_Partnership" = "Občanské partnerství";
+
+/* (No Comment) */
+"_FamilyEvent_Separation" = "Odloučení";
+
+/* (No Comment) */
+"_FamilyEvent_Settlement" = "Předmanželská smlouva";
+
+/* (No Comment) */
+"_LDSEventStatus_BIC" = "BIC";
+
+/* LDS Event Status */
+"_LDSEventStatus_Canceled" = "Zrušeno";
+
+/* (No Comment) */
+"_LDSEventStatus_Child" = "Potomek";
+
+/* (No Comment) */
+"_LDSEventStatus_Cleared" = "Vymazáno";
+
+/* (No Comment) */
+"_LDSEventStatus_Completed" = "Dokončeno";
+
+/* (No Comment) */
+"_LDSEventStatus_DNS" = "Nekvalifikováno";
+
+/* (No Comment) */
+"_LDSEventStatus_DNS/CAN" = "DNS/CAN";
+
+/* (No Comment) */
+"_LDSEventStatus_Infant" = "Nemluvně";
+
+/* (No Comment) */
+"_LDSEventStatus_Pre1970" = "Před rokem 1970";
+
+/* (No Comment) */
+"_LDSEventStatus_Qualified" = "Kvalifikováno";
+
+/* (No Comment) */
+"_LDSEventStatus_Stillborn" = "Narozen(a) mrtvý(á)";
+
+/* (No Comment) */
+"_LDSEventStatus_Submitted" = "Odesláno";
+
+/* (No Comment) */
+"_LDSEventStatus_Uncleared" = "Nevymazáno";
+
+/* PersonEvents */
+"_PersonEvent_Adoption" = "Adopce";
+
+/* (No Comment) */
+"_PersonEvent_AdultChristening" = "Křest dospělého";
+
+/* (No Comment) */
+"_PersonEvent_Apprenticeship" = "Učební obor";
+
+/* (No Comment) */
+"_PersonEvent_Baptism" = "Křest dítěte";
+
+/* (No Comment) */
+"_PersonEvent_BarMitzvah" = "Bar micva";
+
+/* (No Comment) */
+"_PersonEvent_BasMitzvah" = "Bat micva";
+
+/* (No Comment) */
+"_PersonEvent_Birth" = "Narození";
+
+/* (No Comment) */
+"_PersonEvent_Blessing" = "Požehnání";
+
+/* (No Comment) */
+"_PersonEvent_Burial" = "Pohřbení";
+
+/* (No Comment) */
+"_PersonEvent_Census" = "Záznam ze sčítání lidu";
+
+/* (No Comment) */
+"_PersonEvent_Christening" = "Křtiny";
+
+/* (No Comment) */
+"_PersonEvent_Circumcision" = "Obřezání";
+
+/* (No Comment) */
+"_PersonEvent_Confirmation" = "Biřmování";
+
+/* (No Comment) */
+"_PersonEvent_Cremation" = "Kremace";
+
+/* (No Comment) */
+"_PersonEvent_Death" = "Úmrtí";
+
+/* (No Comment) */
+"_PersonEvent_Deed" = "Právní listina";
+
+/* (No Comment) */
+"_PersonEvent_Education" = "Formální vzdělání a trénink";
+
+/* (No Comment) */
+"_PersonEvent_Emigration" = "Emigrace";
+
+/* (No Comment) */
+"_PersonEvent_Excommunication" = "Vyobcování z církve";
+
+/* (No Comment) */
+"_PersonEvent_FirstCommunion" = "První přijímání";
+
+/* (No Comment) */
+"_PersonEvent_FosterChild" = "Schovanec";
+
+/* (No Comment) */
+"_PersonEvent_Funeral" = "Pohřeb";
+
+/* (No Comment) */
+"_PersonEvent_GenericEvent" = "Jiná událost";
+
+/* (No Comment) */
+"_PersonEvent_Graduation" = "Maturita / promoce";
+
+/* (No Comment) */
+"_PersonEvent_Illness" = "Nemoc";
+
+/* (No Comment) */
+"_PersonEvent_Immigration" = "Imigrace";
+
+/* (No Comment) */
+"_PersonEvent_LandTransaction" = "Pozemková transakce";
+
+/* (No Comment) */
+"_PersonEvent_LDSBaptism" = "Křest (LDS)";
+
+/* (No Comment) */
+"_PersonEvent_LDSChildSealing" = "Přijetí dítěte (LDS)";
+
+/* (No Comment) */
+"_PersonEvent_LDSConfirmation" = "Biřmování (LDS)";
+
+/* (No Comment) */
+"_PersonEvent_LDSEndowment" = "Vložení věna (LDS)";
+
+/* (No Comment) */
+"_PersonEvent_LDSInitiatory" = "LDS iniciace";
+
+/* (No Comment) */
+"_PersonEvent_MilitaryAward" = "Vojenské ocenění";
+
+/* (No Comment) */
+"_PersonEvent_MilitaryDischarge" = "Vojenské propuštění";
+
+/* (No Comment) */
+"_PersonEvent_MilitaryInduction" = "Odvedení do armády";
+
+/* (No Comment) */
+"_PersonEvent_MilitaryService" = "Vojenská služba";
+
+/* (No Comment) */
+"_PersonEvent_Miscarriage" = "Potrat";
+
+/* (No Comment) */
+"_PersonEvent_Mission" = "Misie";
+
+/* (No Comment) */
+"_PersonEvent_Nationality" = "Národnost";
+
+/* (No Comment) */
+"_PersonEvent_Naturalization" = "Udělení státního občanství";
+
+/* (No Comment) */
+"_PersonEvent_NickName" = "Přezdívka";
+
+/* (No Comment) */
+"_PersonEvent_NobilityTypeTitle" = "Šlechtický titul";
+
+/* (No Comment) */
+"_PersonEvent_Occupation" = "Zaměstnání";
+
+/* (No Comment) */
+"_PersonEvent_Ordination" = "Vysvěcení";
+
+/* (No Comment) */
+"_PersonEvent_Probate" = "Osvědčení poslední vůle";
+
+/* (No Comment) */
+"_PersonEvent_Religion" = "Náboženství";
+
+/* (No Comment) */
+"_PersonEvent_Residence" = "Bydliště";
+
+/* (No Comment) */
+"_PersonEvent_Retirement" = "Penze";
+
+/* (No Comment) */
+"_PersonEvent_Will" = "Závěť";
+
+/* (No Comment) */
+"_PersonFact_BloodType" = "Krevní skupina";
+
+/* (No Comment) */
+"_PersonFact_CasteName" = "Kasta";
+
+/* (No Comment) */
+"_PersonFact_Clan" = "Rod";
+
+/* (No Comment) */
+"_PersonFact_CustomFamilySearchFactTitle" = "Vlastní fakt: %@";
+
+/* (No Comment) */
+"_PersonFact_Email" = "E-mail";
+
+/* (No Comment) */
+"_PersonFact_EyeColor" = "Barva očí";
+
+/* (No Comment) */
+"_PersonFact_HairColor" = "Barva vlasů";
+
+/* (No Comment) */
+"_PersonFact_Height" = "Výška";
+
+/* (No Comment) */
+"_PersonFact_Hobby" = "Koníček";
+
+/* (No Comment) */
+"_PersonFact_Honors" = "Vyznamenání";
+
+/* (No Comment) */
+"_PersonFact_NationalID" = "Národní identifikační číslo";
+
+/* (No Comment) */
+"_PersonFact_NationalOrTribalOrigin" = "Národní nebo kmenový původ";
+
+/* (No Comment) */
+"_PersonFact_NoChildren" = "Bez potomků";
+
+/* (No Comment) */
+"_PersonFact_NoCoupleRelationships" = "Žádné vztahy párů";
+
+/* (No Comment) */
+"_PersonFact_Phone" = "Telefonní číslo";
+
+/* (No Comment) */
+"_PersonFact_PhysicalDescription" = "Fyzický popis";
+
+/* (No Comment) */
+"_PersonFact_Possession" = "Vlastnictví";
+
+/* (No Comment) */
+"_PersonFact_Race" = "Etnický původ";
+
+/* (No Comment) */
+"_PersonFact_SkinColor" = "Barva pleti";
+
+/* Facts */
+"_PersonFact_SocialSecurityNumber" = "Číslo sociálního zabezpečení";
+
+/* (No Comment) */
+"_PersonFact_TribeName" = "Kmen";
+
+/* (No Comment) */
+"_PersonFact_Weight" = "Váha";
+
+/* (No Comment) */
+"ConclusionAdditionalNameType_Unnamed" = "Nepojmenovaný typ dalšího jména";
+
+/* (No Comment) */
+"ConclusionAssociateRelationType_Unnamed" = "Nejmenovaný vlivný typ vztahu";
+
+/* (No Comment) */
+"ConclusionFamilyEventType_Unnamed" = "Typ události bez jména rodiny";
+
+/* Conclusion Types */
+"ConclusionPersonEventType_Unnamed" = "Typ události bez jména osoby";
+
+/* (No Comment) */
+"ConclusionPersonFactType_Unnamed" = "Typ faktu bez jména osoby";
+
+/* (No Comment) */
+"ConclusionToDoPriorityType_Unnamed" = "Nepojmenovaný typ priority úkolu";
+
+/* (No Comment) */
+"ConclusionToDoStatusType_Unnamed" = "Nepojmenovaný typ stavu úkolu";
+
+/* (No Comment) */
+"ConclusionToDoTypeType_Unnamed" = "Nepojmenovaný typ úkolu";
+

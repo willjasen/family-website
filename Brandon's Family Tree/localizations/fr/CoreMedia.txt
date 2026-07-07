@@ -1,0 +1,36 @@
+﻿/* (No Comment) */
+"_MediaContainerListController_DeleteMediaButton" = "Supprimer le média";
+
+/* (No Comment) */
+"_MediaContainerListController_DeleteMediaInformative" = "Voulez-vous vraiment supprimer définitivement l'entrée du média sélectionnée ?";
+
+/* (No Comment) */
+"_MediaContainerListController_DeleteMediaMessage" = "Supprimer le média ?";
+
+/* (No Comment) */
+"_MediaContainerListController_DeleteMediaOrRelationInformative" = "Souhaitez-vous supprimer définitivement le média sélectionné ou souhaitez-vous uniquement supprimer la liaison avec le média et le conserver dans votre base de données ?";
+
+/* MediaContainerListController */
+"_MediaContainerListController_DeleteMediaOrRelationMessage" = "Supprimer le média ou la liaison avec le média ?";
+
+/* (No Comment) */
+"_MediaContainerListController_DeleteMediaRelationButton" = "Supprimer la liaison avec le média";
+
+/* (No Comment) */
+"_MediaContainerListController_FileWithoutTitleName" = "Fichier %d";
+
+/* (No Comment) */
+"_MediaContainerListController_NoDateTitle" = "Aucune date";
+
+/* (No Comment) */
+"_MediaContainerListController_SortingMode_ByDate" = "Par date de naissance";
+
+/* (No Comment) */
+"_MediaContainerListController_SortingMode_ByTitle" = "Par titre";
+
+/* Default Titles */
+"_MediaPicture_DefaultTitleWithDate" = "Photo de %@";
+
+/* (No Comment) */
+"_MediaVideo_DefaultTitleWithDate" = "Film de %@";
+

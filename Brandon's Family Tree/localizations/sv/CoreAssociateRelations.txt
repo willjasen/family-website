@@ -1,0 +1,78 @@
+﻿/* (No Comment) */
+"_AssociateRelation_Type_BestFriend" = "Bästa vän";
+
+/* (No Comment) */
+"_AssociateRelation_Type_BestFriend_Inverted" = "Bästa vän";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Boss" = "Chef";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Boss_Inverted" = "Arbetstagare";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Coworker" = "Medarbetare";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Coworker_Inverted" = "Medarbetare";
+
+/* Person Container */
+"_AssociateRelation_Type_Friend" = "Vän";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Friend_Inverted" = "Vän";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Godfather" = "Fadder";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Godfather_Inverted" = "Fadder till %@";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Neighbor" = "Granne";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Neighbor_Inverted" = "Granne";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Servant" = "Tjänare";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Servant_Inverted" = "Arbetsgivare/husbonde";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Teacher" = "Lärare";
+
+/* (No Comment) */
+"_AssociateRelation_Type_Teacher_Inverted" = "Student";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfBirth" = "Vittne vid födelse";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfBirth_Inverted" = "Vittne när %@ föddes";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfCivilMarriage" = "Vittne vid borgerlig vigsel";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfCivilMarriage_Inverted" = "Vittne när %@ vigdes borgerligt";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfDeath" = "Vittne vid död";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfDeath_Inverted" = "Vittne när %@ dog";
+
+/* Family Container */
+"_AssociateRelation_Type_WitnessOfMarriage" = "Vittne vid vigsel";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfMarriage_Inverted" = "Vittne när %@ vigdes";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfReligiousMarriage" = "Vittne vid kyrklig vigsel";
+
+/* (No Comment) */
+"_AssociateRelation_Type_WitnessOfReligiousMarriage_Inverted" = "Vittne när %@ vigdes kyrkligt";
+

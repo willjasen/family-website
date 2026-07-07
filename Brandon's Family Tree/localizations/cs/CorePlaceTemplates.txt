@@ -1,0 +1,318 @@
+﻿/* (No Comment) */
+"_EditPlaceTemplateKeysController_MergeTemplateKeysConflictInformative" = "Chystáte se sloučit pole místa „%@“ s polem místa „%@“, ale na některých místech vašeho rodokmenu se obě pole místa vyskytují na jednom místě. Zvolte, jak postupovat u těchto míst:";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_MergeTemplateKeysConflictKeepBoth" = "Ponechat obě hodnoty";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_MergeTemplateKeysConflictKeepSingle" = "Ponechat hodnotu %@";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_MergeTemplateKeysConflictMessage" = "Sloučit pole místa";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_MergeTemplateKeysDoneInformative" = "Pole místa '%@' bylo sloučeno s polem místa '%@'";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_MergeTemplateKeysDoneMessage" = "Pole místa byly sloučeny";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_ReallyMergeTemplateKeysInformative" = "Opravdu chcete sloučit pole šablony '%@' a '%@'? Poté se z nich stane jedno pole šablony.";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_ReallyMergeTemplateKeysMessage" = "Opravdu sloučit pole šablony?";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_RemoveTemplateKeyInformative" = "Opravdu chcete smazat vybrané pole šablony? Pro toto pole šablony jsou stále zadané informace, které budou trvale smazány.";
+
+/* EditPlaceTemplateKeysController */
+"_EditPlaceTemplateKeysController_RemoveTemplateKeyMessage" = "Opravdu smazat pole šablony? Všechna pole z míst budou trvale smazána.";
+
+/* (No Comment) */
+"_EditPlaceTemplatesController_MergeTemplateDoneMessage" = "Šablony míst byly sloučeny";
+
+/* (No Comment) */
+"_EditPlaceTemplatesController_MergeTemplatesDoneInformative" = "Šablony míst '%@' a '%@' byly úspěšně sloučeny.";
+
+/* (No Comment) */
+"_EditPlaceTemplatesController_ReallyMergeTemplateInformative" = "Opravdu chcete sloučit šablony '%@' a '%@'? Poté se z nich stane jedna šablona.";
+
+/* (No Comment) */
+"_EditPlaceTemplatesController_ReallyMergeTemplateMessage" = "Opravdu sloučit šablony?";
+
+/* (No Comment) */
+"_EditPlaceTemplatesController_RemoveTemplateInformative" = "Opravdu chcete smazat tuto šablonu místa? K této šabloně jsou připojena místa, která budou také trvale odstraněna, pokud tuto šablonu místa smažete.";
+
+/* EditPlaceTemplatesController */
+"_EditPlaceTemplatesController_RemoveTemplateMessage" = "Opravdu smazat šablonu místa? Všechna připojená místa budou trvale smazána.";
+
+/* (No Comment) */
+"_PlaceTemplate_PlacesCount" = "%d míst(a)";
+
+/* Counts */
+"_PlaceTemplate_PlacesCountSingular" = "%d místo";
+
+/* Relation Usage */
+"_RelationUsage_AdministrativeDivision1" = "Administrativní oblast 1";
+
+/* (No Comment) */
+"_RelationUsage_AdministrativeDivision2" = "Administrativní oblast 2";
+
+/* (No Comment) */
+"_RelationUsage_AdministrativeDivision3" = "Administrativní oblast 3";
+
+/* (No Comment) */
+"_RelationUsage_AdministrativeDivision4" = "Administrativní oblast 4";
+
+/* (No Comment) */
+"_RelationUsage_AdministrativeDivision5" = "Administrativní oblast 5";
+
+/* (No Comment) */
+"_RelationUsage_AdministrativeDivisionOther" = "Jiná administrativní oblast";
+
+/* (No Comment) */
+"_RelationUsage_CountryName" = "Název země";
+
+/* (No Comment) */
+"_RelationUsage_PlaceName" = "Název místa";
+
+/* (No Comment) */
+"PlaceTemplate_Australia" = "Austrálie";
+
+/* (No Comment) */
+"PlaceTemplate_Austria" = "Rakousko";
+
+/* (No Comment) */
+"PlaceTemplate_Belgium" = "Belgie";
+
+/* (No Comment) */
+"PlaceTemplate_Bosnia and Herzegovina" = "Bosna a Hercegovina";
+
+/* (No Comment) */
+"PlaceTemplate_Brazil" = "Brazílie";
+
+/* (No Comment) */
+"PlaceTemplate_Bulgaria" = "Bulharsko";
+
+/* (No Comment) */
+"PlaceTemplate_Canada (Province)" = "Kanada (provincie)";
+
+/* (No Comment) */
+"PlaceTemplate_Canada (Territory)" = "Kanada (území)";
+
+/* (No Comment) */
+"PlaceTemplate_China" = "Čína";
+
+/* (No Comment) */
+"PlaceTemplate_Croatia" = "Chorvatsko";
+
+/* (No Comment) */
+"PlaceTemplate_Czechia" = "Česko";
+
+/* (No Comment) */
+"PlaceTemplate_Denmark" = "Dánsko";
+
+/* (No Comment) */
+"PlaceTemplate_England (Borough)" = "Anglie (čtvrť)";
+
+/* (No Comment) */
+"PlaceTemplate_England (Parish)" = "Anglie (farnost)";
+
+/* (No Comment) */
+"PlaceTemplate_Finland" = "Finsko";
+
+/* (No Comment) */
+"PlaceTemplate_France" = "Francie";
+
+/* Templates */
+"PlaceTemplate_Generic" = "Obecná";
+
+/* (No Comment) */
+"PlaceTemplate_Generic_Level" = "Obecná (%d úrovně)";
+
+/* (No Comment) */
+"PlaceTemplate_Generic_OneComponent" = "Obecná (jedna úroveň)";
+
+/* (No Comment) */
+"PlaceTemplate_Generic_ThreeComponents" = "Obecná (tři úrovně)";
+
+/* (No Comment) */
+"PlaceTemplate_Generic_TwoComponents" = "Obecná (dvě úrovně)";
+
+/* (No Comment) */
+"PlaceTemplate_Germany" = "Německo";
+
+/* (No Comment) */
+"PlaceTemplate_Greece" = "Řecko";
+
+/* (No Comment) */
+"PlaceTemplate_Hungary" = "Maďarsko";
+
+/* (No Comment) */
+"PlaceTemplate_Ireland" = "Irsko";
+
+/* (No Comment) */
+"PlaceTemplate_Italy" = "Itálie";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Administrative Divison" = "Administrativní oblast";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Administrative Unit" = "Administrativní jednotka";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Autonomos Region" = "Autonomní oblast";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Borough" = "Městská část";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Canton" = "Kanton";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Commune" = "Komuna";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Country" = "Země";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_County" = "Okres";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Decentralized Administration" = "Decentralizovaná správa";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Department" = "Oddělení";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_District" = "Okres";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Federal District" = "Spolkový okres";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Federal Subject" = "Spolkový subjekt";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Kray" = "Kray";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Level" = "Úroveň %d";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Municipality" = "Obec";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Oblast" = "Oblast";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Parish" = "Farní";
+
+/* Template Keys */
+"PlaceTemplate_KeyName_Place" = "Místo";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Province" = "Provincie";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Region" = "Kraj";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Republic" = "Republika";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_State" = "Stát";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Territory" = "Oblast";
+
+/* (No Comment) */
+"PlaceTemplate_Mexico" = "Mexiko";
+
+/* (No Comment) */
+"PlaceTemplate_Netherlands" = "Nizozemí";
+
+/* (No Comment) */
+"PlaceTemplate_Norway" = "Norsko";
+
+/* (No Comment) */
+"PlaceTemplate_Poland" = "Polsko";
+
+/* (No Comment) */
+"PlaceTemplate_Portugal" = "Portugalsko";
+
+/* (No Comment) */
+"PlaceTemplate_Romania" = "Rumunsko";
+
+/* (No Comment) */
+"PlaceTemplate_Russia" = "Rusko";
+
+/* (No Comment) */
+"PlaceTemplate_Serbia" = "Srbsko";
+
+/* (No Comment) */
+"PlaceTemplate_Slovakia" = "Slovensko";
+
+/* (No Comment) */
+"PlaceTemplate_Slovenia" = "Slovinsko";
+
+/* (No Comment) */
+"PlaceTemplate_Spain" = "Španělsko";
+
+/* (No Comment) */
+"PlaceTemplate_Sweden" = "Švédsko";
+
+/* (No Comment) */
+"PlaceTemplate_Switzerland" = "Švýcarsko";
+
+/* (No Comment) */
+"PlaceTemplate_United Kingdom" = "Spojené království";
+
+/* (No Comment) */
+"PlaceTemplate_United States of America" = "Spojené státy americké";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationBracketMode_AngleBrackets" = "Ostré závorky";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationBracketMode_Brackets" = "Kulaté závorky";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationBracketMode_CurlyBrackets" = "Složené závorky";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationBracketMode_DoubleQuotes" = "Dvojité uvozovky";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationBracketMode_None" = "Žádné";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationBracketMode_SingleQuotes" = "Jednoduché uvozovky";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationMode_Normal" = "Normální";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationMode_Short" = "Krátká";
+
+/* Enums */
+"PlaceTemplateKeyRelation_CitationMode_VeryShort" = "Velmi krátká";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationTrailingMode_Colon" = "Dvojtečka";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationTrailingMode_Comma" = "Čárka";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationTrailingMode_Hyphen" = "Spojovník";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationTrailingMode_Period" = "Tečka";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationTrailingMode_Semicolon" = "Středník";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationTrailingMode_Space" = "Mezera";
+

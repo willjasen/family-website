@@ -1,0 +1,1134 @@
+﻿/* BurnWebSiteExportPublish */
+"_BurnWebSiteExportPublish_Title" = "Brenn nettsiden på CD/DVD";
+
+/* FTPWebSiteExportPublish */
+"_FTPWebSiteExportPublish_Title" = "Last opp til FTP-server";
+
+/* (No Comment) */
+"_FTPWebSiteExportPublish_UploadFailed" = "FTP-opplasting mislykket";
+
+/* (No Comment) */
+"_FTPWebSiteExportPublish_UploadFinishedMessage" = "Opplasting til FTP-server «%@» har blitt fullført etter %@.";
+
+/* (No Comment) */
+"_FTPWebSiteExportPublish_UploadFinishedTitle" = "FTP-opplasting fullført";
+
+/* (No Comment) */
+"_FTPWebSiteExportPublish_UploadProgress" = "Lastet opp %.2f av %.2f MB";
+
+/* (No Comment) */
+"_FTPWebSiteExportPublish_UploadProgressHeadline" = "Laster opp til FTP-server…";
+
+/* (No Comment) */
+"_MacFamilyTreeComEditTree_NoPasswordEntered" = "Vennligst tast inn et passord for nettsiden din på MacFamilyTree.com";
+
+/* MacFamilyTreeComEditTree */
+"_MacFamilyTreeComEditTree_Title" = "Rediger treets innstillinger";
+
+/* MacFamilyTreeComEditUser */
+"_MacFamilyTreeComEditUser_Title" = "Rediger min konto";
+
+/* (No Comment) */
+"_MacFamilyTreeComLoginView_ForgotPasswordButton" = "Glemt passord";
+
+/* (No Comment) */
+"_MacFamilyTreeComLoginView_LoginButton" = "Logg på";
+
+/* (No Comment) */
+"_MacFamilyTreeComLoginView_Password" = "Passord:";
+
+/* (No Comment) */
+"_MacFamilyTreeComLoginView_RegisterButton" = "Opprett ny konto";
+
+/* MacFamilyTreeComLoginView */
+"_MacFamilyTreeComLoginView_UserName" = "Brukernavn:";
+
+/* MacFamilyTreeComRegisterNewTree */
+"_MacFamilyTreeComRegisterNewTree_Title" = "Last opp ny nettside";
+
+/* MacFamilyTreeComRegisterNewUser */
+"_MacFamilyTreeComRegisterNewUser_Title" = "Meld deg på MacFamilyTree.com";
+
+/* (No Comment) */
+"_MacFamilyTreeComWebSiteExportPublish_ListTopHint" = "Velg en nettside som skal erstattes, fra listen nedenfor, eller velg å laste opp en ny nettside.";
+
+/* (No Comment) */
+"_MacFamilyTreeComWebSiteExportPublish_NoTreesPresentMessage" = "Du har ennå ikke lastet opp noen nettside til MacFamilyTree.com. Bruk knappen \"Ny nettside\" for å laste opp din første nettside.";
+
+/* (No Comment) */
+"_MacFamilyTreeComWebSiteExportPublish_NoTreesPresentTitle" = "Ingen nettsider på MacFamilyTree.com";
+
+/* (No Comment) */
+"_MacFamilyTreeComWebSiteExportPublish_ReplaceExistingTreeButton" = "Erstatt nettside";
+
+/* MacFamilyTreeComWebSiteExportPublish */
+"_MacFamilyTreeComWebSiteExportPublish_Title" = "Last opp til MacFamilyTree.com";
+
+/* (No Comment) */
+"_MacFamilyTreeComWebSiteExportPublish_UploadNewTreeButton" = "Ny nettside";
+
+/* (No Comment) */
+"_MacFamilyTreeComWebSiteExportPublish_UploadProgressHeadline" = "Laster opp til MacFamilyTree.com…";
+
+/* (No Comment) */
+"_ManageMacFamilyTreeCom_DeleteTree_Informative" = "Vil du virkelig slette nettsiden «%@» fra MacFamilyTree.com? Dette kan ikke angres.";
+
+/* (No Comment) */
+"_ManageMacFamilyTreeCom_DeleteTree_Message" = "Virkelig slette nettsiden på MacFamilyTree.com?";
+
+/* (No Comment) */
+"_ManageMacFamilyTreeCom_EditUserButton" = "Rediger min konto";
+
+/* (No Comment) */
+"_ManageMacFamilyTreeCom_ListTopHint" = "Nedenfor vises en liste over alle nettsider du har opprettet på MacFamilyTree.com. Du kan fjerne nettsidene eller redigere tittelen og passordbeskyttelsen ved å velge en nettside. For å erstatte innholdet gå tilbake til forrige side, rediger eller legg til en nettside der, og velg «Publiser».";
+
+/* (No Comment) */
+"_ManageMacFamilyTreeCom_LogoutButton" = "Logg av";
+
+/* (No Comment) */
+"_ManageMacFamilyTreeCom_NoTreesPresentMessage" = "Du har ikke lastet opp noen nettside til MacFamilyTree.com. For å laste opp en nettside må du opprette en nettside på forrige side og laste det opp til MacFamilyTree.com.";
+
+/* (No Comment) */
+"_ManageMacFamilyTreeCom_NoTreesPresentTitle" = "Ingen nettsider på MacFamilyTree.com";
+
+/* ManageMacFamilyTreeCom */
+"_ManageMacFamilyTreeCom_Title" = "Administrer nettsider og konto på MacFamilyTree.com";
+
+/* (No Comment) */
+"_WebSiteExport_Beach_Theme" = "Tema «strand»";
+
+/* (No Comment) */
+"_WebSiteExport_Blue_Theme" = "Tema «blå fjell»";
+
+/* (No Comment) */
+"_WebSiteExport_BurnCDMenuItem" = "Brenn CD/DVD…";
+
+/* (No Comment) */
+"_WebSiteExport_Chart_Page_Chart_Section_Title" = "Lagret diagram";
+
+/* (No Comment) */
+"_WebSiteExport_Charts_Page_Charts_Section_Title" = "Lagrede diagrammer";
+
+/* Saved Charts Page */
+"_WebSiteExport_Charts_Page_Title_Section_Title" = "Diagrammer";
+
+/* Themes */
+"_WebSiteExport_Classic_Theme" = "Klassisk tema";
+
+/* (No Comment) */
+"_WebSiteExport_Clean_Theme" = "Rent tema";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ActiveLinkColor" = "Farge på aktiv lenke";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_BlurRadius" = "Uskarphetsradius";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Color" = "Farge";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ColorizePersonPlaceholderImages" = "Fargetoning etter kjønn";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_CustomHomePageImage" = "Velg et egendefinert bilde nedenfor som skal vises på hjemmesiden.";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_DisableAnimations" = "Deaktiver animasjoner";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_DNAPageSettings" = "DNA-side";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_EnabledStatisticChartTypes" = "Statistiske diagrammer";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_EventPageSettings" = "Hendelsesside";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ExportPersonsModeAll" = "Alle personer";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ExportPersonsModeFromPersonGroups" = "Personer i persongrupper";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ExportPersonsModeFromScope" = "Personer i smartfilter";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_FamilyPageSettings" = "Familieside";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Font" = "Skrifttype";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HideDetailsOfLivingPersons" = "Skjul nålevende personers detaljer";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HideInformationMarkedAsPrivate" = "Skjul informasjon merket som fortrolig";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Highlight_Color_Number" = "Farge #%d";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HomePageImageType" = "Bilde";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HomePageImageType_CustomImage" = "Brukerdefinert bilde";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HomePageImageType_FamilyCrest" = "Slektsvåpen";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HomePageImageType_None" = "Ingen";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HomePageImageType_StartPerson" = "Fra startperson";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HomePageSettings" = "Hjemmeside";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartAlignment" = "Timeglassdiagram-plassering";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartConnectionItemCornerRadius" = "Hjørneradius";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartPersonItemBorderColor" = "Kantlinjefarge";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartPersonItemBorderWidth" = "Kantlinjetykkelse";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartPersonItemCornerRadius" = "Hjørneradius";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartPersonItemSubTitleColor" = "Undertittelfarge";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartPersonItemSubTitleFont" = "Undertittelens skrifttype";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartPersonItemTitleColor" = "Tittelfarge";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartPersonItemTitleFont" = "Tittelens skrifttype";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_HourglassChartSelectedPersonItemBorderWidth" = "Valgt kantlinjetykkelse";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ImprintPageSettings" = "Kontakt";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeAudio" = "Lydmedier";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeDNA" = "DNA-informasjon";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeGEDCOMFile" = "Nedlastbar GEDCOM-fil";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeLabels" = "Etiketter";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeLastEdited" = "Siste endring";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeNumberingSystemString" = "Informasjon om nummereringssystem";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludePDFs" = "PDFer";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludePersonGroups" = "Persongrupper";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludePictures" = "Bilder";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeSavedCharts" = "Lagrede diagrammer";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeSources" = "Kilder";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeStories" = "Historier";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeURLs" = "URLer";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_IncludeVideos" = "Videoer";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Label_For_Family_Members" = "Etikett for familiemedlemmer";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Label_For_Family_Members_Use_Man_Woman" = "Bruk mann/kvinne";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Label_For_Family_Members_Use_Partner1_Partner2" = "Bruk partner 1/partner 2";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Language_Label" = "Språk";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_LinkColor" = "Farge på lenker";
+
+/* Configuration */
+"_WebSiteExport_Configuration_MajorGroupTitle_General" = "Generelt";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MajorGroupTitle_HourglassChart" = "Timeglassdiagram";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MajorGroupTitle_Pages" = "Sider";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MajorGroupTitle_Persons" = "Personer";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MajorGroupTitle_Theme" = "Tema";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MediaPageSettings" = "Medieside";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MidGroupTitle_HourglassChartOtherPersonItem" = "Andre personer";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MidGroupTitle_HourglassChartSelectedPersonItem" = "Person i fokus";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Animations" = "Animasjoner";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_ExportOptions" = "Alternativer";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_ExportPersonsMode" = "Personer som skal tas med";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_HighlightColors" = "Uthevingsfarger";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_HomePageImage" = "Bilde";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_HomePageIntroduction" = "Introduksjon";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_HourglassChart_Background" = "Bakgrunn";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_HourglassChart_ConnectionItem" = "Koblinger";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_HourglassChart_PersonItem" = "Personer";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_ImprintAuthorContact" = "Kontakt til forfatter";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Includes" = "Inkluder";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Introduction" = "Introduksjon";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Links" = "Lenker";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Menu" = "Meny";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_PageSections" = "Sideseksjoner";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_PersonPageHourglassChart" = "Timeglassdiagram";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Persons" = "Personer";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Privacy" = "Personvern";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Sections" = "Seksjoner";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_StartPerson" = "Startperson";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_ThemeImages" = "Temabilder";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_Title" = "Tittel";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_MinorGroupTitle_WebSite" = "Nettsted";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_OptimizePictureFileSize" = "Optimaliser bildestørrelse for mindre filstørrelse";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_PageSections" = "Sideseksjoner";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_PersonGroupPageSettings" = "Side om persongruppe";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_PersonNameFormate" = "Navneformat for personer";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_PersonPageSettings" = "Side om person";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_PlacePageSettings" = "Side om sted";
+
+/* Website Configuration */
+"_WebSiteExport_Configuration_Popup_Title" = "Innstillinger";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Section_Placement_Full_Width" = "Full bredde";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Section_Placement_Header" = "Topptekst";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Section_Placement_Left" = "Venstre";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Section_Placement_Right" = "Høyre";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Section_Placement_Side" = "Side";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ShowFamilyCrestInTitle" = "Vis slektsvåpen i tittel";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_SourcePageSettings" = "Side om kilde";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_StatisticsPageSettings" = "Side om statistikk";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_StoryPageSettings" = "Side om historie";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_TextAlignment" = "Plassering";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_TextAlignment_Center" = "Sentrert";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_TextAlignment_Left" = "Venstre";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_TextAlignment_Right" = "Høyre";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Theme_Label" = "Tema";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_Theme_Title" = "Temaets tittel";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ThemeBackgroundImage" = "Bakgrunnsbilde";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ThemeHeaderBackgroundImage" = "Bilde i toppen";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_UseFamilyCrestAsFavicon" = "Bruk slektsvåpen som favorittikon";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteAuthorAddress" = "Adresse";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteAuthorEmail" = "E-postadresse";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteAuthorName" = "Forfatter";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteAuthorPhone" = "Telefon";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteImprintNote" = "Notat";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteIntroduction" = "Introduksjon";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteStartPerson" = "Startperson";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteSubTitle" = "Undertittel";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_WebSiteTitle" = "Tittel";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_3" = "Sjekk serverens nettadresse og banen.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_6" = "Kan ikke løse vert.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_7" = "Kan ikke koble til vert.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_9" = "Ingen tilgang.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_25" = "FTP-serveren avviste STORE-kommandoen.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_30" = "FTP-portfeil.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_35" = "SSL/TLS-tilkobling mislyktes.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_60" = "Peer-sertifikatet kan ikke bekreftes med kjente CA-sertifikater.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_64" = "Forespurt FTP-SSL-nivå feilet.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_67" = "Pålogging avvist. Vennligst sjekk ditt brukernavn og passord for ftp-serveren.";
+
+/* (No Comment) */
+"_WebSiteExport_CurlError_73" = "Filen finnes allerede og kan ikke overskrives. Sjekk dine tillatelser på serveren.";
+
+/* CurlErrorCodes */
+"_WebSiteExport_CurlError_Generic" = "Intern feil (%d).";
+
+/* (No Comment) */
+"_WebSiteExport_Dark_Theme" = "Mørkt tema";
+
+/* (No Comment) */
+"_WebSiteExport_DarkBubbles_Theme" = "Mørke bobler";
+
+/* (No Comment) */
+"_WebSiteExport_Default_WebSiteExportFolderName" = "Nettside om mitt familietre";
+
+/* Details Of Living Persons Hidden */
+"_WebSiteExport_Details_Of_Living_Persons_Hidden_Person_Name" = "Persondetaljer skjult";
+
+/* (No Comment) */
+"_WebSiteExport_ExportToFolderMenuItem" = "Eksporter til mappe…";
+
+/* (No Comment) */
+"_WebSiteExport_Flowers_Theme" = "Tema «blomster»";
+
+/* (No Comment) */
+"_WebSiteExport_Forest_Path_Theme" = "Tema «skogssti»";
+
+/* (No Comment) */
+"_WebSiteExport_Forest_Theme" = "Tema «skog»";
+
+/* (No Comment) */
+"_WebSiteExport_Green_Hills_Theme" = "Soloppgang";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Created_On" = "Opprettet %@";
+
+/* Home Page */
+"_WebSiteExport_Home_Page_Created_With_MacFamilyTree" = "Nettside laget med MacFamilyTree 11";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Download_GedcomFile_Description" = "Last ned en GEDCOM-fil for dette familietreet ved å klikke på bildet ovenfor. GEDCOM-filer kan importeres av nesten alle slektsforskningsprogrammer på markedet.";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_GedcomFile_DownloadLinkTitle" = "Last ned GEDCOM-fil";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_BookmarkedFamilies" = "Bokmerkede familier";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_BookmarkedMedia" = "Bokmerkede medier";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_BookmarkedPersons" = "Bokmerkede personer";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_BookmarkedPlaces" = "Bokmerkede steder";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_BookmarkedSources" = "Bokmerkede kilder";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_CreationDate" = "Opprettelsesdato";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_GedcomFile" = "GEDCOM-fil";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_Image" = "Bilde eller slektsvåpen";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_Introduction" = "Introduksjon";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_Introduction_Placeholder" = "Dette er en plassholder for introduksjonen. Du kan endre den via Nettsted > Sider > Hjemmeside.";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_StartPerson" = "Startperson";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_SubTitle" = "Undertittel";
+
+/* (No Comment) */
+"_WebSiteExport_Home_Page_Section_Title" = "Tittel";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Author_Contact_Section_Title" = "Kontakt til forfatter";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Note_Section_Title" = "Notat";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Synium_Contact_AppStore_Label" = "Mac App Store";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Synium_Contact_AppStore_Link_11" = "MacFamilyTree 11";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Synium_Contact_Company" = "Synium Software GmbH Tyskland";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Synium_Contact_Company_Label" = "Selskap";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Synium_Contact_Section_Title" = "Synium kontakt";
+
+/* (No Comment) */
+"_WebSiteExport_Imprint_Page_Synium_Contact_Website_Label" = "Nettsted";
+
+/* Imprint Page */
+"_WebSiteExport_Imprint_Page_Title_Section_Title" = "Kontakt";
+
+/* (No Comment) */
+"_WebSiteExport_IndexCards_Theme" = "Kartotekkort-tema";
+
+/* (No Comment) */
+"_WebSiteExport_Inspector_ThemesTitle" = "Temaer";
+
+/* Inspector */
+"_WebSiteExport_Inspector_WebSiteSettingsTitle" = "Nettsted";
+
+/* (No Comment) */
+"_WebSiteExport_Leafs_Theme" = "Tema «blad»";
+
+/* (No Comment) */
+"_WebSiteExport_LeftMenu_Theme" = "Tema for venstre meny";
+
+/* (No Comment) */
+"_WebSiteExport_LeftMenuBlurryBackground_Theme" = "Fiolett tema";
+
+/* (No Comment) */
+"_WebSiteExport_List_No_Entry_DueToSearch_Placeholder" = "Ingen oppføring funnet som passer søkestrengen.";
+
+/* (No Comment) */
+"_WebSiteExport_List_No_Entry_Placeholder" = "Ingen oppføring funnet.";
+
+/* Lists */
+"_WebSiteExport_List_Search_Placeholder" = "Søk…";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_By" = "Sortér etter";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Family_Last_Name_Key" = "Familiens etternavn";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Family_Name_Key" = "Etternavn";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_BirthDate_Key" = "Fødselsdato";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_DeathDate_Key" = "Dødsdato";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_FirstName_Key" = "Fornavn";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_Group_Name_Key" = "Gruppenavn";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_LastName_Key" = "Etternavn";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_NameMiddle_Key" = "Mellomnavn";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_NamePrefix_Key" = "Navneprefiks";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Person_NameSuffix_Key" = "Navnesuffiks";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Place_Name_Key" = "Stedsnavn";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Source_Title_Key" = "Kildetittel";
+
+/* (No Comment) */
+"_WebSiteExport_List_Sort_Story_Title_Key" = "Historiens tittel";
+
+/* (No Comment) */
+"_WebSiteExport_LoadingFamilyTreeData" = "Laster familietre…";
+
+/* (No Comment) */
+"_WebSiteExport_LoadingFamilyTreeData_Failed" = "Lasting av familietre feilet";
+
+/* (No Comment) */
+"_WebSiteExport_ManageThemes_Label" = "Tema:";
+
+/* (No Comment) */
+"_WebSiteExport_ManageWebSiteExportThemes" = "Administrer temaer";
+
+/* (No Comment) */
+"_WebSiteExport_ManageWebSiteExportThemes_AddThemeHint" = "Velg et tema som du vil legge til for nettsiden, fra listen nedenfor.";
+
+/* (No Comment) */
+"_WebSiteExport_ManageWebSiteExportThemes_AddThemeTitle" = "Legg til tema";
+
+/* (No Comment) */
+"_WebSiteExport_ManageWebSiteExportThemes_Hint" = "Nedenfor er en liste over alle temaer som er tilknyttet denne nettsiden. Bruk knappen «Legg til» ovenfor for å legge til flere temaer. Du kan dra og slippe temaer for å endre deres rekkefølge. Første temaet i listen brukes som standardtema for nettsiden din.";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Charts" = "Diagrammer";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Families" = "Familier";
+
+/* Website Menu */
+"_WebSiteExport_Menu_HomePage" = "Hjem";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Imprint" = "Kontakt";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_PersonGroups" = "Persongrupper";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Persons" = "Personer";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Places" = "Steder";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Sources" = "Kilder";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Statistics" = "Statistikk";
+
+/* (No Comment) */
+"_WebSiteExport_Menu_Stories" = "Historier";
+
+/* (No Comment) */
+"_WebSiteExport_MFT11_Theme" = "Elleve";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_AuthenticationFailed" = "Godkjenning mislyktes. Vennligst sjekk om du har lagt inn korrekt brukernavn og passord.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Client_Error" = "Klientfeil";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Client_Error_Informative_Text" = "En klientfeil har oppstått (%@). Vennligst prøv igjen. Hvis problemet vedvarer, vennligst kontakt vårt supportteam.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_CommandMismatch" = "Kommando samsvarer ikke";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_CommandUnknown" = "Ukjent kommando";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Connection_Error" = "Tilkoblingsfeil";
+
+/* MFT server NSURLConnection errors */
+"_WebSiteExport_MFTExport_ConnectionErrorCannotConnectToHost" = "Kunne ikke koble til MacFamilyTree.com's server. Vennligst sjekk din internettilkobling og prøv igjen.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_ConnectionErrorCannotFindHost" = "Kunne ikke kontakte MacFamilyTree.com (DNS-oppslag mislyktes). Vennligst sjekk at din internettilkobling er aktiv.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_ConnectionErrorTimedOut" = "Tilkoblingen til MacFamilyTree.com's server fikk tidsavbrudd. Vennligst prøv på nytt senere.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Delete_Old_Files" = "Slett gamle filer";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_DeleteFailed" = "Sletting av filer mislyktes";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error" = "Ukjent feil";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_Connection_Cant_Be_Initialized" = "Forbindelse kan ikke opprettes";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_Email_Not_Valid" = "E-postadresse ikke godkjent";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_NoSSL_Connect_Without_SSL" = "Koble til";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_Not_Logged_In" = "Ikke pålogget";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_Password_Empty" = "Passordfelt tomt";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_Passwords_mismatch" = "Passord stemmer ikke overens";
+
+/* MFT Upload */
+"_WebSiteExport_MFTExport_Error_Undefined" = "Udefinert feil";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_Upload_Limit_Exceeded" = "Din nettside overstiger opplastingsgrensen. Vennligst velg bort enkelte store mediefiler (PDFer, filmer, bilder) og prøv på nytt.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_User_Or_Password_Empty" = "Brukernavn eller passord tomt";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Error_User_String_Not_Valid" = "Vennligst bruk kun alfanumeriske tegn i brukernavnet";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Failed" = "Opplasting mislykket";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_FileHashesError" = "Feil i opplastede hash-koder";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Get_FileHashes" = "Hent fil-hash-koder";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Get_Upload_Limit" = "Hent opplastingsgrense";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Open_In_Browser" = "Åpne i nettleser";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_PersonListInvalid" = "Feil i opplastet personliste";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_PersonUpdateFailed" = "Oppdatering av personer feilet";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Server_Error" = "Serverfeil";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Server_Error_Informative_Text" = "MacFamilyTree.com-serveren er for øyeblikket ikke tilgjengelig. Vennligst prøv igjen senere.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Successful" = "Opplasting vellykket";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Successful_Informative_Text" = "Din nettside har blitt lastet opp. Du kan nå åpne nettsiden i nettleseren din.";
+
+/* MFT server error keys */
+"_WebSiteExport_MFTExport_TreeNameInvalid" = "Ugyldig nettsidenavn. Vennligst bruk kun alfanumeriske tegn.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_TreeNameTaken" = "En nettside med dette navnet finnes allerede.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_TreeNameTooLong" = "Navnet på nettsiden er for langt (maks. %@ tegn).";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_TreeNameTooShort" = "Navnet på nettsiden er for kort (min. %@ tegn).";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_TreeNotFound" = "Nettside ikke funnet.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_TreePasswordInvalid" = "Ugyldig passord for nettsiden.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_TreePasswordTooShort" = "Passordet for nettsiden er for kort (min. %@ tegn).";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Unknown_Error" = "Ukjent feil";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Unknown_Error_Informative_Text" = "En ukjent feil har oppstått (%@). Vennligst prøv igjen. Hvis feilen vedvarer, vennligst kontakt vårt supportteam.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UnzipFailed" = "Utpakking av nettside feilet";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Upload_New_FileHashes" = "Last opp nye fil-hash-koder";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Upload_New_Files" = "Last opp nye filer";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Upload_Successful" = "Opplasting vellykket";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Upload_Validating_New_Files" = "Validerer nye filer…";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_Upload_Validating_New_Persons_List" = "Validerer nye personer…";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_User_Or_Password_Wrong" = "Pålogging mislyktes. Brukernavn eller passord er feil.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserEmailAddressInvalid" = "E-postadresse ikke godkjent";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserEmailAddressTaken" = "Denne e-postadressen er allerede i bruk på en MacFamilyTree-konto. Du kan kun registrere én konto per e-postadresse.";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserNameInvalid" = "Brukernavn ikke godkjent";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserNameTaken" = "Brukernavnet finnes allerede";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserNameTooLong" = "Brukernavnet er for langt (maks. %@ tegn).";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserNameTooShort" = "Brukernavnet er for kort (min. %@ tegn).";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserPasswordInvalid" = "Brukerpassord ikke godkjent";
+
+/* (No Comment) */
+"_WebSiteExport_MFTExport_UserPasswordTooShort" = "Passordet er for kort (min. %@ tegn).";
+
+/* (No Comment) */
+"_WebSiteExport_NavigateBackButton" = "Tilbake";
+
+/* WebSitePane */
+"_WebSiteExport_NavigateForwardButton" = "Fram";
+
+/* (No Comment) */
+"_WebSiteExport_NoWebSitesPlaceholder_AddWebSiteButton" = "Legg til første nettside";
+
+/* (No Comment) */
+"_WebSiteExport_NoWebSitesPlaceholder_Message" = "Det finnes ingen nettsiderer for dette familietreet. Vennligst velg «Legg til første nettside» for å opprette din første nettside.";
+
+/* Websites */
+"_WebSiteExport_NoWebSitesPlaceholder_Title" = "Ingen nettsider funnet";
+
+/* (No Comment) */
+"_WebSiteExport_Page_Header_Section_Title" = "Toppseksjon";
+
+/* Common Page */
+"_WebSiteExport_Page_Overview_Section_Title" = "Oversikt";
+
+/* Person Page */
+"_WebSiteExport_Person_Page_Hourglass_Section_Title" = "Timeglassdiagram";
+
+/* Place Page */
+"_WebSiteExport_Place_Page_Map_Section_Title" = "Kart";
+
+/* (No Comment) */
+"_WebSiteExport_Place_Page_View_Place_In_Maps" = "Vis sted på kart";
+
+/* (No Comment) */
+"_WebSiteExport_Plain_Theme" = "Ensfarget";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_CollectingFamilyTreeInformation" = "Henter informasjon om familietre…";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_CreatingWebsiteForLocalViewingInformative" = "Oppretter nettside for lokal visning.";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_CreatingWebsiteForSharingInformative" = "Forbereder nettside for deling – vennligst vent";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_CreatingWebsiteForWebServerInformative" = "Oppretter nettside for nettserver.";
+
+/* Progress */
+"_WebSiteExport_Progress_CreatingWebsiteHeadline" = "Oppretter nettside…";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_CreatingWebsiteInformative" = "Vennligst vent";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_ExportingGedcom" = "Eksporterer GEDCOM…";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_ExportingMedia" = "Eksporterer mediefiler…";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_ExportingResources" = "Eksporterer kilder…";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_ExportingSavedCharts" = "Eksporterer lagrede diagrammer…";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_ExportingStatisticCharts" = "Eksporterer statistiske diagrammer…";
+
+/* (No Comment) */
+"_WebSiteExport_Progress_ExportingThemes" = "Eksporterer temaer…";
+
+/* (No Comment) */
+"_WebSiteExport_PublishButton" = "Publiser";
+
+/* (No Comment) */
+"_WebSiteExport_ResetThemeToDefaults" = "Tilbakestill tema til standardverdier";
+
+/* (No Comment) */
+"_WebSiteExport_ResetThemeToDefaults_Short" = "Tilbakestill";
+
+/* (No Comment) */
+"_WebSiteExport_ShareMenuItem" = "Del…";
+
+/* (No Comment) */
+"_WebSiteExport_ShouldSaveModifiedWebSite_InformativeText" = "Ønsker du å lagre endringene du har gjort på denne nettsiden?";
+
+/* (No Comment) */
+"_WebSiteExport_ShouldSaveModifiedWebSite_MessageText" = "Lagre endringene på nettsiden?";
+
+/* Manage Themes */
+"_WebSiteExport_Show_ManageThemes_MenuTitle" = "Administrer temaer…";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_DivorcedFamiliesCount" = "Skilte familier";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_EarliestEvent" = "Tidligste hendelse";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_Family_Statistics_Section_Title" = "Familiestatistikk";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_FamilyCount" = "Totalt antall familier";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_FamilyEventCount" = "Familiehendelser";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_FemalePersonCount" = "Kvinnelige personer";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_IntersexGenderPersonCount" = "Interkjønn-personer";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_LatestEvent" = "Nyeste hendelse";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_MalePersonCount" = "Mannlige personer";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_MarriedFamiliesCount" = "Gifte familier";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_Person_Statistics_Section_Title" = "Personstatistikk";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_PersonCount" = "Totalt antall personer";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_PersonEventCount" = "Personhendelser";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_StatisticCharts_Section_Title" = "Statistiske diagrammer";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_Time_Statistics_Section_Title" = "Tider og datoer";
+
+/* Statistics Page */
+"_WebSiteExport_Statistics_Page_Title_Section_Title" = "Statistikk";
+
+/* (No Comment) */
+"_WebSiteExport_Statistics_Page_UnknownGenderPersonCount" = "Personer med ukjent kjønn";
+
+/* (No Comment) */
+"_WebSiteExport_Stripes_Theme" = "Striper";
+
+/* (No Comment) */
+"_WebSiteExport_TopMenu_Theme" = "Tema for meny i toppen";
+
+/* (No Comment) */
+"_WebSiteExport_Unnamed_WebSite" = "Nettside uten navn";
+
+/* (No Comment) */
+"_WebSiteExport_UploadToFTPMenuItem" = "Last opp til FTP-server…";
+
+/* (No Comment) */
+"_WebSiteExport_UploadToMacFamilyTreeComMenuItem" = "Last opp til MacFamilyTree.com…";
+
+/* (No Comment) */
+"_WebSiteExport_WebSite_ChangeDate" = "Endringsdato: %@";
+
+/* (No Comment) */
+"_WebSiteExport_WebSite_CreationDate" = "Opprettelsesdato: %@";
+
+/* (No Comment) */
+"_WebSiteExportMFTTreeObject_Active" = "Tilkoblet";
+
+/* (No Comment) */
+"_WebSiteExportMFTTreeObject_NotActive" = "Ikke aktiv";
+
+/* (No Comment) */
+"_WebSiteExportMFTTreeObject_NotPublic" = "Ikke offentlig";
+
+/* WebSiteExportMFTTreeObject */
+"_WebSiteExportMFTTreeObject_Public" = "Offentlig";
+
+/* WebSitesPane */
+"_WebSites_AddNewWebSiteButton" = "Legg til ny nettside";
+
+/* (No Comment) */
+"_WebSites_DeleteWebSiteButton" = "Slett nettside";
+
+/* (No Comment) */
+"_WebSites_DuplicateWebSiteButton" = "Dobbel nettside";
+
+/* (No Comment) */
+"_WebSites_EditWebSiteButton" = "Rediger nettside";
+
+/* (No Comment) */
+"_WebSites_ManageMacFamilyTreeComButton" = "Administrer MacFamilyTree.com…";
+
+/* (No Comment) */
+"_WebSitesController_DeleteWebSiteInformative" = "Ønsker du virkelig å slette denne nettsiden?";
+
+/* WebSiteExportController */
+"_WebSitesController_DeleteWebSiteMessage" = "Slette nettside?";
+
+/* (No Comment) */
+"_WebSitesController_ExportedWebSiteToFolder" = "Eksport av nettside fullført";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToFolder_ForLocalViewing" = "For lokal visning";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToFolder_ForWebServer" = "For nettserver";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToFolder_OpenFolderInFinder" = "Vis i Finder";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToFolder_Question_Informative" = "Vil du eksportere nettsiden til en mappe for lokal visning eller vil du lagre nettsiden i et format som kan kjøres på en nettserver?";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToFolder_Question_Message" = "Eksporter nettside til mappe";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToShare_Question_Informative" = "Vil du dele eksportert nettside for lokal visning eller vil du dele nettsiden i et format som kan kjøres på en nettserver?";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToShare_Question_Message" = "Del eksportert nettside";
+
+/* (No Comment) */
+"_WebSitesController_LimitedPersonsForPreview_Question_Informative" = "Forhåndsvisningen viser maks. 500 personer. Nettsiden du eksporterer, vil imidlertid inneholde alle valgte personene.";
+
+/* (No Comment) */
+"_WebSitesController_LimitedPersonsForPreview_Question_Message" = "Forhåndsvisning";
+

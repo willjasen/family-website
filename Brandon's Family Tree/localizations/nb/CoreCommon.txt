@@ -1,0 +1,837 @@
+﻿/* (No Comment) */
+"_Common_Accept" = "Godta";
+
+/* (No Comment) */
+"_Common_Actions" = "Handlinger";
+
+/* (No Comment) */
+"_Common_AddButton" = "Legg til";
+
+/* (No Comment) */
+"_Common_Age" = "Alder";
+
+/* (No Comment) */
+"_Common_AscendingSortOrder" = "Stigende";
+
+/* (No Comment) */
+"_Common_AssignButton" = "Tildel";
+
+/* (No Comment) */
+"_Common_Assigned_Entries" = "Tildelte oppføringer";
+
+/* (No Comment) */
+"_Common_Authority" = "Myndighet";
+
+/* (No Comment) */
+"_Common_Back" = "Tilbake";
+
+/* (No Comment) */
+"_Common_BackgroundColor" = "Bakgrunnsfarge";
+
+/* (No Comment) */
+"_Common_BirthDate" = "Fødselsdato";
+
+/* (No Comment) */
+"_Common_BirthPlace" = "Fødested";
+
+/* (No Comment) */
+"_Common_Black" = "Sort";
+
+/* (No Comment) */
+"_Common_BrothersAndSisters" = "Søsken";
+
+/* (No Comment) */
+"_Common_CancelButton" = "Avbryt";
+
+/* (No Comment) */
+"_Common_Cause" = "Årsak";
+
+/* (No Comment) */
+"_Common_ChangeButton" = "Endre";
+
+/* (No Comment) */
+"_Common_ChangeDate" = "Endringsdato";
+
+/* (No Comment) */
+"_Common_Chart" = "Diagram";
+
+/* (No Comment) */
+"_Common_Child" = "Barn";
+
+/* (No Comment) */
+"_Common_ChildCountPlural" = "%d barn";
+
+/* (No Comment) */
+"_Common_ChildCountPluralString" = "%@ barn";
+
+/* (No Comment) */
+"_Common_ChildCountSingular" = "%d barn";
+
+/* (No Comment) */
+"_Common_ChildCountSingularString" = "%@ barn";
+
+/* (No Comment) */
+"_Common_Children" = "Barn";
+
+/* (No Comment) */
+"_Common_Childs" = "Barn";
+
+/* (No Comment) */
+"_Common_ChristeningDate" = "Dåpsdato";
+
+/* (No Comment) */
+"_Common_ChristeningPlace" = "Dåpssted";
+
+/* (No Comment) */
+"_Common_Citation_Notes" = "Henvisningsnotater";
+
+/* (No Comment) */
+"_Common_CloseButton" = "Lukk";
+
+/* (No Comment) */
+"_Common_Color" = "Farge";
+
+/* (No Comment) */
+"_Common_Colors_Blue" = "Blå";
+
+/* (No Comment) */
+"_Common_Colors_Green" = "Grønn";
+
+/* (No Comment) */
+"_Common_Colors_Magenta" = "Blårosa";
+
+/* (No Comment) */
+"_Common_Colors_Orange" = "Oransje";
+
+/* Colors */
+"_Common_Colors_Red" = "Rød";
+
+/* (No Comment) */
+"_Common_Colors_Turquoise" = "Turkis";
+
+/* (No Comment) */
+"_Common_Colors_Yellow" = "Gul";
+
+/* Keys */
+"_Common_CommandKey" = "⌘";
+
+/* Contextual */
+"_Common_ContextualMenu_ChangeLabel" = "Endre etikett";
+
+/* (No Comment) */
+"_Common_ContinueButton" = "Fortsett";
+
+/* (No Comment) */
+"_Common_ControlKey" = "CTRL";
+
+/* (No Comment) */
+"_Common_CopyButton" = "Kopier";
+
+/* (No Comment) */
+"_Common_Count" = "Antall";
+
+/* (No Comment) */
+"_Common_Country" = "Land";
+
+/* (No Comment) */
+"_Common_County" = "Fylke/county";
+
+/* (No Comment) */
+"_Common_Create" = "Opprett";
+
+/* (No Comment) */
+"_Common_CreationDate" = "Opprettelsesdato";
+
+/* (No Comment) */
+"_Common_Date" = "Dato";
+
+/* (No Comment) */
+"_Common_DeathDate" = "Dødsdato";
+
+/* (No Comment) */
+"_Common_DeathPlace" = "Dødssted";
+
+/* (No Comment) */
+"_Common_Decline" = "Avslå";
+
+/* (No Comment) */
+"_Common_Default" = "Standard";
+
+/* (No Comment) */
+"_Common_DeleteAllButton" = "Slett alle";
+
+/* (No Comment) */
+"_Common_DeleteButton" = "Slett";
+
+/* (No Comment) */
+"_Common_DeleteWithObject" = "Slett «%@»";
+
+/* (No Comment) */
+"_Common_DescendingSortOrder" = "Synkende";
+
+/* (No Comment) */
+"_Common_Description" = "Beskrivelse";
+
+/* (No Comment) */
+"_Common_DisableButton" = "Deaktiver";
+
+/* (No Comment) */
+"_Common_Discard" = "Forkast";
+
+/* (No Comment) */
+"_Common_DisplayButton" = "Vis";
+
+/* (No Comment) */
+"_Common_Done" = "Ferdig";
+
+/* (No Comment) */
+"_Common_DontAskAgainButton" = "Ikke spør igjen";
+
+/* (No Comment) */
+"_Common_Download" = "Last ned";
+
+/* (No Comment) */
+"_Common_DuplicateButton" = "Dublett";
+
+/* (No Comment) */
+"_Common_Edit" = "Rediger";
+
+/* (No Comment) */
+"_Common_EditWithObject" = "Rediger «%@»";
+
+/* (No Comment) */
+"_Common_EnableButton" = "Aktiver";
+
+/* (No Comment) */
+"_Common_Entries" = "Oppføringer";
+
+/* (No Comment) */
+"_Common_EntryCountPlural" = "%d oppføringer";
+
+/* (No Comment) */
+"_Common_EntryCountPluralString" = "%@ oppføringer";
+
+/* (No Comment) */
+"_Common_EntryCountSingular" = "%d oppføring";
+
+/* (No Comment) */
+"_Common_EntryCountSingularString" = "%@ oppføring";
+
+/* (No Comment) */
+"_Common_Error" = "Feil";
+
+/* Errors */
+"_Common_Errors_NoInternetConnection" = "Ingen internettilkobling tilgjengelig";
+
+/* (No Comment) */
+"_Common_Event" = "Hendelse";
+
+/* (No Comment) */
+"_Common_EventCountPlural" = "%d hendelser";
+
+/* (No Comment) */
+"_Common_EventCountSingular" = "%d hendelse";
+
+/* (No Comment) */
+"_Common_Events" = "Hendelser";
+
+/* (No Comment) */
+"_Common_EventsAtThisPlace" = "Hendelser på dette stedet";
+
+/* (No Comment) */
+"_Common_Example" = "Eksempel";
+
+/* (No Comment) */
+"_Common_Export" = "Eksporter";
+
+/* (No Comment) */
+"_Common_Fact" = "Opplysning";
+
+/* (No Comment) */
+"_Common_Facts" = "Opplysninger";
+
+/* (No Comment) */
+"_Common_Families" = "Familier";
+
+/* (No Comment) */
+"_Common_Family" = "Familie";
+
+/* (No Comment) */
+"_Common_FamilyEvents" = "Familiehendelser";
+
+/* (No Comment) */
+"_Common_FamilyTree" = "Familietre";
+
+/* (No Comment) */
+"_Common_Father" = "Far";
+
+/* (No Comment) */
+"_Common_Favorite" = "Favoritt";
+
+/* (No Comment) */
+"_Common_Favorites" = "Favoritter";
+
+/* (No Comment) */
+"_Common_Female" = "Kvinne";
+
+/* (No Comment) */
+"_Common_FirstName" = "Fornavn";
+
+/* (No Comment) */
+"_Common_FontStyle_Bold" = "Fet skrift";
+
+/* (No Comment) */
+"_Common_FontStyle_BoldItalic" = "Fet kursiv";
+
+/* (No Comment) */
+"_Common_FontStyle_Italic" = "Kursiv";
+
+/* (No Comment) */
+"_Common_FontStyle_Light" = "Lyst";
+
+/* (No Comment) */
+"_Common_FontStyle_Medium" = "Middels";
+
+/* Font Styles */
+"_Common_FontStyle_Normal" = "Normal";
+
+/* (No Comment) */
+"_Common_FontStyle_SemiBold" = "Semifet";
+
+/* Common */
+"_Common_Gender" = "Kjønn";
+
+/* (No Comment) */
+"_Common_Generation" = "Generasjon";
+
+/* (No Comment) */
+"_Common_GenerationsPluralString" = "%d generasjoner";
+
+/* (No Comment) */
+"_Common_GenerationsSingularString" = "%d generasjon";
+
+/* (No Comment) */
+"_Common_Generic" = "Generisk";
+
+/* (No Comment) */
+"_Common_Help" = "Hjelp";
+
+/* (No Comment) */
+"_Common_HideKeyboard" = "Skjul tastatur";
+
+/* (No Comment) */
+"_Common_IgnoreButton" = "Ignorer";
+
+/* (No Comment) */
+"_Common_Image" = "Bilde";
+
+/* (No Comment) */
+"_Common_ImportButton" = "Importer";
+
+/* Localization */
+"_Common_InternationalLocalization" = "Internasjonal";
+
+/* (No Comment) */
+"_Common_Intersex" = "Interkjønn";
+
+/* (No Comment) */
+"_Common_IsAssignedToFamilySearch" = "Er tildelt FamilySearch";
+
+/* (No Comment) */
+"_Common_IsBookmarked" = "Er bokmerket";
+
+/* (No Comment) */
+"_Common_IsNotAssignedToFamilySearch" = "Er ikke tildelt FamilySearch";
+
+/* (No Comment) */
+"_Common_IsNotBookmarked" = "Er ikke bokmerket";
+
+/* (No Comment) */
+"_Common_Label" = "Etikett";
+
+/* (No Comment) */
+"_Common_Labels" = "Etiketter";
+
+/* (No Comment) */
+"_Common_LastName" = "Etternavn";
+
+/* (No Comment) */
+"_Common_LaterButton" = "Senere";
+
+/* (No Comment) */
+"_Common_Link" = "Lenke";
+
+/* (No Comment) */
+"_Common_LoginButton" = "Logg på";
+
+/* (No Comment) */
+"_Common_LogoutButton" = "Logg av";
+
+/* (No Comment) */
+"_Common_Male" = "Mann";
+
+/* (No Comment) */
+"_Common_Man" = "Mann";
+
+/* (No Comment) */
+"_Common_MarkAsSeen" = "Merk som sett";
+
+/* (No Comment) */
+"_Common_Marriage" = "Vielse";
+
+/* (No Comment) */
+"_Common_MarriageDate" = "Vielsesdato";
+
+/* (No Comment) */
+"_Common_MarriagePlace" = "Vielsessted";
+
+/* (No Comment) */
+"_Common_Media" = "Medier";
+
+/* (No Comment) */
+"_Common_MergeButton" = "Slå sammen";
+
+/* (No Comment) */
+"_Common_MiddleName" = "Mellomnavn";
+
+/* (No Comment) */
+"_Common_Mother" = "Mor";
+
+/* (No Comment) */
+"_Common_MultipleSelected" = "%d valgt";
+
+/* (No Comment) */
+"_Common_Name" = "Navn";
+
+/* (No Comment) */
+"_Common_NeverButton" = "Aldri";
+
+/* (No Comment) */
+"_Common_NextButton" = "Neste";
+
+/* (No Comment) */
+"_Common_No" = "Nei";
+
+/* (No Comment) */
+"_Common_NoChildrenPlaceholder" = "Ingen barn";
+
+/* (No Comment) */
+"_Common_NoConclusionTypesPlaceholder" = "Ingen elementer";
+
+/* (No Comment) */
+"_Common_NoDatePlaceholder" = "Ingen dato";
+
+/* Empty */
+"_Common_NoInformationEnteredTooltip" = "Ingen opplysninger angitt";
+
+/* (No Comment) */
+"_Common_NoLabelsPlaceholder" = "Ingen etiketter";
+
+/* (No Comment) */
+"_Common_NoManPlaceholder" = "Ingen mann";
+
+/* (No Comment) */
+"_Common_NoNameAvailable" = "Intet navn tilgjengelig";
+
+/* (No Comment) */
+"_Common_None" = "Ingen";
+
+/* Selected Counts */
+"_Common_NoneSelected" = "Ingen valgt";
+
+/* (No Comment) */
+"_Common_NoPartnerPlaceholder" = "Ingen partner";
+
+/* (No Comment) */
+"_Common_NoPersonGroupsPlaceholder" = "Ingen persongrupper";
+
+/* Placeholders */
+"_Common_NoPersonPlaceholder" = "Ingen person";
+
+/* (No Comment) */
+"_Common_NoPlacePlaceholder" = "Intet sted";
+
+/* (No Comment) */
+"_Common_NoSourceTemplateKeysPlaceholder" = "Uten kildemalfelt";
+
+/* (No Comment) */
+"_Common_Note" = "Notat";
+
+/* (No Comment) */
+"_Common_Notes" = "Notater";
+
+/* (No Comment) */
+"_Common_NothingToSelected" = "Ingenting å velge";
+
+/* (No Comment) */
+"_Common_Now" = "I dag";
+
+/* (No Comment) */
+"_Common_NoWomanPlaceholder" = "Ingen kvinne";
+
+/* (No Comment) */
+"_Common_NumberingSystem" = "Nummereringssystem";
+
+/* Buttons */
+"_Common_OKButton" = "OK";
+
+/* (No Comment) */
+"_Common_OKDontAskAgainButton" = "OK. Ikke spør igjen";
+
+/* (No Comment) */
+"_Common_OneSelected" = "Ett valgt";
+
+/* (No Comment) */
+"_Common_OpenButton" = "Åpne";
+
+/* (No Comment) */
+"_Common_OpenInBrowser" = "Åpne i nettleser";
+
+/* (No Comment) */
+"_Common_OptionsButton" = "Alternativer";
+
+/* (No Comment) */
+"_Common_Order" = "Rekkefølge";
+
+/* (No Comment) */
+"_Common_OtherNames" = "Andre navn";
+
+/* (No Comment) */
+"_Common_Others" = "Andre";
+
+/* (No Comment) */
+"_Common_Page" = "Side";
+
+/* (No Comment) */
+"_Common_Parent1" = "Forelder 1";
+
+/* (No Comment) */
+"_Common_Parent2" = "Forelder 2";
+
+/* (No Comment) */
+"_Common_Parents" = "Foreldre";
+
+/* (No Comment) */
+"_Common_Partner" = "Partner";
+
+/* (No Comment) */
+"_Common_Partner1" = "Partner 1";
+
+/* (No Comment) */
+"_Common_Partner2" = "Partner 2";
+
+/* (No Comment) */
+"_Common_Partners" = "Partnere";
+
+/* (No Comment) */
+"_Common_Person" = "Person";
+
+/* (No Comment) */
+"_Common_PersonCountPlural" = "%d personer";
+
+/* (No Comment) */
+"_Common_PersonCountPluralString" = "%@ personer";
+
+/* Counts */
+"_Common_PersonCountSingular" = "%d person";
+
+/* (No Comment) */
+"_Common_PersonCountSingularString" = "%@ person";
+
+/* Events & Facts */
+"_Common_PersonEvents" = "Personhendelser";
+
+/* (No Comment) */
+"_Common_PersonFacts" = "Personopplysninger";
+
+/* (No Comment) */
+"_Common_Persons" = "Personer";
+
+/* (No Comment) */
+"_Common_Picture" = "Bilde";
+
+/* (No Comment) */
+"_Common_Pictures" = "Bilder";
+
+/* (No Comment) */
+"_Common_Place" = "Sted";
+
+/* (No Comment) */
+"_Common_PlaceDetail" = "Stedsdetalj";
+
+/* (No Comment) */
+"_Common_Places" = "Steder";
+
+/* (No Comment) */
+"_Common_PleaseWaitPlaceholder" = "Vennligst vent…";
+
+/* Population Prefix */
+"_Common_Population" = "Folketall: %@";
+
+/* (No Comment) */
+"_Common_PrefixName" = "Tittel";
+
+/* (No Comment) */
+"_Common_PreviousButton" = "Forrige";
+
+/* (No Comment) */
+"_Common_Print" = "Skriv ut";
+
+/* Progress Counts */
+"_Common_ProgressCount" = "%d av %d";
+
+/* (No Comment) */
+"_Common_ProgressCountAsString" = "%@ av %@";
+
+/* (No Comment) */
+"_Common_QuitButton" = "Avslutt";
+
+/* (No Comment) */
+"_Common_ReferenceNumber" = "Referansenummer";
+
+/* (No Comment) */
+"_Common_RejectButton" = "Avvis";
+
+/* (No Comment) */
+"_Common_RemoveButton" = "Fjern";
+
+/* (No Comment) */
+"_Common_RenameButton" = "Endre navn";
+
+/* (No Comment) */
+"_Common_ReplaceButton" = "Erstatt";
+
+/* (No Comment) */
+"_Common_ResetButton" = "Tilbakestill";
+
+/* (No Comment) */
+"_Common_RetryButton" = "Prøv på nytt";
+
+/* (No Comment) */
+"_Common_Save" = "Lagre";
+
+/* (No Comment) */
+"_Common_SaveButton" = "Lagre";
+
+/* (No Comment) */
+"_Common_Search" = "Søk";
+
+/* (No Comment) */
+"_Common_Search_Clear" = "Slett";
+
+/* (No Comment) */
+"_Common_Search_Menu_Title" = "Søk meny";
+
+/* (No Comment) */
+"_Common_Search_Options" = "Søkealternativer…";
+
+/* (No Comment) */
+"_Common_Search_Recent" = "Tidligere søk";
+
+/* (No Comment) */
+"_Common_Section" = "Seksjon";
+
+/* (No Comment) */
+"_Common_SelectButton" = "Velg";
+
+/* (No Comment) */
+"_Common_Settings" = "Innstillinger";
+
+/* (No Comment) */
+"_Common_SkipButton" = "Hopp over";
+
+/* (No Comment) */
+"_Common_Sorting_ByBirthDate" = "Etter fødselsdato";
+
+/* (No Comment) */
+"_Common_Sorting_ByBirthPlace" = "Etter fødested";
+
+/* (No Comment) */
+"_Common_Sorting_ByDate" = "Etter dato";
+
+/* (No Comment) */
+"_Common_Sorting_ByDeathDate" = "Etter dødsdato";
+
+/* (No Comment) */
+"_Common_Sorting_ByDeathPlace" = "Etter dødssted";
+
+/* (No Comment) */
+"_Common_Sorting_ByFirstName" = "Etter fornavn";
+
+/* (No Comment) */
+"_Common_Sorting_ByLastName" = "Etter etternavn";
+
+/* Sorting */
+"_Common_Sorting_ByName" = "Etter navn";
+
+/* (No Comment) */
+"_Common_Sorting_ByScore" = "Etter poeng";
+
+/* (No Comment) */
+"_Common_Source" = "Kilde";
+
+/* (No Comment) */
+"_Common_SourceCitationsPlural" = "%d kildehenvisninger";
+
+/* (No Comment) */
+"_Common_SourceCitationsPluralString" = "%@ kildehenvisninger";
+
+/* (No Comment) */
+"_Common_SourceCitationsSingular" = "%d kildehenvisning";
+
+/* (No Comment) */
+"_Common_SourceCitationsSingularString" = "%@ kildehenvisning";
+
+/* (No Comment) */
+"_Common_Sources" = "Kilder";
+
+/* (No Comment) */
+"_Common_State" = "Region/delstat";
+
+/* (No Comment) */
+"_Common_StopSharingButton" = "Stopp deling";
+
+/* (No Comment) */
+"_Common_SuffixName" = "Suffiks";
+
+/* (No Comment) */
+"_Common_Text" = "Tekst";
+
+/* (No Comment) */
+"_Common_Title" = "Tittel";
+
+/* (No Comment) */
+"_Common_ToDo" = "Oppgave";
+
+/* (No Comment) */
+"_Common_ToDos" = "Oppgaver";
+
+/* (No Comment) */
+"_Common_Toggle" = "Veksle alle";
+
+/* (No Comment) */
+"_Common_Type" = "Type";
+
+/* (No Comment) */
+"_Common_Unknown" = "Ukjent";
+
+/* (No Comment) */
+"_Common_UnknownGender" = "Ukjent kjønn";
+
+/* (No Comment) */
+"_Common_UnknownPerson" = "Ukjent person";
+
+/* (No Comment) */
+"_Common_Unlimited" = "Ubegrenset";
+
+/* (No Comment) */
+"_Common_UnnamedChart" = "Diagram uten navn";
+
+/* (No Comment) */
+"_Common_UnnamedFamily" = "Ubenevnt familie";
+
+/* (No Comment) */
+"_Common_UnnamedLabel" = "Etikett uten navn";
+
+/* (No Comment) */
+"_Common_UnnamedMedia" = "Medium uten navn";
+
+/* (No Comment) */
+"_Common_UnnamedPerson" = "Person uten navn";
+
+/* (No Comment) */
+"_Common_UnnamedPersonGroup" = "Persongruppe uten navn";
+
+/* (No Comment) */
+"_Common_UnnamedPlace" = "Sted uten navn";
+
+/* (No Comment) */
+"_Common_UnnamedPlaceDetail" = "Stedsdetalj uten navn";
+
+/* (No Comment) */
+"_Common_UnnamedPlaceTemplate" = "Stedsmal uten navn";
+
+/* (No Comment) */
+"_Common_UnnamedPlaceTemplateKey" = "Malfelt uten navn";
+
+/* (No Comment) */
+"_Common_UnnamedSource" = "Kilde uten navn";
+
+/* (No Comment) */
+"_Common_UnnamedSourceRepository" = "Kildearkiv uten navn";
+
+/* (No Comment) */
+"_Common_UnnamedSourceTemplate" = "Kildemal uten navn";
+
+/* (No Comment) */
+"_Common_UnnamedSourceTemplateKey" = "Malfelt uten navn";
+
+/* (No Comment) */
+"_Common_UnnamedStory" = "Historie uten navn";
+
+/* (No Comment) */
+"_Common_UnnamedStorySection" = "Historieseksjon uten navn";
+
+/* (No Comment) */
+"_Common_UnnamedTitle" = "Uten navn";
+
+/* (No Comment) */
+"_Common_UnnamedToDo" = "Oppgave uten navn";
+
+/* (No Comment) */
+"_Common_UpdateButton" = "Oppdater";
+
+/* (No Comment) */
+"_Common_UploadButton" = "Last opp";
+
+/* (No Comment) */
+"_Common_Value" = "Verdi";
+
+/* (No Comment) */
+"_Common_Version" = "Versjon";
+
+/* (No Comment) */
+"_Common_White" = "Hvit";
+
+/* (No Comment) */
+"_Common_Width" = "Bredde";
+
+/* (No Comment) */
+"_Common_Woman" = "Kvinne";
+
+/* (No Comment) */
+"_Common_Year" = "År";
+
+/* (No Comment) */
+"_Common_Years" = "År";
+
+/* (No Comment) */
+"_Common_Yes" = "Ja";
+
+/* (No Comment) */
+"_Person_NameFormat_FirstName_MiddleName_LastName_Suffix_Comma_Title" = "«Fornavn» «mellomnavn» «etternavn» suffiks, tittel";
+
+/* (No Comment) */
+"_Person_NameFormat_LastName_Comma_FirstName_Comma_MiddleName_Comma_Suffix_Comma_Title" = "«Etternavn», «fornavn», «mellomnavn», suffiks, tittel";
+
+/* (No Comment) */
+"_Person_NameFormat_LastName_Suffix_Comma_FirstName_MiddleName_Comma_Title" = "«Etternavn» suffiks, «fornavn» «mellomnavn», tittel";
+
+/* (No Comment) */
+"_Person_NameFormat_Title_Comma_FirstName_Suffix_Bracket_MiddleName_Bracket" = "Tittel \"etternavn\", \"fornavn\" suffiks (\"mellomnavn\")";
+
+/* (No Comment) */
+"_Person_NameFormat_Title_FirstName_Comma_LastName_Comma_MiddleName_Comma_Suffix" = "Tittel \"fornavn\", \"etternavn\", \"mellomnavn\", suffiks";
+
+/* Person Name Formats */
+"_Person_NameFormat_Title_FirstName_MiddleName_LastName_Suffix" = "Tittel \"fornavn\", \"etternavn\", \"mellomnavn\", suffiks";
+
+/* (No Comment) */
+"_Person_NameFormat_Title_LastName_MiddleName_FirstName_Suffix" = "Tittel \"etternavn\" \"mellomnavn\" \"fornavn\" suffiks";
+
+/* (No Comment) */
+"_Person_NameFormat_Title_LastName_Suffix_Comma_FirstName_MiddleName" = "Tittel \"etternavn\" suffiks \"fornavn\" \"mellomnavn\"";
+
+/* (No Comment) */
+"_Person_NameFormat_Title_LastName_Suffix_FirstName_MiddleName" = "Tittel \"etternavn\" suffiks \"fornavn\" \"mellomnavn\"";
+

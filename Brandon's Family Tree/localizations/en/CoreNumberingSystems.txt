@@ -1,0 +1,10 @@
+﻿/*Types*/
+"_PersonNumberingSystemController_Type_None" = "None";
+"_PersonNumberingSystemController_Type_Ancestors_KekuleSosa" = "Kekulé / Sosa (Ancestors)";
+"_PersonNumberingSystemController_Type_Descendants_dAboville" = "d'Aboville (Descendants)";
+"_PersonNumberingSystemController_Type_Descendants_Henry" = "Henry (Descendants)";
+
+"_PersonNumberingSystemController_Type_None_Short" = "None";
+"_PersonNumberingSystemController_Type_Ancestors_KekuleSosa_Short" = "Kekulé";
+"_PersonNumberingSystemController_Type_Descendants_dAboville_Short" = "d'Aboville";
+"_PersonNumberingSystemController_Type_Descendants_Henry_Short" = "Henry";

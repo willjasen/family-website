@@ -1,0 +1,627 @@
+﻿/* Actions */
+"_EditPlaceholderPane_ImportFromAddressBookAction" = "Személyek importálása a címes könyvből…";
+
+/* Subtitles */
+"_EditPlaceholderPane_NewTreeWelcomeMessage" = "Üdvözöljük a MacFamilyTree 11-en! A kutatás elindításához javasoljuk az interaktív fa használatát.";
+
+/* (No Comment) */
+"_EditPlaceholderPane_NewTreeWelcomeMessage_InitialCloudKitDownloadInProgress" = "Családfa töltése folyamatban van - kérem várjon";
+
+/* (No Comment) */
+"_EditPlaceholderPane_NewTreeWelcomeMessage_MobileFamilyTree" = "Üdvözöljük a MobileFamilyTree 11-en! A kutatás elindításához javasoljuk az interaktív fa használatát.";
+
+/* (No Comment) */
+"_FavoritesPlaceholderPane_ConfigureFavoritesAction" = "Kedvencek kiválasztása...";
+
+/* (No Comment) */
+"_FunctionTitle_AhnentafelReportPaneName" = "Őstáblabeszámoló";
+
+/* (No Comment) */
+"_FunctionTitle_AhnentafelReportPaneName_Abbreviation" = "Őstábla";
+
+/* (No Comment) */
+"_FunctionTitle_AncestorChartPaneName" = "Ősdiagram";
+
+/* (No Comment) */
+"_FunctionTitle_AncestorChartPaneName_Abbreviation" = "Ősök";
+
+/* (No Comment) */
+"_FunctionTitle_AnniversaryListReportPaneName" = "Évforduló-lista";
+
+/* (No Comment) */
+"_FunctionTitle_AnniversaryListReportPaneName_Abbreviation" = "Évfordulók";
+
+/* (No Comment) */
+"_FunctionTitle_BooksPaneName" = "Családfakönyv";
+
+/* (No Comment) */
+"_FunctionTitle_BooksPaneName_Abbreviation" = "Családfakönyv";
+
+/* (No Comment) */
+"_FunctionTitle_ChangeLogPane" = "Változtatási napló";
+
+/* (No Comment) */
+"_FunctionTitle_ChangeLogPane_Abbreviation" = "Változtatások";
+
+/* (No Comment) */
+"_FunctionTitle_ChangeLogReportPaneName" = "Változtatási napló-beszámoló";
+
+/* (No Comment) */
+"_FunctionTitle_ChangesListReportPaneName" = "Megváltoztatott lista";
+
+/* (No Comment) */
+"_FunctionTitle_ChartsFunctionsPlaceholder" = "Diagram funkció áttekintése";
+
+/* (No Comment) */
+"_FunctionTitle_ChartsFunctionsPlaceholder_Abbreviation" = "Diagramok áttekintése";
+
+/* (No Comment) */
+"_FunctionTitle_DatabaseMaintenancePaneName" = "Adatbank gondozása";
+
+/* (No Comment) */
+"_FunctionTitle_DatabaseMaintenancePaneName_Abbreviation" = "Gondozás";
+
+/* (No Comment) */
+"_FunctionTitle_DescendancyReportPaneName" = "Leszármazási beszámoló";
+
+/* (No Comment) */
+"_FunctionTitle_DescendancyReportPaneName_Abbreviation" = "Utódok";
+
+/* (No Comment) */
+"_FunctionTitle_DescendantChartPaneName" = "Utód-diagram";
+
+/* (No Comment) */
+"_FunctionTitle_DescendantChartPaneName_Abbreviation" = "Utódok";
+
+/* (No Comment) */
+"_FunctionTitle_DistinctivePersonsListReportPaneName" = "Különleges személyek listája";
+
+/* (No Comment) */
+"_FunctionTitle_DistinctivePersonsListReportPaneName_Abbreviation" = "Különleges";
+
+/* (No Comment) */
+"_FunctionTitle_DistributionChartPaneName" = "Eloszlás";
+
+/* (No Comment) */
+"_FunctionTitle_DistributionChartPaneName_Abbreviation" = "Eloszlás";
+
+/* (No Comment) */
+"_FunctionTitle_DoubleAncestorChartPaneName" = "Dupla ősdiagram";
+
+/* (No Comment) */
+"_FunctionTitle_DoubleAncestorChartPaneName_Abbreviation" = "Dupla ős";
+
+/* (No Comment) */
+"_FunctionTitle_EditChartPaneName" = "Diagram szerkesztése";
+
+/* (No Comment) */
+"_FunctionTitle_EditChartPaneName_Abbreviation" = "Diagram szerkesztése";
+
+/* (No Comment) */
+"_FunctionTitle_EditFamilyTreeInformationPaneName" = "Szerző információ";
+
+/* (No Comment) */
+"_FunctionTitle_EditFamilyTreeInformationPaneName_Abbreviation" = "Szerző";
+
+/* Placeholders */
+"_FunctionTitle_EditFunctionsPlaceholder" = "Szerkesztés funkció áttekintése";
+
+/* Placeholders Abbreviations */
+"_FunctionTitle_EditFunctionsPlaceholder_Abbreviation" = "Áttekintés szerkesztése";
+
+/* (No Comment) */
+"_FunctionTitle_EditMediaPaneName" = "Médium szerkesztése";
+
+/* (No Comment) */
+"_FunctionTitle_EditMediaPaneName_Abbreviation" = "Médium";
+
+/* (No Comment) */
+"_FunctionTitle_EditReportInBookPaneName" = "Beszámoló szerkesztése a könyvben";
+
+/* (No Comment) */
+"_FunctionTitle_EditReportInBookPaneName_Abbreviation" = "Könyvbeszámoló szerkesztése";
+
+/* (No Comment) */
+"_FunctionTitle_EditReportPaneName" = "Forrás szerkesztése";
+
+/* (No Comment) */
+"_FunctionTitle_EditReportPaneName_Abbreviation" = "Forrás szerkesztése";
+
+/* (No Comment) */
+"_FunctionTitle_EventsListReportPaneName" = "Eseménylista";
+
+/* (No Comment) */
+"_FunctionTitle_EventsListReportPaneName_Abbreviation" = "Események";
+
+/* (No Comment) */
+"_FunctionTitle_ExportGEDCOMPaneName" = "GEDCOM-fájl exportálása";
+
+/* (No Comment) */
+"_FunctionTitle_ExportGEDCOMPaneName_Abbreviation" = "GEDCOM-fájl";
+
+/* (No Comment) */
+"_FunctionTitle_ExportSubtreePaneName" = "Részfa exportálása";
+
+/* (No Comment) */
+"_FunctionTitle_ExportSubtreePaneName_Abbreviation" = "Részfa exportálása";
+
+/* (No Comment) */
+"_FunctionTitle_FactsListReportPaneName" = "Ténylista";
+
+/* (No Comment) */
+"_FunctionTitle_FactsListReportPaneName_Abbreviation" = "Tények";
+
+/* (No Comment) */
+"_FunctionTitle_Family_PluralCount" = "%@ családok";
+
+/* (No Comment) */
+"_FunctionTitle_Family_SingularCount" = "%@ család";
+
+/* (No Comment) */
+"_FunctionTitle_FamilyGroupReportPaneName" = "Családbeszámoló";
+
+/* (No Comment) */
+"_FunctionTitle_FamilyGroupReportPaneName_Abbreviation" = "Család";
+
+/* (No Comment) */
+"_FunctionTitle_FamilyListPaneName" = "Család szerkesztése";
+
+/* (No Comment) */
+"_FunctionTitle_FamilyListPaneName_Abbreviation" = "Családok";
+
+/* (No Comment) */
+"_FunctionTitle_FamilyQuizPaneName" = "Családi vetélkedő";
+
+/* (No Comment) */
+"_FunctionTitle_FamilyQuizPaneName_Abbreviation" = "Vetélkedő";
+
+/* (No Comment) */
+"_FunctionTitle_FamilySearchPaneName" = "FamilySearch";
+
+/* (No Comment) */
+"_FunctionTitle_FamilySearchPaneName_Abbreviation" = "FamilySearch";
+
+/* (No Comment) */
+"_FunctionTitle_FamilySearchTaskResults_PluralCount" = "%@ eredmények";
+
+/* (No Comment) */
+"_FunctionTitle_FamilySearchTaskResults_SingularCount" = "%@ eredmény";
+
+/* (No Comment) */
+"_FunctionTitle_FanChartPaneName" = "Legyeződiagram";
+
+/* (No Comment) */
+"_FunctionTitle_FanChartPaneName_Abbreviation" = "Legyező";
+
+/* (No Comment) */
+"_FunctionTitle_FavoritesFunctionsPlaceholder" = "Kedvencek funkciók áttekintése";
+
+/* (No Comment) */
+"_FunctionTitle_FavoritesFunctionsPlaceholder_Abbreviation" = "Kedvencek áttekintése";
+
+/* (No Comment) */
+"_FunctionTitle_FractalCircularTreeChartPaneName" = "Kör alakú fa";
+
+/* (No Comment) */
+"_FunctionTitle_FractalCircularTreeChartPaneName_Abbreviation" = "Kör alakú";
+
+/* (No Comment) */
+"_FunctionTitle_FractalFractalTreeChartPaneName" = "Törött fa";
+
+/* (No Comment) */
+"_FunctionTitle_FractalFractalTreeChartPaneName_Abbreviation" = "Törött fa";
+
+/* (No Comment) */
+"_FunctionTitle_FractalHTreeChartPaneName" = "Törött H-fa";
+
+/* (No Comment) */
+"_FunctionTitle_FractalHTreeChartPaneName_Abbreviation" = "H-fa";
+
+/* (No Comment) */
+"_FunctionTitle_FractalHVTreeChartPaneName" = "Szögletes fa";
+
+/* (No Comment) */
+"_FunctionTitle_FractalHVTreeChartPaneName_Abbreviation" = "Szögletes";
+
+/* (No Comment) */
+"_FunctionTitle_FractalSymmetricalTreeChartPaneName" = "Szimmetrikus fa";
+
+/* (No Comment) */
+"_FunctionTitle_FractalSymmetricalTreeChartPaneName_Abbreviation" = "Szimmetrikus";
+
+/* (No Comment) */
+"_FunctionTitle_GenogramChartPaneName" = "Genogram diagram";
+
+/* (No Comment) */
+"_FunctionTitle_GenogramChartPaneName_Abbreviation" = "Genogram";
+
+/* (No Comment) */
+"_FunctionTitle_HourglassChartPaneName" = "Homokóradiagram";
+
+/* (No Comment) */
+"_FunctionTitle_HourglassChartPaneName_Abbreviation" = "Homokóra";
+
+/* Function Names */
+"_FunctionTitle_InteractiveTreeEditPaneName" = "Interaktív fa";
+
+/* Function Names Abbreviations */
+"_FunctionTitle_InteractiveTreeEditPaneName_Abbreviation" = "Interaktív";
+
+/* (No Comment) */
+"_FunctionTitle_KinshipReportPaneName" = "Rokonságbeszámoló";
+
+/* (No Comment) */
+"_FunctionTitle_KinshipReportPaneName_Abbreviation" = "Rokonságok";
+
+/* (No Comment) */
+"_FunctionTitle_LDSOrdinancesListReportPaneName" = "LDS szertartások listája";
+
+/* (No Comment) */
+"_FunctionTitle_ListReportsFunctionsPlaceholder" = "Beszámolólista funkció áttekintése";
+
+/* (No Comment) */
+"_FunctionTitle_ListReportsFunctionsPlaceholder_Abbreviation" = "Áttekintés-listák";
+
+/* (No Comment) */
+"_FunctionTitle_MapReportPaneName" = "Térképbeszámoló";
+
+/* (No Comment) */
+"_FunctionTitle_MapReportPaneName_Abbreviation" = "Térképek";
+
+/* (No Comment) */
+"_FunctionTitle_MapsDiagramPaneName" = "Statisztikatérképek";
+
+/* (No Comment) */
+"_FunctionTitle_MapsDiagramPaneName_Abbreviation" = "Statisztikatérképek";
+
+/* (No Comment) */
+"_FunctionTitle_MarriageListReportPaneName" = "Esküvői lista";
+
+/* (No Comment) */
+"_FunctionTitle_MarriageListReportPaneName_Abbreviation" = "Házasságok";
+
+/* (No Comment) */
+"_FunctionTitle_Media_PluralCount" = "%@ médium";
+
+/* (No Comment) */
+"_FunctionTitle_Media_SingularCount" = "%@ médium";
+
+/* (No Comment) */
+"_FunctionTitle_MediaGalleryName" = "Médiumgaléria";
+
+/* (No Comment) */
+"_FunctionTitle_MediaGalleryName_Abbreviation" = "Galéria";
+
+/* (No Comment) */
+"_FunctionTitle_MediaGalleryReportPaneName" = "Médiumgaléria beszámoló";
+
+/* (No Comment) */
+"_FunctionTitle_NarrativeReportPaneName" = "Történetbeszámoló";
+
+/* (No Comment) */
+"_FunctionTitle_NarrativeReportPaneName_Abbreviation" = "Történet";
+
+/* (No Comment) */
+"_FunctionTitle_Person_PluralCount" = "%@ személyek";
+
+/* Count Strings */
+"_FunctionTitle_Person_SingularCount" = "%@ személy";
+
+/* (No Comment) */
+"_FunctionTitle_PersonAnalysisListReportPaneName" = "Személyelemzés";
+
+/* (No Comment) */
+"_FunctionTitle_PersonAnalysisListReportPaneName_Abbreviation" = "Kiértékelés";
+
+/* (No Comment) */
+"_FunctionTitle_PersonEventsReportPaneName" = "Személyeseménybeszámolók";
+
+/* (No Comment) */
+"_FunctionTitle_PersonEventsReportPaneName_Abbreviation" = "Személyesemények";
+
+/* (No Comment) */
+"_FunctionTitle_PersonGroup_PluralCount" = "%@ Személycsoportok";
+
+/* (No Comment) */
+"_FunctionTitle_PersonGroup_SingularCount" = "%@ Személycsoport";
+
+/* (No Comment) */
+"_FunctionTitle_PersonGroupPaneName" = "Személycsoportok szerkesztése";
+
+/* (No Comment) */
+"_FunctionTitle_PersonGroupPaneName_Abbreviation" = "Csoportok";
+
+/* (No Comment) */
+"_FunctionTitle_PersonListPaneName" = "Személy szerkesztése";
+
+/* (No Comment) */
+"_FunctionTitle_PersonListPaneName_Abbreviation" = "Személyek";
+
+/* (No Comment) */
+"_FunctionTitle_PersonListReportPaneName" = "Személylista";
+
+/* (No Comment) */
+"_FunctionTitle_PersonListReportPaneName_Abbreviation" = "Személyek";
+
+/* (No Comment) */
+"_FunctionTitle_PersonReportPaneName" = "Személybeszámoló";
+
+/* (No Comment) */
+"_FunctionTitle_PersonReportPaneName_Abbreviation" = "Személy";
+
+/* (No Comment) */
+"_FunctionTitle_Place_PluralCount" = "%@ helyek";
+
+/* (No Comment) */
+"_FunctionTitle_Place_SingularCount" = "%@ hely";
+
+/* (No Comment) */
+"_FunctionTitle_PlaceListPaneName" = "Hely szerkesztése…";
+
+/* (No Comment) */
+"_FunctionTitle_PlaceListPaneName_Abbreviation" = "Helyek";
+
+/* (No Comment) */
+"_FunctionTitle_PlacesListReportPaneName" = "Helylista";
+
+/* (No Comment) */
+"_FunctionTitle_PlacesListReportPaneName_Abbreviation" = "Helyek";
+
+/* (No Comment) */
+"_FunctionTitle_PlausibilityListReportPaneName" = "Plauzibilitáslista";
+
+/* (No Comment) */
+"_FunctionTitle_PlausibilityListReportPaneName_Abbreviation" = "Plauzibilitás";
+
+/* (No Comment) */
+"_FunctionTitle_PublishFunctionsPlaceholder" = "Publikáció funkció áttekintése";
+
+/* (No Comment) */
+"_FunctionTitle_PublishFunctionsPlaceholder_Abbreviation" = "Áttekintés publikáció";
+
+/* (No Comment) */
+"_FunctionTitle_RegisterReportPaneName" = "Nyilvántartási beszámoló";
+
+/* (No Comment) */
+"_FunctionTitle_RelationshipChartPaneName" = "Rokonság-diagram";
+
+/* (No Comment) */
+"_FunctionTitle_RelationshipChartPaneName_Abbreviation" = "Rokonságok";
+
+/* (No Comment) */
+"_FunctionTitle_RemoveSubtreePaneName" = "Részfa törlése";
+
+/* (No Comment) */
+"_FunctionTitle_RemoveSubtreePaneName_Abbreviation" = "Részfa törlése";
+
+/* (No Comment) */
+"_FunctionTitle_ReportsFunctionsPlaceholder" = "Beszámoló funkció áttekintése";
+
+/* (No Comment) */
+"_FunctionTitle_ReportsFunctionsPlaceholder_Abbreviation" = "Beszámolók áttekintése";
+
+/* (No Comment) */
+"_FunctionTitle_ResearchAssistantPaneName" = "Böngészőasszisztens";
+
+/* (No Comment) */
+"_FunctionTitle_ResearchAssistantPaneName_Abbreviation" = "Asszisztens";
+
+/* (No Comment) */
+"_FunctionTitle_SavedBook_PluralCount" = "%@ könyvek";
+
+/* (No Comment) */
+"_FunctionTitle_SavedBook_SingularCount" = "%@ könyv";
+
+/* (No Comment) */
+"_FunctionTitle_SavedChart_PluralCount" = "%@ elmentett nézetek";
+
+/* (No Comment) */
+"_FunctionTitle_SavedChart_SingularCount" = "%@ elmentett nézet";
+
+/* (No Comment) */
+"_FunctionTitle_SavedChartsPaneName" = "Mentett diagramok";
+
+/* (No Comment) */
+"_FunctionTitle_SavedChartsPaneName_Abbreviation" = "Mentett diagramok";
+
+/* (No Comment) */
+"_FunctionTitle_SavedReport_PluralCount" = "%@ elmentett beszámolók";
+
+/* (No Comment) */
+"_FunctionTitle_SavedReport_SingularCount" = "%@ elmentett beszámoló";
+
+/* (No Comment) */
+"_FunctionTitle_SavedReportsPaneName" = "Elmentett beszámolók";
+
+/* (No Comment) */
+"_FunctionTitle_SavedReportsPaneName_Abbreviation" = "Elmentett beszámolók";
+
+/* (No Comment) */
+"_FunctionTitle_SavedWebsite_PluralCount" = "%@ honlap";
+
+/* (No Comment) */
+"_FunctionTitle_SavedWebsite_SingularCount" = "%@ honlap";
+
+/* (No Comment) */
+"_FunctionTitle_SearchAndReplacePaneName" = "Keresés és csere";
+
+/* (No Comment) */
+"_FunctionTitle_SearchPaneName" = "Adatbázis keresése";
+
+/* (No Comment) */
+"_FunctionTitle_SearchPaneName_Abbreviation" = "Keresés";
+
+/* (No Comment) */
+"_FunctionTitle_SociogramChartPaneName" = "Szociogram diagram";
+
+/* (No Comment) */
+"_FunctionTitle_SociogramChartPaneName_Abbreviation" = "Szociogram";
+
+/* (No Comment) */
+"_FunctionTitle_Source_PluralCount" = "%@ források";
+
+/* (No Comment) */
+"_FunctionTitle_Source_SingularCount" = "%@ forrás";
+
+/* (No Comment) */
+"_FunctionTitle_SourceListPaneName" = "Forrás szerkesztése…";
+
+/* (No Comment) */
+"_FunctionTitle_SourceListPaneName_Abbreviation" = "Források";
+
+/* (No Comment) */
+"_FunctionTitle_SourcesListReportPaneName" = "Forráslista";
+
+/* (No Comment) */
+"_FunctionTitle_SourcesListReportPaneName_Abbreviation" = "Források";
+
+/* (No Comment) */
+"_FunctionTitle_StatisticsChartPaneName" = "Statisztikák";
+
+/* (No Comment) */
+"_FunctionTitle_StatisticsChartPaneName_Abbreviation" = "Statisztikák";
+
+/* (No Comment) */
+"_FunctionTitle_StatusReportPaneName" = "Státuszbeszámoló";
+
+/* (No Comment) */
+"_FunctionTitle_Story_PluralCount" = "%@ történetek";
+
+/* (No Comment) */
+"_FunctionTitle_Story_SingularCount" = "%@ történet";
+
+/* (No Comment) */
+"_FunctionTitle_StoryPaneName" = "Történetek szerkesztése";
+
+/* (No Comment) */
+"_FunctionTitle_StoryPaneName_Abbreviation" = "Történetek";
+
+/* (No Comment) */
+"_FunctionTitle_StoryReportPaneName" = "Történetbeszámoló";
+
+/* (No Comment) */
+"_FunctionTitle_StoryReportPaneName_Abbreviation" = "Történet";
+
+/* (No Comment) */
+"_FunctionTitle_TimelineChartPaneName" = "Idővonal";
+
+/* (No Comment) */
+"_FunctionTitle_TimelineChartPaneName_Abbreviation" = "Idővonal";
+
+/* (No Comment) */
+"_FunctionTitle_TimelineReportPaneName" = "Idővonal beszámoló";
+
+/* (No Comment) */
+"_FunctionTitle_TodayReportPaneName" = "Ma-beszámoló";
+
+/* (No Comment) */
+"_FunctionTitle_ToDo_PluralCount" = "%@ feladatok";
+
+/* (No Comment) */
+"_FunctionTitle_ToDo_PluralCount_Overdue" = "%@ lejárt";
+
+/* (No Comment) */
+"_FunctionTitle_ToDo_SingularCount" = "%@ feladat";
+
+/* (No Comment) */
+"_FunctionTitle_ToDo_SingularCount_Overdue" = "%@ lejárt";
+
+/* (No Comment) */
+"_FunctionTitle_ToDoListReportPaneName" = "Feladatlista";
+
+/* (No Comment) */
+"_FunctionTitle_ToDoListReportPaneName_Abbreviation" = "Feladatok";
+
+/* (No Comment) */
+"_FunctionTitle_ToDosPaneName" = "Feladatlista szerkesztése";
+
+/* (No Comment) */
+"_FunctionTitle_ToDosPaneName_Abbreviation" = "Feladatok";
+
+/* (No Comment) */
+"_FunctionTitle_TreeChartPaneName" = "Teljes fadiagram";
+
+/* (No Comment) */
+"_FunctionTitle_TreeChartPaneName_Abbreviation" = "Fa";
+
+/* (No Comment) */
+"_FunctionTitle_ViewsFunctionsPlaceholder" = "Nézeti funkciók áttekintése";
+
+/* (No Comment) */
+"_FunctionTitle_ViewsFunctionsPlaceholder_Abbreviation" = "Áttekintés nézet";
+
+/* (No Comment) */
+"_FunctionTitle_VirtualGlobeChartPaneName_Abbreviation" = "Földgömb";
+
+/* (No Comment) */
+"_FunctionTitle_VirtualGlobePaneName" = "Virtuális földgömb";
+
+/* (No Comment) */
+"_FunctionTitle_VirtualTreeDiagramPaneName" = "Virtuális fa";
+
+/* (No Comment) */
+"_FunctionTitle_VirtualTreeDiagramPaneName_Abbreviation" = "Virtuális fa";
+
+/* (No Comment) */
+"_FunctionTitle_WebSearchPaneName" = "Webkeresés";
+
+/* (No Comment) */
+"_FunctionTitle_WebSearchPaneName_Abbreviation" = "Webkeresés";
+
+/* (No Comment) */
+"_FunctionTitle_WebSiteExportWebSitesPaneName" = "Honlapok";
+
+/* (No Comment) */
+"_FunctionTitle_WebSiteExportWebSitesPaneName_Abbreviation" = "Honlapok";
+
+/* (No Comment) */
+"_FunctionTitle_WebSitePaneName" = "Honlap";
+
+/* (No Comment) */
+"_FunctionTitle_WebSitePaneName_Abbreviation" = "Honlap";
+
+/* More Function */
+"_MoreFunctionPanesTitle" = "Több…";
+
+/* (No Comment) */
+"_PaneCategory_Charts" = "Diagramok";
+
+/* Categories */
+"_PaneCategory_Edit" = "Szerkesztés";
+
+/* (No Comment) */
+"_PaneCategory_Favorites" = "Kedvencek";
+
+/* (No Comment) */
+"_PaneCategory_ListReports" = "Listák";
+
+/* (No Comment) */
+"_PaneCategory_Publish" = "Publikáció";
+
+/* (No Comment) */
+"_PaneCategory_Reports" = "Beszámolók";
+
+/* (No Comment) */
+"_PaneCategory_View" = "Nézetek";
+
+/* (No Comment) */
+"_PaneCategoryBaseFunction_Emphasized" = "Kiemelt";
+
+/* (No Comment) */
+"_PaneCategoryBaseFunction_Emphasized_Explanation" = "Ha kiemeli, akkor a funkció kiemelten jelenik meg egyes kategóriák kezdő részében.";
+
+/* PaneCategoryFunction Configuration User Interface */
+"_PaneCategoryBaseFunction_Enabled" = "Engedélyezett";
+
+/* (No Comment) */
+"_PaneCategoryBaseFunction_Enabled_Explanation" = "Itt adja meg, hogy ez a funkció alapértelmezés szerint megjelenjen-e. Ha kikapcsolja, a funkciót eltávolítja a felhasználói felületről. Itt bármikor újra engedélyezheti.";
+
+/* (No Comment) */
+"_PaneCategoryBaseFunction_Favorite" = "Kijelölés kedvencként";
+
+/* (No Comment) */
+"_PaneCategoryBaseFunction_Favorite_Explanation" = "Jelölje ki a gyakran használt fontos funkciókat kedvencként. Ezek a „Kedvencek” kategóriában jelennek meg a könnyű és gyors elérés érdekében.";
+
+/* (No Comment) */
+"_PaneCategoryBaseFunction_RemoveFromFavoritesButton" = "Törlés a kedvencekből";
+

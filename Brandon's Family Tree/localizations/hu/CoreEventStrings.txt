@@ -1,0 +1,357 @@
+﻿/* (No Comment) */
+"_ConclusionType_AssociateRelations" = "Befolyásos kapcsolatok";
+
+/* Duplicate Conclusion GEDCOM Tag */
+"_ConclusionType_DuplicateGedcomTag" = "Ez a GEDCOM Tag már használatban van. Kérjük, válasszon egy másikat, mert a duplikált GEDCOM Tag-ok problémákat okozhatnak a GEDCOM fájlok exportálásakor.";
+
+/* (No Comment) */
+"_ConclusionType_FamilyEvents" = "Családesemények";
+
+/* (No Comment) */
+"_ConclusionType_IsNotUserCreatedFlag" = "Beépített típus";
+
+/* (No Comment) */
+"_ConclusionType_IsUserCreatedFlag" = "Felhasználó által létrehozott típus";
+
+/* (No Comment) */
+"_ConclusionType_PersonEvents" = "Személyesemények";
+
+/* (No Comment) */
+"_ConclusionType_PersonEventsFamilyEvents" = "Események";
+
+/* (No Comment) */
+"_ConclusionType_PersonEventsFamilyEventsPersonFacts" = "Események és tények";
+
+/* (No Comment) */
+"_ConclusionType_PersonEventsFamilyEventsPersonFactsAssociateRelations" = "Események, tények, és befolyásos kapcsolattípusok";
+
+/* (No Comment) */
+"_ConclusionType_PersonFacts" = "Személytények";
+
+/* LDS */
+"_Event_LDSNoTemple" = "Nincs templom";
+
+/* (No Comment) */
+"_FamilyEvent_Annuled" = "Házasság érvénytelenítése";
+
+/* (No Comment) */
+"_FamilyEvent_Bann" = "Közzététel";
+
+/* (No Comment) */
+"_FamilyEvent_Census" = "Népszámlálás";
+
+/* (No Comment) */
+"_FamilyEvent_Contract" = "Házasági szerződés";
+
+/* (No Comment) */
+"_FamilyEvent_Divorce_Filing" = "Válás beadása";
+
+/* (No Comment) */
+"_FamilyEvent_Divorced" = "Válás";
+
+/* (No Comment) */
+"_FamilyEvent_Engagement" = "Eljegyzés";
+
+/* (No Comment) */
+"_FamilyEvent_LDSSpouseSealing" = "LDS örökkévaló házasságkötés";
+
+/* (No Comment) */
+"_FamilyEvent_License" = "Házassági engedély";
+
+/* FamilyEvents */
+"_FamilyEvent_Marriage" = "Házasság";
+
+/* (No Comment) */
+"_FamilyEvent_MarriageCivil" = "Polgári esküvő";
+
+/* (No Comment) */
+"_FamilyEvent_MarriageReligion" = "Egyházi esküvő";
+
+/* (No Comment) */
+"_FamilyEvent_OtherEvent" = "Egyéb kapcsolatesemény";
+
+/* (No Comment) */
+"_FamilyEvent_Partnership" = "Élettársi viszony";
+
+/* (No Comment) */
+"_FamilyEvent_Separation" = "Különélés";
+
+/* (No Comment) */
+"_FamilyEvent_Settlement" = "Házasságkötés előtti megegyezés";
+
+/* (No Comment) */
+"_LDSEventStatus_BIC" = "BIC";
+
+/* LDS Event Status */
+"_LDSEventStatus_Canceled" = "Megszakadt";
+
+/* (No Comment) */
+"_LDSEventStatus_Child" = "Gyermek";
+
+/* (No Comment) */
+"_LDSEventStatus_Cleared" = "Tisztázott";
+
+/* (No Comment) */
+"_LDSEventStatus_Completed" = "Lezárult";
+
+/* (No Comment) */
+"_LDSEventStatus_DNS" = "Nem kvalifikált";
+
+/* (No Comment) */
+"_LDSEventStatus_DNS/CAN" = "Nem kvalifikált (CAN)";
+
+/* (No Comment) */
+"_LDSEventStatus_Infant" = "Csecsemő";
+
+/* (No Comment) */
+"_LDSEventStatus_Pre1970" = "1970 előtt";
+
+/* (No Comment) */
+"_LDSEventStatus_Qualified" = "Kvalifikált";
+
+/* (No Comment) */
+"_LDSEventStatus_Stillborn" = "Halvaszületés";
+
+/* (No Comment) */
+"_LDSEventStatus_Submitted" = "Átadott";
+
+/* (No Comment) */
+"_LDSEventStatus_Uncleared" = "Tisztázatlan";
+
+/* PersonEvents */
+"_PersonEvent_Adoption" = "Örökbefogadás";
+
+/* (No Comment) */
+"_PersonEvent_AdultChristening" = "Keresztség felvétele felnőtt korban";
+
+/* (No Comment) */
+"_PersonEvent_Apprenticeship" = "Szakmunkásképző";
+
+/* (No Comment) */
+"_PersonEvent_Baptism" = "Keresztség felvétele gyermek korban";
+
+/* (No Comment) */
+"_PersonEvent_BarMitzvah" = "Bar Mitzwah";
+
+/* (No Comment) */
+"_PersonEvent_BasMitzvah" = "Bas Mitzwa";
+
+/* (No Comment) */
+"_PersonEvent_Birth" = "Születés";
+
+/* (No Comment) */
+"_PersonEvent_Blessing" = "Áldás";
+
+/* (No Comment) */
+"_PersonEvent_Burial" = "Temetés";
+
+/* (No Comment) */
+"_PersonEvent_Census" = "Népszámlálás";
+
+/* (No Comment) */
+"_PersonEvent_Christening" = "Keresztelő";
+
+/* (No Comment) */
+"_PersonEvent_Circumcision" = "Körülmetélés";
+
+/* (No Comment) */
+"_PersonEvent_Confirmation" = "Konfirmáció";
+
+/* (No Comment) */
+"_PersonEvent_Cremation" = "Elhamvasztás";
+
+/* (No Comment) */
+"_PersonEvent_Death" = "Halál";
+
+/* (No Comment) */
+"_PersonEvent_Deed" = "Okirat/Dokumentum";
+
+/* (No Comment) */
+"_PersonEvent_Education" = "Formális képesítés";
+
+/* (No Comment) */
+"_PersonEvent_Emigration" = "Kivándorlás";
+
+/* (No Comment) */
+"_PersonEvent_Excommunication" = "Egyházi kiátkozás";
+
+/* (No Comment) */
+"_PersonEvent_FirstCommunion" = "Elsőáldozás";
+
+/* (No Comment) */
+"_PersonEvent_FosterChild" = "Nevelt gyermek";
+
+/* (No Comment) */
+"_PersonEvent_Funeral" = "Temetés";
+
+/* (No Comment) */
+"_PersonEvent_GenericEvent" = "Más esemény";
+
+/* (No Comment) */
+"_PersonEvent_Graduation" = "Iskolai végzettség";
+
+/* (No Comment) */
+"_PersonEvent_Illness" = "Betegség";
+
+/* (No Comment) */
+"_PersonEvent_Immigration" = "Bevándorlás";
+
+/* (No Comment) */
+"_PersonEvent_LandTransaction" = "Telekvásárlás";
+
+/* (No Comment) */
+"_PersonEvent_LDSBaptism" = "LDS keresztség";
+
+/* (No Comment) */
+"_PersonEvent_LDSChildSealing" = "LDS pecsételés a szülőkhöz";
+
+/* (No Comment) */
+"_PersonEvent_LDSConfirmation" = "LDS konfirmáció";
+
+/* (No Comment) */
+"_PersonEvent_LDSEndowment" = "LDS bevezetés";
+
+/* (No Comment) */
+"_PersonEvent_LDSInitiatory" = "LDS elkészület";
+
+/* (No Comment) */
+"_PersonEvent_MilitaryAward" = "Katonai kitűntetés";
+
+/* (No Comment) */
+"_PersonEvent_MilitaryDischarge" = "Katonai mentesítés";
+
+/* (No Comment) */
+"_PersonEvent_MilitaryInduction" = "Katonai behívó";
+
+/* (No Comment) */
+"_PersonEvent_MilitaryService" = "Katonai szolgálat";
+
+/* (No Comment) */
+"_PersonEvent_Miscarriage" = "Elvetélés";
+
+/* (No Comment) */
+"_PersonEvent_Mission" = "Misszionálás";
+
+/* (No Comment) */
+"_PersonEvent_Nationality" = "Állampolgárság";
+
+/* (No Comment) */
+"_PersonEvent_Naturalization" = "Honsítás";
+
+/* (No Comment) */
+"_PersonEvent_NickName" = "Becenév";
+
+/* (No Comment) */
+"_PersonEvent_NobilityTypeTitle" = "Nemesi rang";
+
+/* (No Comment) */
+"_PersonEvent_Occupation" = "Foglalkozás";
+
+/* (No Comment) */
+"_PersonEvent_Ordination" = "Felszentelés";
+
+/* (No Comment) */
+"_PersonEvent_Probate" = "Öröklési legitimáció";
+
+/* (No Comment) */
+"_PersonEvent_Religion" = "Vallás";
+
+/* (No Comment) */
+"_PersonEvent_Residence" = "Lakóhely";
+
+/* (No Comment) */
+"_PersonEvent_Retirement" = "Nyugdíjazás";
+
+/* (No Comment) */
+"_PersonEvent_Will" = "Végrendelet";
+
+/* (No Comment) */
+"_PersonFact_BloodType" = "Vércsoport";
+
+/* (No Comment) */
+"_PersonFact_CasteName" = "Kaszt";
+
+/* (No Comment) */
+"_PersonFact_Clan" = "Klán";
+
+/* (No Comment) */
+"_PersonFact_CustomFamilySearchFactTitle" = "Saját tény: %@";
+
+/* (No Comment) */
+"_PersonFact_Email" = "E-Mail";
+
+/* (No Comment) */
+"_PersonFact_EyeColor" = "Szemszín";
+
+/* (No Comment) */
+"_PersonFact_HairColor" = "Hajszín";
+
+/* (No Comment) */
+"_PersonFact_Height" = "Nagyság";
+
+/* (No Comment) */
+"_PersonFact_Hobby" = "Hobbi";
+
+/* (No Comment) */
+"_PersonFact_Honors" = "Elismerések";
+
+/* (No Comment) */
+"_PersonFact_NationalID" = "Nemzeti azonosítószám";
+
+/* (No Comment) */
+"_PersonFact_NationalOrTribalOrigin" = "Nemzeti‐ vagy törzsi leszármazás";
+
+/* (No Comment) */
+"_PersonFact_NoChildren" = "Nincsenek gyermekek";
+
+/* (No Comment) */
+"_PersonFact_NoCoupleRelationships" = "Nincs párkapcsolat";
+
+/* (No Comment) */
+"_PersonFact_Phone" = "Telefonszám";
+
+/* (No Comment) */
+"_PersonFact_PhysicalDescription" = "Fizikai leírás";
+
+/* (No Comment) */
+"_PersonFact_Possession" = "Birtok";
+
+/* (No Comment) */
+"_PersonFact_Race" = "Faji hovatartozás";
+
+/* (No Comment) */
+"_PersonFact_SkinColor" = "Bőrszín";
+
+/* Facts */
+"_PersonFact_SocialSecurityNumber" = "Társadaslombiztosítási szám";
+
+/* (No Comment) */
+"_PersonFact_TribeName" = "Törzs";
+
+/* (No Comment) */
+"_PersonFact_Weight" = "Súly";
+
+/* (No Comment) */
+"ConclusionAdditionalNameType_Unnamed" = "Megnevezetlen további névtípus";
+
+/* (No Comment) */
+"ConclusionAssociateRelationType_Unnamed" = "Névtelen befolyásos kapcsolattípus";
+
+/* (No Comment) */
+"ConclusionFamilyEventType_Unnamed" = "Megnevezetlen családseménytípus";
+
+/* Conclusion Types */
+"ConclusionPersonEventType_Unnamed" = "Megnevezetlen személyeseménytípus";
+
+/* (No Comment) */
+"ConclusionPersonFactType_Unnamed" = "Megnevezetlen személyténytípus";
+
+/* (No Comment) */
+"ConclusionToDoPriorityType_Unnamed" = "Megnevezetlen feladatprioritástípus";
+
+/* (No Comment) */
+"ConclusionToDoStatusType_Unnamed" = "Megnevezetlen feladatstátusztípus";
+
+/* (No Comment) */
+"ConclusionToDoTypeType_Unnamed" = "Megnevezetlen feladattípus";
+

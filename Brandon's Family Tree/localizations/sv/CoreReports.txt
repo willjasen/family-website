@@ -1,0 +1,1428 @@
+﻿/* (No Comment) */
+"_ReportCSVWriterConfiguration_CSVGroup" = "Grupp";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_CSVSection" = "Avsnitt";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_ExportHeaders" = "Exportera CSV-rubriker";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_ExportHeadersExplanation" = "Välj detta alternativ om du vill inkludera rubrikinformation i din CSV-fil. Rubrikinformation gör det lättare att hitta preciserad information i den resulterande CSV-filen.";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_NewLineCharacter" = "Tecken för ny linje";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_NewLineCharacter_CR" = "CR-tecken (Classic Mac OS)";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_NewLineCharacter_CRLF" = "CRLF-tecken (Windows)";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_NewLineCharacter_LF" = "LF-tecken (Modern MacOS, Unix)";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_NewLineCharacterExplanation" = "Välj vilket tecken som ska användas som tecken som anger en ny linje. De flesta moderna program fungerar med valfritt alternativ - endast vissa äldre system kan kräva en specifik inställning.";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_Separator_Comma" = "Kommatecken (,)";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_Separator_Semicolon" = "Semikolon (;)";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_SeparatorPopupButtonTitle" = "CSV-skiljetecken";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_SeparatorPopupButtonTitleExplanation" = "Ange skiljetecken som används för objekt i CSV-filen. De flesta appar är kompatibla med komma som skiljetecken.";
+
+/* CSVWriter */
+"_ReportCSVWriterConfiguration_Title" = "CSV-export";
+
+/* (No Comment) */
+"_ReportError_NoDataFoundToExportAsCSV" = "Inga data kunde hittas i denna rapport som kan exporteras som en CSV-fil.";
+
+/* (No Comment) */
+"_ReportError_NoDistinctivePersonsFoundError" = "Inga särskiljande personer har hittats i detta släktträd.";
+
+/* (No Comment) */
+"_ReportError_NoFamiliesFoundMatchingTheSelectedCriteria" = "Inga familjer har hittats som matchar de valda kriterierna.";
+
+/* (No Comment) */
+"_ReportError_NoFamilyFoundInFamilyTreeError" = "Inga familjer har hittills hittats i detta släktträd. Använd avsnittet ’Redigera’ för att ange personer och familjer för att visa denna rapport.";
+
+/* Errors */
+"_ReportError_NoPersonFoundInFamilyTreeError" = "Inga personer har hittills skrivits in i detta släktträd. Använd avsnittet ’Redigera’ för att ange personer och familjer för att visa denna rapport.";
+
+/* (No Comment) */
+"_ReportError_NoPersonsFoundMatchingTheSelectedCriteria" = "Inga personer har hittats som matchar de valda kriterierna.";
+
+/* (No Comment) */
+"_ReportError_NoPlaceFoundInFamilyTreeError" = "Inga orter har hittills lagts till i detta släktträd. Använd avsnittet ’Redigera’ för att ange orter för person- och familjehändelser för att visa denna rapport.";
+
+/* (No Comment) */
+"_ReportError_NoPlacesFoundMatchingTheSelectedCriteria" = "Inga orter har hittats som matchar de valda kriterierna.";
+
+/* (No Comment) */
+"_ReportError_NoPlacesWithCoordinatesFoundForPersonError" = "Inga orter med koordinater har hittats för den valda posten. Lägg till geografiska koordinater till orter i avsnittet ’Redigera’ för att visa denna rapport.";
+
+/* (No Comment) */
+"_ReportError_NoPlausibilityAnalyzerResultsFound" = "Inga rimlighetsvarningar har hittats.";
+
+/* (No Comment) */
+"_ReportError_NoSelectedFamilySetError" = "Ingen familj har valts ut för denna rapport.";
+
+/* (No Comment) */
+"_ReportError_NoSelectedPersonSetError" = "Ingen person har valts ut för denna rapport.";
+
+/* (No Comment) */
+"_ReportError_NoSelectedStorySetError" = "Ingen berättelse har valts ut för denna rapport.";
+
+/* (No Comment) */
+"_ReportError_NoSourceFoundInFamilyTreeError" = "Hittills har inga källor lagts till i detta släktträd. Använd avsnittet ’Redigera’ för att ange källor för att visa denna rapport.";
+
+/* (No Comment) */
+"_ReportError_NoSourcesFoundMatchingTheSelectedCriteria" = "Inga källor har hittats som matchar de valda kriterierna.";
+
+/* (No Comment) */
+"_ReportError_NoStoryFoundInFamilyTreeError" = "Hittills har inga berättelser lagts till i detta släktträd. Använd avsnittet ’Redigera’ för att lägga in berättelser för att visa denna rapport.";
+
+/* (No Comment) */
+"_ReportError_NotEnoughDataPresentError" = "Det finns inte tillräckligt med data i släktträdet för att visa denna rapport.";
+
+/* (No Comment) */
+"_ReportError_NoToDoFoundInFamilyTreeError" = "Inga uppgifter har hittills lagts till i detta släktträd. Använd avsnittet ’Redigera’ för att ange uppgifter för att visa denna rapport.";
+
+/* (No Comment) */
+"_ReportError_NoToDosFoundMatchingTheSelectedCriteria" = "Inga uppgifter har hittats som matchar de valda kriterierna.";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_ChapterColor" = "Färg för kapiteltext";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_ChapterColorMode" = "Färgläge för kapiteltext";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Opacity" = "Opacitet";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_PageNumberColor" = "Textfärg för sidantal";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_PageNumberColorMode" = "Textfärgläge för sidantal";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_PageSetupButton" = "Sidinställning...";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Scaling" = "Skalning";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_SectionColor" = "Textfärg för avsnitt";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_SectionColorMode" = "Textfärgläge för avsnitt";
+
+/* Page Background Renderer */
+"_ReportPageBackgroundRendererConfiguration_Style" = "Bakgrundsstil";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_BottomBar" = "Bottenpelare";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_BottomGradient" = "Bottenlutning";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_BottomLine" = "Bottenlinje";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_BottomPageNumberRect" = "Sidantal rektangel längst ner";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_InlineOuterBar" = "Infoga yttre stapel";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_InlineTopBar" = "Infoga toppstapel";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_InnerBar" = "Inre stapel";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_InnerBlocksBar" = "Inre blockstapel";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_None" = "Inget";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_OnlyBackground" = "Endast bakgrundsfärg";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_OuterAndInnerBar" = "Yttre & inre stapel";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_OuterAndInnerBlocksBar" = "Yttre & inre blockstapel";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_OuterBar" = "Yttre stapel";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_OuterBlocksBar" = "Yttre blockstapel";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_Rectangle" = "Rektangel";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_RoundInlineTopBar" = "Rund infogad toppstapel";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_RoundRectangle" = "Rektangulär";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_ThickRectangle" = "Tjock rektangel";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_ThickRoundRectangle" = "Tjock, rektangulär";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_TopBar" = "Toppstapel";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_TopBottomBar" = "Topp- & bottenstapel";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_TopBottomGradient" = "Topp- & bottenlutning";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_TopBottomLine" = "Topp- & bottenlinje";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_TopGradient" = "Topplutning";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_TopLine" = "Topplinje";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_XAtTop" = "X-Mark upptill";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_TextColorMode_ContrastToBackground" = "Kontrast till bakgrunden";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_TextColorMode_Custom" = "Anpassa";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_Fill" = "Fyll sida";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitBottomCenter" = "Nedtill centrum";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitBottomLeft" = "Nedtill vänster";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitBottomRight" = "Nedtill höger";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitCenterCenter" = "Helt centrerad";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitCenterLeft" = "Centrerad till vänster";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitCenterRight" = "Centrerad till höger";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitFill" = "Fyll sida med hänsyn till bildförhållande";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitTopCenter" = "Upptill centrum";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitTopLeft" = "Upptill vänster";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitTopRight" = "Upptill höger";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_WatermarkFloatsAboveContentTitle" = "Placera vattenstämpel ovanför innehållet";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_WatermarkImage" = "Vattenstämpel";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_WatermarkInsettedByPageMargins" = "Placera vattenstämpel i sidmarginaler";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_WatermarkPlacement" = "Placering";
+
+/* (No Comment) */
+"_Reports_AhnentafelReport_GenerationNumber" = "Generation nr. %d";
+
+/* (No Comment) */
+"_Reports_AhnentafelReport_Generations" = "Generationer";
+
+/* (No Comment) */
+"_Reports_AhnentafelReport_List_Header_Kekule" = "Kekulé";
+
+/* (No Comment) */
+"_Reports_AhnentafelReport_List_Header_Narrative" = "Berättande rapport";
+
+/* (No Comment) */
+"_Reports_AhnentafelReport_List_Header_Person" = "Person";
+
+/* AhnentafelReport */
+"_Reports_AhnentafelReport_Title" = "Antavlerapport";
+
+/* (No Comment) */
+"_Reports_BackgroundColor" = "Bakgrundsfärg";
+
+/* (No Comment) */
+"_Reports_BarsColor" = "Stapelfärg";
+
+/* (No Comment) */
+"_Reports_BaseColorsGroupName" = "Basfärger";
+
+/* (No Comment) */
+"_Reports_BaseFontsGroupName" = "Bastypsnitt";
+
+/* (No Comment) */
+"_Reports_BaseStyler_Abbreviation_For_Female" = "(f)";
+
+/* (No Comment) */
+"_Reports_BaseStyler_Abbreviation_For_Intersex" = "(i)";
+
+/* Gender Abbreviations */
+"_Reports_BaseStyler_Abbreviation_For_Male" = "(m)";
+
+/* (No Comment) */
+"_Reports_BaseStyler_Abbreviation_For_Unknown" = "(-)";
+
+/* (No Comment) */
+"_Reports_CapitalizeSectionTitles" = "Kapitalisera avsnittstitlar";
+
+/* (No Comment) */
+"_Reports_ChapterFont" = "Kapiteltypsnitt";
+
+/* (No Comment) */
+"_Reports_Citations_CitationsMode" = "Citationsläge";
+
+/* (No Comment) */
+"_Reports_Citations_DisplayPictures" = "Bilder";
+
+/* (No Comment) */
+"_Reports_Citations_DisplayReferences" = "Refererade poster";
+
+/* (No Comment) */
+"_Reports_Citations_DisplaySourceCitationNotes" = "Source Citation Notes";
+
+/* (No Comment) */
+"_Reports_Citations_DisplaySourceNotes" = "Source Notes";
+
+/* (No Comment) */
+"_Reports_Citations_DisplaySourceRepository" = "Källarkiv";
+
+/* (No Comment) */
+"_Reports_Citations_DisplayText" = "Text";
+
+/* (No Comment) */
+"_Reports_Citations_SourcePicturesSize" = "Bildstorlek";
+
+/* (No Comment) */
+"_Reports_Citations_SourcePicturesSize_FullAvailableWidth" = "Stor";
+
+/* (No Comment) */
+"_Reports_Citations_SourcePicturesSize_LargeThumbnail" = "Medium";
+
+/* (No Comment) */
+"_Reports_Citations_SourcePicturesSize_Thumbnail" = "Liten";
+
+/* (No Comment) */
+"_Reports_CitationsMajorGroupName" = "Citat";
+
+/* (No Comment) */
+"_Reports_CleanBookStyle" = "Enkel bok";
+
+/* (No Comment) */
+"_Reports_CleanTablesStyle" = "Rensa tabellen";
+
+/* (No Comment) */
+"_Reports_CleanTextStyle" = "Rensa text";
+
+/* (No Comment) */
+"_Reports_ColorsMajorGroupName" = "Färger";
+
+/* (No Comment) */
+"_Reports_ColumnsMajorGroupName" = "Kolumner";
+
+/* Sources */
+"_Reports_Common_Citations_Section_Title" = "Citat";
+
+/* Common */
+"_Reports_CustomReportTitle" = "Anpassa rapporttitel";
+
+/* (No Comment) */
+"_Reports_DateFormatMinorGroupName" = "Datumformat";
+
+/* (No Comment) */
+"_Reports_DateFormatStyle" = "Datumformatsstil";
+
+/* (No Comment) */
+"_Reports_DateFormatStyleExplanation" = "Ange här vilken datumformatsstil som ska användas när datum omformateras";
+
+/* (No Comment) */
+"_Reports_DateOptionsGroupName" = "Datum";
+
+/* (No Comment) */
+"_Reports_DefaultHighlightColor" = "Standard framhävningsfärg";
+
+/* (No Comment) */
+"_Reports_DefaultHighlightColor_Explanation" = "Ange standard framhävningsfärg. Du kan ställa in enskilda framhävningsfärg till varje kapitel i kapitelkonfigurationen.";
+
+/* (No Comment) */
+"_Reports_DescendancyReport_ChildNumber_Header" = "Barn";
+
+/* DescendancyReport */
+"_Reports_DescendancyReport_DescendantsSectionTitleWithGenerationNumber" = "Generation nr. %d";
+
+/* (No Comment) */
+"_Reports_DescendancyReport_Marriage_Header" = "Vigsel";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_AddedCell_PlaceholderText" = "Text";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeBackgroundColor" = "Cellbakgrund";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeBottomBorderColor" = "Cellbottenfärg";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeBottomBorderWidth" = "Cellbottengräns";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeLeftBorderColor" = "Cell vänster färg";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeLeftBorderWidth" = "Cell vänster gräns";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeRightBorderColor" = "Cell höger färg";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeRightBorderWidth" = "Cell höger gräns";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeTopBorderColor" = "Cell topp färg";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeTopBorderWidth" = "Cell topp gräns";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_ContentFrameSize_Height" = "Höjd";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_ContentFrameSize_Width" = "Bredd";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_LayoutCellNode_EndPosition" = "Slutposition";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_LayoutCellNode_StartPosition" = "Startposition";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_LayoutNode_DrawGridLines" = "Visa layouttabell";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_BaseNode" = "Knut";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_Cell" = "Cell";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_Flow" = "Grupp";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_Image" = "Bild";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_Layout" = "Lista";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_PDF" = "PDF";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_Section" = "Avsnitt";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_Table" = "Tabell";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_Text" = "Text";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Background" = "Bakgrund";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Border" = "Gräns";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_CellOptions" = "Cellalternativ";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Fonts" = "Typsnitt";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Layout" = "Layout";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Margin" = "Marginal";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Options" = "Alternativ";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Padding" = "Vaddering";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Size" = "Storlek";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeBackgroundColor" = "Bakgrundsfärg";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeBorderColor" = "Gränsfärg";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeBorderRadius" = "Kantradie";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeBottomBorderWidth" = "Botten";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeBottomMarginWidth" = "Botten";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeBottomPaddingWidth" = "Botten";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeHorizontalAlign" = "Horisontell inriktning";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeHorizontalAlign_Bottom" = "Höger";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeHorizontalAlign_Middle" = "Centrerad";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeHorizontalAlign_Top" = "Vänster";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeLeftBorderWidth" = "Vänster";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeLeftMarginWidth" = "Vänster";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeLeftPaddingWidth" = "Vänster";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeRightBorderWidth" = "Höger";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeRightMarginWidth" = "Höger";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeRightPaddingWidth" = "Höger";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeTopBorderWidth" = "Topp";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeTopMarginWidth" = "Topp";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeTopPaddingWidth" = "Topp";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeVerticalAlign" = "Vertikal inriktning";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeVerticalAlign_Bottom" = "Botten";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeVerticalAlign_Middle" = "Mellan";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeVerticalAlign_Top" = "Topp";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageFlowAreaIdentifier_AnyColumn" = "Vilken kolumn som helst";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageFlowAreaIdentifier_LeftColumn" = "Vänster kolumn";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageFlowAreaIdentifier_OneColumn" = "Huvudkolumn";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageFlowAreaIdentifier_RightColumn" = "Höger kolumn";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageFlowAreaIdentifier_Title" = "Kolumn";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageOrder_Any" = "Vilken ordning som helst";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageOrder_EvenPage" = "Jämn sida";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageOrder_OddPage" = "Udda sida";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageOrder_Title" = "Sidordning";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageType_Any" = "Vilken sida som helst";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageType_EmptyPage" = "Tom sida";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageType_OneColumn" = "En kolumn sida";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageType_SmallLeftColumnBigRightColumn" = "Liten vänster stor höger kolumnsida";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageType_Title" = "Sidtyp";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageType_TwoColumn" = "Tvåkolumnssida";
+
+/* Edit Configurations */
+"_Reports_Editor_Configurations_PleaseSelectObjectsToEditPlaceholder" = "Välj text eller andra objekt i rapporten till vänster för att redigera färger, texter och storlekar";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_SelectedObjectsOfDifferentTypePlaceholder" = "Du har valt flera objekt av olika slag";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_Table_DrawGridLines" = "Visa tabellnät";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_Table_RepeatHeadersOnEachPage" = "Upprepa sidhuvud";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_TableAlternateRowBackgroundColor" = "Alternativ radfärg";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_TableRowBackgroundColor" = "Radfärg";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_TextColor" = "Textfärg";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_TextFont" = "Texttypsnitt";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WantsNewLayoutPageArea" = "Börja på nytt sidområde";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WantsNewLine" = "Börja efter radbrytning";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WantsNewPage" = "Börja på ny sida";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WantsSameLine" = "Undvik radbrytning";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WantsToStickToPreviousObject" = "Håll dig till föregående objekt";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_Full" = "Full bredd";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_Full_ForScaleableNodes" = "Full bredd";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_Needed" = "Anpassa bredd";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_Needed_ForScaleableNodes" = "Fast bredd";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_Predefined" = "Breddfaktor";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_Predefined_ForScaleableNodes" = "Breddfaktor och fast höjd";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_PredefinedWidthFactor" = "Breddfaktor";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_Title" = "Breddsläge";
+
+/* (No Comment) */
+"_Reports_EmphasizedFont" = "Betonat typsnitt";
+
+/* (No Comment) */
+"_Reports_EmphasizedFontColor" = "Markerad textfärg";
+
+/* (No Comment) */
+"_Reports_EnabledSourceTemplateKeyIdentifiers" = "Källfält att visa";
+
+/* (No Comment) */
+"_Reports_EventsMajorGroupName" = "Händelser";
+
+/* FactsListReport */
+"_Reports_FactsListReport_TotalFactsCountKey" = "Alla fakta";
+
+/* (No Comment) */
+"_Reports_FontsMajorGroupName" = "Typsnitt";
+
+/* Major Groups */
+"_Reports_GeneralMajorGroupName" = "Allmänt";
+
+/* (No Comment) */
+"_Reports_GridTablesStyle" = "Enkel tabell";
+
+/* Fonts */
+"_Reports_HeaderFont" = "Titeltypsnitt";
+
+/* Colors */
+"_Reports_HeaderFontColor" = "Rubrikens textfärg";
+
+/* Private Information */
+"_Reports_HidePrivateInformation" = "Dölj information märkt som privat";
+
+/* (No Comment) */
+"_Reports_HidePrivateInformationExplanation" = "Varje bit av information som är märkt som privat i redigeringsläge döljs i rapporten om du väljer detta alternativ.";
+
+/* (No Comment) */
+"_Reports_InformationColumnsMinorGroupName" = "Informationskolumner";
+
+/* (No Comment) */
+"_Reports_InformationGroupName" = "Information";
+
+/* (No Comment) */
+"_Reports_KeyFont" = "Nyckeltypsnitt";
+
+/* (No Comment) */
+"_Reports_KeyFontColor" = "Nyckeltextfärg";
+
+/* (No Comment) */
+"_Reports_LeftTitleStyle" = "Vänster titel";
+
+/* (No Comment) */
+"_Reports_List_DrawGridLines" = "Visa tabellnät";
+
+/* (No Comment) */
+"_Reports_List_HeaderBirthDate" = "Födelsedatum";
+
+/* (No Comment) */
+"_Reports_List_HeaderBirthPlace" = "Födelseort";
+
+/* (No Comment) */
+"_Reports_List_HeaderDeathDate" = "Dödsdatum";
+
+/* (No Comment) */
+"_Reports_List_HeaderDeathPlace" = "Dödsort";
+
+/* (No Comment) */
+"_Reports_List_RepeatHeaderOnEachPage" = "Upprepa tabellrubriker på nya sidor";
+
+/* (No Comment) */
+"_Reports_List_RepeatHeaderOnEachPageExplanation" = "Om detta är aktiverat upprepas tabellens huvudrad om tabellen sträcker sig över fler än en sida";
+
+/* (No Comment) */
+"_Reports_ListCellFont" = "Lista celltypsnitt";
+
+/* (No Comment) */
+"_Reports_ListHeaderFont" = "Lista rubrikstypsnitt";
+
+/* (No Comment) */
+"_Reports_ListHeaderFontColor" = "Rubrikens textfärg";
+
+/* (No Comment) */
+"_Reports_ListKeyFont" = "Lista över nyckeltypsnitt";
+
+/* (No Comment) */
+"_Reports_ListMode" = "Listläge";
+
+/* (No Comment) */
+"_Reports_ListMode_BookSetting" = "Använda bokinställning";
+
+/* (No Comment) */
+"_Reports_ListMode_DefaultFromStyler" = "Standard från tema";
+
+/* (No Comment) */
+"_Reports_ListMode_PrefersList" = "Visa som lista";
+
+/* (No Comment) */
+"_Reports_ListMode_PrefersTable" = "Visa som tabell";
+
+/* (No Comment) */
+"_Reports_ListsColorGroupName" = "Listor över färger";
+
+/* Lists */
+"_Reports_ListSectionFont" = "Lista över avsnittstypsnitt";
+
+/* (No Comment) */
+"_Reports_ListSectionFontColor" = "Textfärg för avsnitt";
+
+/* (No Comment) */
+"_Reports_ListsFontGroupName" = "Listor";
+
+/* (No Comment) */
+"_Reports_ListsOptionsGroupName" = "Listor";
+
+/* Localization */
+"_Reports_Localization" = "Lokalisering";
+
+/* (No Comment) */
+"_Reports_LocalizationExplanation" = "Ange lokalisering som ska användas i denna rapport. All information i denna rapport kommer att lokaliseras på det angivna språket";
+
+/* (No Comment) */
+"_Reports_LocalizationMajorGroupName" = "Lokalisering";
+
+/* (No Comment) */
+"_Reports_MainFont" = "Huvudtypsnitt";
+
+/* (No Comment) */
+"_Reports_MainFontColor" = "Huvudtextfärg";
+
+/* (No Comment) */
+"_Reports_MarriageList_OnlyShowFamiliesWithMarriageEvent" = "Visa endast partner med en vigselhändelse";
+
+/* (No Comment) */
+"_Reports_MarriageList_ShowBirthDateForPersons" = "Visa födelsedatum för personer";
+
+/* (No Comment) */
+"_Reports_MarriageList_ShowMarriageDateAsAdditionalInformation" = "Visa vigseldatum indraget";
+
+/* (No Comment) */
+"_Reports_MarriageList_ShowMarriagePlaceAsAdditionalInformation" = "Visa vigselort indragen";
+
+/* MarriageList */
+"_Reports_MarriageList_Sort_By_FamilyName" = "Efter efternamn";
+
+/* (No Comment) */
+"_Reports_MarriageList_Sort_By_ManName" = "Efter mansnamn";
+
+/* (No Comment) */
+"_Reports_MarriageList_Sort_By_MarriageDate" = "Efter vigseldatum";
+
+/* (No Comment) */
+"_Reports_MarriageList_Sort_By_MarriageLocation" = "Efter vigselort";
+
+/* (No Comment) */
+"_Reports_MarriageList_Sort_By_WomanName" = "Efter kvinnonamn";
+
+/* MediaGalleryReport */
+"_Reports_MediaGalleryReport_GroupingMode" = "Gruppering av media";
+
+/* (No Comment) */
+"_Reports_MediaGalleryReport_GroupingMode_ByDecade" = "Gruppera efter årtionde";
+
+/* (No Comment) */
+"_Reports_MediaGalleryReport_GroupingMode_ByLabel" = "Gruppera efter etikett";
+
+/* (No Comment) */
+"_Reports_MediaGalleryReport_GroupingMode_BySelectedObject" = "Gruppera efter tilldelad post";
+
+/* (No Comment) */
+"_Reports_MediaGalleryReport_GroupingMode_None" = "Ingen gruppering";
+
+/* (No Comment) */
+"_Reports_MediaGalleryReport_SortingMode" = "Sortering";
+
+/* (No Comment) */
+"_Reports_MediaGalleryReport_SortingMode_ByDate" = "Efter datum";
+
+/* (No Comment) */
+"_Reports_MediaGalleryReport_SortingMode_ByTitle" = "Efter titel";
+
+/* (No Comment) */
+"_Reports_MediaSection_FamilyMainSubsectionKey" = "Media kopplade till familj";
+
+/* (No Comment) */
+"_Reports_MediaSection_MediaFromFamiliesSubsectionKey" = "Media kopplade till familjer";
+
+/* (No Comment) */
+"_Reports_MediaSection_MediaFromFamilyEventsSubsectionKey" = "Media kopplade till familjehändelser";
+
+/* (No Comment) */
+"_Reports_MediaSection_MediaFromManSubsectionKey" = "Media kopplad till partner 1";
+
+/* (No Comment) */
+"_Reports_MediaSection_MediaFromPersonEventsSubsectionKey" = "Media kopplade till personhändelser";
+
+/* (No Comment) */
+"_Reports_MediaSection_MediaFromWomanSubsectionKey" = "Media kopplad till partner 2";
+
+/* (No Comment) */
+"_Reports_MediaSection_PersonMainSubsectionKey" = "Media kopplade till person";
+
+/* (No Comment) */
+"_Reports_MediaSize_FullSize" = "Full storlek";
+
+/* (No Comment) */
+"_Reports_MediaSize_LargeThumbnail" = "Stor miniatyrbild";
+
+/* (No Comment) */
+"_Reports_MediaSize_Thumbnail" = "Miniatyrbild";
+
+/* (No Comment) */
+"_Reports_MediaSize_Title" = "Mellanstor";
+
+/* (No Comment) */
+"_Reports_MirrorPageMarginsAndBackgroundOnOddPages" = "Spegelmarginaler och bakgrund på udda sidor";
+
+/* (No Comment) */
+"_Reports_MirrorPageMarginsAndBackgroundOnOddPagesExplanation" = "Om den är aktiverad speglas vänster och höger marginal på udda sidor och bakgrunden justeras därefter. Detta är lämpligt när du skapar rapporter för böcker.";
+
+/* (No Comment) */
+"_Reports_ModernBarsLightTextStyle" = "Ljusa moderna staplar";
+
+/* (No Comment) */
+"_Reports_ModernBarsTextStyle" = "Moderna staplar";
+
+/* (No Comment) */
+"_Reports_OtherFontColorsGroupName" = "Annat";
+
+/* (No Comment) */
+"_Reports_OtherFontsGroupName" = "Annat";
+
+/* (No Comment) */
+"_Reports_PageBottomMargin" = "Bottenmarginal";
+
+/* (No Comment) */
+"_Reports_PageFontsMinorGroupName" = "Typsnitt";
+
+/* Page Margins */
+"_Reports_PageLeftMargin" = "Vänstermarginal";
+
+/* (No Comment) */
+"_Reports_PageMarginsMajorGroupName" = "Sidmarginaler";
+
+/* (No Comment) */
+"_Reports_PageMarginsMinorGroupName" = "Sidmarginaler";
+
+/* (No Comment) */
+"_Reports_PageNumberFont" = "Sidnummertypsnitt";
+
+/* (No Comment) */
+"_Reports_PageRightMargin" = "Högermarginal";
+
+/* (No Comment) */
+"_Reports_PageStyleMajorGroupName" = "Sidostil";
+
+/* (No Comment) */
+"_Reports_PageTextColorsMinorGroupName" = "Textfärger";
+
+/* (No Comment) */
+"_Reports_PageTopMargin" = "Toppmarginal";
+
+/* (No Comment) */
+"_Reports_PageWatermarkMajorGroupName" = "Vattenstämpel";
+
+/* (No Comment) */
+"_Reports_Person_NotSet" = "Person har inte ställts in";
+
+/* (No Comment) */
+"_Reports_PersonItem_PictureSize" = "Personbilder";
+
+/* (No Comment) */
+"_Reports_PersonItem_PictureSize_Large" = "Visa stora personbilder";
+
+/* (No Comment) */
+"_Reports_PersonItem_PictureSize_Medium" = "Visa mellanstora personbilder";
+
+/* (No Comment) */
+"_Reports_PersonItem_PictureSize_None" = "Visa inga personbilder";
+
+/* (No Comment) */
+"_Reports_PersonItem_PictureSize_Small" = "Visa små personbilder";
+
+/* Pictures */
+"_Reports_PersonPicturesSize" = "Personbilder";
+
+/* (No Comment) */
+"_Reports_PersonPicturesSize_Large" = "Stor";
+
+/* (No Comment) */
+"_Reports_PersonPicturesSize_Medium" = "Medium";
+
+/* (No Comment) */
+"_Reports_PersonPicturesSize_None" = "Inget";
+
+/* (No Comment) */
+"_Reports_PersonPicturesSize_Small" = "Liten";
+
+/* (No Comment) */
+"_Reports_PersonReport_Ancestors_Section_Title" = "Förfäder";
+
+/* (No Comment) */
+"_Reports_PersonReport_AncestorsDepth" = "Förfädergenerationer";
+
+/* (No Comment) */
+"_Reports_PersonReport_AncestorsOrDescendants_Generation_Header" = "Generation";
+
+/* (No Comment) */
+"_Reports_PersonReport_Associates_PersonOrFamily_Header" = "Person eller familj";
+
+/* (No Comment) */
+"_Reports_PersonReport_BornOnKey" = "Född den";
+
+/* (No Comment) */
+"_Reports_PersonReport_BornOrDiedInKey" = "i";
+
+/* (No Comment) */
+"_Reports_PersonReport_BrothersAndSisters" = "Syskon";
+
+/* (No Comment) */
+"_Reports_PersonReport_Descendants_Section_Title" = "Ättlingar";
+
+/* (No Comment) */
+"_Reports_PersonReport_DescendantsDepth" = "Ättlingsgenerationer";
+
+/* (No Comment) */
+"_Reports_PersonReport_DiedOnKey" = "Dog den";
+
+/* (No Comment) */
+"_Reports_PersonReport_Event_Date" = "Datum";
+
+/* (No Comment) */
+"_Reports_PersonReport_Event_Place" = "Ort";
+
+/* (No Comment) */
+"_Reports_PersonReport_Event_Type" = "Typ";
+
+/* (No Comment) */
+"_Reports_PersonReport_Events_Section_Title" = "Händelser";
+
+/* (No Comment) */
+"_Reports_PersonReport_Facts_FactDescription_Header" = "Beskrivning";
+
+/* (No Comment) */
+"_Reports_PersonReport_Facts_FactType_Header" = "Typ";
+
+/* (No Comment) */
+"_Reports_PersonReport_Facts_Section_Title" = "Uppgifter";
+
+/* (No Comment) */
+"_Reports_PersonReport_HourglassChart_Section_Title" = "Timglasdiagram";
+
+/* (No Comment) */
+"_Reports_PersonReport_IDs_AncestralFileNumberIDKey" = "Ärftligt filnummer";
+
+/* (No Comment) */
+"_Reports_PersonReport_IDs_FamilySearchIDKey" = "FamilySearch-ID";
+
+/* (No Comment) */
+"_Reports_PersonReport_IDs_GedcomIDKey" = "GEDCOM-ID";
+
+/* (No Comment) */
+"_Reports_PersonReport_IDs_ReferenceNumberKey" = "Referensnummer";
+
+/* (No Comment) */
+"_Reports_PersonReport_Kinship_Section_Title" = "Släktskap";
+
+/* (No Comment) */
+"_Reports_PersonReport_KinshipDepth" = "Släktskapsgenerationer";
+
+/* (No Comment) */
+"_Reports_PersonReport_NameDetails_Section_Title" = "Namndetaljer";
+
+/* (No Comment) */
+"_Reports_PersonReport_NarrativeReport_Section_Title" = "Berättande rapport";
+
+/* (No Comment) */
+"_Reports_PersonReport_OccupationKey" = "Yrke";
+
+/* (No Comment) */
+"_Reports_PersonReport_Parents_Section_Title" = "Föräldrar";
+
+/* (No Comment) */
+"_Reports_PersonReport_Partners_Section_Title" = "Partner";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowAncestors" = "Förfäder";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowDescendants" = "Ättlingar";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowEvents" = "Händelser";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowHourglassChart" = "Timglasdiagram";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowKinship" = "Släktskap";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowNameDetails" = "Namndetaljer";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowParents" = "Föräldrar";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowPartners" = "Partner";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowSources" = "Källor";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowWorldHistory" = "Världshistoria";
+
+/* PersonReport */
+"_Reports_PersonReport_Title" = "Personrapport";
+
+/* (No Comment) */
+"_Reports_PersonReport_WorldHistory_Category_Header" = "Kategori";
+
+/* (No Comment) */
+"_Reports_PersonReport_WorldHistory_Section_Title" = "Världshistoria";
+
+/* (No Comment) */
+"_Reports_PicturesOptionsGroupName" = "Bilder";
+
+/* (No Comment) */
+"_Reports_PlaceFormat_Normal" = "Normalt ortsnamn";
+
+/* (No Comment) */
+"_Reports_PlaceFormat_Short" = "Kort ortsnamn";
+
+/* (No Comment) */
+"_Reports_PlaceFormat_VeryShort" = "Mycket kort ortsnamn";
+
+/* (No Comment) */
+"_Reports_PlaceFormatMinorGroupName" = "Placera format";
+
+/* Place Format */
+"_Reports_PlaceFormatStyle" = "Placera format";
+
+/* (No Comment) */
+"_Reports_PlaceFormatStyleExplanation" = "Ange här om det fullständiga ortsnamnet eller endast en förkortning ska visas.";
+
+/* (No Comment) */
+"_Reports_PlainTextStyle" = "Oformaterad text";
+
+/* (No Comment) */
+"_Reports_PrimaryFont" = "Huvudtypsnitt";
+
+/* (No Comment) */
+"_Reports_ReformatDatesToSelectedLocale" = "Reformaterade datum";
+
+/* (No Comment) */
+"_Reports_ReformatDatesToSelectedLocaleExplanation" = "Om aktiverat kommer alla datum att formateras för att matcha den angivna lokaliseringen";
+
+/* RegisterReport */
+"_Reports_RegisterReport_DescendantsSectionTitleWithGenerationNumber" = "Generation nr. %d";
+
+/* (No Comment) */
+"_Reports_Report_Associates_Section_Title" = "Präglande personer och familjer";
+
+/* (No Comment) */
+"_Reports_Report_Media_Section_Title" = "Media";
+
+/* (No Comment) */
+"_Reports_Report_Notes_Section_Family_Note_Key" = "Familjeanteckning";
+
+/* (No Comment) */
+"_Reports_Report_Notes_Section_Note_Key" = "Anteckning";
+
+/* (No Comment) */
+"_Reports_Report_Notes_Section_Person_Note_Key" = "Personanteckning";
+
+/* (No Comment) */
+"_Reports_Report_Notes_Section_Title" = "Anteckningar";
+
+/* (No Comment) */
+"_Reports_Report_Overview_Section_Title" = "Översikt";
+
+/* (No Comment) */
+"_Reports_Report_ShowAssociates" = "Präglande personer";
+
+/* (No Comment) */
+"_Reports_Report_ShowFacts" = "Uppgifter";
+
+/* (No Comment) */
+"_Reports_Report_ShowNotes" = "Anteckningar";
+
+/* (No Comment) */
+"_Reports_Report_ShowOverview" = "Översikt";
+
+/* (No Comment) */
+"_Reports_Report_ShowUserDescription" = "Beskrivning";
+
+/* (No Comment) */
+"_Reports_ReportBarSectionsTablesStyle" = "Avsnitt ”Stapel”";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_AddImageNode" = "Lägg till bild...";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_AddLayoutCell" = "Lägg till cell";
+
+/* ReportEditorController Edit Operations */
+"_Reports_ReportEditorController_EditOperation_AddNodesPopupButton" = "Lägg till...";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_AddPDFNode" = "Lägg till PDF...";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_AddRow" = "Lägg till rad";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_AddTextNode" = "Lägg till text";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_RemoveLayoutCell" = "Ta bort cell";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_RemoveNode" = "Radera";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_RemoveRow" = "Ta bort rad";
+
+/* (No Comment) */
+"_Reports_ReportForestGreenTablesStyler" = "Skogsgrön";
+
+/* (No Comment) */
+"_Reports_ReportFormGridTablesStyle" = "Klassisk form";
+
+/* (No Comment) */
+"_Reports_ReportFormTablesStyle" = "Form";
+
+/* (No Comment) */
+"_Reports_ReportTypewriterStyler" = "Skrivmaskin";
+
+/* (No Comment) */
+"_Reports_SecondaryFont" = "Sekundärt typsnitt";
+
+/* (No Comment) */
+"_Reports_SecondaryFontColor" = "Sekundär textfärg";
+
+/* (No Comment) */
+"_Reports_SectionFont" = "Typsnitt för avsnitt";
+
+/* (No Comment) */
+"_Reports_SectionsMinorGroupName" = "Avsnitt";
+
+/* (No Comment) */
+"_Reports_SeparateSectionsCheckbox" = "Separata avsnitt";
+
+/* (No Comment) */
+"_Reports_SeparateSectionsCheckboxExplanation" = "Om den är aktiverad visas separata avsnitt för det valda sorteringsläget. Om de till exempel sorteras efter efternamn kommer alla personer med samma efternamn att visas i samma avsnitt.";
+
+/* (No Comment) */
+"_Reports_ShowAge" = "Visa ålder";
+
+/* Columns */
+"_Reports_ShowBirthDate" = "Visa födelsedatum";
+
+/* (No Comment) */
+"_Reports_ShowBirthPlace" = "Visa födelseort";
+
+/* (No Comment) */
+"_Reports_ShowChapters" = "Visa kapitel";
+
+/* (No Comment) */
+"_Reports_ShowChildren" = "Visa barn";
+
+/* Citations */
+"_Reports_ShowCitations" = "Källcitat";
+
+/* (No Comment) */
+"_Reports_ShowCitationsExplanation" = "Ange om ett citatavsnitt ska bifogas rapporten.";
+
+/* (No Comment) */
+"_Reports_ShowDeathDate" = "Visa dödsdatum";
+
+/* (No Comment) */
+"_Reports_ShowDeathPlace" = "Visa dödsort";
+
+/* (No Comment) */
+"_Reports_ShowKekule" = "Visa Kekulé";
+
+/* (No Comment) */
+"_Reports_ShowMarriageDate" = "Visa vigseldatum";
+
+/* (No Comment) */
+"_Reports_ShowMarriagePlace" = "Visa vigselort";
+
+/* (No Comment) */
+"_Reports_ShowMedia" = "Media";
+
+/* (No Comment) */
+"_Reports_ShowNarrative" = "Berättande rapport";
+
+/* Page Numbers, sections */
+"_Reports_ShowPageNumbers" = "Visa sidonummer";
+
+/* (No Comment) */
+"_Reports_ShowParents" = "Visa föräldrar";
+
+/* (No Comment) */
+"_Reports_ShowPDFs" = "Visa PDF-filer";
+
+/* (No Comment) */
+"_Reports_ShowPicture" = "Visa bild";
+
+/* (No Comment) */
+"_Reports_ShowPictures" = "Visa bilder";
+
+/* (No Comment) */
+"_Reports_ShowSections" = "Visa avsnitt";
+
+/* (No Comment) */
+"_Reports_Sort_By_BirthDate" = "Efter födelsedatum";
+
+/* (No Comment) */
+"_Reports_Sort_By_BirthPlace" = "Efter födelsedatum";
+
+/* (No Comment) */
+"_Reports_Sort_By_DeathDate" = "Efter dödsdatum";
+
+/* (No Comment) */
+"_Reports_Sort_By_DeathPlace" = "Efter dödsort";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventDate" = "Efter händelsedatum";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventDescription" = "Efter beskrivning";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventTypeAndDate" = "Efter händelsetyp och datum";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventTypeName" = "Efter händelsetypnamn";
+
+/* (No Comment) */
+"_Reports_Sort_By_FirstName" = "Efter förnamn";
+
+/* (No Comment) */
+"_Reports_Sort_By_FullName" = "Efter fullständigt namn";
+
+/* (No Comment) */
+"_Reports_Sort_By_LastName" = "Efter efternamn";
+
+/* Sorting */
+"_Reports_Sorting" = "Sortering";
+
+/* (No Comment) */
+"_Reports_SortingExplanation" = "Ange ordningen för de poster som ska visas i denna rapport.";
+
+/* (No Comment) */
+"_Reports_SortingMinorGroupName" = "Sortering";
+
+/* (No Comment) */
+"_Reports_SortOrderAscendingCheckbox" = "Sortera stigande";
+
+/* (No Comment) */
+"_Reports_SourceInformationGroupName" = "Källinformation";
+
+/* (No Comment) */
+"_Reports_Sources_Page_Header" = "Sida";
+
+/* (No Comment) */
+"_Reports_Sources_Section_Title" = "Källor";
+
+/* (No Comment) */
+"_Reports_StoryReport_ReferencedEntries_Title" = "Refererade poster";
+
+/* (No Comment) */
+"_Reports_StoryReport_ReferencedEntriesInSection_Title" = "Refererade poster i avsnitt '%@'";
+
+/* (No Comment) */
+"_Reports_StoryReport_Section_Media" = "Media";
+
+/* (No Comment) */
+"_Reports_StoryReport_Section_ReferencedEntries" = "Refererade poster i avsnittet";
+
+/* (No Comment) */
+"_Reports_StoryReport_Section_Text" = "Text";
+
+/* (No Comment) */
+"_Reports_StoryReport_ShowReferencedEntries" = "Refererade poster i berättelsen";
+
+/* (No Comment) */
+"_Reports_StoryReport_ShowReferencedEntriesInStorySections" = "Refererade poster i avsnittet i berättelsen";
+
+/* Story Report */
+"_Reports_StoryReport_UserDescription" = "Beskrivning";
+
+/* (No Comment) */
+"_Reports_StoryReport_WorldHistory_Category_Header" = "Kategori";
+
+/* (No Comment) */
+"_Reports_StoryReport_WorldHistory_Section_Title" = "Världshistoria";
+
+/* (No Comment) */
+"_Reports_StyleOptionsMajorGroupName" = "Stilalternativ";
+
+/* (No Comment) */
+"_Reports_SubSectionFont" = "Underavdelningstypsnitt";
+
+/* (No Comment) */
+"_Reports_SubSectionFontColor" = "Underavdelningstext färg";
+
+/* Minor Groups */
+"_Reports_TextGroupName" = "Text";
+
+/* Style Names */
+"_Reports_TextStyle" = "Enkel text";
+
+/* (No Comment) */
+"_Reports_ThemesMajorGroupName" = "Teman";
+
+/* (No Comment) */
+"_Reports_ToDoReport_Notes" = "Anteckningar";
+
+/* (No Comment) */
+"_Reports_ToDoReport_Priority" = "Prioritet";
+
+/* (No Comment) */
+"_Reports_ToDoReport_Status" = "Status";
+
+/* (No Comment) */
+"_Reports_ToDoReport_Text" = "Text";
+
+/* ToDoReport */
+"_Reports_ToDoReport_Type" = "Typ";
+
+/* (No Comment) */
+"_Reports_TopTitleBarTextStyle" = "Toppstapel";
+
+/* (No Comment) */
+"_Reports_UseSubsectionsInMediaSection" = "Gruppmedia";
+
+/* (No Comment) */
+"_Reports_WorldHistoryMajorGroupName" = "Världshistoria";
+
+/* (No Comment) */
+"_ReportViewConfiguration_PageFormatMode" = "Sidvisningsläge";
+
+/* (No Comment) */
+"_ReportViewConfiguration_PageFormatMode_PageFormatThatFitsReportViewBounds" = "Visa rapport utan sidor och så stort som möjligt";
+
+/* (No Comment) */
+"_ReportViewConfiguration_PageFormatMode_UseSpecifiedFormat" = "Visa sidor med specifikt sidformat";
+
+/* (No Comment) */
+"_ReportViewConfiguration_PageFormatMode_WidthOfSpecifiedFormatButNoPageBreaks" = "Visa sidor utan sidbrytningar";
+
+/* (No Comment) */
+"_ReportViewConfiguration_PageFormatModeExplanation" = "Kontrollera här hur rapporten ska visas på din skärm. Visa rapporten antingen på enskilda sidor som den skulle visas på papper eller visa den så stort som möjligt.";
+
+/* ReportView */
+"_ReportViewConfiguration_PaginationMajorGroupName" = "Paginering";
+
+/* Sample Report */
+"_SampleReportTitle" = "Provrapport";
+

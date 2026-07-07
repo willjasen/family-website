@@ -1,0 +1,2202 @@
+﻿/* Background Image Mode */
+"_BackgroundGeneratorChartCompositorObject_BackgroundImageMode" = "Taustakuvan tyyli";
+
+/* (No Comment) */
+"_BackgroundGeneratorChartCompositorObject_BackgroundImageMode_BlurryEdges" = "Epätarkat nurkat";
+
+/* (No Comment) */
+"_BackgroundGeneratorChartCompositorObject_BackgroundImageMode_Radial" = "Pyöreä";
+
+/* (No Comment) */
+"_BackgroundGeneratorChartCompositorObject_BackgroundImageMode_Rectangle" = "Suorakulmio";
+
+/* (No Comment) */
+"_BackgroundGeneratorChartCompositorObject_BlurryEdgesSize" = "Epätarkkojen nurkkien koko";
+
+/* (No Comment) */
+"_BarHistoryEventTimelineGeneratorChartCompositorObjectConfiguration_CustomTextColor" = "Muokattu tekstin väri historiatapahtumille";
+
+/* (No Comment) */
+"_BarHistoryEventTimelineGeneratorChartCompositorObjectConfiguration_Font" = "Historiatapahtumien fontti";
+
+/* (No Comment) */
+"_BarHistoryEventTimelineGeneratorChartCompositorObjectConfiguration_TextColoringMode" = "Historiatapahtumien tekstin väri";
+
+/* (No Comment) */
+"_BarPersonTimelineGeneratorChartCompositorObjectConfiguration_EventMarkerMode" = "Tapahtumien merkkaus";
+
+/* (No Comment) */
+"_BarPersonTimelineGeneratorChartCompositorObjectConfiguration_EventMarkerMode_Circles" = "Ympyrät";
+
+/* (No Comment) */
+"_BarPersonTimelineGeneratorChartCompositorObjectConfiguration_EventMarkerMode_Lines" = "Viivat";
+
+/* BaseChartBuilder */
+"_BaseChartBuilderConfiguration_PlaceFormat_CompleteLocationString" = "Täydellinen paikannimi";
+
+/* (No Comment) */
+"_BaseChartBuilderConfiguration_PlaceFormat_OnlyPlaceName" = "Lyhennetty paikannimi";
+
+/* LineColorModes */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineColorMode" = "Viivan värimalli";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineColorMode_ContrastToBackground" = "Kontrasti taustaan";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineColorMode_Custom" = "Muokattu";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration" = "Rivin lopun koristelu";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_Bar" = "Palkki";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_LargeCircle" = "Iso ympyrä";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_LargeDot" = "Iso piste";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_None" = "Ei mitään";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_SmallCircle" = "Pieni ympyrä";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_SmallDot" = "Pieni piste";
+
+/* BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration */
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_MediaPictureAssignmentMode" = "Mediakuvan mukaan";
+
+/* (No Comment) */
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_MediaPictureAssignmentMode_FullPictureWithoutAssignment" = "Täysi kuva ilman rajausta";
+
+/* (No Comment) */
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_MediaPictureAssignmentMode_OnlyUserProvidedAssignment" = "Rajattu kuva kun selvästi määritetty";
+
+/* (No Comment) */
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_MediaPictureAssignmentMode_UserProvidedOrVision" = "Rajattu kuva kun määritetty ja kasvot tunnistettu";
+
+/* (No Comment) */
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_MediaPictureAssignmentModeExplanation" = "Määritä tässä kuinka media pitäisi näyttää. Valitse näytetäänkö täysikokoiset kuvat vai pitäisikö ne rajata kasvokuviksi tekoälyn avulla.";
+
+/* (No Comment) */
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_OutsetForMediaPictureAssignmentModeForVision" = "Tunnistettujen kasvojen etäisyys";
+
+/* (No Comment) */
+"_ChartCompositorObjectsContainer_RealignmentMode_DistributeObjectsEvenlyOnPageFromBorderToBorder" = "Jaa kohteet kaikille sivuille";
+
+/* ChartCompositorObjectsContainer_RealignmentMode */
+"_ChartCompositorObjectsContainer_RealignmentMode_MoveObjectsAwayFromPageCuts" = "Siirrä kohteet pois sivunvaihdoista";
+
+/* (No Comment) */
+"_ChartFillSettings_FillType_LinearGradient" = "Gradientti";
+
+/* ChartFillSettings */
+"_ChartFillSettings_FillType_None" = "Ei mitään";
+
+/* (No Comment) */
+"_ChartFillSettings_FillType_None_Explanation" = "Täyttötyyppiä ei ole valittu";
+
+/* (No Comment) */
+"_ChartFillSettings_FillType_RadialGradient" = "Säteettäinen gradientti";
+
+/* (No Comment) */
+"_ChartFillSettings_FillType_RadialGradient_Abbreviation" = "Säteettäinen";
+
+/* (No Comment) */
+"_ChartFillSettings_FillType_SolidColor" = "Väri";
+
+/* (No Comment) */
+"_ChartObjectType_BezierConnectionBuilderItemGeneratorChartCompositorObject" = "Bezier yhteydet";
+
+/* (No Comment) */
+"_ChartObjectType_BlobConnectionBuilderItemGeneratorChartCompositorObject" = "Orgaaniset yhteydet";
+
+/* Chart object types */
+"_ChartObjectType_DirectStraightConnectionBuilderItemGeneratorChartCompositorObject" = "Suorat yhteydet";
+
+/* (No Comment) */
+"_ChartObjectType_HConnectionBuilderItemGeneratorChartCompositorObject" = "H-yhteydet";
+
+/* (No Comment) */
+"_ChartObjectType_YStraightConnectionBuilderItemGeneratorChartCompositorObject" = "Y suorat yhteydet";
+
+/* (No Comment) */
+"_Charts_XAlignment_Center" = "Kesitetty";
+
+/* Alignment */
+"_Charts_XAlignment_Left" = "Vasemmalle";
+
+/* (No Comment) */
+"_Charts_XAlignment_Right" = "Oikealle";
+
+/* (No Comment) */
+"_Charts_YAlignment_Bottom" = "Alas";
+
+/* (No Comment) */
+"_Charts_YAlignment_Middle" = "Keskelle";
+
+/* (No Comment) */
+"_Charts_YAlignment_Top" = "Ylös";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_ExportAsSeparatePages" = "Erilliset sivut";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_ExportAsSeparatePages_Explanation" = "Jos valittu, kuvaaja jaetaan usealle sivulle.";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_ExportBackground" = "Näytä tausta";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_ExportBackground_Explanation" = "Jos valittu, tausta näkyy kuvassa.";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_Margins" = "Marginaalit";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_Margins_Explanation" = "Käytä tätä valintaa kuvaajan ja reunusten välisten marginaalien määrittämiseen kuvassa.";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_Margins_ExplanationForPrinting" = "Asettaa etäisyyden joka kuvaajan pitää olla reunuksesta.";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_PrintingTitle" = "Tulostusasetukset";
+
+/* ChartsBaseCGContextViewerConfiguration */
+"_ChartsBaseCGContextViewerConfiguration_Title" = "Vientiasetukset";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewer_JPEGToLarge_Description" = "Tämä kuvaaja on liian suuri vietäväksi JPEG tiedostona. Muokkaa skaalausasetusta alemmaksi tai vie kuvaaja PNG tai PDF tiedostona.";
+
+/* ChartsBitmapCGContextViewerConfiguration */
+"_ChartsBitmapCGContextViewerConfiguration_ExportFormat" = "Vientimuoto";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_ExportFormat_Explanation" = "Valitse haluttu kuvamuoto tässä käytettäväksi. PNG tiedostot voivat sisältää läpinäkyvän taustan kun taas JPEG tiedostot tarjoavat paremman pakkauksen ja pienemmän tiedostokoon.";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_ExportFormat_JPEG" = "Vie JPEG kuvana";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_ExportFormat_PNG" = "Vie PNG kuvana";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_JPEGQuality" = "JPEG laatu";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_JPEGQuality_Explanation" = "JPEG laatu määrittää kuinka paljon kuva on pakattu. Alempi laatu tuottaa pienemmän tiedostokoon mutta voi aiheuttaa pakkaushäiriöitä.";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_Scaling" = "Skaalaus";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_Scaling_Explanation" = "Aseta lopullisen kuvan skaalaus tässä. Suuremmat skaalaukset suurentavat tiedostokokoa mutta tarjoavat enemmän yksityiskohtia.";
+
+/* (No Comment) */
+"_ChartsEditor_AlignMode_BottomY" = "Pystytasaus alas";
+
+/* ChartEditor */
+"_ChartsEditor_AlignMode_LeftX" = "Vaakatasaus vasemmalle";
+
+/* (No Comment) */
+"_ChartsEditor_AlignMode_MiddleX" = "Vaakatasaus keskelle";
+
+/* (No Comment) */
+"_ChartsEditor_AlignMode_MiddleY" = "Pystytasaus keskelle";
+
+/* (No Comment) */
+"_ChartsEditor_AlignMode_RightX" = "Vaakatasaus oikealle";
+
+/* (No Comment) */
+"_ChartsEditor_AlignMode_TopY" = "Pystytasaus ylös";
+
+/* (No Comment) */
+"_Common_AdditionalNameFormat" = "Lisänimet";
+
+/* (No Comment) */
+"_Common_AdditionalNameFormatExplanation" = "Määritä tässä mitkä lisänimet näytetään kuvaajassa.";
+
+/* (No Comment) */
+"_Common_Alignment" = "Tasaus";
+
+/* (No Comment) */
+"_Common_Alignment_BottomToTop" = "Alhaalta ylös";
+
+/* (No Comment) */
+"_Common_Alignment_FathersBottomMothersTop" = "Isät alhaalla, Äidit ylhäällä";
+
+/* (No Comment) */
+"_Common_Alignment_FathersLeftMothersRight" = "Isät vasemmalla, Äidit oikealla";
+
+/* (No Comment) */
+"_Common_Alignment_FathersLeftMothersRightCondensed" = "Isän vasemmalla, äidin oikealla (tiivistetty)";
+
+/* (No Comment) */
+"_Common_Alignment_FathersRightMothersLeft" = "Isät oikealla, Äidit vasemmalla";
+
+/* (No Comment) */
+"_Common_Alignment_FathersRightMothersLeftCondensed" = "Isän oikealla, äidin vasemmalla (tiivistetty)";
+
+/* (No Comment) */
+"_Common_Alignment_FathersTopMothersBottom" = "Isät ylhäällä, Äidit alhaalla";
+
+/* (No Comment) */
+"_Common_Alignment_LeftToRight" = "Vasemmalta oikealle";
+
+/* (No Comment) */
+"_Common_Alignment_LeftToRightCondensed" = "Vasemmalta oikealle (tiivistetty)";
+
+/* (No Comment) */
+"_Common_Alignment_RightToLeft" = "Oikealta vasemmalle";
+
+/* (No Comment) */
+"_Common_Alignment_RightToLeftCondensed" = "Oikealta vasemmalle (tiivistetty)";
+
+/* (No Comment) */
+"_Common_Alignment_TopToBottom" = "Ylhäältä alas";
+
+/* (No Comment) */
+"_Common_AlignmentExplanation" = "Määrittää yleisen henkilönäkymän kuvaajassa";
+
+/* (No Comment) */
+"_Common_AlignOnGrid" = "Tasaa normiruudukon mukaan";
+
+/* (No Comment) */
+"_Common_AlignOnGridExplanation" = "Tasaa kaikki henkilöt suurimman henkilön ruudun mukaan yhtenäisemmän näkymän vuoksi – vie enemmän tilaa.";
+
+/* (No Comment) */
+"_Common_AncestorGenerationsOfPartnerSlider" = "Puolison sukupolvien esivanhemmat";
+
+/* (No Comment) */
+"_Common_AncestorGenerationsSlider" = "Esipolvet";
+
+/* (No Comment) */
+"_Common_AnestorGenerationsForPartnersSlider" = "Puolison esipolvet";
+
+/* (No Comment) */
+"_Common_AnglesGroupName" = "Kulmat";
+
+/* (No Comment) */
+"_Common_AngleSlider" = "Kulma";
+
+/* (No Comment) */
+"_Common_ArrowsGroupName" = "Nuolet";
+
+/* (No Comment) */
+"_Common_AssociatedPersonsGroupName" = "Vaikuttavat henkilöt";
+
+/* (No Comment) */
+"_Common_AssociateRelationLines" = "Suhteet vaikuttaviin henkilöihin";
+
+/* (No Comment) */
+"_Common_Author" = "Tekijä";
+
+/* (No Comment) */
+"_Common_AuthorColor" = "Tekijän väri";
+
+/* (No Comment) */
+"_Common_AuthorCustomTextColor" = "Muokattu tekijän väri";
+
+/* (No Comment) */
+"_Common_AuthorEnabledCheckbox" = "Näytä tekijä";
+
+/* (No Comment) */
+"_Common_AuthorFont" = "Tekijän fontti";
+
+/* (No Comment) */
+"_Common_AuthorGroupName" = "Tekijä";
+
+/* (No Comment) */
+"_Common_AuthorTextColoringMode" = "Tekijän värjäys";
+
+/* (No Comment) */
+"_Common_BackgroundColor" = "Taustaväri";
+
+/* (No Comment) */
+"_Common_BackgroundEdgeRadius" = "Taustan kulmien kaarevuus";
+
+/* (No Comment) */
+"_Common_BackgroundEnabledCheckbox" = "Näytä tausta";
+
+/* (No Comment) */
+"_Common_BackgroundEnabledCheckboxExplanation" = "Jos sallittu, valitse väri, gradientti tai kuva näytettäväksi tämän kuvaajan taustalla.";
+
+/* (No Comment) */
+"_Common_BackgroundFill" = "Taustan täyttö";
+
+/* (No Comment) */
+"_Common_BackgroundGroupName" = "Tausta";
+
+/* (No Comment) */
+"_Common_BackgroundImageOpacity" = "Taustakuvan läpinäkyvyys";
+
+/* (No Comment) */
+"_Common_BackgroundTintFactor" = "Taustan värisävy";
+
+/* (No Comment) */
+"_Common_BarAndTextColor" = "Palkin ja tekstin väri";
+
+/* (No Comment) */
+"_Common_BarColor" = "Palkin väri";
+
+/* (No Comment) */
+"_Common_BarEdgeRadius" = "Palkin reunan kaarevuus";
+
+/* (No Comment) */
+"_Common_BarGroupName" = "Palkki";
+
+/* (No Comment) */
+"_Common_BarHeight" = "Palkin korkeus";
+
+/* (No Comment) */
+"_Common_BarsGroupName" = "Palkit";
+
+/* (No Comment) */
+"_Common_BarsSpacing" = "Palkkien etäisyys";
+
+/* (No Comment) */
+"_Common_BarStyle" = "Palkin tyyli";
+
+/* (No Comment) */
+"_Common_BarsWidth" = "Palkkien leveys";
+
+/* (No Comment) */
+"_Common_BorderColor" = "Reunuksen väri";
+
+/* (No Comment) */
+"_Common_BorderGroupName" = "Reunus";
+
+/* (No Comment) */
+"_Common_BorderWidth" = "Reunuksen leveys";
+
+/* (No Comment) */
+"_Common_BottomDarkeningFactor" = "Taustan Gradientin kerroin";
+
+/* (No Comment) */
+"_Common_BottomLineColor" = "Alaviivan väri";
+
+/* (No Comment) */
+"_Common_BottomLineWidth" = "Alaviivan leveys";
+
+/* (No Comment) */
+"_Common_BottomMarginSlider" = "Alamarginaali";
+
+/* (No Comment) */
+"_Common_BoundsHeight" = "Korkeus";
+
+/* (No Comment) */
+"_Common_BoundsWidth" = "Leveys";
+
+/* (No Comment) */
+"_Common_BranchesToTraverse" = "Seuraavaan haaraan";
+
+/* (No Comment) */
+"_Common_BranchesToTraverse_MaternalAndPaternal" = "Isä- ja Äitilinjat";
+
+/* (No Comment) */
+"_Common_BranchesToTraverse_MaternalOfStartPerson" = "Aloitushenkilön Äitilinja";
+
+/* (No Comment) */
+"_Common_BranchesToTraverse_OnlyMaternal" = "Vain Äitilinja";
+
+/* (No Comment) */
+"_Common_BranchesToTraverse_OnlyPaternal" = "Vain Isälinja";
+
+/* (No Comment) */
+"_Common_BranchesToTraverse_PaternalOfStartPerson" = "Aloitushenkilön Isälinja";
+
+/* (No Comment) */
+"_Common_BranchesToTraverseExplanation" = "Määritä tässä mitä haaroja tässä kuvaajassa näytetään. Esimerkki: Valitsemalla \"Vain isälinja\" näytetään vain valitun henkilön Isä, Isänisä jne.";
+
+/* (No Comment) */
+"_Common_BranchItemSpacingSlider" = "Haarojen etäisyys";
+
+/* (No Comment) */
+"_Common_BranchItemSpacingSliderExplanation" = "Määrittää kuinka kaukana sukulaiset ovat toisistaan kuvaajassa";
+
+/* (No Comment) */
+"_Common_BrothersAndSistersGroupName" = "Veljet ja sisaret";
+
+/* (No Comment) */
+"_Common_ChildrenGenerationsSlider" = "Lapsisukupolvet";
+
+/* (No Comment) */
+"_Common_ColoringMode" = "Väritysmalli";
+
+/* (No Comment) */
+"_Common_ColoringMode_Alternating" = "Vaihtelu";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByAge" = "Iän mukaan";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByGender" = "Sukupuolen mukaan";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByGenerationGreenBlue" = "Sukupolven mukaan (Vihreä/sininen)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByGenerationOrangeCyan" = "Sukupolven mukaan (Oranssi/syaani)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByGenerationRainbow" = "Sukupolven mukaan (Sateenkaari)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByGenerationSunset" = "Sukupolven mukaan (Auringonlasku)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByLabel" = "Merkin mukaan";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByPedigreeDark" = "Sukulaisuuden mukaan (Tumma)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByPedigreeLight" = "Sukulaisuuden mukaan (Vaalea)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByPersonGroup" = "Henkilöryhmän mukaan";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByYear" = "Vuoden mukaan";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByYearRainbow" = "Vuoden mukaan (Sateenkaari)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByYearRainbowSubdued" = "Vuoden mukaan (Vaimea Sateenkaari)";
+
+/* (No Comment) */
+"_Common_ColoringMode_Custom" = "Yhtenäinen väri";
+
+/* (No Comment) */
+"_Common_ColoringMode_Rainbow" = "Sateenkaari";
+
+/* (No Comment) */
+"_Common_ColoringMode_Uniform" = "Yhtenäinen";
+
+/* (No Comment) */
+"_Common_ColoringMode_White" = "Valkoinen";
+
+/* (No Comment) */
+"_Common_ColoringModeExplanation" = "Valitse eri värityyli tämän kuvaajan henkilöille tässä.";
+
+/* (No Comment) */
+"_Common_ColorsGroupName" = "Värit";
+
+/* (No Comment) */
+"_Common_ConnectionLineType" = "Yhdysviivatyyppi";
+
+/* (No Comment) */
+"_Common_ContentGroupName" = "Sisällys";
+
+/* (No Comment) */
+"_Common_CurveFactor" = "Kaari";
+
+/* (No Comment) */
+"_Common_CustomColor" = "Määritelty väri";
+
+/* (No Comment) */
+"_Common_CustomTextColor" = "Määritelty tekstin väri";
+
+/* (No Comment) */
+"_Common_Date" = "Päivämäärä";
+
+/* (No Comment) */
+"_Common_DateColor" = "Päivämäärän väri";
+
+/* (No Comment) */
+"_Common_DateCustomTextColor" = "Määritelty Päivämäärän väri";
+
+/* (No Comment) */
+"_Common_DateEnabledCheckbox" = "Näytä päivämäärä";
+
+/* (No Comment) */
+"_Common_DateFont" = "Päivämäärän väri";
+
+/* (No Comment) */
+"_Common_DateFormatGroupName" = "Päivämäärämuodot";
+
+/* (No Comment) */
+"_Common_DateFormatStyle" = "Päivämäärämuodon tyyli";
+
+/* (No Comment) */
+"_Common_DateFormatStyle_Full" = "Täysi (Maanantai, 17 marraskuuta 2014)";
+
+/* (No Comment) */
+"_Common_DateFormatStyle_Long" = "Pitkä (17 syyskuuta 2014)";
+
+/* (No Comment) */
+"_Common_DateFormatStyle_Medium" = "Keskipitkä (17 syy 2014)";
+
+/* (No Comment) */
+"_Common_DateFormatStyle_Short" = "Lyhyt (17.11.2014)";
+
+/* (No Comment) */
+"_Common_DateFormatStyleExplanation" = "Määritä tässä mitä päivämäärämuototyyliä käytetään päivämääriä muokattaessa";
+
+/* (No Comment) */
+"_Common_DateGroupName" = "Päivämäärä";
+
+/* (No Comment) */
+"_Common_DatesGroupName" = "Päivämäärät";
+
+/* (No Comment) */
+"_Common_DateTextColor" = "Päivämäärätekstin väri";
+
+/* (No Comment) */
+"_Common_DateTextColoringMode" = "Päivämäärän väritys";
+
+/* (No Comment) */
+"_Common_DescendantGenerationsSlider" = "Jälkipolvet";
+
+/* (No Comment) */
+"_Common_DisplayValuesGroupName" = "Arvot";
+
+/* (No Comment) */
+"_Common_DistributeToAllPagesButton" = "Sovita kohteet kaikille sivuille";
+
+/* (No Comment) */
+"_Common_EdgeHeight" = "Reunan korkeus";
+
+/* (No Comment) */
+"_Common_EdgeRadius" = "Reunan kaarevuus";
+
+/* (No Comment) */
+"_Common_EmphasizedGroupBackgroundFill" = "Korostetun ryhmän taustaväri";
+
+/* (No Comment) */
+"_Common_EnabledPersonGroupIdentifiers" = "Henkilöryhmät";
+
+/* (No Comment) */
+"_Common_EndGenerationScale" = "Sukupolven loppukskaalaus";
+
+/* (No Comment) */
+"_Common_EndGenerationScaleExplanation" = "Määrittää kuinka loppusukupolvi skaalataan suhteessa aloitussukupolveen";
+
+/* (No Comment) */
+"_Common_EvaluateDataFromDate" = "Päivämäärästä";
+
+/* (No Comment) */
+"_Common_EvaluateDataToDate" = "Päivämäärään";
+
+/* (No Comment) */
+"_Common_EventsFactsAndAssociateRelationsGroupName" = "Tapahtumat, tiedot & vaikuttavat suhteet";
+
+/* (No Comment) */
+"_Common_EventsGroupName" = "Tapahtumat";
+
+/* (No Comment) */
+"_Common_FatherGenerationsSlider" = "Isäsukupolvet";
+
+/* (No Comment) */
+"_Common_FillMode" = "Täyttömalli";
+
+/* (No Comment) */
+"_Common_FillMode_BarAtBottom" = "Palkki alhaalla";
+
+/* (No Comment) */
+"_Common_FillMode_BarAtTop" = "Palkki ylhäällä";
+
+/* (No Comment) */
+"_Common_FillMode_BarAtTopAndBottom" = "Palkit ylhäällä ja alhaalla";
+
+/* (No Comment) */
+"_Common_FillMode_DarkBarAtBottom" = "Tumma palkki alhaalla";
+
+/* (No Comment) */
+"_Common_FillMode_DarkBarAtTop" = "Tumma palkki ylhäällä";
+
+/* (No Comment) */
+"_Common_FillMode_DarkBarAtTopAndBottom" = "Tumma palkki ylhäällä ja alhaalla";
+
+/* (No Comment) */
+"_Common_FillMode_DarkGradientAtBottom" = "Tumma liukuväri alas";
+
+/* (No Comment) */
+"_Common_FillMode_DarkGradientAtRight" = "Tumma liukuväri oikealle";
+
+/* (No Comment) */
+"_Common_FillMode_DarkGradientAtTop" = "Tumma liukuväri ylös";
+
+/* (No Comment) */
+"_Common_FillMode_Flat" = "Tasainen";
+
+/* (No Comment) */
+"_Common_FillMode_Glossy" = "Kiiltävä";
+
+/* (No Comment) */
+"_Common_FillMode_LightBarAtBottom" = "Vaalea palkki alhaalla";
+
+/* (No Comment) */
+"_Common_FillMode_LightBarAtTop" = "Vaalea palkki ylhäällä";
+
+/* (No Comment) */
+"_Common_FillMode_LightBarAtTopAndBottom" = "Vaalea palkki ylhäällä ja alhaalla";
+
+/* (No Comment) */
+"_Common_FillMode_LightGradientAtBottom" = "Vaalea liukuväri alas";
+
+/* (No Comment) */
+"_Common_FillMode_LightGradientAtLeft" = "Vaalea liukuväri vasemmalle";
+
+/* (No Comment) */
+"_Common_FillMode_LightGradientAtTop" = "Vaalea liukuväri ylös";
+
+/* (No Comment) */
+"_Common_FillMode_LightShineAtCenter" = "Vaalea hohde keskellä";
+
+/* (No Comment) */
+"_Common_FillMode_None" = "Ei mitään";
+
+/* (No Comment) */
+"_Common_FillMode_VeryDarkGradientAtBottom" = "Hyvin tumma gradientti alas";
+
+/* (No Comment) */
+"_Common_FillMode_VeryDarkGradientAtTop" = "Hyvin tumma gradientti ylös";
+
+/* (No Comment) */
+"_Common_FillMode_VeryLightGradientAtBottom" = "Hyvin vaalea gradientti alas";
+
+/* (No Comment) */
+"_Common_FillMode_VeryLightGradientAtTop" = "Hyvin vaalea gradientti ylös";
+
+/* (No Comment) */
+"_Common_FloatingSideBar" = "Kelluva sivupalkki";
+
+/* (No Comment) */
+"_Common_Font" = "Fontti";
+
+/* (No Comment) */
+"_Common_FontsGroupName" = "Fontit";
+
+/* (No Comment) */
+"_Common_FromDate" = "Alkupäivä";
+
+/* (No Comment) */
+"_Common_FullName" = "Koko nimi";
+
+/* Group Names */
+"_Common_GeneralGroupName" = "Yleistä";
+
+/* (No Comment) */
+"_Common_GenerationMarginsSlier" = "Sukupolvimarginaalit";
+
+/* (No Comment) */
+"_Common_GenerationScaleSubGroupName" = "Sukupolviskaalaus";
+
+/* Control Names */
+"_Common_GenerationsSlider" = "Sukupolvet";
+
+/* (No Comment) */
+"_Common_GenerationsSpacingSlider" = "Sukupolvien etäisyydet";
+
+/* (No Comment) */
+"_Common_GenerationsSpacingSliderExplanation" = "Hallitsee kunkin sukupolven henkilöiden välisiä etäisyyksiä";
+
+/* (No Comment) */
+"_Common_GeometryGroupName" = "Geometria";
+
+/* (No Comment) */
+"_Common_GraphSegmentWidth" = "Grafiikkakappaleen leveys";
+
+/* (No Comment) */
+"_Common_GraphType" = "Grafiikkatyyppi";
+
+/* (No Comment) */
+"_Common_GraphType_Bars" = "Palkit";
+
+/* (No Comment) */
+"_Common_GraphType_Lines" = "Viivat";
+
+/* (No Comment) */
+"_Common_GridGroupName" = "Ruudukko";
+
+/* (No Comment) */
+"_Common_GroupColoringMode" = "Ryhmän väritysmalli";
+
+/* (No Comment) */
+"_Common_GroupingMode" = "Ryhmitysmalli";
+
+/* (No Comment) */
+"_Common_GroupInnerPadding" = "Sisäiset välit";
+
+/* (No Comment) */
+"_Common_GroupsGroupName" = "Ryhmät";
+
+/* (No Comment) */
+"_Common_HasArrowAtEnd" = "Nuoli lopussa";
+
+/* (No Comment) */
+"_Common_HasArrowAtStart" = "Nuoli alussa";
+
+/* (No Comment) */
+"_Common_HasProjectedBirthDate" = "Arvioitu syntymäaika";
+
+/* (No Comment) */
+"_Common_HasProjectedDeathDate" = "Arvioitu kuolinaika";
+
+/* (No Comment) */
+"_Common_HidePrivateInformation" = "Kätke yksityiseksi merkityt tiedot";
+
+/* (No Comment) */
+"_Common_HidePrivateInformationExplanation" = "Kaikki salaisiksi merkityt tiedot on kätketty kuvaajassa jos tämä valinta on tehty";
+
+/* (No Comment) */
+"_Common_HighlightLivingPersons" = "Korosta elävät henkilöt";
+
+/* (No Comment) */
+"_Common_HistoryGroupName" = "Maailmanhistoria";
+
+/* (No Comment) */
+"_Common_HorizontalSpacing" = "Vaakaetäisyydet";
+
+/* (No Comment) */
+"_Common_IDs" = "Viitenumerot";
+
+/* (No Comment) */
+"_Common_ImageAlignment" = "Kuvan kohdistus";
+
+/* (No Comment) */
+"_Common_ImageHeightFactorSlider" = "Kuvan korkeus";
+
+/* (No Comment) */
+"_Common_ImageMargins" = "Kuvan marginaalit";
+
+/* (No Comment) */
+"_Common_ImageSpacing" = "Kuvan etäisyys";
+
+/* (No Comment) */
+"_Common_IncludePlaceDetail" = "Sisällytä paikkatieto paikan nimeen";
+
+/* (No Comment) */
+"_Common_IndentPartners" = "Sisennä puolisot";
+
+/* Privacy */
+"_Common_InformationHiddenDueToPrivacySettings" = "Tiedot kätketty yksityisyyden takia";
+
+/* (No Comment) */
+"_Common_InnerBarMarginsSlider" = "Sisäpalkin marginaalit";
+
+/* (No Comment) */
+"_Common_InnerBoxMarginsSlider" = "Sisämarginaalit";
+
+/* (No Comment) */
+"_Common_ItemMarginsSlider" = "Kohteiden marginaalit";
+
+/* (No Comment) */
+"_Common_ItemSpacingSlider" = "Kohteiden etäisyydet";
+
+/* (No Comment) */
+"_Common_ItemSpacingSliderExplanation" = "Määrittää sukupolven henkilöiden väliset etäisyydet";
+
+/* (No Comment) */
+"_Common_LabelsGroupName" = "Merkit";
+
+/* (No Comment) */
+"_Common_LeftLineColor" = "Vasemman viivan väri";
+
+/* (No Comment) */
+"_Common_LeftLineWidth" = "Vasemman viivan paksuus";
+
+/* (No Comment) */
+"_Common_LineColor" = "Viivojen värit";
+
+/* ChartLineDashPatternTypes */
+"_Common_LineDashPatternType" = "Katkoviivan tyyli";
+
+/* (No Comment) */
+"_Common_LineDashPatternType_Long" = "Pitkä";
+
+/* (No Comment) */
+"_Common_LineDashPatternType_Short" = "Lyhyt";
+
+/* (No Comment) */
+"_Common_LineDashPatternType_ShortGaps" = "Lyhyet välit";
+
+/* (No Comment) */
+"_Common_LineDashPatternType_Solid" = "Ei katkoksia";
+
+/* (No Comment) */
+"_Common_LineDashPatternType_VeryShort" = "Hyvin lyhyt";
+
+/* (No Comment) */
+"_Common_LineDistanceFromDestinationObjects" = "Viivan etäisyys kohteesta";
+
+/* (No Comment) */
+"_Common_LineDistanceFromOriginObjects" = "Viivan etäisyys alusta";
+
+/* (No Comment) */
+"_Common_LineEndingName" = "Viivan päät";
+
+/* (No Comment) */
+"_Common_LineGroupName" = "Viiva";
+
+/* (No Comment) */
+"_Common_LinesGroupName" = "Viivat";
+
+/* (No Comment) */
+"_Common_LineWidth" = "Viivan paksuus";
+
+/* (No Comment) */
+"_Common_Localization" = "Lokalisointi";
+
+/* (No Comment) */
+"_Common_LocalizationAndFormatsGroupName" = "Lokalisaatio & formaatit";
+
+/* (No Comment) */
+"_Common_LocalizationExplanation" = "Määritä tässä kuvaajassa käytettävä lokalisointi. Kaikki henkilötapahtumat, henkilötiedot tai perhetapahtumat ja muu teksti lokalisoidaan määritellylle kielelle";
+
+/* (No Comment) */
+"_Common_MarginsGroupName" = "Marginaalit";
+
+/* (No Comment) */
+"_Common_MarkDeadPersons" = "Merkitse kuolleet henkilöt";
+
+/* (No Comment) */
+"_Common_MaximumRecursionDepth" = "Maksimi toistomäärä";
+
+/* (No Comment) */
+"_Common_MaximumRecursionDepthExplanation" = "Määrittää kuinka monta kertaa sama henkilö voi esiintyä samassa kuvaajassa ennen kuin arviointi päättyy. Tämä voi tapahtua syöttövirheiden tai myös serkusavioliittojen tai insestisuhteiden yhteydessä.";
+
+/* (No Comment) */
+"_Common_MaximumResults" = "Maksimi tulosmäärä";
+
+/* (No Comment) */
+"_Common_MediaGroupName" = "Media";
+
+/* (No Comment) */
+"_Common_MotherGenerationsSlider" = "Äitisukupolvet";
+
+/* (No Comment) */
+"_Common_NameAlignment" = "Nimen kohdistus";
+
+/* (No Comment) */
+"_Common_NameBarColor" = "Nimipalkin väri";
+
+/* (No Comment) */
+"_Common_NameFont" = "Nimen fontti";
+
+/* (No Comment) */
+"_Common_NameFormat" = "Henkilönnimen muoto";
+
+/* (No Comment) */
+"_Common_NameFormatExplanation" = "Valitse nimimuoto käytettäväksi kaikille henkilöille tässä kuvaajassa.";
+
+/* (No Comment) */
+"_Common_NamesFormatGroupName" = "Nimimuodot";
+
+/* (No Comment) */
+"_Common_NameTextColor" = "Nimitekstin väri";
+
+/* (No Comment) */
+"_Common_NoBackground" = "Ei taustaa";
+
+/* (No Comment) */
+"_Common_NormalGroupBackgroundFill" = "Normaali ryhmän taustaväri";
+
+/* (No Comment) */
+"_Common_NotesGroupName" = "Merkinnät";
+
+/* (No Comment) */
+"_Common_OmitEmptyPagesWhenPrintingOrExporting" = "Älä tulosta tyhjiä sivuja";
+
+/* Date Ranges */
+"_Common_OnlyEvalulateEntriesInDateRange" = "Näytä vain kirjaukset aikajanan sisällä";
+
+/* (No Comment) */
+"_Common_OnlyEvalulateEntriesInDateRangeExplanation" = "Jos määritelty, vain tämän aikajanan sisällä olevat päivämäärät huomioidaan – kaikki muut hylätään.";
+
+/* (No Comment) */
+"_Common_OtherFont" = "Muu fontti";
+
+/* (No Comment) */
+"_Common_OtherTextColor" = "Muu tekstin väri";
+
+/* (No Comment) */
+"_Common_OverviewGroupName" = "Yleisnäkymä";
+
+/* (No Comment) */
+"_Common_PageOverlapPoints" = "Sivujen päällekkäisyys";
+
+/* (No Comment) */
+"_Common_PagesCountX" = "Vaakasivut";
+
+/* (No Comment) */
+"_Common_PagesCountY" = "Pystysivut";
+
+/* (No Comment) */
+"_Common_ParentGenerationsSlider" = "Vanhempien sukupolvet";
+
+/* (No Comment) */
+"_Common_PartnerIndentionSlider" = "Puolison sisennys";
+
+/* (No Comment) */
+"_Common_PartnerIndentionSliderExplanation" = "Määrittää etäisyyden lapsen ja lapsen puolison välillä";
+
+/* (No Comment) */
+"_Common_PartnersGroupName" = "Puolisot";
+
+/* (No Comment) */
+"_Common_PersonGroupsName" = "Henkilöryhmät";
+
+/* (No Comment) */
+"_Common_PersonsGroupName" = "Henkilöt";
+
+/* (No Comment) */
+"_Common_PersonWidthSlider" = "Henkilöiden leveys";
+
+/* (No Comment) */
+"_Common_PlaceFormat" = "Paikan muoto";
+
+/* (No Comment) */
+"_Common_PlaceFormatExplanation" = "Määritä tässä näytetäänkö paikannimi kokonaan vai vain lyhenne.";
+
+/* (No Comment) */
+"_Common_PlaceholderImageOpacity" = "Paikanvaraajakuvan sameus";
+
+/* (No Comment) */
+"_Common_PlacesFormatGroupName" = "Paikan muodot";
+
+/* (No Comment) */
+"_Common_PrintCutMarks" = "Tulosta leikkausmerkit";
+
+/* (No Comment) */
+"_Common_PrintPageNumbers" = "Tulosta sivunumerot";
+
+/* (No Comment) */
+"_Common_ReformatDatesToSelectedLocale" = "Sovita päivämäärät";
+
+/* (No Comment) */
+"_Common_ReformatDatesToSelectedLocaleExplanation" = "Jos sallittu, kaikki päivämäärät sovitetaan määriteltyyn lokalisointiin";
+
+/* (No Comment) */
+"_Common_ResultsToCollapse" = "Yhdistämisen tulokset";
+
+/* (No Comment) */
+"_Common_RightLineColor" = "Oikean reunaviivan väri";
+
+/* (No Comment) */
+"_Common_RightLineWidth" = "Oikean reunaviivan paksuus";
+
+/* (No Comment) */
+"_Common_Rotation" = "Kierto";
+
+/* (No Comment) */
+"_Common_ScaleAllValuesToRelativeValues" = "Näytä suhteellisina lukuina";
+
+/* (No Comment) */
+"_Common_ScaleAllValuesToRelativeValuesExplanation" = "Todellisten lukujen sijaan, näytä luvut suhteellisina jokaiselle annetulle vuodelle.";
+
+/* (No Comment) */
+"_Common_ScaleBrothersAndSisters" = "Skaalaa veljet & sisaret";
+
+/* (No Comment) */
+"_Common_ScaleBrothersAndSistersExplanation" = "Jos sallittu, aloitushenkilön suorien esivanhempien ja jälkeläisten veljet ja sisaret näytetään 50% pienennettyinä";
+
+/* (No Comment) */
+"_Common_ScalingOfBrothersAndSistersSlider" = "Veljien ja sisarten skaalaus";
+
+/* (No Comment) */
+"_Common_ShadowAngle" = "Varjon kulma";
+
+/* (No Comment) */
+"_Common_ShadowBlur" = "Varjon pehmennys";
+
+/* (No Comment) */
+"_Common_ShadowColor" = "Varjon väri";
+
+/* (No Comment) */
+"_Common_ShadowColoringFactor" = "Varjon väritys";
+
+/* (No Comment) */
+"_Common_ShadowDistance" = "Varjon etäisyys";
+
+/* (No Comment) */
+"_Common_ShadowGroupName" = "Varjot";
+
+/* (No Comment) */
+"_Common_ShadowLength" = "Varjon pituus";
+
+/* (No Comment) */
+"_Common_ShadowMode" = "Varjon malli";
+
+/* (No Comment) */
+"_Common_ShadowMode_Blurry" = "Sumea";
+
+/* (No Comment) */
+"_Common_ShadowMode_Flat" = "Tasainen";
+
+/* (No Comment) */
+"_Common_ShadowMode_None" = "Ei mitään";
+
+/* (No Comment) */
+"_Common_ShadowOpacity" = "Varjon läpinäkyvyys";
+
+/* (No Comment) */
+"_Common_ShowAncestorsOfPartners" = "Näytä puolisoiden esipolvet";
+
+/* (No Comment) */
+"_Common_ShowAncestorsOfPartnersExplanation" = "Sallittuna tämä valinta näyttää valitun alitushenkilön esivanhempien lisäksi myös aloitushenkilön puolisoiden esivanhemmat.";
+
+/* (No Comment) */
+"_Common_ShowAncestralFileNumberID" = "Näytä esipolvien tiedostonumero";
+
+/* (No Comment) */
+"_Common_ShowBrothersAndSisters" = "Näytä veljet ja sisaret";
+
+/* (No Comment) */
+"_Common_ShowBrothersAndSistersOfAncestors" = "Näytä esipolvien veljet ja sisaret";
+
+/* (No Comment) */
+"_Common_ShowBrothersAndSistersOfStartPerson" = "Näytä valitun henkilön veljet ja sisaret";
+
+/* (No Comment) */
+"_Common_ShowBrothersAndSistersOfStartPersonExplanation" = "Tätä valintaa käyttämällä voit sisällyttää valitun henkilön veljet ja sisaret tähän kuvaajaan.";
+
+/* (No Comment) */
+"_Common_ShowDisplayValuesOnBars" = "Näytä arvot palkeissa";
+
+/* (No Comment) */
+"_Common_ShowFamilySearchID" = "Näytä FamilySearch ID";
+
+/* (No Comment) */
+"_Common_ShowGedcomID" = "Näytä GEDCOM ID";
+
+/* (No Comment) */
+"_Common_ShowGroupsForPartnerItems" = "Näytä ryhmät partnereille";
+
+/* (No Comment) */
+"_Common_ShowKinships" = "Näytä sukulaisuudet";
+
+/* (No Comment) */
+"_Common_ShowKinshipsExplanation" = "Määritä näytetäänkö sukulaisuus aloitushenkilöön jokaiselle henkilölle tässä kuvaajassa.";
+
+/* (No Comment) */
+"_Common_ShowLabels" = "Näytä merkit";
+
+/* (No Comment) */
+"_Common_ShowNotes" = "Näytä merkinnät";
+
+/* (No Comment) */
+"_Common_ShowNumberingSystem" = "Näytä numerointijärjestelmä";
+
+/* (No Comment) */
+"_Common_ShowOnlyBloodlines" = "Etsi vain suorista verisukulaisista";
+
+/* (No Comment) */
+"_Common_ShowOnlySpecificPersonGroups" = "Näytä vain määrätyt henkilöryhmät";
+
+/* (No Comment) */
+"_Common_ShowOnlySpecificPersonGroupsExplanation" = "Jos sallittu, vain näihin henkilöryhmiin kuuluvat henkilöt käydään läpi. Näihin henkilöryhmiin kuulumattomia ei näytetä aloitushenkilöä lukuunottamatta.";
+
+/* (No Comment) */
+"_Common_ShowPartnersOfStartItem" = "Näytä valitun henkilön puolisot";
+
+/* (No Comment) */
+"_Common_ShowPersonAgeAtEvent" = "Näytä henkilön ikä tapahtuman aikaan";
+
+/* (No Comment) */
+"_Common_ShowPersonBirthDate" = "Näytä henkilön syntymäaika";
+
+/* (No Comment) */
+"_Common_ShowPersonDeathDate" = "Näytä henkilön kuolinaika";
+
+/* (No Comment) */
+"_Common_ShowPersonEventCause" = "Näytä henkilötapahtuman syy";
+
+/* (No Comment) */
+"_Common_ShowPersonEventDescription" = "Näytä henkilötapahtuman kuvaus";
+
+/* (No Comment) */
+"_Common_ShowPersonEventIcons" = "Näytä henkilötapahtumien ikonit";
+
+/* (No Comment) */
+"_Common_ShowPersonEventLocation" = "Näytä henkilötapahtumien paikat";
+
+/* (No Comment) */
+"_Common_ShowPersonImages" = "Näytä henkilöiden kuvat";
+
+/* (No Comment) */
+"_Common_ShowReferenceNumber" = "Näytä viitenumero";
+
+/* (No Comment) */
+"_Common_SideBarWidthSlider" = "Sivupalkin leveys";
+
+/* (No Comment) */
+"_Common_SpacingGroupName" = "Etäisyydet";
+
+/* (No Comment) */
+"_Common_SpacingSlider" = "Etäisyydet";
+
+/* (No Comment) */
+"_Common_StartAngleSlider" = "Aloituskulma";
+
+/* (No Comment) */
+"_Common_StartGenerationScale" = "Sukupolven aloitusskaalaus";
+
+/* (No Comment) */
+"_Common_StartGenerationScaleExpanation" = "Määrittää kuinka aloitussukupolvi skaalataan suhteessa lopetussukupolveen";
+
+/* (No Comment) */
+"_Common_StrokeGroupName" = "Ympäröinti";
+
+/* (No Comment) */
+"_Common_StyleGroupName" = "Tyyli";
+
+/* (No Comment) */
+"_Common_SubTitle" = "Alaotsikko";
+
+/* (No Comment) */
+"_Common_SubTitleColor" = "Alaotsikon väri";
+
+/* (No Comment) */
+"_Common_SubTitleCustomTextColor" = "Muokattu alaotsikon väri";
+
+/* (No Comment) */
+"_Common_SubTitleEnabledCheckbox" = "Näytä alaotsikko";
+
+/* (No Comment) */
+"_Common_SubTitleFont" = "Alaotsikon fontti";
+
+/* (No Comment) */
+"_Common_SubTitleGroupName" = "Alaotsikko";
+
+/* (No Comment) */
+"_Common_SubTitleTextColoringMode" = "Alaotsikon väritys";
+
+/* (No Comment) */
+"_Common_TextColor" = "Tekstin väri";
+
+/* (No Comment) */
+"_Common_TextColoringMode" = "Tekstin väritys";
+
+/* (No Comment) */
+"_Common_TextColoringMode_ByGenerationRainbow" = "Sukupolven mukaan (sateenkaari)";
+
+/* (No Comment) */
+"_Common_TextColoringMode_ContrastToBackgroundColor" = "Kontrasti taustaan";
+
+/* (No Comment) */
+"_Common_TextColoringMode_ContrastToBackgroundColorTinted" = "Väritetty kontrasti taustaan";
+
+/* (No Comment) */
+"_Common_TextColoringMode_Custom" = "Muokattu";
+
+/* (No Comment) */
+"_Common_TextColoringMode_Gender" = "Sukupuolen mukaan";
+
+/* (No Comment) */
+"_Common_TextGroupName" = "Teksti";
+
+/* (No Comment) */
+"_Common_ThemeGroupName" = "Teema";
+
+/* (No Comment) */
+"_Common_Title" = "Otsikko";
+
+/* (No Comment) */
+"_Common_TitleColor" = "Otsikon väri";
+
+/* (No Comment) */
+"_Common_TitleCustomTextColor" = "Muokattu otsikon väri";
+
+/* (No Comment) */
+"_Common_TitleEnabledCheckbox" = "Näytä otsikko";
+
+/* (No Comment) */
+"_Common_TitleFont" = "Otsikon fontti";
+
+/* (No Comment) */
+"_Common_TitleGroupName" = "Otsikko";
+
+/* (No Comment) */
+"_Common_TitleImageMode" = "Otsikkokuva";
+
+/* (No Comment) */
+"_Common_TitleTextColoringMode" = "Otsikon väritys";
+
+/* (No Comment) */
+"_Common_ToDate" = "Päivämäärään";
+
+/* (No Comment) */
+"_Common_TopImageHeight" = "Yläkuvan korkeus";
+
+/* (No Comment) */
+"_Common_TopLineColor" = "Yläviivan väri";
+
+/* (No Comment) */
+"_Common_TopLineWidth" = "Yläviivan paksuus";
+
+/* (No Comment) */
+"_Common_TopMarginSlider" = "Ylämarginaali";
+
+/* (No Comment) */
+"_Common_TotalAngleSlider" = "Täysi kulma";
+
+/* (No Comment) */
+"_Common_TypeFont" = "Tyyppifontti";
+
+/* (No Comment) */
+"_Common_TypeTextColor" = "Tyyppitekstin väri";
+
+/* (No Comment) */
+"_Common_UniformColor" = "Yhtenäinen väri";
+
+/* (No Comment) */
+"_Common_UniformColorForColoringModeExplanation" = "Valitsemalla 'Yhtenäinen väri' väritysmalli asetuksesta voit määrittää yhtenäisen henkilövärin.";
+
+/* (No Comment) */
+"_Common_VerticalSpacing" = "Pystyetäisyys";
+
+/* (No Comment) */
+"_Common_WidthPerYearSlider" = "Leveys vuotta kohti";
+
+/* (No Comment) */
+"_Common_XAxisLabel" = "X-akselin merkki";
+
+/* (No Comment) */
+"_Common_XAxisLabelColor" = "X-akselin merkin väri";
+
+/* (No Comment) */
+"_Common_XAxisLabelFont" = "X-akselin merkin fontti";
+
+/* (No Comment) */
+"_Common_XAxisLineColor" = "X-akselin viivan väri";
+
+/* (No Comment) */
+"_Common_XLineLabelColor" = "X-akselin merkkien väri";
+
+/* (No Comment) */
+"_Common_XLineLabelFont" = "X-akselin merkkien fontti";
+
+/* (No Comment) */
+"_Common_XLinesWidth" = "X-akselin viivan paksuus";
+
+/* (No Comment) */
+"_Common_XScale" = "Paksuuden skaalaus";
+
+/* (No Comment) */
+"_Common_YAxisLabel" = "Y-akselin merkki";
+
+/* (No Comment) */
+"_Common_YAxisLabelColor" = "Y-akselin merkin väri";
+
+/* (No Comment) */
+"_Common_YAxisLabelFont" = "Y-akselin merkin fontti";
+
+/* (No Comment) */
+"_Common_YAxisLineColor" = "Y-akselin viivan väri";
+
+/* (No Comment) */
+"_Common_YLineLabelColor" = "Y-akselin merkkien väri";
+
+/* (No Comment) */
+"_Common_YLineLabelFont" = "Y-akselin merkkien fontti";
+
+/* (No Comment) */
+"_Common_YLinesWidth" = "Y-akselin viivan paksuus";
+
+/* (No Comment) */
+"_Common_YScale" = "Korkeuden skaalaus";
+
+/* DistributionChartBuilder */
+"_DistributionChartBuilder_DistributionType" = "Jakelutyyppi";
+
+/* (No Comment) */
+"_DistributionChartBuilder_DistributionTypeExplanation" = "Määritä minkä tyyppisen jakelukuvaajan haluat luoda sukupuutietojesi perusteella.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_BirthCountry" = "Jako syntymämaiden mukaan";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_BirthCountry_Description" = "Näyttää sukupuusi henkilöiden syntymämaat.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_BirthPlace" = "Jako syntymäpaikkojen mukaan";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_BirthPlace_Description" = "Näyttää sukupuusi henkilöiden syntymäpaikkakunnat.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_DeathCountry" = "Kuolinmaiden jakautuminen";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_DeathCountry_Description" = "Jakautuminen, missä maissa sukupuusi henkilöt ovat kuolleet.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_DeathPlace" = "Kuolinpaikkojen jakautuminen";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_DeathPlace_Description" = "Jakautuminen, missä sukupuusi henkilöt ovat kuolleet.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_EventValues_Illnesses" = "Jako sairauksien mukaan";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_EventValues_Illnesses_Description" = "Näe mitä sairauksia on kirjattu sukupuusi henkilöille.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_EventValues_Occupations" = "Jako ammattien mukaan";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_EventValues_Occupations_Description" = "Minkälaisissa ammateissa sukupuusi henkilöt ovat vuosien mittaan toimineet?";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_CasteName" = "Jako kastinimien mukaan";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_CasteName_Description" = "Yleisimmin sukupuussasi käytetyt kastinimet.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_EyeColor" = "Jako silmien värin mukaan";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_EyeColor_Description" = "Mitkä silmien värit ovat vallitsevia sukupuussasi vuosien mittaan?";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_NationalOrTribalOrigin" = "Jako kansallisen- tai heimoalkuperän mukaan";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_NationalOrTribalOrigin_Description" = "Jako kansallisen- tai heimoalkuperän mukaan sukupuussasi.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_Race" = "Jako etnisen alkuperän mukaan";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_Race_Description" = "Jako etnisen alkuperän mukaan sukupuussasi.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_SkinColor" = "Jako ihonvärin mukaan";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_SkinColor_Description" = "Mitkä ihonvärit olivat yleisiä sukupuussasi menneisyydessä?";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_FirstName" = "Jako etunimien mukaan";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_FirstName_Description" = "Etunimien käyttö vuosittain sukupuussasi.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Gender" = "Jako sukupuolen mukaan";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Gender_Description" = "Jakautuminen sukupuolen mukaan sukupuussasi vuosittain.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_LastName" = "Jako sukunimien mukaan";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_LastName_Description" = "Sukunimien käyttö vuosittain sukupuussasi.";
+
+/* (No Comment) */
+"_DistributionValuesBarGeneratorChartCompositorObject_ColoringMode_Custom" = "Muokattu väri";
+
+/* (No Comment) */
+"_DistributionValuesBarGeneratorChartCompositorObject_ColoringMode_Rainbow" = "Sateenkaari";
+
+/* EditorTextGeneratorChartCompositorObject */
+"_EditorTextGeneratorChartCompositorObject_NewTextTitle" = "Uusi teksti";
+
+/* (No Comment) */
+"_Error_NoParentsForPersonFoundInFamilyTreeError" = "Valitulle henkilölle ei löytynyt vanhempia.";
+
+/* Errors */
+"_Error_NoPersonFoundInFamilyTreeError" = "Toistaiseksi tähän sukupuuhun ei ole merkitty yhtään henkilöä. Käytä Muokkaus osiota lisätäksesi henkilöitä ja perheitä nähdäksesi tämän kuvaajan.";
+
+/* (No Comment) */
+"_Error_NoSelectedPersonSetError" = "Yhtään henkilöä ei ole valittu tälle kuvaajalle.";
+
+/* (No Comment) */
+"_Error_NotEnoughDataPresentError" = "Tämän kuvaajan näyttämiseksi ei sukupuussa ole tarpeeksi tietoa.";
+
+/* (No Comment) */
+"_FanChartBuilder_ExpandVerySmallFanItemsIfPossible" = "Suurenna hyvin pienet viuhkan segmentit jos mahdollista";
+
+/* (No Comment) */
+"_FanChartBuilder_ExpandVerySmallFanItemsIfPossibleExplanation" = "Jos viuhkakuvaajan segmentti on hyvin pieni, se suurennetaan yli ylemmän segmentin rajojen suuremman tilan saamiseksi.";
+
+/* FanChartBuilder */
+"_FanChartBuilder_Mode" = "Malli";
+
+/* (No Comment) */
+"_FanChartBuilder_Mode_Ancestors" = "Esipolvet";
+
+/* (No Comment) */
+"_FanChartBuilder_Mode_Descendants" = "Jälkipolvet";
+
+/* (No Comment) */
+"_FanChartBuilder_ModeExplanation" = "Määritä tässä pitääkö viuhkakuvaajan näyttää valitun henkilön esipolvet vai jälkipolvet";
+
+/* Genogram */
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventPosition" = "Tapahtumien & tietojen paikka";
+
+/* (No Comment) */
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventPosition_Right" = "Oikealla";
+
+/* (No Comment) */
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventsBackground" = "Tapahtumien & tietojen tausta";
+
+/* (No Comment) */
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventsBackground_Filled" = "Täytetty";
+
+/* (No Comment) */
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventsBackground_None" = "Ei mitään";
+
+/* (No Comment) */
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventsPosition_Below" = "Alla";
+
+/* GridChartObject */
+"_GridGeneratorChartCompositorObjectConfiguration_ColorMode" = "Väritysmalli";
+
+/* (No Comment) */
+"_GridGeneratorChartCompositorObjectConfiguration_ColorMode_ContrastToBackground" = "Kontrasi taustaan";
+
+/* (No Comment) */
+"_GridGeneratorChartCompositorObjectConfiguration_ColorMode_Custom" = "Muokattu";
+
+/* (No Comment) */
+"_RelationshipChartBuilder_NoRelationError" = "Valituiden henkilöiden välille ei voitu määrittää sukulaisuutta";
+
+/* (No Comment) */
+"_RelationshipChartBuilder_PathIsBloodline" = "Verilinja";
+
+/* (No Comment) */
+"_RelationshipChartBuilder_PathIsNotBloodline" = "Ei verilinjaa";
+
+/* (No Comment) */
+"_RelationshipChartBuilder_PathWithNStepsIsIsNotBloodline" = "Polku jossa %ld askelta (%@)";
+
+/* RelationshipChartBuilder */
+"_RelationshipChartBuilder_SelectDifferentPersonsError" = "Valitse kaksi eri henkilöä sukulaisuuskuvaajan luomiseksi";
+
+/* (No Comment) */
+"_RelationshipChartBuilder_SelectedRelationshipPath" = "Mahdolliset sukulaisuuspolut";
+
+/* (No Comment) */
+"_RelationshipChartBuilder_SelectedRelationshipPathExplanation" = "Jos aloitus- ja kohdehenkilöiden välillä on useita polkuja sukupuussasi, voit valita vaihtoehtoisen polun tässä.";
+
+/* SegmentedPortraitPersonBuilderItemGeneratorChartCompositorObjectConfiguration_BarStyle */
+"_SegmentedPortraitPersonBuilderItemGeneratorChartCompositorObjectConfiguration_BarStyle_Arrow" = "Nuoli";
+
+/* (No Comment) */
+"_SegmentedPortraitPersonBuilderItemGeneratorChartCompositorObjectConfiguration_BarStyle_Diagonal" = "Diagonaali";
+
+/* (No Comment) */
+"_SegmentedPortraitPersonBuilderItemGeneratorChartCompositorObjectConfiguration_BarStyle_Round" = "Pyöreä";
+
+/* (No Comment) */
+"_SegmentedPortraitPersonBuilderItemGeneratorChartCompositorObjectConfiguration_BarStyle_Wave" = "Aalto";
+
+/* _SideBarPersonBuilderItemGeneratorChartCompositorObject */
+"_SideBarPersonBuilderItemGeneratorChartCompositorObject_SideBarPosition" = "Sivupalkin kohta";
+
+/* (No Comment) */
+"_SideBarPersonBuilderItemGeneratorChartCompositorObject_SideBarPosition_Bottom" = "Alhaalla";
+
+/* (No Comment) */
+"_SideBarPersonBuilderItemGeneratorChartCompositorObject_SideBarPosition_Left" = "Vasemmalla";
+
+/* (No Comment) */
+"_SideBarPersonBuilderItemGeneratorChartCompositorObject_SideBarPosition_Right" = "Oikealla";
+
+/* (No Comment) */
+"_SideBarPersonBuilderItemGeneratorChartCompositorObject_SideBarPosition_Top" = "Ylhäällä";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_AssociatedPersonsSpacing" = "Vaikuttavien henkilöiden etäisyys";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_AssociatedPersonsSpacingExplanation" = "Määritä tässä henkilöiden ja vaikuttavien henkilöiden etäisyydet.";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowAssociateRelationsOfChildren" = "Näytä lasten vaikuttavat henkilöt";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowAssociateRelationsOfParents" = "Näytä vanhempien vaikuttavat henkilöt";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowAssociateRelationsOfPartners" = "Näytä partnereiden vaikuttavat henkilöt";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowAssociateRelationsOfStartPerson" = "Näytä aloitushenkilön vaikuttavat henkilöt";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowChildren" = "Näytä lapset";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowGrandparents" = "Näytä isovanhemmat";
+
+/* SociogramChartBuilderConfiguration */
+"_SociogramChartBuilderConfiguration_ShowParents" = "Näytä vanhemmat";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowPartners" = "Näytä partnerit";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_AgeAxisLabel" = "Ikä";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_ChildsAxisLabel" = "Lapset";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_CountAxisLabel" = "Lukumäärä";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_CountryAxisLabel" = "Maa";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_DivorcesAxisLabel" = "Erot";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_EventOrFactAxisLabel" = "Tapahtuma tai tieto";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_FactValueAxisLabel" = "Tieto";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_FamiliesAxisLabel" = "Perheet";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_GenderAxisLabel" = "Sukupuoli";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_MarriagesAxisLabel" = "Avioliitot";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_MonthAxisLabel" = "Kuukausi";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_PersonFirstNamesAxisLabel" = "Henkilön etunimet";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_PersonLastNamesAxisLabel" = "Henkilön sukunimet";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_PersonsAxisLabel" = "Henkilöt";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_PersonTitleAxisLabel" = "Henkilön tittelit";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_PlaceAxisLabel" = "Paikkakunta";
+
+/* StatisticsChartBuilder */
+"_StatisticsChartBuilder_StatisticsType" = "Tilastotyyppi";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_StatisticsTypeExplanation" = "Määritä minkä tyyppistä tilastoa haluat luoda sukupuusi tiedoista.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtChristening" = "Ikä kastettaessa";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtChristening_Description" = "Henkilöiden ikä heidän kastamisensa aikaan.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtDeath" = "Ikä kuollessa";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtDeath_Description" = "Näyttää kuinka vanhoiksi sukupuusi henkilöt elivät.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtDivorce" = "Ikä erotessa";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtDivorce_Description" = "Näyttää minkä ikäisiä henkilöt erosivat avioliitosta.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtMarriage" = "Ikä avioituessa";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtMarriage_Description" = "Tilasto siitä minkä ikäisinä sukupuusi henkilöt menivät naimisiin.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtRetirement" = "Eläköitymisikä";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtRetirement_Description" = "Näyttää missä iässä sukupuusi henkilöt jäivät eläkkeelle työelämästä.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeOfChildAtParentsDeath" = "Lapsen ikä vanhemman kuollessa.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeOfChildAtParentsDeath_Description" = "Minkä ikäisiä sukupuusi lapset olivat menettäessään äitinsä tai isänsä?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeOfParentsAtBirthOfChild" = "Vanhempien ikä lapsen syntyessä";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeOfParentsAtBirthOfChild_Description" = "Laskee vanhempien iän lasten syntymän aikaan.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeOfPersonAtDeathOfPartner" = "Henkilön ikä puolison kuollessa";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeOfPersonAtDeathOfPartner_Description" = "Tilasto siitä kuinka vanha henkilö oli puolisonsa kuollessa";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_BirthMonth" = "Syntymäkuukausi";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_BirthMonth_Description" = "Missä kuussa useimmat henkilöt ovat syntyneet?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_ChildsPerFamily" = "Perheen lasten lukumäärä";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_ChildsPerFamily_Description" = "Lasten lukumäärä perhettä kohden sukupuussasi.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_ConclusionTypes" = "Tapahtuma- tai tietotyypit";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_ConclusionTypes_Description" = "Tilasto yleisimmistä tapahtuma- tai tietotyypeistä.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_DeathMonth" = "Kuolinkuukausi";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_DeathMonth_Description" = "Kuukaudet joissa sukupuusi henkilöt useimmin kuolivat.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_DivorceMonth" = "Erokuukausi";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_DivorceMonth_Description" = "Kuukaudet joissa sukupuusi henkilöt useimmin erosivat.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_CasteName" = "Tiedot: Kastinimi";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_CasteName_Description" = "Mikä on sukupuussasi yleisin kastinimi?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_EyeColor" = "Tiedot: Silmien väri";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_EyeColor_Description" = "Tilasto sukupuusi henkilöiden silmien väristä.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_NationalOrTribalOrigin" = "Tiedot: Kansallinen- tai heimoalkuperä";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_NationalOrTribalOrigin_Description" = "Yleisimmät henkilöiden kansalliset- tai heimoalkuperät sukupuussasi.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_Race" = "Tiedot: Etninen alkuperä";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_Race_Description" = "Tilasto sukupuusi henkilöiden etnisestä alkuperästä.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_SkinColor" = "Tiedot: Ihonväri";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_SkinColor_Description" = "Tilasto sukupuusi henkilöiden ihonväristä.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_FirstNames" = "Etunimien jakautuminen";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_FirstNames_Description" = "Kaikki etunimet, jotka ovat yleisesti käytössä sukupuussasi.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Gender" = "Sukupuoli";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Gender_Description" = "Sukupuusi henkilöiden jakautuminen sukupuolen mukaan.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_LastNames" = "Sukunimien jakautuminen";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_LastNames_Description" = "Yleisimmin käytetyt sukunimet sukupuussasi.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_MarriageMonth" = "Avioliittokuukausi";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_MarriageMonth_Description" = "Missä kuussa henkilöt ovat yleensä menneet naimisiin?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_FamilyEvent_Marriage;topLevelGroupingLocationString" = "Avioliiton maa";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_FamilyEvent_Marriage;topLevelGroupingLocationString_Description" = "Maat jotka sukulaisesi valitsivat avioituakseen,";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_FamilyEvent_Marriage;veryShortLocationString" = "Avioliittopaikka";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_FamilyEvent_Marriage;veryShortLocationString_Description" = "Missä kaupungissa tai paikassa sukupuusi henkilöt avioituivat?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Birth;topLevelGroupingLocationString" = "Syntymämaa";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Birth;topLevelGroupingLocationString_Description" = "Kaikkien henkilöiden alkuperämaa.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Birth;veryShortLocationString" = "Syntymäpaikka";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Birth;veryShortLocationString_Description" = "Mistä kaupungista sukupuusi useimmat henkilöt ovat lähtöisin?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Burial;topLevelGroupingLocationString" = "Hautauksen maa";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Burial;topLevelGroupingLocationString_Description" = "Missä maassa useimmat sukulaisesi on haudattu?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Burial;veryShortLocationString" = "Hautauspaikka";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Burial;veryShortLocationString_Description" = "Sukupuusi yleisin hautauspaikka.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Christening;topLevelGroupingLocationString" = "Kastamismaa";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Christening;topLevelGroupingLocationString_Description" = "Maa jossa useimmat sukulaisesi on kastettu.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Christening;veryShortLocationString" = "Kastamispaikka";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Christening;veryShortLocationString_Description" = "Missä kaupungissa tai paikassa sukupuusi henkilöt on kastettu?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Death;topLevelGroupingLocationString" = "Kuolinmaa";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Death;topLevelGroupingLocationString_Description" = "Tilasto maasta jossa sukupuusi useimmat henkilöt ovat kuolleet.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Death;veryShortLocationString" = "Kuolinpaiika";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Death;veryShortLocationString_Description" = "Kaupunki tai paikka jossa sukupuusi useimmat henkilöt kuolivat.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_TimeBetweenMarriageAndBirthOfChild" = "Aika avioitumisen ja lapsen syntymän välillä";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_TimeBetweenMarriageAndBirthOfChild_Description" = "Kuinka pitkä oli aika avioitumisen ja lasten syntymän välillä? Negatiiviset arvot tarkoittavat, että lapsi syntyi ennen avioliiton solmimista.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Titles" = "Tittelien jakautuminen";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Titles_Description" = "Tilasto kaikkien henkilöiden titteleistä.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Birth" = "Syntymävuosi";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Birth_Description" = "Näyttää minä vuosina sukupuusi useimmat henkilöt ovat syntyneet.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Burial" = "Hautausvuosi";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Burial_Description" = "Tilasto siitä milloin sukupuusi henkilöt on haudattu.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Christening" = "Kastevuosi";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Christening_Description" = "Tilasto siitä minä vuonna sukupuusi henkilöt on kastettu.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Death" = "Kuolinvuosi";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Death_Description" = "Minä vuonna sukupuussasi kuoli eniten henkilöitä?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_YearAxisLabel" = "Vuosi";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_YearsAxisLabel" = "Vuotta";
+
+/* (No Comment) */
+"_StyleNames_AgeFanChartCompositorStyle" = "Ikäviuhka";
+
+/* (No Comment) */
+"_StyleNames_BlackBorderBoxedChartCompositorStyle" = "Musta reunus";
+
+/* (No Comment) */
+"_StyleNames_BlackBoxedChartCompositorStyle" = "Mustat laatikot";
+
+/* (No Comment) */
+"_StyleNames_BlackWhiteFanChartCompositorStyle" = "Musta/valkoinen viuhka";
+
+/* (No Comment) */
+"_StyleNames_BlueTextChartCompositorStyle" = "Sininen teksti";
+
+/* (No Comment) */
+"_StyleNames_BlueWhiteBoxedChartCompositorStyle" = "Sinivalkoiset laatikot";
+
+/* (No Comment) */
+"_StyleNames_ByAgeBoxedChartCompositorStyle" = "Ikälaatikot";
+
+/* (No Comment) */
+"_StyleNames_ByYearFanChartCompositorStyle" = "Vuosiviuhka";
+
+/* (No Comment) */
+"_StyleNames_ByYearGradientFanChartCompositorStyle" = "Vuosi gradientti viuhkan mukaan";
+
+/* (No Comment) */
+"_StyleNames_ComicWhiteBoxedChartCompositorStyle" = "Komiikkalaatikot";
+
+/* (No Comment) */
+"_StyleNames_DarkBlueSideBarChartCompositorStyle" = "Tummansininen";
+
+/* (No Comment) */
+"_StyleNames_DarkBoxedChartCompositorStyle" = "Yölaatikot";
+
+/* (No Comment) */
+"_StyleNames_DarkBoxedChartCompositorStyle2" = "Yölaatikot 2";
+
+/* (No Comment) */
+"_StyleNames_DarkCardChartCompositorStyle" = "Yökortit";
+
+/* (No Comment) */
+"_StyleNames_DarkCircularPersonChartCompositorStyle" = "Tumma ympyrä";
+
+/* (No Comment) */
+"_StyleNames_DarkDistributionChartCompositorStyle" = "Tumma";
+
+/* (No Comment) */
+"_StyleNames_DarkFanChartCompositorStyle" = "Yöviuhka";
+
+/* (No Comment) */
+"_StyleNames_DarkFlatBarStatisticsChartCompositorStyle" = "Tummat litteät palkit";
+
+/* (No Comment) */
+"_StyleNames_DarkLinesStatisticsChartCompositorStyle" = "Tummat viivat";
+
+/* (No Comment) */
+"_StyleNames_DarkNameBarChartCompositorStyle" = "Tummat nimipalkit";
+
+/* (No Comment) */
+"_StyleNames_DarkPortraitBoxChartCompositorStyle" = "Tummat potretit";
+
+/* (No Comment) */
+"_StyleNames_DarkTextChartCompositorStyle" = "Tumma teksti";
+
+/* (No Comment) */
+"_StyleNames_DarkTimelineBarChartCompositorStyle" = "Tummat palkit";
+
+/* (No Comment) */
+"_StyleNames_GenderPennantChartCompositorStyle" = "Sukupuoliviiri";
+
+/* (No Comment) */
+"_StyleNames_GenderTextChartCompositorStyle" = "Sukupuoliteksti";
+
+/* (No Comment) */
+"_StyleNames_GreenBlueCardChartCompositorStyle" = "Vihreät/siniset kortit";
+
+/* (No Comment) */
+"_StyleNames_GreenBoxedBarChartCompositorStyle" = "Vihreät palkkilaatikot";
+
+/* (No Comment) */
+"_StyleNames_GreenBoxedChartCompositorStyle" = "Vihreät laatikot";
+
+/* (No Comment) */
+"_StyleNames_LightBarsFanChartCompositorStyle" = "Vaaleat palkit viuhka";
+
+/* (No Comment) */
+"_StyleNames_LightBarsFanChartCompositorStyle2" = "Viuhka vaaleilla palkeilla 2";
+
+/* Style Names */
+"_StyleNames_LightBoxedChartCompositorStyle" = "Kirkkaat laatikot";
+
+/* (No Comment) */
+"_StyleNames_LightBoxedChartCompositorStyle2" = "Pyöreät kirkkaat laatikot";
+
+/* (No Comment) */
+"_StyleNames_LightBoxedChartCompositorStyle3" = "Sukupuolilaatikot";
+
+/* (No Comment) */
+"_StyleNames_LightCardChartCompositorStyle" = "Kirkkaat kortit";
+
+/* (No Comment) */
+"_StyleNames_LightCardChartCompositorStyle2" = "Kirkkaat kortit 2";
+
+/* (No Comment) */
+"_StyleNames_LightCircularPersonChartCompositorStyle" = "Vaalea ympyrä";
+
+/* (No Comment) */
+"_StyleNames_LightDistributionChartCompositorStyle" = "Kaltevuus";
+
+/* (No Comment) */
+"_StyleNames_LightFanChartCompositorStyle" = "Vaalea viuhka";
+
+/* (No Comment) */
+"_StyleNames_LightFlatBarStatisticsChartCompositorStyle" = "Vaaleat litteät palkit";
+
+/* (No Comment) */
+"_StyleNames_LightGenderFanChartCompositorStyle" = "Vaalea sukupuoliviuhka";
+
+/* (No Comment) */
+"_StyleNames_LightGenderFanChartCompositorStyle2" = "Vaalea sukupuoliviuhka 2";
+
+/* (No Comment) */
+"_StyleNames_LightGenogramChartCompositorStyle" = "Vaalea genogrammi";
+
+/* (No Comment) */
+"_StyleNames_LightGenogramChartCompositorStyle2" = "Vaalea genogrammi 2";
+
+/* (No Comment) */
+"_StyleNames_LightGenogramChartCompositorStyle3" = "Vaalea genogrammi 3";
+
+/* (No Comment) */
+"_StyleNames_LightGenogramChartCompositorStyle4" = "Vaalea genogrammi 4";
+
+/* (No Comment) */
+"_StyleNames_LightLinesStatisticsChartCompositorStyle" = "Vaaleat viivat";
+
+/* (No Comment) */
+"_StyleNames_LightNameBarChartCompositorStyle" = "Vaaleat nimipalkit";
+
+/* (No Comment) */
+"_StyleNames_LightPortraitBoxChartCompositorStyle" = "Vaaleat potretit";
+
+/* (No Comment) */
+"_StyleNames_LightPortraitBoxOnDarkBackgroundChartCompositorStyle" = "Vaaleat potretit 2";
+
+/* (No Comment) */
+"_StyleNames_LightTextChartCompositorStyle" = "Musta & valkoinen";
+
+/* (No Comment) */
+"_StyleNames_LightTimelineBackgroundBarChartCompositorStyle" = "Vaaleat taustapalkit";
+
+/* (No Comment) */
+"_StyleNames_LightTimelineBarChartCompositorStyle" = "Vaaleat palkit";
+
+/* (No Comment) */
+"_StyleNames_LightTimelineFromToChartCompositorStyle" = "Vaaleat yksinkertaiset palkit";
+
+/* (No Comment) */
+"_StyleNames_LightTimelineFromToChartCompositorStyle2" = "Vaaleat yksinkertaiset palkit 2";
+
+/* (No Comment) */
+"_StyleNames_MagentaBoxedBarChartCompositorStyle" = "Magnetat palkkilaatikot";
+
+/* (No Comment) */
+"_StyleNames_MagentaSimpleCircleOnDarkBackgroundChartCompositorStyle" = "Magnetat ympyrät";
+
+/* (No Comment) */
+"_StyleNames_OrangeCyanCardChartCompositorStyle" = "Oranssi/syaani kortit";
+
+/* (No Comment) */
+"_StyleNames_OrangeCyanSimpleCircleOnDarkBackgroundChartCompositorStyle" = "Oranssi/syaani ympyrät";
+
+/* (No Comment) */
+"_StyleNames_OrganicCircularPersonChartCompositorStyle" = "Orgaani ympyrä";
+
+/* (No Comment) */
+"_StyleNames_OrganicOrangeCyanCircularPersonChartCompositorStyle" = "Orgaani oranssi/syaani ympyrä";
+
+/* (No Comment) */
+"_StyleNames_OrganicSimpleCircleChartCompositorStyle" = "Orgaanit ympyrät";
+
+/* (No Comment) */
+"_StyleNames_PedigreeBoxedBarChartCompositorStyle" = "Sukutaulu palkkilaatikot";
+
+/* (No Comment) */
+"_StyleNames_PedigreePennantChartCompositorStyle" = "Sukutauluviiri";
+
+/* (No Comment) */
+"_StyleNames_PedigreeSideBarChartCompositorStyle" = "Oikea palkki sukulaisuuden mukaam";
+
+/* (No Comment) */
+"_StyleNames_RainbowBoxedBarChartCompositorStyle" = "Sateenkaari palkkilaatikot";
+
+/* (No Comment) */
+"_StyleNames_RainbowPennantChartCompositorStyle" = "Sattenkaariviiri";
+
+/* (No Comment) */
+"_StyleNames_RainbowTextChartCompositorStyle" = "Sateenkaariteksti";
+
+/* (No Comment) */
+"_StyleNames_RedTextChartCompositorStyle" = "Punainen teksti";
+
+/* (No Comment) */
+"_StyleNames_SunsetBoxedBarChartCompositorStyle" = "Auringonlasku palkkilaatikot";
+
+/* (No Comment) */
+"_StyleNames_SunsetBoxedChartCompositorStyle" = "Auringonlaskulaatikot";
+
+/* (No Comment) */
+"_StyleNames_SunsetCardChartCompositorStyle" = "Auringonlaskukortit";
+
+/* (No Comment) */
+"_StyleNames_SunsetCircularPersonChartCompositorStyle" = "Auringonlaskuympyrä";
+
+/* (No Comment) */
+"_StyleNames_SunsetDistributionChartCompositorStyle" = "Auringonlasku";
+
+/* (No Comment) */
+"_StyleNames_SunsetFanChartCompositorStyle" = "Auringonlaskuviuhka";
+
+/* (No Comment) */
+"_StyleNames_SunsetFlatBarStatisticsChartCompositorStyle" = "Auringonlasku litteät palkit";
+
+/* (No Comment) */
+"_StyleNames_TraditionalFanChartCompositorStyle" = "Traditionaalinen";
+
+/* (No Comment) */
+"_StyleNames_TraditionalGradientFanChartCompositorStyle" = "Traditionaaliset gradientit";
+
+/* (No Comment) */
+"_StyleNames_TypewriterTextChartCompositorStyle" = "Kirjoituskone";
+
+/* (No Comment) */
+"_StyleNames_TypewriterTimelineBarChartCompositorStyle" = "Kirjoituskone";
+
+/* (No Comment) */
+"_StyleNames_VeryLightPedigreeGradientFanChartCompositorStyle" = "Vaaleat gradientit sukulaisuus viuhka";
+
+/* (No Comment) */
+"_StyleNames_VioletCardChartCompositorStyle" = "Violetit kortit";
+
+/* (No Comment) */
+"_StyleNames_WhiteBoxedChartCompositorStyle" = "Valkoiset laatikot";
+
+/* (No Comment) */
+"_StyleNames_WhiteCardChartCompositorStyle" = "Valkoiset kortit";
+
+/* (No Comment) */
+"_StyleNamesBlueDiagonalSegmentedPortraitChartCompositorStyle" = "Sinityyliset laatikot";
+
+/* (No Comment) */
+"_StyleNamesBluePolaroidChartCompositorStyle" = "Siniset polaroidit";
+
+/* (No Comment) */
+"_StyleNamesBottomSideBarChartCompositorStyle" = "Alapalkki";
+
+/* (No Comment) */
+"_StyleNamesDarkBarPortraitCompositorStyle" = "Tummat palkki potretit";
+
+/* (No Comment) */
+"_StyleNamesDarkPolaroidChartCompositorStyle" = "Tummat polaroidit";
+
+/* (No Comment) */
+"_StyleNamesFloatingRainbowSideBarChartCompositorStyle" = "Sateenkaari kelluvat palkit";
+
+/* (No Comment) */
+"_StyleNamesGenderBarPortraitCompositorStyle" = "Sukupuoli palkki potretit";
+
+/* (No Comment) */
+"_StyleNamesLargeBarPortraitCompositorStyle" = "Suuret palkki potretit";
+
+/* (No Comment) */
+"_StyleNamesLightBlueBarPortraitCompositorStyle" = "Vaaleansiniset palkki potretit";
+
+/* (No Comment) */
+"_StyleNamesLightWaveSegmentedPortraitChartCompositorStyle" = "Vaaleat tyylitellyt laatikot";
+
+/* (No Comment) */
+"_StyleNamesPedigreeBarPortraitCompositorStyle" = "Sukulaisuus palkki potretit";
+
+/* (No Comment) */
+"_StyleNamesPedigreeRoundSegmentedPortraitChartCompositorStyle" = "Sukulaisuus pyöreät tyylitellyt laatikot";
+
+/* (No Comment) */
+"_StyleNamesPedigreeSegmentedPortraitChartCompositorStyle" = "Sukulaisuus tyylitellyt laatikot";
+
+/* (No Comment) */
+"_StyleNamesRainbowSegmentedPortraitChartCompositorStyle" = "Sateenkaari tyylitellyt laatikot";
+
+/* (No Comment) */
+"_StyleNamesRainbowSideBarChartCompositorStyle" = "Sateenkaari palkit";
+
+/* (No Comment) */
+"_StyleNamesSimplePolaroidChartCompositorStyle" = "Polaroidit";
+
+/* (No Comment) */
+"_StyleNamesSunsetPolaroidChartCompositorStyle" = "Polaroidi auringonlasku";
+
+/* (No Comment) */
+"_StyleNamesSunsetSideBarChartCompositorStyle" = "Auringonlasku palkit";
+
+/* (No Comment) */
+"_Timeline_GroupingMode_GroupByBirthCountry_SortByDate" = "Ryhmitä syntymämaan, lajittele päivämäärän mukaan";
+
+/* (No Comment) */
+"_Timeline_GroupingMode_GroupByBirthPlace_SortByDate" = "Ryhmitä syntymäpaikan, lajittele päivämäärän mukaan";
+
+/* (No Comment) */
+"_Timeline_GroupingMode_GroupByDeathCountry_SortByDate" = "Ryhmitä kuolinmaan, lajittele päivämäärän mukaan";
+
+/* (No Comment) */
+"_Timeline_GroupingMode_GroupByDeathPlace_SortByDate" = "Ryhmitä kuolinpaikan, lajittele päivämäärän mukaan";
+
+/* (No Comment) */
+"_Timeline_GroupingMode_GroupByGender_SortByDate" = "Ryhmitä sukupuolen, lajittele päivämäärän mukaan";
+
+/* (No Comment) */
+"_Timeline_GroupingMode_GroupByLastName_SortByDate" = "Ryhmitä sukunimen, lajittele päivämäärän mukaan";
+
+/* Timeline */
+"_Timeline_GroupingMode_SortByDate" = "Lajittele päivämäärän mukaan";
+
+/* (No Comment) */
+"_TimelineChartBuilder_CollapseAllGroupsForBestFit" = "Litistä ryhmiä tilankäytön parantamiseksi";
+
+/* (No Comment) */
+"_TimelineChartBuilder_CollapseAllGroupsForBestFitExplanation" = "Kun määritelty, ryhmät järjestetään parhaimman tilankäytön mukaan mutta aakkosjärjestys ei ole taattu.";
+
+/* (No Comment) */
+"_TimelineChartBuilder_GroupByBirthCountry_NoPlace" = "Tuntematon syntymämaa";
+
+/* (No Comment) */
+"_TimelineChartBuilder_GroupByBirthPlace_NoPlace" = "Tuntematon syntymäpaikka";
+
+/* (No Comment) */
+"_TimelineChartBuilder_GroupByDeathCountry_NoPlace" = "Tuntematon kuolinmaa";
+
+/* (No Comment) */
+"_TimelineChartBuilder_GroupByDeathPlace_NoPlace" = "Tuntematon kuolinpaikka";
+
+/* (No Comment) */
+"_TimelineChartBuilder_GroupByLastName_NoLastName" = "Tuntematon sukunimi";
+
+/* (No Comment) */
+"_TimelineChartBuilder_HistoryPersons_Key" = "Historia: Kuuluisia henkilöitä";
+
+/* (No Comment) */
+"_TitleGeneratorChartCompositorObjectConfiguration_TitleImageMode_FamilyCrest" = "Sukuvaakuna";
+
+/* (No Comment) */
+"_TitleGeneratorChartCompositorObjectConfiguration_TitleImageMode_None" = "Ei mitään";
+
+/* (No Comment) */
+"_TitleGeneratorChartCompositorObjectConfiguration_TitleImageMode_SelectedEntryImage" = "Valittu aloituskuva";
+
+/* TreeChartBuilder */
+"_TreeChartBuilder_MainTreePrefix" = "Pääpuu";
+
+/* (No Comment) */
+"_TreeChartBuilder_SubTreeAlignment" = "Erotettujen puiden sovitus";
+
+/* (No Comment) */
+"_TreeChartBuilder_SubTreeAlignment_ByGeneration" = "Sukupolven mukaan";
+
+/* (No Comment) */
+"_TreeChartBuilder_SubTreeAlignment_ShortestDistanceToOrigin" = "Lyhin etäisyys lähtöpaikkaan";
+
+/* (No Comment) */
+"_TreeChartBuilder_SubTreeAlignmentExplanation" = "Mutkikkaissa tilanteissa puu joudutaan näyttämään erillisenä puuna pääpuusta. Määritä kuinka nämä erotetut puut sijoitetaan.";
+
+/* (No Comment) */
+"_TreeChartBuilder_SubTreePrefix" = "Erotettu puu";
+

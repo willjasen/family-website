@@ -1,0 +1,1428 @@
+﻿/* (No Comment) */
+"_ReportCSVWriterConfiguration_CSVGroup" = "Группировка";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_CSVSection" = "Раздел";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_ExportHeaders" = "Экспорт CSV заголовков";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_ExportHeadersExplanation" = "Если вы хотите включить информацию заголовка в ваш файл CSV, выберите эту опцию. Информация заголовка облегчает поиск в итоговом файле CSV.";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_NewLineCharacter" = "Новая строка символов";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_NewLineCharacter_CR" = "CR символ (Классическая Mac OS)";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_NewLineCharacter_CRLF" = "CRLF символ (Windows)";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_NewLineCharacter_LF" = "LF символ (Современные macOS, Unix)";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_NewLineCharacterExplanation" = "Выберите, какой символ использовать в качестве символа, обозначающего новую строку. Большинство современных приложений подходят для любой опции - только некоторые старые системы могут требовать определённых настроек.";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_Separator_Comma" = "Запятая (,)";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_Separator_Semicolon" = "Тоска с запятой (;)";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_SeparatorPopupButtonTitle" = "CSV разделитель";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_SeparatorPopupButtonTitleExplanation" = "Укажите разделитель, используемый для элементов в файле CSV. Большинство приложений совместимы с запятой в качестве разделителя.";
+
+/* CSVWriter */
+"_ReportCSVWriterConfiguration_Title" = "CSV экспорт";
+
+/* (No Comment) */
+"_ReportError_NoDataFoundToExportAsCSV" = "В этом отчёте не найдено данных, которые можно экспортировать в виде файла CSV.";
+
+/* (No Comment) */
+"_ReportError_NoDistinctivePersonsFoundError" = "В этой родословной не найдено отличительных людей.";
+
+/* (No Comment) */
+"_ReportError_NoFamiliesFoundMatchingTheSelectedCriteria" = "Семей, соответствующих выбранным критериям, не найдено.";
+
+/* (No Comment) */
+"_ReportError_NoFamilyFoundInFamilyTreeError" = "В это семейное древо не внесено ни одной семьи. Пожалуйста, используйте раздел Правка, чтобы ввести людей и семьи для отображения отчёта.";
+
+/* Errors */
+"_ReportError_NoPersonFoundInFamilyTreeError" = "В это генеалогическое древо не введены люди. Пожалуйста, используйте раздел Правка, чтобы ввести людей и семьи для отображения отчёта.";
+
+/* (No Comment) */
+"_ReportError_NoPersonsFoundMatchingTheSelectedCriteria" = "Не найдено ни одного человека, соответствующего выбранным критериям.";
+
+/* (No Comment) */
+"_ReportError_NoPlaceFoundInFamilyTreeError" = "В этом генеалогическом древе пока нет мест. Пожалуйста, используйте раздел Правка, чтобы ввести места для личных и семейных событий для отображения отчёта.";
+
+/* (No Comment) */
+"_ReportError_NoPlacesFoundMatchingTheSelectedCriteria" = "Не найдено мест, соответствующих выбранным критериям.";
+
+/* (No Comment) */
+"_ReportError_NoPlacesWithCoordinatesFoundForPersonError" = "Места с координатами для выбранной записи не найдены. Добавьте географические координаты к местам в разделе Изменить для отображения отчёта.";
+
+/* (No Comment) */
+"_ReportError_NoPlausibilityAnalyzerResultsFound" = "Предупреждений о достоверности не найдено.";
+
+/* (No Comment) */
+"_ReportError_NoSelectedFamilySetError" = "Семья не выбрана для этого отчёта.";
+
+/* (No Comment) */
+"_ReportError_NoSelectedPersonSetError" = "Человек не выбран для этого отчёта.";
+
+/* (No Comment) */
+"_ReportError_NoSelectedStorySetError" = "Для этого отчёта не выбрано ни одной истории.";
+
+/* (No Comment) */
+"_ReportError_NoSourceFoundInFamilyTreeError" = "В это семейное древо до сих пор не внесены источники. Пожалуйста, используйте раздел Правка, чтобы ввести источники для отображения отчёта.";
+
+/* (No Comment) */
+"_ReportError_NoSourcesFoundMatchingTheSelectedCriteria" = "Источники, соответствующие выбранным критериям, не найдены.";
+
+/* (No Comment) */
+"_ReportError_NoStoryFoundInFamilyTreeError" = "До сих пор в это семейное древо не было внесено ни одной истории. Пожалуйста, используйте раздел Правка, для добавления истории, чтобы отобразить этот отчет.";
+
+/* (No Comment) */
+"_ReportError_NotEnoughDataPresentError" = "В семейном древе недостаточно данных для отображения этого отчёта.";
+
+/* (No Comment) */
+"_ReportError_NoToDoFoundInFamilyTreeError" = "Задача не была введена в это семейное древо. Пожалуйста, используйте раздел Правка, чтобы войти в задачи для отображения этого отчёта.";
+
+/* (No Comment) */
+"_ReportError_NoToDosFoundMatchingTheSelectedCriteria" = "Соответствующие выбранным критериям задачи не найдены.";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_ChapterColor" = "Цвет текста главы";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_ChapterColorMode" = "Цветовой режим текста главы";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Opacity" = "Непрозрачность";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_PageNumberColor" = "Цвет номера страницы";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_PageNumberColorMode" = "Цветовой режим номера страницы";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_PageSetupButton" = "Параметры страницы...";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Scaling" = "Масштабирование";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_SectionColor" = "Цвет текста раздела";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_SectionColorMode" = "Цветовой режим текста раздела";
+
+/* Page Background Renderer */
+"_ReportPageBackgroundRendererConfiguration_Style" = "Стиль фона";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_BottomBar" = "Нижняя полоса";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_BottomGradient" = "Нижний градиент";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_BottomLine" = "Нижняя линия";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_BottomPageNumberRect" = "Прямоугольник номера страницы внизу";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_InlineOuterBar" = "Наружная полоса";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_InlineTopBar" = "Наружная верхняя полоса";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_InnerBar" = "Внутренняя полоса";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_InnerBlocksBar" = "Внутренняя полоса с блоками";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_None" = "Ничего";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_OnlyBackground" = "Только цвет фона";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_OuterAndInnerBar" = "Внешняя и внутренняя полоса";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_OuterAndInnerBlocksBar" = "Внешняя и внутренняя полоса с блоками";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_OuterBar" = "Внешняя полоса";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_OuterBlocksBar" = "Внешняя полоса с блоками";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_Rectangle" = "Прямоугольник";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_RoundInlineTopBar" = "Закруглённая наружная верхняя полоса";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_RoundRectangle" = "Закруглённый прямоугольник";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_ThickRectangle" = "Толстый прямоугольник";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_ThickRoundRectangle" = "Толстый закруглённый прямоугольник";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_TopBar" = "Верхняя полоса";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_TopBottomBar" = "Верхняя и нижняя полоса";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_TopBottomGradient" = "Верхний и нижний градиент";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_TopBottomLine" = "Верхняя и нижняя линия";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_TopGradient" = "Верхний градиент";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_TopLine" = "Верхняя линия";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_XAtTop" = "Х-крест наверху";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_TextColorMode_ContrastToBackground" = "Контраст с фоном";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_TextColorMode_Custom" = "Настроить";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_Fill" = "Заполнить страницу";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitBottomCenter" = "Снизу по центру";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitBottomLeft" = "Снизу слева";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitBottomRight" = "Снизу справа";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitCenterCenter" = "В центре";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitCenterLeft" = "В центре слева";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitCenterRight" = "В центре справа";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitFill" = "Заполнить страницу, соблюдая пропорции";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitTopCenter" = "Вверху по центру";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitTopLeft" = "Вверху слева";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitTopRight" = "Вверху справа";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_WatermarkFloatsAboveContentTitle" = "Разместить водяной знак над содержимым";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_WatermarkImage" = "Водяной знак";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_WatermarkInsettedByPageMargins" = "Разместить водяной знак на полях страницы";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_WatermarkPlacement" = "Размещение";
+
+/* (No Comment) */
+"_Reports_AhnentafelReport_GenerationNumber" = "%d. поколение";
+
+/* (No Comment) */
+"_Reports_AhnentafelReport_Generations" = "Поколения";
+
+/* (No Comment) */
+"_Reports_AhnentafelReport_List_Header_Kekule" = "Kekulé";
+
+/* (No Comment) */
+"_Reports_AhnentafelReport_List_Header_Narrative" = "Текстовый отчёт";
+
+/* (No Comment) */
+"_Reports_AhnentafelReport_List_Header_Person" = "Человек";
+
+/* AhnentafelReport */
+"_Reports_AhnentafelReport_Title" = "Отчёт о поколенной росписи";
+
+/* (No Comment) */
+"_Reports_BackgroundColor" = "Цвет фона";
+
+/* (No Comment) */
+"_Reports_BarsColor" = "Цвет полос";
+
+/* (No Comment) */
+"_Reports_BaseColorsGroupName" = "Базовые цвета";
+
+/* (No Comment) */
+"_Reports_BaseFontsGroupName" = "Базовые шрифты";
+
+/* (No Comment) */
+"_Reports_BaseStyler_Abbreviation_For_Female" = "(ж)";
+
+/* (No Comment) */
+"_Reports_BaseStyler_Abbreviation_For_Intersex" = "(i)";
+
+/* Gender Abbreviations */
+"_Reports_BaseStyler_Abbreviation_For_Male" = "(м)";
+
+/* (No Comment) */
+"_Reports_BaseStyler_Abbreviation_For_Unknown" = "(-)";
+
+/* (No Comment) */
+"_Reports_CapitalizeSectionTitles" = "Заголовки раздела с заглавной";
+
+/* (No Comment) */
+"_Reports_ChapterFont" = "Шрифт главы";
+
+/* (No Comment) */
+"_Reports_Citations_CitationsMode" = "Формат ссылок на источники";
+
+/* (No Comment) */
+"_Reports_Citations_DisplayPictures" = "Изображения";
+
+/* (No Comment) */
+"_Reports_Citations_DisplayReferences" = "Ссылочные записи";
+
+/* (No Comment) */
+"_Reports_Citations_DisplaySourceCitationNotes" = "Примечания к источнику цитирования";
+
+/* (No Comment) */
+"_Reports_Citations_DisplaySourceNotes" = "Примечания к источнику";
+
+/* (No Comment) */
+"_Reports_Citations_DisplaySourceRepository" = "Исходный репозиторий";
+
+/* (No Comment) */
+"_Reports_Citations_DisplayText" = "Цитирование источника";
+
+/* (No Comment) */
+"_Reports_Citations_SourcePicturesSize" = "Размер фото";
+
+/* (No Comment) */
+"_Reports_Citations_SourcePicturesSize_FullAvailableWidth" = "Большой";
+
+/* (No Comment) */
+"_Reports_Citations_SourcePicturesSize_LargeThumbnail" = "Средний";
+
+/* (No Comment) */
+"_Reports_Citations_SourcePicturesSize_Thumbnail" = "Малый";
+
+/* (No Comment) */
+"_Reports_CitationsMajorGroupName" = "Источники";
+
+/* (No Comment) */
+"_Reports_CleanBookStyle" = "Простая книга";
+
+/* (No Comment) */
+"_Reports_CleanTablesStyle" = "Очистить таблицу";
+
+/* (No Comment) */
+"_Reports_CleanTextStyle" = "Очистить текст";
+
+/* (No Comment) */
+"_Reports_ColorsMajorGroupName" = "Цвета";
+
+/* (No Comment) */
+"_Reports_ColumnsMajorGroupName" = "Колонки";
+
+/* Sources */
+"_Reports_Common_Citations_Section_Title" = "Источники";
+
+/* Common */
+"_Reports_CustomReportTitle" = "Настроить заголовок отчета";
+
+/* (No Comment) */
+"_Reports_DateFormatMinorGroupName" = "Формат даты";
+
+/* (No Comment) */
+"_Reports_DateFormatStyle" = "Стиль формата даты";
+
+/* (No Comment) */
+"_Reports_DateFormatStyleExplanation" = "Укажите здесь, какой стиль формата даты использовать при переформатировании дат";
+
+/* (No Comment) */
+"_Reports_DateOptionsGroupName" = "Даты";
+
+/* (No Comment) */
+"_Reports_DefaultHighlightColor" = "Цвет выделения по умолчанию";
+
+/* (No Comment) */
+"_Reports_DefaultHighlightColor_Explanation" = "Укажите цвет выделения по умолчанию. Вы можете установить отдельные цвета выделения для главы в настройках главы.";
+
+/* (No Comment) */
+"_Reports_DescendancyReport_ChildNumber_Header" = "Ребёнок";
+
+/* DescendancyReport */
+"_Reports_DescendancyReport_DescendantsSectionTitleWithGenerationNumber" = "%d. поколение";
+
+/* (No Comment) */
+"_Reports_DescendancyReport_Marriage_Header" = "Брак";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_AddedCell_PlaceholderText" = "Текст";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeBackgroundColor" = "Фон ячейки";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeBottomBorderColor" = "Цвет ячейки снизу";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeBottomBorderWidth" = "Нижняя граница ячейки";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeLeftBorderColor" = "Цвет ячейки слева";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeLeftBorderWidth" = "Левая граница ячейки";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeRightBorderColor" = "Цвет ячейки справа";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeRightBorderWidth" = "Правая граница ячейки";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeTopBorderColor" = "Цвет ячейки сверху";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeTopBorderWidth" = "Верхняя граница ячейки";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_ContentFrameSize_Height" = "Высота";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_ContentFrameSize_Width" = "Ширина";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_LayoutCellNode_EndPosition" = "Конечная позиция";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_LayoutCellNode_StartPosition" = "Начальная позиция";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_LayoutNode_DrawGridLines" = "Показать сетку макета";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_BaseNode" = "Пересечение";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_Cell" = "Ячейка";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_Flow" = "Группа";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_Image" = "Изображение";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_Layout" = "Список";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_PDF" = "PDF";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_Section" = "Раздел";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_Table" = "Таблица";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_Text" = "Текст";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Background" = "Фон";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Border" = "Граница";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_CellOptions" = "Параметры ячейки";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Fonts" = "Шрифты";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Layout" = "Матер";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Margin" = "Поле";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Options" = "Параметры";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Padding" = "Заполнение";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Size" = "Размер";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeBackgroundColor" = "Цвет фона";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeBorderColor" = "Цвет границы";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeBorderRadius" = "Краевой радиус";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeBottomBorderWidth" = "Снизу";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeBottomMarginWidth" = "Снизу";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeBottomPaddingWidth" = "Снизу";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeHorizontalAlign" = "Выравнивание по горизонтали";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeHorizontalAlign_Bottom" = "Справа";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeHorizontalAlign_Middle" = "По центру";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeHorizontalAlign_Top" = "Слева";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeLeftBorderWidth" = "Слева";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeLeftMarginWidth" = "Слева";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeLeftPaddingWidth" = "Слева";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeRightBorderWidth" = "Справа";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeRightMarginWidth" = "Справа";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeRightPaddingWidth" = "Справа";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeTopBorderWidth" = "Сверху";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeTopMarginWidth" = "Сверху";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeTopPaddingWidth" = "Сверху";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeVerticalAlign" = "Выравнивание по вертикали";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeVerticalAlign_Bottom" = "Снизу";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeVerticalAlign_Middle" = "По середине";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeVerticalAlign_Top" = "Сверху";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageFlowAreaIdentifier_AnyColumn" = "Любая колонка";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageFlowAreaIdentifier_LeftColumn" = "Левая колонка";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageFlowAreaIdentifier_OneColumn" = "Основная колонка";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageFlowAreaIdentifier_RightColumn" = "Правая колонка";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageFlowAreaIdentifier_Title" = "Колонка";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageOrder_Any" = "Любой порядок";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageOrder_EvenPage" = "Выровнять страницы";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageOrder_OddPage" = "Нечётная страница";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageOrder_Title" = "Порядок страниц";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageType_Any" = "Любая страница";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageType_EmptyPage" = "Пустая страница";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageType_OneColumn" = "Страница с одной колонкой";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageType_SmallLeftColumnBigRightColumn" = "Страница с маленькой левой и большой правой колонкой";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageType_Title" = "Тип страницы";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageType_TwoColumn" = "Страница с двумя колонками";
+
+/* Edit Configurations */
+"_Reports_Editor_Configurations_PleaseSelectObjectsToEditPlaceholder" = "Выберите текст или другие элементы в отчёте слева, чтобы изменить цвета, текст и размеры.";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_SelectedObjectsOfDifferentTypePlaceholder" = "Вы выбрали несколько объектов разных видов";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_Table_DrawGridLines" = "Показать сетку таблицы";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_Table_RepeatHeadersOnEachPage" = "Повторить заголовки";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_TableAlternateRowBackgroundColor" = "Цвет дополнительного ряда";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_TableRowBackgroundColor" = "Цвет ряда";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_TextColor" = "Цвет текста";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_TextFont" = "Шрифт текста";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WantsNewLayoutPageArea" = "Начать с новой страницы";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WantsNewLine" = "Начать после разрыва строки";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WantsNewPage" = "Начать на новой странице";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WantsSameLine" = "Избегать разрыва строки";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WantsToStickToPreviousObject" = "Прикрепить к предыдущему объекту";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_Full" = "Полная ширина";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_Full_ForScaleableNodes" = "Полная ширина";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_Needed" = "Подгонка ширины";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_Needed_ForScaleableNodes" = "Фиксированная ширина";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_Predefined" = "Фактор ширины";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_Predefined_ForScaleableNodes" = "Коэффициент ширины и фиксированная высота";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_PredefinedWidthFactor" = "Фактор ширины";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_Title" = "Режим ширины";
+
+/* (No Comment) */
+"_Reports_EmphasizedFont" = "Подчеркнутый шрифт";
+
+/* (No Comment) */
+"_Reports_EmphasizedFontColor" = "Цвет выделенного текста";
+
+/* (No Comment) */
+"_Reports_EnabledSourceTemplateKeyIdentifiers" = "Исзодные поля для отображения";
+
+/* (No Comment) */
+"_Reports_EventsMajorGroupName" = "События";
+
+/* FactsListReport */
+"_Reports_FactsListReport_TotalFactsCountKey" = "Всего фактов";
+
+/* (No Comment) */
+"_Reports_FontsMajorGroupName" = "Шрифты";
+
+/* Major Groups */
+"_Reports_GeneralMajorGroupName" = "Основные";
+
+/* (No Comment) */
+"_Reports_GridTablesStyle" = "Простая таблица";
+
+/* Fonts */
+"_Reports_HeaderFont" = "Шрифт заголовка";
+
+/* Colors */
+"_Reports_HeaderFontColor" = "Цвет заголовка текста";
+
+/* Private Information */
+"_Reports_HidePrivateInformation" = "Скрыть информацию отмеченную как личная";
+
+/* (No Comment) */
+"_Reports_HidePrivateInformationExplanation" = "Если вы выберете эту опцию, каждая часть информации, помеченная как конфиденциальная в режиме редактирования, будет скрыта в отчёте.";
+
+/* (No Comment) */
+"_Reports_InformationColumnsMinorGroupName" = "Информационные колонки";
+
+/* (No Comment) */
+"_Reports_InformationGroupName" = "Информация";
+
+/* (No Comment) */
+"_Reports_KeyFont" = "Шрифт элементов";
+
+/* (No Comment) */
+"_Reports_KeyFontColor" = "Цвет текста элементов";
+
+/* (No Comment) */
+"_Reports_LeftTitleStyle" = "Заголовок слева";
+
+/* (No Comment) */
+"_Reports_List_DrawGridLines" = "Показать сетку таблицы";
+
+/* (No Comment) */
+"_Reports_List_HeaderBirthDate" = "Дата рождения";
+
+/* (No Comment) */
+"_Reports_List_HeaderBirthPlace" = "Место рождения";
+
+/* (No Comment) */
+"_Reports_List_HeaderDeathDate" = "Дата смерти";
+
+/* (No Comment) */
+"_Reports_List_HeaderDeathPlace" = "Место смерти";
+
+/* (No Comment) */
+"_Reports_List_RepeatHeaderOnEachPage" = "Повторять заголовки таблицы на новых страницах";
+
+/* (No Comment) */
+"_Reports_List_RepeatHeaderOnEachPageExplanation" = "Если активно, строка заголовка таблицы повторяется, если таблица занимает более одной страницы";
+
+/* (No Comment) */
+"_Reports_ListCellFont" = "Шрифт списка ячеек";
+
+/* (No Comment) */
+"_Reports_ListHeaderFont" = "Шрифт списка заголовков";
+
+/* (No Comment) */
+"_Reports_ListHeaderFontColor" = "Цвет текста заголовков";
+
+/* (No Comment) */
+"_Reports_ListKeyFont" = "Список шрифтов элемента";
+
+/* (No Comment) */
+"_Reports_ListMode" = "Режим списка";
+
+/* (No Comment) */
+"_Reports_ListMode_BookSetting" = "Использовать параметры книги";
+
+/* (No Comment) */
+"_Reports_ListMode_DefaultFromStyler" = "По умолчанию из темы";
+
+/* (No Comment) */
+"_Reports_ListMode_PrefersList" = "Отобразить как список";
+
+/* (No Comment) */
+"_Reports_ListMode_PrefersTable" = "Отобразить как таблицу";
+
+/* (No Comment) */
+"_Reports_ListsColorGroupName" = "Цвет списков";
+
+/* Lists */
+"_Reports_ListSectionFont" = "Шрифт раздела списка";
+
+/* (No Comment) */
+"_Reports_ListSectionFontColor" = "Цвет текста раздела";
+
+/* (No Comment) */
+"_Reports_ListsFontGroupName" = "Списки";
+
+/* (No Comment) */
+"_Reports_ListsOptionsGroupName" = "Списки";
+
+/* Localization */
+"_Reports_Localization" = "Локализация";
+
+/* (No Comment) */
+"_Reports_LocalizationExplanation" = "Укажите локализацию для использования в этом отчёте. Вся информация в этом отчёте будет локализована на указанном языке";
+
+/* (No Comment) */
+"_Reports_LocalizationMajorGroupName" = "Локализация";
+
+/* (No Comment) */
+"_Reports_MainFont" = "Основной шрифт";
+
+/* (No Comment) */
+"_Reports_MainFontColor" = "Основной цвет текста";
+
+/* (No Comment) */
+"_Reports_MarriageList_OnlyShowFamiliesWithMarriageEvent" = "Отображать только партнёров с брачным событием";
+
+/* (No Comment) */
+"_Reports_MarriageList_ShowBirthDateForPersons" = "Показывать дату рождения для людей";
+
+/* (No Comment) */
+"_Reports_MarriageList_ShowMarriageDateAsAdditionalInformation" = "Показать дату вступления в брак с отступом";
+
+/* (No Comment) */
+"_Reports_MarriageList_ShowMarriagePlaceAsAdditionalInformation" = "Показывать место брака с отступом";
+
+/* MarriageList */
+"_Reports_MarriageList_Sort_By_FamilyName" = "По названию семейства";
+
+/* (No Comment) */
+"_Reports_MarriageList_Sort_By_ManName" = "По имени мужчины";
+
+/* (No Comment) */
+"_Reports_MarriageList_Sort_By_MarriageDate" = "По дате вступления в брак";
+
+/* (No Comment) */
+"_Reports_MarriageList_Sort_By_MarriageLocation" = "По месту вступления в брак";
+
+/* (No Comment) */
+"_Reports_MarriageList_Sort_By_WomanName" = "По имени женщины";
+
+/* MediaGalleryReport */
+"_Reports_MediaGalleryReport_GroupingMode" = "Группировка медиа";
+
+/* (No Comment) */
+"_Reports_MediaGalleryReport_GroupingMode_ByDecade" = "Групировать по десятилетию";
+
+/* (No Comment) */
+"_Reports_MediaGalleryReport_GroupingMode_ByLabel" = "Группировать по метке";
+
+/* (No Comment) */
+"_Reports_MediaGalleryReport_GroupingMode_BySelectedObject" = "Группировать по назначенной записи";
+
+/* (No Comment) */
+"_Reports_MediaGalleryReport_GroupingMode_None" = "Без группирования";
+
+/* (No Comment) */
+"_Reports_MediaGalleryReport_SortingMode" = "Сортировка";
+
+/* (No Comment) */
+"_Reports_MediaGalleryReport_SortingMode_ByDate" = "По дате";
+
+/* (No Comment) */
+"_Reports_MediaGalleryReport_SortingMode_ByTitle" = "По названию";
+
+/* (No Comment) */
+"_Reports_MediaSection_FamilyMainSubsectionKey" = "Медиа, прикреплённые к семье";
+
+/* (No Comment) */
+"_Reports_MediaSection_MediaFromFamiliesSubsectionKey" = "Медиа, прикреплённые к семьям";
+
+/* (No Comment) */
+"_Reports_MediaSection_MediaFromFamilyEventsSubsectionKey" = "Медиа, прикреплённые к семмейным событиям";
+
+/* (No Comment) */
+"_Reports_MediaSection_MediaFromManSubsectionKey" = "Медиа, прикреплённые к партнёру 1";
+
+/* (No Comment) */
+"_Reports_MediaSection_MediaFromPersonEventsSubsectionKey" = "Медиа, прикреплённые к событиям человека";
+
+/* (No Comment) */
+"_Reports_MediaSection_MediaFromWomanSubsectionKey" = "Медиа, прикреплённые к партнёру 2";
+
+/* (No Comment) */
+"_Reports_MediaSection_PersonMainSubsectionKey" = "Медиа, прикреплённые к человеку";
+
+/* (No Comment) */
+"_Reports_MediaSize_FullSize" = "Полный размер";
+
+/* (No Comment) */
+"_Reports_MediaSize_LargeThumbnail" = "Большие миниатюры";
+
+/* (No Comment) */
+"_Reports_MediaSize_Thumbnail" = "Миниатюра";
+
+/* (No Comment) */
+"_Reports_MediaSize_Title" = "Размер медиа";
+
+/* (No Comment) */
+"_Reports_MirrorPageMarginsAndBackgroundOnOddPages" = "Зеркальные поля и фон на нечётных страницах";
+
+/* (No Comment) */
+"_Reports_MirrorPageMarginsAndBackgroundOnOddPagesExplanation" = "Если активировано, левые и правые поля зеркально отображаются на нечётных страницах и фон будет соответствующим образом скорректирован. Полезно при создании отчётов для книг.";
+
+/* (No Comment) */
+"_Reports_ModernBarsLightTextStyle" = "Светлые современные полосы";
+
+/* (No Comment) */
+"_Reports_ModernBarsTextStyle" = "Современные полосы";
+
+/* (No Comment) */
+"_Reports_OtherFontColorsGroupName" = "Прочее";
+
+/* (No Comment) */
+"_Reports_OtherFontsGroupName" = "Прочее";
+
+/* (No Comment) */
+"_Reports_PageBottomMargin" = "Нижний отступ";
+
+/* (No Comment) */
+"_Reports_PageFontsMinorGroupName" = "Шрифты";
+
+/* Page Margins */
+"_Reports_PageLeftMargin" = "Левый отступ";
+
+/* (No Comment) */
+"_Reports_PageMarginsMajorGroupName" = "Поля страницы";
+
+/* (No Comment) */
+"_Reports_PageMarginsMinorGroupName" = "Поля страницы";
+
+/* (No Comment) */
+"_Reports_PageNumberFont" = "Шрифт номера страницы";
+
+/* (No Comment) */
+"_Reports_PageRightMargin" = "Правый отступ";
+
+/* (No Comment) */
+"_Reports_PageStyleMajorGroupName" = "Стиль страницы";
+
+/* (No Comment) */
+"_Reports_PageTextColorsMinorGroupName" = "Цвета текста";
+
+/* (No Comment) */
+"_Reports_PageTopMargin" = "Верхний отступ";
+
+/* (No Comment) */
+"_Reports_PageWatermarkMajorGroupName" = "Водяной знак";
+
+/* (No Comment) */
+"_Reports_Person_NotSet" = "Человек не установлен";
+
+/* (No Comment) */
+"_Reports_PersonItem_PictureSize" = "Фотографии человека";
+
+/* (No Comment) */
+"_Reports_PersonItem_PictureSize_Large" = "Показать большие фотографии человека";
+
+/* (No Comment) */
+"_Reports_PersonItem_PictureSize_Medium" = "Показать средние фотографии человека";
+
+/* (No Comment) */
+"_Reports_PersonItem_PictureSize_None" = "Не показывать фотографии человека";
+
+/* (No Comment) */
+"_Reports_PersonItem_PictureSize_Small" = "Показать маленькие фотографии человека";
+
+/* Pictures */
+"_Reports_PersonPicturesSize" = "Фотографии человека";
+
+/* (No Comment) */
+"_Reports_PersonPicturesSize_Large" = "Большие";
+
+/* (No Comment) */
+"_Reports_PersonPicturesSize_Medium" = "Средние";
+
+/* (No Comment) */
+"_Reports_PersonPicturesSize_None" = "Нет";
+
+/* (No Comment) */
+"_Reports_PersonPicturesSize_Small" = "Маленькие";
+
+/* (No Comment) */
+"_Reports_PersonReport_Ancestors_Section_Title" = "Предки";
+
+/* (No Comment) */
+"_Reports_PersonReport_AncestorsDepth" = "Поколения предков";
+
+/* (No Comment) */
+"_Reports_PersonReport_AncestorsOrDescendants_Generation_Header" = "Поколение";
+
+/* (No Comment) */
+"_Reports_PersonReport_Associates_PersonOrFamily_Header" = "Человек или семья";
+
+/* (No Comment) */
+"_Reports_PersonReport_BornOnKey" = "Родился";
+
+/* (No Comment) */
+"_Reports_PersonReport_BornOrDiedInKey" = "в";
+
+/* (No Comment) */
+"_Reports_PersonReport_BrothersAndSisters" = "Братья и сёстры";
+
+/* (No Comment) */
+"_Reports_PersonReport_Descendants_Section_Title" = "Потомки";
+
+/* (No Comment) */
+"_Reports_PersonReport_DescendantsDepth" = "Поколения потомков";
+
+/* (No Comment) */
+"_Reports_PersonReport_DiedOnKey" = "Умер в";
+
+/* (No Comment) */
+"_Reports_PersonReport_Event_Date" = "Дата";
+
+/* (No Comment) */
+"_Reports_PersonReport_Event_Place" = "Место";
+
+/* (No Comment) */
+"_Reports_PersonReport_Event_Type" = "Тип";
+
+/* (No Comment) */
+"_Reports_PersonReport_Events_Section_Title" = "События";
+
+/* (No Comment) */
+"_Reports_PersonReport_Facts_FactDescription_Header" = "Описание";
+
+/* (No Comment) */
+"_Reports_PersonReport_Facts_FactType_Header" = "Тип";
+
+/* (No Comment) */
+"_Reports_PersonReport_Facts_Section_Title" = "Факты";
+
+/* (No Comment) */
+"_Reports_PersonReport_HourglassChart_Section_Title" = "Песочные часы";
+
+/* (No Comment) */
+"_Reports_PersonReport_IDs_AncestralFileNumberIDKey" = "Наследственный номер файла";
+
+/* (No Comment) */
+"_Reports_PersonReport_IDs_FamilySearchIDKey" = "FamilySearch ID";
+
+/* (No Comment) */
+"_Reports_PersonReport_IDs_GedcomIDKey" = "GEDCOM ID";
+
+/* (No Comment) */
+"_Reports_PersonReport_IDs_ReferenceNumberKey" = "Номер ссылки";
+
+/* (No Comment) */
+"_Reports_PersonReport_Kinship_Section_Title" = "Родство";
+
+/* (No Comment) */
+"_Reports_PersonReport_KinshipDepth" = "Родство поколений";
+
+/* (No Comment) */
+"_Reports_PersonReport_NameDetails_Section_Title" = "Детали имени";
+
+/* (No Comment) */
+"_Reports_PersonReport_NarrativeReport_Section_Title" = "Текстовый отчёт";
+
+/* (No Comment) */
+"_Reports_PersonReport_OccupationKey" = "Род занятий";
+
+/* (No Comment) */
+"_Reports_PersonReport_Parents_Section_Title" = "Родители";
+
+/* (No Comment) */
+"_Reports_PersonReport_Partners_Section_Title" = "Партнёры";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowAncestors" = "Предки";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowDescendants" = "Потомки";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowEvents" = "События";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowHourglassChart" = "Песочные часы";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowKinship" = "Родство";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowNameDetails" = "Детали имени";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowParents" = "Родители";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowPartners" = "Партнёры";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowSources" = "Источники";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowWorldHistory" = "Источники";
+
+/* PersonReport */
+"_Reports_PersonReport_Title" = "Отчёт о человеке";
+
+/* (No Comment) */
+"_Reports_PersonReport_WorldHistory_Category_Header" = "Категория";
+
+/* (No Comment) */
+"_Reports_PersonReport_WorldHistory_Section_Title" = "Мировая история";
+
+/* (No Comment) */
+"_Reports_PicturesOptionsGroupName" = "Фотографии";
+
+/* (No Comment) */
+"_Reports_PlaceFormat_Normal" = "Обычное название места";
+
+/* (No Comment) */
+"_Reports_PlaceFormat_Short" = "Короткое название места";
+
+/* (No Comment) */
+"_Reports_PlaceFormat_VeryShort" = "Очень короткое название места";
+
+/* (No Comment) */
+"_Reports_PlaceFormatMinorGroupName" = "Формат места";
+
+/* Place Format */
+"_Reports_PlaceFormatStyle" = "Формат места";
+
+/* (No Comment) */
+"_Reports_PlaceFormatStyleExplanation" = "Укажите, должно ли отображаться полное название места или сокращённое.";
+
+/* (No Comment) */
+"_Reports_PlainTextStyle" = "Обычный текст";
+
+/* (No Comment) */
+"_Reports_PrimaryFont" = "Основной шрифт";
+
+/* (No Comment) */
+"_Reports_ReformatDatesToSelectedLocale" = "Переформатировать даты";
+
+/* (No Comment) */
+"_Reports_ReformatDatesToSelectedLocaleExplanation" = "Если включено, все даты будут переформатированы для соответствия указанной локализации";
+
+/* RegisterReport */
+"_Reports_RegisterReport_DescendantsSectionTitleWithGenerationNumber" = "%d. поколение";
+
+/* (No Comment) */
+"_Reports_Report_Associates_Section_Title" = "Влиятельные люди и семьи";
+
+/* (No Comment) */
+"_Reports_Report_Media_Section_Title" = "Медиа";
+
+/* (No Comment) */
+"_Reports_Report_Notes_Section_Family_Note_Key" = "Примечание к семье";
+
+/* (No Comment) */
+"_Reports_Report_Notes_Section_Note_Key" = "Примечание";
+
+/* (No Comment) */
+"_Reports_Report_Notes_Section_Person_Note_Key" = "Примечание к человеку";
+
+/* (No Comment) */
+"_Reports_Report_Notes_Section_Title" = "Примечания";
+
+/* (No Comment) */
+"_Reports_Report_Overview_Section_Title" = "Обзор";
+
+/* (No Comment) */
+"_Reports_Report_ShowAssociates" = "Влиятельные люди";
+
+/* (No Comment) */
+"_Reports_Report_ShowFacts" = "Факты";
+
+/* (No Comment) */
+"_Reports_Report_ShowNotes" = "Примечания";
+
+/* (No Comment) */
+"_Reports_Report_ShowOverview" = "Обзор";
+
+/* (No Comment) */
+"_Reports_Report_ShowUserDescription" = "Описание";
+
+/* (No Comment) */
+"_Reports_ReportBarSectionsTablesStyle" = "Раздел полос";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_AddImageNode" = "Добавить изображение...";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_AddLayoutCell" = "Добавить ячейку";
+
+/* ReportEditorController Edit Operations */
+"_Reports_ReportEditorController_EditOperation_AddNodesPopupButton" = "Добавить...";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_AddPDFNode" = "Добавить PDF...";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_AddRow" = "Добавить строку";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_AddTextNode" = "Добавить текст";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_RemoveLayoutCell" = "Удалить ячейку";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_RemoveNode" = "Удалить";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_RemoveRow" = "Удалить строку";
+
+/* (No Comment) */
+"_Reports_ReportForestGreenTablesStyler" = "Зеленый лес";
+
+/* (No Comment) */
+"_Reports_ReportFormGridTablesStyle" = "Классическая форма";
+
+/* (No Comment) */
+"_Reports_ReportFormTablesStyle" = "Форма";
+
+/* (No Comment) */
+"_Reports_ReportTypewriterStyler" = "Пишущая машинка";
+
+/* (No Comment) */
+"_Reports_SecondaryFont" = "Дополнительный шрифт";
+
+/* (No Comment) */
+"_Reports_SecondaryFontColor" = "Цвет вторичного текста";
+
+/* (No Comment) */
+"_Reports_SectionFont" = "Шрифт раздела";
+
+/* (No Comment) */
+"_Reports_SectionsMinorGroupName" = "Разделы";
+
+/* (No Comment) */
+"_Reports_SeparateSectionsCheckbox" = "Отдельные разделы";
+
+/* (No Comment) */
+"_Reports_SeparateSectionsCheckboxExplanation" = "Если включено, отдельные разделы отображаются для выбранного режима сортировки. Например, если отсортировано по фамилии, все люди с одинаковой фамилией будут отображаться в одном разделе.";
+
+/* (No Comment) */
+"_Reports_ShowAge" = "Показывать возраст";
+
+/* Columns */
+"_Reports_ShowBirthDate" = "Показать дату рождения";
+
+/* (No Comment) */
+"_Reports_ShowBirthPlace" = "Показать место рождения";
+
+/* (No Comment) */
+"_Reports_ShowChapters" = "Показать главы";
+
+/* (No Comment) */
+"_Reports_ShowChildren" = "Показывать детей";
+
+/* Citations */
+"_Reports_ShowCitations" = "Источники информации";
+
+/* (No Comment) */
+"_Reports_ShowCitationsExplanation" = "Укажите, следует ли добавлять в отчёт список источников.";
+
+/* (No Comment) */
+"_Reports_ShowDeathDate" = "Показать место смерти";
+
+/* (No Comment) */
+"_Reports_ShowDeathPlace" = "Показать место смерти";
+
+/* (No Comment) */
+"_Reports_ShowKekule" = "Показать Kekulé";
+
+/* (No Comment) */
+"_Reports_ShowMarriageDate" = "Показать дату вступления в брак";
+
+/* (No Comment) */
+"_Reports_ShowMarriagePlace" = "Показать место вступления в брак";
+
+/* (No Comment) */
+"_Reports_ShowMedia" = "Медиа";
+
+/* (No Comment) */
+"_Reports_ShowNarrative" = "Текстовый отчёт";
+
+/* Page Numbers, sections */
+"_Reports_ShowPageNumbers" = "Показать номера страниц";
+
+/* (No Comment) */
+"_Reports_ShowParents" = "Показывать родителей";
+
+/* (No Comment) */
+"_Reports_ShowPDFs" = "Показать PDF";
+
+/* (No Comment) */
+"_Reports_ShowPicture" = "Показать изображение";
+
+/* (No Comment) */
+"_Reports_ShowPictures" = "Показать изображения";
+
+/* (No Comment) */
+"_Reports_ShowSections" = "Показать разделы";
+
+/* (No Comment) */
+"_Reports_Sort_By_BirthDate" = "По дате рождения";
+
+/* (No Comment) */
+"_Reports_Sort_By_BirthPlace" = "По месту рождения";
+
+/* (No Comment) */
+"_Reports_Sort_By_DeathDate" = "По дате смерти";
+
+/* (No Comment) */
+"_Reports_Sort_By_DeathPlace" = "По месту смерти";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventDate" = "По дате события";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventDescription" = "По описанию";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventTypeAndDate" = "По типу события и описанию";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventTypeName" = "По названию типа события";
+
+/* (No Comment) */
+"_Reports_Sort_By_FirstName" = "По имени";
+
+/* (No Comment) */
+"_Reports_Sort_By_FullName" = "По полному имени";
+
+/* (No Comment) */
+"_Reports_Sort_By_LastName" = "По фамилии";
+
+/* Sorting */
+"_Reports_Sorting" = "Сортировка";
+
+/* (No Comment) */
+"_Reports_SortingExplanation" = "Укажите порядок записей, которые будут отображаться в этом отчёте";
+
+/* (No Comment) */
+"_Reports_SortingMinorGroupName" = "Сортировка";
+
+/* (No Comment) */
+"_Reports_SortOrderAscendingCheckbox" = "Сортировать по возрастанию";
+
+/* (No Comment) */
+"_Reports_SourceInformationGroupName" = "Источник информации";
+
+/* (No Comment) */
+"_Reports_Sources_Page_Header" = "Страница";
+
+/* (No Comment) */
+"_Reports_Sources_Section_Title" = "Источники";
+
+/* (No Comment) */
+"_Reports_StoryReport_ReferencedEntries_Title" = "Записи ссылок";
+
+/* (No Comment) */
+"_Reports_StoryReport_ReferencedEntriesInSection_Title" = "Записи ссылок в разделе '%@'";
+
+/* (No Comment) */
+"_Reports_StoryReport_Section_Media" = "Медиа";
+
+/* (No Comment) */
+"_Reports_StoryReport_Section_ReferencedEntries" = "Записи ссылок в разделе";
+
+/* (No Comment) */
+"_Reports_StoryReport_Section_Text" = "Текст";
+
+/* (No Comment) */
+"_Reports_StoryReport_ShowReferencedEntries" = "Записи ссылок в истории";
+
+/* (No Comment) */
+"_Reports_StoryReport_ShowReferencedEntriesInStorySections" = "Записи ссылок в разделах истории";
+
+/* Story Report */
+"_Reports_StoryReport_UserDescription" = "Описание";
+
+/* (No Comment) */
+"_Reports_StoryReport_WorldHistory_Category_Header" = "Категория";
+
+/* (No Comment) */
+"_Reports_StoryReport_WorldHistory_Section_Title" = "Мировая история";
+
+/* (No Comment) */
+"_Reports_StyleOptionsMajorGroupName" = "Параметры стиля";
+
+/* (No Comment) */
+"_Reports_SubSectionFont" = "Шрифт подраздела";
+
+/* (No Comment) */
+"_Reports_SubSectionFontColor" = "Цвет текста подраздела";
+
+/* Minor Groups */
+"_Reports_TextGroupName" = "Текст";
+
+/* Style Names */
+"_Reports_TextStyle" = "Простой текст";
+
+/* (No Comment) */
+"_Reports_ThemesMajorGroupName" = "Темы";
+
+/* (No Comment) */
+"_Reports_ToDoReport_Notes" = "Примечания";
+
+/* (No Comment) */
+"_Reports_ToDoReport_Priority" = "Приоритет";
+
+/* (No Comment) */
+"_Reports_ToDoReport_Status" = "Статус";
+
+/* (No Comment) */
+"_Reports_ToDoReport_Text" = "Текст";
+
+/* ToDoReport */
+"_Reports_ToDoReport_Type" = "Тип";
+
+/* (No Comment) */
+"_Reports_TopTitleBarTextStyle" = "Верхняя полоса";
+
+/* (No Comment) */
+"_Reports_UseSubsectionsInMediaSection" = "Медиа группы";
+
+/* (No Comment) */
+"_Reports_WorldHistoryMajorGroupName" = "Мировая история";
+
+/* (No Comment) */
+"_ReportViewConfiguration_PageFormatMode" = "Режим отображения страницы";
+
+/* (No Comment) */
+"_ReportViewConfiguration_PageFormatMode_PageFormatThatFitsReportViewBounds" = "Отобразить отчёт без страниц и как можно больше";
+
+/* (No Comment) */
+"_ReportViewConfiguration_PageFormatMode_UseSpecifiedFormat" = "Отображать страницы, используя указанный формат";
+
+/* (No Comment) */
+"_ReportViewConfiguration_PageFormatMode_WidthOfSpecifiedFormatButNoPageBreaks" = "Отображать страницы без разрывов";
+
+/* (No Comment) */
+"_ReportViewConfiguration_PageFormatModeExplanation" = "Укажите здесь, как на вашем экране должен отображаться отчёт. Либо отобразите его на отдельных страницах так, как он будет отображаться на бумаге, либо покажите его максимально большим.";
+
+/* ReportView */
+"_ReportViewConfiguration_PaginationMajorGroupName" = "Разбивка на страницы";
+
+/* Sample Report */
+"_SampleReportTitle" = "Пример отчёта";
+

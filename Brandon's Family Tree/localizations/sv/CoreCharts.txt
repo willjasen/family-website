@@ -1,0 +1,2202 @@
+﻿/* Background Image Mode */
+"_BackgroundGeneratorChartCompositorObject_BackgroundImageMode" = "Bakgrundsbildstil";
+
+/* (No Comment) */
+"_BackgroundGeneratorChartCompositorObject_BackgroundImageMode_BlurryEdges" = "Suddiga kanter";
+
+/* (No Comment) */
+"_BackgroundGeneratorChartCompositorObject_BackgroundImageMode_Radial" = "Radiell";
+
+/* (No Comment) */
+"_BackgroundGeneratorChartCompositorObject_BackgroundImageMode_Rectangle" = "Rektangel";
+
+/* (No Comment) */
+"_BackgroundGeneratorChartCompositorObject_BlurryEdgesSize" = "Suddig kantstorlek";
+
+/* (No Comment) */
+"_BarHistoryEventTimelineGeneratorChartCompositorObjectConfiguration_CustomTextColor" = "Anpassa textfärg för historiska händelser";
+
+/* (No Comment) */
+"_BarHistoryEventTimelineGeneratorChartCompositorObjectConfiguration_Font" = "Typsnitt för historiska händelser";
+
+/* (No Comment) */
+"_BarHistoryEventTimelineGeneratorChartCompositorObjectConfiguration_TextColoringMode" = "Textfärg för historiska händelser";
+
+/* (No Comment) */
+"_BarPersonTimelineGeneratorChartCompositorObjectConfiguration_EventMarkerMode" = "Händelsemarkörer";
+
+/* (No Comment) */
+"_BarPersonTimelineGeneratorChartCompositorObjectConfiguration_EventMarkerMode_Circles" = "Cirklar";
+
+/* (No Comment) */
+"_BarPersonTimelineGeneratorChartCompositorObjectConfiguration_EventMarkerMode_Lines" = "Linjer";
+
+/* BaseChartBuilder */
+"_BaseChartBuilderConfiguration_PlaceFormat_CompleteLocationString" = "Komplett ortsnamn";
+
+/* (No Comment) */
+"_BaseChartBuilderConfiguration_PlaceFormat_OnlyPlaceName" = "Förkortat ortsnamn";
+
+/* LineColorModes */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineColorMode" = "Linjefärgläge";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineColorMode_ContrastToBackground" = "Kontrast till bakgrunden";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineColorMode_Custom" = "Anpassa";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration" = "Slutlinje dekoration";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_Bar" = "Bar";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_LargeCircle" = "Stor cirkel";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_LargeDot" = "Stor punkt";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_None" = "Inget";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_SmallCircle" = "Liten cirkel";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_SmallDot" = "Liten punkt";
+
+/* BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration */
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_MediaPictureAssignmentMode" = "Mediabildläge";
+
+/* (No Comment) */
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_MediaPictureAssignmentMode_FullPictureWithoutAssignment" = "Helbild utan beskärning";
+
+/* (No Comment) */
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_MediaPictureAssignmentMode_OnlyUserProvidedAssignment" = "Beskära bild om detta anges uttryckligen";
+
+/* (No Comment) */
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_MediaPictureAssignmentMode_UserProvidedOrVision" = "Beskära bild om detta anges och om ett ansikte har detekterats";
+
+/* (No Comment) */
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_MediaPictureAssignmentModeExplanation" = "Ange här hur media ska visas. Bestäm om helbilder ska visas eller om bilder ska beskäras till ansikten med hjälp av artificiell intelligens.";
+
+/* (No Comment) */
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_OutsetForMediaPictureAssignmentModeForVision" = "Utrymme för detekterade ansikten";
+
+/* (No Comment) */
+"_ChartCompositorObjectsContainer_RealignmentMode_DistributeObjectsEvenlyOnPageFromBorderToBorder" = "Fördela objekt för att täcka alla sidor";
+
+/* ChartCompositorObjectsContainer_RealignmentMode */
+"_ChartCompositorObjectsContainer_RealignmentMode_MoveObjectsAwayFromPageCuts" = "Flytta objekt bort från sidbrytningar";
+
+/* (No Comment) */
+"_ChartFillSettings_FillType_LinearGradient" = "Lutning";
+
+/* ChartFillSettings */
+"_ChartFillSettings_FillType_None" = "Inget";
+
+/* (No Comment) */
+"_ChartFillSettings_FillType_None_Explanation" = "Ingen fylltyp har valts";
+
+/* (No Comment) */
+"_ChartFillSettings_FillType_RadialGradient" = "Radiell lutning";
+
+/* (No Comment) */
+"_ChartFillSettings_FillType_RadialGradient_Abbreviation" = "Radiell";
+
+/* (No Comment) */
+"_ChartFillSettings_FillType_SolidColor" = "Färg";
+
+/* (No Comment) */
+"_ChartObjectType_BezierConnectionBuilderItemGeneratorChartCompositorObject" = "Bezier-anslutningar";
+
+/* (No Comment) */
+"_ChartObjectType_BlobConnectionBuilderItemGeneratorChartCompositorObject" = "Organiska anslutningar";
+
+/* Chart object types */
+"_ChartObjectType_DirectStraightConnectionBuilderItemGeneratorChartCompositorObject" = "Raka anslutningar";
+
+/* (No Comment) */
+"_ChartObjectType_HConnectionBuilderItemGeneratorChartCompositorObject" = "H anslutningar";
+
+/* (No Comment) */
+"_ChartObjectType_YStraightConnectionBuilderItemGeneratorChartCompositorObject" = "Y raka anslutningar";
+
+/* (No Comment) */
+"_Charts_XAlignment_Center" = "Centrerad";
+
+/* Alignment */
+"_Charts_XAlignment_Left" = "Vänster";
+
+/* (No Comment) */
+"_Charts_XAlignment_Right" = "Höger";
+
+/* (No Comment) */
+"_Charts_YAlignment_Bottom" = "Botten";
+
+/* (No Comment) */
+"_Charts_YAlignment_Middle" = "Mellan";
+
+/* (No Comment) */
+"_Charts_YAlignment_Top" = "Topp";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_ExportAsSeparatePages" = "Separera sidor";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_ExportAsSeparatePages_Explanation" = "Om det väljs kommer flera sidor att användas för diagrammet.";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_ExportBackground" = "Visa bakgrund";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_ExportBackground_Explanation" = "Om detta har valts kommer bakgrunden att visas på bilden";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_Margins" = "Marginaler";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_Margins_Explanation" = "Använd detta alternativ för att ange marginalerna runt diagrammet till gränsen för bilden.";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_Margins_ExplanationForPrinting" = "Ställer in marginalerna i diagrammet till gränsen för varje sida.";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_PrintingTitle" = "Utskriftsinställningar";
+
+/* ChartsBaseCGContextViewerConfiguration */
+"_ChartsBaseCGContextViewerConfiguration_Title" = "Exportinställningar";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewer_JPEGToLarge_Description" = "Detta diagram är för stort för att exporteras som JPEG-fil. Anpassa inställningen för skalan till en lägre skala eller exportera diagrammet som PNG- eller PDF-fil.";
+
+/* ChartsBitmapCGContextViewerConfiguration */
+"_ChartsBitmapCGContextViewerConfiguration_ExportFormat" = "Exportformat";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_ExportFormat_Explanation" = "Välj önskat bildformat som ska användas här. PNG-filer kan innehålla en transparent bakgrund medan JPEG-filer erbjuder bättre komprimering och mindre filstorlek.";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_ExportFormat_JPEG" = "Exportera som JPEG-bild";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_ExportFormat_PNG" = "Exportera som PNG-bild";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_JPEGQuality" = "JPEG-kvalitet";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_JPEGQuality_Explanation" = "JPEG-kvaliteten avgränsar hur mycket bilden komprimeras. En lägre kvalitet resulterar i mindre filstorlekar men kan resultera i komprimeringsartefakter.";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_Scaling" = "Skalning";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_Scaling_Explanation" = "Ställ in skalningen av den slutliga bilden här. Större skala ökar filstorleken men erbjuder mer information innan någon pixelation är synlig.";
+
+/* (No Comment) */
+"_ChartsEditor_AlignMode_BottomY" = "Justera botten, vertikalt";
+
+/* ChartEditor */
+"_ChartsEditor_AlignMode_LeftX" = "Justera vänster, horisontellt";
+
+/* (No Comment) */
+"_ChartsEditor_AlignMode_MiddleX" = "Rikta in centrerad, horisontellt";
+
+/* (No Comment) */
+"_ChartsEditor_AlignMode_MiddleY" = "Justera centrerad, vertikalt";
+
+/* (No Comment) */
+"_ChartsEditor_AlignMode_RightX" = "Justera höger, horisontellt";
+
+/* (No Comment) */
+"_ChartsEditor_AlignMode_TopY" = "Justera toppen, vertikalt";
+
+/* (No Comment) */
+"_Common_AdditionalNameFormat" = "Ytterligare namn";
+
+/* (No Comment) */
+"_Common_AdditionalNameFormatExplanation" = "Konfigurera här vilka ytterligare namn som ska visas i diagrammet.";
+
+/* (No Comment) */
+"_Common_Alignment" = "Anpassning";
+
+/* (No Comment) */
+"_Common_Alignment_BottomToTop" = "Nerifrån och upp";
+
+/* (No Comment) */
+"_Common_Alignment_FathersBottomMothersTop" = "Fäder nedtill, mödrar upptill";
+
+/* (No Comment) */
+"_Common_Alignment_FathersLeftMothersRight" = "Fäder vänster, mödrar höger";
+
+/* (No Comment) */
+"_Common_Alignment_FathersLeftMothersRightCondensed" = "Fäder vänster, mödrar höger (koncentrerat)";
+
+/* (No Comment) */
+"_Common_Alignment_FathersRightMothersLeft" = "Fäder höger, mödrar vänster";
+
+/* (No Comment) */
+"_Common_Alignment_FathersRightMothersLeftCondensed" = "Fäder höger, mödrar vänster (koncentrerat)";
+
+/* (No Comment) */
+"_Common_Alignment_FathersTopMothersBottom" = "Fäder upptill, mödrar nedtill";
+
+/* (No Comment) */
+"_Common_Alignment_LeftToRight" = "Vänster till höger";
+
+/* (No Comment) */
+"_Common_Alignment_LeftToRightCondensed" = "Vänster till höger (koncentrerat)";
+
+/* (No Comment) */
+"_Common_Alignment_RightToLeft" = "Höger till vänster";
+
+/* (No Comment) */
+"_Common_Alignment_RightToLeftCondensed" = "Höger till vänster (koncentrerat)";
+
+/* (No Comment) */
+"_Common_Alignment_TopToBottom" = "Uppifrån och ner";
+
+/* (No Comment) */
+"_Common_AlignmentExplanation" = "Anger den allmänna layouten för personerna i diagrammet";
+
+/* (No Comment) */
+"_Common_AlignOnGrid" = "Justera till statisk rutnät";
+
+/* (No Comment) */
+"_Common_AlignOnGridExplanation" = "Layoutar alla personer beroende på storleken på den största personlådan, vilket ger ett mer enhetligt utseende - men använder mer utrymme.";
+
+/* (No Comment) */
+"_Common_AncestorGenerationsOfPartnerSlider" = "Förfäder till partnergenerationer";
+
+/* (No Comment) */
+"_Common_AncestorGenerationsSlider" = "Förfädergenerationer";
+
+/* (No Comment) */
+"_Common_AnestorGenerationsForPartnersSlider" = "Generationer av förfäder för partner";
+
+/* (No Comment) */
+"_Common_AnglesGroupName" = "Vinklar";
+
+/* (No Comment) */
+"_Common_AngleSlider" = "Vinkel";
+
+/* (No Comment) */
+"_Common_ArrowsGroupName" = "Pilar";
+
+/* (No Comment) */
+"_Common_AssociatedPersonsGroupName" = "Präglande personer";
+
+/* (No Comment) */
+"_Common_AssociateRelationLines" = "Präglande relationer";
+
+/* (No Comment) */
+"_Common_Author" = "Författare";
+
+/* (No Comment) */
+"_Common_AuthorColor" = "Författarfärg";
+
+/* (No Comment) */
+"_Common_AuthorCustomTextColor" = "Anpassad författarfärg";
+
+/* (No Comment) */
+"_Common_AuthorEnabledCheckbox" = "Visa författare";
+
+/* (No Comment) */
+"_Common_AuthorFont" = "Typsnitt för författare";
+
+/* (No Comment) */
+"_Common_AuthorGroupName" = "Författare";
+
+/* (No Comment) */
+"_Common_AuthorTextColoringMode" = "Färg för författare";
+
+/* (No Comment) */
+"_Common_BackgroundColor" = "Bakgrundsfärg";
+
+/* (No Comment) */
+"_Common_BackgroundEdgeRadius" = "Radie för bakgrundskant";
+
+/* (No Comment) */
+"_Common_BackgroundEnabledCheckbox" = "Visa bakgrund";
+
+/* (No Comment) */
+"_Common_BackgroundEnabledCheckboxExplanation" = "Om det är aktiverat, välj antingen en färg, en lutning eller en bild som ska visas som bakgrund för detta diagram.";
+
+/* (No Comment) */
+"_Common_BackgroundFill" = "Bakgrundsfyllnad";
+
+/* (No Comment) */
+"_Common_BackgroundGroupName" = "Bakgrund";
+
+/* (No Comment) */
+"_Common_BackgroundImageOpacity" = "Opacitet för bakgrundsbild";
+
+/* (No Comment) */
+"_Common_BackgroundTintFactor" = "Bakgrundston";
+
+/* (No Comment) */
+"_Common_BarAndTextColor" = "Stapel- och textfärg";
+
+/* (No Comment) */
+"_Common_BarColor" = "Stapelfärg";
+
+/* (No Comment) */
+"_Common_BarEdgeRadius" = "Radie för stapelkant";
+
+/* (No Comment) */
+"_Common_BarGroupName" = "Bar";
+
+/* (No Comment) */
+"_Common_BarHeight" = "Stapelhöjd";
+
+/* (No Comment) */
+"_Common_BarsGroupName" = "Staplar";
+
+/* (No Comment) */
+"_Common_BarsSpacing" = "Stapelmellanrum";
+
+/* (No Comment) */
+"_Common_BarStyle" = "Stapelstil";
+
+/* (No Comment) */
+"_Common_BarsWidth" = "Stapelbredd";
+
+/* (No Comment) */
+"_Common_BorderColor" = "Gränsfärg";
+
+/* (No Comment) */
+"_Common_BorderGroupName" = "Gräns";
+
+/* (No Comment) */
+"_Common_BorderWidth" = "Gränsbredd";
+
+/* (No Comment) */
+"_Common_BottomDarkeningFactor" = "Gradientfaktor för bakgrund";
+
+/* (No Comment) */
+"_Common_BottomLineColor" = "Färg för underlinje";
+
+/* (No Comment) */
+"_Common_BottomLineWidth" = "Bredd för underlinje";
+
+/* (No Comment) */
+"_Common_BottomMarginSlider" = "Bottenmarginal";
+
+/* (No Comment) */
+"_Common_BoundsHeight" = "Höjd";
+
+/* (No Comment) */
+"_Common_BoundsWidth" = "Bredd";
+
+/* (No Comment) */
+"_Common_BranchesToTraverse" = "Grenar att korsa";
+
+/* (No Comment) */
+"_Common_BranchesToTraverse_MaternalAndPaternal" = "Moderlig och faderlig";
+
+/* (No Comment) */
+"_Common_BranchesToTraverse_MaternalOfStartPerson" = "Moderlig från start person";
+
+/* (No Comment) */
+"_Common_BranchesToTraverse_OnlyMaternal" = "Endast moderlig";
+
+/* (No Comment) */
+"_Common_BranchesToTraverse_OnlyPaternal" = "Endast faderlig";
+
+/* (No Comment) */
+"_Common_BranchesToTraverse_PaternalOfStartPerson" = "Faderlig från startperson";
+
+/* (No Comment) */
+"_Common_BranchesToTraverseExplanation" = "Välj vilka grenar som ska korsas när detta diagram visas. Till exempel ger \"Endast faderlig\" ett diagram som endast utvärderar fadern, farfar till den valda personen.";
+
+/* (No Comment) */
+"_Common_BranchItemSpacingSlider" = "Branschpostutrymme";
+
+/* (No Comment) */
+"_Common_BranchItemSpacingSliderExplanation" = "Kontrollerar hur långt bort personer kommer att placeras i förhållande till deras närmaste gemensamma släkting";
+
+/* (No Comment) */
+"_Common_BrothersAndSistersGroupName" = "Bröder och systrar";
+
+/* (No Comment) */
+"_Common_ChildrenGenerationsSlider" = "Barngenerationer";
+
+/* (No Comment) */
+"_Common_ColoringMode" = "Färgningsläge";
+
+/* (No Comment) */
+"_Common_ColoringMode_Alternating" = "Alternerande";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByAge" = "Efter ålder";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByGender" = "Efter kön";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByGenerationGreenBlue" = "Efter generation (grön/blå)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByGenerationOrangeCyan" = "Efter generation (orange/cyan)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByGenerationRainbow" = "Efter generation (regnbåge)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByGenerationSunset" = "Efter generation (solnedgång)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByLabel" = "Efter etikett";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByPedigreeDark" = "Efter stamtavla (mörk)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByPedigreeLight" = "Efter stamtavla (ljus)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByPersonGroup" = "Efter persongrupp";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByYear" = "Efter år";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByYearRainbow" = "Efter år (regnbåge)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByYearRainbowSubdued" = "Efter år (regnbåge, dämpad)";
+
+/* (No Comment) */
+"_Common_ColoringMode_Custom" = "Enhetlig färg";
+
+/* (No Comment) */
+"_Common_ColoringMode_Rainbow" = "Regnbåge";
+
+/* (No Comment) */
+"_Common_ColoringMode_Uniform" = "Enhetlig";
+
+/* (No Comment) */
+"_Common_ColoringMode_White" = "Vitt";
+
+/* (No Comment) */
+"_Common_ColoringModeExplanation" = "Välj olika färgscheman för personer i detta diagram.";
+
+/* (No Comment) */
+"_Common_ColorsGroupName" = "Färger";
+
+/* (No Comment) */
+"_Common_ConnectionLineType" = "Anslutningslinjetyp";
+
+/* (No Comment) */
+"_Common_ContentGroupName" = "Innehåll";
+
+/* (No Comment) */
+"_Common_CurveFactor" = "Kurva";
+
+/* (No Comment) */
+"_Common_CustomColor" = "Anpassad färg";
+
+/* (No Comment) */
+"_Common_CustomTextColor" = "Anpassad textfärg";
+
+/* (No Comment) */
+"_Common_Date" = "Datum";
+
+/* (No Comment) */
+"_Common_DateColor" = "Datumfärg";
+
+/* (No Comment) */
+"_Common_DateCustomTextColor" = "Anpassad datumfärg";
+
+/* (No Comment) */
+"_Common_DateEnabledCheckbox" = "Visa datum";
+
+/* (No Comment) */
+"_Common_DateFont" = "Datumtypsnitt";
+
+/* (No Comment) */
+"_Common_DateFormatGroupName" = "Datumformat";
+
+/* (No Comment) */
+"_Common_DateFormatStyle" = "Datumformatsstil";
+
+/* (No Comment) */
+"_Common_DateFormatStyle_Full" = "Full (Måndag, 17 november 2014)";
+
+/* (No Comment) */
+"_Common_DateFormatStyle_Long" = "Långt (17 november 2014)";
+
+/* (No Comment) */
+"_Common_DateFormatStyle_Medium" = "Medium (17 nov 2014)";
+
+/* (No Comment) */
+"_Common_DateFormatStyle_Short" = "Kort (17/11-14)";
+
+/* (No Comment) */
+"_Common_DateFormatStyleExplanation" = "Ange här vilken datumformatsstil som ska användas när datum omformateras";
+
+/* (No Comment) */
+"_Common_DateGroupName" = "Datum";
+
+/* (No Comment) */
+"_Common_DatesGroupName" = "Datum";
+
+/* (No Comment) */
+"_Common_DateTextColor" = "Datumtextfärg";
+
+/* (No Comment) */
+"_Common_DateTextColoringMode" = "Datumfärgning";
+
+/* (No Comment) */
+"_Common_DescendantGenerationsSlider" = "Ättlingsgenerationer";
+
+/* (No Comment) */
+"_Common_DisplayValuesGroupName" = "Värden";
+
+/* (No Comment) */
+"_Common_DistributeToAllPagesButton" = "Anpassa objekt att passa till alla sidor";
+
+/* (No Comment) */
+"_Common_EdgeHeight" = "Kanthöjd";
+
+/* (No Comment) */
+"_Common_EdgeRadius" = "Kantradie";
+
+/* (No Comment) */
+"_Common_EmphasizedGroupBackgroundFill" = "Betonad grupp bakgrundsfärg";
+
+/* (No Comment) */
+"_Common_EnabledPersonGroupIdentifiers" = "Persongrupper";
+
+/* (No Comment) */
+"_Common_EndGenerationScale" = "Generation slutskala";
+
+/* (No Comment) */
+"_Common_EndGenerationScaleExplanation" = "Anger hur slutgenerationen ska skalas i förhållande till startgenerationen";
+
+/* (No Comment) */
+"_Common_EvaluateDataFromDate" = "Från datum";
+
+/* (No Comment) */
+"_Common_EvaluateDataToDate" = "Till datum";
+
+/* (No Comment) */
+"_Common_EventsFactsAndAssociateRelationsGroupName" = "Händelser, fakta & präglande relationer";
+
+/* (No Comment) */
+"_Common_EventsGroupName" = "Händelser";
+
+/* (No Comment) */
+"_Common_FatherGenerationsSlider" = "Fadergenerationer";
+
+/* (No Comment) */
+"_Common_FillMode" = "Fyllningsläge";
+
+/* (No Comment) */
+"_Common_FillMode_BarAtBottom" = "Stapel på botten";
+
+/* (No Comment) */
+"_Common_FillMode_BarAtTop" = "Stapel på toppen";
+
+/* (No Comment) */
+"_Common_FillMode_BarAtTopAndBottom" = "Stapel på toppen och botten";
+
+/* (No Comment) */
+"_Common_FillMode_DarkBarAtBottom" = "Mörk stapel nedtill";
+
+/* (No Comment) */
+"_Common_FillMode_DarkBarAtTop" = "Mörk stapel upptill";
+
+/* (No Comment) */
+"_Common_FillMode_DarkBarAtTopAndBottom" = "Mörk stapel upptill och nedtill";
+
+/* (No Comment) */
+"_Common_FillMode_DarkGradientAtBottom" = "Mörk gradient till botten";
+
+/* (No Comment) */
+"_Common_FillMode_DarkGradientAtRight" = "Mörk gradient till höger";
+
+/* (No Comment) */
+"_Common_FillMode_DarkGradientAtTop" = "Mörk gradient till toppen";
+
+/* (No Comment) */
+"_Common_FillMode_Flat" = "Platt";
+
+/* (No Comment) */
+"_Common_FillMode_Glossy" = "Glansig";
+
+/* (No Comment) */
+"_Common_FillMode_LightBarAtBottom" = "Ljus stapel nedtill";
+
+/* (No Comment) */
+"_Common_FillMode_LightBarAtTop" = "Ljus stapel upptill";
+
+/* (No Comment) */
+"_Common_FillMode_LightBarAtTopAndBottom" = "Ljus stapel upptill och nedtill";
+
+/* (No Comment) */
+"_Common_FillMode_LightGradientAtBottom" = "Ljus gradient till botten";
+
+/* (No Comment) */
+"_Common_FillMode_LightGradientAtLeft" = "Ljus gradient till vänster";
+
+/* (No Comment) */
+"_Common_FillMode_LightGradientAtTop" = "Ljus gradient till toppen";
+
+/* (No Comment) */
+"_Common_FillMode_LightShineAtCenter" = "Ljust sken i mitten";
+
+/* (No Comment) */
+"_Common_FillMode_None" = "Inget";
+
+/* (No Comment) */
+"_Common_FillMode_VeryDarkGradientAtBottom" = "Mycket mörk gradient till botten";
+
+/* (No Comment) */
+"_Common_FillMode_VeryDarkGradientAtTop" = "Mycket mörk gradient till toppen";
+
+/* (No Comment) */
+"_Common_FillMode_VeryLightGradientAtBottom" = "Mycket ljus gradient till botten";
+
+/* (No Comment) */
+"_Common_FillMode_VeryLightGradientAtTop" = "Mycket mörk gradient till toppen";
+
+/* (No Comment) */
+"_Common_FloatingSideBar" = "Svävande sidolist";
+
+/* (No Comment) */
+"_Common_Font" = "Typsnitt";
+
+/* (No Comment) */
+"_Common_FontsGroupName" = "Typsnitt";
+
+/* (No Comment) */
+"_Common_FromDate" = "Från datum";
+
+/* (No Comment) */
+"_Common_FullName" = "Fullständigt namn";
+
+/* Group Names */
+"_Common_GeneralGroupName" = "Allmänt";
+
+/* (No Comment) */
+"_Common_GenerationMarginsSlier" = "Generationsmarginaler";
+
+/* (No Comment) */
+"_Common_GenerationScaleSubGroupName" = "Generationsskala";
+
+/* Control Names */
+"_Common_GenerationsSlider" = "Generationer";
+
+/* (No Comment) */
+"_Common_GenerationsSpacingSlider" = "Generationsavstånd";
+
+/* (No Comment) */
+"_Common_GenerationsSpacingSliderExplanation" = "Kontrollerar avståndet mellan personerna i varje generation";
+
+/* (No Comment) */
+"_Common_GeometryGroupName" = "Geometri";
+
+/* (No Comment) */
+"_Common_GraphSegmentWidth" = "Grafsegmentbredd";
+
+/* (No Comment) */
+"_Common_GraphType" = "Graftyp";
+
+/* (No Comment) */
+"_Common_GraphType_Bars" = "Staplar";
+
+/* (No Comment) */
+"_Common_GraphType_Lines" = "Linjer";
+
+/* (No Comment) */
+"_Common_GridGroupName" = "Rutnät";
+
+/* (No Comment) */
+"_Common_GroupColoringMode" = "Gruppfärgläge";
+
+/* (No Comment) */
+"_Common_GroupingMode" = "Grupperingsläge";
+
+/* (No Comment) */
+"_Common_GroupInnerPadding" = "Inre stoppning";
+
+/* (No Comment) */
+"_Common_GroupsGroupName" = "Grupper";
+
+/* (No Comment) */
+"_Common_HasArrowAtEnd" = "Pil i slutet";
+
+/* (No Comment) */
+"_Common_HasArrowAtStart" = "Pil i början";
+
+/* (No Comment) */
+"_Common_HasProjectedBirthDate" = "Har projicerat födelsedatum";
+
+/* (No Comment) */
+"_Common_HasProjectedDeathDate" = "Har projicerat dödsdatum";
+
+/* (No Comment) */
+"_Common_HidePrivateInformation" = "Dölj information märkt som privat";
+
+/* (No Comment) */
+"_Common_HidePrivateInformationExplanation" = "All information som är märkt som privat i redigeringsläge är dold i diagrammet om detta alternativ har angetts";
+
+/* (No Comment) */
+"_Common_HighlightLivingPersons" = "Framhäva levande personer";
+
+/* (No Comment) */
+"_Common_HistoryGroupName" = "Världshistoria";
+
+/* (No Comment) */
+"_Common_HorizontalSpacing" = "Horisontellt utrymme";
+
+/* (No Comment) */
+"_Common_IDs" = "Referensnummer";
+
+/* (No Comment) */
+"_Common_ImageAlignment" = "Bildanpassning";
+
+/* (No Comment) */
+"_Common_ImageHeightFactorSlider" = "Bildhöjd";
+
+/* (No Comment) */
+"_Common_ImageMargins" = "Bildmarginaler";
+
+/* (No Comment) */
+"_Common_ImageSpacing" = "Bildutrymme";
+
+/* (No Comment) */
+"_Common_IncludePlaceDetail" = "Infoga ortsdetaljer i ortsnamnet";
+
+/* (No Comment) */
+"_Common_IndentPartners" = "Partnerindrag";
+
+/* Privacy */
+"_Common_InformationHiddenDueToPrivacySettings" = "Information dold på grund av integritet";
+
+/* (No Comment) */
+"_Common_InnerBarMarginsSlider" = "Inre stapelmarginaler";
+
+/* (No Comment) */
+"_Common_InnerBoxMarginsSlider" = "Inre marginaler";
+
+/* (No Comment) */
+"_Common_ItemMarginsSlider" = "Artikelmarginaler";
+
+/* (No Comment) */
+"_Common_ItemSpacingSlider" = "Artikelutrymme";
+
+/* (No Comment) */
+"_Common_ItemSpacingSliderExplanation" = "Anger avståndet mellan personer inom en generation";
+
+/* (No Comment) */
+"_Common_LabelsGroupName" = "Etiketter";
+
+/* (No Comment) */
+"_Common_LeftLineColor" = "Vänsterlinjens färg";
+
+/* (No Comment) */
+"_Common_LeftLineWidth" = "Vänsterlinjens bredd";
+
+/* (No Comment) */
+"_Common_LineColor" = "Linjefärg";
+
+/* ChartLineDashPatternTypes */
+"_Common_LineDashPatternType" = "Linje stänk mönster";
+
+/* (No Comment) */
+"_Common_LineDashPatternType_Long" = "Lång";
+
+/* (No Comment) */
+"_Common_LineDashPatternType_Short" = "Kort";
+
+/* (No Comment) */
+"_Common_LineDashPatternType_ShortGaps" = "Små mellanrum";
+
+/* (No Comment) */
+"_Common_LineDashPatternType_Solid" = "Fast";
+
+/* (No Comment) */
+"_Common_LineDashPatternType_VeryShort" = "Mycket kort";
+
+/* (No Comment) */
+"_Common_LineDistanceFromDestinationObjects" = "Linjeavstånd från destination";
+
+/* (No Comment) */
+"_Common_LineDistanceFromOriginObjects" = "Linjeavstånd från ursprung";
+
+/* (No Comment) */
+"_Common_LineEndingName" = "Linjeslut";
+
+/* (No Comment) */
+"_Common_LineGroupName" = "Linje";
+
+/* (No Comment) */
+"_Common_LinesGroupName" = "Linjer";
+
+/* (No Comment) */
+"_Common_LineWidth" = "Linjebredd";
+
+/* (No Comment) */
+"_Common_Localization" = "Lokalisering";
+
+/* (No Comment) */
+"_Common_LocalizationAndFormatsGroupName" = "Lokalisering och format";
+
+/* (No Comment) */
+"_Common_LocalizationExplanation" = "Ange lokalisering som ska användas för detta diagram. Alla personhändelser, personuppgifter eller familjehändelser och annan text kommer att lokaliseras på det angivna språket";
+
+/* (No Comment) */
+"_Common_MarginsGroupName" = "Marginaler";
+
+/* (No Comment) */
+"_Common_MarkDeadPersons" = "Märk döda personer";
+
+/* (No Comment) */
+"_Common_MaximumRecursionDepth" = "Maximalt djup för återkommande visning";
+
+/* (No Comment) */
+"_Common_MaximumRecursionDepthExplanation" = "Avgör hur många gånger samma person får förekomma i samma diagram innan utvärderingen avslutas. Detta kan förekomma vid inmatningsfel, vid relationer mellan kusiner eller vid incestuösa relationer.";
+
+/* (No Comment) */
+"_Common_MaximumResults" = "Maximala resultat";
+
+/* (No Comment) */
+"_Common_MediaGroupName" = "Media";
+
+/* (No Comment) */
+"_Common_MotherGenerationsSlider" = "Modergenerationer";
+
+/* (No Comment) */
+"_Common_NameAlignment" = "Namnanpassning";
+
+/* (No Comment) */
+"_Common_NameBarColor" = "Stapelfärg för namn";
+
+/* (No Comment) */
+"_Common_NameFont" = "Namntypsnitt";
+
+/* (No Comment) */
+"_Common_NameFormat" = "Personnamnformat";
+
+/* (No Comment) */
+"_Common_NameFormatExplanation" = "Välj det namnformat som ska användas för alla personer i detta specifika diagram.";
+
+/* (No Comment) */
+"_Common_NamesFormatGroupName" = "Namnformat";
+
+/* (No Comment) */
+"_Common_NameTextColor" = "Textfärg för namn";
+
+/* (No Comment) */
+"_Common_NoBackground" = "Ingen bakgrund";
+
+/* (No Comment) */
+"_Common_NormalGroupBackgroundFill" = "Bakgrundsfärg för normal grupp";
+
+/* (No Comment) */
+"_Common_NotesGroupName" = "Anteckningar";
+
+/* (No Comment) */
+"_Common_OmitEmptyPagesWhenPrintingOrExporting" = "Ta bort tomma sidor vid utskrift";
+
+/* Date Ranges */
+"_Common_OnlyEvalulateEntriesInDateRange" = "Utvärdera endast poster i datumintervallet";
+
+/* (No Comment) */
+"_Common_OnlyEvalulateEntriesInDateRangeExplanation" = "Om detta anges kommer endast datum i detta datumintervall att utvärderas - alla andra poster kommer att avfärdas.";
+
+/* (No Comment) */
+"_Common_OtherFont" = "Annan typsnitt";
+
+/* (No Comment) */
+"_Common_OtherTextColor" = "Annan textfärg";
+
+/* (No Comment) */
+"_Common_OverviewGroupName" = "Översikt";
+
+/* (No Comment) */
+"_Common_PageOverlapPoints" = "Sidöverlappning";
+
+/* (No Comment) */
+"_Common_PagesCountX" = "Liggande sidor";
+
+/* (No Comment) */
+"_Common_PagesCountY" = "Stående sidor";
+
+/* (No Comment) */
+"_Common_ParentGenerationsSlider" = "Föräldragenerationer";
+
+/* (No Comment) */
+"_Common_PartnerIndentionSlider" = "Partnerindrag";
+
+/* (No Comment) */
+"_Common_PartnerIndentionSliderExplanation" = "Anger avståndet mellan barnet och barnets partner.";
+
+/* (No Comment) */
+"_Common_PartnersGroupName" = "Partner";
+
+/* (No Comment) */
+"_Common_PersonGroupsName" = "Persongrupper";
+
+/* (No Comment) */
+"_Common_PersonsGroupName" = "Personer";
+
+/* (No Comment) */
+"_Common_PersonWidthSlider" = "Personernas bredd";
+
+/* (No Comment) */
+"_Common_PlaceFormat" = "Ortsformat";
+
+/* (No Comment) */
+"_Common_PlaceFormatExplanation" = "Ange här om fullständigt ortsnamn eller enbart en förkortning ska visas.";
+
+/* (No Comment) */
+"_Common_PlaceholderImageOpacity" = "Opacitet för platshållarbild";
+
+/* (No Comment) */
+"_Common_PlacesFormatGroupName" = "Ortsformat";
+
+/* (No Comment) */
+"_Common_PrintCutMarks" = "Skriv ut klippmarkeringar";
+
+/* (No Comment) */
+"_Common_PrintPageNumbers" = "Skriv ut sidonummer";
+
+/* (No Comment) */
+"_Common_ReformatDatesToSelectedLocale" = "Omformatera datum";
+
+/* (No Comment) */
+"_Common_ReformatDatesToSelectedLocaleExplanation" = "Om det är aktiverat kommer alla datum att formateras för att matcha den angivna lokaliseringen";
+
+/* (No Comment) */
+"_Common_ResultsToCollapse" = "Resultat till sammanslagning";
+
+/* (No Comment) */
+"_Common_RightLineColor" = "Högerlinjens färg";
+
+/* (No Comment) */
+"_Common_RightLineWidth" = "Högerlinjens bredd";
+
+/* (No Comment) */
+"_Common_Rotation" = "Rotation";
+
+/* (No Comment) */
+"_Common_ScaleAllValuesToRelativeValues" = "Visa som relativa värden";
+
+/* (No Comment) */
+"_Common_ScaleAllValuesToRelativeValuesExplanation" = "I stället för absoluta värden, visa alla värden som släktingar för varje givet år.";
+
+/* (No Comment) */
+"_Common_ScaleBrothersAndSisters" = "Skala bröder & systrar";
+
+/* (No Comment) */
+"_Common_ScaleBrothersAndSistersExplanation" = "Om det är aktiverat kommer bröder och systrar till direkt förfader eller ättling av startpersonen att skalas med 50 %";
+
+/* (No Comment) */
+"_Common_ScalingOfBrothersAndSistersSlider" = "Skalning av bröder och systrar";
+
+/* (No Comment) */
+"_Common_ShadowAngle" = "Skuggvinkel";
+
+/* (No Comment) */
+"_Common_ShadowBlur" = "Skuggfläck";
+
+/* (No Comment) */
+"_Common_ShadowColor" = "Skugga färg";
+
+/* (No Comment) */
+"_Common_ShadowColoringFactor" = "Skugga färgning";
+
+/* (No Comment) */
+"_Common_ShadowDistance" = "Skugga avstånd";
+
+/* (No Comment) */
+"_Common_ShadowGroupName" = "Skuggor";
+
+/* (No Comment) */
+"_Common_ShadowLength" = "Skuggans längd";
+
+/* (No Comment) */
+"_Common_ShadowMode" = "Skuggläge";
+
+/* (No Comment) */
+"_Common_ShadowMode_Blurry" = "Suddigt";
+
+/* (No Comment) */
+"_Common_ShadowMode_Flat" = "Platt";
+
+/* (No Comment) */
+"_Common_ShadowMode_None" = "Inget";
+
+/* (No Comment) */
+"_Common_ShadowOpacity" = "Skugga ogenomskinlighet";
+
+/* (No Comment) */
+"_Common_ShowAncestorsOfPartners" = "Visa partners förfäder";
+
+/* (No Comment) */
+"_Common_ShowAncestorsOfPartnersExplanation" = "Om detta alternativ aktiveras visas inte endast förfäderna till den valda startpersonen, utan även förfäderna till startpersonens partner.";
+
+/* (No Comment) */
+"_Common_ShowAncestralFileNumberID" = "Visa fäderneärvd filnummer ID";
+
+/* (No Comment) */
+"_Common_ShowBrothersAndSisters" = "Visa bröder och systrar";
+
+/* (No Comment) */
+"_Common_ShowBrothersAndSistersOfAncestors" = "Visa förfäders bröder och systrar";
+
+/* (No Comment) */
+"_Common_ShowBrothersAndSistersOfStartPerson" = "Visa bröder och systrar till den valda personen";
+
+/* (No Comment) */
+"_Common_ShowBrothersAndSistersOfStartPersonExplanation" = "Med detta alternativ kan du inkludera bröder och systrar för den aktuellt valda personen i detta diagram.";
+
+/* (No Comment) */
+"_Common_ShowDisplayValuesOnBars" = "Visa värden på staplar";
+
+/* (No Comment) */
+"_Common_ShowFamilySearchID" = "Visa FamilySearch-ID";
+
+/* (No Comment) */
+"_Common_ShowGedcomID" = "Visa GEDCOM-ID";
+
+/* (No Comment) */
+"_Common_ShowGroupsForPartnerItems" = "Visa grupper för partner";
+
+/* (No Comment) */
+"_Common_ShowKinships" = "Visa släktskap";
+
+/* (No Comment) */
+"_Common_ShowKinshipsExplanation" = "Ange om släktskapet i förhållande till den valda startpersonen visas för varje person i detta diagram.";
+
+/* (No Comment) */
+"_Common_ShowLabels" = "Visa etiketter";
+
+/* (No Comment) */
+"_Common_ShowNotes" = "Visa anteckningar";
+
+/* (No Comment) */
+"_Common_ShowNumberingSystem" = "Visa numreringssystem";
+
+/* (No Comment) */
+"_Common_ShowOnlyBloodlines" = "Endast korsa direkta blodslinjer";
+
+/* (No Comment) */
+"_Common_ShowOnlySpecificPersonGroups" = "Visa endast specifika persongrupper";
+
+/* (No Comment) */
+"_Common_ShowOnlySpecificPersonGroupsExplanation" = "Om det är aktiverat kommer endast personer i dessa persongrupper att korsas. Personer som inte ingår i dessa persongrupper kommer inte att visas, bortsett från startpersonen.";
+
+/* (No Comment) */
+"_Common_ShowPartnersOfStartItem" = "Visa partner till den valda personen";
+
+/* (No Comment) */
+"_Common_ShowPersonAgeAtEvent" = "Visa personernas ålder vid tidpunkten för händelsen";
+
+/* (No Comment) */
+"_Common_ShowPersonBirthDate" = "Visa personens födelsedatum";
+
+/* (No Comment) */
+"_Common_ShowPersonDeathDate" = "Visa personens dödsdatum";
+
+/* (No Comment) */
+"_Common_ShowPersonEventCause" = "Visa orsak till personhändelse";
+
+/* (No Comment) */
+"_Common_ShowPersonEventDescription" = "Visa beskrivning av personhändelse";
+
+/* (No Comment) */
+"_Common_ShowPersonEventIcons" = "Visa personhändelseikoner";
+
+/* (No Comment) */
+"_Common_ShowPersonEventLocation" = "Visa personhändelseorter";
+
+/* (No Comment) */
+"_Common_ShowPersonImages" = "Visa personbilder";
+
+/* (No Comment) */
+"_Common_ShowReferenceNumber" = "Visa referensnummer";
+
+/* (No Comment) */
+"_Common_SideBarWidthSlider" = "Sidolistbredd";
+
+/* (No Comment) */
+"_Common_SpacingGroupName" = "Mellanrum";
+
+/* (No Comment) */
+"_Common_SpacingSlider" = "Mellanrum";
+
+/* (No Comment) */
+"_Common_StartAngleSlider" = "Start vinkel";
+
+/* (No Comment) */
+"_Common_StartGenerationScale" = "Generationens startskala";
+
+/* (No Comment) */
+"_Common_StartGenerationScaleExpanation" = "Anger hur startgenerationen ska skalas i förhållande till slutgenerationen";
+
+/* (No Comment) */
+"_Common_StrokeGroupName" = "Kant";
+
+/* (No Comment) */
+"_Common_StyleGroupName" = "Stil";
+
+/* (No Comment) */
+"_Common_SubTitle" = "Underrubrik";
+
+/* (No Comment) */
+"_Common_SubTitleColor" = "Färg för underrubrik";
+
+/* (No Comment) */
+"_Common_SubTitleCustomTextColor" = "Anpassad färg för underrubrik";
+
+/* (No Comment) */
+"_Common_SubTitleEnabledCheckbox" = "Visa underrubrik";
+
+/* (No Comment) */
+"_Common_SubTitleFont" = "Typsnitt för underrubrik";
+
+/* (No Comment) */
+"_Common_SubTitleGroupName" = "Underrubrik";
+
+/* (No Comment) */
+"_Common_SubTitleTextColoringMode" = "Färgning för underrubrik";
+
+/* (No Comment) */
+"_Common_TextColor" = "Textfärg";
+
+/* (No Comment) */
+"_Common_TextColoringMode" = "Textfärgning";
+
+/* (No Comment) */
+"_Common_TextColoringMode_ByGenerationRainbow" = "Efter generation (regnbåge)";
+
+/* (No Comment) */
+"_Common_TextColoringMode_ContrastToBackgroundColor" = "Kontrast till bakgrund";
+
+/* (No Comment) */
+"_Common_TextColoringMode_ContrastToBackgroundColorTinted" = "Tonad kontrast till bakgrund";
+
+/* (No Comment) */
+"_Common_TextColoringMode_Custom" = "Anpassa";
+
+/* (No Comment) */
+"_Common_TextColoringMode_Gender" = "Efter kön";
+
+/* (No Comment) */
+"_Common_TextGroupName" = "Text";
+
+/* (No Comment) */
+"_Common_ThemeGroupName" = "Tema";
+
+/* (No Comment) */
+"_Common_Title" = "Titel";
+
+/* (No Comment) */
+"_Common_TitleColor" = "Titelfärg";
+
+/* (No Comment) */
+"_Common_TitleCustomTextColor" = "Anpassad titelfärg";
+
+/* (No Comment) */
+"_Common_TitleEnabledCheckbox" = "Visa titel";
+
+/* (No Comment) */
+"_Common_TitleFont" = "Titeltypsnitt";
+
+/* (No Comment) */
+"_Common_TitleGroupName" = "Titel";
+
+/* (No Comment) */
+"_Common_TitleImageMode" = "Titelbild";
+
+/* (No Comment) */
+"_Common_TitleTextColoringMode" = "Titelfärgning";
+
+/* (No Comment) */
+"_Common_ToDate" = "Till datum";
+
+/* (No Comment) */
+"_Common_TopImageHeight" = "Höjd för toppbild";
+
+/* (No Comment) */
+"_Common_TopLineColor" = "Topplinjens färg";
+
+/* (No Comment) */
+"_Common_TopLineWidth" = "Topplinjens bredd";
+
+/* (No Comment) */
+"_Common_TopMarginSlider" = "Toppmarginal";
+
+/* (No Comment) */
+"_Common_TotalAngleSlider" = "Total vinkel";
+
+/* (No Comment) */
+"_Common_TypeFont" = "Typ typsnitt";
+
+/* (No Comment) */
+"_Common_TypeTextColor" = "Typ textfärg";
+
+/* (No Comment) */
+"_Common_UniformColor" = "Enhetlig färg";
+
+/* (No Comment) */
+"_Common_UniformColorForColoringModeExplanation" = "Genom att välja \"Enhetlig färg\" från inställningen Färgläge, kan du ange en enhetlig personfärg med denna inställning.";
+
+/* (No Comment) */
+"_Common_VerticalSpacing" = "Vertikalt utrymme";
+
+/* (No Comment) */
+"_Common_WidthPerYearSlider" = "Bredd per år";
+
+/* (No Comment) */
+"_Common_XAxisLabel" = "X-axel etikett";
+
+/* (No Comment) */
+"_Common_XAxisLabelColor" = "X-axel etikettfärg";
+
+/* (No Comment) */
+"_Common_XAxisLabelFont" = "X-axel etikettstypsnitt";
+
+/* (No Comment) */
+"_Common_XAxisLineColor" = "X-axel linjefärg";
+
+/* (No Comment) */
+"_Common_XLineLabelColor" = "X-linje etikettfärg";
+
+/* (No Comment) */
+"_Common_XLineLabelFont" = "X-linje etikettstypsnitt";
+
+/* (No Comment) */
+"_Common_XLinesWidth" = "X-linjebredd";
+
+/* (No Comment) */
+"_Common_XScale" = "Breddskalning";
+
+/* (No Comment) */
+"_Common_YAxisLabel" = "Y-axel etikett";
+
+/* (No Comment) */
+"_Common_YAxisLabelColor" = "Y-axel etikettfärg";
+
+/* (No Comment) */
+"_Common_YAxisLabelFont" = "Y-axel etikettstypsnitt";
+
+/* (No Comment) */
+"_Common_YAxisLineColor" = "Y-axel linjefärg";
+
+/* (No Comment) */
+"_Common_YLineLabelColor" = "Y-linje etikettfärg";
+
+/* (No Comment) */
+"_Common_YLineLabelFont" = "Y-linje etikettstypsnitt";
+
+/* (No Comment) */
+"_Common_YLinesWidth" = "Y-linjebredd";
+
+/* (No Comment) */
+"_Common_YScale" = "Höjd för skalning";
+
+/* DistributionChartBuilder */
+"_DistributionChartBuilder_DistributionType" = "Distributionstyp";
+
+/* (No Comment) */
+"_DistributionChartBuilder_DistributionTypeExplanation" = "Ange här vilken typ av distributionsdiagram du vill skapa med dina släktträdsdata.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_BirthCountry" = "Fördelning av födelseländer";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_BirthCountry_Description" = "Födelseländer i ditt släktträd som visar var personerna föddes.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_BirthPlace" = "Fördelning av födelseorter";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_BirthPlace_Description" = "Födelseorterna i ditt släktträd som visar var personerna är födda.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_DeathCountry" = "Fördelning av dödsländer";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_DeathCountry_Description" = "Dödsländer i ditt släktträd som visar var personerna dog.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_DeathPlace" = "Fördelning av dödsorter";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_DeathPlace_Description" = "Dödsorter i ditt släktträd som visar var personerna dog.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_EventValues_Illnesses" = "Fördelning av sjukdomar";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_EventValues_Illnesses_Description" = "Se vilka sjukdomar som har angetts för personerna i ditt släktträd.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_EventValues_Occupations" = "Fördelning av yrken";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_EventValues_Occupations_Description" = "Vilken typ av yrken har personerna i ditt släktträd haft under åren?";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_CasteName" = "Fördelning av kastnamn";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_CasteName_Description" = "Vanligen använda kastnamn efter år.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_EyeColor" = "Fördelning av ögonfärger";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_EyeColor_Description" = "Vilka ögonfärger var de vanligaste i ditt släktträd genom åren?";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_NationalOrTribalOrigin" = "Fördelning av härkomst";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_NationalOrTribalOrigin_Description" = "Fördelning av personerna härkomstfakta per år.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_Race" = "Etnisk ursprungsfördelning";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_Race_Description" = "Etnisk ursprungsfördelning i ditt släktträd efter år.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_SkinColor" = "Fördelning av hudfärger";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_SkinColor_Description" = "Vilka hudfärger var vanliga i ditt släktträd tidigare?";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_FirstName" = "Fördelning av förnamn";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_FirstName_Description" = "Användning av förnamn i ditt släktträd efter år.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Gender" = "Fördelning av kön";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Gender_Description" = "Fördelning av könen i ditt släktträd efter år.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_LastName" = "Fördelning av efternamn";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_LastName_Description" = "Användning av efternamn i ditt släktträd efter år.";
+
+/* (No Comment) */
+"_DistributionValuesBarGeneratorChartCompositorObject_ColoringMode_Custom" = "Anpassad färg";
+
+/* (No Comment) */
+"_DistributionValuesBarGeneratorChartCompositorObject_ColoringMode_Rainbow" = "Regnbåge";
+
+/* EditorTextGeneratorChartCompositorObject */
+"_EditorTextGeneratorChartCompositorObject_NewTextTitle" = "Ny text";
+
+/* (No Comment) */
+"_Error_NoParentsForPersonFoundInFamilyTreeError" = "Kunde inte hitta föräldrarna till utvald person.";
+
+/* Errors */
+"_Error_NoPersonFoundInFamilyTreeError" = "Inga personer har hittills skrivits in i detta släktträd. Använd ’Redigera avsnitt’ för att ange personer och familjer för att kunna visa detta diagram.";
+
+/* (No Comment) */
+"_Error_NoSelectedPersonSetError" = "Ingen person har valts för detta diagram.";
+
+/* (No Comment) */
+"_Error_NotEnoughDataPresentError" = "Det finns inte tillräckligt med data i släktträdet för att visa detta diagram.";
+
+/* (No Comment) */
+"_FanChartBuilder_ExpandVerySmallFanItemsIfPossible" = "Förstora om möjligt mycket små fläktsegment";
+
+/* (No Comment) */
+"_FanChartBuilder_ExpandVerySmallFanItemsIfPossibleExplanation" = "Om ett segment i fläktdiagrammet är väldigt litet kommer det att utvidgas utöver gränserna för det överordnade fläktdiagramsegmentet för mer utrymme.";
+
+/* FanChartBuilder */
+"_FanChartBuilder_Mode" = "Läge";
+
+/* (No Comment) */
+"_FanChartBuilder_Mode_Ancestors" = "Förfäder";
+
+/* (No Comment) */
+"_FanChartBuilder_Mode_Descendants" = "Ättlingar";
+
+/* (No Comment) */
+"_FanChartBuilder_ModeExplanation" = "Ange här om fläktdiagrammet ska visa förfäder eller ättlingar till den valda personen";
+
+/* Genogram */
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventPosition" = "Position av händelser & fakta";
+
+/* (No Comment) */
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventPosition_Right" = "Höger";
+
+/* (No Comment) */
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventsBackground" = "Bakgrund av händelser & fakta";
+
+/* (No Comment) */
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventsBackground_Filled" = "Fylld";
+
+/* (No Comment) */
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventsBackground_None" = "Inget";
+
+/* (No Comment) */
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventsPosition_Below" = "Nedan";
+
+/* GridChartObject */
+"_GridGeneratorChartCompositorObjectConfiguration_ColorMode" = "Färgningsläge";
+
+/* (No Comment) */
+"_GridGeneratorChartCompositorObjectConfiguration_ColorMode_ContrastToBackground" = "Kontrast till bakgrund";
+
+/* (No Comment) */
+"_GridGeneratorChartCompositorObjectConfiguration_ColorMode_Custom" = "Anpassa";
+
+/* (No Comment) */
+"_RelationshipChartBuilder_NoRelationError" = "Ingen relation kunde fastställas mellan de valda personerna";
+
+/* (No Comment) */
+"_RelationshipChartBuilder_PathIsBloodline" = "Blodslinje";
+
+/* (No Comment) */
+"_RelationshipChartBuilder_PathIsNotBloodline" = "Ingen blodslinje";
+
+/* (No Comment) */
+"_RelationshipChartBuilder_PathWithNStepsIsIsNotBloodline" = "Väg med %ld steg (%@)";
+
+/* RelationshipChartBuilder */
+"_RelationshipChartBuilder_SelectDifferentPersonsError" = "Skapa ett relationsdiagram genom att märka två olika personer";
+
+/* (No Comment) */
+"_RelationshipChartBuilder_SelectedRelationshipPath" = "Tillgängliga vägar till släkting";
+
+/* (No Comment) */
+"_RelationshipChartBuilder_SelectedRelationshipPathExplanation" = "Om det finns flera sökvägar mellan start och målperson i ditt släktträd kan du välja olika möjliga vägar här.";
+
+/* SegmentedPortraitPersonBuilderItemGeneratorChartCompositorObjectConfiguration_BarStyle */
+"_SegmentedPortraitPersonBuilderItemGeneratorChartCompositorObjectConfiguration_BarStyle_Arrow" = "Pil";
+
+/* (No Comment) */
+"_SegmentedPortraitPersonBuilderItemGeneratorChartCompositorObjectConfiguration_BarStyle_Diagonal" = "Diagonal";
+
+/* (No Comment) */
+"_SegmentedPortraitPersonBuilderItemGeneratorChartCompositorObjectConfiguration_BarStyle_Round" = "Rundad";
+
+/* (No Comment) */
+"_SegmentedPortraitPersonBuilderItemGeneratorChartCompositorObjectConfiguration_BarStyle_Wave" = "Våg";
+
+/* _SideBarPersonBuilderItemGeneratorChartCompositorObject */
+"_SideBarPersonBuilderItemGeneratorChartCompositorObject_SideBarPosition" = "Sidolistposition";
+
+/* (No Comment) */
+"_SideBarPersonBuilderItemGeneratorChartCompositorObject_SideBarPosition_Bottom" = "Botten";
+
+/* (No Comment) */
+"_SideBarPersonBuilderItemGeneratorChartCompositorObject_SideBarPosition_Left" = "Vänster";
+
+/* (No Comment) */
+"_SideBarPersonBuilderItemGeneratorChartCompositorObject_SideBarPosition_Right" = "Höger";
+
+/* (No Comment) */
+"_SideBarPersonBuilderItemGeneratorChartCompositorObject_SideBarPosition_Top" = "Topp";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_AssociatedPersonsSpacing" = "Utrymme för präglande personer";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_AssociatedPersonsSpacingExplanation" = "Ange avståndet mellan personer och präglande personer här.";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowAssociateRelationsOfChildren" = "Visa präglande personer till barn";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowAssociateRelationsOfParents" = "Visa präglande personer till föräldrar";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowAssociateRelationsOfPartners" = "Visa präglande personer till partner";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowAssociateRelationsOfStartPerson" = "Visa präglande personer till startperson";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowChildren" = "Visa barn";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowGrandparents" = "Visa mor- och farföräldrar";
+
+/* SociogramChartBuilderConfiguration */
+"_SociogramChartBuilderConfiguration_ShowParents" = "Visa föräldrar";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowPartners" = "Visa partner";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_AgeAxisLabel" = "Ålder";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_ChildsAxisLabel" = "Barn";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_CountAxisLabel" = "Län";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_CountryAxisLabel" = "Land";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_DivorcesAxisLabel" = "Skilsmässor";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_EventOrFactAxisLabel" = "Händelse eller fakta";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_FactValueAxisLabel" = "Faktavärde";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_FamiliesAxisLabel" = "Familjer";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_GenderAxisLabel" = "Kön";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_MarriagesAxisLabel" = "Giftermål";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_MonthAxisLabel" = "Månad";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_PersonFirstNamesAxisLabel" = "Personens förnamn";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_PersonLastNamesAxisLabel" = "Personens efternamn";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_PersonsAxisLabel" = "Personer";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_PersonTitleAxisLabel" = "Persontitlar";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_PlaceAxisLabel" = "Ort";
+
+/* StatisticsChartBuilder */
+"_StatisticsChartBuilder_StatisticsType" = "Typ av statistik";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_StatisticsTypeExplanation" = "Ange här vilken typ av statistik du vill skapa från dina släktträdsdata.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtChristening" = "Ålder vid dop";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtChristening_Description" = "Åldern hos personer vid dop.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtDeath" = "Ålder vid död";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtDeath_Description" = "Visar hur lång tid personer levde i ditt släktträd.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtDivorce" = "Ålder vid skilsmässa";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtDivorce_Description" = "Visar ett diagram vid vilken ålder personer skildes.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtMarriage" = "Ålder vid äktenskap";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtMarriage_Description" = "Statistik som visar när personer i ditt släktträd gifte sig.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtRetirement" = "Ålder vid pensionering";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtRetirement_Description" = "Visar vid vilken ålder personer i ditt släktträd gick i pension.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeOfChildAtParentsDeath" = "Barnets ålder vid föräldrarnas död";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeOfChildAtParentsDeath_Description" = "Hur gamla var barnen när de förlorade sin mamma eller pappa i ditt släktträd?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeOfParentsAtBirthOfChild" = "Föräldrarnas ålder vid barnets födelse";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeOfParentsAtBirthOfChild_Description" = "Beräknar åldern för föräldrarna när deras barn föddes.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeOfPersonAtDeathOfPartner" = "Personens ålder när partnern dog";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeOfPersonAtDeathOfPartner_Description" = "Statistik över hur personens ålder när deras partner dog";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_BirthMonth" = "Födelsemånad";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_BirthMonth_Description" = "I vilken månad var de flesta personer födda?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_ChildsPerFamily" = "Antal barn per familj";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_ChildsPerFamily_Description" = "Antal barn per familj i ditt släktträd.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_ConclusionTypes" = "Händelse- eller faktatyper";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_ConclusionTypes_Description" = "Statistik över de vanligaste typerna av händelser eller fakta.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_DeathMonth" = "Dödsmånad";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_DeathMonth_Description" = "Månaderna i ditt släktträd där de flesta personerna gick bort.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_DivorceMonth" = "Månad för skilsmässa";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_DivorceMonth_Description" = "Månaderna där personer i ditt släktträd skildes.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_CasteName" = "Fakta: kastnamn";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_CasteName_Description" = "Vilken var den vanligaste kasten i ditt släktträd?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_EyeColor" = "Fakta: ögonfärg";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_EyeColor_Description" = "Statistik om ögonfärg på personer i ditt släktträd.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_NationalOrTribalOrigin" = "Fakta: härkomst";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_NationalOrTribalOrigin_Description" = "Den vanligaste härkomsten för personer i ditt träd.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_Race" = "Fakta: etniskt ursprung";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_Race_Description" = "Statistik över det etniska ursprunget av personer i ditt släktträd.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_SkinColor" = "Fakta: hudfärg";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_SkinColor_Description" = "Statistik om hudfärgfakta i ditt träd.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_FirstNames" = "Fördelning av förnamn";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_FirstNames_Description" = "Alla förnamn som vanligtvis används i ditt släktträd.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Gender" = "Kön";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Gender_Description" = "Fördelning av personers kön i ditt träd.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_LastNames" = "Fördelning av efternamn";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_LastNames_Description" = "De vanligaste efternamn som används i ditt släktträd.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_MarriageMonth" = "Vigselmånad";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_MarriageMonth_Description" = "Vilken månad valde man vanligtvis att gifta sig?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_FamilyEvent_Marriage;topLevelGroupingLocationString" = "Vigselland";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_FamilyEvent_Marriage;topLevelGroupingLocationString_Description" = "De länder som dina släktingar valde att gifta sig i.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_FamilyEvent_Marriage;veryShortLocationString" = "Vigselort";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_FamilyEvent_Marriage;veryShortLocationString_Description" = "I vilken stad eller ort gifte sig personer i ditt släktträd?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Birth;topLevelGroupingLocationString" = "Födelseland";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Birth;topLevelGroupingLocationString_Description" = "Ursprungslandet för alla personer.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Birth;veryShortLocationString" = "Födelseort";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Birth;veryShortLocationString_Description" = "Från vilken stad kommer de flesta personerna i ditt släktträd?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Burial;topLevelGroupingLocationString" = "Land där begravningen ägde rum";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Burial;topLevelGroupingLocationString_Description" = "I vilket land är de flesta av dina släktingar begravda?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Burial;veryShortLocationString" = "Begravningsort";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Burial;veryShortLocationString_Description" = "Det vanligaste stället för begravning i ditt släktträd.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Christening;topLevelGroupingLocationString" = "Land för dop";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Christening;topLevelGroupingLocationString_Description" = "Landet de flesta av dina släktingar blev döpta.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Christening;veryShortLocationString" = "Ort för dop";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Christening;veryShortLocationString_Description" = "I vilken stad blev personer i ditt släktträd döpta?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Death;topLevelGroupingLocationString" = "Land för dödsfall";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Death;topLevelGroupingLocationString_Description" = "Statistik över landet där de flesta personer i ditt släktträd har dött.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Death;veryShortLocationString" = "Dödsort";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Death;veryShortLocationString_Description" = "Staden eller orten där de flesta personer i ditt släktträd har dött.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_TimeBetweenMarriageAndBirthOfChild" = "Tid mellan vigsel och födelse av barn";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_TimeBetweenMarriageAndBirthOfChild_Description" = "Hur länge var tiden mellan vigseln och barnens födelse? Negativa värden betyder att barnet föddes före äktenskapet.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Titles" = "Titelfördelning";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Titles_Description" = "Statistik över namntitlar för alla personer.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Birth" = "Födelseår";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Birth_Description" = "Visar vilka år de flesta personer i ditt släktträd föddes.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Burial" = "Begravningsår";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Burial_Description" = "Statistik över när personer i ditt släktträd blev begravda";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Christening" = "År för dop";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Christening_Description" = "Statistik över vilket år personer i ditt släktträd döptes.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Death" = "Dödsår";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Death_Description" = "Året för varje dödsfall i ditt släktträd";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_YearAxisLabel" = "År";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_YearsAxisLabel" = "År";
+
+/* (No Comment) */
+"_StyleNames_AgeFanChartCompositorStyle" = "Åldersspridning";
+
+/* (No Comment) */
+"_StyleNames_BlackBorderBoxedChartCompositorStyle" = "Svart gräns";
+
+/* (No Comment) */
+"_StyleNames_BlackBoxedChartCompositorStyle" = "Svarta lådor";
+
+/* (No Comment) */
+"_StyleNames_BlackWhiteFanChartCompositorStyle" = "Svart/vit spridning";
+
+/* (No Comment) */
+"_StyleNames_BlueTextChartCompositorStyle" = "Blå text";
+
+/* (No Comment) */
+"_StyleNames_BlueWhiteBoxedChartCompositorStyle" = "Blå vita lådor";
+
+/* (No Comment) */
+"_StyleNames_ByAgeBoxedChartCompositorStyle" = "Efter ålderslådor";
+
+/* (No Comment) */
+"_StyleNames_ByYearFanChartCompositorStyle" = "Efter årsspridning";
+
+/* (No Comment) */
+"_StyleNames_ByYearGradientFanChartCompositorStyle" = "Efter år i solfjädersdiagram";
+
+/* (No Comment) */
+"_StyleNames_ComicWhiteBoxedChartCompositorStyle" = "Comic Boxes";
+
+/* (No Comment) */
+"_StyleNames_DarkBlueSideBarChartCompositorStyle" = "Mörkblå";
+
+/* (No Comment) */
+"_StyleNames_DarkBoxedChartCompositorStyle" = "Night Boxes";
+
+/* (No Comment) */
+"_StyleNames_DarkBoxedChartCompositorStyle2" = "Night Boxes 2";
+
+/* (No Comment) */
+"_StyleNames_DarkCardChartCompositorStyle" = "Night Cards";
+
+/* (No Comment) */
+"_StyleNames_DarkCircularPersonChartCompositorStyle" = "Mörk cirkulär";
+
+/* (No Comment) */
+"_StyleNames_DarkDistributionChartCompositorStyle" = "Mörk";
+
+/* (No Comment) */
+"_StyleNames_DarkFanChartCompositorStyle" = "Nattspridning";
+
+/* (No Comment) */
+"_StyleNames_DarkFlatBarStatisticsChartCompositorStyle" = "Mörka platta staplar";
+
+/* (No Comment) */
+"_StyleNames_DarkLinesStatisticsChartCompositorStyle" = "Mörka linjer";
+
+/* (No Comment) */
+"_StyleNames_DarkNameBarChartCompositorStyle" = "Mörka namnstaplar";
+
+/* (No Comment) */
+"_StyleNames_DarkPortraitBoxChartCompositorStyle" = "Mörka porträtt";
+
+/* (No Comment) */
+"_StyleNames_DarkTextChartCompositorStyle" = "Mörk text";
+
+/* (No Comment) */
+"_StyleNames_DarkTimelineBarChartCompositorStyle" = "Mörka staplar";
+
+/* (No Comment) */
+"_StyleNames_GenderPennantChartCompositorStyle" = "Flagga för kön";
+
+/* (No Comment) */
+"_StyleNames_GenderTextChartCompositorStyle" = "Text för kön";
+
+/* (No Comment) */
+"_StyleNames_GreenBlueCardChartCompositorStyle" = "Gröna/blå kort";
+
+/* (No Comment) */
+"_StyleNames_GreenBoxedBarChartCompositorStyle" = "Gröna stapellådor";
+
+/* (No Comment) */
+"_StyleNames_GreenBoxedChartCompositorStyle" = "Gröna lådor";
+
+/* (No Comment) */
+"_StyleNames_LightBarsFanChartCompositorStyle" = "Ljusa staplar spridning";
+
+/* (No Comment) */
+"_StyleNames_LightBarsFanChartCompositorStyle2" = "Ljusa staplar spridning 2";
+
+/* Style Names */
+"_StyleNames_LightBoxedChartCompositorStyle" = "Ljusa lådor";
+
+/* (No Comment) */
+"_StyleNames_LightBoxedChartCompositorStyle2" = "Runda ljusa lådor";
+
+/* (No Comment) */
+"_StyleNames_LightBoxedChartCompositorStyle3" = "Könslådor";
+
+/* (No Comment) */
+"_StyleNames_LightCardChartCompositorStyle" = "Ljusa kort";
+
+/* (No Comment) */
+"_StyleNames_LightCardChartCompositorStyle2" = "Ljusa kort 2";
+
+/* (No Comment) */
+"_StyleNames_LightCircularPersonChartCompositorStyle" = "Ljus cirkulär";
+
+/* (No Comment) */
+"_StyleNames_LightDistributionChartCompositorStyle" = "Gradienter";
+
+/* (No Comment) */
+"_StyleNames_LightFanChartCompositorStyle" = "Ljus spridning";
+
+/* (No Comment) */
+"_StyleNames_LightFlatBarStatisticsChartCompositorStyle" = "Ljusa plana staplar";
+
+/* (No Comment) */
+"_StyleNames_LightGenderFanChartCompositorStyle" = "Ljus könsspridning";
+
+/* (No Comment) */
+"_StyleNames_LightGenderFanChartCompositorStyle2" = "Ljus könsspridning 2";
+
+/* (No Comment) */
+"_StyleNames_LightGenogramChartCompositorStyle" = "Ljus genogram";
+
+/* (No Comment) */
+"_StyleNames_LightGenogramChartCompositorStyle2" = "Ljus genogram 2";
+
+/* (No Comment) */
+"_StyleNames_LightGenogramChartCompositorStyle3" = "Ljus genogram 3";
+
+/* (No Comment) */
+"_StyleNames_LightGenogramChartCompositorStyle4" = "Ljus genogram 4";
+
+/* (No Comment) */
+"_StyleNames_LightLinesStatisticsChartCompositorStyle" = "Ljusa linjer";
+
+/* (No Comment) */
+"_StyleNames_LightNameBarChartCompositorStyle" = "Ljusa namnstaplar";
+
+/* (No Comment) */
+"_StyleNames_LightPortraitBoxChartCompositorStyle" = "Ljusa porträtt";
+
+/* (No Comment) */
+"_StyleNames_LightPortraitBoxOnDarkBackgroundChartCompositorStyle" = "Mörka porträtt 2";
+
+/* (No Comment) */
+"_StyleNames_LightTextChartCompositorStyle" = "Svart och vitt";
+
+/* (No Comment) */
+"_StyleNames_LightTimelineBackgroundBarChartCompositorStyle" = "Ljusa bakgrundsstaplar";
+
+/* (No Comment) */
+"_StyleNames_LightTimelineBarChartCompositorStyle" = "Ljusa staplar";
+
+/* (No Comment) */
+"_StyleNames_LightTimelineFromToChartCompositorStyle" = "Ljusa enkla staplar";
+
+/* (No Comment) */
+"_StyleNames_LightTimelineFromToChartCompositorStyle2" = "Ljusa enkla staplar 2";
+
+/* (No Comment) */
+"_StyleNames_MagentaBoxedBarChartCompositorStyle" = "Magenta stapellådor";
+
+/* (No Comment) */
+"_StyleNames_MagentaSimpleCircleOnDarkBackgroundChartCompositorStyle" = "Magenta cirklar";
+
+/* (No Comment) */
+"_StyleNames_OrangeCyanCardChartCompositorStyle" = "Orange/cyan kort";
+
+/* (No Comment) */
+"_StyleNames_OrangeCyanSimpleCircleOnDarkBackgroundChartCompositorStyle" = "Orange/cyan cirklar";
+
+/* (No Comment) */
+"_StyleNames_OrganicCircularPersonChartCompositorStyle" = "Organisk cirkulär";
+
+/* (No Comment) */
+"_StyleNames_OrganicOrangeCyanCircularPersonChartCompositorStyle" = "Organisk orange/cyan cirkulär";
+
+/* (No Comment) */
+"_StyleNames_OrganicSimpleCircleChartCompositorStyle" = "Organiska cirklar";
+
+/* (No Comment) */
+"_StyleNames_PedigreeBoxedBarChartCompositorStyle" = "Stamtavla stapellådor";
+
+/* (No Comment) */
+"_StyleNames_PedigreePennantChartCompositorStyle" = "Flagga för stamtavla";
+
+/* (No Comment) */
+"_StyleNames_PedigreeSideBarChartCompositorStyle" = "Kulört stamtavla med stapel till höger";
+
+/* (No Comment) */
+"_StyleNames_RainbowBoxedBarChartCompositorStyle" = "Regnbågsfärgade stapellådor";
+
+/* (No Comment) */
+"_StyleNames_RainbowPennantChartCompositorStyle" = "Regnbågsfärgad flagga";
+
+/* (No Comment) */
+"_StyleNames_RainbowTextChartCompositorStyle" = "Regnbågstext";
+
+/* (No Comment) */
+"_StyleNames_RedTextChartCompositorStyle" = "Röd text";
+
+/* (No Comment) */
+"_StyleNames_SunsetBoxedBarChartCompositorStyle" = "Solnedgångsfärgade stapellådor";
+
+/* (No Comment) */
+"_StyleNames_SunsetBoxedChartCompositorStyle" = "Solnedgångslådor";
+
+/* (No Comment) */
+"_StyleNames_SunsetCardChartCompositorStyle" = "Solnedgångskort";
+
+/* (No Comment) */
+"_StyleNames_SunsetCircularPersonChartCompositorStyle" = "Solnedgång cirkulär";
+
+/* (No Comment) */
+"_StyleNames_SunsetDistributionChartCompositorStyle" = "Solnedgång";
+
+/* (No Comment) */
+"_StyleNames_SunsetFanChartCompositorStyle" = "Solnedgångsspridning";
+
+/* (No Comment) */
+"_StyleNames_SunsetFlatBarStatisticsChartCompositorStyle" = "Solnedgång plana staplar";
+
+/* (No Comment) */
+"_StyleNames_TraditionalFanChartCompositorStyle" = "Traditionell";
+
+/* (No Comment) */
+"_StyleNames_TraditionalGradientFanChartCompositorStyle" = "Traditionella gradienter";
+
+/* (No Comment) */
+"_StyleNames_TypewriterTextChartCompositorStyle" = "Skrivmaskin";
+
+/* (No Comment) */
+"_StyleNames_TypewriterTimelineBarChartCompositorStyle" = "Skrivmaskin";
+
+/* (No Comment) */
+"_StyleNames_VeryLightPedigreeGradientFanChartCompositorStyle" = "Släktskapsgrad i solfjädersdiagram";
+
+/* (No Comment) */
+"_StyleNames_VioletCardChartCompositorStyle" = "Violetta kort";
+
+/* (No Comment) */
+"_StyleNames_WhiteBoxedChartCompositorStyle" = "Vita lådor";
+
+/* (No Comment) */
+"_StyleNames_WhiteCardChartCompositorStyle" = "Vita kort";
+
+/* (No Comment) */
+"_StyleNamesBlueDiagonalSegmentedPortraitChartCompositorStyle" = "Blå stiliserade lådor";
+
+/* (No Comment) */
+"_StyleNamesBluePolaroidChartCompositorStyle" = "Blå polaroid";
+
+/* (No Comment) */
+"_StyleNamesBottomSideBarChartCompositorStyle" = "Bottenpelare";
+
+/* (No Comment) */
+"_StyleNamesDarkBarPortraitCompositorStyle" = "Mörka stapelporträtt";
+
+/* (No Comment) */
+"_StyleNamesDarkPolaroidChartCompositorStyle" = "Mörk polaroid";
+
+/* (No Comment) */
+"_StyleNamesFloatingRainbowSideBarChartCompositorStyle" = "Flytande regnbågsstaplar";
+
+/* (No Comment) */
+"_StyleNamesGenderBarPortraitCompositorStyle" = "Stapelporträtt för kön";
+
+/* (No Comment) */
+"_StyleNamesLargeBarPortraitCompositorStyle" = "Stora stapelporträtt";
+
+/* (No Comment) */
+"_StyleNamesLightBlueBarPortraitCompositorStyle" = "Ljusblå stapelporträtt";
+
+/* (No Comment) */
+"_StyleNamesLightWaveSegmentedPortraitChartCompositorStyle" = "Ljusa stiliserade lådor";
+
+/* (No Comment) */
+"_StyleNamesPedigreeBarPortraitCompositorStyle" = "Stamtavla stapelporträtt";
+
+/* (No Comment) */
+"_StyleNamesPedigreeRoundSegmentedPortraitChartCompositorStyle" = "Stamtavla runda stiliserade lådor";
+
+/* (No Comment) */
+"_StyleNamesPedigreeSegmentedPortraitChartCompositorStyle" = "Stamtavla stiliserade lådor";
+
+/* (No Comment) */
+"_StyleNamesRainbowSegmentedPortraitChartCompositorStyle" = "Regnbåge stiliserade lådor";
+
+/* (No Comment) */
+"_StyleNamesRainbowSideBarChartCompositorStyle" = "Regnbågsstaplar";
+
+/* (No Comment) */
+"_StyleNamesSimplePolaroidChartCompositorStyle" = "Polaroid";
+
+/* (No Comment) */
+"_StyleNamesSunsetPolaroidChartCompositorStyle" = "Polaroid solnedgång";
+
+/* (No Comment) */
+"_StyleNamesSunsetSideBarChartCompositorStyle" = "Solnedgång staplar";
+
+/* (No Comment) */
+"_Timeline_GroupingMode_GroupByBirthCountry_SortByDate" = "Gruppering efter födelseland, sortering efter datum";
+
+/* (No Comment) */
+"_Timeline_GroupingMode_GroupByBirthPlace_SortByDate" = "Gruppering efter födelseort, sortering efter datum";
+
+/* (No Comment) */
+"_Timeline_GroupingMode_GroupByDeathCountry_SortByDate" = "Gruppering efter dödsland, sortering efter datum";
+
+/* (No Comment) */
+"_Timeline_GroupingMode_GroupByDeathPlace_SortByDate" = "Gruppering efter dödsort, sortering efter datum";
+
+/* (No Comment) */
+"_Timeline_GroupingMode_GroupByGender_SortByDate" = "Gruppering efter kön, sortering efter datum";
+
+/* (No Comment) */
+"_Timeline_GroupingMode_GroupByLastName_SortByDate" = "Gruppering efter efternamn, sortering efter datum";
+
+/* Timeline */
+"_Timeline_GroupingMode_SortByDate" = "Sortera efter datum";
+
+/* (No Comment) */
+"_TimelineChartBuilder_CollapseAllGroupsForBestFit" = "Fäll samman grupper för bättre användning av utrymmet";
+
+/* (No Comment) */
+"_TimelineChartBuilder_CollapseAllGroupsForBestFitExplanation" = "När de är angivna kommer grupper att placeras för bästa användning av utrymmet men alfabetisk ordning garanteras inte.";
+
+/* (No Comment) */
+"_TimelineChartBuilder_GroupByBirthCountry_NoPlace" = "Okänt födelseland";
+
+/* (No Comment) */
+"_TimelineChartBuilder_GroupByBirthPlace_NoPlace" = "Okänd födelseort";
+
+/* (No Comment) */
+"_TimelineChartBuilder_GroupByDeathCountry_NoPlace" = "Okänt dödsland";
+
+/* (No Comment) */
+"_TimelineChartBuilder_GroupByDeathPlace_NoPlace" = "Okänd dödsort";
+
+/* (No Comment) */
+"_TimelineChartBuilder_GroupByLastName_NoLastName" = "Okänt efternamn";
+
+/* (No Comment) */
+"_TimelineChartBuilder_HistoryPersons_Key" = "Historia: kända personer";
+
+/* (No Comment) */
+"_TitleGeneratorChartCompositorObjectConfiguration_TitleImageMode_FamilyCrest" = "Familjevapen";
+
+/* (No Comment) */
+"_TitleGeneratorChartCompositorObjectConfiguration_TitleImageMode_None" = "Inget";
+
+/* (No Comment) */
+"_TitleGeneratorChartCompositorObjectConfiguration_TitleImageMode_SelectedEntryImage" = "Vald inmatningsbild";
+
+/* TreeChartBuilder */
+"_TreeChartBuilder_MainTreePrefix" = "Huvudträd";
+
+/* (No Comment) */
+"_TreeChartBuilder_SubTreeAlignment" = "Anpassning av separata träd";
+
+/* (No Comment) */
+"_TreeChartBuilder_SubTreeAlignment_ByGeneration" = "Efter generation";
+
+/* (No Comment) */
+"_TreeChartBuilder_SubTreeAlignment_ShortestDistanceToOrigin" = "Kortaste avståndet till ursprung";
+
+/* (No Comment) */
+"_TreeChartBuilder_SubTreeAlignmentExplanation" = "I komplexa situationer måste ett träd visas som ett separat träd från huvudträdet. Ange här hur du lägger upp dessa separata träd.";
+
+/* (No Comment) */
+"_TreeChartBuilder_SubTreePrefix" = "Separat träd";
+

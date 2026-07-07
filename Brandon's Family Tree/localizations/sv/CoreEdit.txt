@@ -1,0 +1,1707 @@
+﻿/* (No Comment) */
+"_BaseEditController_DeleteBaseObjectQuestionInformative" = "Vill du verkligen radera denna person från ditt släktträd?";
+
+/* (No Comment) */
+"_BaseEditController_DeleteBaseObjectQuestionMessage" = "Radera '%@'?";
+
+/* (No Comment) */
+"_BaseEditController_DeletePersonQuestionInformative" = "Vill du verkligen radera denna person från ditt släktträd?";
+
+/* BaseEditController */
+"_BaseEditController_DeletePersonQuestionMessage" = "Radera person '%@'?";
+
+/* (No Comment) */
+"_BaseEditController_ManuallyAddPlaceDetailInformative" = "Ange namnet på den nya ortsdetaljen till '%@'";
+
+/* (No Comment) */
+"_BaseEditController_ManuallyAddPlaceDetailTitle" = "Lägg till ortsdetalj manuellt";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_AddEventButton" = "Lägg till händelse";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_AgeAtEvent" = "Ålder vid händelse";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_CopyEventToPersonMenuItem" = "Kopiera händelse till person...";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_CreateStoryFromEventMenuItem" = "Skapa berättelse för händelse";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_DeadButNoFurtherInfoCheckbox" = "Markera person som avliden, men ingen ytterligare information finns";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_DeleteEvent" = "Radera händelse";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_EditEventDetails" = "Redigera händelsedetaljer";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_EditFamilyEventConclusionTypes" = "Redigera familjehändelse-typer…";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_EditFamilyMenuItem" = "Redigera familj %@";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_EditPersonEventConclusionTypes" = "Redigera personhändelse-typer...";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_EditPlaceDetails" = "Redigera ortsdetaljer...";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_EventPlaceholder" = "%@ – Ange information här";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_FamilyEventPlaceholder" = "%@ med %@ – Ange information här";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_FurtherOptionsButton" = "Ytterligare alternativ...";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_LargePlaceholder" = "Inga händelser finns";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_LookupNewPlaceDetail" = "Sök ny ortsdetalj...";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_ManuallyAddPlaceDetail" = "Lägg till ny ortsdetalj manuellt…";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_MarriedButNoFurtherInfoCheckbox" = "Markera paret som äkta makar, men ingen ytterligare information finns";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_NoDateAvailable" = "Inget datum har angetts";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_NoNotesPlaceholder" = "Inga anteckningar har angetts";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_NoPlacePlaceholder" = "Ingen ort har angetts";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_NoSourcesPlaceholder" = "Inga källor har angetts";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_SmallPlaceholder" = "Lägg till en ny händelse med knappen ovan.";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_Sorting_ByDate" = "Efter händelsedatum";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_Sorting_ByDescription" = "Efter beskrivning";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_Sorting_ByTypeAndDate" = "Efter händelsetyp och datum";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_Sorting_ByTypeName" = "Efter händelsetypnamn";
+
+/* Shared Base Events */
+"_BaseEditEventsContentController_Title" = "Händelser";
+
+/* BaseEditHeaderContentController */
+"_BaseEditHeaderContentController_Title" = "Sidhuvud";
+
+/* (No Comment) */
+"_BaseEditListContentController_SortAscending" = "Stigande";
+
+/* (No Comment) */
+"_BaseEditListContentController_SortDescending" = "Fallande";
+
+/* BaseEditListContentController */
+"_BaseEditListContentController_SortingButton" = "Sortering";
+
+/* (No Comment) */
+"_BaseEditPlaceLinksContentController_OtherLanguagesButton" = "Andra språk...";
+
+/* (No Comment) */
+"_BaseEditPlaceLinksContentController_ShowArticleButton" = "Visa artikel";
+
+/* (No Comment) */
+"_BaseReferencedEntriesListContentController_EditFamilyEventMenuItem" = "Redigera familjehändelse '%@'";
+
+/* (No Comment) */
+"_BaseReferencedEntriesListContentController_EditFamilyMenuItem" = "Redigera familj '%@'";
+
+/* (No Comment) */
+"_BaseReferencedEntriesListContentController_EditPersonEventMenuItem" = "Redigera personhändelse '%@'";
+
+/* BaseReferencedEntriesListContentController */
+"_BaseReferencedEntriesListContentController_EditPersonMenuItem" = "Redigera person '%@'";
+
+/* (No Comment) */
+"_Column_aboveMainFullWidth_0" = "Huvudområde";
+
+/* (No Comment) */
+"_Column_main_0" = "Vänster sida";
+
+/* (No Comment) */
+"_Column_main_1" = "Höger sida";
+
+/* (No Comment) */
+"_Column_main_256" = "Sidofält";
+
+/* (No Comment) */
+"_Column_parents_0" = "Vänster sida";
+
+/* (No Comment) */
+"_Column_parents_1" = "Höger sida";
+
+/* (No Comment) */
+"_Column_top_0" = "Huvudområde";
+
+/* Common */
+"_CommonEdit_NoLabelsAssignedPlaceholder" = "Inga etiketter tilldelade";
+
+/* (No Comment) */
+"_DatabaseChangesController_DeleteChangeLogEntryMessage" = "Vill du verkligen radera ändringsloggposten?";
+
+/* (No Comment) */
+"_DatabaseChangesController_PurgeAllChangesInformative" = "Bekräfta om du vill radera alla poster i ändringsloggen från ditt släktträd.";
+
+/* (No Comment) */
+"_DatabaseChangesController_PurgeAllChangesInformativeWithDate" = "Bekräfta om du vill radera alla poster i ändringsloggen från ändringsloggen som gjorts innan %@.";
+
+/* DatabaseChangesController */
+"_DatabaseChangesController_PurgeAllChangesMessage" = "Vill du verkligen rensa ändringsloggen? Detta kan inte ångras.";
+
+/* (No Comment) */
+"_DatabaseChangesController_PurgeAllChangesOfDeletedEntriesInformative" = "Bekräfta om du vill radera alla poster i ändringsloggen som refererar till personer, familjer osv.";
+
+/* (No Comment) */
+"_DatabaseChangesController_PurgeAllChangesOfDeletedEntriesMessage" = "Vill du verkligen rensa ändringsloggen från raderade poster? Detta kan inte ångras.";
+
+/* (No Comment) */
+"_DatabaseChangesController_PurgeButton" = "Rensa ändringsloggen";
+
+/* (No Comment) */
+"_EditAssociateRelationGeneralController_Source" = "Original";
+
+/* (No Comment) */
+"_EditAssociateRelationGeneralController_Target" = "Mål";
+
+/* EditAssociateRelationGeneralController */
+"_EditAssociateRelationGeneralController_Title" = "Allmänt";
+
+/* (No Comment) */
+"_EditAssociatesContentController_AddAssociatedPersonButton" = "Lägg till präglande person";
+
+/* (No Comment) */
+"_EditAssociatesContentController_AddExistingFamilyAsAssociate" = "Lägg till befintlig familj som präglande familj";
+
+/* (No Comment) */
+"_EditAssociatesContentController_AddExistingPersonAsAssociate" = "Lägg till befintlig person som präglande person";
+
+/* (No Comment) */
+"_EditAssociatesContentController_AddNewFamilyAsAssociate" = "Lägg till ny präglande familj";
+
+/* (No Comment) */
+"_EditAssociatesContentController_AddNewPersonAsAssociate" = "Lägg till ny präglande person";
+
+/* (No Comment) */
+"_EditAssociatesContentController_EditAssociateRelationConclusionTypes" = "Redigera präglande relationstyper…";
+
+/* (No Comment) */
+"_EditAssociatesContentController_LargePlaceholder" = "Inga präglande personer förhanden";
+
+/* (No Comment) */
+"_EditAssociatesContentController_RemoveAssociateButton" = "Ta bort präglande person";
+
+/* (No Comment) */
+"_EditAssociatesContentController_RemoveAssociateRelationInformative" = "Detta kommer inte att ta bort personen från ditt släktträd, utan endast relationen till denna person.";
+
+/* (No Comment) */
+"_EditAssociatesContentController_RemoveAssociateRelationMessage" = "Vill du verkligen ta bort relationen till '%@'?";
+
+/* (No Comment) */
+"_EditAssociatesContentController_SmallPlaceholder" = "Lägg till präglande personer, t.ex. gudfäder, med knappen ovan";
+
+/* EditAssociatesContentController */
+"_EditAssociatesContentController_Title" = "Präglande personer";
+
+/* (No Comment) */
+"_EditBookmarkContentController_OtherBookmarkedEntries_BaseMedia" = "Media";
+
+/* (No Comment) */
+"_EditBookmarkContentController_OtherBookmarkedEntries_Family" = "Familjer";
+
+/* (No Comment) */
+"_EditBookmarkContentController_OtherBookmarkedEntries_Person" = "Personer";
+
+/* (No Comment) */
+"_EditBookmarkContentController_OtherBookmarkedEntries_Place" = "Orter";
+
+/* (No Comment) */
+"_EditBookmarkContentController_OtherBookmarkedEntries_Source" = "Källor";
+
+/* EditBookmarkContentController */
+"_EditBookmarkContentController_Title" = "Bokmärken";
+
+/* Common */
+"_EditCommon_PrivateFlagLabel" = "Privat";
+
+/* (No Comment) */
+"_EditCreationAndChangeDateContentController_ChangeDate" = "Ändra datum";
+
+/* (No Comment) */
+"_EditCreationAndChangeDateContentController_CreationDate" = "Skapelsedatum";
+
+/* EditCreationAndChangeDateContentController */
+"_EditCreationAndChangeDateContentController_Title" = "Redigerad senast";
+
+/* (No Comment) */
+"_EditDNATestResultATDNARawDataContentController_DataPresentString" = "Rådata för atDNA lagrad, filstorlek: %@";
+
+/* EditDNATestResultATDNARawDataContentController */
+"_EditDNATestResultATDNARawDataContentController_Title" = "atDNA rådata";
+
+/* EditDNATestResultBaseMTDNARegionSNPDifferencesContentController */
+"_EditDNATestResultBaseMTDNARegionSNPDifferencesContentController_AddMarkerButton" = "Lägg till markör";
+
+/* (No Comment) */
+"_EditDNATestResultBaseMTDNARegionSNPDifferencesContentController_LargePlaceholder" = "Inga markörer har angetts";
+
+/* (No Comment) */
+"_EditDNATestResultBaseMTDNARegionSNPDifferencesContentController_SmallPlaceholder" = "Lägg till markörer med knappen ovan";
+
+/* (No Comment) */
+"_EditDNATestResultBaseRawDataContentController_AddDataButton" = "Lägg till data";
+
+/* (No Comment) */
+"_EditDNATestResultBaseRawDataContentController_DeleteDNARawDataInformative" = "Vill du verkligen radera rå-DNA-data relaterade till detta test?";
+
+/* (No Comment) */
+"_EditDNATestResultBaseRawDataContentController_DeleteDNARawDataMessage" = "Vill du verkligen radera DNA-data?";
+
+/* EditDNATestResultBaseRawDataContentController */
+"_EditDNATestResultBaseRawDataContentController_LargePlaceholder" = "Inga rå-DNA-data har lagts till";
+
+/* (No Comment) */
+"_EditDNATestResultBaseRawDataContentController_SelectFileMessage" = "Välj en fil som ska sparas som rå-DNA-data";
+
+/* (No Comment) */
+"_EditDNATestResultBaseRawDataContentController_SmallPlaceholder" = "Lägg till rå-DNA-data med knappen ovan";
+
+/* (No Comment) */
+"_EditDNATestResultController_Title" = "DNA-testresultat";
+
+/* (No Comment) */
+"_EditDNATestResultGeneralContentController_NoNameEnteredPlaceholder" = "Inget testnamn har angetts";
+
+/* EditDNATestResultGeneralContentController */
+"_EditDNATestResultGeneralContentController_Title" = "Allmänt";
+
+/* (No Comment) */
+"_EditDNATestResultMTDNAGeneralInformationContentController_NoHaplogroupPlaceholder" = "Ingen Haplogrupp har angetts";
+
+/* EditDNATestResultMTDNAGeneralInformationContentController */
+"_EditDNATestResultMTDNAGeneralInformationContentController_Title" = "mtDNA-information";
+
+/* (No Comment) */
+"_EditDNATestResultMTDNARawDataContentController_DataPresentString" = "Rådata for mtDNA lagrad, filstorlek: %@";
+
+/* EditDNATestResultMTDNARawDataContentController */
+"_EditDNATestResultMTDNARawDataContentController_Title" = "mtDNA-rådata";
+
+/* EditDNATestResultMTNDNACodingRegionSNPDifferencesContentController */
+"_EditDNATestResultMTNDNACodingRegionSNPDifferencesContentController_Title" = "mtDNA-kodningsregion SNP-skillnader";
+
+/* EditDNATestResultMTNDNAHVR1SNPDifferencesContentController */
+"_EditDNATestResultMTNDNAHVR1SNPDifferencesContentController_Title" = "mtDNA HVR1 SNP-skillnader";
+
+/* EditDNATestResultMTNDNAHVR2SNPDifferencesContentController */
+"_EditDNATestResultMTNDNAHVR2SNPDifferencesContentController_Title" = "mtDNA HVR2 SNP-skillnader";
+
+/* (No Comment) */
+"_EditDNATestResultYDNAGeneralInformationContentController_NoHaplogroupPlaceholder" = "Ingen Haplogrupp har angetts";
+
+/* EditDNATestResultYDNAGeneralInformationContentController */
+"_EditDNATestResultYDNAGeneralInformationContentController_Title" = "Y-DNA-information";
+
+/* (No Comment) */
+"_EditDNATestResultYDNARawDataContentController_DataPresentString" = "Rådata för Y-DNA lagrad, filstorlek: %@";
+
+/* EditDNATestResultYDNARawDataContentController */
+"_EditDNATestResultYDNARawDataContentController_Title" = "Y-DNA rådata";
+
+/* (No Comment) */
+"_EditDNATestResultYDNASTRMarkerListContentController_AddMarkerButton" = "Lägg till markör";
+
+/* (No Comment) */
+"_EditDNATestResultYDNASTRMarkerListContentController_LargePlaceholder" = "Inga Y-DNA STR-markörer har angetts";
+
+/* (No Comment) */
+"_EditDNATestResultYDNASTRMarkerListContentController_SmallPlaceholder" = "Lägg till Y-DNA STR-markörer med knappen ovan";
+
+/* EditDNATestResultYDNASTRMarkerListContentController */
+"_EditDNATestResultYDNASTRMarkerListContentController_Title" = "Y-DNA STR-markörer";
+
+/* EditEventGeneralContentController */
+"_EditEventGeneralContentController_Title" = "Allmänt";
+
+/* (No Comment) */
+"_EditEventPlaceContentController_AssignPlace" = "Tilldela ort";
+
+/* (No Comment) */
+"_EditEventPlaceContentController_LargePlaceholder" = "Ingen ort tilldelad";
+
+/* (No Comment) */
+"_EditEventPlaceContentController_SelectExistingPlace" = "Välj ort";
+
+/* (No Comment) */
+"_EditEventPlaceContentController_ShowPlace" = "Visa ort";
+
+/* (No Comment) */
+"_EditEventPlaceContentController_SmallPlaceholder" = "En ort har inte tilldelats denna händelse. Använd knappen ovan för att tilldela en befintlig eller sök en ny ort.";
+
+/* EditEventPlaceContentController */
+"_EditEventPlaceContentController_Title" = "Ort";
+
+/* (No Comment) */
+"_EditEventPlaceController_FieldsHint" = "Ange informationen för denna ort i fälten nedan. Om du behöver olika fält kan du behöva välja en annan ortsmall eller infoga fälten i ortsmallen.";
+
+/* EditEventPlaceController */
+"_EditEventPlaceController_TemplateHint" = "Välj en ortsmall för denna ort med knappen nedan. Om ingen lämplig mall är tillgänglig kan du använda alternativet 'Redigera mallar' för att skapa en ny mall.";
+
+/* EditEventPlaceDetailContentController */
+"_EditEventPlaceDetailContentController_Title" = "Ortsdetalj";
+
+/* EditEventPlace */
+"_EditEventPlaceSheetLookupNewPlaceSection_Title" = "Sök ny ort";
+
+/* (No Comment) */
+"_EditEventPlaceSheetManualEnterPlaceSection_Title" = "Ange en ort manuellt";
+
+/* (No Comment) */
+"_EditEventPlaceSheetManualEnterPlaceSection_TitleReplace" = "Redigera en ort manuellt";
+
+/* (No Comment) */
+"_EditEventPlaceSheetSelectExistingPlaceSection_Title" = "Välj en befintlig ort";
+
+/* (No Comment) */
+"_EditEventPlaceSheetSelectExistingPlaceSection_TitleReplace" = "Ersätt med befintlig ort";
+
+/* (No Comment) */
+"_EditEventPlaceViewController_EditPlace" = "Redigera ort";
+
+/* (No Comment) */
+"_EditEventPlaceViewController_JustLookUpCoordinate" = "Sök endast koordinat";
+
+/* (No Comment) */
+"_EditEventPlaceViewController_RemoveCurrentPlace" = "Ta bort aktuell ort";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_AddExistingManButton" = "Lägg till befintlig man";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_AddExistingWomanButton" = "Lägg till befintlig kvinna";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_AddNewManButton" = "Lägg till ny man";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_AddNewWomanButton" = "Lägg till ny kvinna";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_EditParentButton" = "Redigera";
+
+/* EditFamilyController */
+"_EditFamilyBaseEditParentContentController_NoManPlaceholder" = "Ingen man har lagts till denna familj. Välj knapparna nedan för att lägga till en ny eller befintlig man till denna familj.";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_NoWomanPlaceholder" = "Ingen kvinna har lagts till denna familj. Välj knapparna nedan för att lägga till en ny eller befintlig kvinna till denna familj.";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_RemoveAsManButton" = "Ta bort som man";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_RemoveAsPartner1Button" = "Ta bort som partner 1";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_RemoveAsPartner2Button" = "Ta bort som partner 2";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_RemoveAsWomanButton" = "Ta bort som kvinna";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_RemoveFromFamilyInformative" = "Vill du verkligen ta bort denna förälder från denna familj? Föräldern kommer inte att raderas, men är inte längre en del av denna familj.";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_RemoveFromFamilyMessage" = "Ta bort förälder '%@'?";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_ShowParentButton" = "Visa";
+
+/* EditFamilyChildContentController */
+"_EditFamilyChildContentController_Title" = "Barn";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_AddChildTopLevelButton" = "Lägg till barn";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_AddExistingChildButton" = "Lägg till befintligt barn";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_AddNewChildButton" = "Lägg till nytt barn";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_ChildOrder" = "Barn #%d";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_ChildOrderPopup" = "Anpassa barnföljd";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_DeleteChildRelationInformative" = "Vill du verkligen ta bort detta barn från denna familj? Barnet kommer inte att raderas, men är inte längre en del av denna familj.";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_DeleteChildRelationMessage" = "Ta bort barn '%@' från familjen?";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_EditChildButton" = "Redigera";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_LargePlaceholder" = "Inga barn förhanden";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_RemoveAsChildButton" = "Ta bort som barn";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_SmallPlaceholder" = "Inga barn har lagts till i denna familj. Lägg till barn med knappen ovan.";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_Sorting_ByBirthDate" = "Efter födelsedatum";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_Sorting_ByName" = "Efter namn";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_Sorting_CustomOrder" = "Anpassa följd";
+
+/* (No Comment) */
+"_EditFamilyController_AddFatherPlaceholder" = "Lägg till far till %@";
+
+/* (No Comment) */
+"_EditFamilyController_AddMotherPlaceholder" = "Lägg till mor till %@";
+
+/* (No Comment) */
+"_EditFamilyController_AddNewFamily" = "Lägg till ny familj";
+
+/* (No Comment) */
+"_EditFamilyController_AddParent1Placeholder" = "Lägg till förälder 1 till %@";
+
+/* (No Comment) */
+"_EditFamilyController_AddParent2Placeholder" = "Lägg till föräldrar 2 till%@";
+
+/* (No Comment) */
+"_EditFamilyController_DeleteFamily" = "Radera familj";
+
+/* (No Comment) */
+"_EditFamilyController_DeleteFamilyQuestionMessage" = "Vill du verkligen radera familjen?";
+
+/* (No Comment) */
+"_EditFamilyController_NoFamiliesPlaceholder_AddFamilyButton" = "Lägg till första familj";
+
+/* (No Comment) */
+"_EditFamilyController_NoFamiliesPlaceholder_Message" = "Det finns inga familjer i detta släktträd. Välj \"Lägg till familj\" för att skapa din första familj.";
+
+/* (No Comment) */
+"_EditFamilyController_NoFamiliesPlaceholder_Title" = "Inga familjer tillgängliga";
+
+/* (No Comment) */
+"_EditFamilyController_ParentsOfLabel" = "Föräldrar till %@";
+
+/* (No Comment) */
+"_EditFamilyController_Title" = "Redigera familj";
+
+/* EditFamilyEditManContentController */
+"_EditFamilyEditManContentController_Title" = "Man";
+
+/* EditFamilyEditWomanContentController */
+"_EditFamilyEditWomanContentController_Title" = "Kvinna";
+
+/* (No Comment) */
+"_EditFamilyEventController_Title" = "Redigera familjehändelse";
+
+/* EditFamilyTreeInformationContactContentController */
+"_EditFamilyTreeInformationContactContentController_Title" = "Författarkontakt";
+
+/* (No Comment) */
+"_EditFamilyTreeInformationController_Title" = "Författare";
+
+/* EditFamilyTreeInformationFamilyCrestContentController */
+"_EditFamilyTreeInformationFamilyCrestContentController_Title" = "Familjevapen";
+
+/* EditFamilyTreeInformationHeaderContentController */
+"_EditFamilyTreeInformationHeaderContentController_LargeTitle" = "Om författaren till detta släktträd";
+
+/* (No Comment) */
+"_EditFamilyTreeInformationIconSettingsContentController_AddToIconButton" = "Lägg till media på ikon";
+
+/* (No Comment) */
+"_EditFamilyTreeInformationIconSettingsContentController_RemoveMediaFromIconMenuItem" = "Ta bort från ikon";
+
+/* EditFamilyTreeInformationIconSettingsContentController */
+"_EditFamilyTreeInformationIconSettingsContentController_Title" = "Ikoninställningar";
+
+/* (No Comment) */
+"_EditFamilyTreeInformationNameAndAddressContentController_NoNamePlaceholder" = "Inget namn har angetts";
+
+/* EditFamilyTreeInformationNameAndAddressContentController */
+"_EditFamilyTreeInformationNameAndAddressContentController_Title" = "Författarens namn & adress";
+
+/* (No Comment) */
+"_EditLabel_DeleteLabelMessage" = "Detta kommer att radera etiketten permanent och ta bort den från alla relaterade poster i ditt släktträd.";
+
+/* Edit Labels Views */
+"_EditLabel_DeleteLabelTitle" = "Vill du verkligen radera etiketten?";
+
+/* (No Comment) */
+"_EditLabelsContentController_NoLabelsLargePlaceholder" = "Inga etiketter förhanden";
+
+/* (No Comment) */
+"_EditLabelsContentController_NoLabelsSmallPlaceholder" = "Hittade inga etiketter i detta släktträd. Använd knappen ovan för att lägga till etiketter.";
+
+/* Shared Labels */
+"_EditLabelsContentController_Title" = "Etiketter";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_AddEntryButton" = "Lägg till post";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_EditMediaRelationAssignmentButton" = "Redigera tilldelningsområde";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_LargePlaceholder" = "Inga tilldelade poster förhanden";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_RemoveFromMediaButton" = "Ta bort";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_RemoveMediaFromEntryAndDeleteInformative" = "Detta är den sista posten som tilldelas tilldelade till detta media, kommer media att tas bort från släktträdet.";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_RemoveMediaFromEntryAndDeleteMessage" = "Vill du verkligen radera detta media?";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_RemoveMediaFromEntryInformative" = "Detta kommer inte att radera media, men endast ta bort tilldelningen av posten till detta media.";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_RemoveMediaFromEntryMessage" = "Vill du verkligen ta bort posten '%@' från detta media?";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_SmallPlaceholder" = "Använd knappen ovan för att tilldela poster, t.ex. personer eller familjer, till detta media";
+
+/* EditMediaAssignedEntriesContentController */
+"_EditMediaAssignedEntriesContentController_Title" = "Tilldelade poster";
+
+/* (No Comment) */
+"_EditMediaContentController_AddMediaButton" = "Lägg till media";
+
+/* (No Comment) */
+"_EditMediaContentController_BringToFrontMenuItem" = "Sortera media längst fram";
+
+/* (No Comment) */
+"_EditMediaContentController_DeleteMediaQuestionInformative" = "Vill du verkligen radera detta media från ditt släktträd?";
+
+/* (No Comment) */
+"_EditMediaContentController_DeleteMediaQuestionMessage" = "Vill du verkligen radera media?";
+
+/* (No Comment) */
+"_EditMediaContentController_DeleteMenuItem" = "Radera";
+
+/* (No Comment) */
+"_EditMediaContentController_DoNotUseAsEntryImageMenuItem" = "Använd inte som startbild";
+
+/* (No Comment) */
+"_EditMediaContentController_EditMenuItem" = "Redigera...";
+
+/* (No Comment) */
+"_EditMediaContentController_LargePlaceholder" = "Inga medier finns";
+
+/* (No Comment) */
+"_EditMediaContentController_MarkAsNotPrivateMenuItem" = "Märk som ej privat";
+
+/* (No Comment) */
+"_EditMediaContentController_MarkAsPrivateMenuItem" = "Märk som privat";
+
+/* (No Comment) */
+"_EditMediaContentController_NoPicture_SmallPlaceholder" = "Lägg till bilder med knappen ovan.";
+
+/* (No Comment) */
+"_EditMediaContentController_ShowSlideshowButton" = "Bildspel";
+
+/* (No Comment) */
+"_EditMediaContentController_SmallPlaceholder" = "Använd knappen ovan för att lägga till bilder, PDF-filer, videos, audios eller webbsidor";
+
+/* Media */
+"_EditMediaContentController_Title" = "Media";
+
+/* (No Comment) */
+"_EditMediaContentController_UseAsEntryImageMenuItem" = "Använd som startbild";
+
+/* EditMediaController */
+"_EditMediaController_LargePlaceholder" = "Inga medier finns";
+
+/* (No Comment) */
+"_EditMediaController_SmallPlaceholder" = "Lägg till media till mediaavsnitt när du redigerar personer, familjer eller orter";
+
+/* (No Comment) */
+"_EditMediaController_Title" = "Redigera media";
+
+/* (No Comment) */
+"_EditMediaCropColorizeContentController_Explanation" = "Välj knappen ovan för att beskära, färglägga, ta bort repor, förbättra eller ta bort bakgrunden från denna bild.";
+
+/* (No Comment) */
+"_EditMediaCropColorizeContentController_OpenCropColorizeButton" = "Bearbeta & förbättra bild…";
+
+/* (No Comment) */
+"_EditMediaCropColorizeContentController_SuiteableForColorizeExplanation" = "Denna bild verkar vara lämplig för färgläggning. Använd knappen ovan för att auto-färglägga, förbättra, ta bort repor eller beskära bilder.";
+
+/* EditMediaCropColorizeContentController */
+"_EditMediaCropColorizeContentController_Title" = "AI & beskära";
+
+/* EditMediaGeneralContentController */
+"_EditMediaGeneralContentController_Title" = "Allmänt";
+
+/* EditMediaMediaPreviewContentController */
+"_EditMediaMediaPreviewContentController_Title" = "Media";
+
+/* (No Comment) */
+"_EditMediaMediaPreviewContentControlleriOSPlatformView_ShowAudioButton" = "Visa ljud...";
+
+/* (No Comment) */
+"_EditMediaMediaPreviewContentControlleriOSPlatformView_ShowFullImageButton" = "Visa bilden i full storlek…";
+
+/* (No Comment) */
+"_EditMediaMediaPreviewContentControlleriOSPlatformView_ShowFullPDFButton" = "Visa full PDF...";
+
+/* (No Comment) */
+"_EditMediaMediaPreviewContentControlleriOSPlatformView_ShowVideoButton" = "Visa video…";
+
+/* (No Comment) */
+"_EditMediaMediaPreviewContentControlleriOSPlatformView_ShowWebsiteButton" = "Visa webbplats...";
+
+/* (No Comment) */
+"_EditNotesContentController_AddNoteButton" = "Lägg till anteckning";
+
+/* (No Comment) */
+"_EditNotesContentController_DeleteNoteQuestionMessage" = "Vill du verkligen radera anteckningen?";
+
+/* (No Comment) */
+"_EditNotesContentController_LargePlaceholder" = "Inga anteckningar finns";
+
+/* (No Comment) */
+"_EditNotesContentController_NoNoteTextPlaceholder" = "Ingen anteckningstext har angetts";
+
+/* (No Comment) */
+"_EditNotesContentController_SmallPlaceholder" = "Lägg till en ny anteckning med knappen ovan";
+
+/* (No Comment) */
+"_EditNotesContentController_Sorting_ByChangeDate" = "Efter ändringsdatum";
+
+/* (No Comment) */
+"_EditNotesContentController_Sorting_ByCreationDate" = "Efter skapelsedatum";
+
+/* (No Comment) */
+"_EditNotesContentController_Sorting_ByText" = "Efter text";
+
+/* EditNotesContentController */
+"_EditNotesContentController_Title" = "Anteckningar";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_AddAdditionalNameButton" = "Lägg till namn";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_AdditionalNamePlaceholder" = "%@ – Ange information här";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_DeleteAdditionalNameQuestionInformative" = "Vill du verkligen radera detta ytterligare namn?";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_DeleteAdditionalNameQuestionMessage" = "Radera ytterligare namn '%@'?";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_EditAdditionalNameConclusionTypes" = "Redigera ytterligare namntyper…";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_LargePlaceholder" = "Det finns inget ytterligare namn";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_SmallPlaceholder" = "Lägg till ett nytt ytterligare namn med knappen ovan.";
+
+/* EditPerson Additional Names */
+"_EditPersonAdditionalNamesContentController_Title" = "Ytterligare namn";
+
+/* (No Comment) */
+"_EditPersonController_AddBrotherMenuItem" = "Lägg till ny bror";
+
+/* (No Comment) */
+"_EditPersonController_AddChildPlaceholder" = "Lägg till nytt barn";
+
+/* (No Comment) */
+"_EditPersonController_AddExistingFurtherPartnerMenuItem" = "Lägg till befintlig person som ytterligare partner…";
+
+/* (No Comment) */
+"_EditPersonController_AddExistingPersonAsChildMenuItem" = "Lägg till befintlig person som barn…";
+
+/* (No Comment) */
+"_EditPersonController_AddExistingPersonAsFatherMenuItem" = "Lägg till befintlig person som far…";
+
+/* (No Comment) */
+"_EditPersonController_AddExistingPersonAsMotherMenuItem" = "Lägg till befintlig person som mor…";
+
+/* (No Comment) */
+"_EditPersonController_AddExistingPersonAsPartnerMenuItem" = "Lägg till befintlig person som partner…";
+
+/* EditPersonController */
+"_EditPersonController_AddFatherPlaceholder" = "Lägg till ny far";
+
+/* (No Comment) */
+"_EditPersonController_AddFurtherFather" = "Lägg till ytterligare far";
+
+/* (No Comment) */
+"_EditPersonController_AddFurtherMother" = "Lägg till ytterligare mor";
+
+/* (No Comment) */
+"_EditPersonController_AddFurtherPartnerMenuItem" = "Lägg till ytterligare partner";
+
+/* (No Comment) */
+"_EditPersonController_AddMotherPlaceholder" = "Lägg till ny mor";
+
+/* (No Comment) */
+"_EditPersonController_AddNewPersonAsChildMenuItem" = "Lägg till nytt barn";
+
+/* (No Comment) */
+"_EditPersonController_AddNewPersonAsFatherMenuItem" = "Lägg till ny far";
+
+/* (No Comment) */
+"_EditPersonController_AddNewPersonAsMotherMenuItem" = "Lägg till ny mor";
+
+/* (No Comment) */
+"_EditPersonController_AddNewPersonAsPartnerMenuItem" = "Lägg till ny partner";
+
+/* (No Comment) */
+"_EditPersonController_AddNewPersonMenuItem" = "Lägg till ny person";
+
+/* (No Comment) */
+"_EditPersonController_AddPartnerPlaceholder" = "Lägg till ny partner";
+
+/* (No Comment) */
+"_EditPersonController_AddSisterMenuItem" = "Lägg till ny syster";
+
+/* (No Comment) */
+"_EditPersonController_BrotherOrSisterOfFamilyMenuItem" = "Bror eller syster till '%@' i familjen…";
+
+/* (No Comment) */
+"_EditPersonController_ChildRelationTypeForFatherMenuItem" = "Relation till fadern %@";
+
+/* (No Comment) */
+"_EditPersonController_ChildRelationTypeForMotherMenuItem" = "Relation till modern %@";
+
+/* (No Comment) */
+"_EditPersonController_ChildRelationTypeMenuItem" = "Barnrelationstyp";
+
+/* (No Comment) */
+"_EditPersonController_DeleteFamily" = "Radera familj";
+
+/* (No Comment) */
+"_EditPersonController_DeletePerson" = "Radera person";
+
+/* (No Comment) */
+"_EditPersonController_DeletePersonMenuItem" = "Radera %@…";
+
+/* (No Comment) */
+"_EditPersonController_EditFamilyMenuItem" = "Redigera familj %@";
+
+/* (No Comment) */
+"_EditPersonController_EditFamilyMenuItem_WithoutPlaceholder" = "Redigera familj";
+
+/* (No Comment) */
+"_EditPersonController_EditPersonMenuItem" = "Redigera %@";
+
+/* (No Comment) */
+"_EditPersonController_NoPersonsPlaceholder_AddPersonButton" = "Lägg till första person";
+
+/* (No Comment) */
+"_EditPersonController_NoPersonsPlaceholder_Message" = "Det finns inga personer i detta släktträd. Välj \"Lägg till första person\" och skapa din första person";
+
+/* (No Comment) */
+"_EditPersonController_NoPersonsPlaceholder_Title" = "Inga personer förhanden";
+
+/* (No Comment) */
+"_EditPersonController_ParentsOptionsButton" = "Alternativ för föräldrar…";
+
+/* (No Comment) */
+"_EditPersonController_PartnerOptionsButton" = "Alternativ för partner…";
+
+/* (No Comment) */
+"_EditPersonController_RemovePersonFromFamilyMenuItem" = "Ta bort %@ från familj";
+
+/* (No Comment) */
+"_EditPersonController_RemovePersonQuestionInformative" = "Detta kommer inte att ta bort personen från ditt släktträd, utan endast personen från denna familj.";
+
+/* (No Comment) */
+"_EditPersonController_RemovePersonQuestionMessage" = "Vill du verkligen ta bort personen '%@' från familj '%@'?";
+
+/* (No Comment) */
+"_EditPersonController_SelectFamily" = "Välj familj";
+
+/* (No Comment) */
+"_EditPersonController_ShowOldestAncestorsMenuItem" = "Äldsta förfäder…";
+
+/* (No Comment) */
+"_EditPersonController_ShowYoungestAncestorsMenuItem" = "Yngsta ättlingar…";
+
+/* Titles */
+"_EditPersonController_Title" = "Redigera person";
+
+/* (No Comment) */
+"_EditPersonDNAContentController_AddDNATest" = "Lägg till DNA-testresultat...";
+
+/* (No Comment) */
+"_EditPersonDNAContentController_EditDNATestResultButton" = "Redigera DNA-data";
+
+/* (No Comment) */
+"_EditPersonDNAContentController_LargePlaceholder" = "Inga DNA-testresultat har angetts";
+
+/* (No Comment) */
+"_EditPersonDNAContentController_SmallPlaceholder" = "Lägg till DNA-testresultat till denna person med knapparna ovan";
+
+/* (No Comment) */
+"_EditPersonDNAContentController_Sorting_ByDate" = "Efter datum";
+
+/* (No Comment) */
+"_EditPersonDNAContentController_Sorting_ByTitle" = "Efter titel";
+
+/* EditPersonDNAContentController */
+"_EditPersonDNAContentController_Title" = "DNA";
+
+/* (No Comment) */
+"_EditPersonEventController_Title" = "Redigera personhändelse";
+
+/* (No Comment) */
+"_EditPersonFactController_Title" = "Redigera personuppgifter";
+
+/* EditPersonFactGeneralContentController */
+"_EditPersonFactGeneralContentController_Title" = "Allmänt";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_AddFactButton" = "Lägg till fakta";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_DeleteFactQuestionMessage" = "Vill du radera personuppgiften?";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_EditFactDetails" = "Redigera uppgiftsdetaljer";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_EditPersonFactConclusionTypes" = "Redigera personuppgiftstyper";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_FactPlaceholder" = "%@ – Ange information här";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_LargePlaceholder" = "Det finns inga fakta";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_SmallPlaceholder" = "Lägg till nya fakta med knappen ovan.";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_Sorting_ByFactType" = "Efter faktatyp";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_Sorting_ByFactValue" = "Efter faktavärde";
+
+/* EditPersonFactsContentController */
+"_EditPersonFactsContentController_Title" = "Uppgifter";
+
+/* (No Comment) */
+"_EditPersonFamilySearchContentController_DetailsButton" = "Detaljer";
+
+/* EditPersonFamilySearchContentController */
+"_EditPersonFamilySearchContentController_Title" = "FamilySearch";
+
+/* (No Comment) */
+"_EditPersonGroupController_AddPersonGroupButton" = "Lägg till första persongrupp";
+
+/* EditPersonGroupController */
+"_EditPersonGroupController_LargePlaceholder" = "Inga persongrupper finns";
+
+/* (No Comment) */
+"_EditPersonGroupController_SmallPlaceholder" = "Det finns inga persongrupper i detta släktträd. Persongrupper kan användas för att framhäva särskilda grenar i ditt släktträd. Välj ”Skapa första persongruppen” för att skapa din första persongrupp.";
+
+/* (No Comment) */
+"_EditPersonGroupController_Title" = "Redigera persongrupp";
+
+/* (No Comment) */
+"_EditPersonGroupGeneralContentController_NamePlaceholder" = "Inga namn specificerade";
+
+/* (No Comment) */
+"_EditPersonGroupGeneralContentController_Title" = "Allmänt";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_AddPersonToGroupButton" = "Lägg till personer";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_DeletePersonGroupRelationInformative" = "Detta kommer inte att radera personen eller persongruppen, men personen kommer att tas bort från denna persongrupp.";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_DeletePersonGroupRelationMessage" = "Ta bort '%@' från persongrupp '%@'?";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_LargePlaceholder" = "Inga personer i denna persongrupp";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_ManagePersonsInGroupButton" = "Hantera personer";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_RemoveFromPersonGroupButton" = "Ta bort från gruppen";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_SmallPlaceholder" = "Lägg till personer till denna persongrupp med knappen ovan.";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_Sorting_ByBirthDate" = "Efter födelsedatum";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_Sorting_ByName" = "Efter namn";
+
+/* EditPersonGroupPersonsInGroupContentController */
+"_EditPersonGroupPersonsInGroupContentController_Title" = "Personer i gruppen";
+
+/* (No Comment) */
+"_EditPersonGroupsContentController_NoPersonGroupsLargePlaceholder" = "Inga persongrupper finns";
+
+/* (No Comment) */
+"_EditPersonGroupsContentController_NoPersonGroupsSmallPlaceholder" = "Inga persongrupper har lagts till detta släktträd. Använd persongruppsfunktionen för att lägga till persongrupper.";
+
+/* _EditPersonGroupsContentController_Title */
+"_EditPersonGroupsContentController_Title" = "Persongrupper";
+
+/* EditPerson Name */
+"_EditPersonNameContentController_Title" = "Namn och kön";
+
+/* (No Comment) */
+"_EditPersonNumberingSystemContentController_NoNumberingSystemAssigned" = "Välj ett numreringssystem som startar med denna person med hjälp av knappen nedan:";
+
+/* (No Comment) */
+"_EditPersonNumberingSystemContentController_NumberingSystemAssignedAndHasValueAndIsNotStartPerson" = "Denna person har ett nummer i det aktuella numreringssystemet som startar med denna person:";
+
+/* (No Comment) */
+"_EditPersonNumberingSystemContentController_NumberingSystemAssignedAndIsStartPerson" = "Denna person är startpersonen i aktuellt numreringssystem (%@).";
+
+/* (No Comment) */
+"_EditPersonNumberingSystemContentController_NumberingSystemAssignedAndPersonHasNoValue" = "Denna person har inget nummer i det aktuella numreringssystemet. Detta betyder att denna person inte är förfader eller ättling till startpersonen i detta numreringssystem (%@):";
+
+/* (No Comment) */
+"_EditPersonNumberingSystemContentController_SetNumberingSystemTopLevelMenuItem" = "Numreringssystem...";
+
+/* EditPersonNumberingSystemContentController */
+"_EditPersonNumberingSystemContentController_Title" = "Numreringssystem";
+
+/* (No Comment) */
+"_EditPlaceAlternateNamesContentController_AlternatePlaceNamesPlaceholder" = "Ange valfri alternativa ortsnamn här";
+
+/* EditPlaceAlternateNamesContentController */
+"_EditPlaceAlternateNamesContentController_Title" = "Alternativa ortsnamn";
+
+/* EditPlaceController */
+"_EditPlaceController_LargePlaceholder" = "Inga orter finns";
+
+/* (No Comment) */
+"_EditPlaceController_LookupNewPlaceButton" = "Sök första ort";
+
+/* (No Comment) */
+"_EditPlaceController_SmallPlaceholder" = "Ange orter för person- eller familjehändelser eller använd knappen ovan för att söka en ny ort.";
+
+/* (No Comment) */
+"_EditPlaceController_Title" = "Redigera ort";
+
+/* (No Comment) */
+"_EditPlaceCoordinateContentController_AddCoordinateButton" = "Ange manuellt";
+
+/* (No Comment) */
+"_EditPlaceCoordinateContentController_DeleteCoordinateQuestionMessage" = "Vill du radera koordinaterna?";
+
+/* (No Comment) */
+"_EditPlaceCoordinateContentController_LargePlaceholder" = "Inga koordinater har angetts";
+
+/* (No Comment) */
+"_EditPlaceCoordinateContentController_LookupButton" = "Sök";
+
+/* (No Comment) */
+"_EditPlaceCoordinateContentController_SmallPlaceholder" = "Använd knapparna ovan för att ange koordinater för denna ort manuellt eller sök med hjälp av ortsnamnet.";
+
+/* (No Comment) */
+"_EditPlaceCoordinateContentController_SmallPlaceholder_CTW" = "Ange koordinater för denna ort manuellt med knappen ovan.";
+
+/* EditPlaceCoordinateContentController */
+"_EditPlaceCoordinateContentController_Title" = "Koordinat";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_AddCoordinateButton" = "Lägg till koordinat";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_AddEmptyPlaceDetail" = "Lägg till tom ortsdetalj";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_AddPlaceDetail" = "Lägg till";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_DeletePlaceDetailQuestionMessage" = "Vill du verkligen radera ortsdetaljen?";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_EventCount" = "Antal händelser";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_LargePlaceholder" = "Inga ortsdetaljer har angetts";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_LookupCoordinateButton" = "Sök koordinater…";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_MegeWithOtherPlaceDetailButton" = "Slå samman med andra ortsdetaljer";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_NoNamePlaceholder" = "Inget ortsdetaljnamn har angetts";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_RemoveCoordinateButton" = "Ta bort koordinat";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_SearchOtherPlaceDetail" = "Sök ny ortsdetalj...";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_SmallPlaceholder" = "Använd knappen ’Infoga’ ovan för att infoga ortsdetaljer. Ortsdetaljer är specifika adresser, områden eller andra intressanta mål på denna ort.";
+
+/* EditPlaceDetailsContentController */
+"_EditPlaceDetailsContentController_Title" = "Ortsdetaljer";
+
+/* (No Comment) */
+"_EditPlaceEventsAtPlaceContentController_LargePlaceholder" = "Inga händelser har lagts in";
+
+/* (No Comment) */
+"_EditPlaceEventsAtPlaceContentController_RemoveFromPlace" = "Ta bort från ort";
+
+/* (No Comment) */
+"_EditPlaceEventsAtPlaceContentController_SmallPlaceholder" = "Inga person- eller familjehändelser har lagts till denna ort Använd avsnittet ’Personer’ eller ’Familj’ för att tilldela orter till händelser.";
+
+/* (No Comment) */
+"_EditPlaceEventsAtPlaceContentController_Sorting_ByDate" = "Efter händelsedatum";
+
+/* (No Comment) */
+"_EditPlaceEventsAtPlaceContentController_Sorting_ByType" = "Efter händelsetyp";
+
+/* EditPlaceEventsAtPlaceContentController */
+"_EditPlaceEventsAtPlaceContentController_Title" = "Händelser på orten";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_AddField" = "Lägg till fält…";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_AddTemplateKeyToTemplate" = "Lägg till fält '%@' till mall '%@'";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_DeleteFieldContentsInformative" = "Vill du verkligen radera denna ytterligare information från orten som just visas?";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_DeleteFieldContentsMessage" = "Vill du radera denna information från orten?";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_EditTemplateKeys" = "Redigera ortsfält...";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_LargePlaceholder" = "Ingen ytterligare ortsfält har specificerats";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_SmallPlaceholder" = "Du kan lägga till ytterligare ortsfält till denna ort som inte är specificerad i den aktuellt valda mallen med hjälp av knappen ovan.";
+
+/* EditPlaceFurtherPlaceNameFieldsContentController */
+"_EditPlaceFurtherPlaceNameFieldsContentController_Title" = "Ytterligare ortsnamnfält";
+
+/* (No Comment) */
+"_EditPlaceHeaderContentController_EventCountTitlePlural" = "%d händelser på denna ort";
+
+/* EditPlaceHeaderContentController */
+"_EditPlaceHeaderContentController_EventCountTitleSingular" = "En händelse på denna ort";
+
+/* (No Comment) */
+"_EditPlaceHeaderContentController_EventsDateRangePlural" = "Datumintervall för händelser";
+
+/* (No Comment) */
+"_EditPlaceHeaderContentController_EventsDateRangeSingular" = "Händelsedatum";
+
+/* (No Comment) */
+"_EditPlaceHeaderContentController_PlaceDetailCountTitlePlural" = "%d ortsdetaljer";
+
+/* (No Comment) */
+"_EditPlaceHeaderContentController_PlaceDetailCountTitleSingular" = "En ortsdetalj";
+
+/* _EditPlaceLinksContentController_OtherLanguagesButton */
+"_EditPlaceLinksContentController_Title" = "Webbsidor";
+
+/* (No Comment) */
+"_EditPlaceNameContentController_EditTemplates" = "Redigera ortsmallar...";
+
+/* EditPlaceNameContentController */
+"_EditPlaceNameContentController_Title" = "Ortsnamn";
+
+/* (No Comment) */
+"_EditPlacePane_Map_PlaceholderButton" = "Sök koordinater…";
+
+/* (No Comment) */
+"_EditPlacePane_Map_PlaceholderMessage" = "För att kunna visa den valda orten på kartan, leta upp koordinaterna för denna ort:";
+
+/* (No Comment) */
+"_EditPlacePane_Map_PlaceholderMessagePlaceDetail" = "För att kunna visa den valda ortsdetaljen på kartan, leta upp koordinaterna för denna ortsdetalj";
+
+/* EditPlacePane */
+"_EditPlacePane_Map_PlaceholderTitle" = "Ingen koordinat";
+
+/* (No Comment) */
+"_EditPlacePane_MapKitTypePopupButton" = "Karttyp";
+
+/* (No Comment) */
+"_EditPlacePane_MapKitTypePopupButton_FromPreferences" = "Som specificerad i systeminställningarna";
+
+/* (No Comment) */
+"_EditPlacePane_MapKitTypePopupButton_Hybrid" = "Hybrid";
+
+/* (No Comment) */
+"_EditPlacePane_MapKitTypePopupButton_Satellite" = "Satellit";
+
+/* (No Comment) */
+"_EditPlacePane_MapKitTypePopupButton_Standard" = "Standard";
+
+/* (No Comment) */
+"_EditPlacePane_MapKitTypePopupButton_StandardMuted" = "Standard (dämpad)";
+
+/* (No Comment) */
+"_EditPlacePane_MapOptionsButton" = "Kartalternativ";
+
+/* (No Comment) */
+"_EditPlacePane_OnlyShowPlaceDetailsForSelectedPlaceOnMapCheckbox" = "Visa endast ortsdetaljer som orten har valts";
+
+/* (No Comment) */
+"_EditPlacePane_OnlyShowSelectedPlaceOnMapCheckbox" = "Visa endast valda orter på en karta";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton" = "Nålfärg";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton_ByEventCount_BlueToMagentaToOrange" = "Efter antal händelser (blått till magenta till orange)";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton_ByEventCount_BlueToRed" = "Efter antal händelser (blått till rött)";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton_ByEventCount_GreenToYellowToRed" = "Efter antal händelser (grönt till gult till rött)";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton_ByEventCount_TurquoiseToYellowToLightRed" = "Efter antal händelser (turkos till gult till ljusrött)";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton_ByEventCount_YellowToRed" = "Efter antal händelser (gult till rött)";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton_SingleColor" = "Endast en färg";
+
+/* (No Comment) */
+"_EditPlacePane_ShowEventCountOnPlacePins" = "Visa antal händelser på nålar";
+
+/* (No Comment) */
+"_EditPrivateContentController_Explanation" = "Om detta har valts kommer denna information inte att visas i diagram eller rapporter";
+
+/* (No Comment) */
+"_EditPrivateContentController_MarkAsPrivate" = "Märkt som privat";
+
+/* EditPrivateContentController */
+"_EditPrivateContentController_Title" = "Privat";
+
+/* EditReferenceNumbersContentController */
+"_EditReferenceNumbersContentController_Title" = "Referensnummer";
+
+/* (No Comment) */
+"_EditSourceContentController_AddToDoButton" = "Lägg till första källa";
+
+/* (No Comment) */
+"_EditSourceContentController_DeleteSourceQuestionMessage" = "Vill du verkligen radera källan?";
+
+/* EditSourceContentController */
+"_EditSourceContentController_LargePlaceholder" = "Inga källor finns";
+
+/* (No Comment) */
+"_EditSourceContentController_SmallPlaceholder" = "Det finns inga källor i detta släktträd. Välj \"Lägg till första källa\" och skapa din första källa";
+
+/* (No Comment) */
+"_EditSourceController_Title" = "Redigera källa";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_AddField" = "Lägg till fält…";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_AddTemplateKeyToTemplate" = "Lägg till fält '%@' till mall '%@'";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_DeleteFieldContentsInformative" = "Vill du verkligen radera denna ytterligare information från källan som just visas?";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_DeleteFieldContentsMessage" = "Vill du radera denna information från källan?";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_EditTemplateKeys" = "Redigera källfält...";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_LargePlaceholder" = "Ingen ytterligare information har specificerats";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_SmallPlaceholder" = "Du kan lägga till ytterligare information till denna källa som inte är specificerad i den aktuellt valda mallen med hjälp av knappen ovan.";
+
+/* EditSourceFurtherFieldsContentController */
+"_EditSourceFurtherFieldsContentController_Title" = "Ytterligare information";
+
+/* (No Comment) */
+"_EditSourceGeneralContentController_EditSourceRepository" = "Redigera källarkiv…";
+
+/* (No Comment) */
+"_EditSourceGeneralContentController_EditTemplates" = "Redigera källmallar…";
+
+/* EditSourceGeneralContentController */
+"_EditSourceGeneralContentController_Title" = "Källinformation";
+
+/* (No Comment) */
+"_EditSourceGeneralContentController_TitlePlaceholder" = "Ingen titel specificerad";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_AddEntryToSourceButton" = "Lägg till post";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_CitationNotes" = "Citatanteckningar";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_LargePlaceholder" = "Inga refererade poster förhanden";
+
+/* EditSourceReferencedEntriesContentController */
+"_EditSourceReferencedEntriesContentController_RemoveFromSourceButton" = "Ta bort från källa";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_SmallPlaceholder" = "Lägg till referensposter till denna källa med knappen ovan";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_Sorting_ByPage" = "Efter sida";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_Sorting_ByType" = "Efter typ";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_Title" = "Refererade poster";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_EvidenceExplanation" = "Specificera om beviset för det refererade objektet saknas, är indirekt eller direkt bevis.";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_EvidenceQuality" = "Beviskvalitet";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_GeneralExplanation" = "Specificera källan, information och beviskvalitet för denna refererade post för angiven källa:";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_InformationExplanation" = "Är informationen i denna källa första- eller andrahandsinformation?";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_InformationQuality" = "Informationskvalitet";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_QualityExplanation" = "Välj om källan är originaldokument eller om det har varit en derivativ källa";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_SourceQuality" = "Källkvalitet";
+
+/* EditSourceRelationCertaintySettingsCertaintyViewContentController */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_Title" = "Källsäkerhet";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_AddExistingSourceMenuItem" = "Lägg till befintlig källa…";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_AddNewSourceMenuItem" = "Lägg till ny källa";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_AddSourceButton" = "Lägg till källa";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_CitedSource" = "Citerad källa";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_CopySourceCitation" = "Kopiera källcitat";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_DeleteSourceMenuItem" = "Radera källa";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_LargePlaceholder" = "Inga källcitat finns";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_PasteSourceCitation" = "Klistra in källcitat";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_RemoveObjectFromSourceInformative" = "Vill du verkligen ta bort detta källcitat? Detta kommer inte att radera källan, men tar bort denna post från källan.";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_RemoveObjectFromSourceMessage" = "Radera post från källa '%@'?";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_SmallPlaceholder" = "Lägg till källcitat till denna post med knappen ovan";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_Sorting_ByCertainty" = "Sortera efter källsäkerhet";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_Sorting_ByDate" = "Sortera efter källdatum";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_Sorting_ByPage" = "Sortera efter sidnummer";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_Sorting_ByTitle" = "Sortera efter källtitel";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_SourceDate" = "Källdatum";
+
+/* EditSourceRelationsContentController */
+"_EditSourceRelationsContentController_Title" = "Källcitat";
+
+/* (No Comment) */
+"_EditSourceSourceRepositoryContentController_NoSourceRepository" = "Inget källarkiv";
+
+/* EditSourceSourceRepositoryContentController */
+"_EditSourceSourceRepositoryContentController_Title" = "Källarkiv";
+
+/* (No Comment) */
+"_EditSourceTextContentController_LargePlaceholder" = "Ingen text har angetts";
+
+/* (No Comment) */
+"_EditSourceTextContentController_SmallPlaceholder" = "Tryck här för att ange text för denna källa";
+
+/* EditSourceTextContentController */
+"_EditSourceTextContentController_Title" = "Källtext";
+
+/* (No Comment) */
+"_EditStoryContentController_AddStoryButton" = "Lägg till första berättelse";
+
+/* (No Comment) */
+"_EditStoryContentController_LargePlaceholder" = "Inga berättelser finns";
+
+/* (No Comment) */
+"_EditStoryContentController_SmallPlaceholder" = "Just nu har inga berättelser lagts till detta släktträd. Använd berättelser för att berätta och uppteckna särskilda händelser i din familjehistoria. Välj ”Lägg till första berättelse” för att skapa din första berättelse.";
+
+/* (No Comment) */
+"_EditStoryController_Title" = "Redigera berättelse";
+
+/* EditStoryController */
+"_EditStoryGeneralContentController_Title" = "Allmänt";
+
+/* (No Comment) */
+"_EditStoryGeneralContentController_TitlePlaceholder" = "Ingen titel specificerad";
+
+/* (No Comment) */
+"_EditStoryReferencedEntriesContentController_AddEntryToStoryButton" = "Lägg till post";
+
+/* (No Comment) */
+"_EditStoryReferencedEntriesContentController_LargePlaceholder" = "Inga refererade poster förhanden";
+
+/* (No Comment) */
+"_EditStoryReferencedEntriesContentController_SmallPlaceholder" = "Använd knapparna till att lägga till personer, händelser eller familjer som är refererade i denna berättelse.";
+
+/* (No Comment) */
+"_EditStoryReferencedEntriesContentController_Title" = "Refererade poster";
+
+/* (No Comment) */
+"_EditStoryRelationsContentController_AddExistingStoryMenuItem" = "Lägg till befintlig berättelse...";
+
+/* (No Comment) */
+"_EditStoryRelationsContentController_AddExistingStorySectionMenuItem" = "Lägg till befintligt avsnitt i berättelse...";
+
+/* (No Comment) */
+"_EditStoryRelationsContentController_AddNewStoryMenuItem" = "Lägg till ny berättelse";
+
+/* (No Comment) */
+"_EditStoryRelationsContentController_AddStoryButton" = "Lägga till berättelse";
+
+/* (No Comment) */
+"_EditStoryRelationsContentController_LargePlaceholder" = "Inga berättelser finns";
+
+/* (No Comment) */
+"_EditStoryRelationsContentController_SmallPlaceholder" = "Lägga till en ny eller befintlig berättelse med knappen ovan.";
+
+/* EditStoryRelationsContentController */
+"_EditStoryRelationsContentController_Title" = "Berättelser";
+
+/* (No Comment) */
+"_EditStorySectionReferencedEntriesContentController_AddEntryToStorySectionButton" = "Lägg till post";
+
+/* (No Comment) */
+"_EditStorySectionReferencedEntriesContentController_LargePlaceholder" = "Inga refererade poster förhanden";
+
+/* (No Comment) */
+"_EditStorySectionReferencedEntriesContentController_SmallPlaceholder" = "Lägg till personer, händelser eller familjer som nämns i detta avsnitt i berättelsen med knapparna.";
+
+/* EditStorySectionReferencedEntriesContentController */
+"_EditStorySectionReferencedEntriesContentController_Title" = "Refererade poster i avsnittet";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_AddMedia" = "Lägg till media";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_AddStorySecton" = "Lägg till avsnitt i berättelse";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_LargePlaceholder" = "Inga avsnitt finns i berättelsen";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_MoveDown" = "Flytta avsnittet nedåt";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_MoveUp" = "Flytta avsnittet uppåt";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_NoStorySectionRelationsPlaceholder" = "Inga refererade poster förhanden";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_NoSubtitlePlaceholder" = "Ingen avsnittstitel specificerad";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_NoTextPlaceholder" = "Ingen avsnittstext specificerad";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_SmallPlaceholder" = "Lägg till det första avsnittet till denna berättelse med knappen ovan";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_StorySectionRelations" = "Refererade poster i avsnittet";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_Title" = "Avsnitt i berättelsen";
+
+/* (No Comment) */
+"_EditToDoAssignedEntriesContentController_AddEntryButton" = "Lägg till post";
+
+/* (No Comment) */
+"_EditToDoAssignedEntriesContentController_LargePlaceholder" = "Inga tilldelade poster förhanden";
+
+/* (No Comment) */
+"_EditToDoAssignedEntriesContentController_SmallPlaceholder" = "Lägg till post från ditt släktträd till denna uppgift med knappen ovan";
+
+/* (No Comment) */
+"_EditToDoAssignedEntriesContentController_Sorting_ByDate" = "Efter datum";
+
+/* (No Comment) */
+"_EditToDoAssignedEntriesContentController_Sorting_ByName" = "Efter namn";
+
+/* EditToDoAssignedEntriesContentController */
+"_EditToDoAssignedEntriesContentController_Title" = "Tilldelade poster";
+
+/* (No Comment) */
+"_EditToDoContentController_AddExistingToDoMenuItem" = "Lägg till befintlig uppgift";
+
+/* (No Comment) */
+"_EditToDoContentController_AddNewToDoMenuItem" = "Lägg till ny uppgift";
+
+/* (No Comment) */
+"_EditToDoContentController_AddToDoButton" = "Lägg till uppgift";
+
+/* (No Comment) */
+"_EditToDoContentController_LargePlaceholder" = "Inga uppgifter finns";
+
+/* (No Comment) */
+"_EditToDoContentController_NoDateEnteredPlaceholder" = "Inget datum har angetts";
+
+/* (No Comment) */
+"_EditToDoContentController_NoTitleEnteredPlaceholder" = "Ingen titel har angetts";
+
+/* (No Comment) */
+"_EditToDoContentController_RemoveFromToDoButton" = "Ta bort från uppgift";
+
+/* (No Comment) */
+"_EditToDoContentController_SmallPlaceholder" = "Lägg till en ny uppgift eller bifoga en befintlig uppgift med knapparna ovan";
+
+/* EditToDosContentController */
+"_EditToDoContentController_Title" = "Uppgift";
+
+/* (No Comment) */
+"_EditToDoController_AddToDoButton" = "Lägg till första uppgift";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosInformative" = "Vill du verkligen radera alla uppgifter från ditt släktträd som har markerats som slutförda?";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosInformative_NoDoneFound" = "I ditt släktträd har inga uppgifter markerade som slutförda hittats, alltså har inga tagits bort.";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosMessage" = "Vill du verkligen radera %d uppgifter som har markerats som slutförda?";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosMessage_NoDoneFound" = "Hittade inga uppgifter markerade som slutförda";
+
+/* EditToDoController */
+"_EditToDoController_LargePlaceholder" = "Inga uppgifter finns";
+
+/* (No Comment) */
+"_EditToDoController_SmallPlaceholder" = "Det finns inga uppgifter i detta släktträd. Välj \"Lägg till första uppgift\" för att skapa din första uppgift.";
+
+/* (No Comment) */
+"_EditToDoController_Title" = "Redigera uppgift";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditPriorityConclusionTypes" = "Redigera prioritetstyper...";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditStatusConclusionTypes" = "Redigera statustyper...";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditTypeConclusionTypes" = "Redigera typer...";
+
+/* EditToDoGeneralContentController */
+"_EditToDoGeneralContentController_Title" = "Allmänt";
+
+/* (No Comment) */
+"_EditToDosContentController_Sorting_ByDueDate" = "Efter förfallodatum";
+
+/* (No Comment) */
+"_EditToDosContentController_Sorting_ByPriority" = "Efter prioritering";
+
+/* (No Comment) */
+"_EditToDosContentController_Sorting_ByStatus" = "Efter status";
+
+/* (No Comment) */
+"_EditToDosContentController_Sorting_ByTitle" = "Efter titel";
+
+/* (No Comment) */
+"_EditToDosContentController_Sorting_ByType" = "Efter typ";
+
+/* (No Comment) */
+"_EditToDoTextContentController_LargePlaceholder" = "Ingen text har angetts";
+
+/* (No Comment) */
+"_EditToDoTextContentController_SmallPlaceholder" = "Tryck här för att ange text för denna uppgift";
+
+/* EditToDoTextContentController */
+"_EditToDoTextContentController_Title" = "Text";
+
+/* (No Comment) */
+"_FreeformControlsEventsControlDescription_NEvents" = "%d händelser";
+
+/* (No Comment) */
+"_FreeformControlsEventsControlDescription_OneEvent" = "1 händelse";
+
+/* Specialized Freeform Controls */
+"_FreeformControlsNotesControlDescription_NNotes" = "%d anteckningar";
+
+/* (No Comment) */
+"_FreeformControlsNotesControlDescription_OneNote" = "1 anteckning";
+
+/* (No Comment) */
+"_FreeformControlsSourceRelationsControlDescription_NSources" = "%d källor";
+
+/* (No Comment) */
+"_FreeformControlsSourceRelationsControlDescription_OneSource" = "1 källa";
+
+/* (No Comment) */
+"_FreeformControlsStorySectionRelationsControlDescription_NRelations" = "%d refererade poster";
+
+/* (No Comment) */
+"_FreeformControlsStorySectionRelationsControlDescription_OneRelation" = "En refererad post";
+
+/* (No Comment) */
+"_FreeformControlsTextFieldControlDescription_NoMicrophoneAvailableDescription" = "Hittade ingen mikrofon.";
+
+/* (No Comment) */
+"_FreeformControlsTextFieldControlDescription_NoMicrophoneAvailableRecovery" = "En mikrofon behövs för röstigenkänning. Se till att en mikrofon är tillgänglig och inte används av en annan app.";
+
+/* (No Comment) */
+"_FreeformControlsTextFieldControlDescription_SpeechNotGrantedDescription" = "Tillstånds krävs för röstigenkänning";
+
+/* (No Comment) */
+"_FreeformControlsTextFieldControlDescription_SpeechNotGrantedRecovery" = "Släktträdet saknar tillstånd för röstigenkänning. Ge släktträdet tillstånd med integritetsinställningarna i inställningsappen.";
+
+/* (No Comment) */
+"_InteractiveTreeEditFamilyController_Title" = "Interaktivt träd – Familjer";
+
+/* InteractiveTreeEditFamilySearchPersonSummaryContentController */
+"_InteractiveTreeEditFamilySearchPersonSummaryContentController_Title" = "Personsammanfattning";
+
+/* InteractiveTreeEditPersonActionsContentController */
+"_InteractiveTreeEditPersonActionsContentController_Title" = "Åtgärder";
+
+/* (No Comment) */
+"_InteractiveTreeEditPersonController_SelectPersonsPlaceholder_Message" = "Välj en person eller ett familjeband för att starta redigera";
+
+/* InteractiveTreeEditPersonController */
+"_InteractiveTreeEditPersonController_SelectPersonsPlaceholder_Title" = "Välj person eller familj";
+
+/* (No Comment) */
+"_InteractiveTreeEditPersonController_Title" = "Interaktivt träd – Personer";
+
+/* (No Comment) */
+"_ManagePersonGroupPersons_NoPersonsInGroup" = "Inga personer ingår i denna persongrupp";
+
+/* (No Comment) */
+"_ManagePersonGroupPersons_NoPersonsLeftToAdd" = "Alla personer i ditt släktträd har lagts till denna persongrupp";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsAddRelatives_Title" = "Lägg till släktingar till gruppen";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsController_AddPersonsToGroup" = "Lägg till personer till gruppen";
+
+/* ManagePersonGroupPersonsController */
+"_ManagePersonGroupPersonsController_Title" = "Personer i gruppen";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_AllGenerations" = "Alla generationer";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_AllRelativesOfChildren" = "Lägg till alla släktingar till ättlingar";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_AllRelativesOfParents" = "Lägg till alla släktingar till förfäder";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_AllRelativesOfPartners" = "Lägg till alla släktingar till partner";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_Children" = "Lägg till alla ättlingar till person";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_Explanation" = "Välj vilka släktingar till '%@' som ska läggas till denna persongrupp:";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_GenerationsToCollect" = "Generationer för hämtning";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_Parents" = "Lägg till alla förfäder till person";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_Partners" = "Lägg till partner till gruppen";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_PartnersOfChildren" = "Lägg till alla partner till ättlingar";
+
+/* PlaceLookupControllerResultPlacePreviewLinksContentController */
+"_PlaceLookupControllerResultPlacePreviewLinksContentController_Title" = "Webbsidor";
+
+/* PlaceLookupControllerResultPlacePreviewNamesContentController */
+"_PlaceLookupControllerResultPlacePreviewNamesContentController_Title" = "Namn";
+
+/* (No Comment) */
+"_SectionIdentifier_aboveMainFullWidth" = "Ovanför huvudområde – Full vidd";
+
+/* Section Identifiers */
+"_SectionIdentifier_main" = "Huvudområde";
+
+/* (No Comment) */
+"_SectionIdentifier_parents" = "Föräldrarområde";
+
+/* (No Comment) */
+"_SectionIdentifier_top" = "Rubrikområde";
+

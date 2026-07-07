@@ -1,0 +1,1707 @@
+﻿/* (No Comment) */
+"_BaseEditController_DeleteBaseObjectQuestionInformative" = "Вы действительно хотите удалить эту запись из своего семейного древа?";
+
+/* (No Comment) */
+"_BaseEditController_DeleteBaseObjectQuestionMessage" = "Удалить '%@'?";
+
+/* (No Comment) */
+"_BaseEditController_DeletePersonQuestionInformative" = "Вы действительно хотите удалить этого человека из своей родословной?";
+
+/* BaseEditController */
+"_BaseEditController_DeletePersonQuestionMessage" = "Удалить человека '%@'?";
+
+/* (No Comment) */
+"_BaseEditController_ManuallyAddPlaceDetailInformative" = "Введите название нового сведения о месте '%@'.";
+
+/* (No Comment) */
+"_BaseEditController_ManuallyAddPlaceDetailTitle" = "Добавить сведения о месте вручную";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_AddEventButton" = "Добавить событие";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_AgeAtEvent" = "Возраст во время события";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_CopyEventToPersonMenuItem" = "Скопировать событие человеку...";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_CreateStoryFromEventMenuItem" = "Создать историю для события";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_DeadButNoFurtherInfoCheckbox" = "Отметить человека как умершего, но больше никакой информации нет";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_DeleteEvent" = "Удалить событие";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_EditEventDetails" = "Изменить детали события";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_EditFamilyEventConclusionTypes" = "Редактировать типы семейных событий";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_EditFamilyMenuItem" = "Изменить семью %@";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_EditPersonEventConclusionTypes" = "Редактировать типы событий человека";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_EditPlaceDetails" = "Изменить сведения о месте…";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_EventPlaceholder" = "%@ – введите здесь информацию";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_FamilyEventPlaceholder" = "%@ с %@ – введите здесь информацию";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_FurtherOptionsButton" = "Дополнительные параметры";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_LargePlaceholder" = "Нет событий";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_LookupNewPlaceDetail" = "Поиск новых сведений о месте…";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_ManuallyAddPlaceDetail" = "Добавить новые сведения о месте вручную…";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_MarriedButNoFurtherInfoCheckbox" = "Отметить пару как женатые, но дополнительной информации нет";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_NoDateAvailable" = "Дата не введена";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_NoNotesPlaceholder" = "Примечания не введены";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_NoPlacePlaceholder" = "Место не введено";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_NoSourcesPlaceholder" = "Источники не введены";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_SmallPlaceholder" = "Пожалуйста, используйте кнопку выше, чтобы добавить новое событие.";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_Sorting_ByDate" = "По дате события";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_Sorting_ByDescription" = "По описанию";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_Sorting_ByTypeAndDate" = "По типу события и дате";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_Sorting_ByTypeName" = "По имени типа события";
+
+/* Shared Base Events */
+"_BaseEditEventsContentController_Title" = "События";
+
+/* BaseEditHeaderContentController */
+"_BaseEditHeaderContentController_Title" = "Заголовок";
+
+/* (No Comment) */
+"_BaseEditListContentController_SortAscending" = "По возрастанию";
+
+/* (No Comment) */
+"_BaseEditListContentController_SortDescending" = "По убыванию";
+
+/* BaseEditListContentController */
+"_BaseEditListContentController_SortingButton" = "Сортировка";
+
+/* (No Comment) */
+"_BaseEditPlaceLinksContentController_OtherLanguagesButton" = "Другие языки…";
+
+/* (No Comment) */
+"_BaseEditPlaceLinksContentController_ShowArticleButton" = "Показать статью";
+
+/* (No Comment) */
+"_BaseReferencedEntriesListContentController_EditFamilyEventMenuItem" = "Изменить семейное событие '%@'";
+
+/* (No Comment) */
+"_BaseReferencedEntriesListContentController_EditFamilyMenuItem" = "Изменить семью '%@'";
+
+/* (No Comment) */
+"_BaseReferencedEntriesListContentController_EditPersonEventMenuItem" = "Изменить событие человека '%@'";
+
+/* BaseReferencedEntriesListContentController */
+"_BaseReferencedEntriesListContentController_EditPersonMenuItem" = "Изменить человека '%@'";
+
+/* (No Comment) */
+"_Column_aboveMainFullWidth_0" = "Основная область";
+
+/* (No Comment) */
+"_Column_main_0" = "С левой стороны";
+
+/* (No Comment) */
+"_Column_main_1" = "С правой стороны";
+
+/* (No Comment) */
+"_Column_main_256" = "Боковая панель";
+
+/* (No Comment) */
+"_Column_parents_0" = "С левой стороны";
+
+/* (No Comment) */
+"_Column_parents_1" = "С правой стороны";
+
+/* (No Comment) */
+"_Column_top_0" = "Основная область";
+
+/* Common */
+"_CommonEdit_NoLabelsAssignedPlaceholder" = "Метки не назначены";
+
+/* (No Comment) */
+"_DatabaseChangesController_DeleteChangeLogEntryMessage" = "Действительно удалить запись журнала изменений?";
+
+/* (No Comment) */
+"_DatabaseChangesController_PurgeAllChangesInformative" = "Пожалуйста, подтвердите, что вы хотите удалить все записи журнала изменений из вашего семейного древа.";
+
+/* (No Comment) */
+"_DatabaseChangesController_PurgeAllChangesInformativeWithDate" = "Пожалуйста, подтвердите, если вы хотите удалить все записи журнала изменений, сделанные до %@.";
+
+/* DatabaseChangesController */
+"_DatabaseChangesController_PurgeAllChangesMessage" = "Действительно очистить журнал изменений? Это не может быть отменено.";
+
+/* (No Comment) */
+"_DatabaseChangesController_PurgeAllChangesOfDeletedEntriesInformative" = "Пожалуйста, подтвердите, что вы хотите удалить все записи журнала изменений, относящиеся к удаленным людям, семьям и т. д.";
+
+/* (No Comment) */
+"_DatabaseChangesController_PurgeAllChangesOfDeletedEntriesMessage" = "Действительно очистить журнал изменений от удаленных записей? Это не может быть отменено.";
+
+/* (No Comment) */
+"_DatabaseChangesController_PurgeButton" = "Очистить журнал изменений";
+
+/* (No Comment) */
+"_EditAssociateRelationGeneralController_Source" = "Источник";
+
+/* (No Comment) */
+"_EditAssociateRelationGeneralController_Target" = "Цель";
+
+/* EditAssociateRelationGeneralController */
+"_EditAssociateRelationGeneralController_Title" = "Общее";
+
+/* (No Comment) */
+"_EditAssociatesContentController_AddAssociatedPersonButton" = "Добавить влиятельного человека";
+
+/* (No Comment) */
+"_EditAssociatesContentController_AddExistingFamilyAsAssociate" = "Добавить существующую семью в качестве влиятельной";
+
+/* (No Comment) */
+"_EditAssociatesContentController_AddExistingPersonAsAssociate" = "Добавить существующего человека как влиятельного";
+
+/* (No Comment) */
+"_EditAssociatesContentController_AddNewFamilyAsAssociate" = "Добавить новую влиятельную семью";
+
+/* (No Comment) */
+"_EditAssociatesContentController_AddNewPersonAsAssociate" = "Добавить нового влиятельного человека";
+
+/* (No Comment) */
+"_EditAssociatesContentController_EditAssociateRelationConclusionTypes" = "Редактировать влиятельные типы отношений…";
+
+/* (No Comment) */
+"_EditAssociatesContentController_LargePlaceholder" = "Влиятельных людей нет";
+
+/* (No Comment) */
+"_EditAssociatesContentController_RemoveAssociateButton" = "Удалить влиятельного человека";
+
+/* (No Comment) */
+"_EditAssociatesContentController_RemoveAssociateRelationInformative" = "Это не удалит человека из вашего семейного древа, а только его отношение к нему.";
+
+/* (No Comment) */
+"_EditAssociatesContentController_RemoveAssociateRelationMessage" = "Вы действительно хотите удалить родственные отношения с '%@'?";
+
+/* (No Comment) */
+"_EditAssociatesContentController_SmallPlaceholder" = "Пожалуйста, используйте кнопку выше, чтобы добавить влиятельных людей, таких как крестные отцы.";
+
+/* EditAssociatesContentController */
+"_EditAssociatesContentController_Title" = "Влиятельные люди";
+
+/* (No Comment) */
+"_EditBookmarkContentController_OtherBookmarkedEntries_BaseMedia" = "Медиа";
+
+/* (No Comment) */
+"_EditBookmarkContentController_OtherBookmarkedEntries_Family" = "Семьи";
+
+/* (No Comment) */
+"_EditBookmarkContentController_OtherBookmarkedEntries_Person" = "Люди";
+
+/* (No Comment) */
+"_EditBookmarkContentController_OtherBookmarkedEntries_Place" = "Места";
+
+/* (No Comment) */
+"_EditBookmarkContentController_OtherBookmarkedEntries_Source" = "Источники";
+
+/* EditBookmarkContentController */
+"_EditBookmarkContentController_Title" = "Закладки";
+
+/* Common */
+"_EditCommon_PrivateFlagLabel" = "Личное";
+
+/* (No Comment) */
+"_EditCreationAndChangeDateContentController_ChangeDate" = "Дата изменения";
+
+/* (No Comment) */
+"_EditCreationAndChangeDateContentController_CreationDate" = "Дата создания";
+
+/* EditCreationAndChangeDateContentController */
+"_EditCreationAndChangeDateContentController_Title" = "Изменено";
+
+/* (No Comment) */
+"_EditDNATestResultATDNARawDataContentController_DataPresentString" = "Исходные данные для atDNA сохранены, размер файла: %@";
+
+/* EditDNATestResultATDNARawDataContentController */
+"_EditDNATestResultATDNARawDataContentController_Title" = "atDNA исходные данные";
+
+/* EditDNATestResultBaseMTDNARegionSNPDifferencesContentController */
+"_EditDNATestResultBaseMTDNARegionSNPDifferencesContentController_AddMarkerButton" = "Добавить маркер";
+
+/* (No Comment) */
+"_EditDNATestResultBaseMTDNARegionSNPDifferencesContentController_LargePlaceholder" = "Маркеры не введены";
+
+/* (No Comment) */
+"_EditDNATestResultBaseMTDNARegionSNPDifferencesContentController_SmallPlaceholder" = "Пожалуйста, тспользуйте кнопку выше, чтобы добавить маркеры";
+
+/* (No Comment) */
+"_EditDNATestResultBaseRawDataContentController_AddDataButton" = "Добавить данные";
+
+/* (No Comment) */
+"_EditDNATestResultBaseRawDataContentController_DeleteDNARawDataInformative" = "Вы действительно хотите удалить исходные данные DNA,  связанные с этим тестом?";
+
+/* (No Comment) */
+"_EditDNATestResultBaseRawDataContentController_DeleteDNARawDataMessage" = "Действительно удалить DNA данные?";
+
+/* EditDNATestResultBaseRawDataContentController */
+"_EditDNATestResultBaseRawDataContentController_LargePlaceholder" = "Исходные данные DNA не были добавлены";
+
+/* (No Comment) */
+"_EditDNATestResultBaseRawDataContentController_SelectFileMessage" = "Пожалуйста, выберите файл для схранения исходных данных DNA";
+
+/* (No Comment) */
+"_EditDNATestResultBaseRawDataContentController_SmallPlaceholder" = "Пожалуйста, используйте кнопку выше, чтобы добавить исходные данные DNA";
+
+/* (No Comment) */
+"_EditDNATestResultController_Title" = "Результаты теста DNA";
+
+/* (No Comment) */
+"_EditDNATestResultGeneralContentController_NoNameEnteredPlaceholder" = "Название теста не введено";
+
+/* EditDNATestResultGeneralContentController */
+"_EditDNATestResultGeneralContentController_Title" = "Основное";
+
+/* (No Comment) */
+"_EditDNATestResultMTDNAGeneralInformationContentController_NoHaplogroupPlaceholder" = "Гаплогруппа не введена";
+
+/* EditDNATestResultMTDNAGeneralInformationContentController */
+"_EditDNATestResultMTDNAGeneralInformationContentController_Title" = "mtDNA информация";
+
+/* (No Comment) */
+"_EditDNATestResultMTDNARawDataContentController_DataPresentString" = "Исходные данные дляr mtDNA сохранены, размер файла: %@";
+
+/* EditDNATestResultMTDNARawDataContentController */
+"_EditDNATestResultMTDNARawDataContentController_Title" = "mtDNA исходные данные";
+
+/* EditDNATestResultMTNDNACodingRegionSNPDifferencesContentController */
+"_EditDNATestResultMTNDNACodingRegionSNPDifferencesContentController_Title" = "Различия в SNP кодирующей области mtDNA";
+
+/* EditDNATestResultMTNDNAHVR1SNPDifferencesContentController */
+"_EditDNATestResultMTNDNAHVR1SNPDifferencesContentController_Title" = "mtDNA HVR1 SNP различия";
+
+/* EditDNATestResultMTNDNAHVR2SNPDifferencesContentController */
+"_EditDNATestResultMTNDNAHVR2SNPDifferencesContentController_Title" = "mtDNA HVR2 SNP различия";
+
+/* (No Comment) */
+"_EditDNATestResultYDNAGeneralInformationContentController_NoHaplogroupPlaceholder" = "Гаплогруппа не введена";
+
+/* EditDNATestResultYDNAGeneralInformationContentController */
+"_EditDNATestResultYDNAGeneralInformationContentController_Title" = "Y-DNA информация";
+
+/* (No Comment) */
+"_EditDNATestResultYDNARawDataContentController_DataPresentString" = "Исходные данные для Y-DNA сохранены, размер файла: %@";
+
+/* EditDNATestResultYDNARawDataContentController */
+"_EditDNATestResultYDNARawDataContentController_Title" = "Y-DNA исходные данные";
+
+/* (No Comment) */
+"_EditDNATestResultYDNASTRMarkerListContentController_AddMarkerButton" = "Добавить маркер";
+
+/* (No Comment) */
+"_EditDNATestResultYDNASTRMarkerListContentController_LargePlaceholder" = "Y-DNA STR маркеры не введены";
+
+/* (No Comment) */
+"_EditDNATestResultYDNASTRMarkerListContentController_SmallPlaceholder" = "Пожалуйста, используйте кнопку выше, чтобы добавить Y-DNA STR маркеры";
+
+/* EditDNATestResultYDNASTRMarkerListContentController */
+"_EditDNATestResultYDNASTRMarkerListContentController_Title" = "Y-DNA STR маркеры";
+
+/* EditEventGeneralContentController */
+"_EditEventGeneralContentController_Title" = "Основное";
+
+/* (No Comment) */
+"_EditEventPlaceContentController_AssignPlace" = "Назначить место";
+
+/* (No Comment) */
+"_EditEventPlaceContentController_LargePlaceholder" = "Место не назначено";
+
+/* (No Comment) */
+"_EditEventPlaceContentController_SelectExistingPlace" = "Выбрать место";
+
+/* (No Comment) */
+"_EditEventPlaceContentController_ShowPlace" = "Показать место";
+
+/* (No Comment) */
+"_EditEventPlaceContentController_SmallPlaceholder" = "Место для этого события не определено. Используйте кнопку выше, чтобы назначить существующее или найти новое место.";
+
+/* EditEventPlaceContentController */
+"_EditEventPlaceContentController_Title" = "Место";
+
+/* (No Comment) */
+"_EditEventPlaceController_FieldsHint" = "Введите информацию об этом месте в поля ниже. Если вам нужны другие поля, рассмотрите возможность выбора другого шаблона места или добавления полей в шаблон места.";
+
+/* EditEventPlaceController */
+"_EditEventPlaceController_TemplateHint" = "Пожалуйста, выберите шаблон для этого места с помощью кнопки ниже. Если подходящего шаблона нет, воспользуйтесь опцией «Редактировать шаблоны», чтобы создать новый шаблон.";
+
+/* EditEventPlaceDetailContentController */
+"_EditEventPlaceDetailContentController_Title" = "Сведения о месте";
+
+/* EditEventPlace */
+"_EditEventPlaceSheetLookupNewPlaceSection_Title" = "Поиск нового места";
+
+/* (No Comment) */
+"_EditEventPlaceSheetManualEnterPlaceSection_Title" = "Ввести место вручную";
+
+/* (No Comment) */
+"_EditEventPlaceSheetManualEnterPlaceSection_TitleReplace" = "Изменить место вручную";
+
+/* (No Comment) */
+"_EditEventPlaceSheetSelectExistingPlaceSection_Title" = "Выбрать существующее место";
+
+/* (No Comment) */
+"_EditEventPlaceSheetSelectExistingPlaceSection_TitleReplace" = "Заменить существующим местом";
+
+/* (No Comment) */
+"_EditEventPlaceViewController_EditPlace" = "Редактировать место";
+
+/* (No Comment) */
+"_EditEventPlaceViewController_JustLookUpCoordinate" = "Только координаты поиска";
+
+/* (No Comment) */
+"_EditEventPlaceViewController_RemoveCurrentPlace" = "Удалить текущее место";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_AddExistingManButton" = "Добавить существующего мужчину";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_AddExistingWomanButton" = "Добавить существующую женщину";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_AddNewManButton" = "Добавить нового мужчину";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_AddNewWomanButton" = "Добавить новую женщину";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_EditParentButton" = "Изменить";
+
+/* EditFamilyController */
+"_EditFamilyBaseEditParentContentController_NoManPlaceholder" = "В эту семью не добавлены мужчины. Нажмите кнопки ниже, чтобы добавить нового или существующего мужчину.";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_NoWomanPlaceholder" = "В эту семью не добавлены женщины. Нажмите кнопки ниже, чтобы добавить новую или существующую женщину.";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_RemoveAsManButton" = "Удалить как мужчину";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_RemoveAsPartner1Button" = "Удалить как партнёра 1";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_RemoveAsPartner2Button" = "Удалить как партнёра 2";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_RemoveAsWomanButton" = "Удалить как женщину";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_RemoveFromFamilyInformative" = "Вы действительно хотите удалить этого родителя из семьи? Родитель не будет совсем удалён, но просто больше не будет являться частью этой семьи.";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_RemoveFromFamilyMessage" = "Удалить родителя '%@'?";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_ShowParentButton" = "Показать";
+
+/* EditFamilyChildContentController */
+"_EditFamilyChildContentController_Title" = "Дети";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_AddChildTopLevelButton" = "Добавить детей";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_AddExistingChildButton" = "Добавить существующего ребёнка";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_AddNewChildButton" = "Добавить нового ребёнка";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_ChildOrder" = "Ребёнок #%d";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_ChildOrderPopup" = "Пользовательский порядок детей";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_DeleteChildRelationInformative" = "Вы действительно хотите удалить этого ребёнка из семьи? Ребёнок не будет совсем удалён, но просто больше не будет являться частью этой семьи.";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_DeleteChildRelationMessage" = "Удалить ребёнка '%@' из семьи?";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_EditChildButton" = "Изменить";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_LargePlaceholder" = "Нет детей";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_RemoveAsChildButton" = "Удалить как ребёнка";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_SmallPlaceholder" = "В эту семью не введены дети. Используйте кнопки выше, чтобы добавить детей.";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_Sorting_ByBirthDate" = "По дате рождения";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_Sorting_ByName" = "По имени";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_Sorting_CustomOrder" = "Порядок пользователя";
+
+/* (No Comment) */
+"_EditFamilyController_AddFatherPlaceholder" = "Добавить отца человека %@";
+
+/* (No Comment) */
+"_EditFamilyController_AddMotherPlaceholder" = "Добавить мать человека %@";
+
+/* (No Comment) */
+"_EditFamilyController_AddNewFamily" = "Добавить новую семью";
+
+/* (No Comment) */
+"_EditFamilyController_AddParent1Placeholder" = "Добавить родителя 1 человека %@";
+
+/* (No Comment) */
+"_EditFamilyController_AddParent2Placeholder" = "Добавить родителя 2 человека %@";
+
+/* (No Comment) */
+"_EditFamilyController_DeleteFamily" = "Удалить семью";
+
+/* (No Comment) */
+"_EditFamilyController_DeleteFamilyQuestionMessage" = "Действительно удалить семью?";
+
+/* (No Comment) */
+"_EditFamilyController_NoFamiliesPlaceholder_AddFamilyButton" = "Добавить первую семью";
+
+/* (No Comment) */
+"_EditFamilyController_NoFamiliesPlaceholder_Message" = "В этом семейном древе нет семей. Пожалуйста, выберите «Добавить первую семью» для её создания.";
+
+/* (No Comment) */
+"_EditFamilyController_NoFamiliesPlaceholder_Title" = "Нет семей";
+
+/* (No Comment) */
+"_EditFamilyController_ParentsOfLabel" = "Родители человека %@";
+
+/* (No Comment) */
+"_EditFamilyController_Title" = "Изменить семью";
+
+/* EditFamilyEditManContentController */
+"_EditFamilyEditManContentController_Title" = "Мужчина";
+
+/* EditFamilyEditWomanContentController */
+"_EditFamilyEditWomanContentController_Title" = "Женщина";
+
+/* (No Comment) */
+"_EditFamilyEventController_Title" = "Изменить семейное событие";
+
+/* EditFamilyTreeInformationContactContentController */
+"_EditFamilyTreeInformationContactContentController_Title" = "Контакты автора";
+
+/* (No Comment) */
+"_EditFamilyTreeInformationController_Title" = "Автор";
+
+/* EditFamilyTreeInformationFamilyCrestContentController */
+"_EditFamilyTreeInformationFamilyCrestContentController_Title" = "Фамильный герб";
+
+/* EditFamilyTreeInformationHeaderContentController */
+"_EditFamilyTreeInformationHeaderContentController_LargeTitle" = "Об авторе этого семейного древа";
+
+/* (No Comment) */
+"_EditFamilyTreeInformationIconSettingsContentController_AddToIconButton" = "Добавить медиа на значок";
+
+/* (No Comment) */
+"_EditFamilyTreeInformationIconSettingsContentController_RemoveMediaFromIconMenuItem" = "Убрать со значка";
+
+/* EditFamilyTreeInformationIconSettingsContentController */
+"_EditFamilyTreeInformationIconSettingsContentController_Title" = "Настройки миниатюр";
+
+/* (No Comment) */
+"_EditFamilyTreeInformationNameAndAddressContentController_NoNamePlaceholder" = "Имя не введено";
+
+/* EditFamilyTreeInformationNameAndAddressContentController */
+"_EditFamilyTreeInformationNameAndAddressContentController_Title" = "Имя и адрес автора";
+
+/* (No Comment) */
+"_EditLabel_DeleteLabelMessage" = "Это приведёт к удалению данной метки и удалению её из всех связанных записей в вашей родословной.";
+
+/* Edit Labels Views */
+"_EditLabel_DeleteLabelTitle" = "Удалить метку?";
+
+/* (No Comment) */
+"_EditLabelsContentController_NoLabelsLargePlaceholder" = "Нет меток";
+
+/* (No Comment) */
+"_EditLabelsContentController_NoLabelsSmallPlaceholder" = "В этом семейном древе нет меток. Для добавления используйте кнопку выше.";
+
+/* Shared Labels */
+"_EditLabelsContentController_Title" = "Метки";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_AddEntryButton" = "Добавить запись";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_EditMediaRelationAssignmentButton" = "Изменить область назначения";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_LargePlaceholder" = "Нет назначенных записей";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_RemoveFromMediaButton" = "Удалить";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_RemoveMediaFromEntryAndDeleteInformative" = "Поскольку это последняя запись, назначенная медиа, медиа будет удалён из семейного древа.";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_RemoveMediaFromEntryAndDeleteMessage" = "Вы действительно хотите удалить эти медиа?";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_RemoveMediaFromEntryInformative" = "Это не удалит медиа, а просто удалит присвоение записи этому медиа.";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_RemoveMediaFromEntryMessage" = "Вы действительно хотите удалить запись '%@' из медиа?";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_SmallPlaceholder" = "Используйте кнопку выше, чтобы назначить этому медиа такие записи, как люди или семьи.";
+
+/* EditMediaAssignedEntriesContentController */
+"_EditMediaAssignedEntriesContentController_Title" = "Назначенные записи";
+
+/* (No Comment) */
+"_EditMediaContentController_AddMediaButton" = "Добавить медиа";
+
+/* (No Comment) */
+"_EditMediaContentController_BringToFrontMenuItem" = "Поместить медиа на передний план";
+
+/* (No Comment) */
+"_EditMediaContentController_DeleteMediaQuestionInformative" = "Вы действительно хотите удалить эти медиа из своего семейного древа?";
+
+/* (No Comment) */
+"_EditMediaContentController_DeleteMediaQuestionMessage" = "Действительно удалить медиа?";
+
+/* (No Comment) */
+"_EditMediaContentController_DeleteMenuItem" = "Удалить";
+
+/* (No Comment) */
+"_EditMediaContentController_DoNotUseAsEntryImageMenuItem" = "Не использовать как изображение для входа";
+
+/* (No Comment) */
+"_EditMediaContentController_EditMenuItem" = "Изменить...";
+
+/* (No Comment) */
+"_EditMediaContentController_LargePlaceholder" = "Нет медиа";
+
+/* (No Comment) */
+"_EditMediaContentController_MarkAsNotPrivateMenuItem" = "Отметить как не личное";
+
+/* (No Comment) */
+"_EditMediaContentController_MarkAsPrivateMenuItem" = "Отметить как личное";
+
+/* (No Comment) */
+"_EditMediaContentController_NoPicture_SmallPlaceholder" = "Пожалуйста, используйте кнопку выше, чтобы добавить изображения.";
+
+/* (No Comment) */
+"_EditMediaContentController_ShowSlideshowButton" = "Слайд-шоу";
+
+/* (No Comment) */
+"_EditMediaContentController_SmallPlaceholder" = "Пожалуйста, используйте кнопку выше для добавления фото, PDF, видео, аудио или веб-страниц";
+
+/* Media */
+"_EditMediaContentController_Title" = "Медиа";
+
+/* (No Comment) */
+"_EditMediaContentController_UseAsEntryImageMenuItem" = "Использовать как изображение для входа";
+
+/* EditMediaController */
+"_EditMediaController_LargePlaceholder" = "Нет медиа";
+
+/* (No Comment) */
+"_EditMediaController_SmallPlaceholder" = "Добавлять медиа в медиа-разделы при редактировании людей, семей или мест";
+
+/* (No Comment) */
+"_EditMediaController_Title" = "Редактировать медиа";
+
+/* (No Comment) */
+"_EditMediaCropColorizeContentController_Explanation" = "Нажмите кнопку выше, чтобы обрезать, раскрасить, удалить царапины, улучшить или удалить фон с изображения.";
+
+/* (No Comment) */
+"_EditMediaCropColorizeContentController_OpenCropColorizeButton" = "Редактировать и улучшить фото...";
+
+/* (No Comment) */
+"_EditMediaCropColorizeContentController_SuiteableForColorizeExplanation" = "Это изображение кажется подходящим для раскрашивания. Автоматически раскрашивайте, улучшайте, удаляйте царапины или обрезайте изображения с помощью кнопки выше.";
+
+/* EditMediaCropColorizeContentController */
+"_EditMediaCropColorizeContentController_Title" = "ИИ и обрезка";
+
+/* EditMediaGeneralContentController */
+"_EditMediaGeneralContentController_Title" = "Общее";
+
+/* EditMediaMediaPreviewContentController */
+"_EditMediaMediaPreviewContentController_Title" = "Медиа";
+
+/* (No Comment) */
+"_EditMediaMediaPreviewContentControlleriOSPlatformView_ShowAudioButton" = "Показать аудио...";
+
+/* (No Comment) */
+"_EditMediaMediaPreviewContentControlleriOSPlatformView_ShowFullImageButton" = "Показать полноразмерное изображение…";
+
+/* (No Comment) */
+"_EditMediaMediaPreviewContentControlleriOSPlatformView_ShowFullPDFButton" = "Показать PDF…";
+
+/* (No Comment) */
+"_EditMediaMediaPreviewContentControlleriOSPlatformView_ShowVideoButton" = "Показать видео...";
+
+/* (No Comment) */
+"_EditMediaMediaPreviewContentControlleriOSPlatformView_ShowWebsiteButton" = "Показать веб-сайт...";
+
+/* (No Comment) */
+"_EditNotesContentController_AddNoteButton" = "Добавить примечание";
+
+/* (No Comment) */
+"_EditNotesContentController_DeleteNoteQuestionMessage" = "Действительно удалить заметку?";
+
+/* (No Comment) */
+"_EditNotesContentController_LargePlaceholder" = "Нет примечаний";
+
+/* (No Comment) */
+"_EditNotesContentController_NoNoteTextPlaceholder" = "Текст примечания не введён";
+
+/* (No Comment) */
+"_EditNotesContentController_SmallPlaceholder" = "Пожалуйста, используйте кнопу выше для добавления нового примечания";
+
+/* (No Comment) */
+"_EditNotesContentController_Sorting_ByChangeDate" = "По дате изменения";
+
+/* (No Comment) */
+"_EditNotesContentController_Sorting_ByCreationDate" = "По дате создания";
+
+/* (No Comment) */
+"_EditNotesContentController_Sorting_ByText" = "По тексту";
+
+/* EditNotesContentController */
+"_EditNotesContentController_Title" = "Примечания";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_AddAdditionalNameButton" = "Добавить имя";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_AdditionalNamePlaceholder" = "%@ – введите здесь информацию";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_DeleteAdditionalNameQuestionInformative" = "Вы действительно хотите удалить это дополнительное имя?";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_DeleteAdditionalNameQuestionMessage" = "Удалить дополнительное имя '%@'?";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_EditAdditionalNameConclusionTypes" = "Редактировать типы дополнительных имён...";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_LargePlaceholder" = "Нет дополнительного имени";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_SmallPlaceholder" = "Пожалуйста, используйте кнопку выше, чтобы добавить дополнительное имя.";
+
+/* EditPerson Additional Names */
+"_EditPersonAdditionalNamesContentController_Title" = "Дополнительные имена";
+
+/* (No Comment) */
+"_EditPersonController_AddBrotherMenuItem" = "Добавить нового брата";
+
+/* (No Comment) */
+"_EditPersonController_AddChildPlaceholder" = "Добавить нового ребёнка";
+
+/* (No Comment) */
+"_EditPersonController_AddExistingFurtherPartnerMenuItem" = "Добавить существующего человека как партнёра в дальнейшем...";
+
+/* (No Comment) */
+"_EditPersonController_AddExistingPersonAsChildMenuItem" = "Добавить существующего человека как ребёнка…";
+
+/* (No Comment) */
+"_EditPersonController_AddExistingPersonAsFatherMenuItem" = "Добавить существующего человека как отца...";
+
+/* (No Comment) */
+"_EditPersonController_AddExistingPersonAsMotherMenuItem" = "Добавить существующего человека как мать...";
+
+/* (No Comment) */
+"_EditPersonController_AddExistingPersonAsPartnerMenuItem" = "Добавить существующего человека как партнёра...";
+
+/* EditPersonController */
+"_EditPersonController_AddFatherPlaceholder" = "Добавить нового отца";
+
+/* (No Comment) */
+"_EditPersonController_AddFurtherFather" = "Добавить отца";
+
+/* (No Comment) */
+"_EditPersonController_AddFurtherMother" = "Добавить мать";
+
+/* (No Comment) */
+"_EditPersonController_AddFurtherPartnerMenuItem" = "Добавить партнёра";
+
+/* (No Comment) */
+"_EditPersonController_AddMotherPlaceholder" = "Добавить новую мать";
+
+/* (No Comment) */
+"_EditPersonController_AddNewPersonAsChildMenuItem" = "Добавить нового ребёнка";
+
+/* (No Comment) */
+"_EditPersonController_AddNewPersonAsFatherMenuItem" = "Добавить нового отца";
+
+/* (No Comment) */
+"_EditPersonController_AddNewPersonAsMotherMenuItem" = "Добавить новую мать";
+
+/* (No Comment) */
+"_EditPersonController_AddNewPersonAsPartnerMenuItem" = "Добавить нового партнёра";
+
+/* (No Comment) */
+"_EditPersonController_AddNewPersonMenuItem" = "Добавить нового человека";
+
+/* (No Comment) */
+"_EditPersonController_AddPartnerPlaceholder" = "Добавить нового партнёра";
+
+/* (No Comment) */
+"_EditPersonController_AddSisterMenuItem" = "Добавить новую сестру";
+
+/* (No Comment) */
+"_EditPersonController_BrotherOrSisterOfFamilyMenuItem" = "Брат или сестра '%@' в семье…";
+
+/* (No Comment) */
+"_EditPersonController_ChildRelationTypeForFatherMenuItem" = "Отношение к отцу %@";
+
+/* (No Comment) */
+"_EditPersonController_ChildRelationTypeForMotherMenuItem" = "Отношение к матери %@";
+
+/* (No Comment) */
+"_EditPersonController_ChildRelationTypeMenuItem" = "Тип родства ребёнка";
+
+/* (No Comment) */
+"_EditPersonController_DeleteFamily" = "Удалить семью";
+
+/* (No Comment) */
+"_EditPersonController_DeletePerson" = "Удалить человека";
+
+/* (No Comment) */
+"_EditPersonController_DeletePersonMenuItem" = "Удалить %@…";
+
+/* (No Comment) */
+"_EditPersonController_EditFamilyMenuItem" = "Изменить семью %@";
+
+/* (No Comment) */
+"_EditPersonController_EditFamilyMenuItem_WithoutPlaceholder" = "Изменить семью";
+
+/* (No Comment) */
+"_EditPersonController_EditPersonMenuItem" = "Изменить %@";
+
+/* (No Comment) */
+"_EditPersonController_NoPersonsPlaceholder_AddPersonButton" = "Добавить первого человека";
+
+/* (No Comment) */
+"_EditPersonController_NoPersonsPlaceholder_Message" = "В этом семейном древе нет людей. Пожалуйста, выберите «Добавить исходного человека» для его создания.";
+
+/* (No Comment) */
+"_EditPersonController_NoPersonsPlaceholder_Title" = "Нет людей";
+
+/* (No Comment) */
+"_EditPersonController_ParentsOptionsButton" = "Параметры родителя…";
+
+/* (No Comment) */
+"_EditPersonController_PartnerOptionsButton" = "Параметры партнёра…";
+
+/* (No Comment) */
+"_EditPersonController_RemovePersonFromFamilyMenuItem" = "Удалить %@ из семьи";
+
+/* (No Comment) */
+"_EditPersonController_RemovePersonQuestionInformative" = "Это не удалит человека из вашего семейного древа, но удалит его из этой семьи.";
+
+/* (No Comment) */
+"_EditPersonController_RemovePersonQuestionMessage" = "Выдействительно хотите удалить '%@' из семьи '%@'?";
+
+/* (No Comment) */
+"_EditPersonController_SelectFamily" = "Выберите семью";
+
+/* (No Comment) */
+"_EditPersonController_ShowOldestAncestorsMenuItem" = "Самые старые предки…";
+
+/* (No Comment) */
+"_EditPersonController_ShowYoungestAncestorsMenuItem" = "Самые молодые потомки...";
+
+/* Titles */
+"_EditPersonController_Title" = "Редактировать человека";
+
+/* (No Comment) */
+"_EditPersonDNAContentController_AddDNATest" = "Добавить результаты DNA теста";
+
+/* (No Comment) */
+"_EditPersonDNAContentController_EditDNATestResultButton" = "Редактировать DNA данные";
+
+/* (No Comment) */
+"_EditPersonDNAContentController_LargePlaceholder" = "Результаты теста DNA не введены";
+
+/* (No Comment) */
+"_EditPersonDNAContentController_SmallPlaceholder" = "Пожалуйста, используйте кнопки выше для добавления DNA теста этому человеку";
+
+/* (No Comment) */
+"_EditPersonDNAContentController_Sorting_ByDate" = "По дате";
+
+/* (No Comment) */
+"_EditPersonDNAContentController_Sorting_ByTitle" = "По названию";
+
+/* EditPersonDNAContentController */
+"_EditPersonDNAContentController_Title" = "DNA";
+
+/* (No Comment) */
+"_EditPersonEventController_Title" = "Изменить событие человека";
+
+/* (No Comment) */
+"_EditPersonFactController_Title" = "Изменить факт человека";
+
+/* EditPersonFactGeneralContentController */
+"_EditPersonFactGeneralContentController_Title" = "Основные";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_AddFactButton" = "Добавить факт";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_DeleteFactQuestionMessage" = "Действительно удалить факт?";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_EditFactDetails" = "Изменить детали события";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_EditPersonFactConclusionTypes" = "Изменить типы факта человека";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_FactPlaceholder" = "%@ – Введите здесь информацию";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_LargePlaceholder" = "Нет фактов";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_SmallPlaceholder" = "Пожалуйста, используйте кнопку выше, чтобы добавить новый факт.";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_Sorting_ByFactType" = "По типу факта";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_Sorting_ByFactValue" = "По значению факта";
+
+/* EditPersonFactsContentController */
+"_EditPersonFactsContentController_Title" = "Факты";
+
+/* (No Comment) */
+"_EditPersonFamilySearchContentController_DetailsButton" = "Подробности";
+
+/* EditPersonFamilySearchContentController */
+"_EditPersonFamilySearchContentController_Title" = "FamilySearch";
+
+/* (No Comment) */
+"_EditPersonGroupController_AddPersonGroupButton" = "Добавить первую группу людей";
+
+/* EditPersonGroupController */
+"_EditPersonGroupController_LargePlaceholder" = "Нет групп людей";
+
+/* (No Comment) */
+"_EditPersonGroupController_SmallPlaceholder" = "В этом семейном древе нет группы людей. Группу людей можно использовать для выделения отдельных ветвей в вашем семейном дереве. Пожалуйста, выберите «Добавить первую группу людей» для её создания.";
+
+/* (No Comment) */
+"_EditPersonGroupController_Title" = "Изменить группу людей";
+
+/* (No Comment) */
+"_EditPersonGroupGeneralContentController_NamePlaceholder" = "Имя не указано";
+
+/* (No Comment) */
+"_EditPersonGroupGeneralContentController_Title" = "Основные";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_AddPersonToGroupButton" = "Добавить людей";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_DeletePersonGroupRelationInformative" = "Это не удалит человека или группу людей, но человек будет удален из этой группы людей.";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_DeletePersonGroupRelationMessage" = "Удалить '%@' из группы людей '%@'?";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_LargePlaceholder" = "В этой группе нет людей";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_ManagePersonsInGroupButton" = "Управление людьми";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_RemoveFromPersonGroupButton" = "Удалить из группы";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_SmallPlaceholder" = "Пожалуйста, используйте кнопку выше, чтобы добавить людей в эту группу.";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_Sorting_ByBirthDate" = "По дате рождения";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_Sorting_ByName" = "По имени";
+
+/* EditPersonGroupPersonsInGroupContentController */
+"_EditPersonGroupPersonsInGroupContentController_Title" = "Люди в группе";
+
+/* (No Comment) */
+"_EditPersonGroupsContentController_NoPersonGroupsLargePlaceholder" = "Нет групп людей";
+
+/* (No Comment) */
+"_EditPersonGroupsContentController_NoPersonGroupsSmallPlaceholder" = "В это семейное древо не было добавлено ни одной группы людей. Используйте функцию Группа людей для добавления.";
+
+/* _EditPersonGroupsContentController_Title */
+"_EditPersonGroupsContentController_Title" = "Группа людей";
+
+/* EditPerson Name */
+"_EditPersonNameContentController_Title" = "Имя и пол";
+
+/* (No Comment) */
+"_EditPersonNumberingSystemContentController_NoNumberingSystemAssigned" = "Выберите систему нумерации, начинающуюся с этого человека, с помощью кнопки ниже:";
+
+/* (No Comment) */
+"_EditPersonNumberingSystemContentController_NumberingSystemAssignedAndHasValueAndIsNotStartPerson" = "В текущей системе нумерации у этого человека есть номер, начинающийся с:";
+
+/* (No Comment) */
+"_EditPersonNumberingSystemContentController_NumberingSystemAssignedAndIsStartPerson" = "Этот человек является первым лицом в текущей системе нумерации (%@).";
+
+/* (No Comment) */
+"_EditPersonNumberingSystemContentController_NumberingSystemAssignedAndPersonHasNoValue" = "У этого человека нет номера в текущей системе нумерации. Это означает, что этот человек не является предком или потомком первого лица этой системы нумерации (%@):";
+
+/* (No Comment) */
+"_EditPersonNumberingSystemContentController_SetNumberingSystemTopLevelMenuItem" = "Система нумерации…";
+
+/* EditPersonNumberingSystemContentController */
+"_EditPersonNumberingSystemContentController_Title" = "Система нумерации";
+
+/* (No Comment) */
+"_EditPlaceAlternateNamesContentController_AlternatePlaceNamesPlaceholder" = "Введите сюда любые альтернативные названия мест.";
+
+/* EditPlaceAlternateNamesContentController */
+"_EditPlaceAlternateNamesContentController_Title" = "Альтернативные географические названия";
+
+/* EditPlaceController */
+"_EditPlaceController_LargePlaceholder" = "Нет мест";
+
+/* (No Comment) */
+"_EditPlaceController_LookupNewPlaceButton" = "Поиск первого места";
+
+/* (No Comment) */
+"_EditPlaceController_SmallPlaceholder" = "Введите места для личных или семейных событий или воспользуйтесь кнопкой ниже, чтобы найти новое место.";
+
+/* (No Comment) */
+"_EditPlaceController_Title" = "Редактировать место";
+
+/* (No Comment) */
+"_EditPlaceCoordinateContentController_AddCoordinateButton" = "Ввести вручную";
+
+/* (No Comment) */
+"_EditPlaceCoordinateContentController_DeleteCoordinateQuestionMessage" = "Удалить координаты?";
+
+/* (No Comment) */
+"_EditPlaceCoordinateContentController_LargePlaceholder" = "Координаты не введены";
+
+/* (No Comment) */
+"_EditPlaceCoordinateContentController_LookupButton" = "Поиск";
+
+/* (No Comment) */
+"_EditPlaceCoordinateContentController_SmallPlaceholder" = "Используйте кнопки выше для ввода координат этого места вручную или найдите их по названию места.";
+
+/* (No Comment) */
+"_EditPlaceCoordinateContentController_SmallPlaceholder_CTW" = "Пожалуйста, используйте кнопку выше, чтобы вручную ввести координаты этого места.";
+
+/* EditPlaceCoordinateContentController */
+"_EditPlaceCoordinateContentController_Title" = "Координата";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_AddCoordinateButton" = "Добавить координату";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_AddEmptyPlaceDetail" = "Добавить пустые сведения о месте";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_AddPlaceDetail" = "Добавить";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_DeletePlaceDetailQuestionMessage" = "Удалить сведения о месте?";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_EventCount" = "Количество событий";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_LargePlaceholder" = "Не указаны сведения о месте";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_LookupCoordinateButton" = "Поиск координат…";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_MegeWithOtherPlaceDetailButton" = "Объединить с другими сведениями о месте";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_NoNamePlaceholder" = "Название сведений о места не указано.";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_RemoveCoordinateButton" = "Удалить координаты";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_SearchOtherPlaceDetail" = "Поиск нового сведения о месте…";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_SmallPlaceholder" = "Используйте кнопку «Добавить» выше, чтобы добавить сведения о месте. Сведения о месте — это конкретные адреса, разделы или другие достопримечательности в этом месте.";
+
+/* EditPlaceDetailsContentController */
+"_EditPlaceDetailsContentController_Title" = "Сведения о месте";
+
+/* (No Comment) */
+"_EditPlaceEventsAtPlaceContentController_LargePlaceholder" = "События не добавлены";
+
+/* (No Comment) */
+"_EditPlaceEventsAtPlaceContentController_RemoveFromPlace" = "Удалить из места";
+
+/* (No Comment) */
+"_EditPlaceEventsAtPlaceContentController_SmallPlaceholder" = "В это место не добавлено ни одного личного или семейного события. Используйте раздел «Люди» или «Семья», чтобы назначить места для событий.";
+
+/* (No Comment) */
+"_EditPlaceEventsAtPlaceContentController_Sorting_ByDate" = "По дате события";
+
+/* (No Comment) */
+"_EditPlaceEventsAtPlaceContentController_Sorting_ByType" = "По типу события";
+
+/* EditPlaceEventsAtPlaceContentController */
+"_EditPlaceEventsAtPlaceContentController_Title" = "События на месте";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_AddField" = "Добавить поле…";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_AddTemplateKeyToTemplate" = "Добавьте поле '%@' в шаблон '%@'";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_DeleteFieldContentsInformative" = "Вы действительно хотите удалить эту дополнительную информацию из отображаемого в данный момент места?";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_DeleteFieldContentsMessage" = "Удалить эту информацию из места?";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_EditTemplateKeys" = "Изменить поля места…";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_LargePlaceholder" = "Дополнительные поля места не указаны";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_SmallPlaceholder" = "Вы можете добавить к этому месту дополнительные поля места, которые не указаны в выбранном шаблоне, с помощью кнопки выше.";
+
+/* EditPlaceFurtherPlaceNameFieldsContentController */
+"_EditPlaceFurtherPlaceNameFieldsContentController_Title" = "Дополнительные поля названия места";
+
+/* (No Comment) */
+"_EditPlaceHeaderContentController_EventCountTitlePlural" = "%d событий в этом месте";
+
+/* EditPlaceHeaderContentController */
+"_EditPlaceHeaderContentController_EventCountTitleSingular" = "Одно событие в этом месте";
+
+/* (No Comment) */
+"_EditPlaceHeaderContentController_EventsDateRangePlural" = "Диапазон дат событий";
+
+/* (No Comment) */
+"_EditPlaceHeaderContentController_EventsDateRangeSingular" = "Дата события";
+
+/* (No Comment) */
+"_EditPlaceHeaderContentController_PlaceDetailCountTitlePlural" = "%d сведений о месте";
+
+/* (No Comment) */
+"_EditPlaceHeaderContentController_PlaceDetailCountTitleSingular" = "Сведения об одном месте";
+
+/* _EditPlaceLinksContentController_OtherLanguagesButton */
+"_EditPlaceLinksContentController_Title" = "Веб-страницы";
+
+/* (No Comment) */
+"_EditPlaceNameContentController_EditTemplates" = "Изменить шаблоны мест…";
+
+/* EditPlaceNameContentController */
+"_EditPlaceNameContentController_Title" = "Название места";
+
+/* (No Comment) */
+"_EditPlacePane_Map_PlaceholderButton" = "Посмотреть координаты...";
+
+/* (No Comment) */
+"_EditPlacePane_Map_PlaceholderMessage" = "Чтобы отобразить расположение выбранного места на карте, найдите его географические координаты:";
+
+/* (No Comment) */
+"_EditPlacePane_Map_PlaceholderMessagePlaceDetail" = "Чтобы отобразить расположение выбранного сведения о место на карте, найдите его географические координаты.";
+
+/* EditPlacePane */
+"_EditPlacePane_Map_PlaceholderTitle" = "Нет координат";
+
+/* (No Comment) */
+"_EditPlacePane_MapKitTypePopupButton" = "Тип карты";
+
+/* (No Comment) */
+"_EditPlacePane_MapKitTypePopupButton_FromPreferences" = "Как указано в настройках";
+
+/* (No Comment) */
+"_EditPlacePane_MapKitTypePopupButton_Hybrid" = "Смешанный";
+
+/* (No Comment) */
+"_EditPlacePane_MapKitTypePopupButton_Satellite" = "Спутниковый";
+
+/* (No Comment) */
+"_EditPlacePane_MapKitTypePopupButton_Standard" = "Стандартный";
+
+/* (No Comment) */
+"_EditPlacePane_MapKitTypePopupButton_StandardMuted" = "Стандартный (без звука)";
+
+/* (No Comment) */
+"_EditPlacePane_MapOptionsButton" = "Параметры карты";
+
+/* (No Comment) */
+"_EditPlacePane_OnlyShowPlaceDetailsForSelectedPlaceOnMapCheckbox" = "Показывать сведения о месте, когда оно выбрано";
+
+/* (No Comment) */
+"_EditPlacePane_OnlyShowSelectedPlaceOnMapCheckbox" = "Показывать выбранное место на карте";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton" = "Цвет пина";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton_ByEventCount_BlueToMagentaToOrange" = "По количеству событий (от синего до пурпурного и оранжевого)";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton_ByEventCount_BlueToRed" = "По количеству событий (от синего до красного)";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton_ByEventCount_GreenToYellowToRed" = "По количеству событий (от зеленого к жёлтому и красному)";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton_ByEventCount_TurquoiseToYellowToLightRed" = "По количеству событий (от бирюзового до жёлтого и светло-красного)";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton_ByEventCount_YellowToRed" = "По количеству событий (от жёлтого до красного)";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton_SingleColor" = "Одноцветный";
+
+/* (No Comment) */
+"_EditPlacePane_ShowEventCountOnPlacePins" = "Показывать количество событий на пинах";
+
+/* (No Comment) */
+"_EditPrivateContentController_Explanation" = "Если выбрано, эта информация не будет отображаться в диаграммах или отчётах.";
+
+/* (No Comment) */
+"_EditPrivateContentController_MarkAsPrivate" = "Отмечено как личное";
+
+/* EditPrivateContentController */
+"_EditPrivateContentController_Title" = "Личное";
+
+/* EditReferenceNumbersContentController */
+"_EditReferenceNumbersContentController_Title" = "Номера ссылок";
+
+/* (No Comment) */
+"_EditSourceContentController_AddToDoButton" = "Добавить первый источник";
+
+/* (No Comment) */
+"_EditSourceContentController_DeleteSourceQuestionMessage" = "Действительно удалить источник?";
+
+/* EditSourceContentController */
+"_EditSourceContentController_LargePlaceholder" = "Нет источников";
+
+/* (No Comment) */
+"_EditSourceContentController_SmallPlaceholder" = "В этом семейном древе нет источников. Пожалуйста, выберите «Добавить первый источник» для его создания.";
+
+/* (No Comment) */
+"_EditSourceController_Title" = "Изменить источник";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_AddField" = "Добавить поле...";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_AddTemplateKeyToTemplate" = "Добавить поле '%@' к шаблону '%@'";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_DeleteFieldContentsInformative" = "Вы действительно хотите удалить эту дополнительную информацию из текущего отображаемого источника?";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_DeleteFieldContentsMessage" = "Удалить эту информацию из источника?";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_EditTemplateKeys" = "Изменить поля источника...";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_LargePlaceholder" = "Поля дополнительной информации не указаны";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_SmallPlaceholder" = "Вы можете добавить к этому источнику дополнительную информацию, которая не указана в выбранном шаблоне, используя кнопку выше.";
+
+/* EditSourceFurtherFieldsContentController */
+"_EditSourceFurtherFieldsContentController_Title" = "Дополнительная информация";
+
+/* (No Comment) */
+"_EditSourceGeneralContentController_EditSourceRepository" = "Изменить исходные репозитории…";
+
+/* (No Comment) */
+"_EditSourceGeneralContentController_EditTemplates" = "Изменить исходные шаблоны…";
+
+/* EditSourceGeneralContentController */
+"_EditSourceGeneralContentController_Title" = "Исходная информация";
+
+/* (No Comment) */
+"_EditSourceGeneralContentController_TitlePlaceholder" = "Нет названия";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_AddEntryToSourceButton" = "Добавить запись";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_CitationNotes" = "Примечания к цитированию";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_LargePlaceholder" = "Отсутствуют записи ссылок";
+
+/* EditSourceReferencedEntriesContentController */
+"_EditSourceReferencedEntriesContentController_RemoveFromSourceButton" = "Удалить из источника";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_SmallPlaceholder" = "Пожалуйста, используйте кнопку выше, чтобы добавить ссылки на этот источник";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_Sorting_ByPage" = "По страницам";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_Sorting_ByType" = "По типу";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_Title" = "Записи ссылок";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_EvidenceExplanation" = "Укажите, является ли свидетельство для указанной записи в этом источнике отрицательным, косвенным или прямым.";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_EvidenceQuality" = "Качество доказательств";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_GeneralExplanation" = "Пожалуйста, укажите источник, информацию и качество доказательств этой записи для упомянутого источника:";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_InformationExplanation" = "Информация в этом источнике из первых рук или из вторых рук?";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_InformationQuality" = "Качество информации";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_QualityExplanation" = "Выберите, является ли источник оригинальным документом или вторичным источником.";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_SourceQuality" = "Качество источника";
+
+/* EditSourceRelationCertaintySettingsCertaintyViewContentController */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_Title" = "Достоверность источника";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_AddExistingSourceMenuItem" = "Добавить существующий источник…";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_AddNewSourceMenuItem" = "Добавить новый источник";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_AddSourceButton" = "Добавить источник";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_CitedSource" = "Цитируемый источник";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_CopySourceCitation" = "Скопировать источник информации";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_DeleteSourceMenuItem" = "Удалить источник";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_LargePlaceholder" = "Источники информации отсутствуют";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_PasteSourceCitation" = "Вставить источник информации";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_RemoveObjectFromSourceInformative" = "Вы действительно хотите удалить этот источник информации? Это не приведет его удалению, но удалит запись из источника.";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_RemoveObjectFromSourceMessage" = "Удалить запись из источника '%@'?";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_SmallPlaceholder" = "Используйте кнопку выше, чтобы добавить источник информации для этой записи";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_Sorting_ByCertainty" = "Сортировать по достоверности источника";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_Sorting_ByDate" = "Сортировать по дате источника";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_Sorting_ByPage" = "Сортировать по номеру страницы";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_Sorting_ByTitle" = "Сортировать по названию источника";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_SourceDate" = "Дата источника";
+
+/* EditSourceRelationsContentController */
+"_EditSourceRelationsContentController_Title" = "Источники информации";
+
+/* (No Comment) */
+"_EditSourceSourceRepositoryContentController_NoSourceRepository" = "Нет исходного репозитория";
+
+/* EditSourceSourceRepositoryContentController */
+"_EditSourceSourceRepositoryContentController_Title" = "Исходный репозиторий";
+
+/* (No Comment) */
+"_EditSourceTextContentController_LargePlaceholder" = "Текст не введён";
+
+/* (No Comment) */
+"_EditSourceTextContentController_SmallPlaceholder" = "Нажмите здесь, чтобы ввести текст для этого источника";
+
+/* EditSourceTextContentController */
+"_EditSourceTextContentController_Title" = "Исходный текст";
+
+/* (No Comment) */
+"_EditStoryContentController_AddStoryButton" = "Добавить первую историю";
+
+/* (No Comment) */
+"_EditStoryContentController_LargePlaceholder" = "Нет историй";
+
+/* (No Comment) */
+"_EditStoryContentController_SmallPlaceholder" = "В настоящее время в это семейное древо не добавлено ни одной истории. Используйте Истории, чтобы рассказывать и записывать особые события вашей семейной истории. Выберите Добавить первую историю, чтобы создать свою первую историю.";
+
+/* (No Comment) */
+"_EditStoryController_Title" = "Редактировать историю";
+
+/* EditStoryController */
+"_EditStoryGeneralContentController_Title" = "Основное";
+
+/* (No Comment) */
+"_EditStoryGeneralContentController_TitlePlaceholder" = "Название не указано";
+
+/* (No Comment) */
+"_EditStoryReferencedEntriesContentController_AddEntryToStoryButton" = "Добавить запись";
+
+/* (No Comment) */
+"_EditStoryReferencedEntriesContentController_LargePlaceholder" = "Отсутствуют записи ссылок";
+
+/* (No Comment) */
+"_EditStoryReferencedEntriesContentController_SmallPlaceholder" = "Пожалуйста, используйте кнопки, чтобы добавить людей, события или семьи, которые упоминаются в этой истории.";
+
+/* (No Comment) */
+"_EditStoryReferencedEntriesContentController_Title" = "Записи ссылок";
+
+/* (No Comment) */
+"_EditStoryRelationsContentController_AddExistingStoryMenuItem" = "Добавить существующую историю…";
+
+/* (No Comment) */
+"_EditStoryRelationsContentController_AddExistingStorySectionMenuItem" = "Добавить раздел существующей истории…";
+
+/* (No Comment) */
+"_EditStoryRelationsContentController_AddNewStoryMenuItem" = "Добавить новую историю";
+
+/* (No Comment) */
+"_EditStoryRelationsContentController_AddStoryButton" = "Добавить историю";
+
+/* (No Comment) */
+"_EditStoryRelationsContentController_LargePlaceholder" = "Нет историй";
+
+/* (No Comment) */
+"_EditStoryRelationsContentController_SmallPlaceholder" = "Пожалуйста, используйте кнопку выше, чтобы добавить новую или существующую историю.";
+
+/* EditStoryRelationsContentController */
+"_EditStoryRelationsContentController_Title" = "Истории";
+
+/* (No Comment) */
+"_EditStorySectionReferencedEntriesContentController_AddEntryToStorySectionButton" = "Добавить запись";
+
+/* (No Comment) */
+"_EditStorySectionReferencedEntriesContentController_LargePlaceholder" = "Отсутствуют записи ссылок";
+
+/* (No Comment) */
+"_EditStorySectionReferencedEntriesContentController_SmallPlaceholder" = "Пожалуйста, используйте кнопки, чтобы добавить людей, события или семьи, которые упоминаются в этом разделе истории.";
+
+/* EditStorySectionReferencedEntriesContentController */
+"_EditStorySectionReferencedEntriesContentController_Title" = "Ссылочные записи в разделе";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_AddMedia" = "Добавить медиа";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_AddStorySecton" = "Добавить раздел истории";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_LargePlaceholder" = "Нет разделов истории";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_MoveDown" = "Переместить раздел вниз";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_MoveUp" = "Переместить раздел вверх";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_NoStorySectionRelationsPlaceholder" = "Отсутствуют записи ссылок";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_NoSubtitlePlaceholder" = "Название раздела не указано";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_NoTextPlaceholder" = "Текст раздела не указан";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_SmallPlaceholder" = "Пожалуйста, используйте кнопку выше, чтобы добавить первый раздел в эту историю.";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_StorySectionRelations" = "Записи ссылок в разделе";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_Title" = "Разделы истории";
+
+/* (No Comment) */
+"_EditToDoAssignedEntriesContentController_AddEntryButton" = "Добавить запись";
+
+/* (No Comment) */
+"_EditToDoAssignedEntriesContentController_LargePlaceholder" = "Нет назначенных записей";
+
+/* (No Comment) */
+"_EditToDoAssignedEntriesContentController_SmallPlaceholder" = "Нажмите кнопку выше, чтобы добавить записи из вашего семейного древа в эту задачу.";
+
+/* (No Comment) */
+"_EditToDoAssignedEntriesContentController_Sorting_ByDate" = "По дате";
+
+/* (No Comment) */
+"_EditToDoAssignedEntriesContentController_Sorting_ByName" = "По имени";
+
+/* EditToDoAssignedEntriesContentController */
+"_EditToDoAssignedEntriesContentController_Title" = "Исходные записи";
+
+/* (No Comment) */
+"_EditToDoContentController_AddExistingToDoMenuItem" = "Добавить существеющую задачу";
+
+/* (No Comment) */
+"_EditToDoContentController_AddNewToDoMenuItem" = "Добавить новую задачу";
+
+/* (No Comment) */
+"_EditToDoContentController_AddToDoButton" = "Добавить задачу";
+
+/* (No Comment) */
+"_EditToDoContentController_LargePlaceholder" = "Нет задачи";
+
+/* (No Comment) */
+"_EditToDoContentController_NoDateEnteredPlaceholder" = "Дата не введена";
+
+/* (No Comment) */
+"_EditToDoContentController_NoTitleEnteredPlaceholder" = "Название не введено";
+
+/* (No Comment) */
+"_EditToDoContentController_RemoveFromToDoButton" = "Удалить из задачи";
+
+/* (No Comment) */
+"_EditToDoContentController_SmallPlaceholder" = "Пожалуйста, используйте кнопки выше, чтобы добавить новую задачу или прикрепить существующую";
+
+/* EditToDosContentController */
+"_EditToDoContentController_Title" = "Задачи";
+
+/* (No Comment) */
+"_EditToDoController_AddToDoButton" = "Добавить первую задачу";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosInformative" = "Вы действительно хотите удалить все задачи из вашего семейного древа, которые отмечены как выполненные?";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosInformative_NoDoneFound" = "В вашем семейном древе не найдено ни одной задачи, отмеченной как выполненная, поэтому ни одна из них не была удалена.";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosMessage" = "Действительно удалить %d задач, отмеченных как выполненные?";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosMessage_NoDoneFound" = "Не найдено задач, отмеченных как выполненные.";
+
+/* EditToDoController */
+"_EditToDoController_LargePlaceholder" = "Нет задач";
+
+/* (No Comment) */
+"_EditToDoController_SmallPlaceholder" = "В этом семейном древе нет задач. Пожалуйста, выберите «Добавить первую задачу» для её создания.";
+
+/* (No Comment) */
+"_EditToDoController_Title" = "Изменить задачу";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditPriorityConclusionTypes" = "Редактировать типы приоритетов...";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditStatusConclusionTypes" = "Редактировать типы приоритетов...";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditTypeConclusionTypes" = "Редактировать типы...";
+
+/* EditToDoGeneralContentController */
+"_EditToDoGeneralContentController_Title" = "Основные";
+
+/* (No Comment) */
+"_EditToDosContentController_Sorting_ByDueDate" = "По сроку";
+
+/* (No Comment) */
+"_EditToDosContentController_Sorting_ByPriority" = "По приоритету";
+
+/* (No Comment) */
+"_EditToDosContentController_Sorting_ByStatus" = "По статусу";
+
+/* (No Comment) */
+"_EditToDosContentController_Sorting_ByTitle" = "По названию";
+
+/* (No Comment) */
+"_EditToDosContentController_Sorting_ByType" = "По типу";
+
+/* (No Comment) */
+"_EditToDoTextContentController_LargePlaceholder" = "Текст не введён";
+
+/* (No Comment) */
+"_EditToDoTextContentController_SmallPlaceholder" = "Нажмите здесь, для ввода текста задачи";
+
+/* EditToDoTextContentController */
+"_EditToDoTextContentController_Title" = "Текст";
+
+/* (No Comment) */
+"_FreeformControlsEventsControlDescription_NEvents" = "%d событий";
+
+/* (No Comment) */
+"_FreeformControlsEventsControlDescription_OneEvent" = "1 событие";
+
+/* Specialized Freeform Controls */
+"_FreeformControlsNotesControlDescription_NNotes" = "%d примечаний";
+
+/* (No Comment) */
+"_FreeformControlsNotesControlDescription_OneNote" = "1 примечание";
+
+/* (No Comment) */
+"_FreeformControlsSourceRelationsControlDescription_NSources" = "%d источников";
+
+/* (No Comment) */
+"_FreeformControlsSourceRelationsControlDescription_OneSource" = "1 источник";
+
+/* (No Comment) */
+"_FreeformControlsStorySectionRelationsControlDescription_NRelations" = "%d записей ссылок";
+
+/* (No Comment) */
+"_FreeformControlsStorySectionRelationsControlDescription_OneRelation" = "Одна ссылка на запись";
+
+/* (No Comment) */
+"_FreeformControlsTextFieldControlDescription_NoMicrophoneAvailableDescription" = "Микрофон не найден";
+
+/* (No Comment) */
+"_FreeformControlsTextFieldControlDescription_NoMicrophoneAvailableRecovery" = "Для распознавания речи требуется микрофон. Убедитесь, что микрофон доступен и не используется другими приложениями.";
+
+/* (No Comment) */
+"_FreeformControlsTextFieldControlDescription_SpeechNotGrantedDescription" = "Требуется разрешение для распознавания речи";
+
+/* (No Comment) */
+"_FreeformControlsTextFieldControlDescription_SpeechNotGrantedRecovery" = "Family Tree не имеет разрешения на распознавание речи. Пожалуйста, предоставьте разрешение Family Tree, используя Настройки конфиденциальности в настройках программы.";
+
+/* (No Comment) */
+"_InteractiveTreeEditFamilyController_Title" = "Интерактивное древо - Семьи";
+
+/* InteractiveTreeEditFamilySearchPersonSummaryContentController */
+"_InteractiveTreeEditFamilySearchPersonSummaryContentController_Title" = "Резюме человека";
+
+/* InteractiveTreeEditPersonActionsContentController */
+"_InteractiveTreeEditPersonActionsContentController_Title" = "Действия";
+
+/* (No Comment) */
+"_InteractiveTreeEditPersonController_SelectPersonsPlaceholder_Message" = "Пожалуйста, выберите человека или семейную связь, чтобы начать редактирование";
+
+/* InteractiveTreeEditPersonController */
+"_InteractiveTreeEditPersonController_SelectPersonsPlaceholder_Title" = "Выбрать человека или семью";
+
+/* (No Comment) */
+"_InteractiveTreeEditPersonController_Title" = "Интерактиваное древо - человек";
+
+/* (No Comment) */
+"_ManagePersonGroupPersons_NoPersonsInGroup" = "Люди не являются частью этой группы";
+
+/* (No Comment) */
+"_ManagePersonGroupPersons_NoPersonsLeftToAdd" = "Все люди из вашего семейного древа были добавлены в эту группу.";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsAddRelatives_Title" = "Добавить родственников в группу";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsController_AddPersonsToGroup" = "Добавить людей в группу";
+
+/* ManagePersonGroupPersonsController */
+"_ManagePersonGroupPersonsController_Title" = "Люди в группе";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_AllGenerations" = "Все поколения";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_AllRelativesOfChildren" = "Добавить всех родственников потомков";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_AllRelativesOfParents" = "Добавить всех родственников предков";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_AllRelativesOfPartners" = "Добавить всех родственников партнёров";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_Children" = "Добавить всех потомков человека";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_Explanation" = "Пожалуйста, выберите родственников '%@', которых вы хотите добавить в эту группу:";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_GenerationsToCollect" = "Поколения для сбора";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_Parents" = "Добавить всех предков человека";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_Partners" = "Добавить партнёров в группу";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_PartnersOfChildren" = "Добавить всех партнёров потомков";
+
+/* PlaceLookupControllerResultPlacePreviewLinksContentController */
+"_PlaceLookupControllerResultPlacePreviewLinksContentController_Title" = "Веб-страницы";
+
+/* PlaceLookupControllerResultPlacePreviewNamesContentController */
+"_PlaceLookupControllerResultPlacePreviewNamesContentController_Title" = "Имена";
+
+/* (No Comment) */
+"_SectionIdentifier_aboveMainFullWidth" = "Над основной областью - полная ширина";
+
+/* Section Identifiers */
+"_SectionIdentifier_main" = "Основная область";
+
+/* (No Comment) */
+"_SectionIdentifier_parents" = "Область родителей";
+
+/* (No Comment) */
+"_SectionIdentifier_top" = "Область заголовка";
+

@@ -1,0 +1,2202 @@
+﻿/* Background Image Mode */
+"_BackgroundGeneratorChartCompositorObject_BackgroundImageMode" = "Estilo de imagen de fondo";
+
+/* (No Comment) */
+"_BackgroundGeneratorChartCompositorObject_BackgroundImageMode_BlurryEdges" = "Bordes difuminados";
+
+/* (No Comment) */
+"_BackgroundGeneratorChartCompositorObject_BackgroundImageMode_Radial" = "Radial";
+
+/* (No Comment) */
+"_BackgroundGeneratorChartCompositorObject_BackgroundImageMode_Rectangle" = "Rectangular";
+
+/* (No Comment) */
+"_BackgroundGeneratorChartCompositorObject_BlurryEdgesSize" = "Tamaño de borde difuminado";
+
+/* (No Comment) */
+"_BarHistoryEventTimelineGeneratorChartCompositorObjectConfiguration_CustomTextColor" = "Color de texto personalizado para eventos históricos";
+
+/* (No Comment) */
+"_BarHistoryEventTimelineGeneratorChartCompositorObjectConfiguration_Font" = "Fuente para eventos históricos";
+
+/* (No Comment) */
+"_BarHistoryEventTimelineGeneratorChartCompositorObjectConfiguration_TextColoringMode" = "Color de texto para eventos históricos";
+
+/* (No Comment) */
+"_BarPersonTimelineGeneratorChartCompositorObjectConfiguration_EventMarkerMode" = "Marcadores de eventos";
+
+/* (No Comment) */
+"_BarPersonTimelineGeneratorChartCompositorObjectConfiguration_EventMarkerMode_Circles" = "Círculos";
+
+/* (No Comment) */
+"_BarPersonTimelineGeneratorChartCompositorObjectConfiguration_EventMarkerMode_Lines" = "Líneas";
+
+/* BaseChartBuilder */
+"_BaseChartBuilderConfiguration_PlaceFormat_CompleteLocationString" = "Nombre completo de lugar";
+
+/* (No Comment) */
+"_BaseChartBuilderConfiguration_PlaceFormat_OnlyPlaceName" = "Nombre abreviado de lugar";
+
+/* LineColorModes */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineColorMode" = "Modo color de línea";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineColorMode_ContrastToBackground" = "Contraste con el fondo";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineColorMode_Custom" = "Personalizado";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration" = "Decoración de línea final";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_Bar" = "Barra";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_LargeCircle" = "Círculo grande";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_LargeDot" = "Punto grande";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_None" = "Ninguno";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_SmallCircle" = "Círculo pequeño";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_SmallDot" = "Punto pequeño";
+
+/* BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration */
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_MediaPictureAssignmentMode" = "Modo de imágenes de medios";
+
+/* (No Comment) */
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_MediaPictureAssignmentMode_FullPictureWithoutAssignment" = "Imagen completa sin recortar";
+
+/* (No Comment) */
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_MediaPictureAssignmentMode_OnlyUserProvidedAssignment" = "Recortar imagen cuando se especifique explícitamente";
+
+/* (No Comment) */
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_MediaPictureAssignmentMode_UserProvidedOrVision" = "Recortar imagen cuando se especifique y cuando se detecte un rostro";
+
+/* (No Comment) */
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_MediaPictureAssignmentModeExplanation" = "Especifique como se han de presentar los medios. Seleccione si se han de mostrar imágenes completas o si las imágenes han de recortar las caras utilizando inteligencia artificial.";
+
+/* (No Comment) */
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_OutsetForMediaPictureAssignmentModeForVision" = "Espaciamiento para rostros detectados";
+
+/* (No Comment) */
+"_ChartCompositorObjectsContainer_RealignmentMode_DistributeObjectsEvenlyOnPageFromBorderToBorder" = "Distribuir objetos para cubrir todas las páginas";
+
+/* ChartCompositorObjectsContainer_RealignmentMode */
+"_ChartCompositorObjectsContainer_RealignmentMode_MoveObjectsAwayFromPageCuts" = "Alejar objetos de los saltos de página";
+
+/* (No Comment) */
+"_ChartFillSettings_FillType_LinearGradient" = "Gradiente";
+
+/* ChartFillSettings */
+"_ChartFillSettings_FillType_None" = "Ninguno";
+
+/* (No Comment) */
+"_ChartFillSettings_FillType_None_Explanation" = "No se ha seleccionado ningún tipo de relleno";
+
+/* (No Comment) */
+"_ChartFillSettings_FillType_RadialGradient" = "Gradiente radial";
+
+/* (No Comment) */
+"_ChartFillSettings_FillType_RadialGradient_Abbreviation" = "Radial";
+
+/* (No Comment) */
+"_ChartFillSettings_FillType_SolidColor" = "Color";
+
+/* (No Comment) */
+"_ChartObjectType_BezierConnectionBuilderItemGeneratorChartCompositorObject" = "Conexiones de Bézier";
+
+/* (No Comment) */
+"_ChartObjectType_BlobConnectionBuilderItemGeneratorChartCompositorObject" = "Conexiones orgánicas";
+
+/* Chart object types */
+"_ChartObjectType_DirectStraightConnectionBuilderItemGeneratorChartCompositorObject" = "Conexiones rectas";
+
+/* (No Comment) */
+"_ChartObjectType_HConnectionBuilderItemGeneratorChartCompositorObject" = "Conexiones en H";
+
+/* (No Comment) */
+"_ChartObjectType_YStraightConnectionBuilderItemGeneratorChartCompositorObject" = "Conexiones en Y";
+
+/* (No Comment) */
+"_Charts_XAlignment_Center" = "Centrar";
+
+/* Alignment */
+"_Charts_XAlignment_Left" = "Izquierda";
+
+/* (No Comment) */
+"_Charts_XAlignment_Right" = "Derecha";
+
+/* (No Comment) */
+"_Charts_YAlignment_Bottom" = "Abajo";
+
+/* (No Comment) */
+"_Charts_YAlignment_Middle" = "Centro";
+
+/* (No Comment) */
+"_Charts_YAlignment_Top" = "Arriba";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_ExportAsSeparatePages" = "Páginas separadas";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_ExportAsSeparatePages_Explanation" = "Si selecciona esta opción, se utilizarán múltiples páginas para la gráfica.";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_ExportBackground" = "Mostrar fondo";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_ExportBackground_Explanation" = "Si selecciona esta opción, se verá el fondo de la imagen.";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_Margins" = "Márgenes";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_Margins_Explanation" = "Utilice esta opción para determinar los márgenes alrededor de la gráfica hasta el borde de la imagen.";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_Margins_ExplanationForPrinting" = "Fijar los márgenes de la gráfica hacia el borde de cada página.";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_PrintingTitle" = "Ajustes de impresión";
+
+/* ChartsBaseCGContextViewerConfiguration */
+"_ChartsBaseCGContextViewerConfiguration_Title" = "Ajustes de exportación";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewer_JPEGToLarge_Description" = "Esta gráfica es demasiado grande para ser exportada como archivo JPEG. Ajuste la configuración de escala a un valor menor o exporte la gráfica como archivo PNG o PDF.";
+
+/* ChartsBitmapCGContextViewerConfiguration */
+"_ChartsBitmapCGContextViewerConfiguration_ExportFormat" = "Formato de exportación";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_ExportFormat_Explanation" = "Seleccione aquí el formato de imagen que desea utilizar. Los archivos PNG pueden tener un fondo transparente, mientras que los archivos JPEG ofrecen una mejor compresión y tamaños de archivo menores.";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_ExportFormat_JPEG" = "Exportar como imagen JPEG";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_ExportFormat_PNG" = "Exportar como imagen PNG";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_JPEGQuality" = "Calidad JPEG";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_JPEGQuality_Explanation" = "La calidad del archivo JPEG especifica el nivel de compresión de la imagen. Una menor calidad entregará una imagen de menor tamaño, pero puede generar distorsiones producto de la compresión.";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_Scaling" = "Escalar";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_Scaling_Explanation" = "Ajuste aquí la escala de la imagen final. Escalas mayores aumentan el tamaño del archivo, pero ofrecen más detalles antes de que pueda observarse cualquier pixelación.";
+
+/* (No Comment) */
+"_ChartsEditor_AlignMode_BottomY" = "Alinear abajo, verticalmente";
+
+/* ChartEditor */
+"_ChartsEditor_AlignMode_LeftX" = "Alinear a la izquierda, verticalmente";
+
+/* (No Comment) */
+"_ChartsEditor_AlignMode_MiddleX" = "Alinear al centro, horizontalmente";
+
+/* (No Comment) */
+"_ChartsEditor_AlignMode_MiddleY" = "Alinear al centro, verticalmente";
+
+/* (No Comment) */
+"_ChartsEditor_AlignMode_RightX" = "Alinear a la derecha, horizontalmente";
+
+/* (No Comment) */
+"_ChartsEditor_AlignMode_TopY" = "Alinear arriba, verticalmente";
+
+/* (No Comment) */
+"_Common_AdditionalNameFormat" = "Nombres adicionales";
+
+/* (No Comment) */
+"_Common_AdditionalNameFormatExplanation" = "Aquí puede configurar qué nombres adicionales se deben mostrar en la gráfica.";
+
+/* (No Comment) */
+"_Common_Alignment" = "Alineamiento";
+
+/* (No Comment) */
+"_Common_Alignment_BottomToTop" = "De abajo a arriba";
+
+/* (No Comment) */
+"_Common_Alignment_FathersBottomMothersTop" = "Padres abajo, madres arriba";
+
+/* (No Comment) */
+"_Common_Alignment_FathersLeftMothersRight" = "Padres a la izquierda, madres a la derecha";
+
+/* (No Comment) */
+"_Common_Alignment_FathersLeftMothersRightCondensed" = "Padres izquierda, madres derecha (condensado)";
+
+/* (No Comment) */
+"_Common_Alignment_FathersRightMothersLeft" = "Padres a la derecha, madres a la izquierda";
+
+/* (No Comment) */
+"_Common_Alignment_FathersRightMothersLeftCondensed" = "Padres derecha, madres izquierda (condensado)";
+
+/* (No Comment) */
+"_Common_Alignment_FathersTopMothersBottom" = "Padres arriba, madres abajo";
+
+/* (No Comment) */
+"_Common_Alignment_LeftToRight" = "De izquierda a derecha";
+
+/* (No Comment) */
+"_Common_Alignment_LeftToRightCondensed" = "De izquierda a derecha (compacto)";
+
+/* (No Comment) */
+"_Common_Alignment_RightToLeft" = "De derecha a izquierda";
+
+/* (No Comment) */
+"_Common_Alignment_RightToLeftCondensed" = "De derecha a izquierda (compacto)";
+
+/* (No Comment) */
+"_Common_Alignment_TopToBottom" = "De arriba a abajo";
+
+/* (No Comment) */
+"_Common_AlignmentExplanation" = "Indica el diseño general de personas en la gráfica";
+
+/* (No Comment) */
+"_Common_AlignOnGrid" = "Alienar a cuadrícula estática";
+
+/* (No Comment) */
+"_Common_AlignOnGridExplanation" = "Muestra todas las personas en función del tamaño de la caja de persona más grande, dando así una impresión más uniforme, pero utilizando más espacio.";
+
+/* (No Comment) */
+"_Common_AncestorGenerationsOfPartnerSlider" = "Generaciones de antepasados de parejas";
+
+/* (No Comment) */
+"_Common_AncestorGenerationsSlider" = "Generaciones de antepasados";
+
+/* (No Comment) */
+"_Common_AnestorGenerationsForPartnersSlider" = "Generaciones de antepasados para parejas";
+
+/* (No Comment) */
+"_Common_AnglesGroupName" = "Ángulos";
+
+/* (No Comment) */
+"_Common_AngleSlider" = "Ángulo";
+
+/* (No Comment) */
+"_Common_ArrowsGroupName" = "Flechas";
+
+/* (No Comment) */
+"_Common_AssociatedPersonsGroupName" = "Personas influyentes";
+
+/* (No Comment) */
+"_Common_AssociateRelationLines" = "Relaciones de influencia";
+
+/* (No Comment) */
+"_Common_Author" = "Autor";
+
+/* (No Comment) */
+"_Common_AuthorColor" = "Color de autor";
+
+/* (No Comment) */
+"_Common_AuthorCustomTextColor" = "Color personalizado de autor";
+
+/* (No Comment) */
+"_Common_AuthorEnabledCheckbox" = "Mostrar autor";
+
+/* (No Comment) */
+"_Common_AuthorFont" = "Fuente de autor";
+
+/* (No Comment) */
+"_Common_AuthorGroupName" = "Autor";
+
+/* (No Comment) */
+"_Common_AuthorTextColoringMode" = "Color de autor";
+
+/* (No Comment) */
+"_Common_BackgroundColor" = "Color de fondo";
+
+/* (No Comment) */
+"_Common_BackgroundEdgeRadius" = "Radio de borde de fondo";
+
+/* (No Comment) */
+"_Common_BackgroundEnabledCheckbox" = "Mostrar fondo";
+
+/* (No Comment) */
+"_Common_BackgroundEnabledCheckboxExplanation" = "Si activa esta opción, seleccione un color, gradiente o una imagen de fondo para esta gráfica.";
+
+/* (No Comment) */
+"_Common_BackgroundFill" = "Relleno de fondo";
+
+/* (No Comment) */
+"_Common_BackgroundGroupName" = "Fondo";
+
+/* (No Comment) */
+"_Common_BackgroundImageOpacity" = "Opacidad de imagen de fondo";
+
+/* (No Comment) */
+"_Common_BackgroundTintFactor" = "Tinte de fondo";
+
+/* (No Comment) */
+"_Common_BarAndTextColor" = "Color de barra y de texto";
+
+/* (No Comment) */
+"_Common_BarColor" = "Color de barra";
+
+/* (No Comment) */
+"_Common_BarEdgeRadius" = "Radio de borde de barra";
+
+/* (No Comment) */
+"_Common_BarGroupName" = "Barra";
+
+/* (No Comment) */
+"_Common_BarHeight" = "Altura de barra";
+
+/* (No Comment) */
+"_Common_BarsGroupName" = "Barra";
+
+/* (No Comment) */
+"_Common_BarsSpacing" = "Separación entre barras";
+
+/* (No Comment) */
+"_Common_BarStyle" = "Estilo de barra";
+
+/* (No Comment) */
+"_Common_BarsWidth" = "Ancho de barras";
+
+/* (No Comment) */
+"_Common_BorderColor" = "Color de borde";
+
+/* (No Comment) */
+"_Common_BorderGroupName" = "Borde";
+
+/* (No Comment) */
+"_Common_BorderWidth" = "Ancho de borde";
+
+/* (No Comment) */
+"_Common_BottomDarkeningFactor" = "Factor de gradiente de fondo";
+
+/* (No Comment) */
+"_Common_BottomLineColor" = "Color de línea inferior";
+
+/* (No Comment) */
+"_Common_BottomLineWidth" = "Ancho de línea inferior";
+
+/* (No Comment) */
+"_Common_BottomMarginSlider" = "Margen inferior";
+
+/* (No Comment) */
+"_Common_BoundsHeight" = "Altura";
+
+/* (No Comment) */
+"_Common_BoundsWidth" = "Anchura";
+
+/* (No Comment) */
+"_Common_BranchesToTraverse" = "Ramas que serán recorridas";
+
+/* (No Comment) */
+"_Common_BranchesToTraverse_MaternalAndPaternal" = "Materna y paterna";
+
+/* (No Comment) */
+"_Common_BranchesToTraverse_MaternalOfStartPerson" = "Materna desde la persona de referencia";
+
+/* (No Comment) */
+"_Common_BranchesToTraverse_OnlyMaternal" = "Solo materna";
+
+/* (No Comment) */
+"_Common_BranchesToTraverse_OnlyPaternal" = "Solo paterna";
+
+/* (No Comment) */
+"_Common_BranchesToTraverse_PaternalOfStartPerson" = "Paterna desde la persona de referencia";
+
+/* (No Comment) */
+"_Common_BranchesToTraverseExplanation" = "Seleccione qué ramas deberán ser recorridas cuando se muestre esta gráfica. Por ejemplo, al seleccionar 'Solo paterna' se generará una gráfica que evaluará solo el padre, el abuelo de la persona seleccionada.";
+
+/* (No Comment) */
+"_Common_BranchItemSpacingSlider" = "Espaciamiento de elementos en ramas";
+
+/* (No Comment) */
+"_Common_BranchItemSpacingSliderExplanation" = "Controla qué tan lejos se colocarán las personas en relación con su pariente más cercano.";
+
+/* (No Comment) */
+"_Common_BrothersAndSistersGroupName" = "Hermanos y hermanas";
+
+/* (No Comment) */
+"_Common_ChildrenGenerationsSlider" = "Generaciones de hijos";
+
+/* (No Comment) */
+"_Common_ColoringMode" = "Modo de coloración";
+
+/* (No Comment) */
+"_Common_ColoringMode_Alternating" = "Alternado";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByAge" = "Por edad";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByGender" = "Por género";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByGenerationGreenBlue" = "Por generación (verde/azul)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByGenerationOrangeCyan" = "Por generación (naranja/cian)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByGenerationRainbow" = "Por generación (arco iris)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByGenerationSunset" = "Por generaciones (atardecer)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByLabel" = "Por etiqueta";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByPedigreeDark" = "Por parentesco (oscuro)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByPedigreeLight" = "Por parentesco (claro)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByPersonGroup" = "Por grupos de personas";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByYear" = "Por año";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByYearRainbow" = "Por año (arco iris)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByYearRainbowSubdued" = "Por año (arco iris, atenuado)";
+
+/* (No Comment) */
+"_Common_ColoringMode_Custom" = "Color uniforme";
+
+/* (No Comment) */
+"_Common_ColoringMode_Rainbow" = "Arco iris";
+
+/* (No Comment) */
+"_Common_ColoringMode_Uniform" = "Uniforme";
+
+/* (No Comment) */
+"_Common_ColoringMode_White" = "Blanco";
+
+/* (No Comment) */
+"_Common_ColoringModeExplanation" = "Seleccionar distintos esquemas de colores para personas en esta gráfica.";
+
+/* (No Comment) */
+"_Common_ColorsGroupName" = "Colores";
+
+/* (No Comment) */
+"_Common_ConnectionLineType" = "Tipo de conexión de línea";
+
+/* (No Comment) */
+"_Common_ContentGroupName" = "Contenido";
+
+/* (No Comment) */
+"_Common_CurveFactor" = "Curva";
+
+/* (No Comment) */
+"_Common_CustomColor" = "Color personalizado";
+
+/* (No Comment) */
+"_Common_CustomTextColor" = "Color de texto personalizado";
+
+/* (No Comment) */
+"_Common_Date" = "Fecha";
+
+/* (No Comment) */
+"_Common_DateColor" = "Color de fecha";
+
+/* (No Comment) */
+"_Common_DateCustomTextColor" = "Color de fecha personalizado";
+
+/* (No Comment) */
+"_Common_DateEnabledCheckbox" = "Mostrar fecha";
+
+/* (No Comment) */
+"_Common_DateFont" = "Fuente de fecha";
+
+/* (No Comment) */
+"_Common_DateFormatGroupName" = "Formatos de fecha";
+
+/* (No Comment) */
+"_Common_DateFormatStyle" = "Estilo de formato de fecha";
+
+/* (No Comment) */
+"_Common_DateFormatStyle_Full" = "Completa (lunes, 17 de noviembre de 2014)";
+
+/* (No Comment) */
+"_Common_DateFormatStyle_Long" = "Largo (17 noviembre 2014)";
+
+/* (No Comment) */
+"_Common_DateFormatStyle_Medium" = "Intermedio (17 nov 2014)";
+
+/* (No Comment) */
+"_Common_DateFormatStyle_Short" = "Corto (17/11/2014)";
+
+/* (No Comment) */
+"_Common_DateFormatStyleExplanation" = "Indique aquí qué estilo de formato de fecha desea utilizar al reformatear las fechas";
+
+/* (No Comment) */
+"_Common_DateGroupName" = "Fecha";
+
+/* (No Comment) */
+"_Common_DatesGroupName" = "Fechas";
+
+/* (No Comment) */
+"_Common_DateTextColor" = "Color de texto de fecha";
+
+/* (No Comment) */
+"_Common_DateTextColoringMode" = "Color de fecha";
+
+/* (No Comment) */
+"_Common_DescendantGenerationsSlider" = "Generaciones de descendientes";
+
+/* (No Comment) */
+"_Common_DisplayValuesGroupName" = "Valores";
+
+/* (No Comment) */
+"_Common_DistributeToAllPagesButton" = "Ajustar tamaño de los objetos para que entren en todas las páginas";
+
+/* (No Comment) */
+"_Common_EdgeHeight" = "Altura de borde";
+
+/* (No Comment) */
+"_Common_EdgeRadius" = "Radio de borde";
+
+/* (No Comment) */
+"_Common_EmphasizedGroupBackgroundFill" = "Color de fondo de grupo realzado";
+
+/* (No Comment) */
+"_Common_EnabledPersonGroupIdentifiers" = "Grupos de personas";
+
+/* (No Comment) */
+"_Common_EndGenerationScale" = "Escala final de generaciones";
+
+/* (No Comment) */
+"_Common_EndGenerationScaleExplanation" = "Indica de qué forma se debe escalar la última generación en relación con la generación de referencia";
+
+/* (No Comment) */
+"_Common_EvaluateDataFromDate" = "Desde la fecha";
+
+/* (No Comment) */
+"_Common_EvaluateDataToDate" = "Hasta la fecha";
+
+/* (No Comment) */
+"_Common_EventsFactsAndAssociateRelationsGroupName" = "Eventos, datos y relaciones de influencia";
+
+/* (No Comment) */
+"_Common_EventsGroupName" = "Eventos";
+
+/* (No Comment) */
+"_Common_FatherGenerationsSlider" = "Generaciones de padres";
+
+/* (No Comment) */
+"_Common_FillMode" = "Modo de relleno";
+
+/* (No Comment) */
+"_Common_FillMode_BarAtBottom" = "Barra abajo";
+
+/* (No Comment) */
+"_Common_FillMode_BarAtTop" = "Barra superior";
+
+/* (No Comment) */
+"_Common_FillMode_BarAtTopAndBottom" = "Barra arriba y abajo";
+
+/* (No Comment) */
+"_Common_FillMode_DarkBarAtBottom" = "Barra oscura abajo";
+
+/* (No Comment) */
+"_Common_FillMode_DarkBarAtTop" = "Barra oscura superior";
+
+/* (No Comment) */
+"_Common_FillMode_DarkBarAtTopAndBottom" = "Barra oscura arriba y abajo";
+
+/* (No Comment) */
+"_Common_FillMode_DarkGradientAtBottom" = "Gradiente oscuro hacia abajo";
+
+/* (No Comment) */
+"_Common_FillMode_DarkGradientAtRight" = "Gradiente oscuro hacia la derecha";
+
+/* (No Comment) */
+"_Common_FillMode_DarkGradientAtTop" = "Gradiente oscuro hacia arriba";
+
+/* (No Comment) */
+"_Common_FillMode_Flat" = "Monocromático";
+
+/* (No Comment) */
+"_Common_FillMode_Glossy" = "Brillante";
+
+/* (No Comment) */
+"_Common_FillMode_LightBarAtBottom" = "Barra clara abajo";
+
+/* (No Comment) */
+"_Common_FillMode_LightBarAtTop" = "Barra clara arriba";
+
+/* (No Comment) */
+"_Common_FillMode_LightBarAtTopAndBottom" = "Barra clara arriba y abajo";
+
+/* (No Comment) */
+"_Common_FillMode_LightGradientAtBottom" = "Gradiente claro hacia abajo";
+
+/* (No Comment) */
+"_Common_FillMode_LightGradientAtLeft" = "Gradiente claro hacia la izquierda";
+
+/* (No Comment) */
+"_Common_FillMode_LightGradientAtTop" = "Gradiente claro hacia arriba";
+
+/* (No Comment) */
+"_Common_FillMode_LightShineAtCenter" = "Brillo claro al centro";
+
+/* (No Comment) */
+"_Common_FillMode_None" = "Ninguno";
+
+/* (No Comment) */
+"_Common_FillMode_VeryDarkGradientAtBottom" = "Gradiente muy oscuro hacia abajo";
+
+/* (No Comment) */
+"_Common_FillMode_VeryDarkGradientAtTop" = "Gradiente muy oscuro hacia arriba";
+
+/* (No Comment) */
+"_Common_FillMode_VeryLightGradientAtBottom" = "Gradiente muy claro hacia abajo";
+
+/* (No Comment) */
+"_Common_FillMode_VeryLightGradientAtTop" = "Gradiente muy claro hacia arriba";
+
+/* (No Comment) */
+"_Common_FloatingSideBar" = "Barra lateral flotante";
+
+/* (No Comment) */
+"_Common_Font" = "Fuente";
+
+/* (No Comment) */
+"_Common_FontsGroupName" = "Fuentes";
+
+/* (No Comment) */
+"_Common_FromDate" = "Desde la fecha";
+
+/* (No Comment) */
+"_Common_FullName" = "Nombre completo";
+
+/* Group Names */
+"_Common_GeneralGroupName" = "General";
+
+/* (No Comment) */
+"_Common_GenerationMarginsSlier" = "Márgenes de generaciones";
+
+/* (No Comment) */
+"_Common_GenerationScaleSubGroupName" = "Escala de generaciones";
+
+/* Control Names */
+"_Common_GenerationsSlider" = "Generaciones";
+
+/* (No Comment) */
+"_Common_GenerationsSpacingSlider" = "Espaciamiento de generaciones";
+
+/* (No Comment) */
+"_Common_GenerationsSpacingSliderExplanation" = "Controla el espaciamiento entre las personas de cada generación";
+
+/* (No Comment) */
+"_Common_GeometryGroupName" = "Geometría";
+
+/* (No Comment) */
+"_Common_GraphSegmentWidth" = "Anchura de segmento de gráfica";
+
+/* (No Comment) */
+"_Common_GraphType" = "Tipo de gráfica";
+
+/* (No Comment) */
+"_Common_GraphType_Bars" = "Barras";
+
+/* (No Comment) */
+"_Common_GraphType_Lines" = "Líneas";
+
+/* (No Comment) */
+"_Common_GridGroupName" = "Cuadrícula";
+
+/* (No Comment) */
+"_Common_GroupColoringMode" = "Modo de coloración de grupo";
+
+/* (No Comment) */
+"_Common_GroupingMode" = "Modo de agrupamiento";
+
+/* (No Comment) */
+"_Common_GroupInnerPadding" = "Espaciado interno";
+
+/* (No Comment) */
+"_Common_GroupsGroupName" = "Grupos";
+
+/* (No Comment) */
+"_Common_HasArrowAtEnd" = "Flecha al final";
+
+/* (No Comment) */
+"_Common_HasArrowAtStart" = "Flecha al inicio";
+
+/* (No Comment) */
+"_Common_HasProjectedBirthDate" = "Tiene fecha de nacimiento estimada";
+
+/* (No Comment) */
+"_Common_HasProjectedDeathDate" = "Tiene fecha de fallecimiento estimada";
+
+/* (No Comment) */
+"_Common_HidePrivateInformation" = "Ocultar información marcada como privada";
+
+/* (No Comment) */
+"_Common_HidePrivateInformationExplanation" = "Si selecciona esta opción, se ocultará toda información marcada como privada en el modo de edición";
+
+/* (No Comment) */
+"_Common_HighlightLivingPersons" = "Destacar personas vivas";
+
+/* (No Comment) */
+"_Common_HistoryGroupName" = "Historia universal";
+
+/* (No Comment) */
+"_Common_HorizontalSpacing" = "Espaciamiento horizontal";
+
+/* (No Comment) */
+"_Common_IDs" = "Número de referencia";
+
+/* (No Comment) */
+"_Common_ImageAlignment" = "Alineamiento de imagen";
+
+/* (No Comment) */
+"_Common_ImageHeightFactorSlider" = "Altura de imagen";
+
+/* (No Comment) */
+"_Common_ImageMargins" = "Márgenes de imagen";
+
+/* (No Comment) */
+"_Common_ImageSpacing" = "Espaciamiento de imagen";
+
+/* (No Comment) */
+"_Common_IncludePlaceDetail" = "Incluir los detalles del lugar en el nombre del lugar";
+
+/* (No Comment) */
+"_Common_IndentPartners" = "Sangrar parejas";
+
+/* Privacy */
+"_Common_InformationHiddenDueToPrivacySettings" = "Información oculta por motivos de privacidad";
+
+/* (No Comment) */
+"_Common_InnerBarMarginsSlider" = "Márgenes de las barras interiores";
+
+/* (No Comment) */
+"_Common_InnerBoxMarginsSlider" = "Márgenes internos";
+
+/* (No Comment) */
+"_Common_ItemMarginsSlider" = "Margen de ítem";
+
+/* (No Comment) */
+"_Common_ItemSpacingSlider" = "Espaciamiento de ítem";
+
+/* (No Comment) */
+"_Common_ItemSpacingSliderExplanation" = "Especificar la distancia entre personas dentro de una generación";
+
+/* (No Comment) */
+"_Common_LabelsGroupName" = "Etiquetas";
+
+/* (No Comment) */
+"_Common_LeftLineColor" = "Color de línea izquierda";
+
+/* (No Comment) */
+"_Common_LeftLineWidth" = "Anchura de línea izquierda";
+
+/* (No Comment) */
+"_Common_LineColor" = "Color de línea";
+
+/* ChartLineDashPatternTypes */
+"_Common_LineDashPatternType" = "Diseño de línea punteada";
+
+/* (No Comment) */
+"_Common_LineDashPatternType_Long" = "Largo";
+
+/* (No Comment) */
+"_Common_LineDashPatternType_Short" = "Corto";
+
+/* (No Comment) */
+"_Common_LineDashPatternType_ShortGaps" = "Brechas angostas";
+
+/* (No Comment) */
+"_Common_LineDashPatternType_Solid" = "Sólido";
+
+/* (No Comment) */
+"_Common_LineDashPatternType_VeryShort" = "Muy cortos";
+
+/* (No Comment) */
+"_Common_LineDistanceFromDestinationObjects" = "Distancia de línea al destino";
+
+/* (No Comment) */
+"_Common_LineDistanceFromOriginObjects" = "Distancia de línea desde el origen";
+
+/* (No Comment) */
+"_Common_LineEndingName" = "Remate de línea";
+
+/* (No Comment) */
+"_Common_LineGroupName" = "Línea";
+
+/* (No Comment) */
+"_Common_LinesGroupName" = "Líneas";
+
+/* (No Comment) */
+"_Common_LineWidth" = "Anchura de línea";
+
+/* (No Comment) */
+"_Common_Localization" = "Localización";
+
+/* (No Comment) */
+"_Common_LocalizationAndFormatsGroupName" = "Localización y formato";
+
+/* (No Comment) */
+"_Common_LocalizationExplanation" = "Indique la localización que se utilizará para esta gráfica. Todos los eventos de persona, datos de persona o eventos de familia y cualquier otro texto serán localizados en el idioma indicado.";
+
+/* (No Comment) */
+"_Common_MarginsGroupName" = "Márgenes";
+
+/* (No Comment) */
+"_Common_MarkDeadPersons" = "Marcar personas muertas";
+
+/* (No Comment) */
+"_Common_MaximumRecursionDepth" = "Profundidad máxima de recursión";
+
+/* (No Comment) */
+"_Common_MaximumRecursionDepthExplanation" = "Determina cuántas veces puede aparecer la misma persona en el mismo gráfico antes de que finalice la evaluación. Esto puede ocurrir debido a errores en la entrada de datos o por casos de primos o relaciones incestuosas.";
+
+/* (No Comment) */
+"_Common_MaximumResults" = "Máximo de resultados";
+
+/* (No Comment) */
+"_Common_MediaGroupName" = "Medios";
+
+/* (No Comment) */
+"_Common_MotherGenerationsSlider" = "Generaciones de madres";
+
+/* (No Comment) */
+"_Common_NameAlignment" = "Alineamiento del nombre";
+
+/* (No Comment) */
+"_Common_NameBarColor" = "Color barra nombre";
+
+/* (No Comment) */
+"_Common_NameFont" = "Nombre de fuente";
+
+/* (No Comment) */
+"_Common_NameFormat" = "Formato de nombre de persona";
+
+/* (No Comment) */
+"_Common_NameFormatExplanation" = "Seleccione el formato de nombre de que desea utilizar para todas las personas en esta gráfica.";
+
+/* (No Comment) */
+"_Common_NamesFormatGroupName" = "Formatos de nombre";
+
+/* (No Comment) */
+"_Common_NameTextColor" = "Color de texto de nombre";
+
+/* (No Comment) */
+"_Common_NoBackground" = "Sin fondo";
+
+/* (No Comment) */
+"_Common_NormalGroupBackgroundFill" = "Color de fondo de grupo normal";
+
+/* (No Comment) */
+"_Common_NotesGroupName" = "Apuntes";
+
+/* (No Comment) */
+"_Common_OmitEmptyPagesWhenPrintingOrExporting" = "Omitir páginas vacías al imprimir";
+
+/* Date Ranges */
+"_Common_OnlyEvalulateEntriesInDateRange" = "Evaluar solo entradas en el rango de fechas";
+
+/* (No Comment) */
+"_Common_OnlyEvalulateEntriesInDateRangeExplanation" = "Si lo especifica, se evaluarán solo las fechas en este rango de fechas y se descartarán todas las otras entradas.";
+
+/* (No Comment) */
+"_Common_OtherFont" = "Otra fuente";
+
+/* (No Comment) */
+"_Common_OtherTextColor" = "Otro color de texto";
+
+/* (No Comment) */
+"_Common_OverviewGroupName" = "Resumen";
+
+/* (No Comment) */
+"_Common_PageOverlapPoints" = "Solapar página";
+
+/* (No Comment) */
+"_Common_PagesCountX" = "Página horizontales";
+
+/* (No Comment) */
+"_Common_PagesCountY" = "Páginas verticales";
+
+/* (No Comment) */
+"_Common_ParentGenerationsSlider" = "Generaciones de padres";
+
+/* (No Comment) */
+"_Common_PartnerIndentionSlider" = "Sangrado de parejas";
+
+/* (No Comment) */
+"_Common_PartnerIndentionSliderExplanation" = "Determina";
+
+/* (No Comment) */
+"_Common_PartnersGroupName" = "Parejas";
+
+/* (No Comment) */
+"_Common_PersonGroupsName" = "Grupos de personas";
+
+/* (No Comment) */
+"_Common_PersonsGroupName" = "Personas";
+
+/* (No Comment) */
+"_Common_PersonWidthSlider" = "Anchura de personas";
+
+/* (No Comment) */
+"_Common_PlaceFormat" = "Formato de lugar";
+
+/* (No Comment) */
+"_Common_PlaceFormatExplanation" = "Indique aquí si desea mostrar el nombre completo de un lugar o solo la abreviatura de este.";
+
+/* (No Comment) */
+"_Common_PlaceholderImageOpacity" = "Marcador Opacidad de imagen";
+
+/* (No Comment) */
+"_Common_PlacesFormatGroupName" = "Formatos de lugar";
+
+/* (No Comment) */
+"_Common_PrintCutMarks" = "Imprimir marcas de corte";
+
+/* (No Comment) */
+"_Common_PrintPageNumbers" = "Imprimir número de páginas";
+
+/* (No Comment) */
+"_Common_ReformatDatesToSelectedLocale" = "Reformatear fechas";
+
+/* (No Comment) */
+"_Common_ReformatDatesToSelectedLocaleExplanation" = "Si activa esta opción, todos las fechas serán reformateadas para que coincidan con la localización especificada";
+
+/* (No Comment) */
+"_Common_ResultsToCollapse" = "Resultados que serán fusionados";
+
+/* (No Comment) */
+"_Common_RightLineColor" = "Color de línea derecha";
+
+/* (No Comment) */
+"_Common_RightLineWidth" = "Ancho de línea derecha";
+
+/* (No Comment) */
+"_Common_Rotation" = "Rotación";
+
+/* (No Comment) */
+"_Common_ScaleAllValuesToRelativeValues" = "Mostrar como valores relativos";
+
+/* (No Comment) */
+"_Common_ScaleAllValuesToRelativeValuesExplanation" = "En vez de utilizar números absolutos, mostrar los valores relativos para cada año.";
+
+/* (No Comment) */
+"_Common_ScaleBrothersAndSisters" = "Escalar hermanos y hermanas";
+
+/* (No Comment) */
+"_Common_ScaleBrothersAndSistersExplanation" = "Si activa esta opción, los hermanos y hermanas de un antepasado directo o descendiente de la persona de referencia será escalado en un 50%";
+
+/* (No Comment) */
+"_Common_ScalingOfBrothersAndSistersSlider" = "Escala de hermanos y hermanas";
+
+/* (No Comment) */
+"_Common_ShadowAngle" = "Ángulo de sombra";
+
+/* (No Comment) */
+"_Common_ShadowBlur" = "Difuminado de sombra";
+
+/* (No Comment) */
+"_Common_ShadowColor" = "Color de sombra";
+
+/* (No Comment) */
+"_Common_ShadowColoringFactor" = "Color de sombra";
+
+/* (No Comment) */
+"_Common_ShadowDistance" = "Distancia de sombra";
+
+/* (No Comment) */
+"_Common_ShadowGroupName" = "Sombra";
+
+/* (No Comment) */
+"_Common_ShadowLength" = "Longitud de sombra";
+
+/* (No Comment) */
+"_Common_ShadowMode" = "Modo de sombra";
+
+/* (No Comment) */
+"_Common_ShadowMode_Blurry" = "Difuminado";
+
+/* (No Comment) */
+"_Common_ShadowMode_Flat" = "Monocromático";
+
+/* (No Comment) */
+"_Common_ShadowMode_None" = "Ninguno";
+
+/* (No Comment) */
+"_Common_ShadowOpacity" = "Opacidad de sombra";
+
+/* (No Comment) */
+"_Common_ShowAncestorsOfPartners" = "Mostrar parejas de antepasados";
+
+/* (No Comment) */
+"_Common_ShowAncestorsOfPartnersExplanation" = "Al activar esta opción no se mostrarán solo los antepasados de la persona de referencia seleccionada, sino que también de los antepasados de las parejas de la personas de referencia.";
+
+/* (No Comment) */
+"_Common_ShowAncestralFileNumberID" = "Mostrar identificador de Ancestral File Number";
+
+/* (No Comment) */
+"_Common_ShowBrothersAndSisters" = "Mostrar hermanos y hermanas";
+
+/* (No Comment) */
+"_Common_ShowBrothersAndSistersOfAncestors" = "Mostrar hermanos y hermanas de antepasados";
+
+/* (No Comment) */
+"_Common_ShowBrothersAndSistersOfStartPerson" = "Mostrar hermanos y hermanas de la persona seleccionada";
+
+/* (No Comment) */
+"_Common_ShowBrothersAndSistersOfStartPersonExplanation" = "Si selecciona esta opción, podrá incluir los hermanos y hermanas de la persona actualmente seleccionada en esta gráfica.";
+
+/* (No Comment) */
+"_Common_ShowDisplayValuesOnBars" = "Mostrar valores en barras";
+
+/* (No Comment) */
+"_Common_ShowFamilySearchID" = "Mostrar identificador de FamilySearch";
+
+/* (No Comment) */
+"_Common_ShowGedcomID" = "Mostrar identificador GEDCOM";
+
+/* (No Comment) */
+"_Common_ShowGroupsForPartnerItems" = "Mostrar grupos para parejas";
+
+/* (No Comment) */
+"_Common_ShowKinships" = "Mostrar parentesco";
+
+/* (No Comment) */
+"_Common_ShowKinshipsExplanation" = "Indique si se muestra el parentesco de la persona de referencia seleccionada en cada persona de esta gráfica.";
+
+/* (No Comment) */
+"_Common_ShowLabels" = "Mostrar etiquetas";
+
+/* (No Comment) */
+"_Common_ShowNotes" = "Mostrar apuntes";
+
+/* (No Comment) */
+"_Common_ShowNumberingSystem" = "Mostrar sistema numérico";
+
+/* (No Comment) */
+"_Common_ShowOnlyBloodlines" = "Solo líneas de sangre de recorrido directo";
+
+/* (No Comment) */
+"_Common_ShowOnlySpecificPersonGroups" = "Mostrar solo grupos de personas específicos";
+
+/* (No Comment) */
+"_Common_ShowOnlySpecificPersonGroupsExplanation" = "Si se activa esta opción, se recorrerán solo las ramas de personas en estos grupos de personas. Las personas que no estén en estos grupos de personas no serán mostradas, excepto la persona de inicio.";
+
+/* (No Comment) */
+"_Common_ShowPartnersOfStartItem" = "Mostrar parejas de la persona seleccionadas";
+
+/* (No Comment) */
+"_Common_ShowPersonAgeAtEvent" = "Mostrar edad de personas al momento de un evento";
+
+/* (No Comment) */
+"_Common_ShowPersonBirthDate" = "Mostrar fechas de nacimiento de personas";
+
+/* (No Comment) */
+"_Common_ShowPersonDeathDate" = "Mostrar fecha de fallecimiento de personas";
+
+/* (No Comment) */
+"_Common_ShowPersonEventCause" = "Mostrar causa de evento de persona";
+
+/* (No Comment) */
+"_Common_ShowPersonEventDescription" = "Mostrar descripción de usuario de evento de persona";
+
+/* (No Comment) */
+"_Common_ShowPersonEventIcons" = "Mostrar íconos de eventos de personas";
+
+/* (No Comment) */
+"_Common_ShowPersonEventLocation" = "Mostrar ubicaciones de eventos de personas";
+
+/* (No Comment) */
+"_Common_ShowPersonImages" = "Mostrar imágenes de personas";
+
+/* (No Comment) */
+"_Common_ShowReferenceNumber" = "Mostrar número de referencia";
+
+/* (No Comment) */
+"_Common_SideBarWidthSlider" = "Anchura barra lateral";
+
+/* (No Comment) */
+"_Common_SpacingGroupName" = "Espaciado";
+
+/* (No Comment) */
+"_Common_SpacingSlider" = "Espaciado";
+
+/* (No Comment) */
+"_Common_StartAngleSlider" = "Ángulo de inicio";
+
+/* (No Comment) */
+"_Common_StartGenerationScale" = "Escala inicial de generaciones";
+
+/* (No Comment) */
+"_Common_StartGenerationScaleExpanation" = "Indica de qué forma se debe escalar la generación de referencia en relación con con la última generación";
+
+/* (No Comment) */
+"_Common_StrokeGroupName" = "Trazo";
+
+/* (No Comment) */
+"_Common_StyleGroupName" = "Estilo";
+
+/* (No Comment) */
+"_Common_SubTitle" = "Subtítulo";
+
+/* (No Comment) */
+"_Common_SubTitleColor" = "Color de subtítulo";
+
+/* (No Comment) */
+"_Common_SubTitleCustomTextColor" = "Color de subtítulo personalizado";
+
+/* (No Comment) */
+"_Common_SubTitleEnabledCheckbox" = "Mostrar subtítulo";
+
+/* (No Comment) */
+"_Common_SubTitleFont" = "Fuente de subtítulo";
+
+/* (No Comment) */
+"_Common_SubTitleGroupName" = "Subtítulo";
+
+/* (No Comment) */
+"_Common_SubTitleTextColoringMode" = "Color de subtítulo";
+
+/* (No Comment) */
+"_Common_TextColor" = "Color de texto";
+
+/* (No Comment) */
+"_Common_TextColoringMode" = "Color de texto";
+
+/* (No Comment) */
+"_Common_TextColoringMode_ByGenerationRainbow" = "Por generación (arco iris)";
+
+/* (No Comment) */
+"_Common_TextColoringMode_ContrastToBackgroundColor" = "Contraste con el fondo";
+
+/* (No Comment) */
+"_Common_TextColoringMode_ContrastToBackgroundColorTinted" = "Contraste con tinción para fondo";
+
+/* (No Comment) */
+"_Common_TextColoringMode_Custom" = "Personalizado";
+
+/* (No Comment) */
+"_Common_TextColoringMode_Gender" = "Por género";
+
+/* (No Comment) */
+"_Common_TextGroupName" = "Texto";
+
+/* (No Comment) */
+"_Common_ThemeGroupName" = "Tema";
+
+/* (No Comment) */
+"_Common_Title" = "Título";
+
+/* (No Comment) */
+"_Common_TitleColor" = "Color de título";
+
+/* (No Comment) */
+"_Common_TitleCustomTextColor" = "Color de título personalizado";
+
+/* (No Comment) */
+"_Common_TitleEnabledCheckbox" = "Mostrar título";
+
+/* (No Comment) */
+"_Common_TitleFont" = "Fuente de título";
+
+/* (No Comment) */
+"_Common_TitleGroupName" = "Título";
+
+/* (No Comment) */
+"_Common_TitleImageMode" = "Imagen de título";
+
+/* (No Comment) */
+"_Common_TitleTextColoringMode" = "Color de título";
+
+/* (No Comment) */
+"_Common_ToDate" = "Hasta la fecha";
+
+/* (No Comment) */
+"_Common_TopImageHeight" = "Altura de imagen superior";
+
+/* (No Comment) */
+"_Common_TopLineColor" = "Color de línea superior";
+
+/* (No Comment) */
+"_Common_TopLineWidth" = "Anchura de línea superior";
+
+/* (No Comment) */
+"_Common_TopMarginSlider" = "Margen superior";
+
+/* (No Comment) */
+"_Common_TotalAngleSlider" = "Ángulo total";
+
+/* (No Comment) */
+"_Common_TypeFont" = "Fuente de tipo";
+
+/* (No Comment) */
+"_Common_TypeTextColor" = "Color de texto de tipo";
+
+/* (No Comment) */
+"_Common_UniformColor" = "Color uniforme";
+
+/* (No Comment) */
+"_Common_UniformColorForColoringModeExplanation" = "Al seleccionar 'Color uniforme' en los ajustes de modo de coloración, podrá determinar un color de persona uniforme.";
+
+/* (No Comment) */
+"_Common_VerticalSpacing" = "Espaciamiento vertical";
+
+/* (No Comment) */
+"_Common_WidthPerYearSlider" = "Anchura por año";
+
+/* (No Comment) */
+"_Common_XAxisLabel" = "Etiqueta de eje X";
+
+/* (No Comment) */
+"_Common_XAxisLabelColor" = "Color de etiqueta de eje X";
+
+/* (No Comment) */
+"_Common_XAxisLabelFont" = "Fuente etiqueta eje X";
+
+/* (No Comment) */
+"_Common_XAxisLineColor" = "Color de línea de eje X";
+
+/* (No Comment) */
+"_Common_XLineLabelColor" = "Color de etiquetas de línea X";
+
+/* (No Comment) */
+"_Common_XLineLabelFont" = "Fuente etiqueta línea X";
+
+/* (No Comment) */
+"_Common_XLinesWidth" = "Anchura de líneas X";
+
+/* (No Comment) */
+"_Common_XScale" = "Escalamiento de anchura";
+
+/* (No Comment) */
+"_Common_YAxisLabel" = "Etiqueta de eje Y";
+
+/* (No Comment) */
+"_Common_YAxisLabelColor" = "Color de etiqueta de eje Y";
+
+/* (No Comment) */
+"_Common_YAxisLabelFont" = "Fuente etiqueta eje Y";
+
+/* (No Comment) */
+"_Common_YAxisLineColor" = "Color de línea de eje Y";
+
+/* (No Comment) */
+"_Common_YLineLabelColor" = "Color de etiquetas de líneas Y";
+
+/* (No Comment) */
+"_Common_YLineLabelFont" = "Fuente etiqueta línea Y";
+
+/* (No Comment) */
+"_Common_YLinesWidth" = "Anchura de líneas Y";
+
+/* (No Comment) */
+"_Common_YScale" = "Escalamiento de altura";
+
+/* DistributionChartBuilder */
+"_DistributionChartBuilder_DistributionType" = "Tipo de distribución";
+
+/* (No Comment) */
+"_DistributionChartBuilder_DistributionTypeExplanation" = "Indique qué tipo de gráfica de distribución desea crear para los datos de su árbol genealógico.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_BirthCountry" = "Distribución de países de nacimiento";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_BirthCountry_Description" = "Los países de nacimiento en su árbol genealógico muestran dónde han nacido las personas.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_BirthPlace" = "Distribución por lugar de nacimiento";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_BirthPlace_Description" = "Los lugares de nacimiento en su árbol genealógico muestran dónde han nacido las personas.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_DeathCountry" = "Distribución de países de fallecimiento";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_DeathCountry_Description" = "Los países de fallecimiento en su árbol genealógico que muestran dónde han fallecido personas.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_DeathPlace" = "Distribución de lugares de fallecimiento";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_DeathPlace_Description" = "Los lugares de fallecimiento en su árbol genealógico que muestran dónde han fallecido personas.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_EventValues_Illnesses" = "Distribución de enfermedad";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_EventValues_Illnesses_Description" = "Vea qué enfermedades se han registrado para personas en su árbol genealógico.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_EventValues_Occupations" = "Distribución de las profesiones";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_EventValues_Occupations_Description" = "¿Qué tipo de profesión tuvieron las personas de su árbol genealógico durante el paso de los años?";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_CasteName" = "Distribución de nombres de castas";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_CasteName_Description" = "Nombres de castas comúnmente usado por año.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_EyeColor" = "Distribución del color de ojos";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_EyeColor_Description" = "¿Qué color de ojos fueron los más prevalentes en su árbol genealógico en el transcurso de los años?";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_NationalOrTribalOrigin" = "Distribución de país o tribu de procedencia";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_NationalOrTribalOrigin_Description" = "Distribución del dato personal de país o tribu de procedencia por año.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_Race" = "Distribución de origen étnico";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_Race_Description" = "Distribución de origen étnico en su árbol genealógico por año.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_SkinColor" = "Distribución de colores de piel";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_SkinColor_Description" = "¿Qué color de piel fue más común en su árbol genealógico en el pasado?";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_FirstName" = "Distribución de nombres";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_FirstName_Description" = "Utilizar los nombres por año de su árbol genealógico.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Gender" = "Distribución de género";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Gender_Description" = "Distribución de género en su árbol genealógico por año.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_LastName" = "Distribución de apellidos";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_LastName_Description" = "Utilizar los apellidos por año de su árbol genealógico.";
+
+/* (No Comment) */
+"_DistributionValuesBarGeneratorChartCompositorObject_ColoringMode_Custom" = "Color personalizado";
+
+/* (No Comment) */
+"_DistributionValuesBarGeneratorChartCompositorObject_ColoringMode_Rainbow" = "Arco iris";
+
+/* EditorTextGeneratorChartCompositorObject */
+"_EditorTextGeneratorChartCompositorObject_NewTextTitle" = "Nuevo texto";
+
+/* (No Comment) */
+"_Error_NoParentsForPersonFoundInFamilyTreeError" = "No se han encontrado padres para la persona seleccionada.";
+
+/* Errors */
+"_Error_NoPersonFoundInFamilyTreeError" = "Todavía no se ha ingresado ninguna persona en este árbol genealógico. Para mostrar esta gráfica, utilice la sección Editar para introducir personas y familias.";
+
+/* (No Comment) */
+"_Error_NoSelectedPersonSetError" = "No se ha seleccionado ninguna persona para esta gráfica.";
+
+/* (No Comment) */
+"_Error_NotEnoughDataPresentError" = "No existe suficiente información en este árbol genealógico para mostrar esta gráfica.";
+
+/* (No Comment) */
+"_FanChartBuilder_ExpandVerySmallFanItemsIfPossible" = "De ser posible, expandir segmentos muy pequeños del abanico.";
+
+/* (No Comment) */
+"_FanChartBuilder_ExpandVerySmallFanItemsIfPossibleExplanation" = "Si un segmento de la gráfica en abanico es muy pequeño, este se expandirá por sobre los límites del segmento superior de la gráfica en abanico para obtener más espacio.";
+
+/* FanChartBuilder */
+"_FanChartBuilder_Mode" = "Modo";
+
+/* (No Comment) */
+"_FanChartBuilder_Mode_Ancestors" = "Antepasados";
+
+/* (No Comment) */
+"_FanChartBuilder_Mode_Descendants" = "Descendientes";
+
+/* (No Comment) */
+"_FanChartBuilder_ModeExplanation" = "Indique aquí si la vista en abanico debe mostrar los antepasados o los descendientes de la persona seleccionada";
+
+/* Genogram */
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventPosition" = "Posición de Eventos y datos";
+
+/* (No Comment) */
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventPosition_Right" = "Derecha";
+
+/* (No Comment) */
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventsBackground" = "Fondo de Eventos y datos";
+
+/* (No Comment) */
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventsBackground_Filled" = "Completado";
+
+/* (No Comment) */
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventsBackground_None" = "Ninguno";
+
+/* (No Comment) */
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventsPosition_Below" = "Por debajo";
+
+/* GridChartObject */
+"_GridGeneratorChartCompositorObjectConfiguration_ColorMode" = "Modo de coloración";
+
+/* (No Comment) */
+"_GridGeneratorChartCompositorObjectConfiguration_ColorMode_ContrastToBackground" = "Contraste con el fondo";
+
+/* (No Comment) */
+"_GridGeneratorChartCompositorObjectConfiguration_ColorMode_Custom" = "Personalizado";
+
+/* (No Comment) */
+"_RelationshipChartBuilder_NoRelationError" = "No se ha podido determinar un parentesco entre las personas seleccionadas";
+
+/* (No Comment) */
+"_RelationshipChartBuilder_PathIsBloodline" = "Parentesco biológico";
+
+/* (No Comment) */
+"_RelationshipChartBuilder_PathIsNotBloodline" = "Sin parentesco biológico";
+
+/* (No Comment) */
+"_RelationshipChartBuilder_PathWithNStepsIsIsNotBloodline" = "Ruta con %ld grados (%@)";
+
+/* RelationshipChartBuilder */
+"_RelationshipChartBuilder_SelectDifferentPersonsError" = "Seleccione dos personas distintas para crear una gráfica de parentesco.";
+
+/* (No Comment) */
+"_RelationshipChartBuilder_SelectedRelationshipPath" = "Rutas disponibles al pariente";
+
+/* (No Comment) */
+"_RelationshipChartBuilder_SelectedRelationshipPathExplanation" = "En caso de que en su árbol genealógico existan varias rutas entre la persona de referencia y la persona objetivo, seleccione aquí las distintas rutas posibles.";
+
+/* SegmentedPortraitPersonBuilderItemGeneratorChartCompositorObjectConfiguration_BarStyle */
+"_SegmentedPortraitPersonBuilderItemGeneratorChartCompositorObjectConfiguration_BarStyle_Arrow" = "Flecha";
+
+/* (No Comment) */
+"_SegmentedPortraitPersonBuilderItemGeneratorChartCompositorObjectConfiguration_BarStyle_Diagonal" = "Diagonal";
+
+/* (No Comment) */
+"_SegmentedPortraitPersonBuilderItemGeneratorChartCompositorObjectConfiguration_BarStyle_Round" = "Circular";
+
+/* (No Comment) */
+"_SegmentedPortraitPersonBuilderItemGeneratorChartCompositorObjectConfiguration_BarStyle_Wave" = "Onda";
+
+/* _SideBarPersonBuilderItemGeneratorChartCompositorObject */
+"_SideBarPersonBuilderItemGeneratorChartCompositorObject_SideBarPosition" = "Posición barra lateral";
+
+/* (No Comment) */
+"_SideBarPersonBuilderItemGeneratorChartCompositorObject_SideBarPosition_Bottom" = "Abajo";
+
+/* (No Comment) */
+"_SideBarPersonBuilderItemGeneratorChartCompositorObject_SideBarPosition_Left" = "Izquierda";
+
+/* (No Comment) */
+"_SideBarPersonBuilderItemGeneratorChartCompositorObject_SideBarPosition_Right" = "Derecha";
+
+/* (No Comment) */
+"_SideBarPersonBuilderItemGeneratorChartCompositorObject_SideBarPosition_Top" = "Arriba";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_AssociatedPersonsSpacing" = "Espaciamiento de personas influyentes";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_AssociatedPersonsSpacingExplanation" = "Determine aquí el espaciamiento entre personas y las personas influyentes.";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowAssociateRelationsOfChildren" = "Mostrar personas influyentes de los niños";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowAssociateRelationsOfParents" = "Mostrar personas influyentes de los padres";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowAssociateRelationsOfPartners" = "Mostrar personas influyentes de las parejas";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowAssociateRelationsOfStartPerson" = "Mostrar personas influyentes de la persona de referencia";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowChildren" = "Mostrar hijos";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowGrandparents" = "Mostrar abuelos";
+
+/* SociogramChartBuilderConfiguration */
+"_SociogramChartBuilderConfiguration_ShowParents" = "Mostrar padres";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowPartners" = "Mostrar parejas";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_AgeAxisLabel" = "Edad";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_ChildsAxisLabel" = "Hijos";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_CountAxisLabel" = "Número";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_CountryAxisLabel" = "País";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_DivorcesAxisLabel" = "Divorcios";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_EventOrFactAxisLabel" = "Evento o dato";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_FactValueAxisLabel" = "Valor de dato";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_FamiliesAxisLabel" = "Familias";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_GenderAxisLabel" = "Género";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_MarriagesAxisLabel" = "Matrimonios";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_MonthAxisLabel" = "Mes";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_PersonFirstNamesAxisLabel" = "Nombres de personas";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_PersonLastNamesAxisLabel" = "Apellidos de personas";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_PersonsAxisLabel" = "Personas";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_PersonTitleAxisLabel" = "Títulos de personas";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_PlaceAxisLabel" = "Lugar";
+
+/* StatisticsChartBuilder */
+"_StatisticsChartBuilder_StatisticsType" = "Tipo de estadística";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_StatisticsTypeExplanation" = "Indique qué tipo de estadística desea crear a partir de los datos de su árbol genealógico.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtChristening" = "Edad al ser bautizado";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtChristening_Description" = "La edad de las personas al ser bautizadas.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtDeath" = "Edad al fallecer";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtDeath_Description" = "Muestra cuánto tiempo vivieron las personas en su árbol genealógico.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtDivorce" = "Edad al divorciarse";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtDivorce_Description" = "Muestra una gráfica con la edad de las personas al divorciarse.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtMarriage" = "Edad al contraer matrimonio";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtMarriage_Description" = "Estadísticas sobre a qué edad contrajeron matrimonio las personas de su árbol genealógico.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtRetirement" = "Edad al momento de jubilarse";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtRetirement_Description" = "Muestra a qué edad se jubilaron las personas en su árbol genealógico.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeOfChildAtParentsDeath" = "Edad del niño/a en el momento del fallecimiento de los padres.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeOfChildAtParentsDeath_Description" = "¿Qué edad tenían los niños en su árbol genealógico cuando perdieron a su madreo o padre?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeOfParentsAtBirthOfChild" = "Edad de los padres en el momento del nacimiento del niño/a.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeOfParentsAtBirthOfChild_Description" = "Calcula la edad de los padres cuando sus niños/as nacieron.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeOfPersonAtDeathOfPartner" = "Edad de personas al momento del fallecimiento de la pareja";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeOfPersonAtDeathOfPartner_Description" = "Estadísticas sobre la edad de una persona al momento de fallecer su pareja";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_BirthMonth" = "Mes de nacimiento";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_BirthMonth_Description" = "¿En qué mes nacieron la mayor cantidad de personas?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_ChildsPerFamily" = "Hijos por familia";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_ChildsPerFamily_Description" = "Número de hijos por familia en su árbol genealógico";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_ConclusionTypes" = "Tipos de eventos o datos";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_ConclusionTypes_Description" = "Estadística de los tipos de eventos o datos más frecuentes.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_DeathMonth" = "Mes de fallecimiento";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_DeathMonth_Description" = "Meses en los que ha fallecido la mayor cantidad de personas de su árbol genealógico.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_DivorceMonth" = "Mes de divorcio";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_DivorceMonth_Description" = "Meses en los que se han divorciado personas de su árbol genealógico.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_CasteName" = "Dato: Nombre de casta";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_CasteName_Description" = "¿Cuál fue la casta más frecuente en su árbol genealógico?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_EyeColor" = "Dato: color de ojos";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_EyeColor_Description" = "Estadística sobre el color de ojos de personas en su árbol genealógico.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_NationalOrTribalOrigin" = "Dato: país o tribu de procedencia";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_NationalOrTribalOrigin_Description" = "El país o tribu de procedencia más común de las personas en su árbol.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_Race" = "Dato: origen étnico";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_Race_Description" = "Estadísticas sobre el origen étnico de personas en su árbol genealógico.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_SkinColor" = "Dato: color de piel";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_SkinColor_Description" = "Estadísticas sobre el dato color de piel en su árbol.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_FirstNames" = "Distribución del nombre";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_FirstNames_Description" = "Los nombres más frecuentemente usados de su árbol genealógico.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Gender" = "Género";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Gender_Description" = "Distribución de género de las personas en su árbol.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_LastNames" = "Distribución del apellido";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_LastNames_Description" = "Los apellidos más frecuentemente usados de su árbol genealógico.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_MarriageMonth" = "Mes del matrimonio";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_MarriageMonth_Description" = "¿Cuál fue el mes preferido por las personas para contraer matrimonio?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_FamilyEvent_Marriage;topLevelGroupingLocationString" = "País de matrimonio";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_FamilyEvent_Marriage;topLevelGroupingLocationString_Description" = "Los países en los que sus parientes eligieron contraer matrimonio.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_FamilyEvent_Marriage;veryShortLocationString" = "Lugar de matrimonio";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_FamilyEvent_Marriage;veryShortLocationString_Description" = "¿En qué pueblo o lugar contrajeron matrimonio personas de su árbol genealógico?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Birth;topLevelGroupingLocationString" = "País de nacimiento";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Birth;topLevelGroupingLocationString_Description" = "El país de origen de todas las personas";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Birth;veryShortLocationString" = "Lugar de nacimiento";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Birth;veryShortLocationString_Description" = "¿De qué pueblo provienen la mayor cantidad de personas de su árbol genealógico?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Burial;topLevelGroupingLocationString" = "País de sepultura";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Burial;topLevelGroupingLocationString_Description" = "¿En qué país están enterrados la mayoría de sus parientes?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Burial;veryShortLocationString" = "Lugar de sepultura";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Burial;veryShortLocationString_Description" = "El lugar de sepultura más común en su árbol genealógico.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Christening;topLevelGroupingLocationString" = "País de bautizo";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Christening;topLevelGroupingLocationString_Description" = "El país en el que la mayoría de sus parientes han sido bautizados.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Christening;veryShortLocationString" = "Lugar de bautizo";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Christening;veryShortLocationString_Description" = "¿En qué pueblo fueron bautizadas personas de su árbol genealógico?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Death;topLevelGroupingLocationString" = "País de fallecimiento";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Death;topLevelGroupingLocationString_Description" = "Estadísticas sobre el país en el que ha fallecido la mayoría de pesronas en su árbol genealógico.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Death;veryShortLocationString" = "Lugar de fallecimiento";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Death;veryShortLocationString_Description" = "El pueblo o lugar con la mayor cantidad de personas fallecidas en su árbol genealógico.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_TimeBetweenMarriageAndBirthOfChild" = "Tiempo entre matrimonio y nacimiento de un hijo/a";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_TimeBetweenMarriageAndBirthOfChild_Description" = "¿Qué tan largo fue el tiempo entre el matrimonio y el nacimiento de los hijos/as? Un valor negativo indica que el niño nació antes del matrimonio.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Titles" = "Distribución de títulos";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Titles_Description" = "Estadísticas sobre los nombres de títulos de todas las personas.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Birth" = "Año de nacimiento";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Birth_Description" = "Muestra en qué años nació la mayor cantidad de personas de su árbol genealógico.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Burial" = "Año de sepultura";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Burial_Description" = "Estadística de cuándo fueron sepultadas las personas en su árbol genealógico.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Christening" = "Año de bautizo";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Christening_Description" = "Estadísticas del año en que las personas de su árbol genealógico fueron bautizadas.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Death" = "Año de fallecimiento";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Death_Description" = "El año de cada evento de fallecimiento en su árbol genealógico";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_YearAxisLabel" = "Año";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_YearsAxisLabel" = "Años";
+
+/* (No Comment) */
+"_StyleNames_AgeFanChartCompositorStyle" = "Abanico de años";
+
+/* (No Comment) */
+"_StyleNames_BlackBorderBoxedChartCompositorStyle" = "Borde negro";
+
+/* (No Comment) */
+"_StyleNames_BlackBoxedChartCompositorStyle" = "Recuadros negros";
+
+/* (No Comment) */
+"_StyleNames_BlackWhiteFanChartCompositorStyle" = "Abanico blanco/negro";
+
+/* (No Comment) */
+"_StyleNames_BlueTextChartCompositorStyle" = "Texto azul";
+
+/* (No Comment) */
+"_StyleNames_BlueWhiteBoxedChartCompositorStyle" = "Recuadros blancos/azules";
+
+/* (No Comment) */
+"_StyleNames_ByAgeBoxedChartCompositorStyle" = "Recuadros por edad";
+
+/* (No Comment) */
+"_StyleNames_ByYearFanChartCompositorStyle" = "Por año (abanico)";
+
+/* (No Comment) */
+"_StyleNames_ByYearGradientFanChartCompositorStyle" = "Gradiente en abanico por año";
+
+/* (No Comment) */
+"_StyleNames_ComicWhiteBoxedChartCompositorStyle" = "Recuadros estilo cómic";
+
+/* (No Comment) */
+"_StyleNames_DarkBlueSideBarChartCompositorStyle" = "Azul oscuro";
+
+/* (No Comment) */
+"_StyleNames_DarkBoxedChartCompositorStyle" = "Recuadros oscuros";
+
+/* (No Comment) */
+"_StyleNames_DarkBoxedChartCompositorStyle2" = "Recuadros oscuros 2";
+
+/* (No Comment) */
+"_StyleNames_DarkCardChartCompositorStyle" = "Tarjeta oscura";
+
+/* (No Comment) */
+"_StyleNames_DarkCircularPersonChartCompositorStyle" = "Oscura circular";
+
+/* (No Comment) */
+"_StyleNames_DarkDistributionChartCompositorStyle" = "Oscura";
+
+/* (No Comment) */
+"_StyleNames_DarkFanChartCompositorStyle" = "Abanico oscuro";
+
+/* (No Comment) */
+"_StyleNames_DarkFlatBarStatisticsChartCompositorStyle" = "Barras planas oscuras";
+
+/* (No Comment) */
+"_StyleNames_DarkLinesStatisticsChartCompositorStyle" = "Líneas oscuras";
+
+/* (No Comment) */
+"_StyleNames_DarkNameBarChartCompositorStyle" = "Barras de nombre oscuras";
+
+/* (No Comment) */
+"_StyleNames_DarkPortraitBoxChartCompositorStyle" = "Retratos oscuros";
+
+/* (No Comment) */
+"_StyleNames_DarkTextChartCompositorStyle" = "Texto oscuro";
+
+/* (No Comment) */
+"_StyleNames_DarkTimelineBarChartCompositorStyle" = "Barras oscuras";
+
+/* (No Comment) */
+"_StyleNames_GenderPennantChartCompositorStyle" = "Banderín para el género";
+
+/* (No Comment) */
+"_StyleNames_GenderTextChartCompositorStyle" = "Texto para el género";
+
+/* (No Comment) */
+"_StyleNames_GreenBlueCardChartCompositorStyle" = "Tarjeta verde-azul";
+
+/* (No Comment) */
+"_StyleNames_GreenBoxedBarChartCompositorStyle" = "Recuadros con barras verdes";
+
+/* (No Comment) */
+"_StyleNames_GreenBoxedChartCompositorStyle" = "Recuadros verdes";
+
+/* (No Comment) */
+"_StyleNames_LightBarsFanChartCompositorStyle" = "Abanico de barras claras";
+
+/* (No Comment) */
+"_StyleNames_LightBarsFanChartCompositorStyle2" = "Abanico de barras claras 2";
+
+/* Style Names */
+"_StyleNames_LightBoxedChartCompositorStyle" = "Recuadros brillantes";
+
+/* (No Comment) */
+"_StyleNames_LightBoxedChartCompositorStyle2" = "Recuadros redondeados brillantes";
+
+/* (No Comment) */
+"_StyleNames_LightBoxedChartCompositorStyle3" = "Recuadros de género";
+
+/* (No Comment) */
+"_StyleNames_LightCardChartCompositorStyle" = "Tarjeta clara";
+
+/* (No Comment) */
+"_StyleNames_LightCardChartCompositorStyle2" = "Tarjeta clara 2";
+
+/* (No Comment) */
+"_StyleNames_LightCircularPersonChartCompositorStyle" = "Circular claro";
+
+/* (No Comment) */
+"_StyleNames_LightDistributionChartCompositorStyle" = "Gradientes";
+
+/* (No Comment) */
+"_StyleNames_LightFanChartCompositorStyle" = "Abanico claro";
+
+/* (No Comment) */
+"_StyleNames_LightFlatBarStatisticsChartCompositorStyle" = "Barras planas claras";
+
+/* (No Comment) */
+"_StyleNames_LightGenderFanChartCompositorStyle" = "Abanico de género claro";
+
+/* (No Comment) */
+"_StyleNames_LightGenderFanChartCompositorStyle2" = "Abanico de género claro 2";
+
+/* (No Comment) */
+"_StyleNames_LightGenogramChartCompositorStyle" = "Genograma claro";
+
+/* (No Comment) */
+"_StyleNames_LightGenogramChartCompositorStyle2" = "Genograma claro 2";
+
+/* (No Comment) */
+"_StyleNames_LightGenogramChartCompositorStyle3" = "Genograma claro 3";
+
+/* (No Comment) */
+"_StyleNames_LightGenogramChartCompositorStyle4" = "Genograma claro 4";
+
+/* (No Comment) */
+"_StyleNames_LightLinesStatisticsChartCompositorStyle" = "Líneas claras";
+
+/* (No Comment) */
+"_StyleNames_LightNameBarChartCompositorStyle" = "Barras de nombres claras";
+
+/* (No Comment) */
+"_StyleNames_LightPortraitBoxChartCompositorStyle" = "Retratos claros";
+
+/* (No Comment) */
+"_StyleNames_LightPortraitBoxOnDarkBackgroundChartCompositorStyle" = "Retratos oscuros 2";
+
+/* (No Comment) */
+"_StyleNames_LightTextChartCompositorStyle" = "Blanco y negro";
+
+/* (No Comment) */
+"_StyleNames_LightTimelineBackgroundBarChartCompositorStyle" = "Barras de fondo claras";
+
+/* (No Comment) */
+"_StyleNames_LightTimelineBarChartCompositorStyle" = "Barras claras";
+
+/* (No Comment) */
+"_StyleNames_LightTimelineFromToChartCompositorStyle" = "Barras simples claras";
+
+/* (No Comment) */
+"_StyleNames_LightTimelineFromToChartCompositorStyle2" = "Barras simples claras 2";
+
+/* (No Comment) */
+"_StyleNames_MagentaBoxedBarChartCompositorStyle" = "Recuadros con barras magenta";
+
+/* (No Comment) */
+"_StyleNames_MagentaSimpleCircleOnDarkBackgroundChartCompositorStyle" = "Círculos magenta";
+
+/* (No Comment) */
+"_StyleNames_OrangeCyanCardChartCompositorStyle" = "Tarjeta naranja-cian";
+
+/* (No Comment) */
+"_StyleNames_OrangeCyanSimpleCircleOnDarkBackgroundChartCompositorStyle" = "Círculos naranjas/cian";
+
+/* (No Comment) */
+"_StyleNames_OrganicCircularPersonChartCompositorStyle" = "Orgánico circular";
+
+/* (No Comment) */
+"_StyleNames_OrganicOrangeCyanCircularPersonChartCompositorStyle" = "Orgánico naranaj/Cian circular";
+
+/* (No Comment) */
+"_StyleNames_OrganicSimpleCircleChartCompositorStyle" = "Círuclos orgánicos";
+
+/* (No Comment) */
+"_StyleNames_PedigreeBoxedBarChartCompositorStyle" = "Recuadros con barras de parentesco";
+
+/* (No Comment) */
+"_StyleNames_PedigreePennantChartCompositorStyle" = "Banderín de parentesco";
+
+/* (No Comment) */
+"_StyleNames_PedigreeSideBarChartCompositorStyle" = "Color de parentesco con barra a la derecha";
+
+/* (No Comment) */
+"_StyleNames_RainbowBoxedBarChartCompositorStyle" = "Recuadros con barras arcoiris";
+
+/* (No Comment) */
+"_StyleNames_RainbowPennantChartCompositorStyle" = "Banderín arcoíris";
+
+/* (No Comment) */
+"_StyleNames_RainbowTextChartCompositorStyle" = "Texto arcoiris";
+
+/* (No Comment) */
+"_StyleNames_RedTextChartCompositorStyle" = "Texto rojo";
+
+/* (No Comment) */
+"_StyleNames_SunsetBoxedBarChartCompositorStyle" = "Recuadros con barras atardecer";
+
+/* (No Comment) */
+"_StyleNames_SunsetBoxedChartCompositorStyle" = "Recuadros, atardecer";
+
+/* (No Comment) */
+"_StyleNames_SunsetCardChartCompositorStyle" = "Tarjetas, atardecer";
+
+/* (No Comment) */
+"_StyleNames_SunsetCircularPersonChartCompositorStyle" = "Circular, atardecer";
+
+/* (No Comment) */
+"_StyleNames_SunsetDistributionChartCompositorStyle" = "Atardecer";
+
+/* (No Comment) */
+"_StyleNames_SunsetFanChartCompositorStyle" = "Abanico, atardecer";
+
+/* (No Comment) */
+"_StyleNames_SunsetFlatBarStatisticsChartCompositorStyle" = "Barras planas atardecer";
+
+/* (No Comment) */
+"_StyleNames_TraditionalFanChartCompositorStyle" = "Tradicional";
+
+/* (No Comment) */
+"_StyleNames_TraditionalGradientFanChartCompositorStyle" = "Gradientes tradicionales";
+
+/* (No Comment) */
+"_StyleNames_TypewriterTextChartCompositorStyle" = "Máquina de escribir";
+
+/* (No Comment) */
+"_StyleNames_TypewriterTimelineBarChartCompositorStyle" = "Máquina de escribir";
+
+/* (No Comment) */
+"_StyleNames_VeryLightPedigreeGradientFanChartCompositorStyle" = "Gradientes claros Abanico de parentesco";
+
+/* (No Comment) */
+"_StyleNames_VioletCardChartCompositorStyle" = "Tarjestas violetas";
+
+/* (No Comment) */
+"_StyleNames_WhiteBoxedChartCompositorStyle" = "Recuadros blancos";
+
+/* (No Comment) */
+"_StyleNames_WhiteCardChartCompositorStyle" = "Cartas blancas";
+
+/* (No Comment) */
+"_StyleNamesBlueDiagonalSegmentedPortraitChartCompositorStyle" = "Cajas estilizadas azules";
+
+/* (No Comment) */
+"_StyleNamesBluePolaroidChartCompositorStyle" = "Polaroids azules";
+
+/* (No Comment) */
+"_StyleNamesBottomSideBarChartCompositorStyle" = "Barra inferior";
+
+/* (No Comment) */
+"_StyleNamesDarkBarPortraitCompositorStyle" = "Retratos Barra oscura";
+
+/* (No Comment) */
+"_StyleNamesDarkPolaroidChartCompositorStyle" = "Polaroid oscura";
+
+/* (No Comment) */
+"_StyleNamesFloatingRainbowSideBarChartCompositorStyle" = "Barras flotantes Arcoiris";
+
+/* (No Comment) */
+"_StyleNamesGenderBarPortraitCompositorStyle" = "Retrato Barra de género";
+
+/* (No Comment) */
+"_StyleNamesLargeBarPortraitCompositorStyle" = "Retratos Barra grande";
+
+/* (No Comment) */
+"_StyleNamesLightBlueBarPortraitCompositorStyle" = "Retratos Barra azul claro";
+
+/* (No Comment) */
+"_StyleNamesLightWaveSegmentedPortraitChartCompositorStyle" = "Cajas estilizadas claras";
+
+/* (No Comment) */
+"_StyleNamesPedigreeBarPortraitCompositorStyle" = "Retratos Barra de parentesco";
+
+/* (No Comment) */
+"_StyleNamesPedigreeRoundSegmentedPortraitChartCompositorStyle" = "Cajas estilizadas circulares de parentesco";
+
+/* (No Comment) */
+"_StyleNamesPedigreeSegmentedPortraitChartCompositorStyle" = "Cajas estilizadas de parentesco";
+
+/* (No Comment) */
+"_StyleNamesRainbowSegmentedPortraitChartCompositorStyle" = "Cajas estilizadas arcoiris";
+
+/* (No Comment) */
+"_StyleNamesRainbowSideBarChartCompositorStyle" = "Barras Arcoiris";
+
+/* (No Comment) */
+"_StyleNamesSimplePolaroidChartCompositorStyle" = "Polaroids";
+
+/* (No Comment) */
+"_StyleNamesSunsetPolaroidChartCompositorStyle" = "Polaroid puesta de sol";
+
+/* (No Comment) */
+"_StyleNamesSunsetSideBarChartCompositorStyle" = "Barras Aterceder";
+
+/* (No Comment) */
+"_Timeline_GroupingMode_GroupByBirthCountry_SortByDate" = "Agrupar por país de nacimiento, Ordenar por fecha";
+
+/* (No Comment) */
+"_Timeline_GroupingMode_GroupByBirthPlace_SortByDate" = "Agrupar por lugar de nacimiento, Ordenar por fecha";
+
+/* (No Comment) */
+"_Timeline_GroupingMode_GroupByDeathCountry_SortByDate" = "Agrupar por país de fallecimiento, Ordenar por fecha";
+
+/* (No Comment) */
+"_Timeline_GroupingMode_GroupByDeathPlace_SortByDate" = "Agrupar por lugar de fallecimiento, Ordenar por fecha";
+
+/* (No Comment) */
+"_Timeline_GroupingMode_GroupByGender_SortByDate" = "Agrupar por género, Ordenar por fecha";
+
+/* (No Comment) */
+"_Timeline_GroupingMode_GroupByLastName_SortByDate" = "Agrupar por apellido, Ordenar por fecha";
+
+/* Timeline */
+"_Timeline_GroupingMode_SortByDate" = "Ordenar por fecha";
+
+/* (No Comment) */
+"_TimelineChartBuilder_CollapseAllGroupsForBestFit" = "Cerrar grupos para mejor uso del espacio";
+
+/* (No Comment) */
+"_TimelineChartBuilder_CollapseAllGroupsForBestFitExplanation" = "Si lo especifica, los grupos se colocarán de tal forma que ocupen el espacio de la mejor manera posible, pero no se garantiza el orden alfabético.";
+
+/* (No Comment) */
+"_TimelineChartBuilder_GroupByBirthCountry_NoPlace" = "País de nacimiento desconocido";
+
+/* (No Comment) */
+"_TimelineChartBuilder_GroupByBirthPlace_NoPlace" = "Lugar de nacimiento desconocido";
+
+/* (No Comment) */
+"_TimelineChartBuilder_GroupByDeathCountry_NoPlace" = "País de fallecimiento desconocido";
+
+/* (No Comment) */
+"_TimelineChartBuilder_GroupByDeathPlace_NoPlace" = "Lugar de fallecimiento desconocido";
+
+/* (No Comment) */
+"_TimelineChartBuilder_GroupByLastName_NoLastName" = "Apellido desconocido";
+
+/* (No Comment) */
+"_TimelineChartBuilder_HistoryPersons_Key" = "Historia: personas famosas";
+
+/* (No Comment) */
+"_TitleGeneratorChartCompositorObjectConfiguration_TitleImageMode_FamilyCrest" = "Escudo familiar";
+
+/* (No Comment) */
+"_TitleGeneratorChartCompositorObjectConfiguration_TitleImageMode_None" = "Ninguno";
+
+/* (No Comment) */
+"_TitleGeneratorChartCompositorObjectConfiguration_TitleImageMode_SelectedEntryImage" = "Entrada de imagen seleccionada";
+
+/* TreeChartBuilder */
+"_TreeChartBuilder_MainTreePrefix" = "Árbol principal";
+
+/* (No Comment) */
+"_TreeChartBuilder_SubTreeAlignment" = "Alineamento de árboles divididos";
+
+/* (No Comment) */
+"_TreeChartBuilder_SubTreeAlignment_ByGeneration" = "Por generación";
+
+/* (No Comment) */
+"_TreeChartBuilder_SubTreeAlignment_ShortestDistanceToOrigin" = "Distancia más corta al origen";
+
+/* (No Comment) */
+"_TreeChartBuilder_SubTreeAlignmentExplanation" = "En situaciones complejas, un árbol deberá ser mostrado como un árbol aparte del árbol principal. Indique aquí cómo deben presentarse estos árboles divididos.";
+
+/* (No Comment) */
+"_TreeChartBuilder_SubTreePrefix" = "Árbol dividido";
+

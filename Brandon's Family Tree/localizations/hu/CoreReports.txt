@@ -1,0 +1,1428 @@
+﻿/* (No Comment) */
+"_ReportCSVWriterConfiguration_CSVGroup" = "Csoport";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_CSVSection" = "Rész";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_ExportHeaders" = "CSV-fejlécek exportálása";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_ExportHeadersExplanation" = "Ha be akarja vinni a fejlécinformációkat a CSV-fájlba, válassza ki ezt a lehetőséget. A fejlécinformációk megkönnyítik az információk pontos meghatározását a kapott CSV-fájlban.";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_NewLineCharacter" = "Új vonal-jelkód";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_NewLineCharacter_CR" = "CR karakter (Classic Mac OS)";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_NewLineCharacter_CRLF" = "CRLF karakter (Windows)";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_NewLineCharacter_LF" = "LF karakter (modern macOS, Unix)";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_NewLineCharacterExplanation" = "Válassza ki, hogy melyik jelkódot kell használni az új sor jelzésére. A legtöbb modern alkalmazás bármilyen opcióval rendelkezik - csak néhány régebbi rendszer igényelhet egy speciális beállítást.";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_Separator_Comma" = "Vessző (,)";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_Separator_Semicolon" = "Pontosvessző (;)";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_SeparatorPopupButtonTitle" = "CSV elválasztó jel";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_SeparatorPopupButtonTitleExplanation" = "Adja meg a CSV-fájl elemeihez használt elválasztó jelet. A legtöbb alkalmazás kompatibilis a vesszővel, mint elválasztójellel.";
+
+/* CSVWriter */
+"_ReportCSVWriterConfiguration_Title" = "CSV exportálás";
+
+/* (No Comment) */
+"_ReportError_NoDataFoundToExportAsCSV" = "Ebben a beszámolóban nem található adat, ami CSV-fájlként exportálható.";
+
+/* (No Comment) */
+"_ReportError_NoDistinctivePersonsFoundError" = "Ebben a családfában nincsenek megkülönböztethető személyek.";
+
+/* (No Comment) */
+"_ReportError_NoFamiliesFoundMatchingTheSelectedCriteria" = "Nem találtak olyan családokat, amelyek megfelelnek a kiválasztott kritériumoknak.";
+
+/* (No Comment) */
+"_ReportError_NoFamilyFoundInFamilyTreeError" = "Ebben a családfában eddig még nem írtak be személyeket. Kérjük, használja a Szerkesztés részt a személyek és családok beírására a beszámoló kijelzéséhez.";
+
+/* Errors */
+"_ReportError_NoPersonFoundInFamilyTreeError" = "Ebben a családfában eddig még nem írtak be személyeket. Kérjük, használja a Szerkesztés részt a személyek és családok beírására a beszámoló kijelzéséhez.";
+
+/* (No Comment) */
+"_ReportError_NoPersonsFoundMatchingTheSelectedCriteria" = "Nem találtak olyan személyeket, akik megfelelnek a kiválasztott kritériumoknak.";
+
+/* (No Comment) */
+"_ReportError_NoPlaceFoundInFamilyTreeError" = "Ebben a családfában eddig még nem írtak be helyeket. Kérjük, használja a Szerkesztés részt a személy- és családesemények helyeinek beírására a beszámoló kijelzéséhez.";
+
+/* (No Comment) */
+"_ReportError_NoPlacesFoundMatchingTheSelectedCriteria" = "Nem találtak olyan helyeket, amelyek megfelelnek a kiválasztott kritériumoknak.";
+
+/* (No Comment) */
+"_ReportError_NoPlacesWithCoordinatesFoundForPersonError" = "Nincsenek helyek a kiválasztott beírás koordinátáival. Fűzze hozzá a földrajzi koordinátákat a szerkesztés részben lévő helyekhez, hogy kijelezze ezt a beszámolót.";
+
+/* (No Comment) */
+"_ReportError_NoPlausibilityAnalyzerResultsFound" = "Nem tlált plauzibilitásfigyelmeztetéseket.";
+
+/* (No Comment) */
+"_ReportError_NoSelectedFamilySetError" = "Egyetlen családot sem választottak ki ehhez a beszámolóhoz.";
+
+/* (No Comment) */
+"_ReportError_NoSelectedPersonSetError" = "Egyetlen személyt sem választottak ki ehhez a beszámolóhoz.";
+
+/* (No Comment) */
+"_ReportError_NoSelectedStorySetError" = "Nem választott ki történetet ebben a beszámolóban";
+
+/* (No Comment) */
+"_ReportError_NoSourceFoundInFamilyTreeError" = "Ebben a családfában eddig még nem írtak be forrásokat. Kérjük, használja a Szerkesztés részt a források beírására a beszámoló kijelzéséhez.";
+
+/* (No Comment) */
+"_ReportError_NoSourcesFoundMatchingTheSelectedCriteria" = "Nem találtak olyan forrásokat, amelyek megfelelnek a kiválasztott kritériumoknak.";
+
+/* (No Comment) */
+"_ReportError_NoStoryFoundInFamilyTreeError" = "Ebbe a családfába még nem írtak be történeteket. Használja a Szerkesztés részt a történetek megadásához a beszámoló kijelzésére.";
+
+/* (No Comment) */
+"_ReportError_NotEnoughDataPresentError" = "Nincs elég adat ebben a családfában, hogy megmutassa ezt a beszámolót.";
+
+/* (No Comment) */
+"_ReportError_NoToDoFoundInFamilyTreeError" = "Ebben a családfában eddig még nem írtak be feladatokat. Használja a Szerkesztés részt a feladatok beírásához ezen beszámoló kijelzéséhez.";
+
+/* (No Comment) */
+"_ReportError_NoToDosFoundMatchingTheSelectedCriteria" = "Nem találtak olyan feladatokat, amelyek megfelelnek a kiválasztott kritériumoknak.";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_ChapterColor" = "Fejezet szövegszín";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_ChapterColorMode" = "Fejezet szövegszín mód";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Opacity" = "Átláthatóság";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_PageNumberColor" = "Oldalszám szövegszín";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_PageNumberColorMode" = "Oldalszám szövegszín mód";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_PageSetupButton" = "Papírformátum...";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Scaling" = "Méretezés";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_SectionColor" = "Rész szövegszíne";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_SectionColorMode" = "Rész szövegszín mód";
+
+/* Page Background Renderer */
+"_ReportPageBackgroundRendererConfiguration_Style" = "Háttérstílus";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_BottomBar" = "Alsó sáv";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_BottomGradient" = "Alsó színátmenet";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_BottomLine" = "Alsó vonal";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_BottomPageNumberRect" = "Oldalszám ta églalap alsó részén";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_InlineOuterBar" = "Beágyazott külső sáv";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_InlineTopBar" = "Beágyazott felső sáv";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_InnerBar" = "Belső sáv";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_InnerBlocksBar" = "Belső sávtömbök";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_None" = "Nincs";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_OnlyBackground" = "Csak háttérszín";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_OuterAndInnerBar" = "Külső és belső sáv";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_OuterAndInnerBlocksBar" = "Külső és belső sávtömbök";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_OuterBar" = "Külső sáv";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_OuterBlocksBar" = "Külső sávtömbök";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_Rectangle" = "Téglalap";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_RoundInlineTopBar" = "Kerek beágyazott felső sáv";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_RoundRectangle" = "Kerek téglalap";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_ThickRectangle" = "Vastag téglalap";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_ThickRoundRectangle" = "Vastag, kerek téglalap";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_TopBar" = "Felső sáv";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_TopBottomBar" = "Felső és asló sáv";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_TopBottomGradient" = "Felső és alsó színátmenet";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_TopBottomLine" = "Felső és asló vonal";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_TopGradient" = "Felső színátmenet";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_TopLine" = "Felső vonal";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_XAtTop" = "X-jel felűl";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_TextColorMode_ContrastToBackground" = "Kontraszt a háttérrel";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_TextColorMode_Custom" = "Saját";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_Fill" = "Oldal kitöltése";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitBottomCenter" = "Alsó középső";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitBottomLeft" = "Alsó bal";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitBottomRight" = "Alsó jobb";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitCenterCenter" = "Teljesen központosítva";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitCenterLeft" = "Középső bal";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitCenterRight" = "Középső jobb";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitFill" = "Töltse ki az oldalakat az arányokat figyelembe véve";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitTopCenter" = "Felső középső";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitTopLeft" = "Felső bal";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitTopRight" = "Felső jobb";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_WatermarkFloatsAboveContentTitle" = "Helyezzen vízjelet a tartalom fölé";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_WatermarkImage" = "Vízjel";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_WatermarkInsettedByPageMargins" = "Helyezzen vízjelet az oldalmargókba";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_WatermarkPlacement" = "Elhelyezés";
+
+/* (No Comment) */
+"_Reports_AhnentafelReport_GenerationNumber" = "%d. generáció";
+
+/* (No Comment) */
+"_Reports_AhnentafelReport_Generations" = "Generációk";
+
+/* (No Comment) */
+"_Reports_AhnentafelReport_List_Header_Kekule" = "Kekulé";
+
+/* (No Comment) */
+"_Reports_AhnentafelReport_List_Header_Narrative" = "Történetbeszámoló";
+
+/* (No Comment) */
+"_Reports_AhnentafelReport_List_Header_Person" = "Személy";
+
+/* AhnentafelReport */
+"_Reports_AhnentafelReport_Title" = "Őstáblabeszámoló";
+
+/* (No Comment) */
+"_Reports_BackgroundColor" = "Háttérszín";
+
+/* (No Comment) */
+"_Reports_BarsColor" = "Sávok színe";
+
+/* (No Comment) */
+"_Reports_BaseColorsGroupName" = "Bázisszín";
+
+/* (No Comment) */
+"_Reports_BaseFontsGroupName" = "Bázis-betűtípus";
+
+/* (No Comment) */
+"_Reports_BaseStyler_Abbreviation_For_Female" = "(n)";
+
+/* (No Comment) */
+"_Reports_BaseStyler_Abbreviation_For_Intersex" = "(i)";
+
+/* Gender Abbreviations */
+"_Reports_BaseStyler_Abbreviation_For_Male" = "(f)";
+
+/* (No Comment) */
+"_Reports_BaseStyler_Abbreviation_For_Unknown" = "(-)";
+
+/* (No Comment) */
+"_Reports_CapitalizeSectionTitles" = "Nagybetűvel írja a részcímeket";
+
+/* (No Comment) */
+"_Reports_ChapterFont" = "Fejezet betűtípusa";
+
+/* (No Comment) */
+"_Reports_Citations_CitationsMode" = "Idézetmód";
+
+/* (No Comment) */
+"_Reports_Citations_DisplayPictures" = "Képek";
+
+/* (No Comment) */
+"_Reports_Citations_DisplayReferences" = "Hivatkozott beírások";
+
+/* (No Comment) */
+"_Reports_Citations_DisplaySourceCitationNotes" = "Forrásidézetjegyzetek";
+
+/* (No Comment) */
+"_Reports_Citations_DisplaySourceNotes" = "Forrásjegyzetek";
+
+/* (No Comment) */
+"_Reports_Citations_DisplaySourceRepository" = "Forrásarhívum";
+
+/* (No Comment) */
+"_Reports_Citations_DisplayText" = "Szöveg";
+
+/* (No Comment) */
+"_Reports_Citations_SourcePicturesSize" = "Képek mérete";
+
+/* (No Comment) */
+"_Reports_Citations_SourcePicturesSize_FullAvailableWidth" = "Nagy";
+
+/* (No Comment) */
+"_Reports_Citations_SourcePicturesSize_LargeThumbnail" = "Közepes";
+
+/* (No Comment) */
+"_Reports_Citations_SourcePicturesSize_Thumbnail" = "Kicsi";
+
+/* (No Comment) */
+"_Reports_CitationsMajorGroupName" = "Idézetek";
+
+/* (No Comment) */
+"_Reports_CleanBookStyle" = "Egyszerű könyv";
+
+/* (No Comment) */
+"_Reports_CleanTablesStyle" = "Tiszta táblázat";
+
+/* (No Comment) */
+"_Reports_CleanTextStyle" = "Tiszta szöveg";
+
+/* (No Comment) */
+"_Reports_ColorsMajorGroupName" = "Színek";
+
+/* (No Comment) */
+"_Reports_ColumnsMajorGroupName" = "Oszlopok";
+
+/* Sources */
+"_Reports_Common_Citations_Section_Title" = "Idézetek";
+
+/* Common */
+"_Reports_CustomReportTitle" = "Saját beszámoló-cím";
+
+/* (No Comment) */
+"_Reports_DateFormatMinorGroupName" = "Dátumformátum";
+
+/* (No Comment) */
+"_Reports_DateFormatStyle" = "Dátumformátum stílusa";
+
+/* (No Comment) */
+"_Reports_DateFormatStyleExplanation" = "Adja meg itt, hogy melyik dátumformátum típust akarja használni a dátum átformázásához";
+
+/* (No Comment) */
+"_Reports_DateOptionsGroupName" = "Dátumok";
+
+/* (No Comment) */
+"_Reports_DefaultHighlightColor" = "Alapértelmezett kiemelési szín";
+
+/* (No Comment) */
+"_Reports_DefaultHighlightColor_Explanation" = "Adja meg az alapértelmezett kiemelési színt. A fejezetkonfigurációban fejezetenként külön kiemelő színeket állíthat be.";
+
+/* (No Comment) */
+"_Reports_DescendancyReport_ChildNumber_Header" = "Gyermek";
+
+/* DescendancyReport */
+"_Reports_DescendancyReport_DescendantsSectionTitleWithGenerationNumber" = "%d. generáció";
+
+/* (No Comment) */
+"_Reports_DescendancyReport_Marriage_Header" = "Házasság";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_AddedCell_PlaceholderText" = "Szöveg";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeBackgroundColor" = "Cellaháttér";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeBottomBorderColor" = "Cella alsó színe";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeBottomBorderWidth" = "Cella alsó szegélye";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeLeftBorderColor" = "Cella bal színe";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeLeftBorderWidth" = "Cella bal szegélye";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeRightBorderColor" = "Cella jobb színe";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeRightBorderWidth" = "Cella jobb szegélye";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeTopBorderColor" = "Cella felső színe";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeTopBorderWidth" = "Cella felső szegélye";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_ContentFrameSize_Height" = "Nagyság";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_ContentFrameSize_Width" = "Szélesség";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_LayoutCellNode_EndPosition" = "Vég-pozíció";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_LayoutCellNode_StartPosition" = "Kezdő pozíció";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_LayoutNode_DrawGridLines" = "Elrendezési rács megmutatása";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_BaseNode" = "Csomó";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_Cell" = "Cella";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_Flow" = "Csoport";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_Image" = "Kép";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_Layout" = "Lista";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_PDF" = "PDF";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_Section" = "Rész";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_Table" = "Táblázat";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_Text" = "Szöveg";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Background" = "Háttér";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Border" = "Szegély";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_CellOptions" = "Cella-opciók";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Fonts" = "Betűtípusok";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Layout" = "Elrendezés";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Margin" = "Margó";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Options" = "Opciók";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Padding" = "Kitöltés";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Size" = "Méret";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeBackgroundColor" = "Háttérszín";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeBorderColor" = "Szegélyszín";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeBorderRadius" = "Él rádiusz";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeBottomBorderWidth" = "Alsó";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeBottomMarginWidth" = "Alsó";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeBottomPaddingWidth" = "Alsó";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeHorizontalAlign" = "Vízszintes beigazítás";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeHorizontalAlign_Bottom" = "Jobbra";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeHorizontalAlign_Middle" = "Középső";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeHorizontalAlign_Top" = "Balra";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeLeftBorderWidth" = "Balra";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeLeftMarginWidth" = "Balra";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeLeftPaddingWidth" = "Balra";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeRightBorderWidth" = "Jobbra";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeRightMarginWidth" = "Jobbra";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeRightPaddingWidth" = "Jobbra";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeTopBorderWidth" = "Felső";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeTopMarginWidth" = "Felső";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeTopPaddingWidth" = "Felső";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeVerticalAlign" = "Függőleges beigazítás";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeVerticalAlign_Bottom" = "Alsó";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeVerticalAlign_Middle" = "Középső";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeVerticalAlign_Top" = "Felső";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageFlowAreaIdentifier_AnyColumn" = "Bármely oszlop";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageFlowAreaIdentifier_LeftColumn" = "Bal oszlop";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageFlowAreaIdentifier_OneColumn" = "Fő oszlop";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageFlowAreaIdentifier_RightColumn" = "Jobb oszlop";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageFlowAreaIdentifier_Title" = "Oszlop";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageOrder_Any" = "Bármely sorrend";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageOrder_EvenPage" = "Páros oldal";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageOrder_OddPage" = "Páratlan oldal";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageOrder_Title" = "Oldalsorrend";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageType_Any" = "Bármely oldal";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageType_EmptyPage" = "Üres oldal";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageType_OneColumn" = "Egy oszlop oldal";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageType_SmallLeftColumnBigRightColumn" = "Oldal bal oldalon kis, jobb oldalon nagy oszloppal";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageType_Title" = "Oldalszámozás";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageType_TwoColumn" = "Két oszlopos oldal";
+
+/* Edit Configurations */
+"_Reports_Editor_Configurations_PleaseSelectObjectsToEditPlaceholder" = "A színek, szöveg és méretek szerkesztéséhez válassza ki a bal oldali beszámolóban lévő szöveget vagy egyéb elemeket";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_SelectedObjectsOfDifferentTypePlaceholder" = "Több különböző típusú objektumot választott ki";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_Table_DrawGridLines" = "Táblázatrács megmutatása";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_Table_RepeatHeadersOnEachPage" = "A fejlécek ismétlése";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_TableAlternateRowBackgroundColor" = "Alternatív sorszín";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_TableRowBackgroundColor" = "Sorszín";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_TextColor" = "Szövegszín";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_TextFont" = "Szöveg betűtípusa";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WantsNewLayoutPageArea" = "Kezdjen új oldalon";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WantsNewLine" = "Kezdjen sortörés után";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WantsNewPage" = "Kezdés új oldalon";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WantsSameLine" = "Kerülje a vonalszakadást";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WantsToStickToPreviousObject" = "Ragassza az előző objektumhoz";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_Full" = "Teljes szélesség";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_Full_ForScaleableNodes" = "Teljes szélesség";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_Needed" = "Szélesség megfelelő";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_Needed_ForScaleableNodes" = "Rögzített szélesség";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_Predefined" = "Szélesség faktor";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_Predefined_ForScaleableNodes" = "Szélességfaktor és rögzített megasság";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_PredefinedWidthFactor" = "Szélesség faktor";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_Title" = "Szélesség mód";
+
+/* (No Comment) */
+"_Reports_EmphasizedFont" = "Kiemelt betűtípus";
+
+/* (No Comment) */
+"_Reports_EmphasizedFontColor" = "Kiemelt szövegszín";
+
+/* (No Comment) */
+"_Reports_EnabledSourceTemplateKeyIdentifiers" = "Forrásmezők kijelzése";
+
+/* (No Comment) */
+"_Reports_EventsMajorGroupName" = "Események";
+
+/* FactsListReport */
+"_Reports_FactsListReport_TotalFactsCountKey" = "Összes tény";
+
+/* (No Comment) */
+"_Reports_FontsMajorGroupName" = "Betűtípusok";
+
+/* Major Groups */
+"_Reports_GeneralMajorGroupName" = "Általános";
+
+/* (No Comment) */
+"_Reports_GridTablesStyle" = "Egyszerű táblázat";
+
+/* Fonts */
+"_Reports_HeaderFont" = "Cím betűtípusa";
+
+/* Colors */
+"_Reports_HeaderFontColor" = "Fejléc szövegszíne";
+
+/* Private Information */
+"_Reports_HidePrivateInformation" = "Privatként kijelölt információk elrejtése";
+
+/* (No Comment) */
+"_Reports_HidePrivateInformationExplanation" = "Ezzel az opcióval elrejt a beszámolóban minden információt, amit a szerkesztési módban privátként jelölt ki";
+
+/* (No Comment) */
+"_Reports_InformationColumnsMinorGroupName" = "Információ oszlopok";
+
+/* (No Comment) */
+"_Reports_InformationGroupName" = "Információ";
+
+/* (No Comment) */
+"_Reports_KeyFont" = "Kulcs betűtípus";
+
+/* (No Comment) */
+"_Reports_KeyFontColor" = "Kulcs szövegszín";
+
+/* (No Comment) */
+"_Reports_LeftTitleStyle" = "Bal cím";
+
+/* (No Comment) */
+"_Reports_List_DrawGridLines" = "Táblázatrács megmutatása";
+
+/* (No Comment) */
+"_Reports_List_HeaderBirthDate" = "Születési dátum";
+
+/* (No Comment) */
+"_Reports_List_HeaderBirthPlace" = "Születési hely";
+
+/* (No Comment) */
+"_Reports_List_HeaderDeathDate" = "Elhalálozási időpont";
+
+/* (No Comment) */
+"_Reports_List_HeaderDeathPlace" = "Elhalálozási hely";
+
+/* (No Comment) */
+"_Reports_List_RepeatHeaderOnEachPage" = "Ismételje meg a táblázat fejlécét az új oldalon";
+
+/* (No Comment) */
+"_Reports_List_RepeatHeaderOnEachPageExplanation" = "Ha ez aktív, akkor a táblázat fejléces sora megismétlődik, ha a táblázat több oldalra terjed ki";
+
+/* (No Comment) */
+"_Reports_ListCellFont" = "Cella betűtípusainak listája";
+
+/* (No Comment) */
+"_Reports_ListHeaderFont" = "Fejléc betűtípusainak listája";
+
+/* (No Comment) */
+"_Reports_ListHeaderFontColor" = "Fejléc szövegszíne";
+
+/* (No Comment) */
+"_Reports_ListKeyFont" = "Kulcs betűtípusainak listája";
+
+/* (No Comment) */
+"_Reports_ListMode" = "Lista mód";
+
+/* (No Comment) */
+"_Reports_ListMode_BookSetting" = "Használja a önyvbeállításokat";
+
+/* (No Comment) */
+"_Reports_ListMode_DefaultFromStyler" = "Standard sablonból";
+
+/* (No Comment) */
+"_Reports_ListMode_PrefersList" = "Kijelzés listaként";
+
+/* (No Comment) */
+"_Reports_ListMode_PrefersTable" = "Kijelzés táblázatként";
+
+/* (No Comment) */
+"_Reports_ListsColorGroupName" = "Színlista";
+
+/* Lists */
+"_Reports_ListSectionFont" = "Rész betűtípusainak listája";
+
+/* (No Comment) */
+"_Reports_ListSectionFontColor" = "Rész szövegszíne";
+
+/* (No Comment) */
+"_Reports_ListsFontGroupName" = "Listák";
+
+/* (No Comment) */
+"_Reports_ListsOptionsGroupName" = "Listák";
+
+/* Localization */
+"_Reports_Localization" = "Lokalizáció";
+
+/* (No Comment) */
+"_Reports_LocalizationExplanation" = "Adja meg ehhez a diagramhoz használni kívánt lokalizációt. Ennek a beszámolónak minden információját a megadott nyelven lokalizálja.";
+
+/* (No Comment) */
+"_Reports_LocalizationMajorGroupName" = "Lokalizáció";
+
+/* (No Comment) */
+"_Reports_MainFont" = "Fő betűtípus";
+
+/* (No Comment) */
+"_Reports_MainFontColor" = "Fő szövegszín";
+
+/* (No Comment) */
+"_Reports_MarriageList_OnlyShowFamiliesWithMarriageEvent" = "Csak a házassági eseménnyel rendelkező partnereket jelezze ki";
+
+/* (No Comment) */
+"_Reports_MarriageList_ShowBirthDateForPersons" = "Személyek születési dátumának megmutatása";
+
+/* (No Comment) */
+"_Reports_MarriageList_ShowMarriageDateAsAdditionalInformation" = "Házasságkötési dátum megmutatása bekezdéssel";
+
+/* (No Comment) */
+"_Reports_MarriageList_ShowMarriagePlaceAsAdditionalInformation" = "Házasságkötési dátum megmutatása bekezdéssel";
+
+/* MarriageList */
+"_Reports_MarriageList_Sort_By_FamilyName" = "Családnév szerint";
+
+/* (No Comment) */
+"_Reports_MarriageList_Sort_By_ManName" = "Férfi neve szerint";
+
+/* (No Comment) */
+"_Reports_MarriageList_Sort_By_MarriageDate" = "Házasságkötési dátum szerint";
+
+/* (No Comment) */
+"_Reports_MarriageList_Sort_By_MarriageLocation" = "Házasságkötési hely szerint";
+
+/* (No Comment) */
+"_Reports_MarriageList_Sort_By_WomanName" = "Nő neve szerint";
+
+/* MediaGalleryReport */
+"_Reports_MediaGalleryReport_GroupingMode" = "Médiumok csoportosítása";
+
+/* (No Comment) */
+"_Reports_MediaGalleryReport_GroupingMode_ByDecade" = "Csoportosítás évtizedek szerint";
+
+/* (No Comment) */
+"_Reports_MediaGalleryReport_GroupingMode_ByLabel" = "Csoportosítás címke szerint";
+
+/* (No Comment) */
+"_Reports_MediaGalleryReport_GroupingMode_BySelectedObject" = "Csoportosítás hozzárendelt beírás szerint";
+
+/* (No Comment) */
+"_Reports_MediaGalleryReport_GroupingMode_None" = "Nincs csoportosítás";
+
+/* (No Comment) */
+"_Reports_MediaGalleryReport_SortingMode" = "Válogatás";
+
+/* (No Comment) */
+"_Reports_MediaGalleryReport_SortingMode_ByDate" = "Dátum szerint";
+
+/* (No Comment) */
+"_Reports_MediaGalleryReport_SortingMode_ByTitle" = "Titulus szerint";
+
+/* (No Comment) */
+"_Reports_MediaSection_FamilyMainSubsectionKey" = "A családhoz csatolt médiák";
+
+/* (No Comment) */
+"_Reports_MediaSection_MediaFromFamiliesSubsectionKey" = "A családokhoz csatolt médiák";
+
+/* (No Comment) */
+"_Reports_MediaSection_MediaFromFamilyEventsSubsectionKey" = "A családeseményekhez csatolt médiák";
+
+/* (No Comment) */
+"_Reports_MediaSection_MediaFromManSubsectionKey" = "1-es partnerhez csatolt médiák";
+
+/* (No Comment) */
+"_Reports_MediaSection_MediaFromPersonEventsSubsectionKey" = "Személyeseményekhez csatolt médiák";
+
+/* (No Comment) */
+"_Reports_MediaSection_MediaFromWomanSubsectionKey" = "2-es partnerhez csatolt médiák";
+
+/* (No Comment) */
+"_Reports_MediaSection_PersonMainSubsectionKey" = "Személyhez csatolt médiák";
+
+/* (No Comment) */
+"_Reports_MediaSize_FullSize" = "Teljes méret";
+
+/* (No Comment) */
+"_Reports_MediaSize_LargeThumbnail" = "Nagy miniatűr";
+
+/* (No Comment) */
+"_Reports_MediaSize_Thumbnail" = "Miniatűr nézet";
+
+/* (No Comment) */
+"_Reports_MediaSize_Title" = "Médiumméret";
+
+/* (No Comment) */
+"_Reports_MirrorPageMarginsAndBackgroundOnOddPages" = "Tükrözött margók és háttér a páratlan oldalakon";
+
+/* (No Comment) */
+"_Reports_MirrorPageMarginsAndBackgroundOnOddPagesExplanation" = "Ha ezt aktíválja, akkor a bal és a jobb oldali margók páratlan oldalakon tükröződnek, és a háttér ennek megfelelően módosul. Ez hasznos, ha beszámolókat készít a könyvekhez.";
+
+/* (No Comment) */
+"_Reports_ModernBarsLightTextStyle" = "Világos modern sávok";
+
+/* (No Comment) */
+"_Reports_ModernBarsTextStyle" = "Modern sávok";
+
+/* (No Comment) */
+"_Reports_OtherFontColorsGroupName" = "Mások";
+
+/* (No Comment) */
+"_Reports_OtherFontsGroupName" = "Mások";
+
+/* (No Comment) */
+"_Reports_PageBottomMargin" = "Alsó margó";
+
+/* (No Comment) */
+"_Reports_PageFontsMinorGroupName" = "Betűtípusok";
+
+/* Page Margins */
+"_Reports_PageLeftMargin" = "Bal margó";
+
+/* (No Comment) */
+"_Reports_PageMarginsMajorGroupName" = "Oldalmargók";
+
+/* (No Comment) */
+"_Reports_PageMarginsMinorGroupName" = "Oldalmargók";
+
+/* (No Comment) */
+"_Reports_PageNumberFont" = "Oldalszám betűtípusa";
+
+/* (No Comment) */
+"_Reports_PageRightMargin" = "Jobb margó";
+
+/* (No Comment) */
+"_Reports_PageStyleMajorGroupName" = "Oldalstílus";
+
+/* (No Comment) */
+"_Reports_PageTextColorsMinorGroupName" = "Szövegszínek";
+
+/* (No Comment) */
+"_Reports_PageTopMargin" = "Felső margó";
+
+/* (No Comment) */
+"_Reports_PageWatermarkMajorGroupName" = "Vízjel";
+
+/* (No Comment) */
+"_Reports_Person_NotSet" = "Nem határozott meg személyt";
+
+/* (No Comment) */
+"_Reports_PersonItem_PictureSize" = "Személyképek";
+
+/* (No Comment) */
+"_Reports_PersonItem_PictureSize_Large" = "Nagy személyképek megmutatása";
+
+/* (No Comment) */
+"_Reports_PersonItem_PictureSize_Medium" = "Közepes személyképek megmutatása";
+
+/* (No Comment) */
+"_Reports_PersonItem_PictureSize_None" = "Ne mutasson meg személyképeket";
+
+/* (No Comment) */
+"_Reports_PersonItem_PictureSize_Small" = "Kicsi személyképek megmutatása";
+
+/* Pictures */
+"_Reports_PersonPicturesSize" = "Személyképek";
+
+/* (No Comment) */
+"_Reports_PersonPicturesSize_Large" = "Nagy";
+
+/* (No Comment) */
+"_Reports_PersonPicturesSize_Medium" = "Közepes";
+
+/* (No Comment) */
+"_Reports_PersonPicturesSize_None" = "Nincs";
+
+/* (No Comment) */
+"_Reports_PersonPicturesSize_Small" = "Kicsi";
+
+/* (No Comment) */
+"_Reports_PersonReport_Ancestors_Section_Title" = "Ősök";
+
+/* (No Comment) */
+"_Reports_PersonReport_AncestorsDepth" = "Ősök generációi";
+
+/* (No Comment) */
+"_Reports_PersonReport_AncestorsOrDescendants_Generation_Header" = "Generáció";
+
+/* (No Comment) */
+"_Reports_PersonReport_Associates_PersonOrFamily_Header" = "Személy vagy család";
+
+/* (No Comment) */
+"_Reports_PersonReport_BornOnKey" = "Született -án";
+
+/* (No Comment) */
+"_Reports_PersonReport_BornOrDiedInKey" = "-ban";
+
+/* (No Comment) */
+"_Reports_PersonReport_BrothersAndSisters" = "Fiú és lánytestvérek";
+
+/* (No Comment) */
+"_Reports_PersonReport_Descendants_Section_Title" = "Utódok";
+
+/* (No Comment) */
+"_Reports_PersonReport_DescendantsDepth" = "Utódgenerációk";
+
+/* (No Comment) */
+"_Reports_PersonReport_DiedOnKey" = "Elhalálozott -án";
+
+/* (No Comment) */
+"_Reports_PersonReport_Event_Date" = "Dátum";
+
+/* (No Comment) */
+"_Reports_PersonReport_Event_Place" = "Hely";
+
+/* (No Comment) */
+"_Reports_PersonReport_Event_Type" = "Típus";
+
+/* (No Comment) */
+"_Reports_PersonReport_Events_Section_Title" = "Események";
+
+/* (No Comment) */
+"_Reports_PersonReport_Facts_FactDescription_Header" = "Leírás";
+
+/* (No Comment) */
+"_Reports_PersonReport_Facts_FactType_Header" = "Típus";
+
+/* (No Comment) */
+"_Reports_PersonReport_Facts_Section_Title" = "Tények";
+
+/* (No Comment) */
+"_Reports_PersonReport_HourglassChart_Section_Title" = "Homokóradiagram";
+
+/* (No Comment) */
+"_Reports_PersonReport_IDs_AncestralFileNumberIDKey" = "Ős-fájlszám";
+
+/* (No Comment) */
+"_Reports_PersonReport_IDs_FamilySearchIDKey" = "FamilySearch ID";
+
+/* (No Comment) */
+"_Reports_PersonReport_IDs_GedcomIDKey" = "GEDCOM ID";
+
+/* (No Comment) */
+"_Reports_PersonReport_IDs_ReferenceNumberKey" = "Hivatkozási szám";
+
+/* (No Comment) */
+"_Reports_PersonReport_Kinship_Section_Title" = "Rokonság";
+
+/* (No Comment) */
+"_Reports_PersonReport_KinshipDepth" = "Rokonsági generációk";
+
+/* (No Comment) */
+"_Reports_PersonReport_NameDetails_Section_Title" = "Név részletek";
+
+/* (No Comment) */
+"_Reports_PersonReport_NarrativeReport_Section_Title" = "Történetbeszámoló";
+
+/* (No Comment) */
+"_Reports_PersonReport_OccupationKey" = "Foglalkozás";
+
+/* (No Comment) */
+"_Reports_PersonReport_Parents_Section_Title" = "Szülők";
+
+/* (No Comment) */
+"_Reports_PersonReport_Partners_Section_Title" = "Partnerek";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowAncestors" = "Ősök";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowDescendants" = "Utódok";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowEvents" = "Események";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowHourglassChart" = "Homokóradiagram";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowKinship" = "Rokonság";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowNameDetails" = "Név részletek";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowParents" = "Szülők";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowPartners" = "Partnerek";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowSources" = "Források";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowWorldHistory" = "Világtörténelem";
+
+/* PersonReport */
+"_Reports_PersonReport_Title" = "Személybeszámoló";
+
+/* (No Comment) */
+"_Reports_PersonReport_WorldHistory_Category_Header" = "Kategória";
+
+/* (No Comment) */
+"_Reports_PersonReport_WorldHistory_Section_Title" = "Világtörténelem";
+
+/* (No Comment) */
+"_Reports_PicturesOptionsGroupName" = "Képek";
+
+/* (No Comment) */
+"_Reports_PlaceFormat_Normal" = "Normális helynév";
+
+/* (No Comment) */
+"_Reports_PlaceFormat_Short" = "Rövid helynév";
+
+/* (No Comment) */
+"_Reports_PlaceFormat_VeryShort" = "Nagyon rövid helynév";
+
+/* (No Comment) */
+"_Reports_PlaceFormatMinorGroupName" = "Helyformátum";
+
+/* Place Format */
+"_Reports_PlaceFormatStyle" = "Helyformátum";
+
+/* (No Comment) */
+"_Reports_PlaceFormatStyleExplanation" = "Adja meg itt, hogy a teljes helynevet vagy csak egy rövidítést jelezzen ki.";
+
+/* (No Comment) */
+"_Reports_PlainTextStyle" = "Egyszerű szöveg";
+
+/* (No Comment) */
+"_Reports_PrimaryFont" = "Fő betűtípus";
+
+/* (No Comment) */
+"_Reports_ReformatDatesToSelectedLocale" = "Dátum átformázása";
+
+/* (No Comment) */
+"_Reports_ReformatDatesToSelectedLocaleExplanation" = "Ha megengedi, az összes dátum átformázódik, hogy megfeleljen a megadott lokalizációnak";
+
+/* RegisterReport */
+"_Reports_RegisterReport_DescendantsSectionTitleWithGenerationNumber" = "%d. generáció";
+
+/* (No Comment) */
+"_Reports_Report_Associates_Section_Title" = "Befolyásos személyek és családok";
+
+/* (No Comment) */
+"_Reports_Report_Media_Section_Title" = "Médium";
+
+/* (No Comment) */
+"_Reports_Report_Notes_Section_Family_Note_Key" = "Családjegyzetek";
+
+/* (No Comment) */
+"_Reports_Report_Notes_Section_Note_Key" = "Jegyzet";
+
+/* (No Comment) */
+"_Reports_Report_Notes_Section_Person_Note_Key" = "Személyjegyzet";
+
+/* (No Comment) */
+"_Reports_Report_Notes_Section_Title" = "Jegyzetek";
+
+/* (No Comment) */
+"_Reports_Report_Overview_Section_Title" = "Áttekintés";
+
+/* (No Comment) */
+"_Reports_Report_ShowAssociates" = "Befolyásos személyek";
+
+/* (No Comment) */
+"_Reports_Report_ShowFacts" = "Tények";
+
+/* (No Comment) */
+"_Reports_Report_ShowNotes" = "Jegyzetek";
+
+/* (No Comment) */
+"_Reports_Report_ShowOverview" = "Áttekintés";
+
+/* (No Comment) */
+"_Reports_Report_ShowUserDescription" = "Leírás";
+
+/* (No Comment) */
+"_Reports_ReportBarSectionsTablesStyle" = "Sáv szakasz";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_AddImageNode" = "Kép hozzáfűzése...";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_AddLayoutCell" = "Cella hozzáfűzése";
+
+/* ReportEditorController Edit Operations */
+"_Reports_ReportEditorController_EditOperation_AddNodesPopupButton" = "Hozzáfűzés...";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_AddPDFNode" = "PDF hozzáfűzése...";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_AddRow" = "Sor hozzáfűzése";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_AddTextNode" = "Szöveg hozzáfűzése";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_RemoveLayoutCell" = "Cella törlése";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_RemoveNode" = "Törlés";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_RemoveRow" = "Sor törlése";
+
+/* (No Comment) */
+"_Reports_ReportForestGreenTablesStyler" = "Erdőzöld";
+
+/* (No Comment) */
+"_Reports_ReportFormGridTablesStyle" = "Klasszikus űrlap";
+
+/* (No Comment) */
+"_Reports_ReportFormTablesStyle" = "Űrlap";
+
+/* (No Comment) */
+"_Reports_ReportTypewriterStyler" = "Írógép";
+
+/* (No Comment) */
+"_Reports_SecondaryFont" = "Másodlagos betűtípus";
+
+/* (No Comment) */
+"_Reports_SecondaryFontColor" = "Másodlagos szövegszín";
+
+/* (No Comment) */
+"_Reports_SectionFont" = "Rész betűtípusa";
+
+/* (No Comment) */
+"_Reports_SectionsMinorGroupName" = "Részek";
+
+/* (No Comment) */
+"_Reports_SeparateSectionsCheckbox" = "Külön szakaszok";
+
+/* (No Comment) */
+"_Reports_SeparateSectionsCheckboxExplanation" = "Ha megengedi, akkor kijelzi a kiválasztott rendezési mód külön részeit. Például, ha a vezetéknév szerint válogatott, akkor ugyanazon a részen jelez ki minden azonos nevű személyt.";
+
+/* (No Comment) */
+"_Reports_ShowAge" = "Kor megmutatás";
+
+/* Columns */
+"_Reports_ShowBirthDate" = "Születési dátum megmutatása";
+
+/* (No Comment) */
+"_Reports_ShowBirthPlace" = "Születési hely megmutatása";
+
+/* (No Comment) */
+"_Reports_ShowChapters" = "Fejezetek megmutatása";
+
+/* (No Comment) */
+"_Reports_ShowChildren" = "Gyermekek megmutatása";
+
+/* Citations */
+"_Reports_ShowCitations" = "Forrásidézet";
+
+/* (No Comment) */
+"_Reports_ShowCitationsExplanation" = "Adja meg, hogy a beszámolóhoz idézetet kell-e csatolni.";
+
+/* (No Comment) */
+"_Reports_ShowDeathDate" = "Elhalálozási időpont megmutatása";
+
+/* (No Comment) */
+"_Reports_ShowDeathPlace" = "Elhalálozási hely megmutatása";
+
+/* (No Comment) */
+"_Reports_ShowKekule" = "Kekulé megmutatása";
+
+/* (No Comment) */
+"_Reports_ShowMarriageDate" = "Házasságkötési dátum megmutatása";
+
+/* (No Comment) */
+"_Reports_ShowMarriagePlace" = "Házasságkötési hely megmutatása";
+
+/* (No Comment) */
+"_Reports_ShowMedia" = "Médium";
+
+/* (No Comment) */
+"_Reports_ShowNarrative" = "Történetbeszámoló";
+
+/* Page Numbers, sections */
+"_Reports_ShowPageNumbers" = "Oldalszám megmutatása";
+
+/* (No Comment) */
+"_Reports_ShowParents" = "Szülők megmutatása";
+
+/* (No Comment) */
+"_Reports_ShowPDFs" = "PDF-ek megmutatása";
+
+/* (No Comment) */
+"_Reports_ShowPicture" = "Kép megmutatása";
+
+/* (No Comment) */
+"_Reports_ShowPictures" = "Képek megmutatása";
+
+/* (No Comment) */
+"_Reports_ShowSections" = "Részek megmutatása";
+
+/* (No Comment) */
+"_Reports_Sort_By_BirthDate" = "Születési dátum szerint";
+
+/* (No Comment) */
+"_Reports_Sort_By_BirthPlace" = "Születési hely szerint";
+
+/* (No Comment) */
+"_Reports_Sort_By_DeathDate" = "Elhalálozási időpont szerint";
+
+/* (No Comment) */
+"_Reports_Sort_By_DeathPlace" = "Elhalálozási hely szerint";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventDate" = "Esemény dátuma szerint";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventDescription" = "Leírás szerint";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventTypeAndDate" = "Esemény típusa és dátuma szerint";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventTypeName" = "Esemény típusneve szerint";
+
+/* (No Comment) */
+"_Reports_Sort_By_FirstName" = "Keresztnév szerint";
+
+/* (No Comment) */
+"_Reports_Sort_By_FullName" = "Teljes név szerint";
+
+/* (No Comment) */
+"_Reports_Sort_By_LastName" = "Vezetéknév szerint";
+
+/* Sorting */
+"_Reports_Sorting" = "Válogatás";
+
+/* (No Comment) */
+"_Reports_SortingExplanation" = "Adja meg ebben a beszámolóban megjelenő beírások sorrendjét";
+
+/* (No Comment) */
+"_Reports_SortingMinorGroupName" = "Válogatás";
+
+/* (No Comment) */
+"_Reports_SortOrderAscendingCheckbox" = "Válogatás növekvő sorrendben";
+
+/* (No Comment) */
+"_Reports_SourceInformationGroupName" = "Forrásinformáció";
+
+/* (No Comment) */
+"_Reports_Sources_Page_Header" = "Oldalszám";
+
+/* (No Comment) */
+"_Reports_Sources_Section_Title" = "Források";
+
+/* (No Comment) */
+"_Reports_StoryReport_ReferencedEntries_Title" = "Hivatkozott beírások";
+
+/* (No Comment) */
+"_Reports_StoryReport_ReferencedEntriesInSection_Title" = "Hivatkozott beírások a '%@' szakaszban";
+
+/* (No Comment) */
+"_Reports_StoryReport_Section_Media" = "Médium";
+
+/* (No Comment) */
+"_Reports_StoryReport_Section_ReferencedEntries" = "Hivatkozott beírások a szakaszban";
+
+/* (No Comment) */
+"_Reports_StoryReport_Section_Text" = "Szöveg";
+
+/* (No Comment) */
+"_Reports_StoryReport_ShowReferencedEntries" = "Hivatkozott beírások a történetben";
+
+/* (No Comment) */
+"_Reports_StoryReport_ShowReferencedEntriesInStorySections" = "Hivatkozott beírások a történetszakaszban";
+
+/* Story Report */
+"_Reports_StoryReport_UserDescription" = "Leírás";
+
+/* (No Comment) */
+"_Reports_StoryReport_WorldHistory_Category_Header" = "Kategória";
+
+/* (No Comment) */
+"_Reports_StoryReport_WorldHistory_Section_Title" = "Világtörténelem";
+
+/* (No Comment) */
+"_Reports_StyleOptionsMajorGroupName" = "Stílus-opciók";
+
+/* (No Comment) */
+"_Reports_SubSectionFont" = "Alrész betűtípusa";
+
+/* (No Comment) */
+"_Reports_SubSectionFontColor" = "Alszekciók szövegszín";
+
+/* Minor Groups */
+"_Reports_TextGroupName" = "Szöveg";
+
+/* Style Names */
+"_Reports_TextStyle" = "Egyszerű szöveg";
+
+/* (No Comment) */
+"_Reports_ThemesMajorGroupName" = "Sablonok";
+
+/* (No Comment) */
+"_Reports_ToDoReport_Notes" = "Jegyzetek";
+
+/* (No Comment) */
+"_Reports_ToDoReport_Priority" = "Prioritás";
+
+/* (No Comment) */
+"_Reports_ToDoReport_Status" = "Státusz";
+
+/* (No Comment) */
+"_Reports_ToDoReport_Text" = "Szöveg";
+
+/* ToDoReport */
+"_Reports_ToDoReport_Type" = "Típus";
+
+/* (No Comment) */
+"_Reports_TopTitleBarTextStyle" = "Felső sáv";
+
+/* (No Comment) */
+"_Reports_UseSubsectionsInMediaSection" = "Csoport médiák";
+
+/* (No Comment) */
+"_Reports_WorldHistoryMajorGroupName" = "Világtörténelem";
+
+/* (No Comment) */
+"_ReportViewConfiguration_PageFormatMode" = "Oldal kijelzési mód";
+
+/* (No Comment) */
+"_ReportViewConfiguration_PageFormatMode_PageFormatThatFitsReportViewBounds" = "Beszámoló kijelzése oldalak nélkül és a lehető legnagyobb méretben";
+
+/* (No Comment) */
+"_ReportViewConfiguration_PageFormatMode_UseSpecifiedFormat" = "Oldalak kijelzése meghatározott oldalformátummal";
+
+/* (No Comment) */
+"_ReportViewConfiguration_PageFormatMode_WidthOfSpecifiedFormatButNoPageBreaks" = "Az oldalak megjelenítése az oldaltörések nélkül";
+
+/* (No Comment) */
+"_ReportViewConfiguration_PageFormatModeExplanation" = "Itt ellenőrizheti, hogyan jelenjen meg a beszámoló a képernyőn. Vagy jelenítse meg a beszámolót egyéni oldalakon, mintha papíron jelenne meg, vagy a lehető legnagyobb méretűnek mutassa meg azt.";
+
+/* ReportView */
+"_ReportViewConfiguration_PaginationMajorGroupName" = "Oldalszámozás";
+
+/* Sample Report */
+"_SampleReportTitle" = "Mintabeszámoló";
+

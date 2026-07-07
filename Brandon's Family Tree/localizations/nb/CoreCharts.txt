@@ -1,0 +1,2202 @@
+﻿/* Background Image Mode */
+"_BackgroundGeneratorChartCompositorObject_BackgroundImageMode" = "Stil på bakgrunnsbilde";
+
+/* (No Comment) */
+"_BackgroundGeneratorChartCompositorObject_BackgroundImageMode_BlurryEdges" = "Uklare kanter";
+
+/* (No Comment) */
+"_BackgroundGeneratorChartCompositorObject_BackgroundImageMode_Radial" = "Radiell";
+
+/* (No Comment) */
+"_BackgroundGeneratorChartCompositorObject_BackgroundImageMode_Rectangle" = "Rektangel";
+
+/* (No Comment) */
+"_BackgroundGeneratorChartCompositorObject_BlurryEdgesSize" = "Størrelse på uklare kanter";
+
+/* (No Comment) */
+"_BarHistoryEventTimelineGeneratorChartCompositorObjectConfiguration_CustomTextColor" = "Brukerdefinert tekstfarge for historiske hendelser";
+
+/* (No Comment) */
+"_BarHistoryEventTimelineGeneratorChartCompositorObjectConfiguration_Font" = "Skrifttype for historiske hendelser";
+
+/* (No Comment) */
+"_BarHistoryEventTimelineGeneratorChartCompositorObjectConfiguration_TextColoringMode" = "Tekstfarge for historiske hendelser";
+
+/* (No Comment) */
+"_BarPersonTimelineGeneratorChartCompositorObjectConfiguration_EventMarkerMode" = "Hendelsesmerker";
+
+/* (No Comment) */
+"_BarPersonTimelineGeneratorChartCompositorObjectConfiguration_EventMarkerMode_Circles" = "Sirkler";
+
+/* (No Comment) */
+"_BarPersonTimelineGeneratorChartCompositorObjectConfiguration_EventMarkerMode_Lines" = "Linjer";
+
+/* BaseChartBuilder */
+"_BaseChartBuilderConfiguration_PlaceFormat_CompleteLocationString" = "Fullstendig stedsnavn";
+
+/* (No Comment) */
+"_BaseChartBuilderConfiguration_PlaceFormat_OnlyPlaceName" = "Forkortet stedsnavn";
+
+/* LineColorModes */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineColorMode" = "Linjefargemodus";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineColorMode_ContrastToBackground" = "Kontrast mot bakgrunn";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineColorMode_Custom" = "Brukerdefinert";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration" = "Dekorasjon linjeende";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_Bar" = "Bjelke";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_LargeCircle" = "Stor sirkel";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_LargeDot" = "Stort punkt";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_None" = "Ingen";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_SmallCircle" = "Liten sirkel";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_SmallDot" = "Lite punkt";
+
+/* BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration */
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_MediaPictureAssignmentMode" = "Modus for bildemedier";
+
+/* (No Comment) */
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_MediaPictureAssignmentMode_FullPictureWithoutAssignment" = "Hele bildet uten beskjæring";
+
+/* (No Comment) */
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_MediaPictureAssignmentMode_OnlyUserProvidedAssignment" = "Beskjær bildet hvis valgt eksplisitt";
+
+/* (No Comment) */
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_MediaPictureAssignmentMode_UserProvidedOrVision" = "Beskjær bildet hvis valgt eller hvis ansikt er gjenkjent";
+
+/* (No Comment) */
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_MediaPictureAssignmentModeExplanation" = "Oppgi hvordan du ønsker å vise medier. Velg om du vil vise hele bilder eller beskjære bilder til bare å vise ansikter ved hjelp av kunstig intelligens.";
+
+/* (No Comment) */
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_OutsetForMediaPictureAssignmentModeForVision" = "Avstand på gjenkjente ansikter";
+
+/* (No Comment) */
+"_ChartCompositorObjectsContainer_RealignmentMode_DistributeObjectsEvenlyOnPageFromBorderToBorder" = "Fordel objekter over alle sider";
+
+/* ChartCompositorObjectsContainer_RealignmentMode */
+"_ChartCompositorObjectsContainer_RealignmentMode_MoveObjectsAwayFromPageCuts" = "Flytt objekter bort fra sideskift";
+
+/* (No Comment) */
+"_ChartFillSettings_FillType_LinearGradient" = "Gradering";
+
+/* ChartFillSettings */
+"_ChartFillSettings_FillType_None" = "Ingen";
+
+/* (No Comment) */
+"_ChartFillSettings_FillType_None_Explanation" = "Ingen fylltype har blitt valgt";
+
+/* (No Comment) */
+"_ChartFillSettings_FillType_RadialGradient" = "Radiell gradering";
+
+/* (No Comment) */
+"_ChartFillSettings_FillType_RadialGradient_Abbreviation" = "Radiell";
+
+/* (No Comment) */
+"_ChartFillSettings_FillType_SolidColor" = "Farge";
+
+/* (No Comment) */
+"_ChartObjectType_BezierConnectionBuilderItemGeneratorChartCompositorObject" = "Bezier-koplinger";
+
+/* (No Comment) */
+"_ChartObjectType_BlobConnectionBuilderItemGeneratorChartCompositorObject" = "Organiske koplinger";
+
+/* Chart object types */
+"_ChartObjectType_DirectStraightConnectionBuilderItemGeneratorChartCompositorObject" = "Rette koblinger";
+
+/* (No Comment) */
+"_ChartObjectType_HConnectionBuilderItemGeneratorChartCompositorObject" = "H-koblinger";
+
+/* (No Comment) */
+"_ChartObjectType_YStraightConnectionBuilderItemGeneratorChartCompositorObject" = "Rette Y-koblinger";
+
+/* (No Comment) */
+"_Charts_XAlignment_Center" = "Sentrert";
+
+/* Alignment */
+"_Charts_XAlignment_Left" = "Venstre";
+
+/* (No Comment) */
+"_Charts_XAlignment_Right" = "Høyre";
+
+/* (No Comment) */
+"_Charts_YAlignment_Bottom" = "Bunn";
+
+/* (No Comment) */
+"_Charts_YAlignment_Middle" = "Senter";
+
+/* (No Comment) */
+"_Charts_YAlignment_Top" = "Topp";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_ExportAsSeparatePages" = "Separate sider";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_ExportAsSeparatePages_Explanation" = "Velg dette for å fordele diagrammet over flere sider.";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_ExportBackground" = "Vis bakgrunn";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_ExportBackground_Explanation" = "Velg dette for å gjøre bakgrunnen synlig på bildet.";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_Margins" = "Marger";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_Margins_Explanation" = "Bruk valget for å definere marger rundt diagrammet mot bildets kantlinje.";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_Margins_ExplanationForPrinting" = "Definerer marger mellom diagrammet og kantlinjen på hver side.";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_PrintingTitle" = "Utskriftsinnstillinger";
+
+/* ChartsBaseCGContextViewerConfiguration */
+"_ChartsBaseCGContextViewerConfiguration_Title" = "Eksportinnstillinger";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewer_JPEGToLarge_Description" = "Diagrammet er for stort for eksport som JPEG-fil. Du kan enten justere ned skaleringen eller eksportere diagrammet som en PNG- eller PDF-fil.";
+
+/* ChartsBitmapCGContextViewerConfiguration */
+"_ChartsBitmapCGContextViewerConfiguration_ExportFormat" = "Eksportformat";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_ExportFormat_Explanation" = "Velg hvilket bildeformat du ønsker å bruke her. PNG-filer kan ha en gjennomsiktig bakgrunn mens JPEG-filer byr på bedre komprimering og mindre filstørrelse.";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_ExportFormat_JPEG" = "Eksporter som JPEG";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_ExportFormat_PNG" = "Eksporter som PNG";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_JPEGQuality" = "JPEG-kvalitet";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_JPEGQuality_Explanation" = "JPEG-kvaliteten oppgir hvor sterkt bildet blir komprimert. Mindre kvalitet vil gi mindre filstørrelser, men kan resultere i komprimeringsartefakter.";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_Scaling" = "Skalering";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_Scaling_Explanation" = "Velg skalering for det endelige bildet her. Større skalering gir større filstørrelse, men byr på flere detaljer før piksellering blir synlig.";
+
+/* (No Comment) */
+"_ChartsEditor_AlignMode_BottomY" = "Juster i bunn, vertikalt";
+
+/* ChartEditor */
+"_ChartsEditor_AlignMode_LeftX" = "Juster til venstre, horisontalt";
+
+/* (No Comment) */
+"_ChartsEditor_AlignMode_MiddleX" = "Juster i midten, horisontalt";
+
+/* (No Comment) */
+"_ChartsEditor_AlignMode_MiddleY" = "Juster i midten, vertikalt";
+
+/* (No Comment) */
+"_ChartsEditor_AlignMode_RightX" = "Juster til høyre, horisontalt";
+
+/* (No Comment) */
+"_ChartsEditor_AlignMode_TopY" = "Juster i topp, vertikalt";
+
+/* (No Comment) */
+"_Common_AdditionalNameFormat" = "Ytterligere navn";
+
+/* (No Comment) */
+"_Common_AdditionalNameFormatExplanation" = "Her kan du definere hvilke ytterligere navn som skal vises i diagrammet.";
+
+/* (No Comment) */
+"_Common_Alignment" = "Plassering";
+
+/* (No Comment) */
+"_Common_Alignment_BottomToTop" = "Nedenfra og opp";
+
+/* (No Comment) */
+"_Common_Alignment_FathersBottomMothersTop" = "Fedre nede, mødre oppe";
+
+/* (No Comment) */
+"_Common_Alignment_FathersLeftMothersRight" = "Fedre til venstre, mødre til høyre";
+
+/* (No Comment) */
+"_Common_Alignment_FathersLeftMothersRightCondensed" = "Fedre til venstre, mødre til høyre (komprimert)";
+
+/* (No Comment) */
+"_Common_Alignment_FathersRightMothersLeft" = "Fedre til høyre, mødre til venstre";
+
+/* (No Comment) */
+"_Common_Alignment_FathersRightMothersLeftCondensed" = "Fedre til høyre, mødre til venstre (komprimert)";
+
+/* (No Comment) */
+"_Common_Alignment_FathersTopMothersBottom" = "Fedre oppe, mødre nede";
+
+/* (No Comment) */
+"_Common_Alignment_LeftToRight" = "Venstre til høyre";
+
+/* (No Comment) */
+"_Common_Alignment_LeftToRightCondensed" = "Venstre til høyre (komprimert)";
+
+/* (No Comment) */
+"_Common_Alignment_RightToLeft" = "Høyre til venstre";
+
+/* (No Comment) */
+"_Common_Alignment_RightToLeftCondensed" = "Høyre til venstre (komprimert)";
+
+/* (No Comment) */
+"_Common_Alignment_TopToBottom" = "Ovenfra og ned";
+
+/* (No Comment) */
+"_Common_AlignmentExplanation" = "Definerer generell plassering av personer i diagrammet";
+
+/* (No Comment) */
+"_Common_AlignOnGrid" = "Juster i statisk rutenett";
+
+/* (No Comment) */
+"_Common_AlignOnGridExplanation" = "Plasserer alle personer avhengig av personen med den største boksstørrelsen for å oppnå et mer enhetlig utseende – men krever mer plass.";
+
+/* (No Comment) */
+"_Common_AncestorGenerationsOfPartnerSlider" = "Generasjoner av partners forfedre";
+
+/* (No Comment) */
+"_Common_AncestorGenerationsSlider" = "Forfedregenerasjoner";
+
+/* (No Comment) */
+"_Common_AnestorGenerationsForPartnersSlider" = "Generasjoner av partners forfedre";
+
+/* (No Comment) */
+"_Common_AnglesGroupName" = "Vinkler";
+
+/* (No Comment) */
+"_Common_AngleSlider" = "Vinkel";
+
+/* (No Comment) */
+"_Common_ArrowsGroupName" = "Piler";
+
+/* (No Comment) */
+"_Common_AssociatedPersonsGroupName" = "Innflytelsesrike personer";
+
+/* (No Comment) */
+"_Common_AssociateRelationLines" = "Innflytelsesrike relasjoner";
+
+/* (No Comment) */
+"_Common_Author" = "Forfatter";
+
+/* (No Comment) */
+"_Common_AuthorColor" = "Forfatterfarge";
+
+/* (No Comment) */
+"_Common_AuthorCustomTextColor" = "Brukerdefinert forfatterfarge";
+
+/* (No Comment) */
+"_Common_AuthorEnabledCheckbox" = "Vis forfatter";
+
+/* (No Comment) */
+"_Common_AuthorFont" = "Forfatterskrifttype";
+
+/* (No Comment) */
+"_Common_AuthorGroupName" = "Forfatter";
+
+/* (No Comment) */
+"_Common_AuthorTextColoringMode" = "Forfatterfarge";
+
+/* (No Comment) */
+"_Common_BackgroundColor" = "Bakgrunnsfarge";
+
+/* (No Comment) */
+"_Common_BackgroundEdgeRadius" = "Kantradius for bakgrunn";
+
+/* (No Comment) */
+"_Common_BackgroundEnabledCheckbox" = "Vis bakgrunn";
+
+/* (No Comment) */
+"_Common_BackgroundEnabledCheckboxExplanation" = "Dersom aktivert, velg enten en farge, en gradering eller et bilde som skal vises i diagrammets bakgrunn.";
+
+/* (No Comment) */
+"_Common_BackgroundFill" = "Bakgrunnsfyll";
+
+/* (No Comment) */
+"_Common_BackgroundGroupName" = "Bakgrunn";
+
+/* (No Comment) */
+"_Common_BackgroundImageOpacity" = "Bakgrunnsbildets opasitet";
+
+/* (No Comment) */
+"_Common_BackgroundTintFactor" = "Bakgrunnstoning";
+
+/* (No Comment) */
+"_Common_BarAndTextColor" = "Bjelke- og tekstfarge";
+
+/* (No Comment) */
+"_Common_BarColor" = "Bjelkefarge";
+
+/* (No Comment) */
+"_Common_BarEdgeRadius" = "Kantradius for bjelke";
+
+/* (No Comment) */
+"_Common_BarGroupName" = "Bjelke";
+
+/* (No Comment) */
+"_Common_BarHeight" = "Bjelkehøyde";
+
+/* (No Comment) */
+"_Common_BarsGroupName" = "Stolper";
+
+/* (No Comment) */
+"_Common_BarsSpacing" = "Avstand mellom stolper";
+
+/* (No Comment) */
+"_Common_BarStyle" = "Bjelkestil";
+
+/* (No Comment) */
+"_Common_BarsWidth" = "Stolpebredde";
+
+/* (No Comment) */
+"_Common_BorderColor" = "Kantlinjefarge";
+
+/* (No Comment) */
+"_Common_BorderGroupName" = "Kantlinje";
+
+/* (No Comment) */
+"_Common_BorderWidth" = "Kantlinjetykkelse";
+
+/* (No Comment) */
+"_Common_BottomDarkeningFactor" = "Gradientfaktor for bakgrunn";
+
+/* (No Comment) */
+"_Common_BottomLineColor" = "Linjefarge, bunn";
+
+/* (No Comment) */
+"_Common_BottomLineWidth" = "Linjebredde, bunn";
+
+/* (No Comment) */
+"_Common_BottomMarginSlider" = "Marg i bunn";
+
+/* (No Comment) */
+"_Common_BoundsHeight" = "Høyde";
+
+/* (No Comment) */
+"_Common_BoundsWidth" = "Bredde";
+
+/* (No Comment) */
+"_Common_BranchesToTraverse" = "Grener å ta med";
+
+/* (No Comment) */
+"_Common_BranchesToTraverse_MaternalAndPaternal" = "Mors- og farslinje";
+
+/* (No Comment) */
+"_Common_BranchesToTraverse_MaternalOfStartPerson" = "Morslinje for startperson";
+
+/* (No Comment) */
+"_Common_BranchesToTraverse_OnlyMaternal" = "Kun morslinje";
+
+/* (No Comment) */
+"_Common_BranchesToTraverse_OnlyPaternal" = "Kun farslinje";
+
+/* (No Comment) */
+"_Common_BranchesToTraverse_PaternalOfStartPerson" = "Farslinje for startperson";
+
+/* (No Comment) */
+"_Common_BranchesToTraverseExplanation" = "Velg hvilke grener som skal tas med i visningen av diagrammet. Når du f.eks. velger «Kun farslinje», vil diagrammet kun inkludere far og farfar til valgt person.";
+
+/* (No Comment) */
+"_Common_BranchItemSpacingSlider" = "Avstand mellom grenelementer";
+
+/* (No Comment) */
+"_Common_BranchItemSpacingSliderExplanation" = "Styrer hvor langt personer vil ble plassert fra sine nærmeste slektninger";
+
+/* (No Comment) */
+"_Common_BrothersAndSistersGroupName" = "Søsken";
+
+/* (No Comment) */
+"_Common_ChildrenGenerationsSlider" = "Barnegenerasjoner";
+
+/* (No Comment) */
+"_Common_ColoringMode" = "Fargemodus";
+
+/* (No Comment) */
+"_Common_ColoringMode_Alternating" = "Vekselvis";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByAge" = "Etter alder";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByGender" = "Etter kjønn";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByGenerationGreenBlue" = "Etter generasjon (grønn/blå)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByGenerationOrangeCyan" = "Etter generasjon (oransje/cyan)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByGenerationRainbow" = "Etter generasjon (regnbue)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByGenerationSunset" = "Etter generasjon (solnedgang)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByLabel" = "Etter etikett";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByPedigreeDark" = "Etter slektskapsgrad (mørk)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByPedigreeLight" = "Etter slektskapsgrad (lys)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByPersonGroup" = "Etter persongruppe";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByYear" = "Etter år";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByYearRainbow" = "Etter år (regnbue)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByYearRainbowSubdued" = "Etter år (regnbue, dempet)";
+
+/* (No Comment) */
+"_Common_ColoringMode_Custom" = "Enhetlig farge";
+
+/* (No Comment) */
+"_Common_ColoringMode_Rainbow" = "Regnbue";
+
+/* (No Comment) */
+"_Common_ColoringMode_Uniform" = "Enhetlig";
+
+/* (No Comment) */
+"_Common_ColoringMode_White" = "Hvit";
+
+/* (No Comment) */
+"_Common_ColoringModeExplanation" = "Velg ulike fargeoppsett for personene i dette diagrammet.";
+
+/* (No Comment) */
+"_Common_ColorsGroupName" = "Farger";
+
+/* (No Comment) */
+"_Common_ConnectionLineType" = "Type koblingslinjer";
+
+/* (No Comment) */
+"_Common_ContentGroupName" = "Innhold";
+
+/* (No Comment) */
+"_Common_CurveFactor" = "Kurve";
+
+/* (No Comment) */
+"_Common_CustomColor" = "Brukerdefinert farge";
+
+/* (No Comment) */
+"_Common_CustomTextColor" = "Brukerdefinert tekstfarge";
+
+/* (No Comment) */
+"_Common_Date" = "Dato";
+
+/* (No Comment) */
+"_Common_DateColor" = "Datofarge";
+
+/* (No Comment) */
+"_Common_DateCustomTextColor" = "Brukerdefinert datofarge";
+
+/* (No Comment) */
+"_Common_DateEnabledCheckbox" = "Vis dato";
+
+/* (No Comment) */
+"_Common_DateFont" = "Datoens skrifttype";
+
+/* (No Comment) */
+"_Common_DateFormatGroupName" = "Datoformater";
+
+/* (No Comment) */
+"_Common_DateFormatStyle" = "Datoformatstil";
+
+/* (No Comment) */
+"_Common_DateFormatStyle_Full" = "Komplett (mandag, 17. november 2014)";
+
+/* (No Comment) */
+"_Common_DateFormatStyle_Long" = "Lang (17. november 2014)";
+
+/* (No Comment) */
+"_Common_DateFormatStyle_Medium" = "Middels (17. nov 2014)";
+
+/* (No Comment) */
+"_Common_DateFormatStyle_Short" = "Kort (17.11.2014)";
+
+/* (No Comment) */
+"_Common_DateFormatStyleExplanation" = "Velg en datoformatstil for omformatering av datoer.";
+
+/* (No Comment) */
+"_Common_DateGroupName" = "Dato";
+
+/* (No Comment) */
+"_Common_DatesGroupName" = "Datoer";
+
+/* (No Comment) */
+"_Common_DateTextColor" = "Datoens tekstfarge";
+
+/* (No Comment) */
+"_Common_DateTextColoringMode" = "Datofarge";
+
+/* (No Comment) */
+"_Common_DescendantGenerationsSlider" = "Etterkommergenerasjoner";
+
+/* (No Comment) */
+"_Common_DisplayValuesGroupName" = "Verdier";
+
+/* (No Comment) */
+"_Common_DistributeToAllPagesButton" = "Tilpass objektstørrelser på alle sider";
+
+/* (No Comment) */
+"_Common_EdgeHeight" = "Kanthøyde";
+
+/* (No Comment) */
+"_Common_EdgeRadius" = "Kantradius";
+
+/* (No Comment) */
+"_Common_EmphasizedGroupBackgroundFill" = "Bakgrunnsfarge for fremhevet gruppe";
+
+/* (No Comment) */
+"_Common_EnabledPersonGroupIdentifiers" = "Persongrupper";
+
+/* (No Comment) */
+"_Common_EndGenerationScale" = "Skalering for siste generasjon";
+
+/* (No Comment) */
+"_Common_EndGenerationScaleExplanation" = "Definerer hvordan siste generasjon skal skaleres i forhold til startgenerasjon";
+
+/* (No Comment) */
+"_Common_EvaluateDataFromDate" = "Fra dato";
+
+/* (No Comment) */
+"_Common_EvaluateDataToDate" = "Til dato";
+
+/* (No Comment) */
+"_Common_EventsFactsAndAssociateRelationsGroupName" = "Hendelser, opplysninger & innflytelsesrike relasjoner";
+
+/* (No Comment) */
+"_Common_EventsGroupName" = "Hendelser";
+
+/* (No Comment) */
+"_Common_FatherGenerationsSlider" = "Farsgenerasjoner";
+
+/* (No Comment) */
+"_Common_FillMode" = "Fyllmodus";
+
+/* (No Comment) */
+"_Common_FillMode_BarAtBottom" = "Bjelke i bunn";
+
+/* (No Comment) */
+"_Common_FillMode_BarAtTop" = "Bjelke i topp";
+
+/* (No Comment) */
+"_Common_FillMode_BarAtTopAndBottom" = "Bjelke i topp og bunn";
+
+/* (No Comment) */
+"_Common_FillMode_DarkBarAtBottom" = "Mørk bjelke i bunn";
+
+/* (No Comment) */
+"_Common_FillMode_DarkBarAtTop" = "Mørk bjelke i topp";
+
+/* (No Comment) */
+"_Common_FillMode_DarkBarAtTopAndBottom" = "Mørk bjelke i topp og bunn";
+
+/* (No Comment) */
+"_Common_FillMode_DarkGradientAtBottom" = "Mørk gradering mot bunn";
+
+/* (No Comment) */
+"_Common_FillMode_DarkGradientAtRight" = "Mørk gradering mot høyre";
+
+/* (No Comment) */
+"_Common_FillMode_DarkGradientAtTop" = "Mørk gradering mot topp";
+
+/* (No Comment) */
+"_Common_FillMode_Flat" = "Flat";
+
+/* (No Comment) */
+"_Common_FillMode_Glossy" = "Glanset";
+
+/* (No Comment) */
+"_Common_FillMode_LightBarAtBottom" = "Lys bjelke i bunn";
+
+/* (No Comment) */
+"_Common_FillMode_LightBarAtTop" = "Lys bjelke i topp";
+
+/* (No Comment) */
+"_Common_FillMode_LightBarAtTopAndBottom" = "Lys bjelke i topp og bunn";
+
+/* (No Comment) */
+"_Common_FillMode_LightGradientAtBottom" = "Lys gradering mot bunn";
+
+/* (No Comment) */
+"_Common_FillMode_LightGradientAtLeft" = "Lys gradering mot venstre";
+
+/* (No Comment) */
+"_Common_FillMode_LightGradientAtTop" = "Lys gradering mot topp";
+
+/* (No Comment) */
+"_Common_FillMode_LightShineAtCenter" = "Lysskinn i senter";
+
+/* (No Comment) */
+"_Common_FillMode_None" = "Ingen";
+
+/* (No Comment) */
+"_Common_FillMode_VeryDarkGradientAtBottom" = "Meget mørk gradering mot bunn";
+
+/* (No Comment) */
+"_Common_FillMode_VeryDarkGradientAtTop" = "Meget mørk gradering mot topp";
+
+/* (No Comment) */
+"_Common_FillMode_VeryLightGradientAtBottom" = "Meget lys gradering mot bunn";
+
+/* (No Comment) */
+"_Common_FillMode_VeryLightGradientAtTop" = "Meget lys gradering mot topp";
+
+/* (No Comment) */
+"_Common_FloatingSideBar" = "Fristilt sidebjelke";
+
+/* (No Comment) */
+"_Common_Font" = "Skrifttype";
+
+/* (No Comment) */
+"_Common_FontsGroupName" = "Skrifttyper";
+
+/* (No Comment) */
+"_Common_FromDate" = "Fra dato";
+
+/* (No Comment) */
+"_Common_FullName" = "Fullt navn";
+
+/* Group Names */
+"_Common_GeneralGroupName" = "Generelt";
+
+/* (No Comment) */
+"_Common_GenerationMarginsSlier" = "Marger for generasjoner";
+
+/* (No Comment) */
+"_Common_GenerationScaleSubGroupName" = "Skalering av generasjon";
+
+/* Control Names */
+"_Common_GenerationsSlider" = "Generasjoner";
+
+/* (No Comment) */
+"_Common_GenerationsSpacingSlider" = "Avstand mellom generasjoner";
+
+/* (No Comment) */
+"_Common_GenerationsSpacingSliderExplanation" = "Styrer avstand mellom personer i hver generasjon";
+
+/* (No Comment) */
+"_Common_GeometryGroupName" = "Geometri";
+
+/* (No Comment) */
+"_Common_GraphSegmentWidth" = "Grafsegmentbredde";
+
+/* (No Comment) */
+"_Common_GraphType" = "Graftype";
+
+/* (No Comment) */
+"_Common_GraphType_Bars" = "Stolper";
+
+/* (No Comment) */
+"_Common_GraphType_Lines" = "Linjer";
+
+/* (No Comment) */
+"_Common_GridGroupName" = "Rutenett";
+
+/* (No Comment) */
+"_Common_GroupColoringMode" = "Gruppefargemodus";
+
+/* (No Comment) */
+"_Common_GroupingMode" = "Grupperingsmodus";
+
+/* (No Comment) */
+"_Common_GroupInnerPadding" = "Indre utfylling";
+
+/* (No Comment) */
+"_Common_GroupsGroupName" = "Grupper";
+
+/* (No Comment) */
+"_Common_HasArrowAtEnd" = "Pil i enden";
+
+/* (No Comment) */
+"_Common_HasArrowAtStart" = "Pil i begynnelsen";
+
+/* (No Comment) */
+"_Common_HasProjectedBirthDate" = "Har forutberegnet fødselsdato";
+
+/* (No Comment) */
+"_Common_HasProjectedDeathDate" = "Har forutberegnet dødsdato";
+
+/* (No Comment) */
+"_Common_HidePrivateInformation" = "Skjul informasjon merket som fortrolig";
+
+/* (No Comment) */
+"_Common_HidePrivateInformationExplanation" = "Ved å velge det vil alle opplysninger som er merket som fortrolige i redigeringsmodus, skjules i diagrammet.";
+
+/* (No Comment) */
+"_Common_HighlightLivingPersons" = "Uthev levende personer";
+
+/* (No Comment) */
+"_Common_HistoryGroupName" = "Verdenshistorie";
+
+/* (No Comment) */
+"_Common_HorizontalSpacing" = "Horisontal avstand";
+
+/* (No Comment) */
+"_Common_IDs" = "Referansenumre";
+
+/* (No Comment) */
+"_Common_ImageAlignment" = "Bildeplassering";
+
+/* (No Comment) */
+"_Common_ImageHeightFactorSlider" = "Bildehøyde";
+
+/* (No Comment) */
+"_Common_ImageMargins" = "Bildemarger";
+
+/* (No Comment) */
+"_Common_ImageSpacing" = "Avstand mellom bilder";
+
+/* (No Comment) */
+"_Common_IncludePlaceDetail" = "Inkluder stedsdetalj i stedsnavn";
+
+/* (No Comment) */
+"_Common_IndentPartners" = "Rykk inn partnere";
+
+/* Privacy */
+"_Common_InformationHiddenDueToPrivacySettings" = "Opplysning skjult som fortrolig";
+
+/* (No Comment) */
+"_Common_InnerBarMarginsSlider" = "Innvendige bjelkemarger";
+
+/* (No Comment) */
+"_Common_InnerBoxMarginsSlider" = "Innvendige marger";
+
+/* (No Comment) */
+"_Common_ItemMarginsSlider" = "Elementmarger";
+
+/* (No Comment) */
+"_Common_ItemSpacingSlider" = "Avstand mellom elementer";
+
+/* (No Comment) */
+"_Common_ItemSpacingSliderExplanation" = "Definerer avstanden mellom personer innenfor en generasjon";
+
+/* (No Comment) */
+"_Common_LabelsGroupName" = "Etiketter";
+
+/* (No Comment) */
+"_Common_LeftLineColor" = "Linjefarge, venstre";
+
+/* (No Comment) */
+"_Common_LeftLineWidth" = "Linjebredde, venstre";
+
+/* (No Comment) */
+"_Common_LineColor" = "Linjefarge";
+
+/* ChartLineDashPatternTypes */
+"_Common_LineDashPatternType" = "Type linjestrek";
+
+/* (No Comment) */
+"_Common_LineDashPatternType_Long" = "Lange";
+
+/* (No Comment) */
+"_Common_LineDashPatternType_Short" = "Korte";
+
+/* (No Comment) */
+"_Common_LineDashPatternType_ShortGaps" = "Korte avstander";
+
+/* (No Comment) */
+"_Common_LineDashPatternType_Solid" = "Heltrukket";
+
+/* (No Comment) */
+"_Common_LineDashPatternType_VeryShort" = "Meget kort";
+
+/* (No Comment) */
+"_Common_LineDistanceFromDestinationObjects" = "Linjeavstand fra mål";
+
+/* (No Comment) */
+"_Common_LineDistanceFromOriginObjects" = "Linjeavstand fra utgangspunkt";
+
+/* (No Comment) */
+"_Common_LineEndingName" = "Linjeender";
+
+/* (No Comment) */
+"_Common_LineGroupName" = "Linje";
+
+/* (No Comment) */
+"_Common_LinesGroupName" = "Linjer";
+
+/* (No Comment) */
+"_Common_LineWidth" = "Linjebredde";
+
+/* (No Comment) */
+"_Common_Localization" = "Lokalisering";
+
+/* (No Comment) */
+"_Common_LocalizationAndFormatsGroupName" = "Lokalisering og formater";
+
+/* (No Comment) */
+"_Common_LocalizationExplanation" = "Oppgi ønsket lokalisering for diagrammet. Alle personhendelser, personopplysninger og familiehendelser samt annen tekst lokaliseres på språket du velger.";
+
+/* (No Comment) */
+"_Common_MarginsGroupName" = "Marger";
+
+/* (No Comment) */
+"_Common_MarkDeadPersons" = "Marker avdøde personer";
+
+/* (No Comment) */
+"_Common_MaximumRecursionDepth" = "Maksimal rekursjonsdybde";
+
+/* (No Comment) */
+"_Common_MaximumRecursionDepthExplanation" = "Bestemmer hvor mange ganger en og samme person kan forekomme i samme diagram før evalueringen slutter. Dette kan forekomme hvis feil data er lagt inn, eller ved relasjoner mellom søskenbarn og annen incest.";
+
+/* (No Comment) */
+"_Common_MaximumResults" = "Maksimale resultater";
+
+/* (No Comment) */
+"_Common_MediaGroupName" = "Medier";
+
+/* (No Comment) */
+"_Common_MotherGenerationsSlider" = "Morsgenerasjoner";
+
+/* (No Comment) */
+"_Common_NameAlignment" = "Navneplassering";
+
+/* (No Comment) */
+"_Common_NameBarColor" = "Tekstfarge til navnebjelke";
+
+/* (No Comment) */
+"_Common_NameFont" = "Skrifttype for navn";
+
+/* (No Comment) */
+"_Common_NameFormat" = "Navneformat for personer";
+
+/* (No Comment) */
+"_Common_NameFormatExplanation" = "Velg hvilket navneformat du ønsker for alle personer i gjeldende diagram.";
+
+/* (No Comment) */
+"_Common_NamesFormatGroupName" = "Navneformater";
+
+/* (No Comment) */
+"_Common_NameTextColor" = "Tekstfarge for navn";
+
+/* (No Comment) */
+"_Common_NoBackground" = "Ingen bakgrunn";
+
+/* (No Comment) */
+"_Common_NormalGroupBackgroundFill" = "Vanlig bakgrunnsfarge for gruppe";
+
+/* (No Comment) */
+"_Common_NotesGroupName" = "Notater";
+
+/* (No Comment) */
+"_Common_OmitEmptyPagesWhenPrintingOrExporting" = "Utelatt tomme sider ved utskrift";
+
+/* Date Ranges */
+"_Common_OnlyEvalulateEntriesInDateRange" = "Inkluder kun oppføringer innenfor datointervall";
+
+/* (No Comment) */
+"_Common_OnlyEvalulateEntriesInDateRangeExplanation" = "Velg dette for kun å ta med datoer i oppgitt datointervall – alle andre oppføringer utelates.";
+
+/* (No Comment) */
+"_Common_OtherFont" = "Annen skrifttype";
+
+/* (No Comment) */
+"_Common_OtherTextColor" = "Annen tekstfarge";
+
+/* (No Comment) */
+"_Common_OverviewGroupName" = "Oversikt";
+
+/* (No Comment) */
+"_Common_PageOverlapPoints" = "Sideoverlapping";
+
+/* (No Comment) */
+"_Common_PagesCountX" = "Horisontale sider";
+
+/* (No Comment) */
+"_Common_PagesCountY" = "Vertikale sider";
+
+/* (No Comment) */
+"_Common_ParentGenerationsSlider" = "Foreldregenerasjoner";
+
+/* (No Comment) */
+"_Common_PartnerIndentionSlider" = "Innrykking av partner";
+
+/* (No Comment) */
+"_Common_PartnerIndentionSliderExplanation" = "Definerer avstand mellom barn og barns partner.";
+
+/* (No Comment) */
+"_Common_PartnersGroupName" = "Partnere";
+
+/* (No Comment) */
+"_Common_PersonGroupsName" = "Persongrupper";
+
+/* (No Comment) */
+"_Common_PersonsGroupName" = "Personer";
+
+/* (No Comment) */
+"_Common_PersonWidthSlider" = "Personbredde";
+
+/* (No Comment) */
+"_Common_PlaceFormat" = "Stedsformat";
+
+/* (No Comment) */
+"_Common_PlaceFormatExplanation" = "Oppgi om stedsnavn skal vises fullstendig eller forkortet.";
+
+/* (No Comment) */
+"_Common_PlaceholderImageOpacity" = "Plassholderbildets opasitet";
+
+/* (No Comment) */
+"_Common_PlacesFormatGroupName" = "Stedsformater";
+
+/* (No Comment) */
+"_Common_PrintCutMarks" = "Skriv ut kuttemerker";
+
+/* (No Comment) */
+"_Common_PrintPageNumbers" = "Skriv ut sidetall";
+
+/* (No Comment) */
+"_Common_ReformatDatesToSelectedLocale" = "Omformater datoer";
+
+/* (No Comment) */
+"_Common_ReformatDatesToSelectedLocaleExplanation" = "Velg dette for å omformatere alle datoer slik at de passer valgt lokalisering.";
+
+/* (No Comment) */
+"_Common_ResultsToCollapse" = "Resultater å slå sammen";
+
+/* (No Comment) */
+"_Common_RightLineColor" = "Linjefarge, høyre";
+
+/* (No Comment) */
+"_Common_RightLineWidth" = "Linjebredde, høyre";
+
+/* (No Comment) */
+"_Common_Rotation" = "Rotasjon";
+
+/* (No Comment) */
+"_Common_ScaleAllValuesToRelativeValues" = "Vis som relative verdier";
+
+/* (No Comment) */
+"_Common_ScaleAllValuesToRelativeValuesExplanation" = "Vis relative verdier for det respektive året istedenfor å bruke absolutte verdier.";
+
+/* (No Comment) */
+"_Common_ScaleBrothersAndSisters" = "Skaler søsken";
+
+/* (No Comment) */
+"_Common_ScaleBrothersAndSistersExplanation" = "Velg dette for å skalere alle søsken til startpersonens direkte forfedre eller etterkommere med 50 %.";
+
+/* (No Comment) */
+"_Common_ScalingOfBrothersAndSistersSlider" = "Skalering av søsken";
+
+/* (No Comment) */
+"_Common_ShadowAngle" = "Skyggevinkel";
+
+/* (No Comment) */
+"_Common_ShadowBlur" = "Skyggeuskarphet";
+
+/* (No Comment) */
+"_Common_ShadowColor" = "Skyggefarge";
+
+/* (No Comment) */
+"_Common_ShadowColoringFactor" = "Skyggefarge";
+
+/* (No Comment) */
+"_Common_ShadowDistance" = "Skyggeavstand";
+
+/* (No Comment) */
+"_Common_ShadowGroupName" = "Skygger";
+
+/* (No Comment) */
+"_Common_ShadowLength" = "Skyggelengde";
+
+/* (No Comment) */
+"_Common_ShadowMode" = "Skyggemodus";
+
+/* (No Comment) */
+"_Common_ShadowMode_Blurry" = "Uskarp";
+
+/* (No Comment) */
+"_Common_ShadowMode_Flat" = "Flat";
+
+/* (No Comment) */
+"_Common_ShadowMode_None" = "Ingen";
+
+/* (No Comment) */
+"_Common_ShadowOpacity" = "Ugjennomsiktighet av skygger";
+
+/* (No Comment) */
+"_Common_ShowAncestorsOfPartners" = "Vis partners forfedre";
+
+/* (No Comment) */
+"_Common_ShowAncestorsOfPartnersExplanation" = "Velg dette for å vise forfedre til startpersonens partner(e) i tillegg til startpersonens egne forfedre.";
+
+/* (No Comment) */
+"_Common_ShowAncestralFileNumberID" = "Vis forfedrefilnummer-ID";
+
+/* (No Comment) */
+"_Common_ShowBrothersAndSisters" = "Vis søsken";
+
+/* (No Comment) */
+"_Common_ShowBrothersAndSistersOfAncestors" = "Vis forfedres søsken";
+
+/* (No Comment) */
+"_Common_ShowBrothersAndSistersOfStartPerson" = "Vis søsken til valgt person";
+
+/* (No Comment) */
+"_Common_ShowBrothersAndSistersOfStartPersonExplanation" = "Velg dette for å ta med søsken til personen du har valgt i diagrammet.";
+
+/* (No Comment) */
+"_Common_ShowDisplayValuesOnBars" = "Vis verdier i stolper";
+
+/* (No Comment) */
+"_Common_ShowFamilySearchID" = "Vis FamilySearch-ID";
+
+/* (No Comment) */
+"_Common_ShowGedcomID" = "Vis GEDCOM-ID";
+
+/* (No Comment) */
+"_Common_ShowGroupsForPartnerItems" = "Vis grupper for partnere";
+
+/* (No Comment) */
+"_Common_ShowKinships" = "Vis slektskap";
+
+/* (No Comment) */
+"_Common_ShowKinshipsExplanation" = "Velg om du ønsker å oppgi type slektskap til valgt startperson for alle personer i diagrammet.";
+
+/* (No Comment) */
+"_Common_ShowLabels" = "Vis etiketter";
+
+/* (No Comment) */
+"_Common_ShowNotes" = "Vis notater";
+
+/* (No Comment) */
+"_Common_ShowNumberingSystem" = "Vis nummereringssystem";
+
+/* (No Comment) */
+"_Common_ShowOnlyBloodlines" = "Ta med kun direkte genetisk slektskap";
+
+/* (No Comment) */
+"_Common_ShowOnlySpecificPersonGroups" = "Vis kun bestemte persongrupper";
+
+/* (No Comment) */
+"_Common_ShowOnlySpecificPersonGroupsExplanation" = "Hvis aktivert, medtas kun personer som tilhører disse persongruppene. Personer utenfor disse gruppene vises ikke, bortsett fra startpersonen.";
+
+/* (No Comment) */
+"_Common_ShowPartnersOfStartItem" = "Valgt partnere til valgt person";
+
+/* (No Comment) */
+"_Common_ShowPersonAgeAtEvent" = "Vis personens alder ved hendelsen";
+
+/* (No Comment) */
+"_Common_ShowPersonBirthDate" = "Vis personens fødselsdato";
+
+/* (No Comment) */
+"_Common_ShowPersonDeathDate" = "Vis personens dødsdato";
+
+/* (No Comment) */
+"_Common_ShowPersonEventCause" = "Vis årsak til personhendelse";
+
+/* (No Comment) */
+"_Common_ShowPersonEventDescription" = "Vis beskrivelse av personhendelse";
+
+/* (No Comment) */
+"_Common_ShowPersonEventIcons" = "Vis ikoner for personhendelser";
+
+/* (No Comment) */
+"_Common_ShowPersonEventLocation" = "Vis steder for personhendelser";
+
+/* (No Comment) */
+"_Common_ShowPersonImages" = "Vis personbilder";
+
+/* (No Comment) */
+"_Common_ShowReferenceNumber" = "Vis referansenummer";
+
+/* (No Comment) */
+"_Common_SideBarWidthSlider" = "Bredde på sidebjelke";
+
+/* (No Comment) */
+"_Common_SpacingGroupName" = "Avstand";
+
+/* (No Comment) */
+"_Common_SpacingSlider" = "Avstand";
+
+/* (No Comment) */
+"_Common_StartAngleSlider" = "Startvinkel";
+
+/* (No Comment) */
+"_Common_StartGenerationScale" = "Skalering for første generasjon";
+
+/* (No Comment) */
+"_Common_StartGenerationScaleExpanation" = "Definerer hvordan første generasjon skal skaleres i forhold til siste generasjon";
+
+/* (No Comment) */
+"_Common_StrokeGroupName" = "Linje";
+
+/* (No Comment) */
+"_Common_StyleGroupName" = "Stil";
+
+/* (No Comment) */
+"_Common_SubTitle" = "Undertittel";
+
+/* (No Comment) */
+"_Common_SubTitleColor" = "Undertittelfarge";
+
+/* (No Comment) */
+"_Common_SubTitleCustomTextColor" = "Brukerdefinert undertittelfarge";
+
+/* (No Comment) */
+"_Common_SubTitleEnabledCheckbox" = "Vis undertittel";
+
+/* (No Comment) */
+"_Common_SubTitleFont" = "Undertittelens skrifttype";
+
+/* (No Comment) */
+"_Common_SubTitleGroupName" = "Undertittel";
+
+/* (No Comment) */
+"_Common_SubTitleTextColoringMode" = "Undertittelfarge";
+
+/* (No Comment) */
+"_Common_TextColor" = "Tekstfarge";
+
+/* (No Comment) */
+"_Common_TextColoringMode" = "Tekstfarge";
+
+/* (No Comment) */
+"_Common_TextColoringMode_ByGenerationRainbow" = "Etter generasjon (regnbue)";
+
+/* (No Comment) */
+"_Common_TextColoringMode_ContrastToBackgroundColor" = "Kontrast mot bakgrunn";
+
+/* (No Comment) */
+"_Common_TextColoringMode_ContrastToBackgroundColorTinted" = "Tonet kontrast mot bakgrunn";
+
+/* (No Comment) */
+"_Common_TextColoringMode_Custom" = "Brukerdefinert";
+
+/* (No Comment) */
+"_Common_TextColoringMode_Gender" = "Etter kjønn";
+
+/* (No Comment) */
+"_Common_TextGroupName" = "Tekst";
+
+/* (No Comment) */
+"_Common_ThemeGroupName" = "Tema";
+
+/* (No Comment) */
+"_Common_Title" = "Tittel";
+
+/* (No Comment) */
+"_Common_TitleColor" = "Tittelfarge";
+
+/* (No Comment) */
+"_Common_TitleCustomTextColor" = "Brukerdefinert tittelfarge";
+
+/* (No Comment) */
+"_Common_TitleEnabledCheckbox" = "Vis tittel";
+
+/* (No Comment) */
+"_Common_TitleFont" = "Tittelens skrifttype";
+
+/* (No Comment) */
+"_Common_TitleGroupName" = "Tittel";
+
+/* (No Comment) */
+"_Common_TitleImageMode" = "Tittelbilde";
+
+/* (No Comment) */
+"_Common_TitleTextColoringMode" = "Tittelfarge";
+
+/* (No Comment) */
+"_Common_ToDate" = "Til dato";
+
+/* (No Comment) */
+"_Common_TopImageHeight" = "Høyde på toppbilde";
+
+/* (No Comment) */
+"_Common_TopLineColor" = "Linjefarge, topp";
+
+/* (No Comment) */
+"_Common_TopLineWidth" = "Linjebredde, topp";
+
+/* (No Comment) */
+"_Common_TopMarginSlider" = "Marg i topp";
+
+/* (No Comment) */
+"_Common_TotalAngleSlider" = "Samlet vinkel";
+
+/* (No Comment) */
+"_Common_TypeFont" = "Skrifttype";
+
+/* (No Comment) */
+"_Common_TypeTextColor" = "Tekstfarge";
+
+/* (No Comment) */
+"_Common_UniformColor" = "Enhetlig farge";
+
+/* (No Comment) */
+"_Common_UniformColorForColoringModeExplanation" = "Du kan velge «Enhetlig farge» fra fargemodus-innstillingene for å definere en enhetlig personfarge.";
+
+/* (No Comment) */
+"_Common_VerticalSpacing" = "Vertikal avstand";
+
+/* (No Comment) */
+"_Common_WidthPerYearSlider" = "Bredde per år";
+
+/* (No Comment) */
+"_Common_XAxisLabel" = "Etikett X-akse";
+
+/* (No Comment) */
+"_Common_XAxisLabelColor" = "Etikettfarge X-akse";
+
+/* (No Comment) */
+"_Common_XAxisLabelFont" = "Etikettskrift X-akse";
+
+/* (No Comment) */
+"_Common_XAxisLineColor" = "Linjefarge X-akse";
+
+/* (No Comment) */
+"_Common_XLineLabelColor" = "Etikettfarge X-linje";
+
+/* (No Comment) */
+"_Common_XLineLabelFont" = "Etikettskrift X-linje";
+
+/* (No Comment) */
+"_Common_XLinesWidth" = "Bredde X-linje";
+
+/* (No Comment) */
+"_Common_XScale" = "Breddeskalering";
+
+/* (No Comment) */
+"_Common_YAxisLabel" = "Etikett Y-akse";
+
+/* (No Comment) */
+"_Common_YAxisLabelColor" = "Etikettfarge Y-akse";
+
+/* (No Comment) */
+"_Common_YAxisLabelFont" = "Etikettskrift Y-akse";
+
+/* (No Comment) */
+"_Common_YAxisLineColor" = "Linjefarge Y-akse";
+
+/* (No Comment) */
+"_Common_YLineLabelColor" = "Etikettfarge Y-linje";
+
+/* (No Comment) */
+"_Common_YLineLabelFont" = "Etikettskrift Y-linje";
+
+/* (No Comment) */
+"_Common_YLinesWidth" = "Bredde Y-linje";
+
+/* (No Comment) */
+"_Common_YScale" = "Høydeskalering";
+
+/* DistributionChartBuilder */
+"_DistributionChartBuilder_DistributionType" = "Fordelingstype";
+
+/* (No Comment) */
+"_DistributionChartBuilder_DistributionTypeExplanation" = "Oppgi hvilken type fordelingsdiagram du ønsker å lage basert på dataene i familietreet ditt.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_BirthCountry" = "Fordeling av fødeland";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_BirthCountry_Description" = "Fødelandene i familietreet ditt viser hvor personene ble født.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_BirthPlace" = "Fordeling av fødesteder";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_BirthPlace_Description" = "Fødestedene i familietreet ditt viser hvor personene ble født.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_DeathCountry" = "Fordeling av dødsland";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_DeathCountry_Description" = "Dødslandene i familietreet ditt viser hvor personene døde.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_DeathPlace" = "Fordeling av dødssteder";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_DeathPlace_Description" = "Dødsstedene i familietreet ditt viser hvor personene døde.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_EventValues_Illnesses" = "Fordeling av sykdommer";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_EventValues_Illnesses_Description" = "Se hvilke sykdommer du har oppgitt for personene i familietreet ditt.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_EventValues_Occupations" = "Fordeling av yrker";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_EventValues_Occupations_Description" = "Hva var det personene i familietreet ditt jobbet med gjennom årene?";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_CasteName" = "Fordeling av kastenavn";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_CasteName_Description" = "Ofte brukte kastenavn etter år.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_EyeColor" = "Fordeling av øyefarger";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_EyeColor_Description" = "Hvilke øyefarger var dominerende i familietreet ditt over årene?";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_NationalOrTribalOrigin" = "Fordeling av nasjonal eller stammesopprinnelse";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_NationalOrTribalOrigin_Description" = "Fordeling av personers nasjonale eller stammerelaterte herkomst per år.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_Race" = "Fordeling av etnisitet";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_Race_Description" = "Fordeling av etnisitet i familietreet ditt etter år.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_SkinColor" = "Fordeling av hudfarger";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_SkinColor_Description" = "Hvilke hudfarger har vært vanlige i familietreet ditt?";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_FirstName" = "Fordeling av fornavn";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_FirstName_Description" = "Bruk av fornavn i familietreet ditt etter år.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Gender" = "Fordeling av kjønn";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Gender_Description" = "Fordeling av kjønn i familietreet ditt etter år.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_LastName" = "Fordeling av etternavn";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_LastName_Description" = "Bruk av etternavn i familietreet ditt etter år.";
+
+/* (No Comment) */
+"_DistributionValuesBarGeneratorChartCompositorObject_ColoringMode_Custom" = "Brukerdefinert farge";
+
+/* (No Comment) */
+"_DistributionValuesBarGeneratorChartCompositorObject_ColoringMode_Rainbow" = "Regnbue";
+
+/* EditorTextGeneratorChartCompositorObject */
+"_EditorTextGeneratorChartCompositorObject_NewTextTitle" = "Ny tekst";
+
+/* (No Comment) */
+"_Error_NoParentsForPersonFoundInFamilyTreeError" = "Ingen foreldre funnet for valgt person.";
+
+/* Errors */
+"_Error_NoPersonFoundInFamilyTreeError" = "Til nå er ingen personer lagt til i dette familietreet. Bruk redigeringsseksjonen for å legge inn personer og familier som skal vises i diagrammet.";
+
+/* (No Comment) */
+"_Error_NoSelectedPersonSetError" = "Ingen person er valgt for diagrammet.";
+
+/* (No Comment) */
+"_Error_NotEnoughDataPresentError" = "Familietreet inneholder ikke nok data for å vise dette diagrammet.";
+
+/* (No Comment) */
+"_FanChartBuilder_ExpandVerySmallFanItemsIfPossible" = "Utvid meget små viftesegmenter om mulig";
+
+/* (No Comment) */
+"_FanChartBuilder_ExpandVerySmallFanItemsIfPossibleExplanation" = "Hvis et viftesegment er meget lite, vil det bli utvidet utover grensene til det overordnede diagramsegmentet for å få mer plass.";
+
+/* FanChartBuilder */
+"_FanChartBuilder_Mode" = "Modus";
+
+/* (No Comment) */
+"_FanChartBuilder_Mode_Ancestors" = "Forfedre";
+
+/* (No Comment) */
+"_FanChartBuilder_Mode_Descendants" = "Etterkommere";
+
+/* (No Comment) */
+"_FanChartBuilder_ModeExplanation" = "Her kan du oppgi om viftediagrammet skal vise forfedrene eller etterkommerne til den valgte personen.";
+
+/* Genogram */
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventPosition" = "Plassering av hendelser og opplysninger";
+
+/* (No Comment) */
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventPosition_Right" = "Høyre";
+
+/* (No Comment) */
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventsBackground" = "Bakgrunn bak hendelser og opplysninger";
+
+/* (No Comment) */
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventsBackground_Filled" = "Fylt";
+
+/* (No Comment) */
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventsBackground_None" = "Ingen";
+
+/* (No Comment) */
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventsPosition_Below" = "Under";
+
+/* GridChartObject */
+"_GridGeneratorChartCompositorObjectConfiguration_ColorMode" = "Fargemodus";
+
+/* (No Comment) */
+"_GridGeneratorChartCompositorObjectConfiguration_ColorMode_ContrastToBackground" = "Kontrast mot bakgrunn";
+
+/* (No Comment) */
+"_GridGeneratorChartCompositorObjectConfiguration_ColorMode_Custom" = "Brukerdefinert";
+
+/* (No Comment) */
+"_RelationshipChartBuilder_NoRelationError" = "Ingen relasjon kunne bli funnet mellom valgte personer";
+
+/* (No Comment) */
+"_RelationshipChartBuilder_PathIsBloodline" = "Blodlinje";
+
+/* (No Comment) */
+"_RelationshipChartBuilder_PathIsNotBloodline" = "Ingen blodlinje";
+
+/* (No Comment) */
+"_RelationshipChartBuilder_PathWithNStepsIsIsNotBloodline" = "Sti med %ld steg (%@)";
+
+/* RelationshipChartBuilder */
+"_RelationshipChartBuilder_SelectDifferentPersonsError" = "Vennligst velg to forskjellige personer for å opprette et relasjonsdiagram";
+
+/* (No Comment) */
+"_RelationshipChartBuilder_SelectedRelationshipPath" = "Tilgjengelige stier til slektning";
+
+/* (No Comment) */
+"_RelationshipChartBuilder_SelectedRelationshipPathExplanation" = "Hvis det finnes flere forbindelser mellom start- og målpersonen i familietreet ditt, kan du velge blant de ulike stiene her.";
+
+/* SegmentedPortraitPersonBuilderItemGeneratorChartCompositorObjectConfiguration_BarStyle */
+"_SegmentedPortraitPersonBuilderItemGeneratorChartCompositorObjectConfiguration_BarStyle_Arrow" = "Pil";
+
+/* (No Comment) */
+"_SegmentedPortraitPersonBuilderItemGeneratorChartCompositorObjectConfiguration_BarStyle_Diagonal" = "Diagonal";
+
+/* (No Comment) */
+"_SegmentedPortraitPersonBuilderItemGeneratorChartCompositorObjectConfiguration_BarStyle_Round" = "Rund";
+
+/* (No Comment) */
+"_SegmentedPortraitPersonBuilderItemGeneratorChartCompositorObjectConfiguration_BarStyle_Wave" = "Bølge";
+
+/* _SideBarPersonBuilderItemGeneratorChartCompositorObject */
+"_SideBarPersonBuilderItemGeneratorChartCompositorObject_SideBarPosition" = "Posisjon på sidebjelke";
+
+/* (No Comment) */
+"_SideBarPersonBuilderItemGeneratorChartCompositorObject_SideBarPosition_Bottom" = "Bunn";
+
+/* (No Comment) */
+"_SideBarPersonBuilderItemGeneratorChartCompositorObject_SideBarPosition_Left" = "Venstre";
+
+/* (No Comment) */
+"_SideBarPersonBuilderItemGeneratorChartCompositorObject_SideBarPosition_Right" = "Høyre";
+
+/* (No Comment) */
+"_SideBarPersonBuilderItemGeneratorChartCompositorObject_SideBarPosition_Top" = "Topp";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_AssociatedPersonsSpacing" = "Avstand for innflytelsesrike personer";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_AssociatedPersonsSpacingExplanation" = "Velg avstand mellom personer og innflytelsesrike personer her.";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowAssociateRelationsOfChildren" = "Vis innflytelsesrike personer for barn";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowAssociateRelationsOfParents" = "Vis innflytelsesrike personer for foreldre";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowAssociateRelationsOfPartners" = "Vis innflytelsesrike personer for partner";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowAssociateRelationsOfStartPerson" = "Vis innflytelsesrike personer for startperson";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowChildren" = "Vis barn";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowGrandparents" = "Vis besteforeldre";
+
+/* SociogramChartBuilderConfiguration */
+"_SociogramChartBuilderConfiguration_ShowParents" = "Vis foreldre";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowPartners" = "Vis partnere";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_AgeAxisLabel" = "Alder";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_ChildsAxisLabel" = "Barn";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_CountAxisLabel" = "Antall";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_CountryAxisLabel" = "Land";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_DivorcesAxisLabel" = "Skilsmisser";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_EventOrFactAxisLabel" = "Hendelse eller opplysning";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_FactValueAxisLabel" = "Opplysningsverdi";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_FamiliesAxisLabel" = "Familier";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_GenderAxisLabel" = "Kjønn";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_MarriagesAxisLabel" = "Vielser";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_MonthAxisLabel" = "Måned";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_PersonFirstNamesAxisLabel" = "Fornavn";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_PersonLastNamesAxisLabel" = "Etternavn";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_PersonsAxisLabel" = "Personer";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_PersonTitleAxisLabel" = "Personens titler";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_PlaceAxisLabel" = "Sted";
+
+/* StatisticsChartBuilder */
+"_StatisticsChartBuilder_StatisticsType" = "Statistikktype";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_StatisticsTypeExplanation" = "Oppgi hvilken type statistikk du ønsker å lage vha. dataene i familietreet ditt.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtChristening" = "Alder ved dåp";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtChristening_Description" = "Personers alder ved dåp.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtDeath" = "Alder ved død";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtDeath_Description" = "Viser hvor gamle personene i familietreet ditt ble.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtDivorce" = "Alder ved skilsmisse";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtDivorce_Description" = "Diagrammet viser på hvilken alder personer ble skilt.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtMarriage" = "Alder ved vielse";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtMarriage_Description" = "Statistikken viser på hvilken alder personer i familietreet ditt giftet seg.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtRetirement" = "Alder ved pensjonering";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtRetirement_Description" = "Viser på hvilken alder personer i familietreet ditt pensjonerte seg.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeOfChildAtParentsDeath" = "Barns alder ved foreldres død";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeOfChildAtParentsDeath_Description" = "Viser hvor gamle barna i familietreet ditt var da de mistet sin far eller mor.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeOfParentsAtBirthOfChild" = "Foreldres alder ved barnas fødsel";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeOfParentsAtBirthOfChild_Description" = "Beregner hvor gamle foreldrene var da barna ble født.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeOfPersonAtDeathOfPartner" = "Persons alder ved partners død";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeOfPersonAtDeathOfPartner_Description" = "Statistikken viser hvor gamle personene var da partneren døde.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_BirthMonth" = "Fødselsmåned";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_BirthMonth_Description" = "I hvilken måned ble de fleste personene født?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_ChildsPerFamily" = "Barn per familie";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_ChildsPerFamily_Description" = "Antall barn per familie i familietreet ditt";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_ConclusionTypes" = "Hendelses- eller opplysningstyper";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_ConclusionTypes_Description" = "Statistikk om de vanligste typer hendelser eller opplysninger";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_DeathMonth" = "Dødsmåned";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_DeathMonth_Description" = "Viser i hvilke måneder personene i familietreet ditt døde";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_DivorceMonth" = "Måned for skilsmisse";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_DivorceMonth_Description" = "Viser i hvilken måned personene i familietreet ditt ble skilt";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_CasteName" = "Opplysninger: Kastenavn";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_CasteName_Description" = "Viser hvilken kaste som er vanligst i familietreet ditt";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_EyeColor" = "Opplysninger: Øyefarge";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_EyeColor_Description" = "Statistikk om øyefargen til personer i familietreet ditt.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_NationalOrTribalOrigin" = "Opplysninger: Nasjonal eller stammesopprinnelse";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_NationalOrTribalOrigin_Description" = "Viser vanligste nasjonal/stammesopprinnelse av personene i treet ditt";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_Race" = "Opplysninger: Etnisitet";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_Race_Description" = "Statistikk om hvilken etnisk opprinnelse personene i familietreet ditt har.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_SkinColor" = "Opplysninger: Hudfarge";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_SkinColor_Description" = "Statistikk om hudfarger i familietreet ditt.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_FirstNames" = "Fordeling av fornavn";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_FirstNames_Description" = "Alle fornavn som er vanlige i familietreet ditt.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Gender" = "Kjønn";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Gender_Description" = "Fordeling av personers kjønn i familietreet ditt.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_LastNames" = "Fordeling av etternavn";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_LastNames_Description" = "Viser de vanligste etternavnene i familietreet ditt";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_MarriageMonth" = "Vielsesmåned";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_MarriageMonth_Description" = "Hvilken måned valgte de fleste personene for å gifte seg?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_FamilyEvent_Marriage;topLevelGroupingLocationString" = "Vielsesland";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_FamilyEvent_Marriage;topLevelGroupingLocationString_Description" = "Viser hvilke land dine slektninger valgte for å gifte seg.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_FamilyEvent_Marriage;veryShortLocationString" = "Vielsessted";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_FamilyEvent_Marriage;veryShortLocationString_Description" = "Hvilke byer eller steder ble valgt for å gifte seg?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Birth;topLevelGroupingLocationString" = "Fødeland";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Birth;topLevelGroupingLocationString_Description" = "Land som personene opprinnelig kommer fra.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Birth;veryShortLocationString" = "Fødested";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Birth;veryShortLocationString_Description" = "Hvilken by ble de fleste personene i familietreet ditt født i?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Burial;topLevelGroupingLocationString" = "Begravelsesland";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Burial;topLevelGroupingLocationString_Description" = "I hvilket land ligger de fleste av dine slektninger begravd?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Burial;veryShortLocationString" = "Begravelsessted";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Burial;veryShortLocationString_Description" = "Viser stedet der de fleste i familietreet ditt ble gravlagt.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Christening;topLevelGroupingLocationString" = "Dåpsland";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Christening;topLevelGroupingLocationString_Description" = "Viser i hvilket land de fleste slektningene dine ble døpt.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Christening;veryShortLocationString" = "Dåpssted";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Christening;veryShortLocationString_Description" = "I hvilke byer ble personene i familietreet ditt døpt?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Death;topLevelGroupingLocationString" = "Dødsland";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Death;topLevelGroupingLocationString_Description" = "Statistikk om hvilke land personene i familietreet døde i.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Death;veryShortLocationString" = "Dødssted";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Death;veryShortLocationString_Description" = "Byen eller stedet der de fleste personene i familietreet ditt døde.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_TimeBetweenMarriageAndBirthOfChild" = "Tid mellom vielse og barnefødsel";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_TimeBetweenMarriageAndBirthOfChild_Description" = "Hvor lang tid gikk det mellom vielsen og fødsel av barn? Negative verdier betyr at barnet ble født før vielsen.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Titles" = "Tittelfordeling";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Titles_Description" = "Statistikk om alle personers titler.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Birth" = "Fødselsår";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Birth_Description" = "Viser i hvilke år de fleste personene i familietreet ditt ble født";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Burial" = "Begravelsesår";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Burial_Description" = "Viser når personene i familietreet ditt ble gravlagt";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Christening" = "Dåpsår";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Christening_Description" = "Viser i hvilke år personene i familietreet ditt ble døpt";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Death" = "Dødsår";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Death_Description" = "Viser årene for alle dødsfall i familietreet ditt";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_YearAxisLabel" = "År";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_YearsAxisLabel" = "År";
+
+/* (No Comment) */
+"_StyleNames_AgeFanChartCompositorStyle" = "Aldersvifte";
+
+/* (No Comment) */
+"_StyleNames_BlackBorderBoxedChartCompositorStyle" = "Svart kantlinje";
+
+/* (No Comment) */
+"_StyleNames_BlackBoxedChartCompositorStyle" = "Sorte bokser";
+
+/* (No Comment) */
+"_StyleNames_BlackWhiteFanChartCompositorStyle" = "Sort/hvit vifte";
+
+/* (No Comment) */
+"_StyleNames_BlueTextChartCompositorStyle" = "Tekst på blå bakgrunn";
+
+/* (No Comment) */
+"_StyleNames_BlueWhiteBoxedChartCompositorStyle" = "Hvite bokser på blå bakgrunn";
+
+/* (No Comment) */
+"_StyleNames_ByAgeBoxedChartCompositorStyle" = "Bokser etter alder";
+
+/* (No Comment) */
+"_StyleNames_ByYearFanChartCompositorStyle" = "Vifte etter år";
+
+/* (No Comment) */
+"_StyleNames_ByYearGradientFanChartCompositorStyle" = "Gradert vifte etter år";
+
+/* (No Comment) */
+"_StyleNames_ComicWhiteBoxedChartCompositorStyle" = "Tegneseriebokser";
+
+/* (No Comment) */
+"_StyleNames_DarkBlueSideBarChartCompositorStyle" = "Mørkeblå";
+
+/* (No Comment) */
+"_StyleNames_DarkBoxedChartCompositorStyle" = "Bokser «natt»";
+
+/* (No Comment) */
+"_StyleNames_DarkBoxedChartCompositorStyle2" = "Bokser «natt» 2";
+
+/* (No Comment) */
+"_StyleNames_DarkCardChartCompositorStyle" = "Kort «natt»";
+
+/* (No Comment) */
+"_StyleNames_DarkCircularPersonChartCompositorStyle" = "Rund på mørk bakgrunn";
+
+/* (No Comment) */
+"_StyleNames_DarkDistributionChartCompositorStyle" = "Mørk";
+
+/* (No Comment) */
+"_StyleNames_DarkFanChartCompositorStyle" = "Vifte «natt»";
+
+/* (No Comment) */
+"_StyleNames_DarkFlatBarStatisticsChartCompositorStyle" = "Flate stolper på mørk bakgrunn";
+
+/* (No Comment) */
+"_StyleNames_DarkLinesStatisticsChartCompositorStyle" = "Linjer på mørk bakgrunn";
+
+/* (No Comment) */
+"_StyleNames_DarkNameBarChartCompositorStyle" = "Navnebjelker på mørk bakgrunn";
+
+/* (No Comment) */
+"_StyleNames_DarkPortraitBoxChartCompositorStyle" = "Portretter på mørk bakgrunn";
+
+/* (No Comment) */
+"_StyleNames_DarkTextChartCompositorStyle" = "Tekst på mørk bakgrunn";
+
+/* (No Comment) */
+"_StyleNames_DarkTimelineBarChartCompositorStyle" = "Bjelker på mørk bakgrunn";
+
+/* (No Comment) */
+"_StyleNames_GenderPennantChartCompositorStyle" = "Banner etter kjønn";
+
+/* (No Comment) */
+"_StyleNames_GenderTextChartCompositorStyle" = "Kjønn som tekst";
+
+/* (No Comment) */
+"_StyleNames_GreenBlueCardChartCompositorStyle" = "Grønne/blå kort";
+
+/* (No Comment) */
+"_StyleNames_GreenBoxedBarChartCompositorStyle" = "Grønne bokser";
+
+/* (No Comment) */
+"_StyleNames_GreenBoxedChartCompositorStyle" = "Bokser på grønn bakgrunn";
+
+/* (No Comment) */
+"_StyleNames_LightBarsFanChartCompositorStyle" = "Stolpevifte på lys bakgrunn";
+
+/* (No Comment) */
+"_StyleNames_LightBarsFanChartCompositorStyle2" = "Stolpevifte på lys bakgrunn 2";
+
+/* Style Names */
+"_StyleNames_LightBoxedChartCompositorStyle" = "Lyse bokser";
+
+/* (No Comment) */
+"_StyleNames_LightBoxedChartCompositorStyle2" = "Avrundede lyse bokser";
+
+/* (No Comment) */
+"_StyleNames_LightBoxedChartCompositorStyle3" = "Kjønnsbokser";
+
+/* (No Comment) */
+"_StyleNames_LightCardChartCompositorStyle" = "Lyse kort";
+
+/* (No Comment) */
+"_StyleNames_LightCardChartCompositorStyle2" = "Lyse kort 2";
+
+/* (No Comment) */
+"_StyleNames_LightCircularPersonChartCompositorStyle" = "Rund på lys bakgrunn";
+
+/* (No Comment) */
+"_StyleNames_LightDistributionChartCompositorStyle" = "Graderinger";
+
+/* (No Comment) */
+"_StyleNames_LightFanChartCompositorStyle" = "Vifte på lys bakgrunn";
+
+/* (No Comment) */
+"_StyleNames_LightFlatBarStatisticsChartCompositorStyle" = "Flate stolper på lys bakgrunn";
+
+/* (No Comment) */
+"_StyleNames_LightGenderFanChartCompositorStyle" = "Kjønnsvifte på lys bakgrunn";
+
+/* (No Comment) */
+"_StyleNames_LightGenderFanChartCompositorStyle2" = "Kjønnsvifte på lys bakgrunn 2";
+
+/* (No Comment) */
+"_StyleNames_LightGenogramChartCompositorStyle" = "Genogram på lys bakgrunn";
+
+/* (No Comment) */
+"_StyleNames_LightGenogramChartCompositorStyle2" = "Genogram på lys bakgrunn 2";
+
+/* (No Comment) */
+"_StyleNames_LightGenogramChartCompositorStyle3" = "Genogram på lys bakgrunn 3";
+
+/* (No Comment) */
+"_StyleNames_LightGenogramChartCompositorStyle4" = "Genogram på lys bakgrunn 4";
+
+/* (No Comment) */
+"_StyleNames_LightLinesStatisticsChartCompositorStyle" = "Linjer på lys bakgrunn";
+
+/* (No Comment) */
+"_StyleNames_LightNameBarChartCompositorStyle" = "Navnebjelker på lys bakgrunn";
+
+/* (No Comment) */
+"_StyleNames_LightPortraitBoxChartCompositorStyle" = "Portretter på lys bakgrunn";
+
+/* (No Comment) */
+"_StyleNames_LightPortraitBoxOnDarkBackgroundChartCompositorStyle" = "Portretter på mørk bakgrunn 2";
+
+/* (No Comment) */
+"_StyleNames_LightTextChartCompositorStyle" = "Svart og hvit";
+
+/* (No Comment) */
+"_StyleNames_LightTimelineBackgroundBarChartCompositorStyle" = "Bjelkebokser på lys bakgrunn";
+
+/* (No Comment) */
+"_StyleNames_LightTimelineBarChartCompositorStyle" = "Bjelker på lys bakgrunn";
+
+/* (No Comment) */
+"_StyleNames_LightTimelineFromToChartCompositorStyle" = "Enkle bjelker på lys bakgrunn";
+
+/* (No Comment) */
+"_StyleNames_LightTimelineFromToChartCompositorStyle2" = "Enkle bjelker på lys bakgrunn 2";
+
+/* (No Comment) */
+"_StyleNames_MagentaBoxedBarChartCompositorStyle" = "Magenta bokser";
+
+/* (No Comment) */
+"_StyleNames_MagentaSimpleCircleOnDarkBackgroundChartCompositorStyle" = "Sirkler på magenta bakgrunn";
+
+/* (No Comment) */
+"_StyleNames_OrangeCyanCardChartCompositorStyle" = "Oransje/blå kort";
+
+/* (No Comment) */
+"_StyleNames_OrangeCyanSimpleCircleOnDarkBackgroundChartCompositorStyle" = "Oransje/blå sirkler";
+
+/* (No Comment) */
+"_StyleNames_OrganicCircularPersonChartCompositorStyle" = "Rund på organisk bakgrunn";
+
+/* (No Comment) */
+"_StyleNames_OrganicOrangeCyanCircularPersonChartCompositorStyle" = "Rund på organisk oransje/blå bakgrunn";
+
+/* (No Comment) */
+"_StyleNames_OrganicSimpleCircleChartCompositorStyle" = "Sirkler på organisk bakgrunn";
+
+/* (No Comment) */
+"_StyleNames_PedigreeBoxedBarChartCompositorStyle" = "Bokser mht slektskapsgrad";
+
+/* (No Comment) */
+"_StyleNames_PedigreePennantChartCompositorStyle" = "Banner mht slektskapsgrad";
+
+/* (No Comment) */
+"_StyleNames_PedigreeSideBarChartCompositorStyle" = "Farging etter slekt m/bjelke til høyre";
+
+/* (No Comment) */
+"_StyleNames_RainbowBoxedBarChartCompositorStyle" = "Regnbuebokser";
+
+/* (No Comment) */
+"_StyleNames_RainbowPennantChartCompositorStyle" = "Regnbuebanner";
+
+/* (No Comment) */
+"_StyleNames_RainbowTextChartCompositorStyle" = "Regnbuetekst";
+
+/* (No Comment) */
+"_StyleNames_RedTextChartCompositorStyle" = "Rød tekst";
+
+/* (No Comment) */
+"_StyleNames_SunsetBoxedBarChartCompositorStyle" = "Bokser «solnedgang»";
+
+/* (No Comment) */
+"_StyleNames_SunsetBoxedChartCompositorStyle" = "Bokser «solnedgang»";
+
+/* (No Comment) */
+"_StyleNames_SunsetCardChartCompositorStyle" = "Kort «solnedgang»";
+
+/* (No Comment) */
+"_StyleNames_SunsetCircularPersonChartCompositorStyle" = "Rund «solnedgang»";
+
+/* (No Comment) */
+"_StyleNames_SunsetDistributionChartCompositorStyle" = "Solnedgang";
+
+/* (No Comment) */
+"_StyleNames_SunsetFanChartCompositorStyle" = "Vifte «solnedgang»";
+
+/* (No Comment) */
+"_StyleNames_SunsetFlatBarStatisticsChartCompositorStyle" = "Flate stolper «solnedgang»";
+
+/* (No Comment) */
+"_StyleNames_TraditionalFanChartCompositorStyle" = "Tradisjonelt";
+
+/* (No Comment) */
+"_StyleNames_TraditionalGradientFanChartCompositorStyle" = "Tradisjonelle graderinger";
+
+/* (No Comment) */
+"_StyleNames_TypewriterTextChartCompositorStyle" = "Skrivemaskin";
+
+/* (No Comment) */
+"_StyleNames_TypewriterTimelineBarChartCompositorStyle" = "Skrivemaskin";
+
+/* (No Comment) */
+"_StyleNames_VeryLightPedigreeGradientFanChartCompositorStyle" = "Lyse graderinger etter slekt";
+
+/* (No Comment) */
+"_StyleNames_VioletCardChartCompositorStyle" = "Kort på fiolett bakgrunn";
+
+/* (No Comment) */
+"_StyleNames_WhiteBoxedChartCompositorStyle" = "Hvite bokser";
+
+/* (No Comment) */
+"_StyleNames_WhiteCardChartCompositorStyle" = "Hvite kort";
+
+/* (No Comment) */
+"_StyleNamesBlueDiagonalSegmentedPortraitChartCompositorStyle" = "Blå stiliserte bokser";
+
+/* (No Comment) */
+"_StyleNamesBluePolaroidChartCompositorStyle" = "Blå polaroider";
+
+/* (No Comment) */
+"_StyleNamesBottomSideBarChartCompositorStyle" = "Bunnbjelke";
+
+/* (No Comment) */
+"_StyleNamesDarkBarPortraitCompositorStyle" = "Portretter m/mørk bjelke";
+
+/* (No Comment) */
+"_StyleNamesDarkPolaroidChartCompositorStyle" = "Mørke polaroider";
+
+/* (No Comment) */
+"_StyleNamesFloatingRainbowSideBarChartCompositorStyle" = "Fristilte regnbuebjelker";
+
+/* (No Comment) */
+"_StyleNamesGenderBarPortraitCompositorStyle" = "Portretter m/bjelke etter kjønn";
+
+/* (No Comment) */
+"_StyleNamesLargeBarPortraitCompositorStyle" = "Portretter m/stor bjelke";
+
+/* (No Comment) */
+"_StyleNamesLightBlueBarPortraitCompositorStyle" = "Portretter m/lyseblå bjelke";
+
+/* (No Comment) */
+"_StyleNamesLightWaveSegmentedPortraitChartCompositorStyle" = "Lyse stiliserte bokser";
+
+/* (No Comment) */
+"_StyleNamesPedigreeBarPortraitCompositorStyle" = "Portretter m/bjelke etter slekt";
+
+/* (No Comment) */
+"_StyleNamesPedigreeRoundSegmentedPortraitChartCompositorStyle" = "Runde stiliserte bokser etter slekt";
+
+/* (No Comment) */
+"_StyleNamesPedigreeSegmentedPortraitChartCompositorStyle" = "Stiliserte bokser etter slekt";
+
+/* (No Comment) */
+"_StyleNamesRainbowSegmentedPortraitChartCompositorStyle" = "Stiliserte regnbuebokser";
+
+/* (No Comment) */
+"_StyleNamesRainbowSideBarChartCompositorStyle" = "Regnbuebjelker";
+
+/* (No Comment) */
+"_StyleNamesSimplePolaroidChartCompositorStyle" = "Polaroider";
+
+/* (No Comment) */
+"_StyleNamesSunsetPolaroidChartCompositorStyle" = "Polaroid «solnedgang»";
+
+/* (No Comment) */
+"_StyleNamesSunsetSideBarChartCompositorStyle" = "Bjelker «solnedgang»";
+
+/* (No Comment) */
+"_Timeline_GroupingMode_GroupByBirthCountry_SortByDate" = "Gruppér etter fødeland, sortér etter dato";
+
+/* (No Comment) */
+"_Timeline_GroupingMode_GroupByBirthPlace_SortByDate" = "Gruppér etter fødested, sortér etter dato";
+
+/* (No Comment) */
+"_Timeline_GroupingMode_GroupByDeathCountry_SortByDate" = "Gruppér etter dødsland, sortér etter dato";
+
+/* (No Comment) */
+"_Timeline_GroupingMode_GroupByDeathPlace_SortByDate" = "Gruppér etter dødssted, sortér etter dato";
+
+/* (No Comment) */
+"_Timeline_GroupingMode_GroupByGender_SortByDate" = "Gruppér etter kjønn, sortér etter dato";
+
+/* (No Comment) */
+"_Timeline_GroupingMode_GroupByLastName_SortByDate" = "Gruppér etter etternavn, sortér etter dato";
+
+/* Timeline */
+"_Timeline_GroupingMode_SortByDate" = "Sortér etter dato";
+
+/* (No Comment) */
+"_TimelineChartBuilder_CollapseAllGroupsForBestFit" = "Trekk sammen grupper for bedre plassutnyttelse";
+
+/* (No Comment) */
+"_TimelineChartBuilder_CollapseAllGroupsForBestFitExplanation" = "Når du velger dette, vil grupper plasseres for optimal plassutnyttelse, men alfabetisk rekkefølge er ikke garantert.";
+
+/* (No Comment) */
+"_TimelineChartBuilder_GroupByBirthCountry_NoPlace" = "Ukjent fødeland";
+
+/* (No Comment) */
+"_TimelineChartBuilder_GroupByBirthPlace_NoPlace" = "Ukjent fødested";
+
+/* (No Comment) */
+"_TimelineChartBuilder_GroupByDeathCountry_NoPlace" = "Ukjent dødsland";
+
+/* (No Comment) */
+"_TimelineChartBuilder_GroupByDeathPlace_NoPlace" = "Ukjent dødssted";
+
+/* (No Comment) */
+"_TimelineChartBuilder_GroupByLastName_NoLastName" = "Ukjent etternavn";
+
+/* (No Comment) */
+"_TimelineChartBuilder_HistoryPersons_Key" = "Historie: kjente personer";
+
+/* (No Comment) */
+"_TitleGeneratorChartCompositorObjectConfiguration_TitleImageMode_FamilyCrest" = "Slektsvåpen";
+
+/* (No Comment) */
+"_TitleGeneratorChartCompositorObjectConfiguration_TitleImageMode_None" = "Ingen";
+
+/* (No Comment) */
+"_TitleGeneratorChartCompositorObjectConfiguration_TitleImageMode_SelectedEntryImage" = "Valgt bilde for oppføring";
+
+/* TreeChartBuilder */
+"_TreeChartBuilder_MainTreePrefix" = "Hovedtre";
+
+/* (No Comment) */
+"_TreeChartBuilder_SubTreeAlignment" = "Plassering av delte trær";
+
+/* (No Comment) */
+"_TreeChartBuilder_SubTreeAlignment_ByGeneration" = "Etter generasjon";
+
+/* (No Comment) */
+"_TreeChartBuilder_SubTreeAlignment_ShortestDistanceToOrigin" = "Korteste avstand til nullpunkt";
+
+/* (No Comment) */
+"_TreeChartBuilder_SubTreeAlignmentExplanation" = "I komplekse situasjoner må et tre vises atskilt fra hovedtreet. Her kan du definere hvordan disse delte trærne skal plasseres.";
+
+/* (No Comment) */
+"_TreeChartBuilder_SubTreePrefix" = "Delt tre";
+

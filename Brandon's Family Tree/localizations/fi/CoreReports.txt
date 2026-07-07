@@ -1,0 +1,1428 @@
+﻿/* (No Comment) */
+"_ReportCSVWriterConfiguration_CSVGroup" = "Ryhmä";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_CSVSection" = "Kappale";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_ExportHeaders" = "Vie CSV otsikot";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_ExportHeadersExplanation" = "Jos haluat sisällyttää otsikkotiedot CSV-tiedostoon, valitse tämä vahtoehto. Otsikkotieto helpottaa tiedon paikantamista lopullisessa CSV-tiedostossa.";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_NewLineCharacter" = "Uusi rivi merkki";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_NewLineCharacter_CR" = "CR-merkki (Classic Mac OS)";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_NewLineCharacter_CRLF" = "CRLF-merkki (Windows)";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_NewLineCharacter_LF" = "LF-merkki (Moderni macOS, Unix)";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_NewLineCharacterExplanation" = "Valitse mitä merkkiä käytetään merkitsemään uutta riviä. Useimmat nykyaikaiset appit hyväksyvät minkä tahansa vaihtoehdon - vain jotkut vanhemmat järjestelmät tarvitsevat erityisasetuksen.";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_Separator_Comma" = "Pilkku (,)";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_Separator_Semicolon" = "Puolipiste (;)";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_SeparatorPopupButtonTitle" = "CSV erotin";
+
+/* (No Comment) */
+"_ReportCSVWriterConfiguration_SeparatorPopupButtonTitleExplanation" = "Määritä CSV-tiedostoissa käytettävä erotin. Useimmat appit ovat yhteensopivia pilkkua erottimena käytettäessä.";
+
+/* CSVWriter */
+"_ReportCSVWriterConfiguration_Title" = "CSV vienti";
+
+/* (No Comment) */
+"_ReportError_NoDataFoundToExportAsCSV" = "Tästä raportista ei löytynyt CSV-tiedostona vietävää tietoa.";
+
+/* (No Comment) */
+"_ReportError_NoDistinctivePersonsFoundError" = "Tästä sukupuusta ei löytynyt merkittäviä henkilöitä.";
+
+/* (No Comment) */
+"_ReportError_NoFamiliesFoundMatchingTheSelectedCriteria" = "Tästä sukupuusta ei löytynyt hakuehtoihin sopivia perheitä.";
+
+/* (No Comment) */
+"_ReportError_NoFamilyFoundInFamilyTreeError" = "Toistaiseksi tässä sukupuussa ei ole yhtään perhettä. Käytä Muokkaa osiota lisätäksesi henkilöitä ja perheitä nähdäksesi tämän raportin.";
+
+/* Errors */
+"_ReportError_NoPersonFoundInFamilyTreeError" = "Toistaiseksi tässä sukupuussa ei ole yhtään henkilöä. Käytä Muokkaa osiota lisätäksesi henkilöitä ja perheitä nähdäksesi tämän raportin.";
+
+/* (No Comment) */
+"_ReportError_NoPersonsFoundMatchingTheSelectedCriteria" = "Hakuehtoihin sopivia henkilöitä ei löytynyt";
+
+/* (No Comment) */
+"_ReportError_NoPlaceFoundInFamilyTreeError" = "Toistaiseksi tässä sukupuussa ei ole yhtään paikkaa. Käytä Muokkaa osiota lisätäksesi paikkoja henkilö- ja perhetapahtumiin nähdäksesi tämän raportin.";
+
+/* (No Comment) */
+"_ReportError_NoPlacesFoundMatchingTheSelectedCriteria" = "Valittuihin kriteereihin sopivia paikkoja ei löytynyt.";
+
+/* (No Comment) */
+"_ReportError_NoPlacesWithCoordinatesFoundForPersonError" = "Valittuun kirjaukseen sopivia paikkoja koordinaatein ei löytynyt. Lisää maantieteellisiä koordinaatteja paikoille Muokkaa osiossa näyttääksesi tämän raportin.";
+
+/* (No Comment) */
+"_ReportError_NoPlausibilityAnalyzerResultsFound" = "Uskottavuusvaroituksia ei löytynyt.";
+
+/* (No Comment) */
+"_ReportError_NoSelectedFamilySetError" = "Yhtään perhettä ei ole valittu tätä raporttia varten.";
+
+/* (No Comment) */
+"_ReportError_NoSelectedPersonSetError" = "Yhtään henkilöä ei ole valittu tätä raporttia varten.";
+
+/* (No Comment) */
+"_ReportError_NoSelectedStorySetError" = "Tähän raporttiin ei ole valittu tarinaa.";
+
+/* (No Comment) */
+"_ReportError_NoSourceFoundInFamilyTreeError" = "Toistaiseksi yhtään lähdettä ei ole syötetty tähän sukupuuhun. Käytä Muokkaa osiota tässä raportissa näytettävien lähteiden lisäämiseksi.";
+
+/* (No Comment) */
+"_ReportError_NoSourcesFoundMatchingTheSelectedCriteria" = "Hakuehtoihin sopivia lähteitä ei löytynyt";
+
+/* (No Comment) */
+"_ReportError_NoStoryFoundInFamilyTreeError" = "Tähän sukupuuhun ei ole lisätty vielä yhtään tarinaa. Käytä Muokkaa osiota lisätäksesi tarinoita näytettäväksi tässä raportissa.";
+
+/* (No Comment) */
+"_ReportError_NotEnoughDataPresentError" = "Tämän raportin näyttämiseen ei sukupuussa ole tarpeeksi tietoja.";
+
+/* (No Comment) */
+"_ReportError_NoToDoFoundInFamilyTreeError" = "Toistaiseksi yhtään Tehtävää ei ole syötetty tähän sukupuuhun. Käytä Muokkaa osiota lisätäksesi tässä raportissa näytettäviä Tehtäviä.";
+
+/* (No Comment) */
+"_ReportError_NoToDosFoundMatchingTheSelectedCriteria" = "Hakuehtoihin sopivia tehtäviä ei löytynyt";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_ChapterColor" = "Luvun tekstin väri";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_ChapterColorMode" = "Luvun tekstin värimalli";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Opacity" = "Läpinkuultavuus";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_PageNumberColor" = "Sivunumerotekstin väri";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_PageNumberColorMode" = "Sivunumerotekstin värimalli";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_PageSetupButton" = "Sivun asetukset…";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Scaling" = "Skaalaus";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_SectionColor" = "Kappaleen tekstin väri";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_SectionColorMode" = "Kappaleen tekstin värimalli";
+
+/* Page Background Renderer */
+"_ReportPageBackgroundRendererConfiguration_Style" = "Taustan tyyli";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_BottomBar" = "Alapalkki";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_BottomGradient" = "Alaosan gradientti";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_BottomLine" = "Alaviiva";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_BottomPageNumberRect" = "Sivunumero nelikulmiossa";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_InlineOuterBar" = "Sisäpuolinen ulkolista";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_InlineTopBar" = "Sisällä listassa yläpalkissa";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_InnerBar" = "Sisäpalkki";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_InnerBlocksBar" = "Sisäkappalepalkissa";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_None" = "Ei mitään";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_OnlyBackground" = "Vain taustaväri";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_OuterAndInnerBar" = "Sisä- & ulkopalkki";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_OuterAndInnerBlocksBar" = "Sisä- & ulkokappalepalkissa";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_OuterBar" = "Ulkopalkki";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_OuterBlocksBar" = "Ulkokappalepalkissa";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_Rectangle" = "Suorakulmio";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_RoundInlineTopBar" = "Pyöreä ylälista";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_RoundRectangle" = "Pyöreä suorakulmio";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_ThickRectangle" = "Paksu suorakulmio";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_ThickRoundRectangle" = "Paksu, pyöreä suorakulmio";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_TopBar" = "Yläpalkki";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_TopBottomBar" = "Ylä- € alapalkki";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_TopBottomGradient" = "Ylä- € alagradientti";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_TopBottomLine" = "Ylä- € alaviiva";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_TopGradient" = "Ylägradientti";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_TopLine" = "Yläviiva";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Style_XAtTop" = "X-merkintä ylhäällä";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_TextColorMode_ContrastToBackground" = "Kontrasti taustaan";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_TextColorMode_Custom" = "Mukautettu";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_Fill" = "Täytä sivu";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitBottomCenter" = "Alhaalla keskellä";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitBottomLeft" = "Alhaalla vasemmalla";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitBottomRight" = "Alhaalla oikealla";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitCenterCenter" = "Täysin keskellä";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitCenterLeft" = "Keskellä vasemmalla";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitCenterRight" = "Keskellä oikealla";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitFill" = "Täytä sivu suhteet huomioiden";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitTopCenter" = "Ylhäällä keskellä";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitTopLeft" = "Ylhäällä vasemmalla";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitTopRight" = "Ylhäällä oikealla";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_WatermarkFloatsAboveContentTitle" = "Lisää vesileima ylläolevaan sisältöön";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_WatermarkImage" = "Vesileima";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_WatermarkInsettedByPageMargins" = "Aseta vesileima sivun marginaaleihin";
+
+/* (No Comment) */
+"_ReportPageBackgroundRendererConfiguration_WatermarkPlacement" = "Sijoitus";
+
+/* (No Comment) */
+"_Reports_AhnentafelReport_GenerationNumber" = "%d. sukupolvi";
+
+/* (No Comment) */
+"_Reports_AhnentafelReport_Generations" = "Sukupolvet";
+
+/* (No Comment) */
+"_Reports_AhnentafelReport_List_Header_Kekule" = "Kekulé";
+
+/* (No Comment) */
+"_Reports_AhnentafelReport_List_Header_Narrative" = "Sanallinen raportti";
+
+/* (No Comment) */
+"_Reports_AhnentafelReport_List_Header_Person" = "Henkilö";
+
+/* AhnentafelReport */
+"_Reports_AhnentafelReport_Title" = "Sukutauluraportti";
+
+/* (No Comment) */
+"_Reports_BackgroundColor" = "Taustaväri";
+
+/* (No Comment) */
+"_Reports_BarsColor" = "Palkkiväri";
+
+/* (No Comment) */
+"_Reports_BaseColorsGroupName" = "Perusvärit";
+
+/* (No Comment) */
+"_Reports_BaseFontsGroupName" = "Perusfontit";
+
+/* (No Comment) */
+"_Reports_BaseStyler_Abbreviation_For_Female" = "(f)";
+
+/* (No Comment) */
+"_Reports_BaseStyler_Abbreviation_For_Intersex" = "(i)";
+
+/* Gender Abbreviations */
+"_Reports_BaseStyler_Abbreviation_For_Male" = "(m)";
+
+/* (No Comment) */
+"_Reports_BaseStyler_Abbreviation_For_Unknown" = "(-)";
+
+/* (No Comment) */
+"_Reports_CapitalizeSectionTitles" = "Kappaleen otsikot isoilla kirjaimilla";
+
+/* (No Comment) */
+"_Reports_ChapterFont" = "Luvun fontti";
+
+/* (No Comment) */
+"_Reports_Citations_CitationsMode" = "Lainausmalli";
+
+/* (No Comment) */
+"_Reports_Citations_DisplayPictures" = "Kuvat";
+
+/* (No Comment) */
+"_Reports_Citations_DisplayReferences" = "Viitatut kirjaukset";
+
+/* (No Comment) */
+"_Reports_Citations_DisplaySourceCitationNotes" = "Lähdeviitemerkinnät";
+
+/* (No Comment) */
+"_Reports_Citations_DisplaySourceNotes" = "Lähdemerkinnät";
+
+/* (No Comment) */
+"_Reports_Citations_DisplaySourceRepository" = "Lähdearkisto";
+
+/* (No Comment) */
+"_Reports_Citations_DisplayText" = "Näytä lähdeteksti";
+
+/* (No Comment) */
+"_Reports_Citations_SourcePicturesSize" = "Kuvien koko";
+
+/* (No Comment) */
+"_Reports_Citations_SourcePicturesSize_FullAvailableWidth" = "Suuri";
+
+/* (No Comment) */
+"_Reports_Citations_SourcePicturesSize_LargeThumbnail" = "Keskikoko";
+
+/* (No Comment) */
+"_Reports_Citations_SourcePicturesSize_Thumbnail" = "Pieni";
+
+/* (No Comment) */
+"_Reports_CitationsMajorGroupName" = "Lainaukset";
+
+/* (No Comment) */
+"_Reports_CleanBookStyle" = "Yksinkertainen kirja";
+
+/* (No Comment) */
+"_Reports_CleanTablesStyle" = "Tyhjät taulukot";
+
+/* (No Comment) */
+"_Reports_CleanTextStyle" = "Tyhjä teksti";
+
+/* (No Comment) */
+"_Reports_ColorsMajorGroupName" = "Värit";
+
+/* (No Comment) */
+"_Reports_ColumnsMajorGroupName" = "Palstat";
+
+/* Sources */
+"_Reports_Common_Citations_Section_Title" = "Lainaukset";
+
+/* Common */
+"_Reports_CustomReportTitle" = "Muokatun raportin otsikko";
+
+/* (No Comment) */
+"_Reports_DateFormatMinorGroupName" = "Päivämäärämuoto";
+
+/* (No Comment) */
+"_Reports_DateFormatStyle" = "Päivämäärämuodon tyyli";
+
+/* (No Comment) */
+"_Reports_DateFormatStyleExplanation" = "Määritä tässä minkälaista päivämäärämuodon tyyliä käytetään päivämääriä sovitettaessa";
+
+/* (No Comment) */
+"_Reports_DateOptionsGroupName" = "Päivämäärät";
+
+/* (No Comment) */
+"_Reports_DefaultHighlightColor" = "Oletus korostusväri";
+
+/* (No Comment) */
+"_Reports_DefaultHighlightColor_Explanation" = "Määritä oletusväri korostukselle. Voit asettaa yksilölliset kappaleiden korostusvärit kappaleasetuksista.";
+
+/* (No Comment) */
+"_Reports_DescendancyReport_ChildNumber_Header" = "Lapsi";
+
+/* DescendancyReport */
+"_Reports_DescendancyReport_DescendantsSectionTitleWithGenerationNumber" = "%d. sukupolvi";
+
+/* (No Comment) */
+"_Reports_DescendancyReport_Marriage_Header" = "Avioliitto";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_AddedCell_PlaceholderText" = "Teksti";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeBackgroundColor" = "Solun tausta";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeBottomBorderColor" = "Solun alareunan väri";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeBottomBorderWidth" = "Solun alareuna";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeLeftBorderColor" = "Solun vasemman reunan väri";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeLeftBorderWidth" = "Solun vasen reuna";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeRightBorderColor" = "Solun oikean reunan väri";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeRightBorderWidth" = "Solun oikea reuna";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeTopBorderColor" = "Solun yläreunan väri";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_CellNodeTopBorderWidth" = "Solun yläreuna";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_ContentFrameSize_Height" = "Korkeus";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_ContentFrameSize_Width" = "Leveys";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_LayoutCellNode_EndPosition" = "Loppukohta";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_LayoutCellNode_StartPosition" = "Alkukohta";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_LayoutNode_DrawGridLines" = "Näytä phjaristikko";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_BaseNode" = "Solmut";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_Cell" = "Solu";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_Flow" = "Ryhmä";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_Image" = "Kuva";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_Layout" = "Luettelo";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_PDF" = "PDF";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_Section" = "Kappale";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_Table" = "Taulukko";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MajorGroup_Text" = "Teksti";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Background" = "Tausta";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Border" = "Reunus";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_CellOptions" = "Solun asetukset";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Fonts" = "Fontit";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Layout" = "Pohja";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Margin" = "Marginaali";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Options" = "Asetukset";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Padding" = "Välit";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_MinorGroup_Size" = "Koko";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeBackgroundColor" = "Taustaväri";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeBorderColor" = "Reunuksen väri";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeBorderRadius" = "Kulmien pyöreys";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeBottomBorderWidth" = "Alaleveys";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeBottomMarginWidth" = "Alaleveys";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeBottomPaddingWidth" = "Alaleveys";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeHorizontalAlign" = "Horisontaalinen tasaus";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeHorizontalAlign_Bottom" = "Oikea";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeHorizontalAlign_Middle" = "Keskitys";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeHorizontalAlign_Top" = "Vasen";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeLeftBorderWidth" = "Vasen leveys";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeLeftMarginWidth" = "Vasen leveys";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeLeftPaddingWidth" = "Vasen leveys";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeRightBorderWidth" = "Oikea leveys";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeRightMarginWidth" = "Oikea leveys";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeRightPaddingWidth" = "Oikea leveys";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeTopBorderWidth" = "Yläleveys";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeTopMarginWidth" = "Yläleveys";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeTopPaddingWidth" = "Yläleveys";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeVerticalAlign" = "Pystytasaus";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeVerticalAlign_Bottom" = "Alas";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeVerticalAlign_Middle" = "Keskitys";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_NodeVerticalAlign_Top" = "Ylös";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageFlowAreaIdentifier_AnyColumn" = "Mikä tahansa sarake";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageFlowAreaIdentifier_LeftColumn" = "Vasen sarake";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageFlowAreaIdentifier_OneColumn" = "Pääsarake";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageFlowAreaIdentifier_RightColumn" = "Oikea sarake";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageFlowAreaIdentifier_Title" = "Sarake";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageOrder_Any" = "Mikä tahansa järjestys";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageOrder_EvenPage" = "Parillinen sivu";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageOrder_OddPage" = "Pariton sivu";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageOrder_Title" = "Sivujärjestys";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageType_Any" = "Mikä tahansa sivu";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageType_EmptyPage" = "Tyhjä sivu";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageType_OneColumn" = "Yhden palstan sivu";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageType_SmallLeftColumnBigRightColumn" = "Pieni vasen, iso oikea palsta sivu";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageType_Title" = "Sivutyyppi";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_PageType_TwoColumn" = "Kaksipalstainen sivu";
+
+/* Edit Configurations */
+"_Reports_Editor_Configurations_PleaseSelectObjectsToEditPlaceholder" = "Valitse raportin tekstit tai muut kohteet vasemmalla värien, tekstin ja kokojen muokkaamiseksi";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_SelectedObjectsOfDifferentTypePlaceholder" = "Valitsit useita kohteita tai eri tyyppisiä";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_Table_DrawGridLines" = "Näytä taulukon ruudukko";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_Table_RepeatHeadersOnEachPage" = "Toista otsikot";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_TableAlternateRowBackgroundColor" = "Vaihtoehtoinen rivin väri";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_TableRowBackgroundColor" = "Rivin väri";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_TextColor" = "Tekstin väri";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_TextFont" = "Tekstin fontti";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WantsNewLayoutPageArea" = "Aloita uudelta sivualueelta";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WantsNewLine" = "Aloita rivinkatkaisun jälkeen";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WantsNewPage" = "Aloita uudelta sivulta";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WantsSameLine" = "Vältä rivinkatkaisua";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WantsToStickToPreviousObject" = "Kiinnitä edelliseen kohteeseen";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_Full" = "Täysi";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_Full_ForScaleableNodes" = "Koko leveys";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_Needed" = "Tarpeellinen";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_Needed_ForScaleableNodes" = "Kiinteä leveys";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_Predefined" = "Esimääritetty";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_Predefined_ForScaleableNodes" = "Leveyskerroin ja kiinteä korkeus";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_PredefinedWidthFactor" = "Leveykerroin";
+
+/* (No Comment) */
+"_Reports_Editor_Configurations_WidthMode_Title" = "Leveysmalli";
+
+/* (No Comment) */
+"_Reports_EmphasizedFont" = "Korostettu fontti";
+
+/* (No Comment) */
+"_Reports_EmphasizedFontColor" = "Tekstin korostusväri";
+
+/* (No Comment) */
+"_Reports_EnabledSourceTemplateKeyIdentifiers" = "Näytettävät lähdekentät";
+
+/* (No Comment) */
+"_Reports_EventsMajorGroupName" = "Tapahtumat";
+
+/* FactsListReport */
+"_Reports_FactsListReport_TotalFactsCountKey" = "Faktamäärä";
+
+/* (No Comment) */
+"_Reports_FontsMajorGroupName" = "Fontit";
+
+/* Major Groups */
+"_Reports_GeneralMajorGroupName" = "Yleistä";
+
+/* (No Comment) */
+"_Reports_GridTablesStyle" = "Yksinkertainen taulukko";
+
+/* Fonts */
+"_Reports_HeaderFont" = "Otsikkofontti";
+
+/* Colors */
+"_Reports_HeaderFontColor" = "Otsikkorivin tekstin väri";
+
+/* Private Information */
+"_Reports_HidePrivateInformation" = "Kätke yksityisiksi merkityt tiedot";
+
+/* (No Comment) */
+"_Reports_HidePrivateInformationExplanation" = "Kaikki muokkausnäkymässä yksityisiksi merkityt tiedot piilotetaan raportissa jos valitset tämän vaihtoehdon.";
+
+/* (No Comment) */
+"_Reports_InformationColumnsMinorGroupName" = "Tietopalstat";
+
+/* (No Comment) */
+"_Reports_InformationGroupName" = "Tietoja";
+
+/* (No Comment) */
+"_Reports_KeyFont" = "Avainfontti";
+
+/* (No Comment) */
+"_Reports_KeyFontColor" = "Avaintekstiväri";
+
+/* (No Comment) */
+"_Reports_LeftTitleStyle" = "Vasen otsikko";
+
+/* (No Comment) */
+"_Reports_List_DrawGridLines" = "Näytä taulukon ruudukko";
+
+/* (No Comment) */
+"_Reports_List_HeaderBirthDate" = "Syntymäaika";
+
+/* (No Comment) */
+"_Reports_List_HeaderBirthPlace" = "Syntymäpaikka";
+
+/* (No Comment) */
+"_Reports_List_HeaderDeathDate" = "Kuolinaika";
+
+/* (No Comment) */
+"_Reports_List_HeaderDeathPlace" = "Kuolinpaikka";
+
+/* (No Comment) */
+"_Reports_List_RepeatHeaderOnEachPage" = "Toista otsikko";
+
+/* (No Comment) */
+"_Reports_List_RepeatHeaderOnEachPageExplanation" = "Jos aktiivinen, taulukon otsikkorivi toistetaan, jos taulukon koko on yli yhden sivun";
+
+/* (No Comment) */
+"_Reports_ListCellFont" = "Luettelon solun fontti";
+
+/* (No Comment) */
+"_Reports_ListHeaderFont" = "Luettelon otsikon fontti";
+
+/* (No Comment) */
+"_Reports_ListHeaderFontColor" = "Luettelon tekstin väri";
+
+/* (No Comment) */
+"_Reports_ListKeyFont" = "Luetteloavain fontti";
+
+/* (No Comment) */
+"_Reports_ListMode" = "Luettelomalli";
+
+/* (No Comment) */
+"_Reports_ListMode_BookSetting" = "Käytä kirja-asetusta";
+
+/* (No Comment) */
+"_Reports_ListMode_DefaultFromStyler" = "Teeman oletus";
+
+/* (No Comment) */
+"_Reports_ListMode_PrefersList" = "Näytä luettelona";
+
+/* (No Comment) */
+"_Reports_ListMode_PrefersTable" = "Näytä taulukkona";
+
+/* (No Comment) */
+"_Reports_ListsColorGroupName" = "Luettelovärit";
+
+/* Lists */
+"_Reports_ListSectionFont" = "Luettelokappale fontti";
+
+/* (No Comment) */
+"_Reports_ListSectionFontColor" = "Kappaleen tekstin fontti";
+
+/* (No Comment) */
+"_Reports_ListsFontGroupName" = "Luettelot";
+
+/* (No Comment) */
+"_Reports_ListsOptionsGroupName" = "Luettelot";
+
+/* Localization */
+"_Reports_Localization" = "Lokalisointi";
+
+/* (No Comment) */
+"_Reports_LocalizationExplanation" = "Määritä tässä raportissa käytettävä lokalisointi. Kaikki tämän raportin tiedot lokalisoidaan määritellylle kielelle.";
+
+/* (No Comment) */
+"_Reports_LocalizationMajorGroupName" = "Lokalisointi";
+
+/* (No Comment) */
+"_Reports_MainFont" = "Perusfontti";
+
+/* (No Comment) */
+"_Reports_MainFontColor" = "Perustekstin väri";
+
+/* (No Comment) */
+"_Reports_MarriageList_OnlyShowFamiliesWithMarriageEvent" = "Näytä vain puolisot joilla avioliittotapahtuma";
+
+/* (No Comment) */
+"_Reports_MarriageList_ShowBirthDateForPersons" = "Näytä henkilöiden syntymäajat";
+
+/* (No Comment) */
+"_Reports_MarriageList_ShowMarriageDateAsAdditionalInformation" = "Näytä avioliittopäivä sisällytettynä";
+
+/* (No Comment) */
+"_Reports_MarriageList_ShowMarriagePlaceAsAdditionalInformation" = "Näytä avioliittopaikka sisällytettynä";
+
+/* MarriageList */
+"_Reports_MarriageList_Sort_By_FamilyName" = "Sukunimen mukaan";
+
+/* (No Comment) */
+"_Reports_MarriageList_Sort_By_ManName" = "Miehen nimen mukaan";
+
+/* (No Comment) */
+"_Reports_MarriageList_Sort_By_MarriageDate" = "Avioliittopäivän mukaan";
+
+/* (No Comment) */
+"_Reports_MarriageList_Sort_By_MarriageLocation" = "Avioliittopaikan mukaan";
+
+/* (No Comment) */
+"_Reports_MarriageList_Sort_By_WomanName" = "Naisen nimen mukaan";
+
+/* MediaGalleryReport */
+"_Reports_MediaGalleryReport_GroupingMode" = "Median ryhmitys";
+
+/* (No Comment) */
+"_Reports_MediaGalleryReport_GroupingMode_ByDecade" = "Ryhmitä kymmenluvun mukaan";
+
+/* (No Comment) */
+"_Reports_MediaGalleryReport_GroupingMode_ByLabel" = "Ryhmitä merkin mukaan";
+
+/* (No Comment) */
+"_Reports_MediaGalleryReport_GroupingMode_BySelectedObject" = "Ryhmitä liitetyn kirjauksen mukaan";
+
+/* (No Comment) */
+"_Reports_MediaGalleryReport_GroupingMode_None" = "Ei ryhmitystä";
+
+/* (No Comment) */
+"_Reports_MediaGalleryReport_SortingMode" = "Lajittelu";
+
+/* (No Comment) */
+"_Reports_MediaGalleryReport_SortingMode_ByDate" = "Paivämäärän mukaan";
+
+/* (No Comment) */
+"_Reports_MediaGalleryReport_SortingMode_ByTitle" = "Otsikon mukaan";
+
+/* (No Comment) */
+"_Reports_MediaSection_FamilyMainSubsectionKey" = "Perheeseen yhdistetyt mediat";
+
+/* (No Comment) */
+"_Reports_MediaSection_MediaFromFamiliesSubsectionKey" = "Perheisiin yhdistetyt mediat";
+
+/* (No Comment) */
+"_Reports_MediaSection_MediaFromFamilyEventsSubsectionKey" = "Perhetapahtumiin yhdistetyt mediat";
+
+/* (No Comment) */
+"_Reports_MediaSection_MediaFromManSubsectionKey" = "Puoliso 1:een yhdistetyt mediat";
+
+/* (No Comment) */
+"_Reports_MediaSection_MediaFromPersonEventsSubsectionKey" = "Henkilötapahtumiin yhdistetyt mediat";
+
+/* (No Comment) */
+"_Reports_MediaSection_MediaFromWomanSubsectionKey" = "Puoliso 2:een yhdistetyt mediat";
+
+/* (No Comment) */
+"_Reports_MediaSection_PersonMainSubsectionKey" = "Henkilöön yhdistetyt mediat";
+
+/* (No Comment) */
+"_Reports_MediaSize_FullSize" = "Täysi koko";
+
+/* (No Comment) */
+"_Reports_MediaSize_LargeThumbnail" = "Iso peukalonkynsi";
+
+/* (No Comment) */
+"_Reports_MediaSize_Thumbnail" = "Peukalonkynsi";
+
+/* (No Comment) */
+"_Reports_MediaSize_Title" = "Median koko";
+
+/* (No Comment) */
+"_Reports_MirrorPageMarginsAndBackgroundOnOddPages" = "Marginaalit ja tausta peilikuvana parittomilla sivuilla";
+
+/* (No Comment) */
+"_Reports_MirrorPageMarginsAndBackgroundOnOddPagesExplanation" = "Aktivoituna vasen ja oikea marginaali peilikuvana parittomilla sivuilla ja tausta vastaavasti muokattuna. Tämä on käytännöllistä laadittaessa raportteja kirjoille.";
+
+/* (No Comment) */
+"_Reports_ModernBarsLightTextStyle" = "Vaaleat modernit palkit";
+
+/* (No Comment) */
+"_Reports_ModernBarsTextStyle" = "Modernit palkit";
+
+/* (No Comment) */
+"_Reports_OtherFontColorsGroupName" = "Muu";
+
+/* (No Comment) */
+"_Reports_OtherFontsGroupName" = "Muut";
+
+/* (No Comment) */
+"_Reports_PageBottomMargin" = "Alamarginaali";
+
+/* (No Comment) */
+"_Reports_PageFontsMinorGroupName" = "Fontit";
+
+/* Page Margins */
+"_Reports_PageLeftMargin" = "Vasen marginaali";
+
+/* (No Comment) */
+"_Reports_PageMarginsMajorGroupName" = "Sivumarginaalit";
+
+/* (No Comment) */
+"_Reports_PageMarginsMinorGroupName" = "Sivun marginaalit";
+
+/* (No Comment) */
+"_Reports_PageNumberFont" = "Sivunumeron fontti";
+
+/* (No Comment) */
+"_Reports_PageRightMargin" = "Oikea marginaali";
+
+/* (No Comment) */
+"_Reports_PageStyleMajorGroupName" = "Sivun tyyli";
+
+/* (No Comment) */
+"_Reports_PageTextColorsMinorGroupName" = "Tekstin värit";
+
+/* (No Comment) */
+"_Reports_PageTopMargin" = "Ylämarginaali";
+
+/* (No Comment) */
+"_Reports_PageWatermarkMajorGroupName" = "Vesileima";
+
+/* (No Comment) */
+"_Reports_Person_NotSet" = "Henkilöä ei asetettu";
+
+/* (No Comment) */
+"_Reports_PersonItem_PictureSize" = "Henkilöiden kuvat";
+
+/* (No Comment) */
+"_Reports_PersonItem_PictureSize_Large" = "Näytä isot henkilöiden kuvat";
+
+/* (No Comment) */
+"_Reports_PersonItem_PictureSize_Medium" = "Näytä keskikokoiset henkilöiden kuvat";
+
+/* (No Comment) */
+"_Reports_PersonItem_PictureSize_None" = "Älä näytä henkilöiden kuvia";
+
+/* (No Comment) */
+"_Reports_PersonItem_PictureSize_Small" = "Näytä pienet henkilöiden kuvat";
+
+/* Pictures */
+"_Reports_PersonPicturesSize" = "Henkilöiden kuvat";
+
+/* (No Comment) */
+"_Reports_PersonPicturesSize_Large" = "Iso";
+
+/* (No Comment) */
+"_Reports_PersonPicturesSize_Medium" = "Keskikokoinen";
+
+/* (No Comment) */
+"_Reports_PersonPicturesSize_None" = "Ei";
+
+/* (No Comment) */
+"_Reports_PersonPicturesSize_Small" = "Pieni";
+
+/* (No Comment) */
+"_Reports_PersonReport_Ancestors_Section_Title" = "Esipolvet";
+
+/* (No Comment) */
+"_Reports_PersonReport_AncestorsDepth" = "Esisukupolvet";
+
+/* (No Comment) */
+"_Reports_PersonReport_AncestorsOrDescendants_Generation_Header" = "Sukupolvi";
+
+/* (No Comment) */
+"_Reports_PersonReport_Associates_PersonOrFamily_Header" = "Henkilö tai Perhe";
+
+/* (No Comment) */
+"_Reports_PersonReport_BornOnKey" = "Syntymäaika";
+
+/* (No Comment) */
+"_Reports_PersonReport_BornOrDiedInKey" = "Paikka";
+
+/* (No Comment) */
+"_Reports_PersonReport_BrothersAndSisters" = "Veljet ja Sisaret";
+
+/* (No Comment) */
+"_Reports_PersonReport_Descendants_Section_Title" = "Jälkeläiset";
+
+/* (No Comment) */
+"_Reports_PersonReport_DescendantsDepth" = "Jälkipolvet";
+
+/* (No Comment) */
+"_Reports_PersonReport_DiedOnKey" = "Kuolinaika";
+
+/* (No Comment) */
+"_Reports_PersonReport_Event_Date" = "Päivämäärä";
+
+/* (No Comment) */
+"_Reports_PersonReport_Event_Place" = "Paikka";
+
+/* (No Comment) */
+"_Reports_PersonReport_Event_Type" = "Tyyppi";
+
+/* (No Comment) */
+"_Reports_PersonReport_Events_Section_Title" = "Tapahtumat";
+
+/* (No Comment) */
+"_Reports_PersonReport_Facts_FactDescription_Header" = "Kuvaus";
+
+/* (No Comment) */
+"_Reports_PersonReport_Facts_FactType_Header" = "Tyyppi";
+
+/* (No Comment) */
+"_Reports_PersonReport_Facts_Section_Title" = "Faktat";
+
+/* (No Comment) */
+"_Reports_PersonReport_HourglassChart_Section_Title" = "Tiimalasikuvaaja";
+
+/* (No Comment) */
+"_Reports_PersonReport_IDs_AncestralFileNumberIDKey" = "Esipolvitiedoston numero";
+
+/* (No Comment) */
+"_Reports_PersonReport_IDs_FamilySearchIDKey" = "FamilySearch ID";
+
+/* (No Comment) */
+"_Reports_PersonReport_IDs_GedcomIDKey" = "GEDCOM ID";
+
+/* (No Comment) */
+"_Reports_PersonReport_IDs_ReferenceNumberKey" = "Viitenumero";
+
+/* (No Comment) */
+"_Reports_PersonReport_Kinship_Section_Title" = "Sukulaisuus";
+
+/* (No Comment) */
+"_Reports_PersonReport_KinshipDepth" = "Sukupolvet";
+
+/* (No Comment) */
+"_Reports_PersonReport_NameDetails_Section_Title" = "Nimen detaljit";
+
+/* (No Comment) */
+"_Reports_PersonReport_NarrativeReport_Section_Title" = "Sanallinen raportti";
+
+/* (No Comment) */
+"_Reports_PersonReport_OccupationKey" = "Ammatti";
+
+/* (No Comment) */
+"_Reports_PersonReport_Parents_Section_Title" = "Vanhemmat";
+
+/* (No Comment) */
+"_Reports_PersonReport_Partners_Section_Title" = "Puolisot";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowAncestors" = "Esipolvet";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowDescendants" = "Jälkipolvet";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowEvents" = "Tapahtumat";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowHourglassChart" = "Tiimalasikuvaaja";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowKinship" = "Sukulaisuus";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowNameDetails" = "Nimen detaljit";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowParents" = "Vanhemmat";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowPartners" = "Puolisot";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowSources" = "Lähteet";
+
+/* (No Comment) */
+"_Reports_PersonReport_ShowWorldHistory" = "Maailmanhistoria";
+
+/* PersonReport */
+"_Reports_PersonReport_Title" = "Henkilöraportti";
+
+/* (No Comment) */
+"_Reports_PersonReport_WorldHistory_Category_Header" = "Kategoria";
+
+/* (No Comment) */
+"_Reports_PersonReport_WorldHistory_Section_Title" = "Maailmanhistoria";
+
+/* (No Comment) */
+"_Reports_PicturesOptionsGroupName" = "Kuvat";
+
+/* (No Comment) */
+"_Reports_PlaceFormat_Normal" = "Normaali paikan nimi";
+
+/* (No Comment) */
+"_Reports_PlaceFormat_Short" = "Lyhyt paikannimi";
+
+/* (No Comment) */
+"_Reports_PlaceFormat_VeryShort" = "Hyvin lyhyt paikan nimi";
+
+/* (No Comment) */
+"_Reports_PlaceFormatMinorGroupName" = "Paikan muoto";
+
+/* Place Format */
+"_Reports_PlaceFormatStyle" = "Paikan muoto";
+
+/* (No Comment) */
+"_Reports_PlaceFormatStyleExplanation" = "Määritä tässä näytetäänkö täydellinen paikannimi vai vain sen lyhennys.";
+
+/* (No Comment) */
+"_Reports_PlainTextStyle" = "Selvä teksti";
+
+/* (No Comment) */
+"_Reports_PrimaryFont" = "Perusfontti";
+
+/* (No Comment) */
+"_Reports_ReformatDatesToSelectedLocale" = "Sovita päivämäärämuodot";
+
+/* (No Comment) */
+"_Reports_ReformatDatesToSelectedLocaleExplanation" = "Jos valittu, kaikki päivämäärät sovitetaan määriteltyyn lokalisointiin";
+
+/* RegisterReport */
+"_Reports_RegisterReport_DescendantsSectionTitleWithGenerationNumber" = "%d. sukupolvi";
+
+/* (No Comment) */
+"_Reports_Report_Associates_Section_Title" = "Vaikuttavat henkilöt ja perheet";
+
+/* (No Comment) */
+"_Reports_Report_Media_Section_Title" = "Media";
+
+/* (No Comment) */
+"_Reports_Report_Notes_Section_Family_Note_Key" = "Perhemerkintä";
+
+/* (No Comment) */
+"_Reports_Report_Notes_Section_Note_Key" = "Merkintä";
+
+/* (No Comment) */
+"_Reports_Report_Notes_Section_Person_Note_Key" = "Henkilömerkintä";
+
+/* (No Comment) */
+"_Reports_Report_Notes_Section_Title" = "Merkinnät";
+
+/* (No Comment) */
+"_Reports_Report_Overview_Section_Title" = "Yleiskuva";
+
+/* (No Comment) */
+"_Reports_Report_ShowAssociates" = "Vaikuttavat henkilöt";
+
+/* (No Comment) */
+"_Reports_Report_ShowFacts" = "Faktat";
+
+/* (No Comment) */
+"_Reports_Report_ShowNotes" = "Merkinnät";
+
+/* (No Comment) */
+"_Reports_Report_ShowOverview" = "Yleiskatsaus";
+
+/* (No Comment) */
+"_Reports_Report_ShowUserDescription" = "Kuvaus";
+
+/* (No Comment) */
+"_Reports_ReportBarSectionsTablesStyle" = "Palkkikappale";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_AddImageNode" = "Lisää kuva";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_AddLayoutCell" = "Lisää solu";
+
+/* ReportEditorController Edit Operations */
+"_Reports_ReportEditorController_EditOperation_AddNodesPopupButton" = "Lisää…";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_AddPDFNode" = "Lisää PDF…";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_AddRow" = "Lisää rivi";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_AddTextNode" = "Lisää teksti";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_RemoveLayoutCell" = "Poista solu";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_RemoveNode" = "Poista";
+
+/* (No Comment) */
+"_Reports_ReportEditorController_EditOperation_RemoveRow" = "Poista rivi";
+
+/* (No Comment) */
+"_Reports_ReportForestGreenTablesStyler" = "Metsänvihreä";
+
+/* (No Comment) */
+"_Reports_ReportFormGridTablesStyle" = "Klassinen muoto";
+
+/* (No Comment) */
+"_Reports_ReportFormTablesStyle" = "Kaavake";
+
+/* (No Comment) */
+"_Reports_ReportTypewriterStyler" = "Kirjoituskone";
+
+/* (No Comment) */
+"_Reports_SecondaryFont" = "Toissijainen fontti";
+
+/* (No Comment) */
+"_Reports_SecondaryFontColor" = "Toissijainen tekstin väri";
+
+/* (No Comment) */
+"_Reports_SectionFont" = "Kappalefontti";
+
+/* (No Comment) */
+"_Reports_SectionsMinorGroupName" = "Kappaleet";
+
+/* (No Comment) */
+"_Reports_SeparateSectionsCheckbox" = "Eri kappaleet";
+
+/* (No Comment) */
+"_Reports_SeparateSectionsCheckboxExplanation" = "Jos sallittu, eri kappaleet näytetään valitussa järjestyksessä. Esimerkiksi, jos lajiteltu Sukunimen mukaan, kaikki henkilöt joilla on sama sukunimi näytetään samassa kappaleessa.";
+
+/* (No Comment) */
+"_Reports_ShowAge" = "Näytä ikä";
+
+/* Columns */
+"_Reports_ShowBirthDate" = "Näytä syntymäaika";
+
+/* (No Comment) */
+"_Reports_ShowBirthPlace" = "Näytä syntymäpaikka";
+
+/* (No Comment) */
+"_Reports_ShowChapters" = "Näytä luvut";
+
+/* (No Comment) */
+"_Reports_ShowChildren" = "Näytä lapset";
+
+/* Citations */
+"_Reports_ShowCitations" = "Lähdesitaatit";
+
+/* (No Comment) */
+"_Reports_ShowCitationsExplanation" = "Määritä näytetäänkö sitaattikappale raportissa.";
+
+/* (No Comment) */
+"_Reports_ShowDeathDate" = "Näytä kuolinaika";
+
+/* (No Comment) */
+"_Reports_ShowDeathPlace" = "Näytä kuolinpaikka";
+
+/* (No Comment) */
+"_Reports_ShowKekule" = "Näytä Kekulé";
+
+/* (No Comment) */
+"_Reports_ShowMarriageDate" = "Näytä avioliittopäivä";
+
+/* (No Comment) */
+"_Reports_ShowMarriagePlace" = "Näytä avioliittopaikka";
+
+/* (No Comment) */
+"_Reports_ShowMedia" = "Media";
+
+/* (No Comment) */
+"_Reports_ShowNarrative" = "Sanallinen raportti";
+
+/* Page Numbers, sections */
+"_Reports_ShowPageNumbers" = "Näytä sivunumerointi";
+
+/* (No Comment) */
+"_Reports_ShowParents" = "Näytä vanhemmat";
+
+/* (No Comment) */
+"_Reports_ShowPDFs" = "Näytä PDF:t";
+
+/* (No Comment) */
+"_Reports_ShowPicture" = "Näytä kuva";
+
+/* (No Comment) */
+"_Reports_ShowPictures" = "Näytä kuvat";
+
+/* (No Comment) */
+"_Reports_ShowSections" = "Näytä kappaleet";
+
+/* (No Comment) */
+"_Reports_Sort_By_BirthDate" = "Syntymäajan mukaan";
+
+/* (No Comment) */
+"_Reports_Sort_By_BirthPlace" = "Syntymäpaikan mukaan";
+
+/* (No Comment) */
+"_Reports_Sort_By_DeathDate" = "Kuolinpäivän mukaan";
+
+/* (No Comment) */
+"_Reports_Sort_By_DeathPlace" = "Kuolinpaikan mukaan";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventDate" = "Tapahtumapäivän mukaan";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventDescription" = "Kuvauksen mukaan";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventTypeAndDate" = "Tapahtumatyypin ja päivän mukaan";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventTypeName" = "Tapahtumatyypin nimen mukaan";
+
+/* (No Comment) */
+"_Reports_Sort_By_FirstName" = "Etunimen mukaan";
+
+/* (No Comment) */
+"_Reports_Sort_By_FullName" = "Koko nimen mukaan";
+
+/* (No Comment) */
+"_Reports_Sort_By_LastName" = "Sukunimen mukaan";
+
+/* Sorting */
+"_Reports_Sorting" = "Lajittelu";
+
+/* (No Comment) */
+"_Reports_SortingExplanation" = "Määritä raportissa näytettävien kirjausten järjestys tässä";
+
+/* (No Comment) */
+"_Reports_SortingMinorGroupName" = "Lajittelu";
+
+/* (No Comment) */
+"_Reports_SortOrderAscendingCheckbox" = "Lajittele nousevasti";
+
+/* (No Comment) */
+"_Reports_SourceInformationGroupName" = "Lähdetiedot";
+
+/* (No Comment) */
+"_Reports_Sources_Page_Header" = "Sivu";
+
+/* (No Comment) */
+"_Reports_Sources_Section_Title" = "Lähteet";
+
+/* (No Comment) */
+"_Reports_StoryReport_ReferencedEntries_Title" = "Viitatut kirjaukset";
+
+/* (No Comment) */
+"_Reports_StoryReport_ReferencedEntriesInSection_Title" = "Viitatut kirjaukset kappaleessa '%@'";
+
+/* (No Comment) */
+"_Reports_StoryReport_Section_Media" = "Media";
+
+/* (No Comment) */
+"_Reports_StoryReport_Section_ReferencedEntries" = "Viitatut kirjaukset kappaleessa";
+
+/* (No Comment) */
+"_Reports_StoryReport_Section_Text" = "Teksti";
+
+/* (No Comment) */
+"_Reports_StoryReport_ShowReferencedEntries" = "Viitatut kirjaukset tarinassa";
+
+/* (No Comment) */
+"_Reports_StoryReport_ShowReferencedEntriesInStorySections" = "Viitatut kirjaukset tarinan kappaleissa";
+
+/* Story Report */
+"_Reports_StoryReport_UserDescription" = "Kuvaus";
+
+/* (No Comment) */
+"_Reports_StoryReport_WorldHistory_Category_Header" = "Kategoria";
+
+/* (No Comment) */
+"_Reports_StoryReport_WorldHistory_Section_Title" = "Maailmanhistoria";
+
+/* (No Comment) */
+"_Reports_StyleOptionsMajorGroupName" = "Tyylivalinnat";
+
+/* (No Comment) */
+"_Reports_SubSectionFont" = "Alakappaleen fontti";
+
+/* (No Comment) */
+"_Reports_SubSectionFontColor" = "Alakappaleen tekstin väri";
+
+/* Minor Groups */
+"_Reports_TextGroupName" = "Teksti";
+
+/* Style Names */
+"_Reports_TextStyle" = "Yksinkertainen teksti";
+
+/* (No Comment) */
+"_Reports_ThemesMajorGroupName" = "Teemat";
+
+/* (No Comment) */
+"_Reports_ToDoReport_Notes" = "Merkinnät";
+
+/* (No Comment) */
+"_Reports_ToDoReport_Priority" = "Tärkeys";
+
+/* (No Comment) */
+"_Reports_ToDoReport_Status" = "Tila";
+
+/* (No Comment) */
+"_Reports_ToDoReport_Text" = "Teksti";
+
+/* ToDoReport */
+"_Reports_ToDoReport_Type" = "Tyyppi";
+
+/* (No Comment) */
+"_Reports_TopTitleBarTextStyle" = "Yläpalkki";
+
+/* (No Comment) */
+"_Reports_UseSubsectionsInMediaSection" = "Ryhmitä mediat";
+
+/* (No Comment) */
+"_Reports_WorldHistoryMajorGroupName" = "Maailmanhistoria";
+
+/* (No Comment) */
+"_ReportViewConfiguration_PageFormatMode" = "Sivun esitysmalli";
+
+/* (No Comment) */
+"_ReportViewConfiguration_PageFormatMode_PageFormatThatFitsReportViewBounds" = "Näytä raportti sivuttamatta ja mahdollisimman suurena";
+
+/* (No Comment) */
+"_ReportViewConfiguration_PageFormatMode_UseSpecifiedFormat" = "Näytä sivut määriteltyä sivumallia käyttäen.";
+
+/* (No Comment) */
+"_ReportViewConfiguration_PageFormatMode_WidthOfSpecifiedFormatButNoPageBreaks" = "Näytä sivut jättäen sivunvaihdot pois";
+
+/* (No Comment) */
+"_ReportViewConfiguration_PageFormatModeExplanation" = "Hallitse tässä kuinka raportin tulisi näkyä ruudullasi. Näytä raportti joko erillisinä sivuina kuten se näkyisi tulostettuna paperilla tai näytä se niin suurena kuin mahdollista.";
+
+/* ReportView */
+"_ReportViewConfiguration_PaginationMajorGroupName" = "Sivutus";
+
+/* Sample Report */
+"_SampleReportTitle" = "Esimerkkiraportti";
+

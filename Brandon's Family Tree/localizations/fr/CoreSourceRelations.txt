@@ -1,0 +1,42 @@
+﻿/* Evidence */
+"_SourceRelation_Evidence" = "Preuve";
+
+/* (No Comment) */
+"_SourceRelation_Evidence_Direct" = "Directe";
+
+/* (No Comment) */
+"_SourceRelation_Evidence_DontKnow" = "Je ne sais pas";
+
+/* (No Comment) */
+"_SourceRelation_Evidence_Indirect" = "Indirecte";
+
+/* (No Comment) */
+"_SourceRelation_Evidence_Negative" = "Absente";
+
+/* Information */
+"_SourceRelation_Information" = "Information";
+
+/* (No Comment) */
+"_SourceRelation_Information_DontKnow" = "Je ne sais pas";
+
+/* (No Comment) */
+"_SourceRelation_Information_Primary" = "Première main";
+
+/* (No Comment) */
+"_SourceRelation_Information_Secondary" = "Seconde main";
+
+/* Certainty string */
+"_SourceRelation_NoCertaintyInformation" = "Non spécifiée";
+
+/* Quality */
+"_SourceRelation_Quality" = "Qualité";
+
+/* (No Comment) */
+"_SourceRelation_Quality_Derivative" = "Dérivée";
+
+/* (No Comment) */
+"_SourceRelation_Quality_DontKnow" = "Je ne sais pas";
+
+/* (No Comment) */
+"_SourceRelation_Quality_Original" = "Originale";
+

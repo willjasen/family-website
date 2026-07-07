@@ -1,0 +1,627 @@
+﻿/* Actions */
+"_EditPlaceholderPane_ImportFromAddressBookAction" = "Importer personer fra adressebok…";
+
+/* Subtitles */
+"_EditPlaceholderPane_NewTreeWelcomeMessage" = "Velkommen til MacFamilyTree 11! Vi anbefaler å begynne forskningen din ved hjelp av det interaktive treet.";
+
+/* (No Comment) */
+"_EditPlaceholderPane_NewTreeWelcomeMessage_InitialCloudKitDownloadInProgress" = "Treet lastes nå ned fra CloudTree - takk for at du venter!";
+
+/* (No Comment) */
+"_EditPlaceholderPane_NewTreeWelcomeMessage_MobileFamilyTree" = "Velkommen til MobileFamilyTree 11! Vi anbefaler å begynne forskningen din ved hjelp av det interaktive treet.";
+
+/* (No Comment) */
+"_FavoritesPlaceholderPane_ConfigureFavoritesAction" = "Velg favoritter…";
+
+/* (No Comment) */
+"_FunctionTitle_AhnentafelReportPaneName" = "Anerapport";
+
+/* (No Comment) */
+"_FunctionTitle_AhnentafelReportPaneName_Abbreviation" = "Anetabell";
+
+/* (No Comment) */
+"_FunctionTitle_AncestorChartPaneName" = "Anediagram";
+
+/* (No Comment) */
+"_FunctionTitle_AncestorChartPaneName_Abbreviation" = "Forfedre";
+
+/* (No Comment) */
+"_FunctionTitle_AnniversaryListReportPaneName" = "Jubileumsliste";
+
+/* (No Comment) */
+"_FunctionTitle_AnniversaryListReportPaneName_Abbreviation" = "Jubileer";
+
+/* (No Comment) */
+"_FunctionTitle_BooksPaneName" = "Familietrebok";
+
+/* (No Comment) */
+"_FunctionTitle_BooksPaneName_Abbreviation" = "Familietrebok";
+
+/* (No Comment) */
+"_FunctionTitle_ChangeLogPane" = "Endringslogg";
+
+/* (No Comment) */
+"_FunctionTitle_ChangeLogPane_Abbreviation" = "Endringer";
+
+/* (No Comment) */
+"_FunctionTitle_ChangeLogReportPaneName" = "Endringsloggrapport";
+
+/* (No Comment) */
+"_FunctionTitle_ChangesListReportPaneName" = "Endringsliste";
+
+/* (No Comment) */
+"_FunctionTitle_ChartsFunctionsPlaceholder" = "Oversikt diagramfunksjoner";
+
+/* (No Comment) */
+"_FunctionTitle_ChartsFunctionsPlaceholder_Abbreviation" = "Oversikt diagrammer";
+
+/* (No Comment) */
+"_FunctionTitle_DatabaseMaintenancePaneName" = "Vedlikehold av database";
+
+/* (No Comment) */
+"_FunctionTitle_DatabaseMaintenancePaneName_Abbreviation" = "Vedlikehold";
+
+/* (No Comment) */
+"_FunctionTitle_DescendancyReportPaneName" = "Etterkommer-rapport";
+
+/* (No Comment) */
+"_FunctionTitle_DescendancyReportPaneName_Abbreviation" = "Etterkommere";
+
+/* (No Comment) */
+"_FunctionTitle_DescendantChartPaneName" = "Etterkommerdiagram";
+
+/* (No Comment) */
+"_FunctionTitle_DescendantChartPaneName_Abbreviation" = "Etterkommere";
+
+/* (No Comment) */
+"_FunctionTitle_DistinctivePersonsListReportPaneName" = "Liste over særegne personer";
+
+/* (No Comment) */
+"_FunctionTitle_DistinctivePersonsListReportPaneName_Abbreviation" = "Særegne";
+
+/* (No Comment) */
+"_FunctionTitle_DistributionChartPaneName" = "Fordeling";
+
+/* (No Comment) */
+"_FunctionTitle_DistributionChartPaneName_Abbreviation" = "Fordeling";
+
+/* (No Comment) */
+"_FunctionTitle_DoubleAncestorChartPaneName" = "Dobbelt anediagram";
+
+/* (No Comment) */
+"_FunctionTitle_DoubleAncestorChartPaneName_Abbreviation" = "Aner todelt";
+
+/* (No Comment) */
+"_FunctionTitle_EditChartPaneName" = "Rediger diagram";
+
+/* (No Comment) */
+"_FunctionTitle_EditChartPaneName_Abbreviation" = "Rediger diagram";
+
+/* (No Comment) */
+"_FunctionTitle_EditFamilyTreeInformationPaneName" = "Forfatter-informasjon";
+
+/* (No Comment) */
+"_FunctionTitle_EditFamilyTreeInformationPaneName_Abbreviation" = "Forfatter";
+
+/* Placeholders */
+"_FunctionTitle_EditFunctionsPlaceholder" = "Oversikt redigeringsfunksjoner";
+
+/* Placeholders Abbreviations */
+"_FunctionTitle_EditFunctionsPlaceholder_Abbreviation" = "Oversikt redigering";
+
+/* (No Comment) */
+"_FunctionTitle_EditMediaPaneName" = "Rediger medier";
+
+/* (No Comment) */
+"_FunctionTitle_EditMediaPaneName_Abbreviation" = "Medier";
+
+/* (No Comment) */
+"_FunctionTitle_EditReportInBookPaneName" = "Rediger rapport i bok";
+
+/* (No Comment) */
+"_FunctionTitle_EditReportInBookPaneName_Abbreviation" = "Rediger bokrapport";
+
+/* (No Comment) */
+"_FunctionTitle_EditReportPaneName" = "Rediger rapport";
+
+/* (No Comment) */
+"_FunctionTitle_EditReportPaneName_Abbreviation" = "Rediger rapport";
+
+/* (No Comment) */
+"_FunctionTitle_EventsListReportPaneName" = "Hendelsesliste";
+
+/* (No Comment) */
+"_FunctionTitle_EventsListReportPaneName_Abbreviation" = "Hendelser";
+
+/* (No Comment) */
+"_FunctionTitle_ExportGEDCOMPaneName" = "Eksporter GEDCOM-fil";
+
+/* (No Comment) */
+"_FunctionTitle_ExportGEDCOMPaneName_Abbreviation" = "GEDCOM-fil";
+
+/* (No Comment) */
+"_FunctionTitle_ExportSubtreePaneName" = "Eksporter underliggende tre";
+
+/* (No Comment) */
+"_FunctionTitle_ExportSubtreePaneName_Abbreviation" = "Eksporter underliggende tre";
+
+/* (No Comment) */
+"_FunctionTitle_FactsListReportPaneName" = "Opplysningsliste";
+
+/* (No Comment) */
+"_FunctionTitle_FactsListReportPaneName_Abbreviation" = "Opplysninger";
+
+/* (No Comment) */
+"_FunctionTitle_Family_PluralCount" = "%@ familier";
+
+/* (No Comment) */
+"_FunctionTitle_Family_SingularCount" = "%@ familie";
+
+/* (No Comment) */
+"_FunctionTitle_FamilyGroupReportPaneName" = "Familierapport";
+
+/* (No Comment) */
+"_FunctionTitle_FamilyGroupReportPaneName_Abbreviation" = "Familie";
+
+/* (No Comment) */
+"_FunctionTitle_FamilyListPaneName" = "Rediger familier";
+
+/* (No Comment) */
+"_FunctionTitle_FamilyListPaneName_Abbreviation" = "Familier";
+
+/* (No Comment) */
+"_FunctionTitle_FamilyQuizPaneName" = "Familiequiz";
+
+/* (No Comment) */
+"_FunctionTitle_FamilyQuizPaneName_Abbreviation" = "Quiz";
+
+/* (No Comment) */
+"_FunctionTitle_FamilySearchPaneName" = "FamilySearch";
+
+/* (No Comment) */
+"_FunctionTitle_FamilySearchPaneName_Abbreviation" = "FamilySearch";
+
+/* (No Comment) */
+"_FunctionTitle_FamilySearchTaskResults_PluralCount" = "%@ resultater";
+
+/* (No Comment) */
+"_FunctionTitle_FamilySearchTaskResults_SingularCount" = "%@ resultat";
+
+/* (No Comment) */
+"_FunctionTitle_FanChartPaneName" = "Viftediagram";
+
+/* (No Comment) */
+"_FunctionTitle_FanChartPaneName_Abbreviation" = "Vifte";
+
+/* (No Comment) */
+"_FunctionTitle_FavoritesFunctionsPlaceholder" = "Oversikt over favoritt-funksjoner";
+
+/* (No Comment) */
+"_FunctionTitle_FavoritesFunctionsPlaceholder_Abbreviation" = "Oversikt favoritter";
+
+/* (No Comment) */
+"_FunctionTitle_FractalCircularTreeChartPaneName" = "Sirkulært tre";
+
+/* (No Comment) */
+"_FunctionTitle_FractalCircularTreeChartPaneName_Abbreviation" = "Sirkulært";
+
+/* (No Comment) */
+"_FunctionTitle_FractalFractalTreeChartPaneName" = "Fraktalt tre";
+
+/* (No Comment) */
+"_FunctionTitle_FractalFractalTreeChartPaneName_Abbreviation" = "Fraktalt tre";
+
+/* (No Comment) */
+"_FunctionTitle_FractalHTreeChartPaneName" = "Fraktalt ane-H-tre";
+
+/* (No Comment) */
+"_FunctionTitle_FractalHTreeChartPaneName_Abbreviation" = "H-tre";
+
+/* (No Comment) */
+"_FunctionTitle_FractalHVTreeChartPaneName" = "Kvadratisk tre";
+
+/* (No Comment) */
+"_FunctionTitle_FractalHVTreeChartPaneName_Abbreviation" = "Kvadrat";
+
+/* (No Comment) */
+"_FunctionTitle_FractalSymmetricalTreeChartPaneName" = "Symmetrisk tre";
+
+/* (No Comment) */
+"_FunctionTitle_FractalSymmetricalTreeChartPaneName_Abbreviation" = "Symmetrisk";
+
+/* (No Comment) */
+"_FunctionTitle_GenogramChartPaneName" = "Genogram";
+
+/* (No Comment) */
+"_FunctionTitle_GenogramChartPaneName_Abbreviation" = "Genogram";
+
+/* (No Comment) */
+"_FunctionTitle_HourglassChartPaneName" = "Timeglassdiagram";
+
+/* (No Comment) */
+"_FunctionTitle_HourglassChartPaneName_Abbreviation" = "Timeglass";
+
+/* Function Names */
+"_FunctionTitle_InteractiveTreeEditPaneName" = "Interaktivt tre";
+
+/* Function Names Abbreviations */
+"_FunctionTitle_InteractiveTreeEditPaneName_Abbreviation" = "Interaktiv";
+
+/* (No Comment) */
+"_FunctionTitle_KinshipReportPaneName" = "Slektskapsrapport";
+
+/* (No Comment) */
+"_FunctionTitle_KinshipReportPaneName_Abbreviation" = "Slektskap";
+
+/* (No Comment) */
+"_FunctionTitle_LDSOrdinancesListReportPaneName" = "LDS-ordinanseliste";
+
+/* (No Comment) */
+"_FunctionTitle_ListReportsFunctionsPlaceholder" = "Oversikt listerapportfunksjoner";
+
+/* (No Comment) */
+"_FunctionTitle_ListReportsFunctionsPlaceholder_Abbreviation" = "Oversikt lister";
+
+/* (No Comment) */
+"_FunctionTitle_MapReportPaneName" = "Kartrapport";
+
+/* (No Comment) */
+"_FunctionTitle_MapReportPaneName_Abbreviation" = "Kart";
+
+/* (No Comment) */
+"_FunctionTitle_MapsDiagramPaneName" = "Statistikk-kart";
+
+/* (No Comment) */
+"_FunctionTitle_MapsDiagramPaneName_Abbreviation" = "Statistikk-kart";
+
+/* (No Comment) */
+"_FunctionTitle_MarriageListReportPaneName" = "Vielsesliste";
+
+/* (No Comment) */
+"_FunctionTitle_MarriageListReportPaneName_Abbreviation" = "Vielser";
+
+/* (No Comment) */
+"_FunctionTitle_Media_PluralCount" = "%@ medier";
+
+/* (No Comment) */
+"_FunctionTitle_Media_SingularCount" = "%@ medier";
+
+/* (No Comment) */
+"_FunctionTitle_MediaGalleryName" = "Mediegalleri";
+
+/* (No Comment) */
+"_FunctionTitle_MediaGalleryName_Abbreviation" = "Galleri";
+
+/* (No Comment) */
+"_FunctionTitle_MediaGalleryReportPaneName" = "Mediegallerirapport";
+
+/* (No Comment) */
+"_FunctionTitle_NarrativeReportPaneName" = "Biografi";
+
+/* (No Comment) */
+"_FunctionTitle_NarrativeReportPaneName_Abbreviation" = "Biografisk";
+
+/* (No Comment) */
+"_FunctionTitle_Person_PluralCount" = "%@ personer";
+
+/* Count Strings */
+"_FunctionTitle_Person_SingularCount" = "%@ person";
+
+/* (No Comment) */
+"_FunctionTitle_PersonAnalysisListReportPaneName" = "Personanalyse";
+
+/* (No Comment) */
+"_FunctionTitle_PersonAnalysisListReportPaneName_Abbreviation" = "Analyser";
+
+/* (No Comment) */
+"_FunctionTitle_PersonEventsReportPaneName" = "Personhendelsesrapport";
+
+/* (No Comment) */
+"_FunctionTitle_PersonEventsReportPaneName_Abbreviation" = "Personhendelser";
+
+/* (No Comment) */
+"_FunctionTitle_PersonGroup_PluralCount" = "%@ persongrupper";
+
+/* (No Comment) */
+"_FunctionTitle_PersonGroup_SingularCount" = "%@ persongruppe";
+
+/* (No Comment) */
+"_FunctionTitle_PersonGroupPaneName" = "Rediger persongrupper";
+
+/* (No Comment) */
+"_FunctionTitle_PersonGroupPaneName_Abbreviation" = "Grupper";
+
+/* (No Comment) */
+"_FunctionTitle_PersonListPaneName" = "Rediger personer";
+
+/* (No Comment) */
+"_FunctionTitle_PersonListPaneName_Abbreviation" = "Personer";
+
+/* (No Comment) */
+"_FunctionTitle_PersonListReportPaneName" = "Liste over personer";
+
+/* (No Comment) */
+"_FunctionTitle_PersonListReportPaneName_Abbreviation" = "Personer";
+
+/* (No Comment) */
+"_FunctionTitle_PersonReportPaneName" = "Personrapport";
+
+/* (No Comment) */
+"_FunctionTitle_PersonReportPaneName_Abbreviation" = "Person";
+
+/* (No Comment) */
+"_FunctionTitle_Place_PluralCount" = "%@ steder";
+
+/* (No Comment) */
+"_FunctionTitle_Place_SingularCount" = "%@ sted";
+
+/* (No Comment) */
+"_FunctionTitle_PlaceListPaneName" = "Rediger steder";
+
+/* (No Comment) */
+"_FunctionTitle_PlaceListPaneName_Abbreviation" = "Steder";
+
+/* (No Comment) */
+"_FunctionTitle_PlacesListReportPaneName" = "Stedsliste";
+
+/* (No Comment) */
+"_FunctionTitle_PlacesListReportPaneName_Abbreviation" = "Steder";
+
+/* (No Comment) */
+"_FunctionTitle_PlausibilityListReportPaneName" = "Plausibilitetsliste";
+
+/* (No Comment) */
+"_FunctionTitle_PlausibilityListReportPaneName_Abbreviation" = "Plausibilitet";
+
+/* (No Comment) */
+"_FunctionTitle_PublishFunctionsPlaceholder" = "Oversikt publiseringsfunksjoner";
+
+/* (No Comment) */
+"_FunctionTitle_PublishFunctionsPlaceholder_Abbreviation" = "Oversikt publiseringer";
+
+/* (No Comment) */
+"_FunctionTitle_RegisterReportPaneName" = "Registrer rapport";
+
+/* (No Comment) */
+"_FunctionTitle_RelationshipChartPaneName" = "Relasjons-diagram";
+
+/* (No Comment) */
+"_FunctionTitle_RelationshipChartPaneName_Abbreviation" = "Relasjoner";
+
+/* (No Comment) */
+"_FunctionTitle_RemoveSubtreePaneName" = "Fjern underliggende tre";
+
+/* (No Comment) */
+"_FunctionTitle_RemoveSubtreePaneName_Abbreviation" = "Fjern underliggende tre";
+
+/* (No Comment) */
+"_FunctionTitle_ReportsFunctionsPlaceholder" = "Oversikt rapportfunksjoner";
+
+/* (No Comment) */
+"_FunctionTitle_ReportsFunctionsPlaceholder_Abbreviation" = "Oversikt rapporter";
+
+/* (No Comment) */
+"_FunctionTitle_ResearchAssistantPaneName" = "Forskningsassistent";
+
+/* (No Comment) */
+"_FunctionTitle_ResearchAssistantPaneName_Abbreviation" = "Assistent";
+
+/* (No Comment) */
+"_FunctionTitle_SavedBook_PluralCount" = "%@ bøker";
+
+/* (No Comment) */
+"_FunctionTitle_SavedBook_SingularCount" = "%@ bok";
+
+/* (No Comment) */
+"_FunctionTitle_SavedChart_PluralCount" = "%@ lagrede diagrammer";
+
+/* (No Comment) */
+"_FunctionTitle_SavedChart_SingularCount" = "%@ lagret diagram";
+
+/* (No Comment) */
+"_FunctionTitle_SavedChartsPaneName" = "Lagrede diagrammer";
+
+/* (No Comment) */
+"_FunctionTitle_SavedChartsPaneName_Abbreviation" = "Lagrede diagrammer";
+
+/* (No Comment) */
+"_FunctionTitle_SavedReport_PluralCount" = "%@ lagrede rapporter";
+
+/* (No Comment) */
+"_FunctionTitle_SavedReport_SingularCount" = "%@ lagret rapport";
+
+/* (No Comment) */
+"_FunctionTitle_SavedReportsPaneName" = "Lagrede rapporter";
+
+/* (No Comment) */
+"_FunctionTitle_SavedReportsPaneName_Abbreviation" = "Lagrede rapporter";
+
+/* (No Comment) */
+"_FunctionTitle_SavedWebsite_PluralCount" = "%@ nettsider";
+
+/* (No Comment) */
+"_FunctionTitle_SavedWebsite_SingularCount" = "%@ nettsted";
+
+/* (No Comment) */
+"_FunctionTitle_SearchAndReplacePaneName" = "Søk og erstatt";
+
+/* (No Comment) */
+"_FunctionTitle_SearchPaneName" = "Søk";
+
+/* (No Comment) */
+"_FunctionTitle_SearchPaneName_Abbreviation" = "Søk";
+
+/* (No Comment) */
+"_FunctionTitle_SociogramChartPaneName" = "Sosiogram";
+
+/* (No Comment) */
+"_FunctionTitle_SociogramChartPaneName_Abbreviation" = "Sosiogram";
+
+/* (No Comment) */
+"_FunctionTitle_Source_PluralCount" = "%@ kilder";
+
+/* (No Comment) */
+"_FunctionTitle_Source_SingularCount" = "%@ kilde";
+
+/* (No Comment) */
+"_FunctionTitle_SourceListPaneName" = "Rediger kilder";
+
+/* (No Comment) */
+"_FunctionTitle_SourceListPaneName_Abbreviation" = "Kilder";
+
+/* (No Comment) */
+"_FunctionTitle_SourcesListReportPaneName" = "Kildeliste";
+
+/* (No Comment) */
+"_FunctionTitle_SourcesListReportPaneName_Abbreviation" = "Kilder";
+
+/* (No Comment) */
+"_FunctionTitle_StatisticsChartPaneName" = "Statistikk";
+
+/* (No Comment) */
+"_FunctionTitle_StatisticsChartPaneName_Abbreviation" = "Statistikk";
+
+/* (No Comment) */
+"_FunctionTitle_StatusReportPaneName" = "Statusrapport";
+
+/* (No Comment) */
+"_FunctionTitle_Story_PluralCount" = "%@ historier";
+
+/* (No Comment) */
+"_FunctionTitle_Story_SingularCount" = "%@ historie";
+
+/* (No Comment) */
+"_FunctionTitle_StoryPaneName" = "Rediger historier";
+
+/* (No Comment) */
+"_FunctionTitle_StoryPaneName_Abbreviation" = "Historier";
+
+/* (No Comment) */
+"_FunctionTitle_StoryReportPaneName" = "Historierapport";
+
+/* (No Comment) */
+"_FunctionTitle_StoryReportPaneName_Abbreviation" = "Historie";
+
+/* (No Comment) */
+"_FunctionTitle_TimelineChartPaneName" = "Tidslinje";
+
+/* (No Comment) */
+"_FunctionTitle_TimelineChartPaneName_Abbreviation" = "Tidslinje";
+
+/* (No Comment) */
+"_FunctionTitle_TimelineReportPaneName" = "Tidslinjerapport";
+
+/* (No Comment) */
+"_FunctionTitle_TodayReportPaneName" = "Rapport for i dag";
+
+/* (No Comment) */
+"_FunctionTitle_ToDo_PluralCount" = "%@ oppgaver";
+
+/* (No Comment) */
+"_FunctionTitle_ToDo_PluralCount_Overdue" = "%@ forsinket";
+
+/* (No Comment) */
+"_FunctionTitle_ToDo_SingularCount" = "%@ oppgave";
+
+/* (No Comment) */
+"_FunctionTitle_ToDo_SingularCount_Overdue" = "%@ forsinket";
+
+/* (No Comment) */
+"_FunctionTitle_ToDoListReportPaneName" = "Oppgaveliste";
+
+/* (No Comment) */
+"_FunctionTitle_ToDoListReportPaneName_Abbreviation" = "Oppgaver";
+
+/* (No Comment) */
+"_FunctionTitle_ToDosPaneName" = "Rediger oppgaveliste";
+
+/* (No Comment) */
+"_FunctionTitle_ToDosPaneName_Abbreviation" = "Oppgaver";
+
+/* (No Comment) */
+"_FunctionTitle_TreeChartPaneName" = "Komplett trediagram";
+
+/* (No Comment) */
+"_FunctionTitle_TreeChartPaneName_Abbreviation" = "Tre";
+
+/* (No Comment) */
+"_FunctionTitle_ViewsFunctionsPlaceholder" = "Oversikt visningsfunksjoner";
+
+/* (No Comment) */
+"_FunctionTitle_ViewsFunctionsPlaceholder_Abbreviation" = "Oversikt visninger";
+
+/* (No Comment) */
+"_FunctionTitle_VirtualGlobeChartPaneName_Abbreviation" = "Globus";
+
+/* (No Comment) */
+"_FunctionTitle_VirtualGlobePaneName" = "Virtuell globus";
+
+/* (No Comment) */
+"_FunctionTitle_VirtualTreeDiagramPaneName" = "Virtuelt tre";
+
+/* (No Comment) */
+"_FunctionTitle_VirtualTreeDiagramPaneName_Abbreviation" = "Virtuelt tre";
+
+/* (No Comment) */
+"_FunctionTitle_WebSearchPaneName" = "Nettsøk";
+
+/* (No Comment) */
+"_FunctionTitle_WebSearchPaneName_Abbreviation" = "Nettsøk";
+
+/* (No Comment) */
+"_FunctionTitle_WebSiteExportWebSitesPaneName" = "Nettsider";
+
+/* (No Comment) */
+"_FunctionTitle_WebSiteExportWebSitesPaneName_Abbreviation" = "Nettsider";
+
+/* (No Comment) */
+"_FunctionTitle_WebSitePaneName" = "Nettside";
+
+/* (No Comment) */
+"_FunctionTitle_WebSitePaneName_Abbreviation" = "Nettside";
+
+/* More Function */
+"_MoreFunctionPanesTitle" = "Mer…";
+
+/* (No Comment) */
+"_PaneCategory_Charts" = "Diagrammer";
+
+/* Categories */
+"_PaneCategory_Edit" = "Rediger";
+
+/* (No Comment) */
+"_PaneCategory_Favorites" = "Favoritter";
+
+/* (No Comment) */
+"_PaneCategory_ListReports" = "Lister";
+
+/* (No Comment) */
+"_PaneCategory_Publish" = "Publiser";
+
+/* (No Comment) */
+"_PaneCategory_Reports" = "Rapporter";
+
+/* (No Comment) */
+"_PaneCategory_View" = "Visninger";
+
+/* (No Comment) */
+"_PaneCategoryBaseFunction_Emphasized" = "Uthevet";
+
+/* (No Comment) */
+"_PaneCategoryBaseFunction_Emphasized_Explanation" = "Når en funksjon er uthevet, vises den godt synlig i startseksjonen for hver kategori.";
+
+/* PaneCategoryFunction Configuration User Interface */
+"_PaneCategoryBaseFunction_Enabled" = "Aktivert";
+
+/* (No Comment) */
+"_PaneCategoryBaseFunction_Enabled_Explanation" = "Her kan du bestemme om funksjonen skal være synlig som standard. Deaktivering vil fjerne funksjonen fra brukergrensesnittet, frem til du aktiverer det på nytt her.";
+
+/* (No Comment) */
+"_PaneCategoryBaseFunction_Favorite" = "Merk som favoritt";
+
+/* (No Comment) */
+"_PaneCategoryBaseFunction_Favorite_Explanation" = "Merk viktige funksjon som du bruker ofte, som favoritt. Deretter er disse enkelt og raskt tilgjengelige i kategorien «Favoritter».";
+
+/* (No Comment) */
+"_PaneCategoryBaseFunction_RemoveFromFavoritesButton" = "Fjern fra favoritter";
+

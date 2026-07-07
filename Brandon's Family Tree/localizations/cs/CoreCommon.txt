@@ -1,0 +1,837 @@
+﻿/* (No Comment) */
+"_Common_Accept" = "Přijmout";
+
+/* (No Comment) */
+"_Common_Actions" = "Akce";
+
+/* (No Comment) */
+"_Common_AddButton" = "Přidat";
+
+/* (No Comment) */
+"_Common_Age" = "Věk";
+
+/* (No Comment) */
+"_Common_AscendingSortOrder" = "Vzestupně";
+
+/* (No Comment) */
+"_Common_AssignButton" = "Přiřadit";
+
+/* (No Comment) */
+"_Common_Assigned_Entries" = "Přiřazené záznamy";
+
+/* (No Comment) */
+"_Common_Authority" = "Úřad";
+
+/* (No Comment) */
+"_Common_Back" = "Zpět";
+
+/* (No Comment) */
+"_Common_BackgroundColor" = "Barva pozadí";
+
+/* (No Comment) */
+"_Common_BirthDate" = "Datum narození";
+
+/* (No Comment) */
+"_Common_BirthPlace" = "Místo narození";
+
+/* (No Comment) */
+"_Common_Black" = "Černá";
+
+/* (No Comment) */
+"_Common_BrothersAndSisters" = "Sourozenci";
+
+/* (No Comment) */
+"_Common_CancelButton" = "Zrušit";
+
+/* (No Comment) */
+"_Common_Cause" = "Příčina";
+
+/* (No Comment) */
+"_Common_ChangeButton" = "Změnit";
+
+/* (No Comment) */
+"_Common_ChangeDate" = "Datum změny";
+
+/* (No Comment) */
+"_Common_Chart" = "Graf";
+
+/* (No Comment) */
+"_Common_Child" = "Potomek";
+
+/* (No Comment) */
+"_Common_ChildCountPlural" = "%d Děti";
+
+/* (No Comment) */
+"_Common_ChildCountPluralString" = "%@ potomci";
+
+/* (No Comment) */
+"_Common_ChildCountSingular" = "%d Dítě";
+
+/* (No Comment) */
+"_Common_ChildCountSingularString" = "%@ potomek";
+
+/* (No Comment) */
+"_Common_Children" = "Potomci";
+
+/* (No Comment) */
+"_Common_Childs" = "Potomci";
+
+/* (No Comment) */
+"_Common_ChristeningDate" = "Datum křtu";
+
+/* (No Comment) */
+"_Common_ChristeningPlace" = "Místo křtu";
+
+/* (No Comment) */
+"_Common_Citation_Notes" = "Poznámky citací";
+
+/* (No Comment) */
+"_Common_CloseButton" = "Zavřít";
+
+/* (No Comment) */
+"_Common_Color" = "Barva";
+
+/* (No Comment) */
+"_Common_Colors_Blue" = "Modrá";
+
+/* (No Comment) */
+"_Common_Colors_Green" = "Zelená";
+
+/* (No Comment) */
+"_Common_Colors_Magenta" = "Purpurová";
+
+/* (No Comment) */
+"_Common_Colors_Orange" = "Oranžová";
+
+/* Colors */
+"_Common_Colors_Red" = "Červená";
+
+/* (No Comment) */
+"_Common_Colors_Turquoise" = "Tyrkysová";
+
+/* (No Comment) */
+"_Common_Colors_Yellow" = "Žlutá";
+
+/* Keys */
+"_Common_CommandKey" = "⌘";
+
+/* Contextual */
+"_Common_ContextualMenu_ChangeLabel" = "Změnit štítek";
+
+/* (No Comment) */
+"_Common_ContinueButton" = "Pokračovat";
+
+/* (No Comment) */
+"_Common_ControlKey" = "CTRL";
+
+/* (No Comment) */
+"_Common_CopyButton" = "Kopírovat";
+
+/* (No Comment) */
+"_Common_Count" = "Počet";
+
+/* (No Comment) */
+"_Common_Country" = "Země";
+
+/* (No Comment) */
+"_Common_County" = "Okres";
+
+/* (No Comment) */
+"_Common_Create" = "Vytvořit";
+
+/* (No Comment) */
+"_Common_CreationDate" = "Datum vytvoření";
+
+/* (No Comment) */
+"_Common_Date" = "Datum";
+
+/* (No Comment) */
+"_Common_DeathDate" = "Datum úmrtí";
+
+/* (No Comment) */
+"_Common_DeathPlace" = "Místo úmrtí";
+
+/* (No Comment) */
+"_Common_Decline" = "Odmítnout";
+
+/* (No Comment) */
+"_Common_Default" = "Výchozí";
+
+/* (No Comment) */
+"_Common_DeleteAllButton" = "Smazat vše";
+
+/* (No Comment) */
+"_Common_DeleteButton" = "Smazat";
+
+/* (No Comment) */
+"_Common_DeleteWithObject" = "Smazat '%@'";
+
+/* (No Comment) */
+"_Common_DescendingSortOrder" = "Sestupně";
+
+/* (No Comment) */
+"_Common_Description" = "Popis";
+
+/* (No Comment) */
+"_Common_DisableButton" = "Zakázat";
+
+/* (No Comment) */
+"_Common_Discard" = "Zahodit";
+
+/* (No Comment) */
+"_Common_DisplayButton" = "Zobrazit";
+
+/* (No Comment) */
+"_Common_Done" = "Hotovo";
+
+/* (No Comment) */
+"_Common_DontAskAgainButton" = "Příště se již neptat";
+
+/* (No Comment) */
+"_Common_Download" = "Stáhnout";
+
+/* (No Comment) */
+"_Common_DuplicateButton" = "Duplikovat";
+
+/* (No Comment) */
+"_Common_Edit" = "Upravit";
+
+/* (No Comment) */
+"_Common_EditWithObject" = "Upravit '%@'";
+
+/* (No Comment) */
+"_Common_EnableButton" = "Povolit";
+
+/* (No Comment) */
+"_Common_Entries" = "Položky";
+
+/* (No Comment) */
+"_Common_EntryCountPlural" = "%d záznamy";
+
+/* (No Comment) */
+"_Common_EntryCountPluralString" = "%@ záznamy";
+
+/* (No Comment) */
+"_Common_EntryCountSingular" = "%d záznam";
+
+/* (No Comment) */
+"_Common_EntryCountSingularString" = "%@ záznam";
+
+/* (No Comment) */
+"_Common_Error" = "Chyba";
+
+/* Errors */
+"_Common_Errors_NoInternetConnection" = "Není k dispozici připojení k internetu";
+
+/* (No Comment) */
+"_Common_Event" = "Událost";
+
+/* (No Comment) */
+"_Common_EventCountPlural" = "%d událostí";
+
+/* (No Comment) */
+"_Common_EventCountSingular" = "%d událost";
+
+/* (No Comment) */
+"_Common_Events" = "Události";
+
+/* (No Comment) */
+"_Common_EventsAtThisPlace" = "Události v tomto místě";
+
+/* (No Comment) */
+"_Common_Example" = "Příklad";
+
+/* (No Comment) */
+"_Common_Export" = "Exportovat";
+
+/* (No Comment) */
+"_Common_Fact" = "Fakt";
+
+/* (No Comment) */
+"_Common_Facts" = "Fakta";
+
+/* (No Comment) */
+"_Common_Families" = "Rodiny";
+
+/* (No Comment) */
+"_Common_Family" = "Rodina";
+
+/* (No Comment) */
+"_Common_FamilyEvents" = "Rodinné události";
+
+/* (No Comment) */
+"_Common_FamilyTree" = "Rodokmen";
+
+/* (No Comment) */
+"_Common_Father" = "Otec";
+
+/* (No Comment) */
+"_Common_Favorite" = "Oblíbený";
+
+/* (No Comment) */
+"_Common_Favorites" = "Oblíbené";
+
+/* (No Comment) */
+"_Common_Female" = "Ženské";
+
+/* (No Comment) */
+"_Common_FirstName" = "Křestní jméno";
+
+/* (No Comment) */
+"_Common_FontStyle_Bold" = "Tučné";
+
+/* (No Comment) */
+"_Common_FontStyle_BoldItalic" = "Tučná kurzíva";
+
+/* (No Comment) */
+"_Common_FontStyle_Italic" = "Kurzíva";
+
+/* (No Comment) */
+"_Common_FontStyle_Light" = "Slabý";
+
+/* (No Comment) */
+"_Common_FontStyle_Medium" = "Střední";
+
+/* Font Styles */
+"_Common_FontStyle_Normal" = "Normální";
+
+/* (No Comment) */
+"_Common_FontStyle_SemiBold" = "Polotučný";
+
+/* Common */
+"_Common_Gender" = "Pohlaví";
+
+/* (No Comment) */
+"_Common_Generation" = "Generace";
+
+/* (No Comment) */
+"_Common_GenerationsPluralString" = "%d generací";
+
+/* (No Comment) */
+"_Common_GenerationsSingularString" = "%d generace";
+
+/* (No Comment) */
+"_Common_Generic" = "Obecný";
+
+/* (No Comment) */
+"_Common_Help" = "Pomoc";
+
+/* (No Comment) */
+"_Common_HideKeyboard" = "Skrýt klávesnici";
+
+/* (No Comment) */
+"_Common_IgnoreButton" = "Ignorovat";
+
+/* (No Comment) */
+"_Common_Image" = "Obrázek";
+
+/* (No Comment) */
+"_Common_ImportButton" = "Importovat";
+
+/* Localization */
+"_Common_InternationalLocalization" = "Mezinárodní";
+
+/* (No Comment) */
+"_Common_Intersex" = "Intersexuální";
+
+/* (No Comment) */
+"_Common_IsAssignedToFamilySearch" = "Je přiřazen k Family Search";
+
+/* (No Comment) */
+"_Common_IsBookmarked" = "Je uloženo do záložek";
+
+/* (No Comment) */
+"_Common_IsNotAssignedToFamilySearch" = "Není přiřazen k Family Search";
+
+/* (No Comment) */
+"_Common_IsNotBookmarked" = "Není uloženo do záložek";
+
+/* (No Comment) */
+"_Common_Label" = "Štítek";
+
+/* (No Comment) */
+"_Common_Labels" = "Štítky";
+
+/* (No Comment) */
+"_Common_LastName" = "Příjmení";
+
+/* (No Comment) */
+"_Common_LaterButton" = "Později";
+
+/* (No Comment) */
+"_Common_Link" = "Odkaz";
+
+/* (No Comment) */
+"_Common_LoginButton" = "Přihlásit se";
+
+/* (No Comment) */
+"_Common_LogoutButton" = "Odhlásit se";
+
+/* (No Comment) */
+"_Common_Male" = "Mužské";
+
+/* (No Comment) */
+"_Common_Man" = "Muž";
+
+/* (No Comment) */
+"_Common_MarkAsSeen" = "Označit jako prohlédnuté";
+
+/* (No Comment) */
+"_Common_Marriage" = "Sňatek";
+
+/* (No Comment) */
+"_Common_MarriageDate" = "Datum sňatku";
+
+/* (No Comment) */
+"_Common_MarriagePlace" = "Místo sňatku";
+
+/* (No Comment) */
+"_Common_Media" = "Média";
+
+/* (No Comment) */
+"_Common_MergeButton" = "Sloučit";
+
+/* (No Comment) */
+"_Common_MiddleName" = "Prostřední jméno";
+
+/* (No Comment) */
+"_Common_Mother" = "Matka";
+
+/* (No Comment) */
+"_Common_MultipleSelected" = "%d vybrané";
+
+/* (No Comment) */
+"_Common_Name" = "Jméno";
+
+/* (No Comment) */
+"_Common_NeverButton" = "Nikdy";
+
+/* (No Comment) */
+"_Common_NextButton" = "Další";
+
+/* (No Comment) */
+"_Common_No" = "Ne";
+
+/* (No Comment) */
+"_Common_NoChildrenPlaceholder" = "Bez dětí";
+
+/* (No Comment) */
+"_Common_NoConclusionTypesPlaceholder" = "Bez položek";
+
+/* (No Comment) */
+"_Common_NoDatePlaceholder" = "Bez data";
+
+/* Empty */
+"_Common_NoInformationEnteredTooltip" = "Nebyly zadány žádné informace";
+
+/* (No Comment) */
+"_Common_NoLabelsPlaceholder" = "Bez štítků";
+
+/* (No Comment) */
+"_Common_NoManPlaceholder" = "Bez muže";
+
+/* (No Comment) */
+"_Common_NoNameAvailable" = "Žádné jméno není k dispozici";
+
+/* (No Comment) */
+"_Common_None" = "Žádné";
+
+/* Selected Counts */
+"_Common_NoneSelected" = "Nic není vybráno";
+
+/* (No Comment) */
+"_Common_NoPartnerPlaceholder" = "Žádný partner";
+
+/* (No Comment) */
+"_Common_NoPersonGroupsPlaceholder" = "Žádné skupiny osob";
+
+/* Placeholders */
+"_Common_NoPersonPlaceholder" = "Žádná osoba";
+
+/* (No Comment) */
+"_Common_NoPlacePlaceholder" = "Bez místa";
+
+/* (No Comment) */
+"_Common_NoSourceTemplateKeysPlaceholder" = "Žádné pole šablony zdroje";
+
+/* (No Comment) */
+"_Common_Note" = "Poznámka";
+
+/* (No Comment) */
+"_Common_Notes" = "Poznámky";
+
+/* (No Comment) */
+"_Common_NothingToSelected" = "Nic k výběru";
+
+/* (No Comment) */
+"_Common_Now" = "Dnes";
+
+/* (No Comment) */
+"_Common_NoWomanPlaceholder" = "Bez ženy";
+
+/* (No Comment) */
+"_Common_NumberingSystem" = "Systém číslování";
+
+/* Buttons */
+"_Common_OKButton" = "OK";
+
+/* (No Comment) */
+"_Common_OKDontAskAgainButton" = "V pořádku. Příště se již nedotazovat.";
+
+/* (No Comment) */
+"_Common_OneSelected" = "Jeden vybraný";
+
+/* (No Comment) */
+"_Common_OpenButton" = "Otevřít";
+
+/* (No Comment) */
+"_Common_OpenInBrowser" = "Otevřít v prohlížeči";
+
+/* (No Comment) */
+"_Common_OptionsButton" = "Volby";
+
+/* (No Comment) */
+"_Common_Order" = "Pořadí";
+
+/* (No Comment) */
+"_Common_OtherNames" = "Další jména";
+
+/* (No Comment) */
+"_Common_Others" = "Ostatní";
+
+/* (No Comment) */
+"_Common_Page" = "Stránka";
+
+/* (No Comment) */
+"_Common_Parent1" = "Rodič 1";
+
+/* (No Comment) */
+"_Common_Parent2" = "Rodič 2";
+
+/* (No Comment) */
+"_Common_Parents" = "Rodiče";
+
+/* (No Comment) */
+"_Common_Partner" = "Partner";
+
+/* (No Comment) */
+"_Common_Partner1" = "Partner č. 1";
+
+/* (No Comment) */
+"_Common_Partner2" = "Partner č. 2";
+
+/* (No Comment) */
+"_Common_Partners" = "Partneři";
+
+/* (No Comment) */
+"_Common_Person" = "Osoba";
+
+/* (No Comment) */
+"_Common_PersonCountPlural" = "%d osoby";
+
+/* (No Comment) */
+"_Common_PersonCountPluralString" = "%@ osoby";
+
+/* Counts */
+"_Common_PersonCountSingular" = "%d osoba";
+
+/* (No Comment) */
+"_Common_PersonCountSingularString" = "%@ osoba";
+
+/* Events & Facts */
+"_Common_PersonEvents" = "Osobní události";
+
+/* (No Comment) */
+"_Common_PersonFacts" = "Osobní fakta";
+
+/* (No Comment) */
+"_Common_Persons" = "Osoby";
+
+/* (No Comment) */
+"_Common_Picture" = "Obrázek";
+
+/* (No Comment) */
+"_Common_Pictures" = "Fotografie";
+
+/* (No Comment) */
+"_Common_Place" = "Místo";
+
+/* (No Comment) */
+"_Common_PlaceDetail" = "Detail místa";
+
+/* (No Comment) */
+"_Common_Places" = "Místa";
+
+/* (No Comment) */
+"_Common_PleaseWaitPlaceholder" = "Počkejte prosím…";
+
+/* Population Prefix */
+"_Common_Population" = "Populace: %@";
+
+/* (No Comment) */
+"_Common_PrefixName" = "Titul";
+
+/* (No Comment) */
+"_Common_PreviousButton" = "Předchozí";
+
+/* (No Comment) */
+"_Common_Print" = "Tisknout";
+
+/* Progress Counts */
+"_Common_ProgressCount" = "%d z %d";
+
+/* (No Comment) */
+"_Common_ProgressCountAsString" = "%@ z %@";
+
+/* (No Comment) */
+"_Common_QuitButton" = "Ukončit";
+
+/* (No Comment) */
+"_Common_ReferenceNumber" = "Referenční číslo";
+
+/* (No Comment) */
+"_Common_RejectButton" = "Odmítnout";
+
+/* (No Comment) */
+"_Common_RemoveButton" = "Odebrat";
+
+/* (No Comment) */
+"_Common_RenameButton" = "Přejmenovat";
+
+/* (No Comment) */
+"_Common_ReplaceButton" = "Nahradit";
+
+/* (No Comment) */
+"_Common_ResetButton" = "Resetovat";
+
+/* (No Comment) */
+"_Common_RetryButton" = "Zkusit znovu";
+
+/* (No Comment) */
+"_Common_Save" = "Uložit";
+
+/* (No Comment) */
+"_Common_SaveButton" = "Uložit";
+
+/* (No Comment) */
+"_Common_Search" = "Hledat";
+
+/* (No Comment) */
+"_Common_Search_Clear" = "Vymazat";
+
+/* (No Comment) */
+"_Common_Search_Menu_Title" = "Hledat v menu";
+
+/* (No Comment) */
+"_Common_Search_Options" = "Možnosti hledání...";
+
+/* (No Comment) */
+"_Common_Search_Recent" = "Poslední hledání";
+
+/* (No Comment) */
+"_Common_Section" = "Sekce";
+
+/* (No Comment) */
+"_Common_SelectButton" = "Vybrat";
+
+/* (No Comment) */
+"_Common_Settings" = "Nastavení";
+
+/* (No Comment) */
+"_Common_SkipButton" = "Přeskočit";
+
+/* (No Comment) */
+"_Common_Sorting_ByBirthDate" = "Podle data narození";
+
+/* (No Comment) */
+"_Common_Sorting_ByBirthPlace" = "Podle místa narození";
+
+/* (No Comment) */
+"_Common_Sorting_ByDate" = "Podle data";
+
+/* (No Comment) */
+"_Common_Sorting_ByDeathDate" = "Podle data úmrtí";
+
+/* (No Comment) */
+"_Common_Sorting_ByDeathPlace" = "Podle místa úmrtí";
+
+/* (No Comment) */
+"_Common_Sorting_ByFirstName" = "Podle křestního jména";
+
+/* (No Comment) */
+"_Common_Sorting_ByLastName" = "Podle příjmení";
+
+/* Sorting */
+"_Common_Sorting_ByName" = "Podle jména";
+
+/* (No Comment) */
+"_Common_Sorting_ByScore" = "Podle skóre";
+
+/* (No Comment) */
+"_Common_Source" = "Zdroj";
+
+/* (No Comment) */
+"_Common_SourceCitationsPlural" = "%d citací";
+
+/* (No Comment) */
+"_Common_SourceCitationsPluralString" = "%@ citací";
+
+/* (No Comment) */
+"_Common_SourceCitationsSingular" = "%d citace";
+
+/* (No Comment) */
+"_Common_SourceCitationsSingularString" = "%@ citace";
+
+/* (No Comment) */
+"_Common_Sources" = "Zdroje";
+
+/* (No Comment) */
+"_Common_State" = "Stát";
+
+/* (No Comment) */
+"_Common_StopSharingButton" = "Zastavit sdílení";
+
+/* (No Comment) */
+"_Common_SuffixName" = "Titul za";
+
+/* (No Comment) */
+"_Common_Text" = "Text";
+
+/* (No Comment) */
+"_Common_Title" = "Titul";
+
+/* (No Comment) */
+"_Common_ToDo" = "Úkol";
+
+/* (No Comment) */
+"_Common_ToDos" = "Úkoly";
+
+/* (No Comment) */
+"_Common_Toggle" = "Přepnout vše";
+
+/* (No Comment) */
+"_Common_Type" = "Typ";
+
+/* (No Comment) */
+"_Common_Unknown" = "Neznámý";
+
+/* (No Comment) */
+"_Common_UnknownGender" = "Neznámé pohlaví";
+
+/* (No Comment) */
+"_Common_UnknownPerson" = "Neznámá osoba";
+
+/* (No Comment) */
+"_Common_Unlimited" = "Neomezeně";
+
+/* (No Comment) */
+"_Common_UnnamedChart" = "Nepojmenovaný graf";
+
+/* (No Comment) */
+"_Common_UnnamedFamily" = "Nepojmenovaná rodina";
+
+/* (No Comment) */
+"_Common_UnnamedLabel" = "Nepojmenovaný štítek";
+
+/* (No Comment) */
+"_Common_UnnamedMedia" = "Nepojmenované médium";
+
+/* (No Comment) */
+"_Common_UnnamedPerson" = "Osoba bez jména";
+
+/* (No Comment) */
+"_Common_UnnamedPersonGroup" = "Nepojmenovaná skupina osob";
+
+/* (No Comment) */
+"_Common_UnnamedPlace" = "Místo bez názvu";
+
+/* (No Comment) */
+"_Common_UnnamedPlaceDetail" = "Nepojmenovaný detail místa";
+
+/* (No Comment) */
+"_Common_UnnamedPlaceTemplate" = "Nepojmenovaná šablona místa";
+
+/* (No Comment) */
+"_Common_UnnamedPlaceTemplateKey" = "Nepojmenované pole šablony";
+
+/* (No Comment) */
+"_Common_UnnamedSource" = "Nepojmenovaný zdroj";
+
+/* (No Comment) */
+"_Common_UnnamedSourceRepository" = "Nepojmenovaný repozitář zdrojů";
+
+/* (No Comment) */
+"_Common_UnnamedSourceTemplate" = "Nepojmenovaná šablona zdroje";
+
+/* (No Comment) */
+"_Common_UnnamedSourceTemplateKey" = "Nepojmenované pole šablony";
+
+/* (No Comment) */
+"_Common_UnnamedStory" = "Nepojmenovaný příběh";
+
+/* (No Comment) */
+"_Common_UnnamedStorySection" = "Sekce nepojmenovaného příběhu";
+
+/* (No Comment) */
+"_Common_UnnamedTitle" = "Beze jména";
+
+/* (No Comment) */
+"_Common_UnnamedToDo" = "Nepojmenovaný úkol";
+
+/* (No Comment) */
+"_Common_UpdateButton" = "Aktualizovat";
+
+/* (No Comment) */
+"_Common_UploadButton" = "Nahrát";
+
+/* (No Comment) */
+"_Common_Value" = "Hodnota";
+
+/* (No Comment) */
+"_Common_Version" = "Verze";
+
+/* (No Comment) */
+"_Common_White" = "Bílá";
+
+/* (No Comment) */
+"_Common_Width" = "Šířka";
+
+/* (No Comment) */
+"_Common_Woman" = "Žena";
+
+/* (No Comment) */
+"_Common_Year" = "Rok";
+
+/* (No Comment) */
+"_Common_Years" = "Roky";
+
+/* (No Comment) */
+"_Common_Yes" = "Ano";
+
+/* (No Comment) */
+"_Person_NameFormat_FirstName_MiddleName_LastName_Suffix_Comma_Title" = "\"Křestní jméno\" \"Prostřední jméno\" \"Příjmení\" Titul za jménem, Titul";
+
+/* (No Comment) */
+"_Person_NameFormat_LastName_Comma_FirstName_Comma_MiddleName_Comma_Suffix_Comma_Title" = "\"Příjmení\", \"Křestní jméno\", \"Prostřední jméno\", Titul za jménem, Titul";
+
+/* (No Comment) */
+"_Person_NameFormat_LastName_Suffix_Comma_FirstName_MiddleName_Comma_Title" = "\"Příjmení\" Titul za jménem, \"Křestní jméno\" \"Prostřední jméno\", Titul";
+
+/* (No Comment) */
+"_Person_NameFormat_Title_Comma_FirstName_Suffix_Bracket_MiddleName_Bracket" = "Titul \"Příjmení\", \"Křestní jméno\" Titul za jménem (\"Prostřední jméno\")";
+
+/* (No Comment) */
+"_Person_NameFormat_Title_FirstName_Comma_LastName_Comma_MiddleName_Comma_Suffix" = "Titul \"Křestní jméno\", \"Příjmení\", \"Prostřední jméno\", Titul za jménem";
+
+/* Person Name Formats */
+"_Person_NameFormat_Title_FirstName_MiddleName_LastName_Suffix" = "Titul \"Křestní jméno\" \"Prostřední jméno\" \"Příjmení\" Titul za jménem";
+
+/* (No Comment) */
+"_Person_NameFormat_Title_LastName_MiddleName_FirstName_Suffix" = "Titul \"Příjmení\" \"Prostřední jméno\" \"Křestní jméno\" Titul za jménem";
+
+/* (No Comment) */
+"_Person_NameFormat_Title_LastName_Suffix_Comma_FirstName_MiddleName" = "Titul \"Příjmení\" Titul za jménem, \"Křestní jméno\" \"Prostřední jméno\"";
+
+/* (No Comment) */
+"_Person_NameFormat_Title_LastName_Suffix_FirstName_MiddleName" = "Titul \"Příjmení\" Titul za jménem \"Křestní jméno\" \"Prostřední jméno\"";
+

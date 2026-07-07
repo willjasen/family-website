@@ -1,0 +1,1707 @@
+﻿/* (No Comment) */
+"_BaseEditController_DeleteBaseObjectQuestionInformative" = "Opravdu chcete odstranit tento záznam ze svého rodokmenu?";
+
+/* (No Comment) */
+"_BaseEditController_DeleteBaseObjectQuestionMessage" = "Smazat '%@'?";
+
+/* (No Comment) */
+"_BaseEditController_DeletePersonQuestionInformative" = "Opravdu chcete tuto osobu smazat ze svého rodokmenu?";
+
+/* BaseEditController */
+"_BaseEditController_DeletePersonQuestionMessage" = "Smazat osobu '%@'?";
+
+/* (No Comment) */
+"_BaseEditController_ManuallyAddPlaceDetailInformative" = "Prosím zadejte název nového detailu místa '%@'";
+
+/* (No Comment) */
+"_BaseEditController_ManuallyAddPlaceDetailTitle" = "Ručně přidat detail místa";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_AddEventButton" = "Přidat událost";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_AgeAtEvent" = "Věk v době události";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_CopyEventToPersonMenuItem" = "Kopírovat událost k osobě...";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_CreateStoryFromEventMenuItem" = "Vytvořit příběh pro událost";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_DeadButNoFurtherInfoCheckbox" = "Označit osobu jako zesnulou, ale další informace nejsou k dispozici";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_DeleteEvent" = "Smazat událost";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_EditEventDetails" = "Upravit podrobnosti události";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_EditFamilyEventConclusionTypes" = "Upravit typy rodinných událostí...";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_EditFamilyMenuItem" = "Upravit rodinu %@";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_EditPersonEventConclusionTypes" = "Upravit typy osobních událostí...";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_EditPlaceDetails" = "Upravit detaily místa…";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_EventPlaceholder" = "%@ – zde zadejte informace";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_FamilyEventPlaceholder" = "%@ s %@ – zde zadejte informace";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_FurtherOptionsButton" = "Další možnosti...";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_LargePlaceholder" = "Nejsou k dispozici žádné události";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_LookupNewPlaceDetail" = "Vyhledat nový detail místa…";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_ManuallyAddPlaceDetail" = "Ručně přidat nový detail místa…";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_MarriedButNoFurtherInfoCheckbox" = "Označit pár jako sezdaný, ale další informace nejsou k dispozici";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_NoDateAvailable" = "Nebylo zadáno žádné datum";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_NoNotesPlaceholder" = "Nebyly vloženy žádné poznámky";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_NoPlacePlaceholder" = "Nebylo vloženo žádné místo";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_NoSourcesPlaceholder" = "Nejsou k dispozici žádné zdroje";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_SmallPlaceholder" = "Pro přidání nové události použijte tlačítko výše.";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_Sorting_ByDate" = "Podle data události";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_Sorting_ByDescription" = "Podle popisu";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_Sorting_ByTypeAndDate" = "Podle typu a data události";
+
+/* (No Comment) */
+"_BaseEditEventsContentController_Sorting_ByTypeName" = "Podle názvu typu události";
+
+/* Shared Base Events */
+"_BaseEditEventsContentController_Title" = "Události";
+
+/* BaseEditHeaderContentController */
+"_BaseEditHeaderContentController_Title" = "Hlavička";
+
+/* (No Comment) */
+"_BaseEditListContentController_SortAscending" = "Vzestupně";
+
+/* (No Comment) */
+"_BaseEditListContentController_SortDescending" = "Sestupně";
+
+/* BaseEditListContentController */
+"_BaseEditListContentController_SortingButton" = "Řazení";
+
+/* (No Comment) */
+"_BaseEditPlaceLinksContentController_OtherLanguagesButton" = "Další jazyky…";
+
+/* (No Comment) */
+"_BaseEditPlaceLinksContentController_ShowArticleButton" = "Zobrazit článek";
+
+/* (No Comment) */
+"_BaseReferencedEntriesListContentController_EditFamilyEventMenuItem" = "Upravit rodinnou událost '%@'";
+
+/* (No Comment) */
+"_BaseReferencedEntriesListContentController_EditFamilyMenuItem" = "Upravit rodinu '%@'";
+
+/* (No Comment) */
+"_BaseReferencedEntriesListContentController_EditPersonEventMenuItem" = "Upravit osobní událost '%@'";
+
+/* BaseReferencedEntriesListContentController */
+"_BaseReferencedEntriesListContentController_EditPersonMenuItem" = "Upravit osobu '%@'";
+
+/* (No Comment) */
+"_Column_aboveMainFullWidth_0" = "Hlavní oblast";
+
+/* (No Comment) */
+"_Column_main_0" = "Vlevo";
+
+/* (No Comment) */
+"_Column_main_1" = "Vpravo";
+
+/* (No Comment) */
+"_Column_main_256" = "Postranní panel";
+
+/* (No Comment) */
+"_Column_parents_0" = "Levá strana";
+
+/* (No Comment) */
+"_Column_parents_1" = "Pravá strana";
+
+/* (No Comment) */
+"_Column_top_0" = "Hlavní oblast";
+
+/* Common */
+"_CommonEdit_NoLabelsAssignedPlaceholder" = "Nejsou přiřazeny žádné štítky";
+
+/* (No Comment) */
+"_DatabaseChangesController_DeleteChangeLogEntryMessage" = "Opravdu chcete smazat záznam ze seznamu změn?";
+
+/* (No Comment) */
+"_DatabaseChangesController_PurgeAllChangesInformative" = "Potvrďte prosím, zda chcete smazat všechny položky seznamu změn z vašeho rodokmenu.";
+
+/* (No Comment) */
+"_DatabaseChangesController_PurgeAllChangesInformativeWithDate" = "Potvrďte prosím, zda chcete smazat všechny položky v seznamu změn provedené před %@.";
+
+/* DatabaseChangesController */
+"_DatabaseChangesController_PurgeAllChangesMessage" = "Opravdu vymazat seznam změn? Tuto akci nelze odvolat.";
+
+/* (No Comment) */
+"_DatabaseChangesController_PurgeAllChangesOfDeletedEntriesInformative" = "Potvrďte prosím, zda chcete smazat všechny položky seznamu změn odkazující na smazané osoby, rodiny atd.";
+
+/* (No Comment) */
+"_DatabaseChangesController_PurgeAllChangesOfDeletedEntriesMessage" = "Opravdu vymazat seznam změn pro smazané položky? Tuto akci nelze odvolat.";
+
+/* (No Comment) */
+"_DatabaseChangesController_PurgeButton" = "Vymazat seznam změn";
+
+/* (No Comment) */
+"_EditAssociateRelationGeneralController_Source" = "Zdroj";
+
+/* (No Comment) */
+"_EditAssociateRelationGeneralController_Target" = "Cíl";
+
+/* EditAssociateRelationGeneralController */
+"_EditAssociateRelationGeneralController_Title" = "Obecné";
+
+/* (No Comment) */
+"_EditAssociatesContentController_AddAssociatedPersonButton" = "Přidat vlivnou osobu";
+
+/* (No Comment) */
+"_EditAssociatesContentController_AddExistingFamilyAsAssociate" = "Přidat existující rodinu jako vlivnou rodinu";
+
+/* (No Comment) */
+"_EditAssociatesContentController_AddExistingPersonAsAssociate" = "Přidat již existující osobu jako vlivnou osobu";
+
+/* (No Comment) */
+"_EditAssociatesContentController_AddNewFamilyAsAssociate" = "Přidat novou vlivnou rodinu";
+
+/* (No Comment) */
+"_EditAssociatesContentController_AddNewPersonAsAssociate" = "Přidat novou vlivnou osobu";
+
+/* (No Comment) */
+"_EditAssociatesContentController_EditAssociateRelationConclusionTypes" = "Upravit typy vlivných vztahů…";
+
+/* (No Comment) */
+"_EditAssociatesContentController_LargePlaceholder" = "Nejsou k dispozici žádné vlivné osoby";
+
+/* (No Comment) */
+"_EditAssociatesContentController_RemoveAssociateButton" = "Odebrat vlivnou osobu";
+
+/* (No Comment) */
+"_EditAssociatesContentController_RemoveAssociateRelationInformative" = "Tato volba neodstraní osobu z vašeho rodokmenu, ale pouze vztah k této osobě.";
+
+/* (No Comment) */
+"_EditAssociatesContentController_RemoveAssociateRelationMessage" = "Opravdu chcete odebrat vztah k '%@'?";
+
+/* (No Comment) */
+"_EditAssociatesContentController_SmallPlaceholder" = "Pro přidání vlivných osob, jako jsou např. kmotři, použijte tlačítko výše";
+
+/* EditAssociatesContentController */
+"_EditAssociatesContentController_Title" = "Vlivné osoby";
+
+/* (No Comment) */
+"_EditBookmarkContentController_OtherBookmarkedEntries_BaseMedia" = "Média";
+
+/* (No Comment) */
+"_EditBookmarkContentController_OtherBookmarkedEntries_Family" = "Rodiny";
+
+/* (No Comment) */
+"_EditBookmarkContentController_OtherBookmarkedEntries_Person" = "Osoby";
+
+/* (No Comment) */
+"_EditBookmarkContentController_OtherBookmarkedEntries_Place" = "Místa";
+
+/* (No Comment) */
+"_EditBookmarkContentController_OtherBookmarkedEntries_Source" = "Zdroje";
+
+/* EditBookmarkContentController */
+"_EditBookmarkContentController_Title" = "Záložky";
+
+/* Common */
+"_EditCommon_PrivateFlagLabel" = "Soukromé";
+
+/* (No Comment) */
+"_EditCreationAndChangeDateContentController_ChangeDate" = "Datum změny";
+
+/* (No Comment) */
+"_EditCreationAndChangeDateContentController_CreationDate" = "Datum vytvoření";
+
+/* EditCreationAndChangeDateContentController */
+"_EditCreationAndChangeDateContentController_Title" = "Naposledy upraveno";
+
+/* (No Comment) */
+"_EditDNATestResultATDNARawDataContentController_DataPresentString" = "Surová data pro atDNA byla uložena, velikost souboru: %@";
+
+/* EditDNATestResultATDNARawDataContentController */
+"_EditDNATestResultATDNARawDataContentController_Title" = "Surová atDNA data";
+
+/* EditDNATestResultBaseMTDNARegionSNPDifferencesContentController */
+"_EditDNATestResultBaseMTDNARegionSNPDifferencesContentController_AddMarkerButton" = "Přidat marker";
+
+/* (No Comment) */
+"_EditDNATestResultBaseMTDNARegionSNPDifferencesContentController_LargePlaceholder" = "Nejsou vloženy žádné markery";
+
+/* (No Comment) */
+"_EditDNATestResultBaseMTDNARegionSNPDifferencesContentController_SmallPlaceholder" = "Pro přidání značek použijte tlačítko výše";
+
+/* (No Comment) */
+"_EditDNATestResultBaseRawDataContentController_AddDataButton" = "Přidat data";
+
+/* (No Comment) */
+"_EditDNATestResultBaseRawDataContentController_DeleteDNARawDataInformative" = "Opravdu chcete smazat surová data DNA spojená s tímto testem?";
+
+/* (No Comment) */
+"_EditDNATestResultBaseRawDataContentController_DeleteDNARawDataMessage" = "Opravdu smazat data DNA?";
+
+/* EditDNATestResultBaseRawDataContentController */
+"_EditDNATestResultBaseRawDataContentController_LargePlaceholder" = "Nebyla přidána žádná surová data DNA";
+
+/* (No Comment) */
+"_EditDNATestResultBaseRawDataContentController_SelectFileMessage" = "Vyberte soubor, který chcete uložit jako surová data DNA";
+
+/* (No Comment) */
+"_EditDNATestResultBaseRawDataContentController_SmallPlaceholder" = "Pro přidání surových dat DNA použijte tlačítko výše";
+
+/* (No Comment) */
+"_EditDNATestResultController_Title" = "Výsledek testu DNA";
+
+/* (No Comment) */
+"_EditDNATestResultGeneralContentController_NoNameEnteredPlaceholder" = "Nebyl zadán žádný název testu";
+
+/* EditDNATestResultGeneralContentController */
+"_EditDNATestResultGeneralContentController_Title" = "Obecné";
+
+/* (No Comment) */
+"_EditDNATestResultMTDNAGeneralInformationContentController_NoHaplogroupPlaceholder" = "Není zadána žádná haploskupina";
+
+/* EditDNATestResultMTDNAGeneralInformationContentController */
+"_EditDNATestResultMTDNAGeneralInformationContentController_Title" = "Informace mtDNA";
+
+/* (No Comment) */
+"_EditDNATestResultMTDNARawDataContentController_DataPresentString" = "Surová data pro mtDNA byla uložena, velikost souboru: %@";
+
+/* EditDNATestResultMTDNARawDataContentController */
+"_EditDNATestResultMTDNARawDataContentController_Title" = "Surová mtDNA data";
+
+/* EditDNATestResultMTNDNACodingRegionSNPDifferencesContentController */
+"_EditDNATestResultMTNDNACodingRegionSNPDifferencesContentController_Title" = "Rozdíly mtDNA Coding Region SNP";
+
+/* EditDNATestResultMTNDNAHVR1SNPDifferencesContentController */
+"_EditDNATestResultMTNDNAHVR1SNPDifferencesContentController_Title" = "Rozdíly mtDNA HVR1 SNP";
+
+/* EditDNATestResultMTNDNAHVR2SNPDifferencesContentController */
+"_EditDNATestResultMTNDNAHVR2SNPDifferencesContentController_Title" = "Rozdíly mtDNA HVR2 SNP";
+
+/* (No Comment) */
+"_EditDNATestResultYDNAGeneralInformationContentController_NoHaplogroupPlaceholder" = "Není zadána žádná haploskupina";
+
+/* EditDNATestResultYDNAGeneralInformationContentController */
+"_EditDNATestResultYDNAGeneralInformationContentController_Title" = "Informace Y-DNA";
+
+/* (No Comment) */
+"_EditDNATestResultYDNARawDataContentController_DataPresentString" = "Surová data pro Y-DNA byla uložena, velikost souboru: %@";
+
+/* EditDNATestResultYDNARawDataContentController */
+"_EditDNATestResultYDNARawDataContentController_Title" = "Surová Y-DNA data";
+
+/* (No Comment) */
+"_EditDNATestResultYDNASTRMarkerListContentController_AddMarkerButton" = "Přidat marker";
+
+/* (No Comment) */
+"_EditDNATestResultYDNASTRMarkerListContentController_LargePlaceholder" = "Nebyly vloženy žádné markery Y-DNA STR";
+
+/* (No Comment) */
+"_EditDNATestResultYDNASTRMarkerListContentController_SmallPlaceholder" = "Pomocí tlačítka výše přidejte markery Y-DNA STR";
+
+/* EditDNATestResultYDNASTRMarkerListContentController */
+"_EditDNATestResultYDNASTRMarkerListContentController_Title" = "Y-DNA STR markery";
+
+/* EditEventGeneralContentController */
+"_EditEventGeneralContentController_Title" = "Obecné";
+
+/* (No Comment) */
+"_EditEventPlaceContentController_AssignPlace" = "Přiřadit místo";
+
+/* (No Comment) */
+"_EditEventPlaceContentController_LargePlaceholder" = "Není přiřazeno žádné místo";
+
+/* (No Comment) */
+"_EditEventPlaceContentController_SelectExistingPlace" = "Vybrat místo";
+
+/* (No Comment) */
+"_EditEventPlaceContentController_ShowPlace" = "Zobrazit místo";
+
+/* (No Comment) */
+"_EditEventPlaceContentController_SmallPlaceholder" = "K této události nebylo přiřazeno žádné místo. Pomocí tlačítka výše můžete přiřadit existující nebo vyhledat nové místo";
+
+/* EditEventPlaceContentController */
+"_EditEventPlaceContentController_Title" = "Místo";
+
+/* (No Comment) */
+"_EditEventPlaceController_FieldsHint" = "Zadejte informace o tomto místě do polí níže. Pokud potřebujete jiná pole, zvažte výběr jiné šablony místa nebo přidání polí do šablony místa.";
+
+/* EditEventPlaceController */
+"_EditEventPlaceController_TemplateHint" = "Vyberte šablonu místa pro toto místo pomocí tlačítka níže. Pokud není k dispozici žádná vhodná šablona, ​​použijte k vytvoření nové šablony možnost „Upravit šablony“.";
+
+/* EditEventPlaceDetailContentController */
+"_EditEventPlaceDetailContentController_Title" = "Detail místa";
+
+/* EditEventPlace */
+"_EditEventPlaceSheetLookupNewPlaceSection_Title" = "Vyhledat nové místo";
+
+/* (No Comment) */
+"_EditEventPlaceSheetManualEnterPlaceSection_Title" = "Ručně zadat místo";
+
+/* (No Comment) */
+"_EditEventPlaceSheetManualEnterPlaceSection_TitleReplace" = "Ručně upravit místo";
+
+/* (No Comment) */
+"_EditEventPlaceSheetSelectExistingPlaceSection_Title" = "Vybrat existující místo";
+
+/* (No Comment) */
+"_EditEventPlaceSheetSelectExistingPlaceSection_TitleReplace" = "Nahradit existujícím místem";
+
+/* (No Comment) */
+"_EditEventPlaceViewController_EditPlace" = "Upravit místo";
+
+/* (No Comment) */
+"_EditEventPlaceViewController_JustLookUpCoordinate" = "Pouze vyhledat souřadnice";
+
+/* (No Comment) */
+"_EditEventPlaceViewController_RemoveCurrentPlace" = "Odebrat současné místo";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_AddExistingManButton" = "Přidat existujícího muže";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_AddExistingWomanButton" = "Přidat existující ženu";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_AddNewManButton" = "Přidat nového muže";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_AddNewWomanButton" = "Přidat novou ženu";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_EditParentButton" = "Upravit";
+
+/* EditFamilyController */
+"_EditFamilyBaseEditParentContentController_NoManPlaceholder" = "Do této rodiny nebyl přidán žádný muž. Chcete-li do této rodiny přidat nového nebo stávajícího muže, použijte tlačítka níže.";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_NoWomanPlaceholder" = "Do této rodiny nebyla přidána žádná žena. Chcete-li do této rodiny přidat novou nebo stávající ženu, použijte tlačítka níže.";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_RemoveAsManButton" = "Odebrat jako muže";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_RemoveAsPartner1Button" = "Odebrat jako partnera č. 1";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_RemoveAsPartner2Button" = "Odebrat jako partnera č. 2";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_RemoveAsWomanButton" = "Odebrat jako ženu";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_RemoveFromFamilyInformative" = "Opravdu chcete tohoto rodiče odebrat z této rodiny? Rodič nebude smazán, ale již nebude součástí této rodiny.";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_RemoveFromFamilyMessage" = "Odebrat rodiče '%@'?";
+
+/* (No Comment) */
+"_EditFamilyBaseEditParentContentController_ShowParentButton" = "Zobrazit";
+
+/* EditFamilyChildContentController */
+"_EditFamilyChildContentController_Title" = "Potomci";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_AddChildTopLevelButton" = "Přidat potomka";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_AddExistingChildButton" = "Přidat existujícího potomka";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_AddNewChildButton" = "Přidat nového potomka";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_ChildOrder" = "Potomek #%d";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_ChildOrderPopup" = "Vlastní pořadí potomků";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_DeleteChildRelationInformative" = "Opravdu chcete odebrat tohoto potomka z této rodiny? Potomek nebude smazán, ale již nebude součástí této rodiny.";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_DeleteChildRelationMessage" = "Odebrat potomka '%@' z rodiny?";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_EditChildButton" = "Upravit";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_LargePlaceholder" = "Nejsou k dispozici žádní potomci";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_RemoveAsChildButton" = "Odebrat jako potomka";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_SmallPlaceholder" = "Do této rodiny nebyly přidány žádní potomci. Potomky přidejte pomocí tlačítek výše.";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_Sorting_ByBirthDate" = "Podle data narození";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_Sorting_ByName" = "Podle jména";
+
+/* (No Comment) */
+"_EditFamilyChildRelationsContentController_Sorting_CustomOrder" = "Vlastní pořadí";
+
+/* (No Comment) */
+"_EditFamilyController_AddFatherPlaceholder" = "Přidat otce %@";
+
+/* (No Comment) */
+"_EditFamilyController_AddMotherPlaceholder" = "Přidat matku %@";
+
+/* (No Comment) */
+"_EditFamilyController_AddNewFamily" = "Přidat novou rodinu";
+
+/* (No Comment) */
+"_EditFamilyController_AddParent1Placeholder" = "Přidat rodiče 1 %@";
+
+/* (No Comment) */
+"_EditFamilyController_AddParent2Placeholder" = "Přidat rodiče 2 %@";
+
+/* (No Comment) */
+"_EditFamilyController_DeleteFamily" = "Smazat rodinu";
+
+/* (No Comment) */
+"_EditFamilyController_DeleteFamilyQuestionMessage" = "Opravdu chcete rodinu smazat?";
+
+/* (No Comment) */
+"_EditFamilyController_NoFamiliesPlaceholder_AddFamilyButton" = "Vytvořit první rodinu";
+
+/* (No Comment) */
+"_EditFamilyController_NoFamiliesPlaceholder_Message" = "V tomto rodokmenu nejsou žádné rodiny. Pro vytvoření první rodiny vyberte možnost „Vytvořit první rodinu“.";
+
+/* (No Comment) */
+"_EditFamilyController_NoFamiliesPlaceholder_Title" = "Nejsou k dispozici žádné rodiny";
+
+/* (No Comment) */
+"_EditFamilyController_ParentsOfLabel" = "Rodiče %@";
+
+/* (No Comment) */
+"_EditFamilyController_Title" = "Upravit rodinu";
+
+/* EditFamilyEditManContentController */
+"_EditFamilyEditManContentController_Title" = "Muž";
+
+/* EditFamilyEditWomanContentController */
+"_EditFamilyEditWomanContentController_Title" = "Žena";
+
+/* (No Comment) */
+"_EditFamilyEventController_Title" = "Upravit rodinnou událost";
+
+/* EditFamilyTreeInformationContactContentController */
+"_EditFamilyTreeInformationContactContentController_Title" = "Kontakt na autora";
+
+/* (No Comment) */
+"_EditFamilyTreeInformationController_Title" = "Autor";
+
+/* EditFamilyTreeInformationFamilyCrestContentController */
+"_EditFamilyTreeInformationFamilyCrestContentController_Title" = "Rodinný erb";
+
+/* EditFamilyTreeInformationHeaderContentController */
+"_EditFamilyTreeInformationHeaderContentController_LargeTitle" = "O autorovi tohoto rodokmenu";
+
+/* (No Comment) */
+"_EditFamilyTreeInformationIconSettingsContentController_AddToIconButton" = "Přidat ikonu z médií";
+
+/* (No Comment) */
+"_EditFamilyTreeInformationIconSettingsContentController_RemoveMediaFromIconMenuItem" = "Odebrat z ikon";
+
+/* EditFamilyTreeInformationIconSettingsContentController */
+"_EditFamilyTreeInformationIconSettingsContentController_Title" = "Nastavení ikony";
+
+/* (No Comment) */
+"_EditFamilyTreeInformationNameAndAddressContentController_NoNamePlaceholder" = "Nebylo zadáno žádné jméno";
+
+/* EditFamilyTreeInformationNameAndAddressContentController */
+"_EditFamilyTreeInformationNameAndAddressContentController_Title" = "Jméno a adresa autora";
+
+/* (No Comment) */
+"_EditLabel_DeleteLabelMessage" = "Tento krok trvale odstraní štítek a odstraní jej ze všech souvisejících záznamů v rodokmenu.";
+
+/* Edit Labels Views */
+"_EditLabel_DeleteLabelTitle" = "Opravdu smazat štítek?";
+
+/* (No Comment) */
+"_EditLabelsContentController_NoLabelsLargePlaceholder" = "Nejsou k dispozici žádné štítky";
+
+/* (No Comment) */
+"_EditLabelsContentController_NoLabelsSmallPlaceholder" = "V tomto rodokmenu nejsou k dispozici žádné štítky. Štítky můžete přidat pomocí tlačítka výše.";
+
+/* Shared Labels */
+"_EditLabelsContentController_Title" = "Štítky";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_AddEntryButton" = "Přidat záznam";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_EditMediaRelationAssignmentButton" = "Upravit oblast přiřazení";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_LargePlaceholder" = "Nejsou k dispozici žádné přiřazené položky";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_RemoveFromMediaButton" = "Odebrat";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_RemoveMediaFromEntryAndDeleteInformative" = "Protože se jedná o poslední položku přiřazenou tomuto médiu, bude médium odstraněno z rodokmenu.";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_RemoveMediaFromEntryAndDeleteMessage" = "Opravdu chcete toto médium smazat?";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_RemoveMediaFromEntryInformative" = "Tato volba nesmaže médium, ale pouze odstraní přiřazení záznamu k tomuto médiu.";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_RemoveMediaFromEntryMessage" = "Opravdu chcete z tohoto média odstranit položku '%@'";
+
+/* (No Comment) */
+"_EditMediaAssignedEntriesContentController_SmallPlaceholder" = "Pro přiřazení položek jako jsou osoby nebo rodiny k tomuto médiu použijte tlačítko výše";
+
+/* EditMediaAssignedEntriesContentController */
+"_EditMediaAssignedEntriesContentController_Title" = "Přiřazené záznamy";
+
+/* (No Comment) */
+"_EditMediaContentController_AddMediaButton" = "Přidat média";
+
+/* (No Comment) */
+"_EditMediaContentController_BringToFrontMenuItem" = "Řadit média na začátek";
+
+/* (No Comment) */
+"_EditMediaContentController_DeleteMediaQuestionInformative" = "Opravdu chcete smazat toto médium ze svého rodokmenu?";
+
+/* (No Comment) */
+"_EditMediaContentController_DeleteMediaQuestionMessage" = "Opravdu smazat médium?";
+
+/* (No Comment) */
+"_EditMediaContentController_DeleteMenuItem" = "Smazat";
+
+/* (No Comment) */
+"_EditMediaContentController_DoNotUseAsEntryImageMenuItem" = "Nepoužívat jako úvodní obrázek";
+
+/* (No Comment) */
+"_EditMediaContentController_EditMenuItem" = "Upravit...";
+
+/* (No Comment) */
+"_EditMediaContentController_LargePlaceholder" = "Nejsou k dispozici žádná média";
+
+/* (No Comment) */
+"_EditMediaContentController_MarkAsNotPrivateMenuItem" = "Označit jako veřejné";
+
+/* (No Comment) */
+"_EditMediaContentController_MarkAsPrivateMenuItem" = "Označit jako soukromé";
+
+/* (No Comment) */
+"_EditMediaContentController_NoPicture_SmallPlaceholder" = "Pro přidání obrázků použijte tlačítko výše.";
+
+/* (No Comment) */
+"_EditMediaContentController_ShowSlideshowButton" = "Prezentace";
+
+/* (No Comment) */
+"_EditMediaContentController_SmallPlaceholder" = "Pomocí tlačítka výše přidejte fotky, PDF dokumenty, videa, audio nebo webové stránky";
+
+/* Media */
+"_EditMediaContentController_Title" = "Média";
+
+/* (No Comment) */
+"_EditMediaContentController_UseAsEntryImageMenuItem" = "Použít jako úvodní obrázek";
+
+/* EditMediaController */
+"_EditMediaController_LargePlaceholder" = "Nejsou k dispozici žádná média";
+
+/* (No Comment) */
+"_EditMediaController_SmallPlaceholder" = "Při úpravách osob, rodin nebo míst přidejte média do sekcí Média";
+
+/* (No Comment) */
+"_EditMediaController_Title" = "Upravit médium";
+
+/* (No Comment) */
+"_EditMediaCropColorizeContentController_Explanation" = "Chcete-li tento obrázek oříznout, obarvit, odstranit škrábance, vylepšit nebo odstranit pozadí, klikněte na tlačítko výše.";
+
+/* (No Comment) */
+"_EditMediaCropColorizeContentController_OpenCropColorizeButton" = "Upravit a vylepšit obrázek...";
+
+/* (No Comment) */
+"_EditMediaCropColorizeContentController_SuiteableForColorizeExplanation" = "Tento obrázek se zdá být vhodný pro kolorování. Pomocí tlačítka výše můžete obrázky automaticky kolorovat, vylepšovat, odstraňovat škrábance nebo ořezávat.";
+
+/* EditMediaCropColorizeContentController */
+"_EditMediaCropColorizeContentController_Title" = "AI nástroje a oříznout";
+
+/* EditMediaGeneralContentController */
+"_EditMediaGeneralContentController_Title" = "Obecné";
+
+/* EditMediaMediaPreviewContentController */
+"_EditMediaMediaPreviewContentController_Title" = "Média";
+
+/* (No Comment) */
+"_EditMediaMediaPreviewContentControlleriOSPlatformView_ShowAudioButton" = "Zobrazit audio...";
+
+/* (No Comment) */
+"_EditMediaMediaPreviewContentControlleriOSPlatformView_ShowFullImageButton" = "Zobrazit skutečnou velikost obrázku...";
+
+/* (No Comment) */
+"_EditMediaMediaPreviewContentControlleriOSPlatformView_ShowFullPDFButton" = "Zobrazit celé PDF...";
+
+/* (No Comment) */
+"_EditMediaMediaPreviewContentControlleriOSPlatformView_ShowVideoButton" = "Zobrazit video...";
+
+/* (No Comment) */
+"_EditMediaMediaPreviewContentControlleriOSPlatformView_ShowWebsiteButton" = "Zobrazit webovou stránku...";
+
+/* (No Comment) */
+"_EditNotesContentController_AddNoteButton" = "Přidat poznámku";
+
+/* (No Comment) */
+"_EditNotesContentController_DeleteNoteQuestionMessage" = "Opravdu chcete poznámku smazat?";
+
+/* (No Comment) */
+"_EditNotesContentController_LargePlaceholder" = "Nejsou k dispozici žádné poznámky";
+
+/* (No Comment) */
+"_EditNotesContentController_NoNoteTextPlaceholder" = "Nebyl vložen žádný text poznámky";
+
+/* (No Comment) */
+"_EditNotesContentController_SmallPlaceholder" = "Pro přidání nové poznámky použijte tlačítko výše";
+
+/* (No Comment) */
+"_EditNotesContentController_Sorting_ByChangeDate" = "Podle data změny";
+
+/* (No Comment) */
+"_EditNotesContentController_Sorting_ByCreationDate" = "Podle data vytvoření";
+
+/* (No Comment) */
+"_EditNotesContentController_Sorting_ByText" = "Podle textu";
+
+/* EditNotesContentController */
+"_EditNotesContentController_Title" = "Poznámky";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_AddAdditionalNameButton" = "Přidat jméno";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_AdditionalNamePlaceholder" = "%@ – zde zadejte informace";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_DeleteAdditionalNameQuestionInformative" = "Opravdu chcete smazat toto další jméno?";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_DeleteAdditionalNameQuestionMessage" = "Smazat další jméno '%@'?";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_EditAdditionalNameConclusionTypes" = "Upravit typy dalších jmen...";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_LargePlaceholder" = "Nejsou k dispozici žádná další jména";
+
+/* (No Comment) */
+"_EditPersonAdditionalNamesContentController_SmallPlaceholder" = "Pro přidání dalšího jména použijte tlačítko výše.";
+
+/* EditPerson Additional Names */
+"_EditPersonAdditionalNamesContentController_Title" = "Další jména";
+
+/* (No Comment) */
+"_EditPersonController_AddBrotherMenuItem" = "Přidat nového bratra";
+
+/* (No Comment) */
+"_EditPersonController_AddChildPlaceholder" = "Přidat nového potomka";
+
+/* (No Comment) */
+"_EditPersonController_AddExistingFurtherPartnerMenuItem" = "Přidat existující osobu jako dalšího partnera...";
+
+/* (No Comment) */
+"_EditPersonController_AddExistingPersonAsChildMenuItem" = "Přidat existující osobu jako potomka...";
+
+/* (No Comment) */
+"_EditPersonController_AddExistingPersonAsFatherMenuItem" = "Přidat existující osobu jako otce...";
+
+/* (No Comment) */
+"_EditPersonController_AddExistingPersonAsMotherMenuItem" = "Přidat existující osobu jako matku...";
+
+/* (No Comment) */
+"_EditPersonController_AddExistingPersonAsPartnerMenuItem" = "Přidat existující osobu jako partnera...";
+
+/* EditPersonController */
+"_EditPersonController_AddFatherPlaceholder" = "Přidat nového otce";
+
+/* (No Comment) */
+"_EditPersonController_AddFurtherFather" = "Přidat dalšího otce";
+
+/* (No Comment) */
+"_EditPersonController_AddFurtherMother" = "Přidat další matku";
+
+/* (No Comment) */
+"_EditPersonController_AddFurtherPartnerMenuItem" = "Přidat dalšího partnera";
+
+/* (No Comment) */
+"_EditPersonController_AddMotherPlaceholder" = "Přidat novou matku";
+
+/* (No Comment) */
+"_EditPersonController_AddNewPersonAsChildMenuItem" = "Přidat nového potomka";
+
+/* (No Comment) */
+"_EditPersonController_AddNewPersonAsFatherMenuItem" = "Přidat nového otce";
+
+/* (No Comment) */
+"_EditPersonController_AddNewPersonAsMotherMenuItem" = "Přidat novou matku";
+
+/* (No Comment) */
+"_EditPersonController_AddNewPersonAsPartnerMenuItem" = "Přidat nového partnera";
+
+/* (No Comment) */
+"_EditPersonController_AddNewPersonMenuItem" = "Přidat novou osobu";
+
+/* (No Comment) */
+"_EditPersonController_AddPartnerPlaceholder" = "Přidat nového partnera";
+
+/* (No Comment) */
+"_EditPersonController_AddSisterMenuItem" = "Přidat novou sestru";
+
+/* (No Comment) */
+"_EditPersonController_BrotherOrSisterOfFamilyMenuItem" = "Bratr nebo sestra '%@' v rodině...";
+
+/* (No Comment) */
+"_EditPersonController_ChildRelationTypeForFatherMenuItem" = "Vztah k otci %@";
+
+/* (No Comment) */
+"_EditPersonController_ChildRelationTypeForMotherMenuItem" = "Vztah k matce %@";
+
+/* (No Comment) */
+"_EditPersonController_ChildRelationTypeMenuItem" = "Typ vztahu potomka";
+
+/* (No Comment) */
+"_EditPersonController_DeleteFamily" = "Smazat rodinu";
+
+/* (No Comment) */
+"_EditPersonController_DeletePerson" = "Smazat osobu";
+
+/* (No Comment) */
+"_EditPersonController_DeletePersonMenuItem" = "Smazat %@…";
+
+/* (No Comment) */
+"_EditPersonController_EditFamilyMenuItem" = "Upravit rodinu %@";
+
+/* (No Comment) */
+"_EditPersonController_EditFamilyMenuItem_WithoutPlaceholder" = "Upravit rodinu";
+
+/* (No Comment) */
+"_EditPersonController_EditPersonMenuItem" = "Upravit %@";
+
+/* (No Comment) */
+"_EditPersonController_NoPersonsPlaceholder_AddPersonButton" = "Vytvořit první osobu";
+
+/* (No Comment) */
+"_EditPersonController_NoPersonsPlaceholder_Message" = "V tomto rodokmenu nejsou žádné osoby. Pro vytvoření první osoby vyberte možnost „Vytvořit první osobu“.";
+
+/* (No Comment) */
+"_EditPersonController_NoPersonsPlaceholder_Title" = "Nejsou k dispozici žádné osoby";
+
+/* (No Comment) */
+"_EditPersonController_ParentsOptionsButton" = "Možnosti rodiče...";
+
+/* (No Comment) */
+"_EditPersonController_PartnerOptionsButton" = "Možnosti partnera...";
+
+/* (No Comment) */
+"_EditPersonController_RemovePersonFromFamilyMenuItem" = "Odebrat %@ z rodiny";
+
+/* (No Comment) */
+"_EditPersonController_RemovePersonQuestionInformative" = "Touto volbou neodstraníte osobu z vašeho rodokmenu, ale odeberete ji z této rodiny.";
+
+/* (No Comment) */
+"_EditPersonController_RemovePersonQuestionMessage" = "Opravdu chcete odebrat osobu '%@' z rodiny '%@'?";
+
+/* (No Comment) */
+"_EditPersonController_SelectFamily" = "Vybrat rodinu";
+
+/* (No Comment) */
+"_EditPersonController_ShowOldestAncestorsMenuItem" = "Nejstarší předci…";
+
+/* (No Comment) */
+"_EditPersonController_ShowYoungestAncestorsMenuItem" = "Nejmladší potomci…";
+
+/* Titles */
+"_EditPersonController_Title" = "Upravit osobu";
+
+/* (No Comment) */
+"_EditPersonDNAContentController_AddDNATest" = "Přidat výsledek testu DNA";
+
+/* (No Comment) */
+"_EditPersonDNAContentController_EditDNATestResultButton" = "Upravit data DNA";
+
+/* (No Comment) */
+"_EditPersonDNAContentController_LargePlaceholder" = "Nebyly vloženy žádné výsledky testů DNA";
+
+/* (No Comment) */
+"_EditPersonDNAContentController_SmallPlaceholder" = "Pomocí tlačítek výše přidejte výsledky testů DNA k této osobě";
+
+/* (No Comment) */
+"_EditPersonDNAContentController_Sorting_ByDate" = "Podle data";
+
+/* (No Comment) */
+"_EditPersonDNAContentController_Sorting_ByTitle" = "Podle nadpisu";
+
+/* EditPersonDNAContentController */
+"_EditPersonDNAContentController_Title" = "DNA";
+
+/* (No Comment) */
+"_EditPersonEventController_Title" = "Upravit událost osoby";
+
+/* (No Comment) */
+"_EditPersonFactController_Title" = "Upravit fakt osoby";
+
+/* EditPersonFactGeneralContentController */
+"_EditPersonFactGeneralContentController_Title" = "Obecné";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_AddFactButton" = "Přidat fakt";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_DeleteFactQuestionMessage" = "Smazat fakt osoby?";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_EditFactDetails" = "Upravit podrobnosti faktu";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_EditPersonFactConclusionTypes" = "Upravit typy faktů osoby";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_FactPlaceholder" = "%@ – zde zadejte informace";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_LargePlaceholder" = "Nejsou k dispozici žádná fakta";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_SmallPlaceholder" = "Pro přidání nového faktu použijte tlačítko výše.";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_Sorting_ByFactType" = "Podle typu fakta";
+
+/* (No Comment) */
+"_EditPersonFactsContentController_Sorting_ByFactValue" = "Podle hodnoty faktu";
+
+/* EditPersonFactsContentController */
+"_EditPersonFactsContentController_Title" = "Fakta";
+
+/* (No Comment) */
+"_EditPersonFamilySearchContentController_DetailsButton" = "Podrobnosti";
+
+/* EditPersonFamilySearchContentController */
+"_EditPersonFamilySearchContentController_Title" = "FamilySearch";
+
+/* (No Comment) */
+"_EditPersonGroupController_AddPersonGroupButton" = "Vytvořit první skupinu osob";
+
+/* EditPersonGroupController */
+"_EditPersonGroupController_LargePlaceholder" = "Nejsou k dispozici žádné skupiny osob";
+
+/* (No Comment) */
+"_EditPersonGroupController_SmallPlaceholder" = "V tomto rodokmenu nejsou žádné skupiny osob. Skupiny osob lze použít ke zvýraznění různých větví ve vašem rodokmenu. Pro vytvoření první skupiny osob vyberte možnost „Vytvořit první skupinu osob“.";
+
+/* (No Comment) */
+"_EditPersonGroupController_Title" = "Upravit skupinu osob";
+
+/* (No Comment) */
+"_EditPersonGroupGeneralContentController_NamePlaceholder" = "Nebylo zadáno žádné jméno";
+
+/* (No Comment) */
+"_EditPersonGroupGeneralContentController_Title" = "Obecné";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_AddPersonToGroupButton" = "Přidat osoby";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_DeletePersonGroupRelationInformative" = "Tato volba neodstraní osobu ani skupinu osob, ale osoba bude odebrána z této skupiny osob.";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_DeletePersonGroupRelationMessage" = "Odebrat '%@' ze skupiny osob '%@'?";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_LargePlaceholder" = "V této skupině nejsou žádné osoby";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_ManagePersonsInGroupButton" = "Spravovat osoby";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_RemoveFromPersonGroupButton" = "Odebrat ze skupiny";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_SmallPlaceholder" = "Pomocí tlačítka výše přidejte osoby do této skupiny osob.";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_Sorting_ByBirthDate" = "Podle data narození";
+
+/* (No Comment) */
+"_EditPersonGroupPersonsInGroupContentController_Sorting_ByName" = "Podle jména";
+
+/* EditPersonGroupPersonsInGroupContentController */
+"_EditPersonGroupPersonsInGroupContentController_Title" = "Osoby ve skupině";
+
+/* (No Comment) */
+"_EditPersonGroupsContentController_NoPersonGroupsLargePlaceholder" = "Nejsou k dispozici žádné skupiny osob";
+
+/* (No Comment) */
+"_EditPersonGroupsContentController_NoPersonGroupsSmallPlaceholder" = "V tomto rodokmenu nebyly vytvořeny žádné skupiny osob. Pro přidání skupiny osob použijte stejnojmennou funkci.";
+
+/* _EditPersonGroupsContentController_Title */
+"_EditPersonGroupsContentController_Title" = "Skupiny osob";
+
+/* EditPerson Name */
+"_EditPersonNameContentController_Title" = "Jméno a pohlaví";
+
+/* (No Comment) */
+"_EditPersonNumberingSystemContentController_NoNumberingSystemAssigned" = "Vyberte systém číslování začínající touto osobou pomocí tlačítka níže:";
+
+/* (No Comment) */
+"_EditPersonNumberingSystemContentController_NumberingSystemAssignedAndHasValueAndIsNotStartPerson" = "Tato osoba má v aktuálním systému číslování číslo začínající osobou:";
+
+/* (No Comment) */
+"_EditPersonNumberingSystemContentController_NumberingSystemAssignedAndIsStartPerson" = "Tato osoba je výchozí osobou v aktuálním systému číslování (%@).";
+
+/* (No Comment) */
+"_EditPersonNumberingSystemContentController_NumberingSystemAssignedAndPersonHasNoValue" = "Tato osoba nemá v současném systému číslování žádné číslo. To znamená, že tato osoba není předkem ani potomkem výchozí osoby tohoto systému číslování (%@):";
+
+/* (No Comment) */
+"_EditPersonNumberingSystemContentController_SetNumberingSystemTopLevelMenuItem" = "Systém číslování...";
+
+/* EditPersonNumberingSystemContentController */
+"_EditPersonNumberingSystemContentController_Title" = "Systém číslování";
+
+/* (No Comment) */
+"_EditPlaceAlternateNamesContentController_AlternatePlaceNamesPlaceholder" = "Zde zadejte jakékoli alternativní názvy místa";
+
+/* EditPlaceAlternateNamesContentController */
+"_EditPlaceAlternateNamesContentController_Title" = "Alternativní názvy místa";
+
+/* EditPlaceController */
+"_EditPlaceController_LargePlaceholder" = "Nejsou k dispozici žádná místa";
+
+/* (No Comment) */
+"_EditPlaceController_LookupNewPlaceButton" = "Vyhledat první místo";
+
+/* (No Comment) */
+"_EditPlaceController_SmallPlaceholder" = "Zadejte prosím místa pro osobní nebo rodinné události nebo použijte tlačítko níže pro vyhledání nového místa.";
+
+/* (No Comment) */
+"_EditPlaceController_Title" = "Upravit místo";
+
+/* (No Comment) */
+"_EditPlaceCoordinateContentController_AddCoordinateButton" = "Zadat ručně";
+
+/* (No Comment) */
+"_EditPlaceCoordinateContentController_DeleteCoordinateQuestionMessage" = "Smazat souřadnice?";
+
+/* (No Comment) */
+"_EditPlaceCoordinateContentController_LargePlaceholder" = "Nebyly zadány žádné souřadnice";
+
+/* (No Comment) */
+"_EditPlaceCoordinateContentController_LookupButton" = "Vyhledat";
+
+/* (No Comment) */
+"_EditPlaceCoordinateContentController_SmallPlaceholder" = "Pomocí tlačítek výše zadejte souřadnice tohoto místa ručně nebo je vyhledejte pomocí názvu místa.";
+
+/* (No Comment) */
+"_EditPlaceCoordinateContentController_SmallPlaceholder_CTW" = "Pomocí tlačítka výše zadejte souřadnice tohoto místa ručně.";
+
+/* EditPlaceCoordinateContentController */
+"_EditPlaceCoordinateContentController_Title" = "Souřadnice";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_AddCoordinateButton" = "Přidat souřadnice";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_AddEmptyPlaceDetail" = "Přidat prázdný detail místa";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_AddPlaceDetail" = "Přidat";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_DeletePlaceDetailQuestionMessage" = "Opravdu smazat detail místa?";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_EventCount" = "Počet událostí";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_LargePlaceholder" = "Nebyly vloženy žádné detaily místa";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_LookupCoordinateButton" = "Vyhledat souřadnice…";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_MegeWithOtherPlaceDetailButton" = "Sloučit s jiným detailem místa";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_NoNamePlaceholder" = "Nebyl zadán žádný název detailu místa";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_RemoveCoordinateButton" = "Odebrat souřadnice";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_SearchOtherPlaceDetail" = "Vyhledat nový detail místa…";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_SmallPlaceholder" = "Pro přidání detailů o místě použijte tlačítko „Přidat“ výše. Detaily místa jsou konkrétní adresy, části nebo jiné zajímavosti v tomto místě.";
+
+/* EditPlaceDetailsContentController */
+"_EditPlaceDetailsContentController_Title" = "Detaily místa";
+
+/* (No Comment) */
+"_EditPlaceEventsAtPlaceContentController_LargePlaceholder" = "Nebyly přidány žádné události";
+
+/* (No Comment) */
+"_EditPlaceEventsAtPlaceContentController_RemoveFromPlace" = "Odebrat z místa";
+
+/* (No Comment) */
+"_EditPlaceEventsAtPlaceContentController_SmallPlaceholder" = "K tomuto místu nebyly přidány žádné osobní ani rodinné události. K přiřazení míst k událostem použijte sekci „Osoby“ nebo „Rodiny“.";
+
+/* (No Comment) */
+"_EditPlaceEventsAtPlaceContentController_Sorting_ByDate" = "Podle data události";
+
+/* (No Comment) */
+"_EditPlaceEventsAtPlaceContentController_Sorting_ByType" = "Podle typu události";
+
+/* EditPlaceEventsAtPlaceContentController */
+"_EditPlaceEventsAtPlaceContentController_Title" = "Události tohoto místa";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_AddField" = "Přidat pole…";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_AddTemplateKeyToTemplate" = "Přidat pole '%@' do šablony '%@'";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_DeleteFieldContentsInformative" = "Opravdu chcete tyto další informace z aktuálně zobrazeného místa odstranit?";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_DeleteFieldContentsMessage" = "Smazat informaci z tohoto místa?";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_EditTemplateKeys" = "Upravit pole místa…";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_LargePlaceholder" = "Žádná další pole pro název místa nejsou uvedena";
+
+/* (No Comment) */
+"_EditPlaceFurtherPlaceNameFieldsContentController_SmallPlaceholder" = "Pomocí tlačítka výše můžete k tomuto místu přidat další pole místa, která nejsou uvedena v aktuálně vybrané šabloně.";
+
+/* EditPlaceFurtherPlaceNameFieldsContentController */
+"_EditPlaceFurtherPlaceNameFieldsContentController_Title" = "Další pole pro název místa";
+
+/* (No Comment) */
+"_EditPlaceHeaderContentController_EventCountTitlePlural" = "%d událostí v tomto místě";
+
+/* EditPlaceHeaderContentController */
+"_EditPlaceHeaderContentController_EventCountTitleSingular" = "Jedna událost na tomto místě";
+
+/* (No Comment) */
+"_EditPlaceHeaderContentController_EventsDateRangePlural" = "Časové období událostí";
+
+/* (No Comment) */
+"_EditPlaceHeaderContentController_EventsDateRangeSingular" = "Datum události";
+
+/* (No Comment) */
+"_EditPlaceHeaderContentController_PlaceDetailCountTitlePlural" = "%d detailů míst";
+
+/* (No Comment) */
+"_EditPlaceHeaderContentController_PlaceDetailCountTitleSingular" = "Detail jednoho místa";
+
+/* _EditPlaceLinksContentController_OtherLanguagesButton */
+"_EditPlaceLinksContentController_Title" = "Webové stránky";
+
+/* (No Comment) */
+"_EditPlaceNameContentController_EditTemplates" = "Upravit šablony míst…";
+
+/* EditPlaceNameContentController */
+"_EditPlaceNameContentController_Title" = "Název místa";
+
+/* (No Comment) */
+"_EditPlacePane_Map_PlaceholderButton" = "Vyhledat souřadnice…";
+
+/* (No Comment) */
+"_EditPlacePane_Map_PlaceholderMessage" = "Chcete-li na mapě zobrazit polohu vybraného místa, vyhledejte zeměpisné souřadnice tohoto místa:";
+
+/* (No Comment) */
+"_EditPlacePane_Map_PlaceholderMessagePlaceDetail" = "Chcete-li na mapě zobrazit polohu vybraného detailu místa, vyhledejte prosím zeměpisné souřadnice tohoto detailu místa";
+
+/* EditPlacePane */
+"_EditPlacePane_Map_PlaceholderTitle" = "Žádná souřadnice";
+
+/* (No Comment) */
+"_EditPlacePane_MapKitTypePopupButton" = "Typ mapy";
+
+/* (No Comment) */
+"_EditPlacePane_MapKitTypePopupButton_FromPreferences" = "Podle nastavení aplikace";
+
+/* (No Comment) */
+"_EditPlacePane_MapKitTypePopupButton_Hybrid" = "Hybridní";
+
+/* (No Comment) */
+"_EditPlacePane_MapKitTypePopupButton_Satellite" = "Satelitní";
+
+/* (No Comment) */
+"_EditPlacePane_MapKitTypePopupButton_Standard" = "Standardní";
+
+/* (No Comment) */
+"_EditPlacePane_MapKitTypePopupButton_StandardMuted" = "Standardní (tlumený)";
+
+/* (No Comment) */
+"_EditPlacePane_MapOptionsButton" = "Možnosti mapy";
+
+/* (No Comment) */
+"_EditPlacePane_OnlyShowPlaceDetailsForSelectedPlaceOnMapCheckbox" = "Zobrazit pouze detaily místa, pokud je místo vybrané";
+
+/* (No Comment) */
+"_EditPlacePane_OnlyShowSelectedPlaceOnMapCheckbox" = "Zobrazit pouze vybrané místo na mapě";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton" = "Barva špendlíku";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton_ByEventCount_BlueToMagentaToOrange" = "Podle počtu událostí (z modré do purpurové až do oranžové)";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton_ByEventCount_BlueToRed" = "Podle počtu událostí (z modré do červené)";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton_ByEventCount_GreenToYellowToRed" = "Podle počtu událostí (ze zelené do žluté až do červené)";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton_ByEventCount_TurquoiseToYellowToLightRed" = "Podle počtu událostí (z tyrkysové do žluté až do světle červené)";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton_ByEventCount_YellowToRed" = "Podle počtu událostí (ze žluté do červené)";
+
+/* (No Comment) */
+"_EditPlacePane_PinColorPopupButton_SingleColor" = "Jednobarevný";
+
+/* (No Comment) */
+"_EditPlacePane_ShowEventCountOnPlacePins" = "Zobrazit počet událostí ve špendlících";
+
+/* (No Comment) */
+"_EditPrivateContentController_Explanation" = "Pokud je tato možnost vybrána, nebudou se tyto informace zobrazovat v grafech ani přehledech";
+
+/* (No Comment) */
+"_EditPrivateContentController_MarkAsPrivate" = "Označeno jako soukromé";
+
+/* EditPrivateContentController */
+"_EditPrivateContentController_Title" = "Soukromé";
+
+/* EditReferenceNumbersContentController */
+"_EditReferenceNumbersContentController_Title" = "Referenční čísla";
+
+/* (No Comment) */
+"_EditSourceContentController_AddToDoButton" = "Vytvořit první zdroj";
+
+/* (No Comment) */
+"_EditSourceContentController_DeleteSourceQuestionMessage" = "Opravdu smazat zdroj?";
+
+/* EditSourceContentController */
+"_EditSourceContentController_LargePlaceholder" = "Nejsou k dispozici žádné zdroje";
+
+/* (No Comment) */
+"_EditSourceContentController_SmallPlaceholder" = "V tomto rodokmenu nejsou žádné zdroje. Pro vytvoření prvního zdroje vyberte možnost „Vytvořit první zdroj“.";
+
+/* (No Comment) */
+"_EditSourceController_Title" = "Upravit zdroj";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_AddField" = "Přidat pole...";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_AddTemplateKeyToTemplate" = "Přidat pole '%@' k šabloně '%@'";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_DeleteFieldContentsInformative" = "Opravdu chcete smazat tyto další informace z aktuálně zobrazeného zdroje?";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_DeleteFieldContentsMessage" = "Smazat tyto informace ze zdroje?";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_EditTemplateKeys" = "Upravit pole zdroje...";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_LargePlaceholder" = "Nejsou zadána žádná pole dalších informací";
+
+/* (No Comment) */
+"_EditSourceFurtherFieldsContentController_SmallPlaceholder" = "Pomocí tlačítka výše můžete k tomuto zdroji přidat další informace, které nejsou uvedeny v aktuálně vybrané šabloně.";
+
+/* EditSourceFurtherFieldsContentController */
+"_EditSourceFurtherFieldsContentController_Title" = "Další informace";
+
+/* (No Comment) */
+"_EditSourceGeneralContentController_EditSourceRepository" = "Upravit repozitáře zdrojů...";
+
+/* (No Comment) */
+"_EditSourceGeneralContentController_EditTemplates" = "Upravit šablony zdrojů...";
+
+/* EditSourceGeneralContentController */
+"_EditSourceGeneralContentController_Title" = "Informace o zdroji";
+
+/* (No Comment) */
+"_EditSourceGeneralContentController_TitlePlaceholder" = "Nebyl zadán žádný název";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_AddEntryToSourceButton" = "Přidat záznam";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_CitationNotes" = "Poznámky citací";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_LargePlaceholder" = "Nejsou k dispozici žádné odkazované položky";
+
+/* EditSourceReferencedEntriesContentController */
+"_EditSourceReferencedEntriesContentController_RemoveFromSourceButton" = "Odebrat ze zdroje";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_SmallPlaceholder" = "Pro přidání odkazovaných položek k tomuto zdroji použijte tlačítko výše";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_Sorting_ByPage" = "Podle strany";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_Sorting_ByType" = "Podle typu";
+
+/* (No Comment) */
+"_EditSourceReferencedEntriesContentController_Title" = "Odkazované položky";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_EvidenceExplanation" = "Uveďte, zda je důkaz pro odkazovaný záznam v tomto zdroji negativní, nepřímý nebo přímý.";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_EvidenceQuality" = "Kvalita důkazů";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_GeneralExplanation" = "Uveďte prosím zdroj, informace a kvalitu důkazů tohoto odkazovaného záznamu pro uvedený zdroj:";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_InformationExplanation" = "Jsou informace v tomto zdroji z první nebo z druhé ruky?";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_InformationQuality" = "Kvalita informací";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_QualityExplanation" = "Vyberte, zda je zdrojem původní dokument nebo zda se jedná o odvozený zdroj.";
+
+/* (No Comment) */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_SourceQuality" = "Kvalita zdroje";
+
+/* EditSourceRelationCertaintySettingsCertaintyViewContentController */
+"_EditSourceRelationCertaintySettingsCertaintyViewContentController_Title" = "Jistota zdroje";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_AddExistingSourceMenuItem" = "Přidat existující zdroj...";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_AddNewSourceMenuItem" = "Přidat nový zdroj";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_AddSourceButton" = "Přidat zdroj";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_CitedSource" = "Citovaný zdroj";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_CopySourceCitation" = "Kopírovat citaci zdroje";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_DeleteSourceMenuItem" = "Smazat zdroj";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_LargePlaceholder" = "Nejsou k dispozici žádné zdroje citací";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_PasteSourceCitation" = "Vložit citaci zdroje";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_RemoveObjectFromSourceInformative" = "Opravdu chcete odstranit tuto citaci zdroje? Toto nesmaže zdroj, ale odebere tento záznam ze zdroje.";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_RemoveObjectFromSourceMessage" = "Odebrat položku ze zdroje '%@'?";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_SmallPlaceholder" = "Pro přidání zdroje citací k této položce použijte tlačítko výše";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_Sorting_ByCertainty" = "Seřadit podle jistoty zdroje";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_Sorting_ByDate" = "Seřadit podle data zdroje";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_Sorting_ByPage" = "Seřadit podle čísla stránky";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_Sorting_ByTitle" = "Seřadit podle názvu zdroje";
+
+/* (No Comment) */
+"_EditSourceRelationsContentController_SourceDate" = "Datum zdroje";
+
+/* EditSourceRelationsContentController */
+"_EditSourceRelationsContentController_Title" = "Zdroje citací";
+
+/* (No Comment) */
+"_EditSourceSourceRepositoryContentController_NoSourceRepository" = "Žádný repozitář zdrojů";
+
+/* EditSourceSourceRepositoryContentController */
+"_EditSourceSourceRepositoryContentController_Title" = "Repozitář zdrojů";
+
+/* (No Comment) */
+"_EditSourceTextContentController_LargePlaceholder" = "Nebyl zadán žádný text";
+
+/* (No Comment) */
+"_EditSourceTextContentController_SmallPlaceholder" = "Klikněte sem pro zadání textu pro tento zdroj";
+
+/* EditSourceTextContentController */
+"_EditSourceTextContentController_Title" = "Text zdroje";
+
+/* (No Comment) */
+"_EditStoryContentController_AddStoryButton" = "Přidat první příběh";
+
+/* (No Comment) */
+"_EditStoryContentController_LargePlaceholder" = "Nejsou k dispozici žádné příběhy";
+
+/* (No Comment) */
+"_EditStoryContentController_SmallPlaceholder" = "V současné chvíli nejsou v tomto rodokmenu přidány žádné příběhy. Pomocí příběhů můžete vyprávět a zaznamenávat zvláštní události vaší rodinné historie. Chcete-li vytvořit svůj první příběh, vyberte možnost „Přidat první příběh“.";
+
+/* (No Comment) */
+"_EditStoryController_Title" = "Upravit příběh";
+
+/* EditStoryController */
+"_EditStoryGeneralContentController_Title" = "Obecné";
+
+/* (No Comment) */
+"_EditStoryGeneralContentController_TitlePlaceholder" = "Nebyl zadán žádný název";
+
+/* (No Comment) */
+"_EditStoryReferencedEntriesContentController_AddEntryToStoryButton" = "Přidat záznam";
+
+/* (No Comment) */
+"_EditStoryReferencedEntriesContentController_LargePlaceholder" = "Nejsou k dispozici žádné odkazované položky";
+
+/* (No Comment) */
+"_EditStoryReferencedEntriesContentController_SmallPlaceholder" = "Pomocí tlačítek přidejte osoby, události nebo rodiny, na které se v tomto příběhu odkazuje.";
+
+/* (No Comment) */
+"_EditStoryReferencedEntriesContentController_Title" = "Odkazované položky";
+
+/* (No Comment) */
+"_EditStoryRelationsContentController_AddExistingStoryMenuItem" = "Přidat existující příběh…";
+
+/* (No Comment) */
+"_EditStoryRelationsContentController_AddExistingStorySectionMenuItem" = "Přidat existující sekci příběhu…";
+
+/* (No Comment) */
+"_EditStoryRelationsContentController_AddNewStoryMenuItem" = "Přidat nový příběh";
+
+/* (No Comment) */
+"_EditStoryRelationsContentController_AddStoryButton" = "Přidat příběh";
+
+/* (No Comment) */
+"_EditStoryRelationsContentController_LargePlaceholder" = "Nejsou k dispozici žádné příběhy";
+
+/* (No Comment) */
+"_EditStoryRelationsContentController_SmallPlaceholder" = "Pomocí tlačítka výše přidejte nový nebo stávající příběh.";
+
+/* EditStoryRelationsContentController */
+"_EditStoryRelationsContentController_Title" = "Příběhy";
+
+/* (No Comment) */
+"_EditStorySectionReferencedEntriesContentController_AddEntryToStorySectionButton" = "Přidat záznam";
+
+/* (No Comment) */
+"_EditStorySectionReferencedEntriesContentController_LargePlaceholder" = "Nejsou k dispozici žádné odkazované položky";
+
+/* (No Comment) */
+"_EditStorySectionReferencedEntriesContentController_SmallPlaceholder" = "Pomocí tlačítek přidejte osoby, události nebo rodiny, na které se odkazuje v této sekci příběhu.";
+
+/* EditStorySectionReferencedEntriesContentController */
+"_EditStorySectionReferencedEntriesContentController_Title" = "Odkazované položky v sekci";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_AddMedia" = "Přidat média";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_AddStorySecton" = "Přidat sekci příběhu";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_LargePlaceholder" = "Nejsou k dispozici žádné sekce příběhu";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_MoveDown" = "Přesunout sekci dolů";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_MoveUp" = "Přesunout sekci nahoru";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_NoStorySectionRelationsPlaceholder" = "Nejsou k dispozici žádné odkazované položky";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_NoSubtitlePlaceholder" = "Nebyl zadán žádný název sekce";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_NoTextPlaceholder" = "Nebyl zadán žádný text sekce";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_SmallPlaceholder" = "Pomocí tlačítka výše přidejte první sekci do tohoto příběhu";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_StorySectionRelations" = "Odkazované položky v sekci";
+
+/* (No Comment) */
+"_EditStorySectionsContentController_Title" = "Sekce příběhu";
+
+/* (No Comment) */
+"_EditToDoAssignedEntriesContentController_AddEntryButton" = "Přidat záznam";
+
+/* (No Comment) */
+"_EditToDoAssignedEntriesContentController_LargePlaceholder" = "Nejsou k dispozici žádné přiřazené položky";
+
+/* (No Comment) */
+"_EditToDoAssignedEntriesContentController_SmallPlaceholder" = "Chcete-li k tomuto úkolu přidat položky ze svého rodokmenu, klikněte na tlačítko výše";
+
+/* (No Comment) */
+"_EditToDoAssignedEntriesContentController_Sorting_ByDate" = "Podle data";
+
+/* (No Comment) */
+"_EditToDoAssignedEntriesContentController_Sorting_ByName" = "Podle jména";
+
+/* EditToDoAssignedEntriesContentController */
+"_EditToDoAssignedEntriesContentController_Title" = "Přiřazené záznamy";
+
+/* (No Comment) */
+"_EditToDoContentController_AddExistingToDoMenuItem" = "Přidat existující úkol";
+
+/* (No Comment) */
+"_EditToDoContentController_AddNewToDoMenuItem" = "Přidat nový úkol";
+
+/* (No Comment) */
+"_EditToDoContentController_AddToDoButton" = "Přidat úkol";
+
+/* (No Comment) */
+"_EditToDoContentController_LargePlaceholder" = "Nejsou k dispozici žádné úkoly";
+
+/* (No Comment) */
+"_EditToDoContentController_NoDateEnteredPlaceholder" = "Nebylo zadáno žádné datum";
+
+/* (No Comment) */
+"_EditToDoContentController_NoTitleEnteredPlaceholder" = "Nebyl zadán žádný název";
+
+/* (No Comment) */
+"_EditToDoContentController_RemoveFromToDoButton" = "Odebrat z úkolu";
+
+/* (No Comment) */
+"_EditToDoContentController_SmallPlaceholder" = "Pomocí tlačítek výše můžete přidat nový úkol nebo připojit již existující úkol";
+
+/* EditToDosContentController */
+"_EditToDoContentController_Title" = "Úkoly";
+
+/* (No Comment) */
+"_EditToDoController_AddToDoButton" = "Přidat první úkol";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosInformative" = "Opravdu chcete z rodokmenu odstranit všechny úkoly, které byly označeny jako vyřízené?";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosInformative_NoDoneFound" = "Ve vašem rodokmenu nebyly nalezeny žádné úkoly označené jako vyřízené, takže žádné nebyly odstraněny.";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosMessage" = "Opravdu smazat %d úkolů, které jsou označeny jako vyřízené?";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosMessage_NoDoneFound" = "Nebyly nalezeny žádné úkoly, které jsou označeny jako vyřízené";
+
+/* EditToDoController */
+"_EditToDoController_LargePlaceholder" = "Nejsou k dispozici žádné úkoly";
+
+/* (No Comment) */
+"_EditToDoController_SmallPlaceholder" = "V tomto rodokmenu nejsou žádné úkoly. Pro vytvoření prvního úkolu vyberte možnost „Přidat první úkol“.";
+
+/* (No Comment) */
+"_EditToDoController_Title" = "Upravit úkol";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditPriorityConclusionTypes" = "Upravit typy priorit…";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditStatusConclusionTypes" = "Upravit typy stavů…";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditTypeConclusionTypes" = "Upravit typy…";
+
+/* EditToDoGeneralContentController */
+"_EditToDoGeneralContentController_Title" = "Obecné";
+
+/* (No Comment) */
+"_EditToDosContentController_Sorting_ByDueDate" = "Podle data splnění";
+
+/* (No Comment) */
+"_EditToDosContentController_Sorting_ByPriority" = "Podle priority";
+
+/* (No Comment) */
+"_EditToDosContentController_Sorting_ByStatus" = "Podle stavu";
+
+/* (No Comment) */
+"_EditToDosContentController_Sorting_ByTitle" = "Podle názvu";
+
+/* (No Comment) */
+"_EditToDosContentController_Sorting_ByType" = "Podle typu";
+
+/* (No Comment) */
+"_EditToDoTextContentController_LargePlaceholder" = "Nebyl zadán žádný text";
+
+/* (No Comment) */
+"_EditToDoTextContentController_SmallPlaceholder" = "Klikněte sem pro zadání textu tohoto úkolu";
+
+/* EditToDoTextContentController */
+"_EditToDoTextContentController_Title" = "Text";
+
+/* (No Comment) */
+"_FreeformControlsEventsControlDescription_NEvents" = "%d událostí";
+
+/* (No Comment) */
+"_FreeformControlsEventsControlDescription_OneEvent" = "1 událost";
+
+/* Specialized Freeform Controls */
+"_FreeformControlsNotesControlDescription_NNotes" = "%d poznámek";
+
+/* (No Comment) */
+"_FreeformControlsNotesControlDescription_OneNote" = "1 poznámka";
+
+/* (No Comment) */
+"_FreeformControlsSourceRelationsControlDescription_NSources" = "%d zdrojů";
+
+/* (No Comment) */
+"_FreeformControlsSourceRelationsControlDescription_OneSource" = "1 zdroj";
+
+/* (No Comment) */
+"_FreeformControlsStorySectionRelationsControlDescription_NRelations" = "%d odkazovaných položek";
+
+/* (No Comment) */
+"_FreeformControlsStorySectionRelationsControlDescription_OneRelation" = "Jedna odkazovaná položka";
+
+/* (No Comment) */
+"_FreeformControlsTextFieldControlDescription_NoMicrophoneAvailableDescription" = "Nebyl nalezen žádný mikrofon.";
+
+/* (No Comment) */
+"_FreeformControlsTextFieldControlDescription_NoMicrophoneAvailableRecovery" = "Pro rozpoznávání řeči je vyžadován mikrofon. Ujistěte se, že je k dispozici mikrofon a že jej nepoužívá žádná jiná aplikace.";
+
+/* (No Comment) */
+"_FreeformControlsTextFieldControlDescription_SpeechNotGrantedDescription" = "Pro rozpoznávání řeči je vyžadováno oprávnění";
+
+/* (No Comment) */
+"_FreeformControlsTextFieldControlDescription_SpeechNotGrantedRecovery" = "Family Tree nemá oprávnění pro rozpoznávání řeči. Udělte prosím oprávnění Family Tree pomocí nastavení soukromí v předvolbách systému.";
+
+/* (No Comment) */
+"_InteractiveTreeEditFamilyController_Title" = "Interaktivní strom - rodiny";
+
+/* InteractiveTreeEditFamilySearchPersonSummaryContentController */
+"_InteractiveTreeEditFamilySearchPersonSummaryContentController_Title" = "Osobní shrnutí";
+
+/* InteractiveTreeEditPersonActionsContentController */
+"_InteractiveTreeEditPersonActionsContentController_Title" = "Akce";
+
+/* (No Comment) */
+"_InteractiveTreeEditPersonController_SelectPersonsPlaceholder_Message" = "Chcete-li začít s úpravami, vyberte osobu nebo rodinné spojení";
+
+/* InteractiveTreeEditPersonController */
+"_InteractiveTreeEditPersonController_SelectPersonsPlaceholder_Title" = "Vybrat osobu nebo rodinu";
+
+/* (No Comment) */
+"_InteractiveTreeEditPersonController_Title" = "Interaktivní strom - osoby";
+
+/* (No Comment) */
+"_ManagePersonGroupPersons_NoPersonsInGroup" = "Žádné osoby nejsou součástí této skupiny osob";
+
+/* (No Comment) */
+"_ManagePersonGroupPersons_NoPersonsLeftToAdd" = "Všechny osoby ve vašem rodokmenu byly přidány do této skupiny osob";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsAddRelatives_Title" = "Přidat příbuzné do skupiny";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsController_AddPersonsToGroup" = "Přidat osoby do skupiny";
+
+/* ManagePersonGroupPersonsController */
+"_ManagePersonGroupPersonsController_Title" = "Osoby ve skupině";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_AllGenerations" = "Všechny generace";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_AllRelativesOfChildren" = "Přidat všechny příbuzné potomků";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_AllRelativesOfParents" = "Přidat všechny příbuzné předků";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_AllRelativesOfPartners" = "Přidat všechny příbuzné partnerů";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_Children" = "Přidat všechny potomky osoby";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_Explanation" = "Vyberte prosím, jaké příbuzné osoby '%@' chcete přidat do této skupiny osob:";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_GenerationsToCollect" = "Generace ke shromáždění";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_Parents" = "Přidat všechny předky osoby";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_Partners" = "Přidat partnery do skupiny";
+
+/* (No Comment) */
+"_ManagePersonGroupPersonsControllerAddRelativesInformation_PartnersOfChildren" = "Přidat všechny partnery potomků";
+
+/* PlaceLookupControllerResultPlacePreviewLinksContentController */
+"_PlaceLookupControllerResultPlacePreviewLinksContentController_Title" = "Webové stránky";
+
+/* PlaceLookupControllerResultPlacePreviewNamesContentController */
+"_PlaceLookupControllerResultPlacePreviewNamesContentController_Title" = "Názvy";
+
+/* (No Comment) */
+"_SectionIdentifier_aboveMainFullWidth" = "Nad hlavní oblastí – plná šířka";
+
+/* Section Identifiers */
+"_SectionIdentifier_main" = "Hlavní oblast";
+
+/* (No Comment) */
+"_SectionIdentifier_parents" = "Rodičovská oblast";
+
+/* (No Comment) */
+"_SectionIdentifier_top" = "Oblast hlavičky";
+

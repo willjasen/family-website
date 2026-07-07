@@ -1,0 +1,19 @@
+﻿/*LocalizationNames*/
+"_LocalizationName_de" = "German";
+"_LocalizationName_en" = "English";
+"_LocalizationName_fr" = "French";
+"_LocalizationName_sv" = "Swedish";
+"_LocalizationName_it" = "Italian";
+"_LocalizationName_da" = "Danish";
+"_LocalizationName_es" = "Spanish";
+"_LocalizationName_fi" = "Finnish";
+"_LocalizationName_pt" = "Portuguese";
+"_LocalizationName_pl" = "Polish";
+"_LocalizationName_nl" = "Dutch";
+"_LocalizationName_cs" = "Czech";
+"_LocalizationName_nb" = "Norwegian";
+"_LocalizationName_hu" = "Hungarian";
+"_LocalizationName_ru" = "Russian";
+"_LocalizationName_zh" = "Simplified Chinese";
+
+"_LocalizationName_INTL" = "International";

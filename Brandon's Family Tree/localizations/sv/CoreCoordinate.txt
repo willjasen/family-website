@@ -1,0 +1,15 @@
+﻿/* (No Comment) */
+"_Coordinate_East" = "Öst";
+
+/* (No Comment) */
+"_Coordinate_North" = "Norr";
+
+/* (No Comment) */
+"_Coordinate_South" = "Syd";
+
+/* User Readable Coordinate */
+"_Coordinate_UserReadableDegree" = "%@° %@' %@\" %@";
+
+/* (No Comment) */
+"_Coordinate_West" = "Väst";
+

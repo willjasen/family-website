@@ -1,0 +1,1704 @@
+﻿/* (No Comment) */
+"_AdditionalName_ChangeLog_Added" = "Lisänimi '%@' lisätty";
+
+/* (No Comment) */
+"_AdditionalName_ChangeLog_ConflictResolved" = "Kirjauksen '%@' ristiriidan ratkaisu '%@'";
+
+/* (No Comment) */
+"_AdditionalName_ChangeLog_Deleted" = "Lisänimi '%@' poistettu";
+
+/* (No Comment) */
+"_AdditionalName_ChangeLogPropertyKey_FirstName" = "Henkilön '%@' etunimi on muutettu nimestä '%@' nimeksi '%@'";
+
+/* (No Comment) */
+"_AdditionalName_ChangeLogPropertyKey_LastName" = "Henkilön '%@' sukunimi on muutettu nimestä '%@' nimeksi '%@'";
+
+/* (No Comment) */
+"_AdditionalName_ChangeLogPropertyKey_Type" = "Lisänimityyppi muutettu muodosta '%@' muotoon '%@'";
+
+/* (No Comment) */
+"_BaseMedia_ChangeLog_Added" = "Media lisätty";
+
+/* (No Comment) */
+"_BaseMedia_ChangeLog_Deleted" = "Media '%@' poistettu";
+
+/* (No Comment) */
+"_BaseMedia_ChangeLogKey" = "Media %@";
+
+/* (No Comment) */
+"_BaseMedia_ChangeLogPropertyKey_Date" = "Päivä '%@' muutettu päiväksi '%@'";
+
+/* (No Comment) */
+"_BaseMedia_ChangeLogPropertyKey_PDFFileIdentifier" = "PDF muokattu";
+
+/* (No Comment) */
+"_BaseMedia_ChangeLogPropertyKey_PictureFileIdentifier" = "Kuvaa muokattu";
+
+/* (No Comment) */
+"_BaseMedia_ChangeLogPropertyKey_Title" = "Otsikko '%@' muutettu otsikoksi '%@'";
+
+/* Base Object Composite Images Modes */
+"_BaseObject_CompositeImages_Mode_None" = "Näytä aina paikanvaraaja ikoni";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_PrimaryImageFromPrimaryMediaContainer" = "Näytä ensimmäinen kuva";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_PrimaryImageFromPrimaryMediaContainerAndConnectedMediaContainers" = "Näytä ensimmäinen kuva, myös yhdistetyistä syötteistä kerätyt";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_UpToSixImagesFromPrimaryMediaContainer" = "Näytä enintään kuusi kuvaa";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_UpToSixImagesFromPrimaryMediaContainerAndConnectedMediaContainers" = "Näytä enintään kuusi kuvaa, myös yhdistetyistä syötteistä kerätyt";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_UpToTenImagesFromPrimaryMediaContainer" = "Näytä enintään kymmenen kuvaa";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_UpToTenImagesFromPrimaryMediaContainerAndConnectedMediaContainers" = "Näytä enintään kymmenen kuvaa, myös yhdistetyistä syötteistä kerätyt";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_UpToThreeImagesFromPrimaryMediaContainer" = "Näytä enintään kolme kuvaa";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_UpToThreeImagesFromPrimaryMediaContainerAndConnectedMediaContainers" = "Näytä enintään kolme kuvaa, myös yhdistetyistä syötteistä kerätyt";
+
+/* (No Comment) */
+"_ChangeLog_NoValuePlaceholder" = "Ei tietoa";
+
+/* Change Log */
+"_ChangeLogEntry_ObjectIsStillPresentTooltip" = "Tämä syöte on yhä tietokannassa";
+
+/* (No Comment) */
+"_ChangeLogEntry_ObjectNoLongerPresentTooltip" = "Tämä syöte on poistettu tietokannasta eikä ole enää käytettävissä";
+
+/* (No Comment) */
+"_ChildRelation_ChangeLog_Deleted" = "Lapsi '%@' poistettu perheestä";
+
+/* (No Comment) */
+"_ChildRelation_ChangeLog_Deleted_Child" = "Poistettu perheen '%@' lapsena";
+
+/* (No Comment) */
+"_ChildRelation_ChangeLogPropertyKey_Child" = "Lapsi '%@' lisätty";
+
+/* (No Comment) */
+"_ChildRelation_ChangeLogPropertyKey_Family" = "Lisätty lapsena perheeseen '%@'";
+
+/* (No Comment) */
+"_ChildRelation_ChangeLogPropertyKey_RelationTypeToManInFamily" = "Lapsen '%@' sukulaisuus isäänsä muuttunut tyypistä '%@' tyyppiin '%@'";
+
+/* (No Comment) */
+"_ChildRelation_ChangeLogPropertyKey_RelationTypeToWomanInFamily" = "Lapsen '%@' sukulaisuus äitiinsä muuttunut tyypistä '%@' tyyppiin '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLog_Added" = "Tapahtuma '%@' lisätty";
+
+/* (No Comment) */
+"_Event_ChangeLog_ConflictResolvedForAssignedPlace" = "Ristiriita tapahtuman '%@' paikan ratkaisu '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLog_ConflictResolvedForAssignedPlaceDetail" = "Ristiriita paikan tapahtumalle '%@' ratkaistu '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLog_ConflictResolvedForCoordinate" = "Ristiriita tapahtuman '%@' koordinaatin ratkaisu '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLog_ConflictResolvedForGenericProperty" = "Kirjauksen '%@' tapahtuman '%@' ristiriidan ratkaisu '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLog_Deleted" = "Tapahtuma '%@' poistettu";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_Address" = "Tapahtuman '%@' osoite '%@' on muutettu osoitteeksi '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_Agency" = "Tapahtuman '%@' viranomainen '%@' on muutettu viranomaiseksi '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_AssignedPlace" = "Tapahtuman '%@' paikka on muutettu paikaksi '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_AssignedPlaceDetail" = "Tapahtuman '%@' paikkatiedot muutettu '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_Cause" = "Tapahtuman '%@' syy '%@' on muutettu syyksi '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_Coordinate" = "Tapahtuman '%@' koordinaatit on muutettu koordinaateiksi '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_Date" = "Tapahtuman '%@' päivä '%@' on muutettu päiväksi '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_Time" = "Tapahtuman '%@' aika '%@' muutettu ajaksi '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_Type" = "Tapahtumalaji on muutettu lajista '%@' lajiksi '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_UserDescription" = "Tapahtuman '%@' kuvaus '%@' on muutettu kuvaukseksi '%@'";
+
+/* (No Comment) */
+"_Fact_ChangeLog_Added" = "Tieto '%@' lisätty";
+
+/* (No Comment) */
+"_Fact_ChangeLog_ConflictResolvedForValue" = "Tiedon '%@' ristiriidan ratkaisu '%@'";
+
+/* (No Comment) */
+"_Fact_ChangeLog_Deleted" = "Tieto '%@' poistettu";
+
+/* (No Comment) */
+"_Fact_ChangeLogPropertyKey_Type" = "Tietolaji '%@' on muutettu lajiksi '%@'";
+
+/* (No Comment) */
+"_Fact_ChangeLogPropertyKey_Value" = "Tieto '%@' muutettu lajista '%@' lajiksi '%@'";
+
+/* (No Comment) */
+"_Family_ChangeLog_Added" = "Perhe lisätty";
+
+/* (No Comment) */
+"_Family_ChangeLog_ConflictResolvedForMan" = "Liitetyn miehen ristiriidan ratkaisu '%@'";
+
+/* (No Comment) */
+"_Family_ChangeLog_ConflictResolvedForWoman" = "Liitetyn naisen ristiriidan ratkaisu '%@'";
+
+/* (No Comment) */
+"_Family_ChangeLog_Deleted" = "Perhe poistettu";
+
+/* (No Comment) */
+"_Family_ChangeLogKey" = "Perhe %@";
+
+/* (No Comment) */
+"_Family_ChangeLogPropertyKey_Man" = "Lisätty henkilö '%@' mieheksi";
+
+/* (No Comment) */
+"_Family_ChangeLogPropertyKey_Woman" = "Lisätty henkilö '%@' naiseksi";
+
+/* (No Comment) */
+"_MediaRelation_ChangeLog_BaseMediaDeleted" = "Media '%@' poistettu";
+
+/* (No Comment) */
+"_MediaRelation_ChangeLog_MediaContainerDeleted" = "Syöte '%@' poistettu mediasta";
+
+/* (No Comment) */
+"_MediaRelation_ChangeLogPropertyKey_BaseMedia" = "Media '%@' lisätty";
+
+/* (No Comment) */
+"_MediaRelation_ChangeLogPropertyKey_MediaContainer" = "Lisätty mediana kohteeseen '%@'";
+
+/* (No Comment) */
+"_ObjectDescription_AdditionalName" = "Lisänimi %@ henkilölle %@";
+
+/* (No Comment) */
+"_ObjectDescription_AssociateRelation" = "Vaikuttavan henkilön sukulaisuus %@";
+
+/* (No Comment) */
+"_ObjectDescription_Book" = "Kirja %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookBaseObjectsBasedReportBuilderObject" = "Raporttikappaleen kohde %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookBaseObjectsBasedReportBuilderSection" = "Raporttikappale %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookChapter" = "Kirjan kappale %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookDiagramBaseObject" = "Kuvaajalukukohde";
+
+/* (No Comment) */
+"_ObjectDescription_BookDiagramReportBuilderSection" = "Kaaviokappale %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookFamilyBasedReportBuilderSection" = "Raporttikappale %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookFamilySection" = "Perheluku %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookGenericReportBuilderSection" = "Raporttikappale %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookPersonBasedReportBuilderSection" = "Raporttikappale %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookPersonSection" = "Henkilöluku %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookReportBuilderFamily" = "Raporttikappale perhe %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookReportBuilderPerson" = "Raporttikappale perhe %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookSerializedBaseObjectReportBuilder" = "Asetukset kappaleelle %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookSerializedBaseReportBuilder" = "Asetukset kappaleelle %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookSerializedChapterReportBuilder" = "Asetukset luvulle %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookSerializedEditedReportBuilder" = "Asetukset muokatulle kappaleelle %@";
+
+/* (No Comment) */
+"_ObjectDescription_ChildRelation" = "Lapsiviittaus %@ - %@";
+
+/* (No Comment) */
+"_ObjectDescription_ConclusionAdditionalNameType" = "Lisänimityyppi %@";
+
+/* (No Comment) */
+"_ObjectDescription_ConclusionAssociateRelationType" = "Vaikuttava viittaus tyyppi %@";
+
+/* (No Comment) */
+"_ObjectDescription_ConclusionFamilyEventType" = "Perhetapahtumalaji %@";
+
+/* (No Comment) */
+"_ObjectDescription_ConclusionPersonEventType" = "Henkilötapahtumalaji %@";
+
+/* (No Comment) */
+"_ObjectDescription_ConclusionPersonFactType" = "Henkilötietolaji %@";
+
+/* (No Comment) */
+"_ObjectDescription_Coordinate" = "Paikan %@ koordinaatit";
+
+/* (No Comment) */
+"_ObjectDescription_DNATestATDNASubResult" = "atDNA testitulos – %@";
+
+/* (No Comment) */
+"_ObjectDescription_DNATestMTDNASubResult" = "mtDNA testitulos – %@";
+
+/* (No Comment) */
+"_ObjectDescription_DNATestMTDNASubResultSNPDifference" = "DNA mtDNA SNP ero %@";
+
+/* (No Comment) */
+"_ObjectDescription_DNATestResult" = "DNA testitulos %@";
+
+/* (No Comment) */
+"_ObjectDescription_DNATestYDNASubResult" = "Y-DNA testitulos – %@";
+
+/* (No Comment) */
+"_ObjectDescription_DNATestYDNASubResultYSTRMarker" = "DNA Y-DNA STR Markkeri %@";
+
+/* (No Comment) */
+"_ObjectDescription_Family" = "Perhe %@";
+
+/* (No Comment) */
+"_ObjectDescription_FamilyEvent" = "Tapahtuma %@ perheelle %@";
+
+/* (No Comment) */
+"_ObjectDescription_FamilyEvent_PlaceExtension" = "paikassa %@";
+
+/* (No Comment) */
+"_ObjectDescription_FamilySearchKnownBadFurtherInformationMatch" = "FamilySearch tiedot %@";
+
+/* (No Comment) */
+"_ObjectDescription_FamilySearchKnownBadPersonMatch" = "FamilySearch tiedot %@";
+
+/* (No Comment) */
+"_ObjectDescription_FamilyTreeInformation" = "Sukupuun tekijätiedot";
+
+/* (No Comment) */
+"_ObjectDescription_Label" = "Merkki %@";
+
+/* (No Comment) */
+"_ObjectDescription_MediaAudio" = "Audio %@ henkilöstä %@";
+
+/* (No Comment) */
+"_ObjectDescription_MediaPDF" = "PDF %@ henkilöstä %@";
+
+/* (No Comment) */
+"_ObjectDescription_MediaPicture" = "Kuva %@ henkilöstä %@";
+
+/* (No Comment) */
+"_ObjectDescription_MediaRelation" = "Mediaviittaus %@";
+
+/* (No Comment) */
+"_ObjectDescription_MediaRelationAssignment" = "Mediajako %@";
+
+/* (No Comment) */
+"_ObjectDescription_MediaURL" = "Webbisivu %@ henkilölle %@";
+
+/* (No Comment) */
+"_ObjectDescription_MediaVideo" = "Video %@ henkilöstä %@";
+
+/* (No Comment) */
+"_ObjectDescription_Note" = "Merkintä henkilölle %@";
+
+/* Object Descriptions */
+"_ObjectDescription_Person" = "Henkilö %@";
+
+/* (No Comment) */
+"_ObjectDescription_PersonEvent" = "Tapahtuma %@ henkilölle %@";
+
+/* (No Comment) */
+"_ObjectDescription_PersonEvent_PlaceExtension" = "paikassa %@";
+
+/* (No Comment) */
+"_ObjectDescription_PersonFact" = "Tieto %@ henkilölle %@";
+
+/* (No Comment) */
+"_ObjectDescription_PersonGroup" = "Henkilöryhmä %@";
+
+/* (No Comment) */
+"_ObjectDescription_Place" = "Paikkakunta %@";
+
+/* (No Comment) */
+"_ObjectDescription_PlaceDetail" = "Merkittävä paikka %@";
+
+/* (No Comment) */
+"_ObjectDescription_PlaceKeyValue" = "Paikan arvo – %@: %@";
+
+/* (No Comment) */
+"_ObjectDescription_PlaceTemplate" = "Paikan malli %@";
+
+/* (No Comment) */
+"_ObjectDescription_PlaceTemplateKey" = "Paikan mallikenttä %@";
+
+/* (No Comment) */
+"_ObjectDescription_PlaceTemplateKeyRelation" = "Paikan mallikentän viittaus %@ - %@";
+
+/* (No Comment) */
+"_ObjectDescription_Scope" = "Älysuodatin %@";
+
+/* (No Comment) */
+"_ObjectDescription_Source" = "Lähde %@";
+
+/* (No Comment) */
+"_ObjectDescription_SourceKeyValue" = "Lähdearvo – %@: %@";
+
+/* (No Comment) */
+"_ObjectDescription_SourceRelation" = "Lähdelainaus - %@ - %@";
+
+/* (No Comment) */
+"_ObjectDescription_SourceTemplate" = "Lähdemalli %@";
+
+/* (No Comment) */
+"_ObjectDescription_SourceTemplateKey" = "Lähdemallikenttä %@";
+
+/* (No Comment) */
+"_ObjectDescription_SourceTemplateKeyRelation" = "Lähdemallikenttä suhde %@ – %@";
+
+/* (No Comment) */
+"_ObjectDescription_Story" = "Tarina %@";
+
+/* (No Comment) */
+"_ObjectDescription_StorySection" = "Tarinan kappale %@";
+
+/* (No Comment) */
+"_ObjectDescription_ToDo" = "Tehtävät %@";
+
+/* (No Comment) */
+"_ObjectProperty_AdditionalName_conclusionType" = "Tyyppi";
+
+/* AdditionalName */
+"_ObjectProperty_AdditionalName_firstName" = "Etunimi";
+
+/* (No Comment) */
+"_ObjectProperty_AdditionalName_lastName" = "Sukunimi";
+
+/* (No Comment) */
+"_ObjectProperty_AdditionalName_nameMiddle" = "Muut etunimet";
+
+/* (No Comment) */
+"_ObjectProperty_AdditionalName_namePrefix" = "Titteli";
+
+/* (No Comment) */
+"_ObjectProperty_AdditionalName_nameSuffix" = "Nimen liite";
+
+/* (No Comment) */
+"_ObjectProperty_AdditionalName_person" = "Henkilö";
+
+/* (No Comment) */
+"_ObjectProperty_AssociateRelation_conclusionType" = "Tyyppi";
+
+/* AssociateRelation */
+"_ObjectProperty_AssociateRelation_date" = "Päivä";
+
+/* (No Comment) */
+"_ObjectProperty_BaseMedia_canShowAsMediaForMediaContainer" = "Käytä aloituskuvana";
+
+/* (No Comment) */
+"_ObjectProperty_BaseMedia_date" = "Päivä";
+
+/* (No Comment) */
+"_ObjectProperty_BaseMedia_isBookmarked" = "Merkitty kirjanmerkkeihin";
+
+/* BaseMedia */
+"_ObjectProperty_BaseMedia_title" = "Otsikko";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_ancestralFileNumberID" = "Esi-isätiedoston numero:";
+
+/* BaseObject */
+"_ObjectProperty_BaseObject_changeDate" = "Muutospäivä";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_cloudKitChangeTag" = "Pilvipuun muutostiedot";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_creationDate" = "Luomispäivä";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_excludedPlausibilityAnalyzerClassNames" = "Luotettavuustarkistustieto";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_familySearchID" = "FamilySearch ID";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_gedcomID" = "Gedcom ID";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_isPrivate" = "Merkitty yksityiseksi";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_referenceNumberID" = "Oma Viitenumero";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_researchAssistantCompletedQuestionsMask" = "Tutkimusapuritieto";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_uniqueID" = "Sisäinen yksilöllinen ID";
+
+/* (No Comment) */
+"_ObjectProperty_Book_author" = "Tekijä";
+
+/* (No Comment) */
+"_ObjectProperty_Book_chapterNumeralType" = "Kappalenumerot";
+
+/* (No Comment) */
+"_ObjectProperty_Book_chaptersOnSeparatePage" = "Kappaleet eri sivulla";
+
+/* (No Comment) */
+"_ObjectProperty_Book_date" = "Päivä";
+
+/* (No Comment) */
+"_ObjectProperty_Book_includeCitationsAsDefault" = "Sisällytä lähdetiedot uusiin raportteihin";
+
+/* (No Comment) */
+"_ObjectProperty_Book_languageShouldReformatDates" = "Paikalliset päivämäärämuodot";
+
+/* (No Comment) */
+"_ObjectProperty_Book_localizationIdentifier" = "Kieli";
+
+/* (No Comment) */
+"_ObjectProperty_Book_onlyColorizeChapterPages" = "Vain kappalesivut värillisinä";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundChapterNumberColor" = "Kappalenumeron väri";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundChapterTitleColor" = "Kappaleen otsikon väri";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundPageNumberAlignment" = "Sivunumerotasaus";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundPageNumberColor" = "Sivunumeron väri";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundPageNumberEnabled" = "Sivunumerointi sallittu";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundPageNumberPosition" = "Sivunumeron paikka";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundRendererStyle" = "Sivun otsikon tyyli";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundSectionNumberColor" = "Kappaleen numeron väri";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundSectionTitleColor" = "Kappaleen otsikon väri";
+
+/* (No Comment) */
+"_ObjectProperty_Book_style" = "Kirjan tyyli";
+
+/* (No Comment) */
+"_ObjectProperty_Book_styleFontScaling" = "Kirjasinskaalaus";
+
+/* (No Comment) */
+"_ObjectProperty_Book_templateClassName" = "Malli";
+
+/* (No Comment) */
+"_ObjectProperty_Book_title" = "Otsikko";
+
+/* (No Comment) */
+"_ObjectProperty_Book_useTextualStyleAsDefault" = "Käytä tekstityyliä uusille raporteille";
+
+/* Book */
+"_ObjectProperty_BookBaseItem_order" = "Luettelo";
+
+/* (No Comment) */
+"_ObjectProperty_BookBaseObjectReportBuilder_baseObjectSection" = "Sisältyvä kappale";
+
+/* (No Comment) */
+"_ObjectProperty_BookBaseObjectsBasedReportBuilderObject_baseObject" = "Osa";
+
+/* (No Comment) */
+"_ObjectProperty_BookBaseObjectsBasedReportBuilderObject_baseObjectsBasedReportBuilderSection" = "Kappale";
+
+/* (No Comment) */
+"_ObjectProperty_BookBaseObjectsBasedReportBuilderObject_order" = "Luettelo";
+
+/* (No Comment) */
+"_ObjectProperty_BookBaseSection_alwaysWantsNewPageForItems" = "Uuden sivun alakohdat";
+
+/* (No Comment) */
+"_ObjectProperty_BookBaseSection_bookChapter" = "Sisältää kappaleet";
+
+/* (No Comment) */
+"_ObjectProperty_BookBaseSection_name" = "Nimi";
+
+/* (No Comment) */
+"_ObjectProperty_BookChapter_chapterHighlightColor" = "Kappaleen korostusväri";
+
+/* (No Comment) */
+"_ObjectProperty_BookChapter_chapterPageColor" = "Kappaleen sivun väri";
+
+/* (No Comment) */
+"_ObjectProperty_BookChapter_chapterType" = "Kappaleen laji";
+
+/* (No Comment) */
+"_ObjectProperty_BookChapter_name" = "Kappaleen nimi";
+
+/* (No Comment) */
+"_ObjectProperty_BookDiagramBaseObject_baseObject" = "Merkintä";
+
+/* (No Comment) */
+"_ObjectProperty_BookDiagramBaseObject_diagramReportBuilderSection" = "Kappale";
+
+/* (No Comment) */
+"_ObjectProperty_BookPersonSection_person" = "Henkilö";
+
+/* (No Comment) */
+"_ObjectProperty_BookReportBuilderFamily_family" = "Perhe";
+
+/* (No Comment) */
+"_ObjectProperty_BookReportBuilderFamily_familyBasedReportBuilderSection" = "Kappale";
+
+/* (No Comment) */
+"_ObjectProperty_BookReportBuilderPerson_person" = "Henkilö";
+
+/* (No Comment) */
+"_ObjectProperty_BookReportBuilderPerson_personBasedReportBuilderSection" = "Kappale";
+
+/* (No Comment) */
+"_ObjectProperty_BookSerializedBaseReportBuilder_baseItem" = "Raporttikappale";
+
+/* (No Comment) */
+"_ObjectProperty_BookSerializedReportBuilder_serializedReportBuilderData" = "Raporttiasetukset";
+
+/* (No Comment) */
+"_ObjectProperty_ChildRelation_child" = "Lapsi";
+
+/* (No Comment) */
+"_ObjectProperty_ChildRelation_family" = "Perhe";
+
+/* (No Comment) */
+"_ObjectProperty_ChildRelation_relationTypeToManInFamily" = "Suhdetyyppi isään";
+
+/* (No Comment) */
+"_ObjectProperty_ChildRelation_relationTypeToWomanInFamily" = "Suhdetyyppi äitiin";
+
+/* ChildRelation */
+"_ObjectProperty_ChildRelation_type" = "Lapsisuhteen laji";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionAssociateRelationType_compatibleAssociatedContainerClassName" = "Viittauksen kohde";
+
+/* ConclusionAssociateRelationType */
+"_ObjectProperty_ConclusionAssociateRelationType_invertedTypeName" = "Päinvastainen nimi tyyppi";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionAssociateRelationType_invertedTypeName_ForFamily" = "Tyyppinimi henkilön näkökulmasta";
+
+/* ConclusionToDoPriorityType */
+"_ObjectProperty_ConclusionToDoPriorityType_isDefault" = "Oletus";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionToDoStatusType_isDefault" = "Oletus";
+
+/* ConclusionToDoStatusType */
+"_ObjectProperty_ConclusionToDoStatusType_typeShouldBeConsideredAsDone" = "Käsiteltävä kuten 'Valmis'";
+
+/* ConclusionToDoTypeType */
+"_ObjectProperty_ConclusionToDoTypeType_isDefault" = "Oletus";
+
+/* ConclusionType */
+"_ObjectProperty_ConclusionType_gedcomTag" = "GEDCOM Tagi";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_iconPNGData" = "Ikoni";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_identifier" = "Tunnistin";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_isEnabled" = "Sallittu";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_isUserCreated" = "Käyttäjän luoma";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_showAsPlaceholder" = "Näytä paikanvaraajana";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_typeName" = "Tyypin nimi";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_typeName_ForFamily" = "Tyyppinimi perheen näkökulmasta";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_typeNameLocalizationKey" = "Nimen lokalisointiavain";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_generated_coordinate_string" = "Koordinaatit";
+
+/* Coordinate */
+"_ObjectProperty_Coordinate_latitude" = "Leveyspiiri";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_latitudeDegrees" = "Leveysasteet";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_latitudeIsSouth" = "Leveyssuunta";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_latitudeMinutes" = "Leveysminuutit";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_latitudeSeconds" = "Leveyssekunnit";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_longitude" = "Pituuspiiri";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_longitudeDegrees" = "Pituusasteet";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_longitudeIsWest" = "Pituussunta";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_longitudeMinutes" = "Pituusminuutit";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_longitudeSeconds" = "Pituussekunnit";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_place" = "Paikkakunta";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_placeDetail" = "Merkittävä paikka";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestMTDNASubResult_haplogroupString" = "mtDNA Haploryhmä";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestMTDNASubResultSNPDifference_differenceString" = "SNP ero";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestMTDNASubResultSNPDifference_order" = "Järjestys";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestResult_dateString" = "Päivämäärä";
+
+/* DNATestResult */
+"_ObjectProperty_DNATestResult_name" = "Testinimi";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestResult_person" = "Henkilö";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestResult_templateIdentifier" = "Malli";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestResult_urlToVendor" = "Webbisivu";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestYDNASubResult_haplogroupString" = "Y-DNA Haploryhmä";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestYDNASubResultYSTRMarker_order" = "Järjestys";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestYDNASubResultYSTRMarker_strName" = "STR markkerin nimi";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestYDNASubResultYSTRMarker_strValueString" = "STR arvo";
+
+/* (No Comment) */
+"_ObjectProperty_Event_address" = "Osoite";
+
+/* (No Comment) */
+"_ObjectProperty_Event_agency" = "Viranomaiset";
+
+/* (No Comment) */
+"_ObjectProperty_Event_assignedPlace" = "Paikkakunta";
+
+/* (No Comment) */
+"_ObjectProperty_Event_assignedPlaceDetail" = "Merkittävä paikka";
+
+/* (No Comment) */
+"_ObjectProperty_Event_cause" = "Syy";
+
+/* Event */
+"_ObjectProperty_Event_date" = "Päivä";
+
+/* (No Comment) */
+"_ObjectProperty_Event_ldsStatus" = "MAP asema";
+
+/* (No Comment) */
+"_ObjectProperty_Event_ldsTempleCode" = "MAP Temppelikoodi";
+
+/* (No Comment) */
+"_ObjectProperty_Event_time" = "Aika";
+
+/* (No Comment) */
+"_ObjectProperty_Event_userDescription" = "Kuvaus";
+
+/* Fact */
+"_ObjectProperty_Fact_value" = "Arvo";
+
+/* Family */
+"_ObjectProperty_Family_cached_marriageDate" = "Avioitumispäivä";
+
+/* (No Comment) */
+"_ObjectProperty_Family_cached_marriageDateAsDate" = "Avioitumispäivä";
+
+/* (No Comment) */
+"_ObjectProperty_Family_childRelations" = "Lapsisuhteet";
+
+/* (No Comment) */
+"_ObjectProperty_Family_events" = "Perhetapahtumat";
+
+/* (No Comment) */
+"_ObjectProperty_Family_isBookmarked" = "Merkitty kirjanmerkkeihin";
+
+/* (No Comment) */
+"_ObjectProperty_Family_man" = "Mies";
+
+/* (No Comment) */
+"_ObjectProperty_Family_woman" = "Nainen";
+
+/* FamilyEvent */
+"_ObjectProperty_FamilyEvent_conclusionType" = "Tapahtumalaji";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyEvent_family" = "Perhe";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressCity" = "Tekijän osoite Kaupunki";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressCountry" = "Tekijän osoite Maa";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressLine" = "Tekijän osoite Osoiterivi 1";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressLine1" = "Tekijän osoite Osoiterivi 2";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressLine2" = "Tekijän osoite Osoiterivi 3";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressLine3" = "Tekijän osoite Osoiterivi 4";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressPostalCode" = "Tekijän osoite Postinumero";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressState" = "Tekijän osoite Osavaltio";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorEmail" = "Tekijän sähköpostiosoite";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorFax" = "Tekijän Faksi";
+
+/* FamilyTreeInformation */
+"_ObjectProperty_FamilyTreeInformation_authorName" = "Tekijän Nimi";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorPhoneNumber" = "Tekijän Puhelinnumero";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorWebAddress" = "Tekijän Webbiosoite";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_mediaThumbnailsStyle" = "Median esikatselutyyli";
+
+/* Label */
+"_ObjectProperty_Label_colorComponentsString" = "Väri";
+
+/* (No Comment) */
+"_ObjectProperty_Label_title" = "Otsikko";
+
+/* MediaAudio */
+"_ObjectProperty_MediaAudio_audioFileIdentifier" = "Audio";
+
+/* MediaPDF */
+"_ObjectProperty_MediaPDF_pdfFileIdentifier" = "PDF";
+
+/* (No Comment) */
+"_ObjectProperty_MediaPDF_thumbnailFileIdentifier" = "Esikatselu";
+
+/* MediaPicture */
+"_ObjectProperty_MediaPicture_pictureFileIdentifier" = "Kuva";
+
+/* (No Comment) */
+"_ObjectProperty_MediaPicture_thumbnailFileIdentifier" = "Esikatselu";
+
+/* MediaRelation */
+"_ObjectProperty_MediaRelation_hasMediaRelationAssignment" = "On jaettu medialle";
+
+/* MediaURL */
+"_ObjectProperty_MediaURL_url" = "Webbisivun osoite";
+
+/* (No Comment) */
+"_ObjectProperty_MediaVideo_thumbnailFileIdentifier" = "Esikatselu";
+
+/* MediaVideo */
+"_ObjectProperty_MediaVideo_videoFileIdentifier" = "Video";
+
+/* Note */
+"_ObjectProperty_Note_text" = "Teksti";
+
+/* NoteContainer */
+"_ObjectProperty_NoteContainer_notes" = "Muistiinpanot";
+
+/* OrderedConclusionType */
+"_ObjectProperty_OrderedConclusionType_order" = "Järjestys";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_birthDate" = "Syntymäaika";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_birthDateAsDate" = "Syntymäaika";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_christeningDate" = "Kastepäivämäärä";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_christeningDateAsDate" = "Kastepäivämäärä";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_deathDate" = "Kuolinaika";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_deathDateAsDate" = "Kuolinaika";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_fullName" = "Täydellinen nimi";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_fullNameForSorting" = "Koko nimi lajittelua varten";
+
+/* Person */
+"_ObjectProperty_Person_firstName" = "Etunimi";
+
+/* (No Comment) */
+"_ObjectProperty_Person_firstNameSoundex" = "Etunimen soundex";
+
+/* (No Comment) */
+"_ObjectProperty_Person_gender" = "Sukupuoli";
+
+/* (No Comment) */
+"_ObjectProperty_Person_isBookmarked" = "Merkitty kirjanmerkkeihin";
+
+/* (No Comment) */
+"_ObjectProperty_Person_isStartPerson" = "Merkitty aloitushenkilöksi";
+
+/* (No Comment) */
+"_ObjectProperty_Person_lastName" = "Sukunimi";
+
+/* (No Comment) */
+"_ObjectProperty_Person_lastNameSoundex" = "Sukunimen soundex";
+
+/* (No Comment) */
+"_ObjectProperty_Person_marriedName" = "Avioliittonimi";
+
+/* (No Comment) */
+"_ObjectProperty_Person_nameMiddle" = "Muut etunimet";
+
+/* (No Comment) */
+"_ObjectProperty_Person_nameMiddleSoundex" = "Muiden etunimien soundex";
+
+/* (No Comment) */
+"_ObjectProperty_Person_namePrefix" = "Titteli";
+
+/* (No Comment) */
+"_ObjectProperty_Person_namePrefixSoundex" = "Tittelin soundex";
+
+/* (No Comment) */
+"_ObjectProperty_Person_nameSuffix" = "Nimen liite";
+
+/* (No Comment) */
+"_ObjectProperty_Person_nameSuffixSoundex" = "Nimen liitteen soundex";
+
+/* PersonEvent */
+"_ObjectProperty_PersonEvent_conclusionType" = "Tapahtumalaji";
+
+/* (No Comment) */
+"_ObjectProperty_PersonEvent_person" = "Henkilö";
+
+/* PersonFact */
+"_ObjectProperty_PersonFact_conclusionType" = "Tietolaji";
+
+/* (No Comment) */
+"_ObjectProperty_PersonFact_person" = "Henkilö";
+
+/* PersonGroup */
+"_ObjectProperty_PersonGroup_name" = "Nimi";
+
+/* (No Comment) */
+"_ObjectProperty_PersonGroup_personGroupColor" = "Väri";
+
+/* (No Comment) */
+"_ObjectProperty_PersonGroup_userDescription" = "Kuvaus";
+
+/* (No Comment) */
+"_ObjectProperty_Place_alternatePlaceNames" = "Lisänimet";
+
+/* (No Comment) */
+"_ObjectProperty_Place_coordinate" = "Koordinaatit";
+
+/* (No Comment) */
+"_ObjectProperty_Place_country" = "Maa";
+
+/* (No Comment) */
+"_ObjectProperty_Place_county" = "Maakunta";
+
+/* (No Comment) */
+"_ObjectProperty_Place_geoNameID" = "GeoName ID";
+
+/* (No Comment) */
+"_ObjectProperty_Place_isBookmarked" = "On kirjanmerkitty";
+
+/* (No Comment) */
+"_ObjectProperty_Place_place" = "Paikka";
+
+/* (No Comment) */
+"_ObjectProperty_Place_state" = "Osavaltio";
+
+/* Place */
+"_ObjectProperty_Place_template" = "Paikka malli";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceDetail_geoNameID" = "GeoName ID";
+
+/* PlaceDetail */
+"_ObjectProperty_PlaceDetail_name" = "Nimi";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceDetail_place" = "Paikka";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceKeyValue_place" = "Paikka";
+
+/* PlaceKeyValue */
+"_ObjectProperty_PlaceKeyValue_templateKey" = "Mallikenttä";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceKeyValue_value" = "Arvo";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplate_countryIdentifier" = "Maa";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplate_isDefaultTemplate" = "Oletusmalli";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplate_isFavoriteTemplate" = "Suosikkimalli";
+
+/* PlaceTemplate */
+"_ObjectProperty_PlaceTemplate_name" = "Nimi";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKey_gedcomTag" = "GEDCOM-FORM-tagi paikkakunnille";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKey_internationalName" = "Kansainvälinen nimi";
+
+/* PlaceTemplateKey */
+"_ObjectProperty_PlaceTemplateKey_localName" = "Paikallinen nimi";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKey_order" = "Järjestys";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_normalCitationBracketMode" = "Normaalit lainausmerkit";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_normalCitationEnabled" = "Normaalit lainausmerkit käytössä";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_normalCitationOrder" = "Normaali viitejärjestys";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_normalCitationTrailingMode" = "Normaali lainaus erotin";
+
+/* PlaceTemplateKeyRelation */
+"_ObjectProperty_PlaceTemplateKeyRelation_order" = "Järjestys";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_shortCitationBracketMode" = "Lyhyet lainausmerkit";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_shortCitationEnabled" = "Lyhyet lainausmerkit käytössä";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_shortCitationOrder" = "Lyhyt lainausjärjestys";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_shortCitationTrailingMode" = "Lyhyt lainaus erotin";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_veryShortCitationBracketMode" = "Hyvin lyhyet lainausmerkit";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_veryShortCitationEnabled" = "Hyvin lyhyet lainausmerkit käytössä";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_veryShortCitationOrder" = "Short Citation Order";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_veryShortCitationTrailingMode" = "Hyvin lyhyt viite-erotin";
+
+/* (No Comment) */
+"_ObjectProperty_SavedBook_author" = "Tekijä";
+
+/* SavedBook */
+"_ObjectProperty_SavedBook_bookData" = "Kirja";
+
+/* (No Comment) */
+"_ObjectProperty_SavedBook_subTitle" = "Alaotsikko";
+
+/* (No Comment) */
+"_ObjectProperty_SavedBook_thumbnailData" = "Peukalonkynsi";
+
+/* SavedChart */
+"_ObjectProperty_SavedChart_chartObjectsContainerData" = "Kuvaaja";
+
+/* (No Comment) */
+"_ObjectProperty_SavedChart_thumbnailData" = "Esikatselu";
+
+/* SavedReport */
+"_ObjectProperty_SavedReport_reportControllerData" = "Raportti";
+
+/* (No Comment) */
+"_ObjectProperty_SavedReport_thumbnailData" = "Esikatselu";
+
+/* (No Comment) */
+"_ObjectProperty_SavedView_date" = "Päivä";
+
+/* SavedView */
+"_ObjectProperty_SavedView_title" = "Otsikko";
+
+/* (No Comment) */
+"_ObjectProperty_SavedWebsite_changeDate" = "Muuta päivämäärä";
+
+/* SavedWebsite */
+"_ObjectProperty_SavedWebsite_fileIdentifier" = "Data";
+
+/* (No Comment) */
+"_ObjectProperty_Scope_archivedFiltersContainerData" = "Älysuodatin kuvaus";
+
+/* Scope */
+"_ObjectProperty_Scope_scopeEntity" = "Älysuodatinlaji";
+
+/* (No Comment) */
+"_ObjectProperty_Scope_scopeName" = "Älysuodattimen nimi";
+
+/* (No Comment) */
+"_ObjectProperty_Source_isBookmarked" = "Merkitty kirjanmerkkeihin";
+
+/* (No Comment) */
+"_ObjectProperty_Source_sourceRepository" = "Lähdearkisto";
+
+/* Source */
+"_ObjectProperty_Source_template" = "Lähdemalli";
+
+/* (No Comment) */
+"_ObjectProperty_Source_text" = "Teksti";
+
+/* SourceContainer */
+"_ObjectProperty_SourceContainer_sourceRelations" = "Lähdelainaukset";
+
+/* (No Comment) */
+"_ObjectProperty_SourceKeyValue_source" = "Lähde";
+
+/* SourceKeyValue */
+"_ObjectProperty_SourceKeyValue_templateKey" = "Mallikenttä";
+
+/* (No Comment) */
+"_ObjectProperty_SourceKeyValue_value" = "Arvo";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRelation_certainty" = "Varmuus";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRelation_page" = "Sivu";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRelation_qualityEvidence" = "Näytän laatu";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRelation_qualityInformation" = "Tiedon laatu";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRelation_qualitySource" = "Lähteen laatu";
+
+/* SourceRelation */
+"_ObjectProperty_SourceRelation_source" = "Lähde";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRelation_sourceContainer" = "Viitattu kirjaus";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_address" = "Osoite";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_addressLine1" = "Osoiterivi 1";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_addressLine2" = "Osoiterivi 2";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_addressLine3" = "Osoiterivi 3";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_city" = "Kaupunki";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_country" = "Maa";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_email" = "S-posti";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_fax" = "Faksi";
+
+/* SourceRepository */
+"_ObjectProperty_SourceRepository_name" = "Nimi";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_phone" = "Puhelin";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_postalCode" = "Postinumero";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_state" = "Osoite";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_www" = "WWW";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplate_isDefaultTemplate" = "Oletusmalli";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplate_isFavoriteTemplate" = "Suosikkimalli";
+
+/* SourceTemplate */
+"_ObjectProperty_SourceTemplate_name" = "Nimi";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKey_gedcomTag" = "GEDCOM tagi";
+
+/* SourceTemplateKey */
+"_ObjectProperty_SourceTemplateKey_name" = "Kentän nimi";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKey_order" = "Järjestys";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKey_type" = "Kentän tyyppi";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_isDateForDisplayComponent" = "Sisältyy lähdepäivään";
+
+/* SourceTemplateKeyRelation */
+"_ObjectProperty_SourceTemplateKeyRelation_isTitleComponent" = "Sisältyy lähdeotsikkoon";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_longCitationBracketMode" = "Pitkien lainausten sulkeet";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_longCitationEnabled" = "Pitkät lainaukset sallittu";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_longCitationFontMode" = "Pitkien lainausten kirjasin";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_longCitationOrder" = "Pitkien lainausten järjestys";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_longCitationTrailingMode" = "Pitkien lainauksen erotin";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_order" = "Järjestys";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_shortCitationBracketMode" = "Lyhyiden lainausten sulkeet";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_shortCitationEnabled" = "Lyhyet lainaukset sallittu";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_shortCitationFontMode" = "Lyhyiden lainausten kirjasin";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_shortCitationOrder" = "Lyhyiden lainausten järjestys";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_shortCitationTrailingMode" = "Lyhyiden lainausten erotin";
+
+/* (No Comment) */
+"_ObjectProperty_Story_fromDate" = "Päivämäärästä";
+
+/* Story */
+"_ObjectProperty_Story_title" = "Otsikko";
+
+/* (No Comment) */
+"_ObjectProperty_Story_toDate" = "Päivämäärään";
+
+/* (No Comment) */
+"_ObjectProperty_Story_userDescription" = "Kuvaus";
+
+/* (No Comment) */
+"_ObjectProperty_StorySection_order" = "Järjestys";
+
+/* StorySection */
+"_ObjectProperty_StorySection_subtitle" = "Kappaleen otsikko";
+
+/* (No Comment) */
+"_ObjectProperty_StorySection_text" = "Teksti";
+
+/* ToDo */
+"_ObjectProperty_ToDo_dueDate" = "Laskettu aika";
+
+/* (No Comment) */
+"_ObjectProperty_ToDo_priorityConclusionType" = "Tärkeys";
+
+/* (No Comment) */
+"_ObjectProperty_ToDo_statusConclusionType" = "Tila";
+
+/* (No Comment) */
+"_ObjectProperty_ToDo_text" = "Teksti";
+
+/* (No Comment) */
+"_ObjectProperty_ToDo_title" = "Otsikko";
+
+/* (No Comment) */
+"_ObjectProperty_ToDo_typeConclusionType" = "Tyyppi";
+
+/* (No Comment) */
+"_ObjectType_AdditionalName" = "Lisänimet";
+
+/* (No Comment) */
+"_ObjectType_AssociateRelation" = "Vaikuttavan henkilön sukulaisuus";
+
+/* (No Comment) */
+"_ObjectType_BaseMedia" = "Media";
+
+/* (No Comment) */
+"_ObjectType_BaseObjectFamilySearchProperties" = "FamilySearch Informaatio";
+
+/* (No Comment) */
+"_ObjectType_Book" = "Kirja";
+
+/* (No Comment) */
+"_ObjectType_BookBaseObjectReportBuilder" = "Henkilö-/Perheraportti";
+
+/* (No Comment) */
+"_ObjectType_BookBaseObjectsBasedReportBuilderObject" = "Raporttikappalekohde";
+
+/* (No Comment) */
+"_ObjectType_BookBaseObjectsBasedReportBuilderSection" = "Raporttikappale";
+
+/* (No Comment) */
+"_ObjectType_BookChapter" = "Kirjan luku";
+
+/* (No Comment) */
+"_ObjectType_BookDiagramBaseObject" = "Kuvaajaraporttiluku";
+
+/* (No Comment) */
+"_ObjectType_BookDiagramReportBuilderSection" = "Kaaviokappale %@";
+
+/* (No Comment) */
+"_ObjectType_BookFamilyBasedReportBuilderSection" = "Raporttikappale";
+
+/* (No Comment) */
+"_ObjectType_BookFamilySection" = "Perheluku";
+
+/* (No Comment) */
+"_ObjectType_BookGenericReportBuilderSection" = "Raporttikappale";
+
+/* (No Comment) */
+"_ObjectType_BookPersonBasedReportBuilderSection" = "Raporttikappale";
+
+/* (No Comment) */
+"_ObjectType_BookPersonSection" = "Henkilöluku";
+
+/* (No Comment) */
+"_ObjectType_BookReportBuilderFamily" = "Raporttikappale Perhe";
+
+/* (No Comment) */
+"_ObjectType_BookReportBuilderPerson" = "Raporttikappale Henkilö";
+
+/* (No Comment) */
+"_ObjectType_BookSerializedBaseObjectReportBuilder" = "Raporttiasetukset";
+
+/* (No Comment) */
+"_ObjectType_BookSerializedBaseReportBuilder" = "Raporttikappale asetukset";
+
+/* (No Comment) */
+"_ObjectType_BookSerializedChapterReportBuilder" = "Raporttiluku asetukset";
+
+/* (No Comment) */
+"_ObjectType_BookSerializedEditedReportBuilder" = "Muokattu raportti asetukset";
+
+/* (No Comment) */
+"_ObjectType_ChangeLogEntry" = "Muutosloki";
+
+/* (No Comment) */
+"_ObjectType_ChangeLogSubEntry" = "Muutoslokitietoa";
+
+/* (No Comment) */
+"_ObjectType_ChildRelation" = "Lapsisuhde";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerCloudKitChangesWorklist" = "CloudTree synkronointi Informaatio";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerCloudKitChangesWorklistAddVerifyListItem" = "CloudTree synkronointi Informaatio";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerCloudKitChangesWorklistForRecordType" = "CloudTree synkronointi Informaatio";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerCloudKitChangesWorklistForRecordTypeEntry" = "CloudTree synkronointi Informaatio";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerCloudKitChangesWorklistZoneNameServerChangeToken" = "CloudTree synkronointi Informaatio";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerLocalChangesWorklist" = "CloudTree synkronointi Informaatio";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerLocalChangesWorklistDanglingReferenceEntry" = "CloudTree synkronointi Informaatio";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerLocalChangesWorklistFinalDeleteEntry" = "CloudTree synkronointi Informaatio";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerLocalChangesWorklistForEntity" = "CloudTree synkronointi Informaatio";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerLocalChangesWorklistForEntityEntry" = "CloudTree synkronointi Informaatio";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerLocalChangesWorklistPostponedEntry" = "CloudTree synkronointi Informaatio";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerSpecialPostDownloadStep" = "CloudTree synkronointi Informaatio";
+
+/* (No Comment) */
+"_ObjectType_ConclusionAdditionalNameType" = "Lisänimityyppi";
+
+/* (No Comment) */
+"_ObjectType_ConclusionAssociateRelationType" = "Vaikuttava sukulaisuustyyppi";
+
+/* (No Comment) */
+"_ObjectType_ConclusionFamilyEventType" = "Perhetapahtumalaji";
+
+/* (No Comment) */
+"_ObjectType_ConclusionPersonEventType" = "Henkilötapahtumalaji";
+
+/* (No Comment) */
+"_ObjectType_ConclusionPersonFactType" = "Henkilötietolaji";
+
+/* (No Comment) */
+"_ObjectType_Coordinate" = "Koordinaatit";
+
+/* (No Comment) */
+"_ObjectType_DNATestATDNASubResult" = "Autosomaali DNA tulostiedot";
+
+/* (No Comment) */
+"_ObjectType_DNATestBaseSubResultRawDataFile" = "DNA raakadatatiedosto";
+
+/* (No Comment) */
+"_ObjectType_DNATestMTDNASubResult" = "mtDNA tulostiedot";
+
+/* (No Comment) */
+"_ObjectType_DNATestMTDNASubResultSNPDifference" = "mtDNA SNP tulostiedot";
+
+/* (No Comment) */
+"_ObjectType_DNATestResult" = "DNA testitulos";
+
+/* (No Comment) */
+"_ObjectType_DNATestYDNASubResult" = "Y-DNA tulostiedot";
+
+/* (No Comment) */
+"_ObjectType_DNATestYDNASubResultYSTRMarker" = "Y-DNA STR markkeri";
+
+/* (No Comment) */
+"_ObjectType_Event" = "Tapahtuma";
+
+/* (No Comment) */
+"_ObjectType_Fact" = "Tieto";
+
+/* (No Comment) */
+"_ObjectType_Family" = "Perhe";
+
+/* (No Comment) */
+"_ObjectType_FamilyEvent" = "Perhetapahtuma";
+
+/* (No Comment) */
+"_ObjectType_FamilySearchKnownBadFurtherInformationMatch" = "FamilySearch tiedot";
+
+/* (No Comment) */
+"_ObjectType_FamilySearchKnownBadPersonMatch" = "FamilySearch tiedot";
+
+/* (No Comment) */
+"_ObjectType_FamilyTreeInformation" = "SukupuuInformaatio";
+
+/* (No Comment) */
+"_ObjectType_Label" = "Merkki";
+
+/* (No Comment) */
+"_ObjectType_LabelRelation" = "Etikettiviittaus";
+
+/* (No Comment) */
+"_ObjectType_MediaAudio" = "Äänimedia";
+
+/* (No Comment) */
+"_ObjectType_MediaPDF" = "PDF media";
+
+/* (No Comment) */
+"_ObjectType_MediaPicture" = "Kuvamedia";
+
+/* (No Comment) */
+"_ObjectType_MediaRelation" = "Mediaviite";
+
+/* (No Comment) */
+"_ObjectType_MediaRelationAssignment" = "Mediajako";
+
+/* (No Comment) */
+"_ObjectType_MediaRelationAssignmentPicture" = "Mediasuhdetehtäväkuva";
+
+/* (No Comment) */
+"_ObjectType_MediaURL" = "URL media";
+
+/* (No Comment) */
+"_ObjectType_MediaVideo" = "Videomedia";
+
+/* (No Comment) */
+"_ObjectType_Note" = "Muistiinpano";
+
+/* Object Types */
+"_ObjectType_Person" = "Henkilö";
+
+/* (No Comment) */
+"_ObjectType_PersonEvent" = "Henkilötapahtuma";
+
+/* (No Comment) */
+"_ObjectType_PersonFact" = "Henkilötieto";
+
+/* (No Comment) */
+"_ObjectType_PersonGroup" = "Henkilöryhmä";
+
+/* (No Comment) */
+"_ObjectType_PersonGroupRelation" = "Mediaryhmäviittaus";
+
+/* (No Comment) */
+"_ObjectType_Place" = "Paikkakunta";
+
+/* (No Comment) */
+"_ObjectType_PlaceDetail" = "Paikan tiedot";
+
+/* (No Comment) */
+"_ObjectType_PlaceKeyValue" = "Paikan arvo";
+
+/* (No Comment) */
+"_ObjectType_PlaceTemplate" = "Paikan malli";
+
+/* (No Comment) */
+"_ObjectType_PlaceTemplateKey" = "Paikan malli kenttä";
+
+/* (No Comment) */
+"_ObjectType_PlaceTemplateKeyRelation" = "Paikan mallikenttä viittaus";
+
+/* (No Comment) */
+"_ObjectType_ResearchAssistantQuestionInfo" = "Tutkimusapuritiedot";
+
+/* (No Comment) */
+"_ObjectType_SavedBook" = "Tallennettu kirja";
+
+/* (No Comment) */
+"_ObjectType_SavedChart" = "Kuvaaja";
+
+/* (No Comment) */
+"_ObjectType_SavedReport" = "Raportti";
+
+/* (No Comment) */
+"_ObjectType_SavedWebsite" = "Tallennettu webbisivu";
+
+/* (No Comment) */
+"_ObjectType_Scope" = "Älysuodatin";
+
+/* (No Comment) */
+"_ObjectType_Source" = "Lähde";
+
+/* (No Comment) */
+"_ObjectType_SourceKeyValue" = "Lähdearvo";
+
+/* (No Comment) */
+"_ObjectType_SourceRelation" = "Lähdelainaus";
+
+/* (No Comment) */
+"_ObjectType_SourceRepository" = "Lähdearkisto";
+
+/* (No Comment) */
+"_ObjectType_SourceTemplate" = "Lähdemalli";
+
+/* (No Comment) */
+"_ObjectType_SourceTemplateKey" = "Lähdemallikenttä";
+
+/* (No Comment) */
+"_ObjectType_SourceTemplateKeyRelation" = "Lähdemallikenttä suhde";
+
+/* (No Comment) */
+"_ObjectType_Story" = "Tarina";
+
+/* (No Comment) */
+"_ObjectType_StoryRelation" = "Tarinaviittaus";
+
+/* (No Comment) */
+"_ObjectType_StorySection" = "Tarinan kappale";
+
+/* (No Comment) */
+"_ObjectType_StorySectionRelation" = "Tarinan kappale viittaus";
+
+/* (No Comment) */
+"_ObjectType_ToDo" = "Tehtävä";
+
+/* (No Comment) */
+"_ObjectType_ToDoRelation" = "Tehtäväviittaus";
+
+/* (No Comment) */
+"_Person_ChangeLog_Added" = "Henkilö lisätty";
+
+/* (No Comment) */
+"_Person_ChangeLog_ConflictResolved" = "Kirjauksen '%@' ristiriidan ratkaisu '%@'";
+
+/* (No Comment) */
+"_Person_ChangeLog_Deleted" = "Henkilö '%@' poistettu";
+
+/* (No Comment) */
+"_Person_ChangeLogKey" = "Henkilö %@";
+
+/* (No Comment) */
+"_Person_ChangeLogPropertyKey_FirstName" = "Etunimi muutettu nimestä '%@' nimeksi '%@'";
+
+/* (No Comment) */
+"_Person_ChangeLogPropertyKey_Gender" = "Sukupuoli '%@' on muutettu sukupuoleksi '%@'";
+
+/* (No Comment) */
+"_Person_ChangeLogPropertyKey_LastName" = "Sukunimi muutettu nimestä '%@' nimeksi '%@'";
+
+/* (No Comment) */
+"_Person_ChangeLogPropertyKey_NameMiddle" = "Muu etunimi muutettu nimestä '%@' nimeksi '%@'";
+
+/* (No Comment) */
+"_Person_ChangeLogPropertyKey_NamePrefix" = "Nimen etuliite muutettu liitteestä '%@' liitteeksi '%@'";
+
+/* (No Comment) */
+"_Person_ChangeLogPropertyKey_NameSuffix" = "Nimen liite muutettu liitteestä '%@' liitteeksi '%@'";
+
+/* (No Comment) */
+"_PlaceTemplateKeyRelation_relationUsage" = "Käyttö";
+
+/* (No Comment) */
+"_Source_ChangeLog_Added" = "Lähde lisätty";
+
+/* (No Comment) */
+"_Source_ChangeLog_ConflictResolved" = "Lähteen '%@' ritiriidan ratkaisu '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLog_Deleted" = "Lähde '%@' poistettu";
+
+/* (No Comment) */
+"_Source_ChangeLogKey" = "Lähde %@";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Abbreviation" = "Lyhenne '%@' muutettu lyhenteeksi '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Agency" = "Viranomainen '%@' muutettu viranomaiseksi '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Author" = "Tekijä '%@' muutettu tekijäksi '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Date" = "Päivä '%@' muutettu tekijäksi '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Place" = "Paikka '%@' muutettu paikaksi '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Publication" = "Julkaisu '%@' muutettu julkaisuksi '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_ReferenceNumber" = "Viitenumero '%@' muutettu numeroksi '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_ReferenceType" = "Viitelaji '%@' muutettu lajiksi '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Text" = "Teksti muutettu";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Title" = "Titteli '%@' muutettu titteliksi '%@'";
+
+/* (No Comment) */
+"_SourceKeyValue_ChangeLog_Added" = "Arvo '%@' lisätty";
+
+/* (No Comment) */
+"_SourceKeyValue_ChangeLog_ConflictResolvedForValueProperty" = "Arvon '%@' ristiriita rarkaistu '%@'";
+
+/* (No Comment) */
+"_SourceKeyValue_ChangeLog_Deleted" = "Arvo '%@' poistettu";
+
+/* (No Comment) */
+"_SourceKeyValue_ChangeLogPropertyKey_Value" = "Arvon '%@' sisältö '%@' muutettu sisällöksi '%@'";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLog_SourceContainerDelete" = "Kohteen '%@' lähdelainaus poistettu";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLog_SourceDelete" = "Lähdelainaus '%@' poistettu";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLogPropertyKey_Page" = "Lähteen '%@' lainaussivu muutettu sivusta '%@' sivuksi '%@'";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLogPropertyKey_QualityEvidence" = "Lähteen '%@' luotettavuus muutettu laadusta '%@' laaduksi '%@'";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLogPropertyKey_QualityInformation" = "Lähteen '%@' tietojen lainauksen luotettavuus muutettu laadusta '%@' laaduksi '%@'";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLogPropertyKey_QualitySource" = "Lähteen '%@' lainauksen luotettavuus muutettu laadusta '%@' laaduksi '%@'";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLogPropertyKey_Source" = "Lisätty lähdelainauksena kohteeseen '%@'";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLogPropertyKey_SourceContainer" = "Lähdelainaus '%@' lisätty";
+

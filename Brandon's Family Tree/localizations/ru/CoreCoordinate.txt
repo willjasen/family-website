@@ -1,0 +1,15 @@
+﻿/* (No Comment) */
+"_Coordinate_East" = "Восток";
+
+/* (No Comment) */
+"_Coordinate_North" = "Север";
+
+/* (No Comment) */
+"_Coordinate_South" = "Юг";
+
+/* User Readable Coordinate */
+"_Coordinate_UserReadableDegree" = "%@° %@' %@\" %@";
+
+/* (No Comment) */
+"_Coordinate_West" = "Запад";
+

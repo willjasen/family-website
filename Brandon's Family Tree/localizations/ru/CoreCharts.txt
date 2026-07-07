@@ -1,0 +1,2202 @@
+﻿/* Background Image Mode */
+"_BackgroundGeneratorChartCompositorObject_BackgroundImageMode" = "Стиль изображения фона";
+
+/* (No Comment) */
+"_BackgroundGeneratorChartCompositorObject_BackgroundImageMode_BlurryEdges" = "Размытие краев";
+
+/* (No Comment) */
+"_BackgroundGeneratorChartCompositorObject_BackgroundImageMode_Radial" = "Радиальный";
+
+/* (No Comment) */
+"_BackgroundGeneratorChartCompositorObject_BackgroundImageMode_Rectangle" = "Прямоугольник";
+
+/* (No Comment) */
+"_BackgroundGeneratorChartCompositorObject_BlurryEdgesSize" = "Размер размытые края";
+
+/* (No Comment) */
+"_BarHistoryEventTimelineGeneratorChartCompositorObjectConfiguration_CustomTextColor" = "Настроить цвет текста для исторических событий";
+
+/* (No Comment) */
+"_BarHistoryEventTimelineGeneratorChartCompositorObjectConfiguration_Font" = "Шрифт для исторических событий";
+
+/* (No Comment) */
+"_BarHistoryEventTimelineGeneratorChartCompositorObjectConfiguration_TextColoringMode" = "Раскраска текста для событий истории";
+
+/* (No Comment) */
+"_BarPersonTimelineGeneratorChartCompositorObjectConfiguration_EventMarkerMode" = "Маркеры события";
+
+/* (No Comment) */
+"_BarPersonTimelineGeneratorChartCompositorObjectConfiguration_EventMarkerMode_Circles" = "Круги";
+
+/* (No Comment) */
+"_BarPersonTimelineGeneratorChartCompositorObjectConfiguration_EventMarkerMode_Lines" = "Линии";
+
+/* BaseChartBuilder */
+"_BaseChartBuilderConfiguration_PlaceFormat_CompleteLocationString" = "Полное название места";
+
+/* (No Comment) */
+"_BaseChartBuilderConfiguration_PlaceFormat_OnlyPlaceName" = "Сокращённое название места";
+
+/* LineColorModes */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineColorMode" = "Режим цвета линии";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineColorMode_ContrastToBackground" = "Контраст с фоном";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineColorMode_Custom" = "Настроить";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration" = "Украшение конца линии";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_Bar" = "Полоса";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_LargeCircle" = "Большой круг";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_LargeDot" = "Большая точка";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_None" = "Нет";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_SmallCircle" = "Малый круг";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_SmallDot" = "Малая точка";
+
+/* BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration */
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_MediaPictureAssignmentMode" = "Режим медиа изображения";
+
+/* (No Comment) */
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_MediaPictureAssignmentMode_FullPictureWithoutAssignment" = "Полное изображение без обрезки";
+
+/* (No Comment) */
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_MediaPictureAssignmentMode_OnlyUserProvidedAssignment" = "Обрезать изображение, если это явно указано";
+
+/* (No Comment) */
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_MediaPictureAssignmentMode_UserProvidedOrVision" = "Обрезать изображение когда указано и когда лицо обнаружено";
+
+/* (No Comment) */
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_MediaPictureAssignmentModeExplanation" = "Укажите здесь, как должны отображаться медиа. Выберите, должны ли отображаться полные изображения или изображения должны быть обрезаны до лиц с помощью искусственного интеллекта.";
+
+/* (No Comment) */
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_OutsetForMediaPictureAssignmentModeForVision" = "Расстояние для обнаруженных лиц";
+
+/* (No Comment) */
+"_ChartCompositorObjectsContainer_RealignmentMode_DistributeObjectsEvenlyOnPageFromBorderToBorder" = "Распределить объекты на все страницы";
+
+/* ChartCompositorObjectsContainer_RealignmentMode */
+"_ChartCompositorObjectsContainer_RealignmentMode_MoveObjectsAwayFromPageCuts" = "Отодвинуть объекты от разрывов страниц";
+
+/* (No Comment) */
+"_ChartFillSettings_FillType_LinearGradient" = "Градиент";
+
+/* ChartFillSettings */
+"_ChartFillSettings_FillType_None" = "Нет";
+
+/* (No Comment) */
+"_ChartFillSettings_FillType_None_Explanation" = "Тип заполнения не выбран";
+
+/* (No Comment) */
+"_ChartFillSettings_FillType_RadialGradient" = "Радиальный градиент";
+
+/* (No Comment) */
+"_ChartFillSettings_FillType_RadialGradient_Abbreviation" = "Радиальный";
+
+/* (No Comment) */
+"_ChartFillSettings_FillType_SolidColor" = "Цвет";
+
+/* (No Comment) */
+"_ChartObjectType_BezierConnectionBuilderItemGeneratorChartCompositorObject" = "Линии Безье";
+
+/* (No Comment) */
+"_ChartObjectType_BlobConnectionBuilderItemGeneratorChartCompositorObject" = "Органические соединения";
+
+/* Chart object types */
+"_ChartObjectType_DirectStraightConnectionBuilderItemGeneratorChartCompositorObject" = "Прямые соединения";
+
+/* (No Comment) */
+"_ChartObjectType_HConnectionBuilderItemGeneratorChartCompositorObject" = "H соединения";
+
+/* (No Comment) */
+"_ChartObjectType_YStraightConnectionBuilderItemGeneratorChartCompositorObject" = "Y прямые соединения";
+
+/* (No Comment) */
+"_Charts_XAlignment_Center" = "По центру";
+
+/* Alignment */
+"_Charts_XAlignment_Left" = "Слева";
+
+/* (No Comment) */
+"_Charts_XAlignment_Right" = "Справа";
+
+/* (No Comment) */
+"_Charts_YAlignment_Bottom" = "Снизу";
+
+/* (No Comment) */
+"_Charts_YAlignment_Middle" = "По середине";
+
+/* (No Comment) */
+"_Charts_YAlignment_Top" = "Сверху";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_ExportAsSeparatePages" = "Отдельные страницы";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_ExportAsSeparatePages_Explanation" = "Если выбрано, несколько страниц будут использоваться для диаграммы.";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_ExportBackground" = "Показать фон";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_ExportBackground_Explanation" = "Если выбрано, фон будет виден на изображении.";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_Margins" = "Поля";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_Margins_Explanation" = "Используйте этот параметр для указания полей вокруг диаграммы до границы изображения.";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_Margins_ExplanationForPrinting" = "Устанавливает поля диаграммы на границе каждой страницы.";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_PrintingTitle" = "Параметры печати";
+
+/* ChartsBaseCGContextViewerConfiguration */
+"_ChartsBaseCGContextViewerConfiguration_Title" = "Параметры экспорта";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewer_JPEGToLarge_Description" = "Эта диаграмма слишком велика для экспорта в виде файла JPEG. Пожалуйста, настройте масштаб на более низкий или экспортируйте диаграмму в виде файла PNG или PDF.";
+
+/* ChartsBitmapCGContextViewerConfiguration */
+"_ChartsBitmapCGContextViewerConfiguration_ExportFormat" = "Формат экспорта";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_ExportFormat_Explanation" = "Пожалуйста, выберите нужный формат изображения для использования. Файлы PNG могут содержать прозрачный фон, тогда как файлы JPEG предлагают лучшее сжатие и меньший размер файла.";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_ExportFormat_JPEG" = "Экспорт в формате JPEG";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_ExportFormat_PNG" = "Экспорт в формате PNG";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_JPEGQuality" = "Качество JPEG";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_JPEGQuality_Explanation" = "Качество JPEG определяет степень сжатия изображения. Более низкое качество приведёт к меньшему размеру файла, но может привести к артефактам сжатия.";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_Scaling" = "Масштаб";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_Scaling_Explanation" = "Установите масштаб конечного изображения. Большие масштабы увеличивают размер файла, но предлагают больше деталей, прежде чем будет видна пикселизация.";
+
+/* (No Comment) */
+"_ChartsEditor_AlignMode_BottomY" = "Выровнять снизу по вертикали";
+
+/* ChartEditor */
+"_ChartsEditor_AlignMode_LeftX" = "Выровнять слева по горизонтали";
+
+/* (No Comment) */
+"_ChartsEditor_AlignMode_MiddleX" = "Выровнять по центру, горизонтально";
+
+/* (No Comment) */
+"_ChartsEditor_AlignMode_MiddleY" = "Выровнять по центру, горизонтально";
+
+/* (No Comment) */
+"_ChartsEditor_AlignMode_RightX" = "Выровнять справа по горизонтали";
+
+/* (No Comment) */
+"_ChartsEditor_AlignMode_TopY" = "Выровнять сверху по вертикали";
+
+/* (No Comment) */
+"_Common_AdditionalNameFormat" = "Дополнительные имена";
+
+/* (No Comment) */
+"_Common_AdditionalNameFormatExplanation" = "Настройте здесь, какие дополнительные имена должны отображаться на диаграмме.";
+
+/* (No Comment) */
+"_Common_Alignment" = "Выравнивание";
+
+/* (No Comment) */
+"_Common_Alignment_BottomToTop" = "Снизу вверх";
+
+/* (No Comment) */
+"_Common_Alignment_FathersBottomMothersTop" = "Отцы снизу, матери сверху";
+
+/* (No Comment) */
+"_Common_Alignment_FathersLeftMothersRight" = "Отцы слева, матери справа";
+
+/* (No Comment) */
+"_Common_Alignment_FathersLeftMothersRightCondensed" = "Отцы слева, матери справа (сжато)";
+
+/* (No Comment) */
+"_Common_Alignment_FathersRightMothersLeft" = "Отцы справа, матери слева";
+
+/* (No Comment) */
+"_Common_Alignment_FathersRightMothersLeftCondensed" = "Отцы справа, матери слева (сжато)";
+
+/* (No Comment) */
+"_Common_Alignment_FathersTopMothersBottom" = "Отцы сверху, матери снизу";
+
+/* (No Comment) */
+"_Common_Alignment_LeftToRight" = "Слева направо";
+
+/* (No Comment) */
+"_Common_Alignment_LeftToRightCondensed" = "Слева направо (сжато)";
+
+/* (No Comment) */
+"_Common_Alignment_RightToLeft" = "Справа налево";
+
+/* (No Comment) */
+"_Common_Alignment_RightToLeftCondensed" = "Справа налево (сжато)";
+
+/* (No Comment) */
+"_Common_Alignment_TopToBottom" = "Сверху вниз";
+
+/* (No Comment) */
+"_Common_AlignmentExplanation" = "Определяет общее расположение людей в диаграмме";
+
+/* (No Comment) */
+"_Common_AlignOnGrid" = "Выровнять по статической сетке";
+
+/* (No Comment) */
+"_Common_AlignOnGridExplanation" = "Размещает всех людей в зависимости от размера самого большого блока, давая более однородный вид, но занимает больше места.";
+
+/* (No Comment) */
+"_Common_AncestorGenerationsOfPartnerSlider" = "Предки поколений партнеров";
+
+/* (No Comment) */
+"_Common_AncestorGenerationsSlider" = "Поколения предков";
+
+/* (No Comment) */
+"_Common_AnestorGenerationsForPartnersSlider" = "Поколения предков для партнёров";
+
+/* (No Comment) */
+"_Common_AnglesGroupName" = "Углы";
+
+/* (No Comment) */
+"_Common_AngleSlider" = "Угол";
+
+/* (No Comment) */
+"_Common_ArrowsGroupName" = "Стрелки";
+
+/* (No Comment) */
+"_Common_AssociatedPersonsGroupName" = "Влиятельные люди";
+
+/* (No Comment) */
+"_Common_AssociateRelationLines" = "Влиятельные отношения";
+
+/* (No Comment) */
+"_Common_Author" = "Автор";
+
+/* (No Comment) */
+"_Common_AuthorColor" = "Авторский цвет";
+
+/* (No Comment) */
+"_Common_AuthorCustomTextColor" = "Настроить авторский цвет";
+
+/* (No Comment) */
+"_Common_AuthorEnabledCheckbox" = "Показать автора";
+
+/* (No Comment) */
+"_Common_AuthorFont" = "Авторский шрифт";
+
+/* (No Comment) */
+"_Common_AuthorGroupName" = "Автор";
+
+/* (No Comment) */
+"_Common_AuthorTextColoringMode" = "Авторское раскрашивание";
+
+/* (No Comment) */
+"_Common_BackgroundColor" = "Цвет фона";
+
+/* (No Comment) */
+"_Common_BackgroundEdgeRadius" = "Радиус края фона";
+
+/* (No Comment) */
+"_Common_BackgroundEnabledCheckbox" = "Показать фон";
+
+/* (No Comment) */
+"_Common_BackgroundEnabledCheckboxExplanation" = "Если включено, выберите цвет, градиент или изображение для отображения в качестве фона для этой диаграммы.";
+
+/* (No Comment) */
+"_Common_BackgroundFill" = "Фоновая заливка";
+
+/* (No Comment) */
+"_Common_BackgroundGroupName" = "Фон";
+
+/* (No Comment) */
+"_Common_BackgroundImageOpacity" = "Непрозрачность фонового изображения";
+
+/* (No Comment) */
+"_Common_BackgroundTintFactor" = "Оттенок фона";
+
+/* (No Comment) */
+"_Common_BarAndTextColor" = "Цвет панели и текста";
+
+/* (No Comment) */
+"_Common_BarColor" = "Цвет панели";
+
+/* (No Comment) */
+"_Common_BarEdgeRadius" = "Радиус кромки полосы";
+
+/* (No Comment) */
+"_Common_BarGroupName" = "Полоса";
+
+/* (No Comment) */
+"_Common_BarHeight" = "Высота полосы";
+
+/* (No Comment) */
+"_Common_BarsGroupName" = "Полосы";
+
+/* (No Comment) */
+"_Common_BarsSpacing" = "Интервал полос";
+
+/* (No Comment) */
+"_Common_BarStyle" = "Стиль панели";
+
+/* (No Comment) */
+"_Common_BarsWidth" = "Ширина полосы";
+
+/* (No Comment) */
+"_Common_BorderColor" = "Цвет границы";
+
+/* (No Comment) */
+"_Common_BorderGroupName" = "Гоаница";
+
+/* (No Comment) */
+"_Common_BorderWidth" = "Ширина границы";
+
+/* (No Comment) */
+"_Common_BottomDarkeningFactor" = "Фактор градиента фона";
+
+/* (No Comment) */
+"_Common_BottomLineColor" = "Цвет нижней линии";
+
+/* (No Comment) */
+"_Common_BottomLineWidth" = "Ширина нижней линии";
+
+/* (No Comment) */
+"_Common_BottomMarginSlider" = "Нижний отступ";
+
+/* (No Comment) */
+"_Common_BoundsHeight" = "Высота";
+
+/* (No Comment) */
+"_Common_BoundsWidth" = "Ширина";
+
+/* (No Comment) */
+"_Common_BranchesToTraverse" = "Ветви для перемещения";
+
+/* (No Comment) */
+"_Common_BranchesToTraverse_MaternalAndPaternal" = "Материнская и отцовская";
+
+/* (No Comment) */
+"_Common_BranchesToTraverse_MaternalOfStartPerson" = "Материнская от первого человека";
+
+/* (No Comment) */
+"_Common_BranchesToTraverse_OnlyMaternal" = "Только материнская";
+
+/* (No Comment) */
+"_Common_BranchesToTraverse_OnlyPaternal" = "Только отцовская";
+
+/* (No Comment) */
+"_Common_BranchesToTraverse_PaternalOfStartPerson" = "Отцовская от первого человека";
+
+/* (No Comment) */
+"_Common_BranchesToTraverseExplanation" = "Выберите, какие ветви должны быть перемещены при отображении этого графика. Например, выбор 'Только по отцовской линии' приводит к тому, что в диаграмме оцениваются только отец, дедушка выбранного человека.";
+
+/* (No Comment) */
+"_Common_BranchItemSpacingSlider" = "Расстояние между ветвями";
+
+/* (No Comment) */
+"_Common_BranchItemSpacingSliderExplanation" = "Контролировать как далеко люди будут находиться по отношению к ближайшему общему родственнику.";
+
+/* (No Comment) */
+"_Common_BrothersAndSistersGroupName" = "Братья и сёстры";
+
+/* (No Comment) */
+"_Common_ChildrenGenerationsSlider" = "Поколений детей";
+
+/* (No Comment) */
+"_Common_ColoringMode" = "Режим раскраски";
+
+/* (No Comment) */
+"_Common_ColoringMode_Alternating" = "Чередование";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByAge" = "По возрасту";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByGender" = "По полу";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByGenerationGreenBlue" = "По поколению (зелёный/синий)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByGenerationOrangeCyan" = "По поколению (оранжевый/голубой)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByGenerationRainbow" = "По поколению (радуга)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByGenerationSunset" = "По поколению (закат)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByLabel" = "По метке";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByPedigreeDark" = "По родословной (тёмный)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByPedigreeLight" = "По родословной (светлый)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByPersonGroup" = "По группе людей";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByYear" = "По году";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByYearRainbow" = "По году (радуга)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByYearRainbowSubdued" = "По году (радуга, приглушённый)";
+
+/* (No Comment) */
+"_Common_ColoringMode_Custom" = "Равномерный цвет";
+
+/* (No Comment) */
+"_Common_ColoringMode_Rainbow" = "Радуга";
+
+/* (No Comment) */
+"_Common_ColoringMode_Uniform" = "Равномерный";
+
+/* (No Comment) */
+"_Common_ColoringMode_White" = "Белый";
+
+/* (No Comment) */
+"_Common_ColoringModeExplanation" = "Выберите разные цветовые схемы для людей в этой диаграмме.";
+
+/* (No Comment) */
+"_Common_ColorsGroupName" = "Цвета";
+
+/* (No Comment) */
+"_Common_ConnectionLineType" = "Тип соединительных линий";
+
+/* (No Comment) */
+"_Common_ContentGroupName" = "Содержание";
+
+/* (No Comment) */
+"_Common_CurveFactor" = "Кривая";
+
+/* (No Comment) */
+"_Common_CustomColor" = "Настроить цвет";
+
+/* (No Comment) */
+"_Common_CustomTextColor" = "Настроить цвет текста";
+
+/* (No Comment) */
+"_Common_Date" = "Дата";
+
+/* (No Comment) */
+"_Common_DateColor" = "Цвет даты";
+
+/* (No Comment) */
+"_Common_DateCustomTextColor" = "Настроить цвет даты";
+
+/* (No Comment) */
+"_Common_DateEnabledCheckbox" = "Показать дату";
+
+/* (No Comment) */
+"_Common_DateFont" = "Шрифт даты";
+
+/* (No Comment) */
+"_Common_DateFormatGroupName" = "Форматы даты";
+
+/* (No Comment) */
+"_Common_DateFormatStyle" = "Стиль формата даты";
+
+/* (No Comment) */
+"_Common_DateFormatStyle_Full" = "Полная (Понедельник, 17 Ноября 2014)";
+
+/* (No Comment) */
+"_Common_DateFormatStyle_Long" = "Длинный (17 ноября 2014 г.)";
+
+/* (No Comment) */
+"_Common_DateFormatStyle_Medium" = "Средний (17 нояб. 2014 г.)";
+
+/* (No Comment) */
+"_Common_DateFormatStyle_Short" = "Короткий (11/17/2014)";
+
+/* (No Comment) */
+"_Common_DateFormatStyleExplanation" = "Укажите здесь, какой стиль формата даты использовать при переформатировании дат";
+
+/* (No Comment) */
+"_Common_DateGroupName" = "Дата";
+
+/* (No Comment) */
+"_Common_DatesGroupName" = "Даты";
+
+/* (No Comment) */
+"_Common_DateTextColor" = "Цвет текста даты";
+
+/* (No Comment) */
+"_Common_DateTextColoringMode" = "Раскрашивание даты";
+
+/* (No Comment) */
+"_Common_DescendantGenerationsSlider" = "Потомки поколений";
+
+/* (No Comment) */
+"_Common_DisplayValuesGroupName" = "Значения";
+
+/* (No Comment) */
+"_Common_DistributeToAllPagesButton" = "Размер объектов для размещения на всех страницах";
+
+/* (No Comment) */
+"_Common_EdgeHeight" = "Высота края";
+
+/* (No Comment) */
+"_Common_EdgeRadius" = "Радиус края";
+
+/* (No Comment) */
+"_Common_EmphasizedGroupBackgroundFill" = "Выделенный цвет фона группы";
+
+/* (No Comment) */
+"_Common_EnabledPersonGroupIdentifiers" = "Группа людей";
+
+/* (No Comment) */
+"_Common_EndGenerationScale" = "Масштаб конца поколения";
+
+/* (No Comment) */
+"_Common_EndGenerationScaleExplanation" = "Определяет, как конечное поколение должно масштабироваться относительно начального поколения";
+
+/* (No Comment) */
+"_Common_EvaluateDataFromDate" = "С даты";
+
+/* (No Comment) */
+"_Common_EvaluateDataToDate" = "До даты";
+
+/* (No Comment) */
+"_Common_EventsFactsAndAssociateRelationsGroupName" = "События, факты и влиятельные связи";
+
+/* (No Comment) */
+"_Common_EventsGroupName" = "События";
+
+/* (No Comment) */
+"_Common_FatherGenerationsSlider" = "Поколения по отцовской линии";
+
+/* (No Comment) */
+"_Common_FillMode" = "Режим заполнения";
+
+/* (No Comment) */
+"_Common_FillMode_BarAtBottom" = "Полоса снизу";
+
+/* (No Comment) */
+"_Common_FillMode_BarAtTop" = "Полоса сверху";
+
+/* (No Comment) */
+"_Common_FillMode_BarAtTopAndBottom" = "Полоса снизу и сверху";
+
+/* (No Comment) */
+"_Common_FillMode_DarkBarAtBottom" = "Тёмная полоса внизу";
+
+/* (No Comment) */
+"_Common_FillMode_DarkBarAtTop" = "Тёмная полоса наверху";
+
+/* (No Comment) */
+"_Common_FillMode_DarkBarAtTopAndBottom" = "Тёмная полоса внизу и наверху";
+
+/* (No Comment) */
+"_Common_FillMode_DarkGradientAtBottom" = "Тёмный градиент снизу";
+
+/* (No Comment) */
+"_Common_FillMode_DarkGradientAtRight" = "Тёмный градиент справа";
+
+/* (No Comment) */
+"_Common_FillMode_DarkGradientAtTop" = "Тёмный градиент сверху";
+
+/* (No Comment) */
+"_Common_FillMode_Flat" = "Плоский";
+
+/* (No Comment) */
+"_Common_FillMode_Glossy" = "Глянец";
+
+/* (No Comment) */
+"_Common_FillMode_LightBarAtBottom" = "Светлая полоса внизу";
+
+/* (No Comment) */
+"_Common_FillMode_LightBarAtTop" = "Светлая полоса наверху";
+
+/* (No Comment) */
+"_Common_FillMode_LightBarAtTopAndBottom" = "Светлая полоса внизу и наверху";
+
+/* (No Comment) */
+"_Common_FillMode_LightGradientAtBottom" = "Светлый градиент снизу";
+
+/* (No Comment) */
+"_Common_FillMode_LightGradientAtLeft" = "Светлый градиент слева";
+
+/* (No Comment) */
+"_Common_FillMode_LightGradientAtTop" = "Светлый градиент сверху";
+
+/* (No Comment) */
+"_Common_FillMode_LightShineAtCenter" = "Легкий блеск в центре";
+
+/* (No Comment) */
+"_Common_FillMode_None" = "Нет";
+
+/* (No Comment) */
+"_Common_FillMode_VeryDarkGradientAtBottom" = "Очень тёмный градиент к низу";
+
+/* (No Comment) */
+"_Common_FillMode_VeryDarkGradientAtTop" = "Очень тёмный градиент к верху";
+
+/* (No Comment) */
+"_Common_FillMode_VeryLightGradientAtBottom" = "Очень светлый градиент к внизу";
+
+/* (No Comment) */
+"_Common_FillMode_VeryLightGradientAtTop" = "Очень светлый градиент к верху";
+
+/* (No Comment) */
+"_Common_FloatingSideBar" = "Плавающая боковая панель";
+
+/* (No Comment) */
+"_Common_Font" = "Шрифт";
+
+/* (No Comment) */
+"_Common_FontsGroupName" = "Шрифты";
+
+/* (No Comment) */
+"_Common_FromDate" = "С даты";
+
+/* (No Comment) */
+"_Common_FullName" = "Полное имя";
+
+/* Group Names */
+"_Common_GeneralGroupName" = "Основное";
+
+/* (No Comment) */
+"_Common_GenerationMarginsSlier" = "Поля поколений";
+
+/* (No Comment) */
+"_Common_GenerationScaleSubGroupName" = "Масштаб поколения";
+
+/* Control Names */
+"_Common_GenerationsSlider" = "Поколения";
+
+/* (No Comment) */
+"_Common_GenerationsSpacingSlider" = "Расстояние между поколениями";
+
+/* (No Comment) */
+"_Common_GenerationsSpacingSliderExplanation" = "Контролирует расстояние между людьми каждого поколения";
+
+/* (No Comment) */
+"_Common_GeometryGroupName" = "Геометрия";
+
+/* (No Comment) */
+"_Common_GraphSegmentWidth" = "Ширина графического сегмента";
+
+/* (No Comment) */
+"_Common_GraphType" = "Тип";
+
+/* (No Comment) */
+"_Common_GraphType_Bars" = "Полосы";
+
+/* (No Comment) */
+"_Common_GraphType_Lines" = "Линии";
+
+/* (No Comment) */
+"_Common_GridGroupName" = "Сетка";
+
+/* (No Comment) */
+"_Common_GroupColoringMode" = "Режим раскраски группы";
+
+/* (No Comment) */
+"_Common_GroupingMode" = "Режим группировки";
+
+/* (No Comment) */
+"_Common_GroupInnerPadding" = "Внутреннее заполнение";
+
+/* (No Comment) */
+"_Common_GroupsGroupName" = "Группы";
+
+/* (No Comment) */
+"_Common_HasArrowAtEnd" = "Стрелка в конце";
+
+/* (No Comment) */
+"_Common_HasArrowAtStart" = "Стрелка в начале";
+
+/* (No Comment) */
+"_Common_HasProjectedBirthDate" = "Прогнозируемая дата рождения";
+
+/* (No Comment) */
+"_Common_HasProjectedDeathDate" = "Прогнозируемая дата смерти";
+
+/* (No Comment) */
+"_Common_HidePrivateInformation" = "Скрыть информацию отмеченную как личная";
+
+/* (No Comment) */
+"_Common_HidePrivateInformationExplanation" = "Каждая информация, отмеченная как личная в режиме редактирования, скрыта на диаграмме, если указан этот параметр";
+
+/* (No Comment) */
+"_Common_HighlightLivingPersons" = "Выделить живых людей";
+
+/* (No Comment) */
+"_Common_HistoryGroupName" = "Мировая история";
+
+/* (No Comment) */
+"_Common_HorizontalSpacing" = "Горизонтальный интервал";
+
+/* (No Comment) */
+"_Common_IDs" = "Номера ссылок";
+
+/* (No Comment) */
+"_Common_ImageAlignment" = "Выравнивание изображения";
+
+/* (No Comment) */
+"_Common_ImageHeightFactorSlider" = "Высота изображения";
+
+/* (No Comment) */
+"_Common_ImageMargins" = "Поля изображения";
+
+/* (No Comment) */
+"_Common_ImageSpacing" = "Интервал изображения";
+
+/* (No Comment) */
+"_Common_IncludePlaceDetail" = "Включить сведения о месте в название места";
+
+/* (No Comment) */
+"_Common_IndentPartners" = "Отступ партнёров";
+
+/* Privacy */
+"_Common_InformationHiddenDueToPrivacySettings" = "Информация скрыта из-за конфиденциальности";
+
+/* (No Comment) */
+"_Common_InnerBarMarginsSlider" = "Внутренние поля панели";
+
+/* (No Comment) */
+"_Common_InnerBoxMarginsSlider" = "Внутренние поля";
+
+/* (No Comment) */
+"_Common_ItemMarginsSlider" = "Поля элемента";
+
+/* (No Comment) */
+"_Common_ItemSpacingSlider" = "Интервал элемента";
+
+/* (No Comment) */
+"_Common_ItemSpacingSliderExplanation" = "Определяет расстояние между людьми в поколении";
+
+/* (No Comment) */
+"_Common_LabelsGroupName" = "Метки";
+
+/* (No Comment) */
+"_Common_LeftLineColor" = "Цвет лево линии";
+
+/* (No Comment) */
+"_Common_LeftLineWidth" = "Ширина левой линии";
+
+/* (No Comment) */
+"_Common_LineColor" = "Цвет линии";
+
+/* ChartLineDashPatternTypes */
+"_Common_LineDashPatternType" = "Узор линии";
+
+/* (No Comment) */
+"_Common_LineDashPatternType_Long" = "Длинный";
+
+/* (No Comment) */
+"_Common_LineDashPatternType_Short" = "Короткий";
+
+/* (No Comment) */
+"_Common_LineDashPatternType_ShortGaps" = "Короткие разрывы";
+
+/* (No Comment) */
+"_Common_LineDashPatternType_Solid" = "Сплошной";
+
+/* (No Comment) */
+"_Common_LineDashPatternType_VeryShort" = "Очень короткие";
+
+/* (No Comment) */
+"_Common_LineDistanceFromDestinationObjects" = "Расстояние от пункта назначения";
+
+/* (No Comment) */
+"_Common_LineDistanceFromOriginObjects" = "Расстояние от источника";
+
+/* (No Comment) */
+"_Common_LineEndingName" = "Концы линии";
+
+/* (No Comment) */
+"_Common_LineGroupName" = "Линия";
+
+/* (No Comment) */
+"_Common_LinesGroupName" = "Линии";
+
+/* (No Comment) */
+"_Common_LineWidth" = "Ширина линии";
+
+/* (No Comment) */
+"_Common_Localization" = "Локализация";
+
+/* (No Comment) */
+"_Common_LocalizationAndFormatsGroupName" = "Локализация и форматы";
+
+/* (No Comment) */
+"_Common_LocalizationExplanation" = "Укажите локализацию для использования в этом диаграмме. Все личные события, личные факты или семейные события и другой текст будут локализованы на указанном языке.";
+
+/* (No Comment) */
+"_Common_MarginsGroupName" = "Поля";
+
+/* (No Comment) */
+"_Common_MarkDeadPersons" = "Отметить умерших людей";
+
+/* (No Comment) */
+"_Common_MaximumRecursionDepth" = "Максимальная глубина рекурсии";
+
+/* (No Comment) */
+"_Common_MaximumRecursionDepthExplanation" = "Определяет, сколько раз один и тот же человек может появиться в одной и той же диаграмме до окончания оценки. Это может произойти из-за ошибок ввода, а также в таких случаях, как двоюродные или кровосмесительные отношения.";
+
+/* (No Comment) */
+"_Common_MaximumResults" = "Максимальные результаты";
+
+/* (No Comment) */
+"_Common_MediaGroupName" = "Медиа";
+
+/* (No Comment) */
+"_Common_MotherGenerationsSlider" = "Поколения по материнской линии";
+
+/* (No Comment) */
+"_Common_NameAlignment" = "Выравнивание имени";
+
+/* (No Comment) */
+"_Common_NameBarColor" = "Цвет панели имени";
+
+/* (No Comment) */
+"_Common_NameFont" = "Шрифт имени";
+
+/* (No Comment) */
+"_Common_NameFormat" = "Формат имени человека";
+
+/* (No Comment) */
+"_Common_NameFormatExplanation" = "Выберите формат имени, который будет использоваться для всех людей в этой диаграмме.";
+
+/* (No Comment) */
+"_Common_NamesFormatGroupName" = "Форматы имени";
+
+/* (No Comment) */
+"_Common_NameTextColor" = "Цвет текста имени";
+
+/* (No Comment) */
+"_Common_NoBackground" = "Нет фона";
+
+/* (No Comment) */
+"_Common_NormalGroupBackgroundFill" = "Обычный цвет фона группы";
+
+/* (No Comment) */
+"_Common_NotesGroupName" = "Примечания";
+
+/* (No Comment) */
+"_Common_OmitEmptyPagesWhenPrintingOrExporting" = "Пропускать пустые страницы при печати";
+
+/* Date Ranges */
+"_Common_OnlyEvalulateEntriesInDateRange" = "Оценивать только записи в диапазоне дат";
+
+/* (No Comment) */
+"_Common_OnlyEvalulateEntriesInDateRangeExplanation" = "Если указано, будут оцениваться только даты в этом диапазоне дат – все остальные записи будут отброшены.";
+
+/* (No Comment) */
+"_Common_OtherFont" = "Прочий шрифт";
+
+/* (No Comment) */
+"_Common_OtherTextColor" = "Цвет прочего текста";
+
+/* (No Comment) */
+"_Common_OverviewGroupName" = "Обзор";
+
+/* (No Comment) */
+"_Common_PageOverlapPoints" = "Перекрытие страницы";
+
+/* (No Comment) */
+"_Common_PagesCountX" = "Горизонтальные страницы";
+
+/* (No Comment) */
+"_Common_PagesCountY" = "Вертикальные страницы";
+
+/* (No Comment) */
+"_Common_ParentGenerationsSlider" = "Поколения родителей";
+
+/* (No Comment) */
+"_Common_PartnerIndentionSlider" = "Отступ партнёра";
+
+/* (No Comment) */
+"_Common_PartnerIndentionSliderExplanation" = "Определяет расстояние между ребёнком и партнером ребёнка.";
+
+/* (No Comment) */
+"_Common_PartnersGroupName" = "Партнёры";
+
+/* (No Comment) */
+"_Common_PersonGroupsName" = "Группа людей";
+
+/* (No Comment) */
+"_Common_PersonsGroupName" = "Люди";
+
+/* (No Comment) */
+"_Common_PersonWidthSlider" = "Ширина людей";
+
+/* (No Comment) */
+"_Common_PlaceFormat" = "Формат места";
+
+/* (No Comment) */
+"_Common_PlaceFormatExplanation" = "Укажите здесь, должно ли отображаться полное название места или сокращённое.";
+
+/* (No Comment) */
+"_Common_PlaceholderImageOpacity" = "Непрозрачность заполнителя изображения";
+
+/* (No Comment) */
+"_Common_PlacesFormatGroupName" = "Форматы места";
+
+/* (No Comment) */
+"_Common_PrintCutMarks" = "Печатать линии отреза";
+
+/* (No Comment) */
+"_Common_PrintPageNumbers" = "Печатать номера страниц";
+
+/* (No Comment) */
+"_Common_ReformatDatesToSelectedLocale" = "Переформатировать даты";
+
+/* (No Comment) */
+"_Common_ReformatDatesToSelectedLocaleExplanation" = "если включено, все даты будут переформатированы для соответствия указанной локализации";
+
+/* (No Comment) */
+"_Common_ResultsToCollapse" = "Результаты для объединения";
+
+/* (No Comment) */
+"_Common_RightLineColor" = "Цвет правой линии";
+
+/* (No Comment) */
+"_Common_RightLineWidth" = "Ширина правой линии";
+
+/* (No Comment) */
+"_Common_Rotation" = "Вращение";
+
+/* (No Comment) */
+"_Common_ScaleAllValuesToRelativeValues" = "Показывать как относительные значения";
+
+/* (No Comment) */
+"_Common_ScaleAllValuesToRelativeValuesExplanation" = "Вместо абсолютных значений показывать все значения как относительные для каждого данного года.";
+
+/* (No Comment) */
+"_Common_ScaleBrothersAndSisters" = "Масштабировать братьев и сестёр";
+
+/* (No Comment) */
+"_Common_ScaleBrothersAndSistersExplanation" = "Если включено, братья и сёстры прямого предка или потомка первого человека  будут масштабированы на 50%";
+
+/* (No Comment) */
+"_Common_ScalingOfBrothersAndSistersSlider" = "Масштабировать братьев и сестёр";
+
+/* (No Comment) */
+"_Common_ShadowAngle" = "Угол тени";
+
+/* (No Comment) */
+"_Common_ShadowBlur" = "Размытие тени";
+
+/* (No Comment) */
+"_Common_ShadowColor" = "Цвет тени";
+
+/* (No Comment) */
+"_Common_ShadowColoringFactor" = "Раскрашивание тени";
+
+/* (No Comment) */
+"_Common_ShadowDistance" = "Расстояние тени";
+
+/* (No Comment) */
+"_Common_ShadowGroupName" = "Тени";
+
+/* (No Comment) */
+"_Common_ShadowLength" = "Длина тени";
+
+/* (No Comment) */
+"_Common_ShadowMode" = "Режим тени";
+
+/* (No Comment) */
+"_Common_ShadowMode_Blurry" = "Размытая";
+
+/* (No Comment) */
+"_Common_ShadowMode_Flat" = "Плоская";
+
+/* (No Comment) */
+"_Common_ShadowMode_None" = "Нет";
+
+/* (No Comment) */
+"_Common_ShadowOpacity" = "Непрозрачность тени";
+
+/* (No Comment) */
+"_Common_ShowAncestorsOfPartners" = "Показывать предков партнеров";
+
+/* (No Comment) */
+"_Common_ShowAncestorsOfPartnersExplanation" = "Включение этой опции показывает не только предков выбранного первого человека, но и предков партнеров первого человека.";
+
+/* (No Comment) */
+"_Common_ShowAncestralFileNumberID" = "Показать наследственный ID номер файла";
+
+/* (No Comment) */
+"_Common_ShowBrothersAndSisters" = "Показывать братьев и сестёр";
+
+/* (No Comment) */
+"_Common_ShowBrothersAndSistersOfAncestors" = "Показывать братьев и сестёр предков";
+
+/* (No Comment) */
+"_Common_ShowBrothersAndSistersOfStartPerson" = "Показывать братьев и сестёр выбранного человека";
+
+/* (No Comment) */
+"_Common_ShowBrothersAndSistersOfStartPersonExplanation" = "Используя этот параметр, вы можете включить в эту диаграмму братьев и сестёр выбранного человека.";
+
+/* (No Comment) */
+"_Common_ShowDisplayValuesOnBars" = "Показывать значения на полосах";
+
+/* (No Comment) */
+"_Common_ShowFamilySearchID" = "Показывать FamilySearch ID";
+
+/* (No Comment) */
+"_Common_ShowGedcomID" = "Показывать GEDCOM ID";
+
+/* (No Comment) */
+"_Common_ShowGroupsForPartnerItems" = "Показывать группы для партнёров";
+
+/* (No Comment) */
+"_Common_ShowKinships" = "Показать родство";
+
+/* (No Comment) */
+"_Common_ShowKinshipsExplanation" = "Укажите, отображается ли родство по отношению к выбранному первому человеку для каждого человека в этой диаграмме.";
+
+/* (No Comment) */
+"_Common_ShowLabels" = "Показывать метки";
+
+/* (No Comment) */
+"_Common_ShowNotes" = "Показывать примечания";
+
+/* (No Comment) */
+"_Common_ShowNumberingSystem" = "Показать систему нумерации";
+
+/* (No Comment) */
+"_Common_ShowOnlyBloodlines" = "Только прямые кровные линии";
+
+/* (No Comment) */
+"_Common_ShowOnlySpecificPersonGroups" = "Показывать только определенные группы людей";
+
+/* (No Comment) */
+"_Common_ShowOnlySpecificPersonGroupsExplanation" = "Если этот параметр включен, отслеживаются только люди из этих групп. Люди не входящие в эти группы, не будут показаны, за исключением исходного человека.";
+
+/* (No Comment) */
+"_Common_ShowPartnersOfStartItem" = "Показать партнёров выбранного человека";
+
+/* (No Comment) */
+"_Common_ShowPersonAgeAtEvent" = "Показывать возраст людей на момент события";
+
+/* (No Comment) */
+"_Common_ShowPersonBirthDate" = "Показать дату рождения человека";
+
+/* (No Comment) */
+"_Common_ShowPersonDeathDate" = "Показать дату смерти человека";
+
+/* (No Comment) */
+"_Common_ShowPersonEventCause" = "Показать причину события человека";
+
+/* (No Comment) */
+"_Common_ShowPersonEventDescription" = "Показать описание пользователя события человека";
+
+/* (No Comment) */
+"_Common_ShowPersonEventIcons" = "Показать значки события человека";
+
+/* (No Comment) */
+"_Common_ShowPersonEventLocation" = "Показать место события человека";
+
+/* (No Comment) */
+"_Common_ShowPersonImages" = "Показать фото человека";
+
+/* (No Comment) */
+"_Common_ShowReferenceNumber" = "Показать номер ссылки";
+
+/* (No Comment) */
+"_Common_SideBarWidthSlider" = "Ширина боковой панели";
+
+/* (No Comment) */
+"_Common_SpacingGroupName" = "Интервал";
+
+/* (No Comment) */
+"_Common_SpacingSlider" = "Интервал";
+
+/* (No Comment) */
+"_Common_StartAngleSlider" = "Начальный угол";
+
+/* (No Comment) */
+"_Common_StartGenerationScale" = "Масштаб начала поколения";
+
+/* (No Comment) */
+"_Common_StartGenerationScaleExpanation" = "Определяет, как начальное поколение должно быть масштабировано относительно конечного поколения";
+
+/* (No Comment) */
+"_Common_StrokeGroupName" = "Черта";
+
+/* (No Comment) */
+"_Common_StyleGroupName" = "Стиль";
+
+/* (No Comment) */
+"_Common_SubTitle" = "Подзаголовок";
+
+/* (No Comment) */
+"_Common_SubTitleColor" = "Цвет подзаголовка";
+
+/* (No Comment) */
+"_Common_SubTitleCustomTextColor" = "Настроить цвет подзаголовка";
+
+/* (No Comment) */
+"_Common_SubTitleEnabledCheckbox" = "Показать подзаголовок";
+
+/* (No Comment) */
+"_Common_SubTitleFont" = "Шрифт подзаголовка";
+
+/* (No Comment) */
+"_Common_SubTitleGroupName" = "Подзаголовок";
+
+/* (No Comment) */
+"_Common_SubTitleTextColoringMode" = "Раскрашивание подзаголовка";
+
+/* (No Comment) */
+"_Common_TextColor" = "Цвет текста";
+
+/* (No Comment) */
+"_Common_TextColoringMode" = "Раскрашивание текста";
+
+/* (No Comment) */
+"_Common_TextColoringMode_ByGenerationRainbow" = "По поколению (Радуга)";
+
+/* (No Comment) */
+"_Common_TextColoringMode_ContrastToBackgroundColor" = "Контраст с фоном";
+
+/* (No Comment) */
+"_Common_TextColoringMode_ContrastToBackgroundColorTinted" = "Тонированный контраст с фоном";
+
+/* (No Comment) */
+"_Common_TextColoringMode_Custom" = "Настроить";
+
+/* (No Comment) */
+"_Common_TextColoringMode_Gender" = "По полу";
+
+/* (No Comment) */
+"_Common_TextGroupName" = "Текст";
+
+/* (No Comment) */
+"_Common_ThemeGroupName" = "Тема";
+
+/* (No Comment) */
+"_Common_Title" = "Заголовок";
+
+/* (No Comment) */
+"_Common_TitleColor" = "Цвет заголовка";
+
+/* (No Comment) */
+"_Common_TitleCustomTextColor" = "Настроить цвет заголовка";
+
+/* (No Comment) */
+"_Common_TitleEnabledCheckbox" = "Показать название";
+
+/* (No Comment) */
+"_Common_TitleFont" = "Шрифт заголовка";
+
+/* (No Comment) */
+"_Common_TitleGroupName" = "Заголовок";
+
+/* (No Comment) */
+"_Common_TitleImageMode" = "Изображение заголовка";
+
+/* (No Comment) */
+"_Common_TitleTextColoringMode" = "Раскрашивание заголовка";
+
+/* (No Comment) */
+"_Common_ToDate" = "До даты";
+
+/* (No Comment) */
+"_Common_TopImageHeight" = "Высота верхнего изображения";
+
+/* (No Comment) */
+"_Common_TopLineColor" = "Цвет верхней линии";
+
+/* (No Comment) */
+"_Common_TopLineWidth" = "Ширина верхней линии";
+
+/* (No Comment) */
+"_Common_TopMarginSlider" = "Верхний отступ";
+
+/* (No Comment) */
+"_Common_TotalAngleSlider" = "Общий угол";
+
+/* (No Comment) */
+"_Common_TypeFont" = "Шрифт текста";
+
+/* (No Comment) */
+"_Common_TypeTextColor" = "Цвет текста";
+
+/* (No Comment) */
+"_Common_UniformColor" = "Равномерный цвет";
+
+/* (No Comment) */
+"_Common_UniformColorForColoringModeExplanation" = "Выбрав 'Равномерный цвет' в настройке Режим раскрашивания, вы можете указать равномерный цвет человека используя эту настройку.";
+
+/* (No Comment) */
+"_Common_VerticalSpacing" = "Вертикальный интервал";
+
+/* (No Comment) */
+"_Common_WidthPerYearSlider" = "Ширина на год";
+
+/* (No Comment) */
+"_Common_XAxisLabel" = "Метка оси X";
+
+/* (No Comment) */
+"_Common_XAxisLabelColor" = "Цвет метки оси X";
+
+/* (No Comment) */
+"_Common_XAxisLabelFont" = "Шрифт метки оси X";
+
+/* (No Comment) */
+"_Common_XAxisLineColor" = "Цвет линии оси X";
+
+/* (No Comment) */
+"_Common_XLineLabelColor" = "Цвет меток линии X";
+
+/* (No Comment) */
+"_Common_XLineLabelFont" = "Шрифт метки линии X";
+
+/* (No Comment) */
+"_Common_XLinesWidth" = "Ширина линий X";
+
+/* (No Comment) */
+"_Common_XScale" = "Масштабирование ширины";
+
+/* (No Comment) */
+"_Common_YAxisLabel" = "Метка оси Y";
+
+/* (No Comment) */
+"_Common_YAxisLabelColor" = "Цвет метки оси Y";
+
+/* (No Comment) */
+"_Common_YAxisLabelFont" = "Шрифт метки оси Y";
+
+/* (No Comment) */
+"_Common_YAxisLineColor" = "Цвет линии оси Y";
+
+/* (No Comment) */
+"_Common_YLineLabelColor" = "Цвет меток линии Y";
+
+/* (No Comment) */
+"_Common_YLineLabelFont" = "Шрифт метки линии Y";
+
+/* (No Comment) */
+"_Common_YLinesWidth" = "Ширина линий Y";
+
+/* (No Comment) */
+"_Common_YScale" = "Масштабирование высоты";
+
+/* DistributionChartBuilder */
+"_DistributionChartBuilder_DistributionType" = "Тип распространенности";
+
+/* (No Comment) */
+"_DistributionChartBuilder_DistributionTypeExplanation" = "Укажите здесь, какой тип диаграммы распространенности вы хотите создать из данных вашей родословной.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_BirthCountry" = "Распространенность стран рождения";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_BirthCountry_Description" = "Страны рождения в вашей родословной, показывающие где родились люди.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_BirthPlace" = "Распространенность мест рождения";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_BirthPlace_Description" = "Места рождения в вашей родословной, показывающие где родились люди.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_DeathCountry" = "Нахождение стран смерти";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_DeathCountry_Description" = "Страны в вашем генеалогическом древе, показывающие, где умерли люди.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_DeathPlace" = "Нахождение мест смерти";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_DeathPlace_Description" = "Места смерти в вашем семейном древе показывают, где люди умерли.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_EventValues_Illnesses" = "Распространенность болезней";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_EventValues_Illnesses_Description" = "Посмотрите, какие болезни были введены для людей в вашей родословной.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_EventValues_Occupations" = "Распространенность профессий";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_EventValues_Occupations_Description" = "Какую работу выполняли люди в вашей родословной на протяжении многих лет?";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_CasteName" = "Распространенность названия каст";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_CasteName_Description" = "Обычно используемые названия каст по годам.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_EyeColor" = "Распространенность цвета глаз";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_EyeColor_Description" = "Какие цвета глаз был самым распространенным в вашей родословной на протяжении многих лет?";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_NationalOrTribalOrigin" = "Распространенность народности";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_NationalOrTribalOrigin_Description" = "Распределение народности человека по годам.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_Race" = "Распространённость национальности";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_Race_Description" = "Распространённость национальности в вашей родословной по годам.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_SkinColor" = "Распространенность цвета кожи";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_SkinColor_Description" = "Какой цвет кожи был распространён в вашей родословной в прошлом?";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_FirstName" = "Распространенность имён";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_FirstName_Description" = "Использование имён в вашей родословной по годам.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Gender" = "Распространенность полов";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Gender_Description" = "Распространенность полов в вашей родословной по годам.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_LastName" = "Распространенность фамилий";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_LastName_Description" = "Использование фамилий в вашей родословной по годам.";
+
+/* (No Comment) */
+"_DistributionValuesBarGeneratorChartCompositorObject_ColoringMode_Custom" = "Настроить цвет";
+
+/* (No Comment) */
+"_DistributionValuesBarGeneratorChartCompositorObject_ColoringMode_Rainbow" = "Радуга";
+
+/* EditorTextGeneratorChartCompositorObject */
+"_EditorTextGeneratorChartCompositorObject_NewTextTitle" = "Новый текст";
+
+/* (No Comment) */
+"_Error_NoParentsForPersonFoundInFamilyTreeError" = "Для выбранного человека родители не найдены.";
+
+/* Errors */
+"_Error_NoPersonFoundInFamilyTreeError" = "В это семейное древо пока никто не добавлен. Пожалуйста, используйте раздел Правка, чтобы ввести людей и семьи для отображения диаграммы.";
+
+/* (No Comment) */
+"_Error_NoSelectedPersonSetError" = "Никто не был выбран для этой диаграммы.";
+
+/* (No Comment) */
+"_Error_NotEnoughDataPresentError" = "Недостаточно данных для отображения этой диаграммы.";
+
+/* (No Comment) */
+"_FanChartBuilder_ExpandVerySmallFanItemsIfPossible" = "Расширять очень маленькие сегменты веерной диаграммы, если это возможно";
+
+/* (No Comment) */
+"_FanChartBuilder_ExpandVerySmallFanItemsIfPossibleExplanation" = "Если сегмент веерной диаграммы очень мал, он будет расширен за пределы превосходящего для большего пространства.";
+
+/* FanChartBuilder */
+"_FanChartBuilder_Mode" = "Режим";
+
+/* (No Comment) */
+"_FanChartBuilder_Mode_Ancestors" = "Предки";
+
+/* (No Comment) */
+"_FanChartBuilder_Mode_Descendants" = "Потомки";
+
+/* (No Comment) */
+"_FanChartBuilder_ModeExplanation" = "Укажите здесь, должна ли веерная диаграмма отображать предков или потомков выбранного человека";
+
+/* Genogram */
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventPosition" = "Позиция событий и фактов";
+
+/* (No Comment) */
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventPosition_Right" = "Справа";
+
+/* (No Comment) */
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventsBackground" = "Фон событий и фактов";
+
+/* (No Comment) */
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventsBackground_Filled" = "Заполнено";
+
+/* (No Comment) */
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventsBackground_None" = "Нет";
+
+/* (No Comment) */
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventsPosition_Below" = "Ниже";
+
+/* GridChartObject */
+"_GridGeneratorChartCompositorObjectConfiguration_ColorMode" = "Режим раскрашивания";
+
+/* (No Comment) */
+"_GridGeneratorChartCompositorObjectConfiguration_ColorMode_ContrastToBackground" = "Контраст с фоном";
+
+/* (No Comment) */
+"_GridGeneratorChartCompositorObjectConfiguration_ColorMode_Custom" = "Настроить";
+
+/* (No Comment) */
+"_RelationshipChartBuilder_NoRelationError" = "Невозможно установить родство между выбранными людьми";
+
+/* (No Comment) */
+"_RelationshipChartBuilder_PathIsBloodline" = "Родословная";
+
+/* (No Comment) */
+"_RelationshipChartBuilder_PathIsNotBloodline" = "Нет кровной линии";
+
+/* (No Comment) */
+"_RelationshipChartBuilder_PathWithNStepsIsIsNotBloodline" = "Путь с %ld шагами (%@)";
+
+/* RelationshipChartBuilder */
+"_RelationshipChartBuilder_SelectDifferentPersonsError" = "Пожалуйста, выберите двух разных людей, чтобы создать диаграмму отношений";
+
+/* (No Comment) */
+"_RelationshipChartBuilder_SelectedRelationshipPath" = "Доступные пути к родственнику";
+
+/* (No Comment) */
+"_RelationshipChartBuilder_SelectedRelationshipPathExplanation" = "Если в вашем семейном древе есть несколько путей между начальным и целевым человеком, вы можете выбрать различные возможные пути здесь.";
+
+/* SegmentedPortraitPersonBuilderItemGeneratorChartCompositorObjectConfiguration_BarStyle */
+"_SegmentedPortraitPersonBuilderItemGeneratorChartCompositorObjectConfiguration_BarStyle_Arrow" = "Стрелка";
+
+/* (No Comment) */
+"_SegmentedPortraitPersonBuilderItemGeneratorChartCompositorObjectConfiguration_BarStyle_Diagonal" = "Диагональ";
+
+/* (No Comment) */
+"_SegmentedPortraitPersonBuilderItemGeneratorChartCompositorObjectConfiguration_BarStyle_Round" = "Круг";
+
+/* (No Comment) */
+"_SegmentedPortraitPersonBuilderItemGeneratorChartCompositorObjectConfiguration_BarStyle_Wave" = "Волна";
+
+/* _SideBarPersonBuilderItemGeneratorChartCompositorObject */
+"_SideBarPersonBuilderItemGeneratorChartCompositorObject_SideBarPosition" = "Положение боковой панели";
+
+/* (No Comment) */
+"_SideBarPersonBuilderItemGeneratorChartCompositorObject_SideBarPosition_Bottom" = "Снизу";
+
+/* (No Comment) */
+"_SideBarPersonBuilderItemGeneratorChartCompositorObject_SideBarPosition_Left" = "Слева";
+
+/* (No Comment) */
+"_SideBarPersonBuilderItemGeneratorChartCompositorObject_SideBarPosition_Right" = "Справа";
+
+/* (No Comment) */
+"_SideBarPersonBuilderItemGeneratorChartCompositorObject_SideBarPosition_Top" = "Сверху";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_AssociatedPersonsSpacing" = "Расстояние между влиятельными людьми";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_AssociatedPersonsSpacingExplanation" = "Здесь укажите расстояние между людьми и влиятельными людьми.";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowAssociateRelationsOfChildren" = "Показать влиятельных людей детей";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowAssociateRelationsOfParents" = "Показать влиятельных людей родителей";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowAssociateRelationsOfPartners" = "Показать влиятельных людей партнёров";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowAssociateRelationsOfStartPerson" = "Показать людей влияющих на первого человека";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowChildren" = "Показать детей";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowGrandparents" = "Показать бабушек и дедушек";
+
+/* SociogramChartBuilderConfiguration */
+"_SociogramChartBuilderConfiguration_ShowParents" = "Показать родителей";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowPartners" = "Показать партнеров";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_AgeAxisLabel" = "Возраст";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_ChildsAxisLabel" = "Дети";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_CountAxisLabel" = "Подсчёт";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_CountryAxisLabel" = "Страна";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_DivorcesAxisLabel" = "Разводы";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_EventOrFactAxisLabel" = "Событие или факт";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_FactValueAxisLabel" = "Значение факта";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_FamiliesAxisLabel" = "Семьи";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_GenderAxisLabel" = "Пол";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_MarriagesAxisLabel" = "Браки";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_MonthAxisLabel" = "Месяц";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_PersonFirstNamesAxisLabel" = "Имена человека";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_PersonLastNamesAxisLabel" = "Фамилии человека";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_PersonsAxisLabel" = "Люди";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_PersonTitleAxisLabel" = "Титулы человека";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_PlaceAxisLabel" = "Место";
+
+/* StatisticsChartBuilder */
+"_StatisticsChartBuilder_StatisticsType" = "Тип статистики";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_StatisticsTypeExplanation" = "Укажите здесь, какой тип статистики вы хотите создать из данных вашего семейного древа.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtChristening" = "Возраст при крещении";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtChristening_Description" = "Возраст людей при крещении.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtDeath" = "Возраст при смерти";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtDeath_Description" = "Показывает, как долго люди жили в вашей родословной.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtDivorce" = "Возраст при разводе";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtDivorce_Description" = "Отображает диаграмму, на которой показаны разведённые люди.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtMarriage" = "Возраст при вступлении в брак";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtMarriage_Description" = "Статистика, в каком возрасте люди в вашей родословной вступили в брак.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtRetirement" = "Возраст выхода на пенсию";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtRetirement_Description" = "Показывает, в каком возрасте люди вышли на пенсию в вашей родословной.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeOfChildAtParentsDeath" = "Возраст ребёнка при смерти родителей";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeOfChildAtParentsDeath_Description" = "Сколько лет было детям, когда они потеряли мать или отца в вашей родословной?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeOfParentsAtBirthOfChild" = "Возраст родителей при рождении ребёнка";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeOfParentsAtBirthOfChild_Description" = "Подсчитывает возраст родителей когда родились их дети.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeOfPersonAtDeathOfPartner" = "Возраст человека при смерти партнёра";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeOfPersonAtDeathOfPartner_Description" = "Статистика того, сколько лет было человеку, когда умер его партнёр";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_BirthMonth" = "Месяц рождения";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_BirthMonth_Description" = "В каком месяце родилось больше всего людей?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_ChildsPerFamily" = "Детей на семью";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_ChildsPerFamily_Description" = "Количество детей на семью в вашем семейном древе.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_ConclusionTypes" = "Типы событий или фактов";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_ConclusionTypes_Description" = "Статистика по наиболее распространённым типам событий или фактов.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_DeathMonth" = "Месяц смерти";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_DeathMonth_Description" = "Месяцы, в которые больше всего людей в вашем семейном древе ушли из жизни.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_DivorceMonth" = "Месяц развода";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_DivorceMonth_Description" = "Месяцы, в которые больше всего людей в вашем семейном древе развелись.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_CasteName" = "Факты: Название касты";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_CasteName_Description" = "Какая была самая распространенная каста в вашем генеалогическом древе?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_EyeColor" = "Факты: Цвет глаз";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_EyeColor_Description" = "Статистика по цвету глаз людей в вашем генеалогическом древе.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_NationalOrTribalOrigin" = "Факты: Народность";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_NationalOrTribalOrigin_Description" = "Наиболее распространенная народность людей в вашем древе.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_Race" = "Факты: Национальность";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_Race_Description" = "Статистика национальности людей в вашей родословной.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_SkinColor" = "Факты: Цвет кожи";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_SkinColor_Description" = "Статистика по факту цвета кожи в вашем древе.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_FirstNames" = "Распространенность имени";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_FirstNames_Description" = "Все имена, которые используются в вашем генеалогическом древе.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Gender" = "Пол";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Gender_Description" = "Распространенность пола людей в вашем дереве.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_LastNames" = "Распространенность фамилии";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_LastNames_Description" = "Наиболее распространенные фамилии, используемые в вашем генеалогическом древе.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_MarriageMonth" = "Месяц вступления в брак";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_MarriageMonth_Description" = "Какой месяц люди обычно выбирают для вступления в брак?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_FamilyEvent_Marriage;topLevelGroupingLocationString" = "Страна брака";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_FamilyEvent_Marriage;topLevelGroupingLocationString_Description" = "Страны, в которых ваши родственники решили вступить в брак.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_FamilyEvent_Marriage;veryShortLocationString" = "Место бракосочетания";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_FamilyEvent_Marriage;veryShortLocationString_Description" = "В каком городе или месте люди из вашего семейного древа вступили в брак?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Birth;topLevelGroupingLocationString" = "Страна рождения";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Birth;topLevelGroupingLocationString_Description" = "Страна происхождения для всех людей.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Birth;veryShortLocationString" = "Место рождения";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Birth;veryShortLocationString_Description" = "Из какого города родом большинство людей в вашем семейном древе?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Burial;topLevelGroupingLocationString" = "Страна погребения";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Burial;topLevelGroupingLocationString_Description" = "В какой стране похоронено большинство ваших родственников?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Burial;veryShortLocationString" = "Место погребения";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Burial;veryShortLocationString_Description" = "Самое распространенное место погребения в вашем семейном древе.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Christening;topLevelGroupingLocationString" = "Страна Крещения";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Christening;topLevelGroupingLocationString_Description" = "Страна, в которой крестилось большинство ваших родственников.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Christening;veryShortLocationString" = "Место крещения";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Christening;veryShortLocationString_Description" = "В каком городе крестили людей из вашей родословной?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Death;topLevelGroupingLocationString" = "Страна смерти";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Death;topLevelGroupingLocationString_Description" = "Статистика по стране, в которой умерло большинство людей в вашей родословной.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Death;veryShortLocationString" = "Место смерти";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Death;veryShortLocationString_Description" = "Город или место в вашей родословной, где умерло большинство людей.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_TimeBetweenMarriageAndBirthOfChild" = "Время между вступлением в брак и рождением ребёнка";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_TimeBetweenMarriageAndBirthOfChild_Description" = "Сколько времени прошло между вступлением в брак и рождением детей? Отрицательные значения означает, что ребёнок родился до брака.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Titles" = "Распространенность титулов";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Titles_Description" = "Статистика по именам всех людей.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Birth" = "Год рождения";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Birth_Description" = "Показывает, в какие годы родилось наибольшее количество людей в вашем семейном древе.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Burial" = "Год погребения";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Burial_Description" = "Статистика того, когда люди в вашем семейном древе были похоронены";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Christening" = "Год крещения";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Christening_Description" = "Статистика, в каком году люди в вашем семейном древе были крещены.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Death" = "Год смерти";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Death_Description" = "Год каждого события смерти в вашем генеалогическом древе";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_YearAxisLabel" = "Год";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_YearsAxisLabel" = "Лет";
+
+/* (No Comment) */
+"_StyleNames_AgeFanChartCompositorStyle" = "Веерная диаграмма возраста";
+
+/* (No Comment) */
+"_StyleNames_BlackBorderBoxedChartCompositorStyle" = "Чёрная граница";
+
+/* (No Comment) */
+"_StyleNames_BlackBoxedChartCompositorStyle" = "Чёрные блоки";
+
+/* (No Comment) */
+"_StyleNames_BlackWhiteFanChartCompositorStyle" = "Чёрно-белая веерная диаграмма";
+
+/* (No Comment) */
+"_StyleNames_BlueTextChartCompositorStyle" = "Синий текст";
+
+/* (No Comment) */
+"_StyleNames_BlueWhiteBoxedChartCompositorStyle" = "Синие белые блоки";
+
+/* (No Comment) */
+"_StyleNames_ByAgeBoxedChartCompositorStyle" = "По блоку возраста";
+
+/* (No Comment) */
+"_StyleNames_ByYearFanChartCompositorStyle" = "Веерная диаграмма по году";
+
+/* (No Comment) */
+"_StyleNames_ByYearGradientFanChartCompositorStyle" = "По годам Градиентный веер";
+
+/* (No Comment) */
+"_StyleNames_ComicWhiteBoxedChartCompositorStyle" = "Блок 'Комиксы'";
+
+/* (No Comment) */
+"_StyleNames_DarkBlueSideBarChartCompositorStyle" = "Тёмно-синий";
+
+/* (No Comment) */
+"_StyleNames_DarkBoxedChartCompositorStyle" = "Ночные блоки";
+
+/* (No Comment) */
+"_StyleNames_DarkBoxedChartCompositorStyle2" = "Ночные блоки 2";
+
+/* (No Comment) */
+"_StyleNames_DarkCardChartCompositorStyle" = "Ночные открытки";
+
+/* (No Comment) */
+"_StyleNames_DarkCircularPersonChartCompositorStyle" = "Тёмные круги";
+
+/* (No Comment) */
+"_StyleNames_DarkDistributionChartCompositorStyle" = "Тёмный";
+
+/* (No Comment) */
+"_StyleNames_DarkFanChartCompositorStyle" = "Ночная веерная диаграмма";
+
+/* (No Comment) */
+"_StyleNames_DarkFlatBarStatisticsChartCompositorStyle" = "Тёмные плоские полосы";
+
+/* (No Comment) */
+"_StyleNames_DarkLinesStatisticsChartCompositorStyle" = "Тёмные линии";
+
+/* (No Comment) */
+"_StyleNames_DarkNameBarChartCompositorStyle" = "Тёмные полосы с именем";
+
+/* (No Comment) */
+"_StyleNames_DarkPortraitBoxChartCompositorStyle" = "Тёмные портреты";
+
+/* (No Comment) */
+"_StyleNames_DarkTextChartCompositorStyle" = "Тёмный текст";
+
+/* (No Comment) */
+"_StyleNames_DarkTimelineBarChartCompositorStyle" = "Тёмные полосы";
+
+/* (No Comment) */
+"_StyleNames_GenderPennantChartCompositorStyle" = "Вымпел пола";
+
+/* (No Comment) */
+"_StyleNames_GenderTextChartCompositorStyle" = "Текст пола";
+
+/* (No Comment) */
+"_StyleNames_GreenBlueCardChartCompositorStyle" = "Зелёные/Синие открытки";
+
+/* (No Comment) */
+"_StyleNames_GreenBoxedBarChartCompositorStyle" = "Зелёная полоса блока";
+
+/* (No Comment) */
+"_StyleNames_GreenBoxedChartCompositorStyle" = "Зелёные блоки";
+
+/* (No Comment) */
+"_StyleNames_LightBarsFanChartCompositorStyle" = "Веерная диаграмма светлые полосы";
+
+/* (No Comment) */
+"_StyleNames_LightBarsFanChartCompositorStyle2" = "Веерная диаграмма светлые полосы 2";
+
+/* Style Names */
+"_StyleNames_LightBoxedChartCompositorStyle" = "Светлые блоки";
+
+/* (No Comment) */
+"_StyleNames_LightBoxedChartCompositorStyle2" = "Светлые круглые блоки";
+
+/* (No Comment) */
+"_StyleNames_LightBoxedChartCompositorStyle3" = "Гендерные блоки";
+
+/* (No Comment) */
+"_StyleNames_LightCardChartCompositorStyle" = "Светлые открытки";
+
+/* (No Comment) */
+"_StyleNames_LightCardChartCompositorStyle2" = "Светлые открытки 2";
+
+/* (No Comment) */
+"_StyleNames_LightCircularPersonChartCompositorStyle" = "Светлые круги";
+
+/* (No Comment) */
+"_StyleNames_LightDistributionChartCompositorStyle" = "Градиенты";
+
+/* (No Comment) */
+"_StyleNames_LightFanChartCompositorStyle" = "Светлая веерная диаграмма";
+
+/* (No Comment) */
+"_StyleNames_LightFlatBarStatisticsChartCompositorStyle" = "Светлые плоские полосы";
+
+/* (No Comment) */
+"_StyleNames_LightGenderFanChartCompositorStyle" = "Светлая веерная диаграмма по полу";
+
+/* (No Comment) */
+"_StyleNames_LightGenderFanChartCompositorStyle2" = "Светлая веерная диаграмма по полу 2";
+
+/* (No Comment) */
+"_StyleNames_LightGenogramChartCompositorStyle" = "Светлая генограмма";
+
+/* (No Comment) */
+"_StyleNames_LightGenogramChartCompositorStyle2" = "Светлая генограмма 2";
+
+/* (No Comment) */
+"_StyleNames_LightGenogramChartCompositorStyle3" = "Светлая генограмма 3";
+
+/* (No Comment) */
+"_StyleNames_LightGenogramChartCompositorStyle4" = "Светлая генограмма 4";
+
+/* (No Comment) */
+"_StyleNames_LightLinesStatisticsChartCompositorStyle" = "Светлые линии";
+
+/* (No Comment) */
+"_StyleNames_LightNameBarChartCompositorStyle" = "Светлые полосы с именем";
+
+/* (No Comment) */
+"_StyleNames_LightPortraitBoxChartCompositorStyle" = "Светлые портреты";
+
+/* (No Comment) */
+"_StyleNames_LightPortraitBoxOnDarkBackgroundChartCompositorStyle" = "Тёмные портреты 2";
+
+/* (No Comment) */
+"_StyleNames_LightTextChartCompositorStyle" = "Чёрно-белый";
+
+/* (No Comment) */
+"_StyleNames_LightTimelineBackgroundBarChartCompositorStyle" = "Светлые полосы фона";
+
+/* (No Comment) */
+"_StyleNames_LightTimelineBarChartCompositorStyle" = "Светлые полосы";
+
+/* (No Comment) */
+"_StyleNames_LightTimelineFromToChartCompositorStyle" = "Светлые простые полосы";
+
+/* (No Comment) */
+"_StyleNames_LightTimelineFromToChartCompositorStyle2" = "Светлые простые полосы 2";
+
+/* (No Comment) */
+"_StyleNames_MagentaBoxedBarChartCompositorStyle" = "Пурпурная полоса блока";
+
+/* (No Comment) */
+"_StyleNames_MagentaSimpleCircleOnDarkBackgroundChartCompositorStyle" = "Малиновые круги";
+
+/* (No Comment) */
+"_StyleNames_OrangeCyanCardChartCompositorStyle" = "Оранжевые/Голубые карты";
+
+/* (No Comment) */
+"_StyleNames_OrangeCyanSimpleCircleOnDarkBackgroundChartCompositorStyle" = "Оранжевые/Голубые круги";
+
+/* (No Comment) */
+"_StyleNames_OrganicCircularPersonChartCompositorStyle" = "Органический циркуляр";
+
+/* (No Comment) */
+"_StyleNames_OrganicOrangeCyanCircularPersonChartCompositorStyle" = "Органический оранжевый/голубой циркуляр";
+
+/* (No Comment) */
+"_StyleNames_OrganicSimpleCircleChartCompositorStyle" = "Органические круги";
+
+/* (No Comment) */
+"_StyleNames_PedigreeBoxedBarChartCompositorStyle" = "полоса блока Родословная";
+
+/* (No Comment) */
+"_StyleNames_PedigreePennantChartCompositorStyle" = "Вымпел родословной";
+
+/* (No Comment) */
+"_StyleNames_PedigreeSideBarChartCompositorStyle" = "Родословная раскраска с полосой справа";
+
+/* (No Comment) */
+"_StyleNames_RainbowBoxedBarChartCompositorStyle" = "Радужная полоса блока";
+
+/* (No Comment) */
+"_StyleNames_RainbowPennantChartCompositorStyle" = "Радужный вымпел";
+
+/* (No Comment) */
+"_StyleNames_RainbowTextChartCompositorStyle" = "Радужный текст";
+
+/* (No Comment) */
+"_StyleNames_RedTextChartCompositorStyle" = "Красный текст";
+
+/* (No Comment) */
+"_StyleNames_SunsetBoxedBarChartCompositorStyle" = "Полоса блока Солнечный закат";
+
+/* (No Comment) */
+"_StyleNames_SunsetBoxedChartCompositorStyle" = "Вечерние блоки";
+
+/* (No Comment) */
+"_StyleNames_SunsetCardChartCompositorStyle" = "Вечерние открытки";
+
+/* (No Comment) */
+"_StyleNames_SunsetCircularPersonChartCompositorStyle" = "Вечерние круги";
+
+/* (No Comment) */
+"_StyleNames_SunsetDistributionChartCompositorStyle" = "Закат";
+
+/* (No Comment) */
+"_StyleNames_SunsetFanChartCompositorStyle" = "Вечерняя веерная диаграмма";
+
+/* (No Comment) */
+"_StyleNames_SunsetFlatBarStatisticsChartCompositorStyle" = "Вечерние плоские полосы";
+
+/* (No Comment) */
+"_StyleNames_TraditionalFanChartCompositorStyle" = "Традиционный";
+
+/* (No Comment) */
+"_StyleNames_TraditionalGradientFanChartCompositorStyle" = "Традиционные градиенты";
+
+/* (No Comment) */
+"_StyleNames_TypewriterTextChartCompositorStyle" = "Пишущая машинка";
+
+/* (No Comment) */
+"_StyleNames_TypewriterTimelineBarChartCompositorStyle" = "Пишущая машинка";
+
+/* (No Comment) */
+"_StyleNames_VeryLightPedigreeGradientFanChartCompositorStyle" = "Лёгкие градиенты родословный веер";
+
+/* (No Comment) */
+"_StyleNames_VioletCardChartCompositorStyle" = "Фиолетовые открытки";
+
+/* (No Comment) */
+"_StyleNames_WhiteBoxedChartCompositorStyle" = "Белые блоки";
+
+/* (No Comment) */
+"_StyleNames_WhiteCardChartCompositorStyle" = "Белые карты";
+
+/* (No Comment) */
+"_StyleNamesBlueDiagonalSegmentedPortraitChartCompositorStyle" = "Синие стилизованные блоки";
+
+/* (No Comment) */
+"_StyleNamesBluePolaroidChartCompositorStyle" = "Синие поляроиды";
+
+/* (No Comment) */
+"_StyleNamesBottomSideBarChartCompositorStyle" = "Нижняя панель";
+
+/* (No Comment) */
+"_StyleNamesDarkBarPortraitCompositorStyle" = "Портреты в тёмной полосе";
+
+/* (No Comment) */
+"_StyleNamesDarkPolaroidChartCompositorStyle" = "Тёмные поляроиды";
+
+/* (No Comment) */
+"_StyleNamesFloatingRainbowSideBarChartCompositorStyle" = "Радужные плавающие полосы";
+
+/* (No Comment) */
+"_StyleNamesGenderBarPortraitCompositorStyle" = "Гендерные полосы с портретами";
+
+/* (No Comment) */
+"_StyleNamesLargeBarPortraitCompositorStyle" = "Большие полосы с портретами";
+
+/* (No Comment) */
+"_StyleNamesLightBlueBarPortraitCompositorStyle" = "Светло-голубые полосы с портретами";
+
+/* (No Comment) */
+"_StyleNamesLightWaveSegmentedPortraitChartCompositorStyle" = "Светлые стилизованные блоки";
+
+/* (No Comment) */
+"_StyleNamesPedigreeBarPortraitCompositorStyle" = "Родословные полосы с портреты";
+
+/* (No Comment) */
+"_StyleNamesPedigreeRoundSegmentedPortraitChartCompositorStyle" = "Родословные круглые стилизованные блоки";
+
+/* (No Comment) */
+"_StyleNamesPedigreeSegmentedPortraitChartCompositorStyle" = "Стилизованные блоки с родословной";
+
+/* (No Comment) */
+"_StyleNamesRainbowSegmentedPortraitChartCompositorStyle" = "Радужные стилизованные блоки";
+
+/* (No Comment) */
+"_StyleNamesRainbowSideBarChartCompositorStyle" = "Радужные полосы";
+
+/* (No Comment) */
+"_StyleNamesSimplePolaroidChartCompositorStyle" = "Полароиды";
+
+/* (No Comment) */
+"_StyleNamesSunsetPolaroidChartCompositorStyle" = "Закат полароид";
+
+/* (No Comment) */
+"_StyleNamesSunsetSideBarChartCompositorStyle" = "Полосы цвета заката";
+
+/* (No Comment) */
+"_Timeline_GroupingMode_GroupByBirthCountry_SortByDate" = "Группировать по стране рождения, сортировать по дате";
+
+/* (No Comment) */
+"_Timeline_GroupingMode_GroupByBirthPlace_SortByDate" = "Группировать по месту рождения, сортировать по дате";
+
+/* (No Comment) */
+"_Timeline_GroupingMode_GroupByDeathCountry_SortByDate" = "Группировать по стране смерти, сортировать по дате";
+
+/* (No Comment) */
+"_Timeline_GroupingMode_GroupByDeathPlace_SortByDate" = "Группировать по месту смерти, сортировать по дате";
+
+/* (No Comment) */
+"_Timeline_GroupingMode_GroupByGender_SortByDate" = "Группировать по полу, сортировать по дате";
+
+/* (No Comment) */
+"_Timeline_GroupingMode_GroupByLastName_SortByDate" = "Группировать по фамилии, сортировать по дате";
+
+/* Timeline */
+"_Timeline_GroupingMode_SortByDate" = "Сортировать по дате";
+
+/* (No Comment) */
+"_TimelineChartBuilder_CollapseAllGroupsForBestFit" = "Свернуть группы для лучшего использования пространства";
+
+/* (No Comment) */
+"_TimelineChartBuilder_CollapseAllGroupsForBestFitExplanation" = "Если указано, группы будут расположены для лучшего использования пространства, но алфавитный порядок не гарантируется.";
+
+/* (No Comment) */
+"_TimelineChartBuilder_GroupByBirthCountry_NoPlace" = "Страна рождения неизвестна";
+
+/* (No Comment) */
+"_TimelineChartBuilder_GroupByBirthPlace_NoPlace" = "Место рождения неизвестно";
+
+/* (No Comment) */
+"_TimelineChartBuilder_GroupByDeathCountry_NoPlace" = "Страна смерти неизвестна";
+
+/* (No Comment) */
+"_TimelineChartBuilder_GroupByDeathPlace_NoPlace" = "Место смерти неизвестно";
+
+/* (No Comment) */
+"_TimelineChartBuilder_GroupByLastName_NoLastName" = "Фамилия неизвестна";
+
+/* (No Comment) */
+"_TimelineChartBuilder_HistoryPersons_Key" = "История: Известные люди";
+
+/* (No Comment) */
+"_TitleGeneratorChartCompositorObjectConfiguration_TitleImageMode_FamilyCrest" = "Семейный герб";
+
+/* (No Comment) */
+"_TitleGeneratorChartCompositorObjectConfiguration_TitleImageMode_None" = "Нет";
+
+/* (No Comment) */
+"_TitleGeneratorChartCompositorObjectConfiguration_TitleImageMode_SelectedEntryImage" = "Выбранное изображение входа";
+
+/* TreeChartBuilder */
+"_TreeChartBuilder_MainTreePrefix" = "Основное древо";
+
+/* (No Comment) */
+"_TreeChartBuilder_SubTreeAlignment" = "Выравнивание отделённых деревьев";
+
+/* (No Comment) */
+"_TreeChartBuilder_SubTreeAlignment_ByGeneration" = "По поколению";
+
+/* (No Comment) */
+"_TreeChartBuilder_SubTreeAlignment_ShortestDistanceToOrigin" = "Кратчайшее расстояние до источника";
+
+/* (No Comment) */
+"_TreeChartBuilder_SubTreeAlignmentExplanation" = "В сложных ситуациях древо должно отображаться как отделённое от основного. Укажите здесь, как расположить эти отделённые древа.";
+
+/* (No Comment) */
+"_TreeChartBuilder_SubTreePrefix" = "Отделённое древо";
+

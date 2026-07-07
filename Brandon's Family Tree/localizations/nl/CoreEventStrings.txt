@@ -1,0 +1,357 @@
+﻿/* (No Comment) */
+"_ConclusionType_AssociateRelations" = "Invloedrijke relaties";
+
+/* Duplicate Conclusion GEDCOM Tag */
+"_ConclusionType_DuplicateGedcomTag" = "Deze GEDCOM-tag wordt al gebruikt. Kies een andere tag, omdat dubbele GEDCOM-tags problemen kunnen veroorzaken bij het exporteren van GEDCOM-bestanden.";
+
+/* (No Comment) */
+"_ConclusionType_FamilyEvents" = "Familiegebeurtenissen";
+
+/* (No Comment) */
+"_ConclusionType_IsNotUserCreatedFlag" = "voorgeprogrammeerd type";
+
+/* (No Comment) */
+"_ConclusionType_IsUserCreatedFlag" = "aangemaakt door gebruiker type";
+
+/* (No Comment) */
+"_ConclusionType_PersonEvents" = "Persoonsgebeurtenissen";
+
+/* (No Comment) */
+"_ConclusionType_PersonEventsFamilyEvents" = "Evenementen";
+
+/* (No Comment) */
+"_ConclusionType_PersonEventsFamilyEventsPersonFacts" = "Gebeurtenissen en feiten";
+
+/* (No Comment) */
+"_ConclusionType_PersonEventsFamilyEventsPersonFactsAssociateRelations" = "Gebeurtenissen, feiten en invloedrijke relaties";
+
+/* (No Comment) */
+"_ConclusionType_PersonFacts" = "Persoonsgegevens";
+
+/* LDS */
+"_Event_LDSNoTemple" = "Geen tempel";
+
+/* (No Comment) */
+"_FamilyEvent_Annuled" = "Annulering";
+
+/* (No Comment) */
+"_FamilyEvent_Bann" = "Bannen";
+
+/* (No Comment) */
+"_FamilyEvent_Census" = "Census";
+
+/* (No Comment) */
+"_FamilyEvent_Contract" = "Huwelijkscontract";
+
+/* (No Comment) */
+"_FamilyEvent_Divorce_Filing" = "Scheidingsuitspraak";
+
+/* (No Comment) */
+"_FamilyEvent_Divorced" = "Scheiding";
+
+/* (No Comment) */
+"_FamilyEvent_Engagement" = "Verloving";
+
+/* (No Comment) */
+"_FamilyEvent_LDSSpouseSealing" = "LDS Verzegeling aan huwelijkspartner";
+
+/* (No Comment) */
+"_FamilyEvent_License" = "Ondertrouw";
+
+/* FamilyEvents */
+"_FamilyEvent_Marriage" = "Huwelijk";
+
+/* (No Comment) */
+"_FamilyEvent_MarriageCivil" = "Burgerlijk huwelijk";
+
+/* (No Comment) */
+"_FamilyEvent_MarriageReligion" = "Kerkelijk huwelijk";
+
+/* (No Comment) */
+"_FamilyEvent_OtherEvent" = "Andere gebeurtenis";
+
+/* (No Comment) */
+"_FamilyEvent_Partnership" = "Samenlevingscontract";
+
+/* (No Comment) */
+"_FamilyEvent_Separation" = "Scheiding";
+
+/* (No Comment) */
+"_FamilyEvent_Settlement" = "Voorhuwelijkse overeenkomst";
+
+/* (No Comment) */
+"_LDSEventStatus_BIC" = "BIC";
+
+/* LDS Event Status */
+"_LDSEventStatus_Canceled" = "Geannuleerd";
+
+/* (No Comment) */
+"_LDSEventStatus_Child" = "Kind";
+
+/* (No Comment) */
+"_LDSEventStatus_Cleared" = "Vrijgegeven";
+
+/* (No Comment) */
+"_LDSEventStatus_Completed" = "Vervolledigd";
+
+/* (No Comment) */
+"_LDSEventStatus_DNS" = "Niet gekwalificeerd";
+
+/* (No Comment) */
+"_LDSEventStatus_DNS/CAN" = "Niet gekwalificeerd (CAN)";
+
+/* (No Comment) */
+"_LDSEventStatus_Infant" = "Voor de eerste verjaardag overleden";
+
+/* (No Comment) */
+"_LDSEventStatus_Pre1970" = "Voor 1970";
+
+/* (No Comment) */
+"_LDSEventStatus_Qualified" = "Gekwalificeerd";
+
+/* (No Comment) */
+"_LDSEventStatus_Stillborn" = "Doodgeboren";
+
+/* (No Comment) */
+"_LDSEventStatus_Submitted" = "Ingediend";
+
+/* (No Comment) */
+"_LDSEventStatus_Uncleared" = "Niet vrijgegeven";
+
+/* PersonEvents */
+"_PersonEvent_Adoption" = "Adoptie";
+
+/* (No Comment) */
+"_PersonEvent_AdultChristening" = "Doopsel (volwassen)";
+
+/* (No Comment) */
+"_PersonEvent_Apprenticeship" = "Leerling";
+
+/* (No Comment) */
+"_PersonEvent_Baptism" = "Doopsel (kind)";
+
+/* (No Comment) */
+"_PersonEvent_BarMitzvah" = "Bar Mitzvah";
+
+/* (No Comment) */
+"_PersonEvent_BasMitzvah" = "Bas Mitzvah";
+
+/* (No Comment) */
+"_PersonEvent_Birth" = "Geboorte";
+
+/* (No Comment) */
+"_PersonEvent_Blessing" = "Zegening";
+
+/* (No Comment) */
+"_PersonEvent_Burial" = "Begrafenis";
+
+/* (No Comment) */
+"_PersonEvent_Census" = "Census";
+
+/* (No Comment) */
+"_PersonEvent_Christening" = "Doop";
+
+/* (No Comment) */
+"_PersonEvent_Circumcision" = "Besnijdenis";
+
+/* (No Comment) */
+"_PersonEvent_Confirmation" = "Confirmatie";
+
+/* (No Comment) */
+"_PersonEvent_Cremation" = "Crematie";
+
+/* (No Comment) */
+"_PersonEvent_Death" = "Overlijden";
+
+/* (No Comment) */
+"_PersonEvent_Deed" = "Oorkonde/document";
+
+/* (No Comment) */
+"_PersonEvent_Education" = "Opleiding";
+
+/* (No Comment) */
+"_PersonEvent_Emigration" = "Emigratie";
+
+/* (No Comment) */
+"_PersonEvent_Excommunication" = "Excommunicatie";
+
+/* (No Comment) */
+"_PersonEvent_FirstCommunion" = "Eerste Communie";
+
+/* (No Comment) */
+"_PersonEvent_FosterChild" = "Pleegkind";
+
+/* (No Comment) */
+"_PersonEvent_Funeral" = "Begrafenis";
+
+/* (No Comment) */
+"_PersonEvent_GenericEvent" = "Andere gebeurtenis";
+
+/* (No Comment) */
+"_PersonEvent_Graduation" = "Afstuderen";
+
+/* (No Comment) */
+"_PersonEvent_Illness" = "Ziekte";
+
+/* (No Comment) */
+"_PersonEvent_Immigration" = "Immigratie";
+
+/* (No Comment) */
+"_PersonEvent_LandTransaction" = "Verwerving van grond";
+
+/* (No Comment) */
+"_PersonEvent_LDSBaptism" = "LDS Doopsel";
+
+/* (No Comment) */
+"_PersonEvent_LDSChildSealing" = "LDS Verzegeling van kind";
+
+/* (No Comment) */
+"_PersonEvent_LDSConfirmation" = "LDS Confirmatie";
+
+/* (No Comment) */
+"_PersonEvent_LDSEndowment" = "LDS Begiftiging";
+
+/* (No Comment) */
+"_PersonEvent_LDSInitiatory" = "LDS Voorverordeningen";
+
+/* (No Comment) */
+"_PersonEvent_MilitaryAward" = "Militaire onderscheiding";
+
+/* (No Comment) */
+"_PersonEvent_MilitaryDischarge" = "Militair ontslag";
+
+/* (No Comment) */
+"_PersonEvent_MilitaryInduction" = "Oproeping onder de wapens";
+
+/* (No Comment) */
+"_PersonEvent_MilitaryService" = "Militaire dienst";
+
+/* (No Comment) */
+"_PersonEvent_Miscarriage" = "Miskraam";
+
+/* (No Comment) */
+"_PersonEvent_Mission" = "Missie";
+
+/* (No Comment) */
+"_PersonEvent_Nationality" = "Nationaliteit";
+
+/* (No Comment) */
+"_PersonEvent_Naturalization" = "Naturalisatie";
+
+/* (No Comment) */
+"_PersonEvent_NickName" = "Bijnaam";
+
+/* (No Comment) */
+"_PersonEvent_NobilityTypeTitle" = "Adelijke titel";
+
+/* (No Comment) */
+"_PersonEvent_Occupation" = "Beroep";
+
+/* (No Comment) */
+"_PersonEvent_Ordination" = "Wijding";
+
+/* (No Comment) */
+"_PersonEvent_Probate" = "Erfenis";
+
+/* (No Comment) */
+"_PersonEvent_Religion" = "Geloof";
+
+/* (No Comment) */
+"_PersonEvent_Residence" = "Verblijfsplaats";
+
+/* (No Comment) */
+"_PersonEvent_Retirement" = "Pensioen";
+
+/* (No Comment) */
+"_PersonEvent_Will" = "Testament";
+
+/* (No Comment) */
+"_PersonFact_BloodType" = "Bloedgroep";
+
+/* (No Comment) */
+"_PersonFact_CasteName" = "Kaste";
+
+/* (No Comment) */
+"_PersonFact_Clan" = "Clan";
+
+/* (No Comment) */
+"_PersonFact_CustomFamilySearchFactTitle" = "Eigen feit: %@";
+
+/* (No Comment) */
+"_PersonFact_Email" = "E-mail";
+
+/* (No Comment) */
+"_PersonFact_EyeColor" = "Kleur van de ogen";
+
+/* (No Comment) */
+"_PersonFact_HairColor" = "Haarkleur";
+
+/* (No Comment) */
+"_PersonFact_Height" = "Hoogte";
+
+/* (No Comment) */
+"_PersonFact_Hobby" = "Hobby";
+
+/* (No Comment) */
+"_PersonFact_Honors" = "Onderscheidingen";
+
+/* (No Comment) */
+"_PersonFact_NationalID" = "Rijksregisternummer";
+
+/* (No Comment) */
+"_PersonFact_NationalOrTribalOrigin" = "Nationaliteit of stamafkomst";
+
+/* (No Comment) */
+"_PersonFact_NoChildren" = "Geen kinderen";
+
+/* (No Comment) */
+"_PersonFact_NoCoupleRelationships" = "Geen koppel verwantschappen";
+
+/* (No Comment) */
+"_PersonFact_Phone" = "Telefoonnummer";
+
+/* (No Comment) */
+"_PersonFact_PhysicalDescription" = "Morfologie";
+
+/* (No Comment) */
+"_PersonFact_Possession" = "Bezittingen";
+
+/* (No Comment) */
+"_PersonFact_Race" = "Etnische afkomst";
+
+/* (No Comment) */
+"_PersonFact_SkinColor" = "Huidskleur";
+
+/* Facts */
+"_PersonFact_SocialSecurityNumber" = "Nummer sociale zekerheid";
+
+/* (No Comment) */
+"_PersonFact_TribeName" = "Stam";
+
+/* (No Comment) */
+"_PersonFact_Weight" = "Gewicht";
+
+/* (No Comment) */
+"ConclusionAdditionalNameType_Unnamed" = "Onbenoemd type bijkomende naam";
+
+/* (No Comment) */
+"ConclusionAssociateRelationType_Unnamed" = "Type invloedrijke relatie zonder naam";
+
+/* (No Comment) */
+"ConclusionFamilyEventType_Unnamed" = "Onbenoemde familiegebeurtenis type";
+
+/* Conclusion Types */
+"ConclusionPersonEventType_Unnamed" = "Onbenoemde persoonsgebeurtenis type";
+
+/* (No Comment) */
+"ConclusionPersonFactType_Unnamed" = "Onbenoemde persoonsgegeven type";
+
+/* (No Comment) */
+"ConclusionToDoPriorityType_Unnamed" = "Naamloos taakprioriteitstype";
+
+/* (No Comment) */
+"ConclusionToDoStatusType_Unnamed" = "Naamloos taakstatustype";
+
+/* (No Comment) */
+"ConclusionToDoTypeType_Unnamed" = "Naamloos taaktype";
+

@@ -1,0 +1,318 @@
+﻿/* (No Comment) */
+"_EditPlaceTemplateKeysController_MergeTemplateKeysConflictInformative" = "Olet aikeissa yhdistää paikkakentän '%@' paikkakentän '%@' kanssa, mutta joissakin sukupuusi paikoissa molemmat paikkakentät esiintyvät yhdessä paikassa. Päätä mitä näiden paikkojen kanssa tehdään:";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_MergeTemplateKeysConflictKeepBoth" = "Pidä molemmat arvot";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_MergeTemplateKeysConflictKeepSingle" = "Pidä arvo %@";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_MergeTemplateKeysConflictMessage" = "Yhdistä paikkakentät";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_MergeTemplateKeysDoneInformative" = "Paikkakenttä '%@' on yhdistetty paikkakentän '%@' kanssa";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_MergeTemplateKeysDoneMessage" = "Paikkakentät yhdistetty";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_ReallyMergeTemplateKeysInformative" = "Haluatko todella yhdistää mallikentät '%@' ja '%@'? Sen jälkeen niistä tulee yksi mallikenttä.";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_ReallyMergeTemplateKeysMessage" = "Yhdistetäänkö mallikentät todella?";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_RemoveTemplateKeyInformative" = "Haluatko todella poistaa valitun mallikentän? Tässä mallikentässä on yhä siihen syötettyä tietoa, joka poistetaan lopullisesti.";
+
+/* EditPlaceTemplateKeysController */
+"_EditPlaceTemplateKeysController_RemoveTemplateKeyMessage" = "Poistetaanko mallikenttä? Kaikki paikkojen tiedot poistetaan lopullisesti.";
+
+/* (No Comment) */
+"_EditPlaceTemplatesController_MergeTemplateDoneMessage" = "Paikkamallikentät yhdistetty";
+
+/* (No Comment) */
+"_EditPlaceTemplatesController_MergeTemplatesDoneInformative" = "Paikkamallikentät '%@' ja '%@' on yhdistetty onnistuneesti.";
+
+/* (No Comment) */
+"_EditPlaceTemplatesController_ReallyMergeTemplateInformative" = "Haluatko todella yhdistää mallit '%@' ja '%@'? Sen jälkeen niistä tulee yksi malli.";
+
+/* (No Comment) */
+"_EditPlaceTemplatesController_ReallyMergeTemplateMessage" = "Yhdistetäänkö mallit todella?";
+
+/* (No Comment) */
+"_EditPlaceTemplatesController_RemoveTemplateInformative" = "Oletko ihan varma, että haluat poistaa tämän paikkamallin? Tähän paikkamalliin on liitetty paikkoja, jotka myös poistetaan pysyvästi jos poistat tämän paikkamallin.";
+
+/* EditPlaceTemplatesController */
+"_EditPlaceTemplatesController_RemoveTemplateMessage" = "Poistetaanko paikkamalli todella? Kaikki liitetyt paikat poistetaan pysyvästi.";
+
+/* (No Comment) */
+"_PlaceTemplate_PlacesCount" = "%d paikkaa";
+
+/* Counts */
+"_PlaceTemplate_PlacesCountSingular" = "%d paikka";
+
+/* Relation Usage */
+"_RelationUsage_AdministrativeDivision1" = "Hallintotaso 1";
+
+/* (No Comment) */
+"_RelationUsage_AdministrativeDivision2" = "Hallintotaso 2";
+
+/* (No Comment) */
+"_RelationUsage_AdministrativeDivision3" = "Hallintotaso 3";
+
+/* (No Comment) */
+"_RelationUsage_AdministrativeDivision4" = "Hallintotaso 4";
+
+/* (No Comment) */
+"_RelationUsage_AdministrativeDivision5" = "Hallintotaso 5";
+
+/* (No Comment) */
+"_RelationUsage_AdministrativeDivisionOther" = "Muu hallintotaso";
+
+/* (No Comment) */
+"_RelationUsage_CountryName" = "Maan nimi";
+
+/* (No Comment) */
+"_RelationUsage_PlaceName" = "Paikan nimi";
+
+/* (No Comment) */
+"PlaceTemplate_Australia" = "Australia";
+
+/* (No Comment) */
+"PlaceTemplate_Austria" = "Itävalta";
+
+/* (No Comment) */
+"PlaceTemplate_Belgium" = "Belgia";
+
+/* (No Comment) */
+"PlaceTemplate_Bosnia and Herzegovina" = "Bosnia ja Herzegovina";
+
+/* (No Comment) */
+"PlaceTemplate_Brazil" = "Brasilia";
+
+/* (No Comment) */
+"PlaceTemplate_Bulgaria" = "Bulgaria";
+
+/* (No Comment) */
+"PlaceTemplate_Canada (Province)" = "Kanada (Provinssi)";
+
+/* (No Comment) */
+"PlaceTemplate_Canada (Territory)" = "Kanada (Territorio)";
+
+/* (No Comment) */
+"PlaceTemplate_China" = "Kiina";
+
+/* (No Comment) */
+"PlaceTemplate_Croatia" = "Kroatia";
+
+/* (No Comment) */
+"PlaceTemplate_Czechia" = "Tsekki";
+
+/* (No Comment) */
+"PlaceTemplate_Denmark" = "Tanska";
+
+/* (No Comment) */
+"PlaceTemplate_England (Borough)" = "Englanti (kunta)";
+
+/* (No Comment) */
+"PlaceTemplate_England (Parish)" = "Englanti (seurakunta)";
+
+/* (No Comment) */
+"PlaceTemplate_Finland" = "Suomi";
+
+/* (No Comment) */
+"PlaceTemplate_France" = "Ranska";
+
+/* Templates */
+"PlaceTemplate_Generic" = "Geneerinen";
+
+/* (No Comment) */
+"PlaceTemplate_Generic_Level" = "Geneerinen (%d tasoa)";
+
+/* (No Comment) */
+"PlaceTemplate_Generic_OneComponent" = "Geneerinen (yksi taso)";
+
+/* (No Comment) */
+"PlaceTemplate_Generic_ThreeComponents" = "Geneerinen (kolme tasoa)";
+
+/* (No Comment) */
+"PlaceTemplate_Generic_TwoComponents" = "Geneerinen (kaksi tasoa)";
+
+/* (No Comment) */
+"PlaceTemplate_Germany" = "Saksa";
+
+/* (No Comment) */
+"PlaceTemplate_Greece" = "Kreikka";
+
+/* (No Comment) */
+"PlaceTemplate_Hungary" = "Unkari";
+
+/* (No Comment) */
+"PlaceTemplate_Ireland" = "Irlanti";
+
+/* (No Comment) */
+"PlaceTemplate_Italy" = "Italia";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Administrative Divison" = "Hallintotaso";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Administrative Unit" = "Hallinnollinen yksikkö";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Autonomos Region" = "Autonominen alue";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Borough" = "Maakunta";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Canton" = "Kantoni";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Commune" = "Kommuuni";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Country" = "Maa";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_County" = "Alue";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Decentralized Administration" = "Hajautettu hallinto";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Department" = "Osasto";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_District" = "Alue";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Federal District" = "Liittovaltion alue";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Federal Subject" = "Liittovaltion kohde";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Kray" = "Krai";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Level" = "Taso %d";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Municipality" = "Kunta";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Oblast" = "Oblasti";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Parish" = "Kunta";
+
+/* Template Keys */
+"PlaceTemplate_KeyName_Place" = "Paikka";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Province" = "Provinssi";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Region" = "Alue";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Republic" = "Tasavalta";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_State" = "Valtio";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Territory" = "Territorio";
+
+/* (No Comment) */
+"PlaceTemplate_Mexico" = "Meksiko";
+
+/* (No Comment) */
+"PlaceTemplate_Netherlands" = "Alankomaat";
+
+/* (No Comment) */
+"PlaceTemplate_Norway" = "Norja";
+
+/* (No Comment) */
+"PlaceTemplate_Poland" = "Puola";
+
+/* (No Comment) */
+"PlaceTemplate_Portugal" = "Portugali";
+
+/* (No Comment) */
+"PlaceTemplate_Romania" = "Romania";
+
+/* (No Comment) */
+"PlaceTemplate_Russia" = "Venäjä";
+
+/* (No Comment) */
+"PlaceTemplate_Serbia" = "Serbia";
+
+/* (No Comment) */
+"PlaceTemplate_Slovakia" = "Slovakia";
+
+/* (No Comment) */
+"PlaceTemplate_Slovenia" = "Slovenia";
+
+/* (No Comment) */
+"PlaceTemplate_Spain" = "Espanja";
+
+/* (No Comment) */
+"PlaceTemplate_Sweden" = "Ruotsi";
+
+/* (No Comment) */
+"PlaceTemplate_Switzerland" = "Sveitsi";
+
+/* (No Comment) */
+"PlaceTemplate_United Kingdom" = "Yhdistynyt kuningaskunta";
+
+/* (No Comment) */
+"PlaceTemplate_United States of America" = "Amerikan Yhdysvallat";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationBracketMode_AngleBrackets" = "Kulmasulkeet";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationBracketMode_Brackets" = "Kaarisulkeet";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationBracketMode_CurlyBrackets" = "Aaltosulkeet";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationBracketMode_DoubleQuotes" = "Kaksoislainausmerkit";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationBracketMode_None" = "Ei mitään";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationBracketMode_SingleQuotes" = "Yksinkertaiset lainausmerkit";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationMode_Normal" = "Normaali";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationMode_Short" = "Lyhyt";
+
+/* Enums */
+"PlaceTemplateKeyRelation_CitationMode_VeryShort" = "Hyvin lyhyt";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationTrailingMode_Colon" = "Kaksoispiste";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationTrailingMode_Comma" = "Pilkku";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationTrailingMode_Hyphen" = "Yhdysviiva";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationTrailingMode_Period" = "Piste";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationTrailingMode_Semicolon" = "Puolipiste";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationTrailingMode_Space" = "Välilyönti";
+

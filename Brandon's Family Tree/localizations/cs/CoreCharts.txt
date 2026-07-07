@@ -1,0 +1,2202 @@
+﻿/* Background Image Mode */
+"_BackgroundGeneratorChartCompositorObject_BackgroundImageMode" = "Styl výplně obrázkem";
+
+/* (No Comment) */
+"_BackgroundGeneratorChartCompositorObject_BackgroundImageMode_BlurryEdges" = "Rozmazané okraje";
+
+/* (No Comment) */
+"_BackgroundGeneratorChartCompositorObject_BackgroundImageMode_Radial" = "Paprskovitý";
+
+/* (No Comment) */
+"_BackgroundGeneratorChartCompositorObject_BackgroundImageMode_Rectangle" = "Obdélník";
+
+/* (No Comment) */
+"_BackgroundGeneratorChartCompositorObject_BlurryEdgesSize" = "Velikost rozmazaného okraje";
+
+/* (No Comment) */
+"_BarHistoryEventTimelineGeneratorChartCompositorObjectConfiguration_CustomTextColor" = "Vlastní barva textu pro historické události";
+
+/* (No Comment) */
+"_BarHistoryEventTimelineGeneratorChartCompositorObjectConfiguration_Font" = "Písmo historických událostí";
+
+/* (No Comment) */
+"_BarHistoryEventTimelineGeneratorChartCompositorObjectConfiguration_TextColoringMode" = "Zabarvení textu pro historické události";
+
+/* (No Comment) */
+"_BarPersonTimelineGeneratorChartCompositorObjectConfiguration_EventMarkerMode" = "Značky událostí";
+
+/* (No Comment) */
+"_BarPersonTimelineGeneratorChartCompositorObjectConfiguration_EventMarkerMode_Circles" = "Kruhy";
+
+/* (No Comment) */
+"_BarPersonTimelineGeneratorChartCompositorObjectConfiguration_EventMarkerMode_Lines" = "Řádky";
+
+/* BaseChartBuilder */
+"_BaseChartBuilderConfiguration_PlaceFormat_CompleteLocationString" = "Kompletní název místa";
+
+/* (No Comment) */
+"_BaseChartBuilderConfiguration_PlaceFormat_OnlyPlaceName" = "Zkrácený název místa";
+
+/* LineColorModes */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineColorMode" = "Režim barvy linky";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineColorMode_ContrastToBackground" = "Kontrastní k pozadí";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineColorMode_Custom" = "Vlastní";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration" = "Dekorace zakončení linky";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_Bar" = "Pruh";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_LargeCircle" = "Velký kruh";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_LargeDot" = "Velká tečka";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_None" = "Žádná";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_SmallCircle" = "Malý kruh";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_SmallDot" = "Malá tečka";
+
+/* BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration */
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_MediaPictureAssignmentMode" = "Režim zobrazení obrázků";
+
+/* (No Comment) */
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_MediaPictureAssignmentMode_FullPictureWithoutAssignment" = "Celý obrázek bez oříznutí";
+
+/* (No Comment) */
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_MediaPictureAssignmentMode_OnlyUserProvidedAssignment" = "Oříznout obrázek, pokud je to výslovně uvedeno";
+
+/* (No Comment) */
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_MediaPictureAssignmentMode_UserProvidedOrVision" = "Oříznout obrázek, pokud je vybrán a je detekována tvář";
+
+/* (No Comment) */
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_MediaPictureAssignmentModeExplanation" = "Zde můžete zvolit, jak se mají média zobrazovat. Zvolte, zda mají být zobrazeny celé obrázky nebo zda mají být obrázky oříznuty na tváře osob pomocí umělé inteligence.";
+
+/* (No Comment) */
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_OutsetForMediaPictureAssignmentModeForVision" = "Rozestupy rozpoznaných tváří";
+
+/* (No Comment) */
+"_ChartCompositorObjectsContainer_RealignmentMode_DistributeObjectsEvenlyOnPageFromBorderToBorder" = "Umístit objekty pro pokrytí všech stránek";
+
+/* ChartCompositorObjectsContainer_RealignmentMode */
+"_ChartCompositorObjectsContainer_RealignmentMode_MoveObjectsAwayFromPageCuts" = "Přemístit objekty mimo konce stránek";
+
+/* (No Comment) */
+"_ChartFillSettings_FillType_LinearGradient" = "Přechod";
+
+/* ChartFillSettings */
+"_ChartFillSettings_FillType_None" = "Žádný";
+
+/* (No Comment) */
+"_ChartFillSettings_FillType_None_Explanation" = "Nebyl vybrán žádný typ výplně";
+
+/* (No Comment) */
+"_ChartFillSettings_FillType_RadialGradient" = "Kruhový přechod";
+
+/* (No Comment) */
+"_ChartFillSettings_FillType_RadialGradient_Abbreviation" = "Kruhový";
+
+/* (No Comment) */
+"_ChartFillSettings_FillType_SolidColor" = "Barva";
+
+/* (No Comment) */
+"_ChartObjectType_BezierConnectionBuilderItemGeneratorChartCompositorObject" = "Bezierova spojení";
+
+/* (No Comment) */
+"_ChartObjectType_BlobConnectionBuilderItemGeneratorChartCompositorObject" = "Přirozená spojení";
+
+/* Chart object types */
+"_ChartObjectType_DirectStraightConnectionBuilderItemGeneratorChartCompositorObject" = "Přímá spojení";
+
+/* (No Comment) */
+"_ChartObjectType_HConnectionBuilderItemGeneratorChartCompositorObject" = "H spojení";
+
+/* (No Comment) */
+"_ChartObjectType_YStraightConnectionBuilderItemGeneratorChartCompositorObject" = "Přímé spojení Y";
+
+/* (No Comment) */
+"_Charts_XAlignment_Center" = "Vycentrovat";
+
+/* Alignment */
+"_Charts_XAlignment_Left" = "Vlevo";
+
+/* (No Comment) */
+"_Charts_XAlignment_Right" = "Vpravo";
+
+/* (No Comment) */
+"_Charts_YAlignment_Bottom" = "Dole";
+
+/* (No Comment) */
+"_Charts_YAlignment_Middle" = "Uprostřed";
+
+/* (No Comment) */
+"_Charts_YAlignment_Top" = "Nahoře";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_ExportAsSeparatePages" = "Oddělené stránky";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_ExportAsSeparatePages_Explanation" = "Pokud je tato možnost vybrána, bude pro graf použito více stránek.";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_ExportBackground" = "Zobrazit pozadí";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_ExportBackground_Explanation" = "Pokud je tato možnost vybrána, pozadí bude viditelné na obrázku.";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_Margins" = "Okraje";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_Margins_Explanation" = "Tato volba slouží k určení okrajů kolem grafu k ohraničení obrázku.";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_Margins_ExplanationForPrinting" = "Nastaví okraje grafu na hranici každé stránky.";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_PrintingTitle" = "Nastavení tisku";
+
+/* ChartsBaseCGContextViewerConfiguration */
+"_ChartsBaseCGContextViewerConfiguration_Title" = "Nastavení exportu";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewer_JPEGToLarge_Description" = "Tento graf je příliš velký na to, aby byl exportován jako soubor JPEG. Upravte nastavení měřítka na nižší hodnotu nebo graf exportujte jako soubor PNG nebo PDF.";
+
+/* ChartsBitmapCGContextViewerConfiguration */
+"_ChartsBitmapCGContextViewerConfiguration_ExportFormat" = "Formát exportu";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_ExportFormat_Explanation" = "Zvolte prosím požadovaný formát obrázku, který se zde použije. Soubory PNG mohou obsahovat průhledné pozadí, zatímco soubory JPEG nabízejí lepší kompresi a menší velikost souboru.";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_ExportFormat_JPEG" = "Exportovat jako obrázek JPEG";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_ExportFormat_PNG" = "Exportovat jako obrázek PNG";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_JPEGQuality" = "Kvalita JPEG";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_JPEGQuality_Explanation" = "Kvalita JPEG ovlivňuje, jak moc je obrázek komprimován. Nižší kvalitou sice docílíte menší velikosti souborů, ale výsledkem může být také nečitelnost a ztráta obrazových informací.";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_Scaling" = "Měřítko";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_Scaling_Explanation" = "Zde nastavte měřítko výsledného obrázku. Větší měřítko zvětší velikost souboru, ale nabídne více podrobností před viditelnou pixelací.";
+
+/* (No Comment) */
+"_ChartsEditor_AlignMode_BottomY" = "Zarovnat dolů, vertikálně";
+
+/* ChartEditor */
+"_ChartsEditor_AlignMode_LeftX" = "Zarovnat vlevo, horizontálně";
+
+/* (No Comment) */
+"_ChartsEditor_AlignMode_MiddleX" = "Zarovnat na střed, horizontálně";
+
+/* (No Comment) */
+"_ChartsEditor_AlignMode_MiddleY" = "Zarovnat na střed, vertikálně";
+
+/* (No Comment) */
+"_ChartsEditor_AlignMode_RightX" = "Zarovnat vpravo, horizontálně";
+
+/* (No Comment) */
+"_ChartsEditor_AlignMode_TopY" = "Zarovnat nahoru, vertikálně";
+
+/* (No Comment) */
+"_Common_AdditionalNameFormat" = "Další jména";
+
+/* (No Comment) */
+"_Common_AdditionalNameFormatExplanation" = "Zde nastavte, které další názvy by měly být zobrazeny v grafu.";
+
+/* (No Comment) */
+"_Common_Alignment" = "Zarovnání";
+
+/* (No Comment) */
+"_Common_Alignment_BottomToTop" = "Odspodu nahoru";
+
+/* (No Comment) */
+"_Common_Alignment_FathersBottomMothersTop" = "Otcové dole, matky nahoře";
+
+/* (No Comment) */
+"_Common_Alignment_FathersLeftMothersRight" = "Otcové vlevo, matky vpravo";
+
+/* (No Comment) */
+"_Common_Alignment_FathersLeftMothersRightCondensed" = "Otcové vlevo, matky vpravo (zkrácené)";
+
+/* (No Comment) */
+"_Common_Alignment_FathersRightMothersLeft" = "Otcové vpravo, matky vlevo";
+
+/* (No Comment) */
+"_Common_Alignment_FathersRightMothersLeftCondensed" = "Otcové vpravo, matky vlevo (zkrácené)";
+
+/* (No Comment) */
+"_Common_Alignment_FathersTopMothersBottom" = "Otcové nahoře, matky dole";
+
+/* (No Comment) */
+"_Common_Alignment_LeftToRight" = "Zleva doprava";
+
+/* (No Comment) */
+"_Common_Alignment_LeftToRightCondensed" = "Zleva doprava (zhuštěně)";
+
+/* (No Comment) */
+"_Common_Alignment_RightToLeft" = "Zprava doleva";
+
+/* (No Comment) */
+"_Common_Alignment_RightToLeftCondensed" = "Zprava doleva (zhuštěně)";
+
+/* (No Comment) */
+"_Common_Alignment_TopToBottom" = "Odshora dolů";
+
+/* (No Comment) */
+"_Common_AlignmentExplanation" = "Určuje obecné rozvržení osob v grafu";
+
+/* (No Comment) */
+"_Common_AlignOnGrid" = "Zarovnat na statickou mřížku";
+
+/* (No Comment) */
+"_Common_AlignOnGridExplanation" = "Rozvržení všech osob závisí na velikosti největšího boxu, který poskytuje jednotnější vzhled za cenu využití více místa.";
+
+/* (No Comment) */
+"_Common_AncestorGenerationsOfPartnerSlider" = "Předci partnerovo generací";
+
+/* (No Comment) */
+"_Common_AncestorGenerationsSlider" = "Generace předků";
+
+/* (No Comment) */
+"_Common_AnestorGenerationsForPartnersSlider" = "Generace předků partnerů";
+
+/* (No Comment) */
+"_Common_AnglesGroupName" = "Úhly";
+
+/* (No Comment) */
+"_Common_AngleSlider" = "Úhel";
+
+/* (No Comment) */
+"_Common_ArrowsGroupName" = "Šipky";
+
+/* (No Comment) */
+"_Common_AssociatedPersonsGroupName" = "Vlivné osoby";
+
+/* (No Comment) */
+"_Common_AssociateRelationLines" = "Vlivné vztahy";
+
+/* (No Comment) */
+"_Common_Author" = "Autor";
+
+/* (No Comment) */
+"_Common_AuthorColor" = "Barva autora";
+
+/* (No Comment) */
+"_Common_AuthorCustomTextColor" = "Vlastní barva autora";
+
+/* (No Comment) */
+"_Common_AuthorEnabledCheckbox" = "Zobrazit autora";
+
+/* (No Comment) */
+"_Common_AuthorFont" = "Písmo autora";
+
+/* (No Comment) */
+"_Common_AuthorGroupName" = "Autor";
+
+/* (No Comment) */
+"_Common_AuthorTextColoringMode" = "Zabarvení autora";
+
+/* (No Comment) */
+"_Common_BackgroundColor" = "Barva pozadí";
+
+/* (No Comment) */
+"_Common_BackgroundEdgeRadius" = "Poloměr okraje pozadí";
+
+/* (No Comment) */
+"_Common_BackgroundEnabledCheckbox" = "Zobrazit pozadí";
+
+/* (No Comment) */
+"_Common_BackgroundEnabledCheckboxExplanation" = "Pokud je vybrána tato možnost, vyberte buď barvu, přechod nebo obrázek, který se má zobrazit jako pozadí tohoto grafu.";
+
+/* (No Comment) */
+"_Common_BackgroundFill" = "Výplň pozadí";
+
+/* (No Comment) */
+"_Common_BackgroundGroupName" = "Pozadí";
+
+/* (No Comment) */
+"_Common_BackgroundImageOpacity" = "Neprůhlednost obrázku na pozadí";
+
+/* (No Comment) */
+"_Common_BackgroundTintFactor" = "Odstín pozadí";
+
+/* (No Comment) */
+"_Common_BarAndTextColor" = "Barva pruhu a textu";
+
+/* (No Comment) */
+"_Common_BarColor" = "Barva pruhu";
+
+/* (No Comment) */
+"_Common_BarEdgeRadius" = "Poloměř okraje pruhu";
+
+/* (No Comment) */
+"_Common_BarGroupName" = "Pruh";
+
+/* (No Comment) */
+"_Common_BarHeight" = "Výška pruhu";
+
+/* (No Comment) */
+"_Common_BarsGroupName" = "Pruhy";
+
+/* (No Comment) */
+"_Common_BarsSpacing" = "Rozestupy pruhů";
+
+/* (No Comment) */
+"_Common_BarStyle" = "Styl pruhu";
+
+/* (No Comment) */
+"_Common_BarsWidth" = "Šířka pruhů";
+
+/* (No Comment) */
+"_Common_BorderColor" = "Barva ohraničení";
+
+/* (No Comment) */
+"_Common_BorderGroupName" = "Ohraničení";
+
+/* (No Comment) */
+"_Common_BorderWidth" = "Šířka ohraničení";
+
+/* (No Comment) */
+"_Common_BottomDarkeningFactor" = "Přizpůsobený přechod pozadí";
+
+/* (No Comment) */
+"_Common_BottomLineColor" = "Barva spodní linky";
+
+/* (No Comment) */
+"_Common_BottomLineWidth" = "Šířka spodní linky";
+
+/* (No Comment) */
+"_Common_BottomMarginSlider" = "Spodní okraj";
+
+/* (No Comment) */
+"_Common_BoundsHeight" = "Výška";
+
+/* (No Comment) */
+"_Common_BoundsWidth" = "Šířka";
+
+/* (No Comment) */
+"_Common_BranchesToTraverse" = "Větve k traverze";
+
+/* (No Comment) */
+"_Common_BranchesToTraverse_MaternalAndPaternal" = "Mateřská a otcovská";
+
+/* (No Comment) */
+"_Common_BranchesToTraverse_MaternalOfStartPerson" = "Mateřská od výchozí osoby";
+
+/* (No Comment) */
+"_Common_BranchesToTraverse_OnlyMaternal" = "Pouze mateřská";
+
+/* (No Comment) */
+"_Common_BranchesToTraverse_OnlyPaternal" = "Pouze otcovská";
+
+/* (No Comment) */
+"_Common_BranchesToTraverse_PaternalOfStartPerson" = "Otcovská od výchozí osoby";
+
+/* (No Comment) */
+"_Common_BranchesToTraverseExplanation" = "Vyberte, které větve mají být zobrazeny při zobrazení tohoto grafu. Například, výběrem 'Pouze otcovská' zobrazí graf pouze otce, dědy vybrané osoby.";
+
+/* (No Comment) */
+"_Common_BranchItemSpacingSlider" = "Rozestupy položek větve";
+
+/* (No Comment) */
+"_Common_BranchItemSpacingSliderExplanation" = "Nastavuje jak daleko budou osoby umístěny ve vztahu k jejich nejbližšímu společnému příbuznému";
+
+/* (No Comment) */
+"_Common_BrothersAndSistersGroupName" = "Sourozenci";
+
+/* (No Comment) */
+"_Common_ChildrenGenerationsSlider" = "Generace potomků";
+
+/* (No Comment) */
+"_Common_ColoringMode" = "Režim zabarvení";
+
+/* (No Comment) */
+"_Common_ColoringMode_Alternating" = "Střídavě";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByAge" = "Podle věku";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByGender" = "Podle pohlaví";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByGenerationGreenBlue" = "Podle generace (zelená / modrá)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByGenerationOrangeCyan" = "Podle generace (oranžová / modrozelená)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByGenerationRainbow" = "Podle generace (duha)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByGenerationSunset" = "Podle generace (západ slunce)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByLabel" = "Podle štítku";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByPedigreeDark" = "Podle rodokmenu (tmavý)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByPedigreeLight" = "Podle rodokmenu (světlý)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByPersonGroup" = "Podle skupiny osob";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByYear" = "Podle roku";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByYearRainbow" = "Podle roku (duha)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByYearRainbowSubdued" = "Podle roku (duha, tlumené)";
+
+/* (No Comment) */
+"_Common_ColoringMode_Custom" = "Jednotná barva";
+
+/* (No Comment) */
+"_Common_ColoringMode_Rainbow" = "Duha";
+
+/* (No Comment) */
+"_Common_ColoringMode_Uniform" = "Jednotný";
+
+/* (No Comment) */
+"_Common_ColoringMode_White" = "Bílá";
+
+/* (No Comment) */
+"_Common_ColoringModeExplanation" = "Zde vyberte různá barevná schémata pro osoby v tomto grafu.";
+
+/* (No Comment) */
+"_Common_ColorsGroupName" = "Barvy";
+
+/* (No Comment) */
+"_Common_ConnectionLineType" = "Typ linky spojení";
+
+/* (No Comment) */
+"_Common_ContentGroupName" = "Obsah";
+
+/* (No Comment) */
+"_Common_CurveFactor" = "Křivka";
+
+/* (No Comment) */
+"_Common_CustomColor" = "Vlastní barva";
+
+/* (No Comment) */
+"_Common_CustomTextColor" = "Vlastní barva textu";
+
+/* (No Comment) */
+"_Common_Date" = "Datum";
+
+/* (No Comment) */
+"_Common_DateColor" = "Barva data";
+
+/* (No Comment) */
+"_Common_DateCustomTextColor" = "Vlastní barva data";
+
+/* (No Comment) */
+"_Common_DateEnabledCheckbox" = "Zobrazit datum";
+
+/* (No Comment) */
+"_Common_DateFont" = "Písmo data";
+
+/* (No Comment) */
+"_Common_DateFormatGroupName" = "Formáty data";
+
+/* (No Comment) */
+"_Common_DateFormatStyle" = "Styl formátu dat";
+
+/* (No Comment) */
+"_Common_DateFormatStyle_Full" = "Celý (Pondělí, 17. listopadu 2014)";
+
+/* (No Comment) */
+"_Common_DateFormatStyle_Long" = "Dlouhý (17. listopad 2014)";
+
+/* (No Comment) */
+"_Common_DateFormatStyle_Medium" = "Střední (17. Lis 2014)";
+
+/* (No Comment) */
+"_Common_DateFormatStyle_Short" = "Krátký (11/17/2014)";
+
+/* (No Comment) */
+"_Common_DateFormatStyleExplanation" = "Zde vyberte, jaký styl formátu data se použije při přeformátování dat";
+
+/* (No Comment) */
+"_Common_DateGroupName" = "Datum";
+
+/* (No Comment) */
+"_Common_DatesGroupName" = "Data";
+
+/* (No Comment) */
+"_Common_DateTextColor" = "Barva textu data";
+
+/* (No Comment) */
+"_Common_DateTextColoringMode" = "Zabarvení data";
+
+/* (No Comment) */
+"_Common_DescendantGenerationsSlider" = "Generace potomků";
+
+/* (No Comment) */
+"_Common_DisplayValuesGroupName" = "Hodnoty";
+
+/* (No Comment) */
+"_Common_DistributeToAllPagesButton" = "Velikost objektů tak, aby se vešly na všechny stránky";
+
+/* (No Comment) */
+"_Common_EdgeHeight" = "Výška rohu";
+
+/* (No Comment) */
+"_Common_EdgeRadius" = "Poloměr okraje";
+
+/* (No Comment) */
+"_Common_EmphasizedGroupBackgroundFill" = "Barva pozadí zvýrazněné skupiny";
+
+/* (No Comment) */
+"_Common_EnabledPersonGroupIdentifiers" = "Skupiny osob";
+
+/* (No Comment) */
+"_Common_EndGenerationScale" = "Měřítko poslední generace";
+
+/* (No Comment) */
+"_Common_EndGenerationScaleExplanation" = "Určuje, jaké měřítko má mít poslední generace ve vztahu k počáteční generaci";
+
+/* (No Comment) */
+"_Common_EvaluateDataFromDate" = "Od data";
+
+/* (No Comment) */
+"_Common_EvaluateDataToDate" = "K datu";
+
+/* (No Comment) */
+"_Common_EventsFactsAndAssociateRelationsGroupName" = "Události, fakta a vlivné vztahy";
+
+/* (No Comment) */
+"_Common_EventsGroupName" = "Události";
+
+/* (No Comment) */
+"_Common_FatherGenerationsSlider" = "Generace otce";
+
+/* (No Comment) */
+"_Common_FillMode" = "Režim výplně";
+
+/* (No Comment) */
+"_Common_FillMode_BarAtBottom" = "Pruh vespod";
+
+/* (No Comment) */
+"_Common_FillMode_BarAtTop" = "Pruh nahoře";
+
+/* (No Comment) */
+"_Common_FillMode_BarAtTopAndBottom" = "Pruh nahoře a dole";
+
+/* (No Comment) */
+"_Common_FillMode_DarkBarAtBottom" = "Tmavý pruh vespod";
+
+/* (No Comment) */
+"_Common_FillMode_DarkBarAtTop" = "Tmavý pruh nahoře";
+
+/* (No Comment) */
+"_Common_FillMode_DarkBarAtTopAndBottom" = "Tmavý pruh nahoře a dole";
+
+/* (No Comment) */
+"_Common_FillMode_DarkGradientAtBottom" = "Tmavý přechod dolů";
+
+/* (No Comment) */
+"_Common_FillMode_DarkGradientAtRight" = "Tmavý přechod doprava";
+
+/* (No Comment) */
+"_Common_FillMode_DarkGradientAtTop" = "Tmavý přechod nahoru";
+
+/* (No Comment) */
+"_Common_FillMode_Flat" = "Plochý";
+
+/* (No Comment) */
+"_Common_FillMode_Glossy" = "Lesklý";
+
+/* (No Comment) */
+"_Common_FillMode_LightBarAtBottom" = "Světlý pruh vespod";
+
+/* (No Comment) */
+"_Common_FillMode_LightBarAtTop" = "Světlý pruh nahoře";
+
+/* (No Comment) */
+"_Common_FillMode_LightBarAtTopAndBottom" = "Světlý pruh nahoře a dole";
+
+/* (No Comment) */
+"_Common_FillMode_LightGradientAtBottom" = "Světlý přechod dolů";
+
+/* (No Comment) */
+"_Common_FillMode_LightGradientAtLeft" = "Světlý přechod doleva";
+
+/* (No Comment) */
+"_Common_FillMode_LightGradientAtTop" = "Světlý přechod nahoru";
+
+/* (No Comment) */
+"_Common_FillMode_LightShineAtCenter" = "Světlá zář na střed";
+
+/* (No Comment) */
+"_Common_FillMode_None" = "Žádný";
+
+/* (No Comment) */
+"_Common_FillMode_VeryDarkGradientAtBottom" = "Velmi tmavý přechod dolů";
+
+/* (No Comment) */
+"_Common_FillMode_VeryDarkGradientAtTop" = "Velmi tmavý přechod nahoru";
+
+/* (No Comment) */
+"_Common_FillMode_VeryLightGradientAtBottom" = "Velmi světlý přechod dolů";
+
+/* (No Comment) */
+"_Common_FillMode_VeryLightGradientAtTop" = "Velmi světlý přechod nahoru";
+
+/* (No Comment) */
+"_Common_FloatingSideBar" = "Plovoucí boční panel";
+
+/* (No Comment) */
+"_Common_Font" = "Písmo";
+
+/* (No Comment) */
+"_Common_FontsGroupName" = "Písma";
+
+/* (No Comment) */
+"_Common_FromDate" = "Od data";
+
+/* (No Comment) */
+"_Common_FullName" = "Celé jméno";
+
+/* Group Names */
+"_Common_GeneralGroupName" = "Obecné";
+
+/* (No Comment) */
+"_Common_GenerationMarginsSlier" = "Okraje generací";
+
+/* (No Comment) */
+"_Common_GenerationScaleSubGroupName" = "Měřítko generací";
+
+/* Control Names */
+"_Common_GenerationsSlider" = "Generace";
+
+/* (No Comment) */
+"_Common_GenerationsSpacingSlider" = "Rozestupy generací";
+
+/* (No Comment) */
+"_Common_GenerationsSpacingSliderExplanation" = "Mění vzdálenost mezi osobami každé generace";
+
+/* (No Comment) */
+"_Common_GeometryGroupName" = "Geometrie";
+
+/* (No Comment) */
+"_Common_GraphSegmentWidth" = "Šířka segmentu grafu";
+
+/* (No Comment) */
+"_Common_GraphType" = "Typ grafu";
+
+/* (No Comment) */
+"_Common_GraphType_Bars" = "Pruhy";
+
+/* (No Comment) */
+"_Common_GraphType_Lines" = "Linky";
+
+/* (No Comment) */
+"_Common_GridGroupName" = "Mřížka";
+
+/* (No Comment) */
+"_Common_GroupColoringMode" = "Režim zabarvení skupiny";
+
+/* (No Comment) */
+"_Common_GroupingMode" = "Režim seskupení";
+
+/* (No Comment) */
+"_Common_GroupInnerPadding" = "Vnitřní odsazení";
+
+/* (No Comment) */
+"_Common_GroupsGroupName" = "Skupiny";
+
+/* (No Comment) */
+"_Common_HasArrowAtEnd" = "Šipky na konci";
+
+/* (No Comment) */
+"_Common_HasArrowAtStart" = "Šipky na začátku";
+
+/* (No Comment) */
+"_Common_HasProjectedBirthDate" = "Má předpokládané datum narození";
+
+/* (No Comment) */
+"_Common_HasProjectedDeathDate" = "Má předpokládané datum úmrtí";
+
+/* (No Comment) */
+"_Common_HidePrivateInformation" = "Skrýt informace označené jako soukromé";
+
+/* (No Comment) */
+"_Common_HidePrivateInformationExplanation" = "Každá informace označená jako soukromá v režimu úprav bude skryta v tomto grafu pokud je vybrána tato volba";
+
+/* (No Comment) */
+"_Common_HighlightLivingPersons" = "Zvýraznit žijící osoby";
+
+/* (No Comment) */
+"_Common_HistoryGroupName" = "Světová historie";
+
+/* (No Comment) */
+"_Common_HorizontalSpacing" = "Vodorovné rozestupy";
+
+/* (No Comment) */
+"_Common_IDs" = "Referenční číslo";
+
+/* (No Comment) */
+"_Common_ImageAlignment" = "Zarovnání obrázku";
+
+/* (No Comment) */
+"_Common_ImageHeightFactorSlider" = "Výška obrázku";
+
+/* (No Comment) */
+"_Common_ImageMargins" = "Okraje obrázku";
+
+/* (No Comment) */
+"_Common_ImageSpacing" = "Rozestupy obrázků";
+
+/* (No Comment) */
+"_Common_IncludePlaceDetail" = "Zahrnout detaily místa do názvu místa";
+
+/* (No Comment) */
+"_Common_IndentPartners" = "Odsazení partnerů";
+
+/* Privacy */
+"_Common_InformationHiddenDueToPrivacySettings" = "Informace skryty kvůli soukromí";
+
+/* (No Comment) */
+"_Common_InnerBarMarginsSlider" = "Okraje vnitřního pruhu";
+
+/* (No Comment) */
+"_Common_InnerBoxMarginsSlider" = "Vnitřní okraje";
+
+/* (No Comment) */
+"_Common_ItemMarginsSlider" = "Okraje položek";
+
+/* (No Comment) */
+"_Common_ItemSpacingSlider" = "Rozestupy položek";
+
+/* (No Comment) */
+"_Common_ItemSpacingSliderExplanation" = "Určuje vzdálenost mezi osobami v rámci generace";
+
+/* (No Comment) */
+"_Common_LabelsGroupName" = "Štítky";
+
+/* (No Comment) */
+"_Common_LeftLineColor" = "Barva levé linky";
+
+/* (No Comment) */
+"_Common_LeftLineWidth" = "Šířka levé linky";
+
+/* (No Comment) */
+"_Common_LineColor" = "Barva linky";
+
+/* ChartLineDashPatternTypes */
+"_Common_LineDashPatternType" = "Vzor přerušované linky";
+
+/* (No Comment) */
+"_Common_LineDashPatternType_Long" = "Dlouhý";
+
+/* (No Comment) */
+"_Common_LineDashPatternType_Short" = "Krátký";
+
+/* (No Comment) */
+"_Common_LineDashPatternType_ShortGaps" = "Krátké mezery";
+
+/* (No Comment) */
+"_Common_LineDashPatternType_Solid" = "Nepřerušovaný";
+
+/* (No Comment) */
+"_Common_LineDashPatternType_VeryShort" = "Velmi krátký";
+
+/* (No Comment) */
+"_Common_LineDistanceFromDestinationObjects" = "Vzdálenost linky od konce";
+
+/* (No Comment) */
+"_Common_LineDistanceFromOriginObjects" = "Vzdálenost linky od začátku";
+
+/* (No Comment) */
+"_Common_LineEndingName" = "Line Caps";
+
+/* (No Comment) */
+"_Common_LineGroupName" = "Linka";
+
+/* (No Comment) */
+"_Common_LinesGroupName" = "Linky";
+
+/* (No Comment) */
+"_Common_LineWidth" = "Šířka linky";
+
+/* (No Comment) */
+"_Common_Localization" = "Jazyk";
+
+/* (No Comment) */
+"_Common_LocalizationAndFormatsGroupName" = "Jazyk a formáty";
+
+/* (No Comment) */
+"_Common_LocalizationExplanation" = "Vyberte jazyk tohoto grafu. Všechny osobní události, osobní fakta nebo rodinné události a další texty budou lokalizovány do vybraného jazyka";
+
+/* (No Comment) */
+"_Common_MarginsGroupName" = "Okraje";
+
+/* (No Comment) */
+"_Common_MarkDeadPersons" = "Označit mrtvé osoby";
+
+/* (No Comment) */
+"_Common_MaximumRecursionDepth" = "Maximální úroveň rekurzí";
+
+/* (No Comment) */
+"_Common_MaximumRecursionDepthExplanation" = "Určuje, kolikrát se může stejná osoba objevit ve stejném grafu, než hodnocení skončí. K tomu může dojít v důsledku vstupních chyb i v případech, jako jsou příbuzenské vztahy mezi bratranci a sestřenicemi nebo incestní vztahy.";
+
+/* (No Comment) */
+"_Common_MaximumResults" = "Maximum výsledků";
+
+/* (No Comment) */
+"_Common_MediaGroupName" = "Média";
+
+/* (No Comment) */
+"_Common_MotherGenerationsSlider" = "Generace matky";
+
+/* (No Comment) */
+"_Common_NameAlignment" = "Zarovnání názvu";
+
+/* (No Comment) */
+"_Common_NameBarColor" = "Barva pruhu se jménem";
+
+/* (No Comment) */
+"_Common_NameFont" = "Název písma";
+
+/* (No Comment) */
+"_Common_NameFormat" = "Formát jmen osob";
+
+/* (No Comment) */
+"_Common_NameFormatExplanation" = "Vyberte formát jmen, který chcete použít u všech osob v tomto grafu.";
+
+/* (No Comment) */
+"_Common_NamesFormatGroupName" = "Formáty jmen";
+
+/* (No Comment) */
+"_Common_NameTextColor" = "Barva textu jména";
+
+/* (No Comment) */
+"_Common_NoBackground" = "Bez pozadí";
+
+/* (No Comment) */
+"_Common_NormalGroupBackgroundFill" = "Barva pozadí normální skupiny";
+
+/* (No Comment) */
+"_Common_NotesGroupName" = "Poznámky";
+
+/* (No Comment) */
+"_Common_OmitEmptyPagesWhenPrintingOrExporting" = "Vynechat při tisku prázdné stránky";
+
+/* Date Ranges */
+"_Common_OnlyEvalulateEntriesInDateRange" = "Vyhodnotit pouze položky v rozsahu dat";
+
+/* (No Comment) */
+"_Common_OnlyEvalulateEntriesInDateRangeExplanation" = "Pokud je vybráno, budou vyhodnocena pouze data v tomto rozsahu dat - všechny ostatní položky budou vyřazeny.";
+
+/* (No Comment) */
+"_Common_OtherFont" = "Jiné písmo";
+
+/* (No Comment) */
+"_Common_OtherTextColor" = "Barva textu ostatní";
+
+/* (No Comment) */
+"_Common_OverviewGroupName" = "Přehled";
+
+/* (No Comment) */
+"_Common_PageOverlapPoints" = "Překrývání stránek";
+
+/* (No Comment) */
+"_Common_PagesCountX" = "Horizontální stránky";
+
+/* (No Comment) */
+"_Common_PagesCountY" = "Vertikální stránky";
+
+/* (No Comment) */
+"_Common_ParentGenerationsSlider" = "Generace rodičů";
+
+/* (No Comment) */
+"_Common_PartnerIndentionSlider" = "Odsazení partnerů";
+
+/* (No Comment) */
+"_Common_PartnerIndentionSliderExplanation" = "Určuje vzdálenost mezi potomkem a partnerem potomka.";
+
+/* (No Comment) */
+"_Common_PartnersGroupName" = "Partneři";
+
+/* (No Comment) */
+"_Common_PersonGroupsName" = "Skupiny osob";
+
+/* (No Comment) */
+"_Common_PersonsGroupName" = "Osoby";
+
+/* (No Comment) */
+"_Common_PersonWidthSlider" = "Šířka osob";
+
+/* (No Comment) */
+"_Common_PlaceFormat" = "Formát místa";
+
+/* (No Comment) */
+"_Common_PlaceFormatExplanation" = "Zde zvolte, zda se má zobrazovat celý název místa nebo jen zkratka.";
+
+/* (No Comment) */
+"_Common_PlaceholderImageOpacity" = "Neprůhlednost zástupného obrázku";
+
+/* (No Comment) */
+"_Common_PlacesFormatGroupName" = "Formáty místa";
+
+/* (No Comment) */
+"_Common_PrintCutMarks" = "Tisknout střihací značky";
+
+/* (No Comment) */
+"_Common_PrintPageNumbers" = "Tisknout čísla stránek";
+
+/* (No Comment) */
+"_Common_ReformatDatesToSelectedLocale" = "Přeformátovat data";
+
+/* (No Comment) */
+"_Common_ReformatDatesToSelectedLocaleExplanation" = "Pokud je tato volba vybrána, všechna data budou přeformátována tak, aby odpovídala zadané lokalizaci";
+
+/* (No Comment) */
+"_Common_ResultsToCollapse" = "Výsledky ke sloučení";
+
+/* (No Comment) */
+"_Common_RightLineColor" = "Barva pravé linky";
+
+/* (No Comment) */
+"_Common_RightLineWidth" = "Šířka pravé linky";
+
+/* (No Comment) */
+"_Common_Rotation" = "Otočení";
+
+/* (No Comment) */
+"_Common_ScaleAllValuesToRelativeValues" = "Zobrazit jako relativní hodnoty";
+
+/* (No Comment) */
+"_Common_ScaleAllValuesToRelativeValuesExplanation" = "Namísto absolutních hodnot zobrazit všechny hodnoty jako relativní pro každý daný rok.";
+
+/* (No Comment) */
+"_Common_ScaleBrothersAndSisters" = "Měřítko sourozenců";
+
+/* (No Comment) */
+"_Common_ScaleBrothersAndSistersExplanation" = "Pokud je vybráno, sourozenci přímého předka nebo potomka výchozí osoby budou zmenšeni o 50 %";
+
+/* (No Comment) */
+"_Common_ScalingOfBrothersAndSistersSlider" = "Měřítko sourozenců";
+
+/* (No Comment) */
+"_Common_ShadowAngle" = "Úhel stínu";
+
+/* (No Comment) */
+"_Common_ShadowBlur" = "Rozostření stínu";
+
+/* (No Comment) */
+"_Common_ShadowColor" = "Barva stínu";
+
+/* (No Comment) */
+"_Common_ShadowColoringFactor" = "Zabarvení stínu";
+
+/* (No Comment) */
+"_Common_ShadowDistance" = "Posun stínu";
+
+/* (No Comment) */
+"_Common_ShadowGroupName" = "Stíny";
+
+/* (No Comment) */
+"_Common_ShadowLength" = "Délka stínu";
+
+/* (No Comment) */
+"_Common_ShadowMode" = "Režim stínu";
+
+/* (No Comment) */
+"_Common_ShadowMode_Blurry" = "Rozmazaný";
+
+/* (No Comment) */
+"_Common_ShadowMode_Flat" = "Plochý";
+
+/* (No Comment) */
+"_Common_ShadowMode_None" = "Žádný";
+
+/* (No Comment) */
+"_Common_ShadowOpacity" = "Neprůhlednost stínu";
+
+/* (No Comment) */
+"_Common_ShowAncestorsOfPartners" = "Zobrazit předky partnerů";
+
+/* (No Comment) */
+"_Common_ShowAncestorsOfPartnersExplanation" = "Vybráním této volby se zobrazí nejen předci vybrané výchozí osoby, ale také předci partnerů výchozí osoby.";
+
+/* (No Comment) */
+"_Common_ShowAncestralFileNumberID" = "Zobrazit číslo ID souboru předka";
+
+/* (No Comment) */
+"_Common_ShowBrothersAndSisters" = "Zobrazit sourozence";
+
+/* (No Comment) */
+"_Common_ShowBrothersAndSistersOfAncestors" = "Zobrazit sourozence předků";
+
+/* (No Comment) */
+"_Common_ShowBrothersAndSistersOfStartPerson" = "Zobrazit sourozence vybrané osoby";
+
+/* (No Comment) */
+"_Common_ShowBrothersAndSistersOfStartPersonExplanation" = "Pomocí této možnosti můžete do tohoto grafu zahrnout i sourozence aktuálně vybrané osoby.";
+
+/* (No Comment) */
+"_Common_ShowDisplayValuesOnBars" = "Zobrazit hodnoty ve sloupcích";
+
+/* (No Comment) */
+"_Common_ShowFamilySearchID" = "Zobrazit FamilySearch ID";
+
+/* (No Comment) */
+"_Common_ShowGedcomID" = "Zobrazit GEDCOM ID";
+
+/* (No Comment) */
+"_Common_ShowGroupsForPartnerItems" = "Zobrazit skupiny pro partnery";
+
+/* (No Comment) */
+"_Common_ShowKinships" = "Zobrazit příbuznosti";
+
+/* (No Comment) */
+"_Common_ShowKinshipsExplanation" = "Určete, zda je příbuznost ve vztahu k vybrané výchozí osobě zobrazena pro každou osobu v tomto grafu.";
+
+/* (No Comment) */
+"_Common_ShowLabels" = "Zobrazit štítky";
+
+/* (No Comment) */
+"_Common_ShowNotes" = "Zobrazit poznámky";
+
+/* (No Comment) */
+"_Common_ShowNumberingSystem" = "Zobrazit systém číslování";
+
+/* (No Comment) */
+"_Common_ShowOnlyBloodlines" = "Pouze po přímých krevních liniích";
+
+/* (No Comment) */
+"_Common_ShowOnlySpecificPersonGroups" = "Zobrazit pouze konkrétní skupiny osob";
+
+/* (No Comment) */
+"_Common_ShowOnlySpecificPersonGroupsExplanation" = "Pokud je zapnuta tato možnost, budou procházeny pouze osoby v těchto skupinách osob. Osoby, které nejsou v těchto skupinách osob, nebudou zobrazeny kromě výchozí osoby.";
+
+/* (No Comment) */
+"_Common_ShowPartnersOfStartItem" = "Zobrazit partnery vybrané osoby";
+
+/* (No Comment) */
+"_Common_ShowPersonAgeAtEvent" = "Zobrazit věk osoby v době události";
+
+/* (No Comment) */
+"_Common_ShowPersonBirthDate" = "Zobrazit datum narození osoby";
+
+/* (No Comment) */
+"_Common_ShowPersonDeathDate" = "Zobrazit datum úmrtí osoby";
+
+/* (No Comment) */
+"_Common_ShowPersonEventCause" = "Zobrazit příčinu události osoby";
+
+/* (No Comment) */
+"_Common_ShowPersonEventDescription" = "Zobrazit uživatelský popisek události osoby";
+
+/* (No Comment) */
+"_Common_ShowPersonEventIcons" = "Zobrazit ikony osobní události";
+
+/* (No Comment) */
+"_Common_ShowPersonEventLocation" = "Zobrazit místa osobní udalásti";
+
+/* (No Comment) */
+"_Common_ShowPersonImages" = "Zobrazit obrázky osoby";
+
+/* (No Comment) */
+"_Common_ShowReferenceNumber" = "Zobrazit referenční číslo";
+
+/* (No Comment) */
+"_Common_SideBarWidthSlider" = "Šířka bočního panelu";
+
+/* (No Comment) */
+"_Common_SpacingGroupName" = "Rozestupy";
+
+/* (No Comment) */
+"_Common_SpacingSlider" = "Rozestupy";
+
+/* (No Comment) */
+"_Common_StartAngleSlider" = "Počáteční úhel";
+
+/* (No Comment) */
+"_Common_StartGenerationScale" = "Měřítko počáteční generace";
+
+/* (No Comment) */
+"_Common_StartGenerationScaleExpanation" = "Určuje, jak měřítko má mít počáteční generace ve vztahu k poslední generaci";
+
+/* (No Comment) */
+"_Common_StrokeGroupName" = "Tah";
+
+/* (No Comment) */
+"_Common_StyleGroupName" = "Styl";
+
+/* (No Comment) */
+"_Common_SubTitle" = "Podtitul";
+
+/* (No Comment) */
+"_Common_SubTitleColor" = "Barva podtitulu";
+
+/* (No Comment) */
+"_Common_SubTitleCustomTextColor" = "Vlastní barva podtitulu";
+
+/* (No Comment) */
+"_Common_SubTitleEnabledCheckbox" = "Zobrazit podtitul";
+
+/* (No Comment) */
+"_Common_SubTitleFont" = "Písmo podtitulu";
+
+/* (No Comment) */
+"_Common_SubTitleGroupName" = "Podtitul";
+
+/* (No Comment) */
+"_Common_SubTitleTextColoringMode" = "Zabarvení podtitulu";
+
+/* (No Comment) */
+"_Common_TextColor" = "Barva textu";
+
+/* (No Comment) */
+"_Common_TextColoringMode" = "Zabarvení textu";
+
+/* (No Comment) */
+"_Common_TextColoringMode_ByGenerationRainbow" = "Podle generace (duha)";
+
+/* (No Comment) */
+"_Common_TextColoringMode_ContrastToBackgroundColor" = "Kontrastní k pozadí";
+
+/* (No Comment) */
+"_Common_TextColoringMode_ContrastToBackgroundColorTinted" = "Tónovaný kontrast k pozadí";
+
+/* (No Comment) */
+"_Common_TextColoringMode_Custom" = "Vlastní";
+
+/* (No Comment) */
+"_Common_TextColoringMode_Gender" = "Podle pohlaví";
+
+/* (No Comment) */
+"_Common_TextGroupName" = "Text";
+
+/* (No Comment) */
+"_Common_ThemeGroupName" = "Šablona";
+
+/* (No Comment) */
+"_Common_Title" = "Nadpis";
+
+/* (No Comment) */
+"_Common_TitleColor" = "Barva nadpisu";
+
+/* (No Comment) */
+"_Common_TitleCustomTextColor" = "Vlastní barva nadpisu";
+
+/* (No Comment) */
+"_Common_TitleEnabledCheckbox" = "Zobrazit nadpis";
+
+/* (No Comment) */
+"_Common_TitleFont" = "Písmo nadpisu";
+
+/* (No Comment) */
+"_Common_TitleGroupName" = "Nadpis";
+
+/* (No Comment) */
+"_Common_TitleImageMode" = "Úvodní obrázek";
+
+/* (No Comment) */
+"_Common_TitleTextColoringMode" = "Zabarvení nadpisu";
+
+/* (No Comment) */
+"_Common_ToDate" = "K datu";
+
+/* (No Comment) */
+"_Common_TopImageHeight" = "Výška horního obrázku";
+
+/* (No Comment) */
+"_Common_TopLineColor" = "Barva horní linky";
+
+/* (No Comment) */
+"_Common_TopLineWidth" = "Šířka horní linky";
+
+/* (No Comment) */
+"_Common_TopMarginSlider" = "Horní okraj";
+
+/* (No Comment) */
+"_Common_TotalAngleSlider" = "Celkový úhel";
+
+/* (No Comment) */
+"_Common_TypeFont" = "Typ písma";
+
+/* (No Comment) */
+"_Common_TypeTextColor" = "Barva textu typu";
+
+/* (No Comment) */
+"_Common_UniformColor" = "Jednotná barva";
+
+/* (No Comment) */
+"_Common_UniformColorForColoringModeExplanation" = "Výběrem \"Jednotná barva\" v nastavení režimu zabarvení můžete pomocí tohoto nastavení zadat barvu osoby.";
+
+/* (No Comment) */
+"_Common_VerticalSpacing" = "Vertikální rozestupy";
+
+/* (No Comment) */
+"_Common_WidthPerYearSlider" = "Šířka podle roku";
+
+/* (No Comment) */
+"_Common_XAxisLabel" = "Štítek osy X";
+
+/* (No Comment) */
+"_Common_XAxisLabelColor" = "Barva štítku osy X";
+
+/* (No Comment) */
+"_Common_XAxisLabelFont" = "Písmo štítku osy X";
+
+/* (No Comment) */
+"_Common_XAxisLineColor" = "Barva linky osy X";
+
+/* (No Comment) */
+"_Common_XLineLabelColor" = "Barva popisků řádku X";
+
+/* (No Comment) */
+"_Common_XLineLabelFont" = "Písmo popisku řádku X";
+
+/* (No Comment) */
+"_Common_XLinesWidth" = "Šířka řádků X";
+
+/* (No Comment) */
+"_Common_XScale" = "Měřítko šířky";
+
+/* (No Comment) */
+"_Common_YAxisLabel" = "Popisek osy Y";
+
+/* (No Comment) */
+"_Common_YAxisLabelColor" = "Barva popisku osy Y";
+
+/* (No Comment) */
+"_Common_YAxisLabelFont" = "Písmo štítku osy Y";
+
+/* (No Comment) */
+"_Common_YAxisLineColor" = "Barva linky osy Y";
+
+/* (No Comment) */
+"_Common_YLineLabelColor" = "Barva popisků řádku Y";
+
+/* (No Comment) */
+"_Common_YLineLabelFont" = "Písmo popisku řádku Y";
+
+/* (No Comment) */
+"_Common_YLinesWidth" = "Šířka řádků Y";
+
+/* (No Comment) */
+"_Common_YScale" = "Měřítko výšky";
+
+/* DistributionChartBuilder */
+"_DistributionChartBuilder_DistributionType" = "Typ rozložení";
+
+/* (No Comment) */
+"_DistributionChartBuilder_DistributionTypeExplanation" = "Určete, jaký typ distribučního diagramu chcete vytvořit na základě dat vašeho rodokmenu.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_BirthCountry" = "Rozložení zemí narození";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_BirthCountry_Description" = "Země narození ukazují, kde se osoby ve vašem rodokmenu narodily.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_BirthPlace" = "Rozložení míst narození";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_BirthPlace_Description" = "Místa narození ukazují, kde se narodily osoby ve vašem rodokmenu.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_DeathCountry" = "Rozdělení zemí úmrtí";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_DeathCountry_Description" = "Země úmrtí ve vašem rodokmenu zobrazující, kde lidé zemřeli.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_DeathPlace" = "Rozdělení míst úmrtí";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_DeathPlace_Description" = "Místa úmrtí ve vašem rodokmenu zobrazující, kde lidé zemřeli.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_EventValues_Illnesses" = "Rozložení nemocí";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_EventValues_Illnesses_Description" = "Podívejte se, jaké nemoci byly zadány pro osoby ve vašem rodokmenu.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_EventValues_Occupations" = "Rozložení povolání";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_EventValues_Occupations_Description" = "Jaký druh práce měli lidé ve vašem rodokmenu v průběhu let?";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_CasteName" = "Rozložení kastovních jmen";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_CasteName_Description" = "Běžně používaná kastovní jména podle roku.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_EyeColor" = "Rozložení barev očí";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_EyeColor_Description" = "Které barvy očí byly nejrozšířenější ve vašem rodokmenu v průběhu let?";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_NationalOrTribalOrigin" = "Rozložení národního nebo kmenového původu";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_NationalOrTribalOrigin_Description" = "Rozložení národního nebo kmenového původu osob podle let.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_Race" = "Rozložení etnického původu";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_Race_Description" = "Rozložení etnického původu ve vašem rodokmenu podle roku.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_SkinColor" = "Rozložení barev pleti";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_SkinColor_Description" = "Které barvy pleti byly v minulosti ve vašem rodokmenu běžné?";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_FirstName" = "Rozložení křestních jmen";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_FirstName_Description" = "Použití křestních jmen ve vašem rodokmenu podle roku.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Gender" = "Rozložení pohlaví";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Gender_Description" = "Rozložení pohlaví ve vašem rodokmenu podle roku.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_LastName" = "Rozložení příjmení";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_LastName_Description" = "Použití příjmení ve vašem rodokmenu podle roku.";
+
+/* (No Comment) */
+"_DistributionValuesBarGeneratorChartCompositorObject_ColoringMode_Custom" = "Vlastní barva";
+
+/* (No Comment) */
+"_DistributionValuesBarGeneratorChartCompositorObject_ColoringMode_Rainbow" = "Duha";
+
+/* EditorTextGeneratorChartCompositorObject */
+"_EditorTextGeneratorChartCompositorObject_NewTextTitle" = "Nový text";
+
+/* (No Comment) */
+"_Error_NoParentsForPersonFoundInFamilyTreeError" = "Pro vybranou osobu nebyly nalezeny žádní rodiče.";
+
+/* Errors */
+"_Error_NoPersonFoundInFamilyTreeError" = "V tomto rodokmenu nebyly dosud vytvořeny žádné osoby. Použijte sekci Upravit pro vložení osob a rodin, abyste mohli zobrazit tento graf.";
+
+/* (No Comment) */
+"_Error_NoSelectedPersonSetError" = "Pro tento graf nebyla vybrána žádná osoba.";
+
+/* (No Comment) */
+"_Error_NotEnoughDataPresentError" = "Pro zobrazení vybraného grafu není k dispozici dostatek informací.";
+
+/* (No Comment) */
+"_FanChartBuilder_ExpandVerySmallFanItemsIfPossible" = "Rozbalit velmi malé segmenty vějíře pokud je to možné";
+
+/* (No Comment) */
+"_FanChartBuilder_ExpandVerySmallFanItemsIfPossibleExplanation" = "Pokud je segment vějířového grafu velmi malý, rozšíří se za okraje do nadřazeného segmentu grafu pro více prostoru.";
+
+/* FanChartBuilder */
+"_FanChartBuilder_Mode" = "Režim";
+
+/* (No Comment) */
+"_FanChartBuilder_Mode_Ancestors" = "Předci";
+
+/* (No Comment) */
+"_FanChartBuilder_Mode_Descendants" = "Potomci";
+
+/* (No Comment) */
+"_FanChartBuilder_ModeExplanation" = "Zde vyberte, zda má vějířový graf zobrazovat předky nebo potomky vybrané osoby";
+
+/* Genogram */
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventPosition" = "Umístění událostí a faktů";
+
+/* (No Comment) */
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventPosition_Right" = "Vpravo";
+
+/* (No Comment) */
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventsBackground" = "Pozadí událostí a faktů";
+
+/* (No Comment) */
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventsBackground_Filled" = "Vyplněný";
+
+/* (No Comment) */
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventsBackground_None" = "Žádný";
+
+/* (No Comment) */
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventsPosition_Below" = "Níže";
+
+/* GridChartObject */
+"_GridGeneratorChartCompositorObjectConfiguration_ColorMode" = "Režim zabarvení";
+
+/* (No Comment) */
+"_GridGeneratorChartCompositorObjectConfiguration_ColorMode_ContrastToBackground" = "Kontrastní k pozadí";
+
+/* (No Comment) */
+"_GridGeneratorChartCompositorObjectConfiguration_ColorMode_Custom" = "Vlastní";
+
+/* (No Comment) */
+"_RelationshipChartBuilder_NoRelationError" = "Mezi vybranými osobami nelze určit žádný vztah";
+
+/* (No Comment) */
+"_RelationshipChartBuilder_PathIsBloodline" = "Krevní linie";
+
+/* (No Comment) */
+"_RelationshipChartBuilder_PathIsNotBloodline" = "Žádná krevní linie";
+
+/* (No Comment) */
+"_RelationshipChartBuilder_PathWithNStepsIsIsNotBloodline" = "Cesta s %ld kroky (%@)";
+
+/* RelationshipChartBuilder */
+"_RelationshipChartBuilder_SelectDifferentPersonsError" = "Chcete-li vytvořit graf příbuznosti, vyberte dvě odlišné osoby";
+
+/* (No Comment) */
+"_RelationshipChartBuilder_SelectedRelationshipPath" = "Dostupné cesty k příbuzným";
+
+/* (No Comment) */
+"_RelationshipChartBuilder_SelectedRelationshipPathExplanation" = "Pokud je mezi výchozí a cílovou osobou více cest ve vašem rodokmenu, můžete zde vybrat různé možné cesty.";
+
+/* SegmentedPortraitPersonBuilderItemGeneratorChartCompositorObjectConfiguration_BarStyle */
+"_SegmentedPortraitPersonBuilderItemGeneratorChartCompositorObjectConfiguration_BarStyle_Arrow" = "Šipka";
+
+/* (No Comment) */
+"_SegmentedPortraitPersonBuilderItemGeneratorChartCompositorObjectConfiguration_BarStyle_Diagonal" = "Diagonální";
+
+/* (No Comment) */
+"_SegmentedPortraitPersonBuilderItemGeneratorChartCompositorObjectConfiguration_BarStyle_Round" = "Kulaté";
+
+/* (No Comment) */
+"_SegmentedPortraitPersonBuilderItemGeneratorChartCompositorObjectConfiguration_BarStyle_Wave" = "Zvlnění";
+
+/* _SideBarPersonBuilderItemGeneratorChartCompositorObject */
+"_SideBarPersonBuilderItemGeneratorChartCompositorObject_SideBarPosition" = "Umístění bočního panelu";
+
+/* (No Comment) */
+"_SideBarPersonBuilderItemGeneratorChartCompositorObject_SideBarPosition_Bottom" = "Dole";
+
+/* (No Comment) */
+"_SideBarPersonBuilderItemGeneratorChartCompositorObject_SideBarPosition_Left" = "Vlevo";
+
+/* (No Comment) */
+"_SideBarPersonBuilderItemGeneratorChartCompositorObject_SideBarPosition_Right" = "Vpravo";
+
+/* (No Comment) */
+"_SideBarPersonBuilderItemGeneratorChartCompositorObject_SideBarPosition_Top" = "Nahoře";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_AssociatedPersonsSpacing" = "Rozestupy vlivných osob";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_AssociatedPersonsSpacingExplanation" = "Zde zadejte rozestupy mezi osobami a vlivnými osobami.";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowAssociateRelationsOfChildren" = "Zobrazit vlivné osoby potomků";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowAssociateRelationsOfParents" = "Zobrazit vlivné osoby rodičů";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowAssociateRelationsOfPartners" = "Zobrazit vlivné osoby partnerů";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowAssociateRelationsOfStartPerson" = "Zobrazit vlivné osoby výchozí osoby";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowChildren" = "Zobrazit potomky";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowGrandparents" = "Zobrazit prarodiče";
+
+/* SociogramChartBuilderConfiguration */
+"_SociogramChartBuilderConfiguration_ShowParents" = "Zobrazit rodiče";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowPartners" = "Zobrazit partnery";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_AgeAxisLabel" = "Věk";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_ChildsAxisLabel" = "Potomek";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_CountAxisLabel" = "Počet";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_CountryAxisLabel" = "Země";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_DivorcesAxisLabel" = "Rozvody";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_EventOrFactAxisLabel" = "Událost nebo fakt";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_FactValueAxisLabel" = "Hodnota faktu";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_FamiliesAxisLabel" = "Rodiny";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_GenderAxisLabel" = "Pohlaví";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_MarriagesAxisLabel" = "Sňatky";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_MonthAxisLabel" = "Měsíc";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_PersonFirstNamesAxisLabel" = "Křestní jména osob";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_PersonLastNamesAxisLabel" = "Příjmení osob";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_PersonsAxisLabel" = "Osoby";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_PersonTitleAxisLabel" = "Tituly osob";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_PlaceAxisLabel" = "Místo";
+
+/* StatisticsChartBuilder */
+"_StatisticsChartBuilder_StatisticsType" = "Typy statistik";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_StatisticsTypeExplanation" = "Určete, jaký typ statistiky chcete vytvořit z dat vašeho rodokmenu.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtChristening" = "Věk při křtu";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtChristening_Description" = "Věk osob při křtu.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtDeath" = "Věk při úmrtí";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtDeath_Description" = "Zobrazuje, jak dlouho osoby ve vašem rodokmenu žily.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtDivorce" = "Věk při rozvodu";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtDivorce_Description" = "Zobrazuje graf v jakém věku se osoby rozvedly.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtMarriage" = "Věk při sňatku";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtMarriage_Description" = "Statistiky v jakém věku se osoby ve vašem rodokmenu vzaly.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtRetirement" = "Věk při odchodu do důchodu";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtRetirement_Description" = "Zobrazuje v jakém věku osoby ve vašem rodokmenu odcházely do důchodu.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeOfChildAtParentsDeath" = "Věk dítěte při smrti rodičů";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeOfChildAtParentsDeath_Description" = "Jak staré byly děti ve vašem rodokmenu, když přišly o matku nebo otce?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeOfParentsAtBirthOfChild" = "Věk rodičů při narození dítěte";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeOfParentsAtBirthOfChild_Description" = "Vypočítá věk rodičů při narození dětí.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeOfPersonAtDeathOfPartner" = "Věk osoby při úmrtí partnera";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeOfPersonAtDeathOfPartner_Description" = "Statistiky o tom, jak starý člověk byl, když jejich partner zemřel";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_BirthMonth" = "Měsíc narození";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_BirthMonth_Description" = "V jakém měsíci se narodilo nejvíce osob?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_ChildsPerFamily" = "Dětí na rodinu";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_ChildsPerFamily_Description" = "Počet dětí na rodinu ve vašem rodokmenu.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_ConclusionTypes" = "Typy událostí nebo faktů";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_ConclusionTypes_Description" = "Statistiky o nejběžnějších typech událostí nebo faktů.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_DeathMonth" = "Měsíc úmrtí";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_DeathMonth_Description" = "Měsíce, ve kterém osoby ve vašem rodokmenu nejvíce umíraly.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_DivorceMonth" = "Měsíc rozvodu";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_DivorceMonth_Description" = "Měsíce, ve kterém se osoby ve vašem rodokmenu rozvedly.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_CasteName" = "Fakta: kastovní jméno";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_CasteName_Description" = "Jaká kasta byla nejběžnější ve vašem rodokmenu?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_EyeColor" = "Fakta: barva očí";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_EyeColor_Description" = "Statistiky o barvě očí osob ve vašem rodokmenu.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_NationalOrTribalOrigin" = "Fakta: národní nebo kmenový původ";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_NationalOrTribalOrigin_Description" = "Nejběžnější národní nebo kmenový původ osob ve vašem rodokmenu.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_Race" = "Fakta: etnický původ";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_Race_Description" = "Statistiky o etnickém původu osob ve vašem rodokmenu.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_SkinColor" = "Fakta: barva pleti";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_SkinColor_Description" = "Statistiky o barvě pleti osob ve vašem rodokmenu.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_FirstNames" = "Rozložení křestních jmen";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_FirstNames_Description" = "Všechna křestní jména, která se běžně používají ve vašem rodokmenu.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Gender" = "Pohlaví";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Gender_Description" = "Rozložení pohlaví osob ve vašem rodokmenu.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_LastNames" = "Rozložení příjmení";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_LastNames_Description" = "Nejběžnější příjmení ve vašem rodokmenu.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_MarriageMonth" = "Měsíc sňatku";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_MarriageMonth_Description" = "Který měsíc si lidé obvykle vybrali pro sňatek?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_FamilyEvent_Marriage;topLevelGroupingLocationString" = "Země sňatku";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_FamilyEvent_Marriage;topLevelGroupingLocationString_Description" = "Země, ve kterých se vaši příbuzní rozhodli vzít.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_FamilyEvent_Marriage;veryShortLocationString" = "Místo sňatku";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_FamilyEvent_Marriage;veryShortLocationString_Description" = "Ve kterém městě nebo místě se osoby z vašeho rodokmenu provdaly?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Birth;topLevelGroupingLocationString" = "Země narození";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Birth;topLevelGroupingLocationString_Description" = "Země původu pro všechny osoby.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Birth;veryShortLocationString" = "Místo narození";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Birth;veryShortLocationString_Description" = "Ze kterého města pochází nejvíce osob ve vašem rodokmenu?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Burial;topLevelGroupingLocationString" = "Země pohřbu";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Burial;topLevelGroupingLocationString_Description" = "Ve které zemi je pohřbena většina vašich příbuzných?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Burial;veryShortLocationString" = "Místo pohřbu";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Burial;veryShortLocationString_Description" = "Nejčastější místo pohřbu ve vašem rodokmenu.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Christening;topLevelGroupingLocationString" = "Země křtu";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Christening;topLevelGroupingLocationString_Description" = "Země, ve které se většina vašich příbuzných nechala pokřtít.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Christening;veryShortLocationString" = "Místo křtu";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Christening;veryShortLocationString_Description" = "Ve kterém městě byly pokřtěny osoby z vašeho rodokmenu?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Death;topLevelGroupingLocationString" = "Země úmrtí";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Death;topLevelGroupingLocationString_Description" = "Statistiky o zemi, kde zemřelo nejvíce osob ve vašem rodokmenu.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Death;veryShortLocationString" = "Místo úmrtí";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Death;veryShortLocationString_Description" = "Město nebo místo, kde ve vašem rodokmenu zemřelo nejvíce lidí.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_TimeBetweenMarriageAndBirthOfChild" = "Čas mezi sňatkem a narozením dítěte";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_TimeBetweenMarriageAndBirthOfChild_Description" = "Jak dlouho trvalo mezi sňatkem a narozením dítěte? Negativní hodnoty znamenají, že se dítě narodilo před svatbou.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Titles" = "Název rozložení";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Titles_Description" = "Statistiky titulů u jmen všech osob.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Birth" = "Rok narození";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Birth_Description" = "Zobrazuje, ve kterých letech se narodilo nejvíce osob ve vašem rodokmenu.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Burial" = "Rok pohřbu";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Burial_Description" = "Statistiky o tom, kdy byly osoby vašeho rodokmenu pohřbeny";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Christening" = "Rok křtu";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Christening_Description" = "Statistiky, ve kterých letech byly osoby vašeho rodokmenu pokřtěny.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Death" = "Rok úmrtí";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Death_Description" = "Rok každé události úmrtí ve vašem rodokmenu";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_YearAxisLabel" = "Rok";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_YearsAxisLabel" = "Roky";
+
+/* (No Comment) */
+"_StyleNames_AgeFanChartCompositorStyle" = "Vějíř podle věku";
+
+/* (No Comment) */
+"_StyleNames_BlackBorderBoxedChartCompositorStyle" = "Černý okraj";
+
+/* (No Comment) */
+"_StyleNames_BlackBoxedChartCompositorStyle" = "Černé objekty";
+
+/* (No Comment) */
+"_StyleNames_BlackWhiteFanChartCompositorStyle" = "Černobílý vějíř";
+
+/* (No Comment) */
+"_StyleNames_BlueTextChartCompositorStyle" = "Modrý text";
+
+/* (No Comment) */
+"_StyleNames_BlueWhiteBoxedChartCompositorStyle" = "Modrobílé objekty";
+
+/* (No Comment) */
+"_StyleNames_ByAgeBoxedChartCompositorStyle" = "Objekty podle věku";
+
+/* (No Comment) */
+"_StyleNames_ByYearFanChartCompositorStyle" = "Vějíř podle věku";
+
+/* (No Comment) */
+"_StyleNames_ByYearGradientFanChartCompositorStyle" = "Vějíř podle věku s přechody";
+
+/* (No Comment) */
+"_StyleNames_ComicWhiteBoxedChartCompositorStyle" = "Komické objekty";
+
+/* (No Comment) */
+"_StyleNames_DarkBlueSideBarChartCompositorStyle" = "Tmavě modrý";
+
+/* (No Comment) */
+"_StyleNames_DarkBoxedChartCompositorStyle" = "Noční objekty";
+
+/* (No Comment) */
+"_StyleNames_DarkBoxedChartCompositorStyle2" = "Noční objekty 2";
+
+/* (No Comment) */
+"_StyleNames_DarkCardChartCompositorStyle" = "Noční karty";
+
+/* (No Comment) */
+"_StyleNames_DarkCircularPersonChartCompositorStyle" = "Tmavé kruhy";
+
+/* (No Comment) */
+"_StyleNames_DarkDistributionChartCompositorStyle" = "Tmavý";
+
+/* (No Comment) */
+"_StyleNames_DarkFanChartCompositorStyle" = "Noční vějíř";
+
+/* (No Comment) */
+"_StyleNames_DarkFlatBarStatisticsChartCompositorStyle" = "Tmavé ploché pruhy";
+
+/* (No Comment) */
+"_StyleNames_DarkLinesStatisticsChartCompositorStyle" = "Tmavé linky";
+
+/* (No Comment) */
+"_StyleNames_DarkNameBarChartCompositorStyle" = "Tmavé pruhy jmen";
+
+/* (No Comment) */
+"_StyleNames_DarkPortraitBoxChartCompositorStyle" = "Tmavé portréty";
+
+/* (No Comment) */
+"_StyleNames_DarkTextChartCompositorStyle" = "Tmavý text";
+
+/* (No Comment) */
+"_StyleNames_DarkTimelineBarChartCompositorStyle" = "Tmavé pruhy";
+
+/* (No Comment) */
+"_StyleNames_GenderPennantChartCompositorStyle" = "Praporky podle pohlaví";
+
+/* (No Comment) */
+"_StyleNames_GenderTextChartCompositorStyle" = "Text podle pohlaví";
+
+/* (No Comment) */
+"_StyleNames_GreenBlueCardChartCompositorStyle" = "Zelené / modré karty";
+
+/* (No Comment) */
+"_StyleNames_GreenBoxedBarChartCompositorStyle" = "Zelené objekty s pruhem";
+
+/* (No Comment) */
+"_StyleNames_GreenBoxedChartCompositorStyle" = "Zelené objekty";
+
+/* (No Comment) */
+"_StyleNames_LightBarsFanChartCompositorStyle" = "Světlý vějíř s pruhy";
+
+/* (No Comment) */
+"_StyleNames_LightBarsFanChartCompositorStyle2" = "Světlý vějíř s pruhy";
+
+/* Style Names */
+"_StyleNames_LightBoxedChartCompositorStyle" = "Jasné objekty";
+
+/* (No Comment) */
+"_StyleNames_LightBoxedChartCompositorStyle2" = "Zaoblené jasné objekty";
+
+/* (No Comment) */
+"_StyleNames_LightBoxedChartCompositorStyle3" = "Objekty podle pohlaví";
+
+/* (No Comment) */
+"_StyleNames_LightCardChartCompositorStyle" = "Jasné karty";
+
+/* (No Comment) */
+"_StyleNames_LightCardChartCompositorStyle2" = "Jasné karty 2";
+
+/* (No Comment) */
+"_StyleNames_LightCircularPersonChartCompositorStyle" = "Světlé kruhy";
+
+/* (No Comment) */
+"_StyleNames_LightDistributionChartCompositorStyle" = "Přechody";
+
+/* (No Comment) */
+"_StyleNames_LightFanChartCompositorStyle" = "Světlý vějíř";
+
+/* (No Comment) */
+"_StyleNames_LightFlatBarStatisticsChartCompositorStyle" = "Světlé ploché pruhy";
+
+/* (No Comment) */
+"_StyleNames_LightGenderFanChartCompositorStyle" = "Světlý vějíř podle pohlaví";
+
+/* (No Comment) */
+"_StyleNames_LightGenderFanChartCompositorStyle2" = "Světlý vějíř podle pohlaví 2";
+
+/* (No Comment) */
+"_StyleNames_LightGenogramChartCompositorStyle" = "Světlý genogram";
+
+/* (No Comment) */
+"_StyleNames_LightGenogramChartCompositorStyle2" = "Světlý genogram 2";
+
+/* (No Comment) */
+"_StyleNames_LightGenogramChartCompositorStyle3" = "Světlý genogram 3";
+
+/* (No Comment) */
+"_StyleNames_LightGenogramChartCompositorStyle4" = "Světlý genogram 4";
+
+/* (No Comment) */
+"_StyleNames_LightLinesStatisticsChartCompositorStyle" = "Světlé linky";
+
+/* (No Comment) */
+"_StyleNames_LightNameBarChartCompositorStyle" = "Světlé pruhy se jmény";
+
+/* (No Comment) */
+"_StyleNames_LightPortraitBoxChartCompositorStyle" = "Světlé portréty";
+
+/* (No Comment) */
+"_StyleNames_LightPortraitBoxOnDarkBackgroundChartCompositorStyle" = "Tmavé portréty 2";
+
+/* (No Comment) */
+"_StyleNames_LightTextChartCompositorStyle" = "Světlý text";
+
+/* (No Comment) */
+"_StyleNames_LightTimelineBackgroundBarChartCompositorStyle" = "Světlé pruhy na pozadí";
+
+/* (No Comment) */
+"_StyleNames_LightTimelineBarChartCompositorStyle" = "Světlé pruhy";
+
+/* (No Comment) */
+"_StyleNames_LightTimelineFromToChartCompositorStyle" = "Světlé jednoduché pruhy";
+
+/* (No Comment) */
+"_StyleNames_LightTimelineFromToChartCompositorStyle2" = "Světlé jednoduché pruhy 2";
+
+/* (No Comment) */
+"_StyleNames_MagentaBoxedBarChartCompositorStyle" = "Purpurové objekty s pruhem";
+
+/* (No Comment) */
+"_StyleNames_MagentaSimpleCircleOnDarkBackgroundChartCompositorStyle" = "Purpurové kruhy";
+
+/* (No Comment) */
+"_StyleNames_OrangeCyanCardChartCompositorStyle" = "Oranžové / azurové karty";
+
+/* (No Comment) */
+"_StyleNames_OrangeCyanSimpleCircleOnDarkBackgroundChartCompositorStyle" = "Oranžové / azurové kruhy";
+
+/* (No Comment) */
+"_StyleNames_OrganicCircularPersonChartCompositorStyle" = "Přírodní kruhový";
+
+/* (No Comment) */
+"_StyleNames_OrganicOrangeCyanCircularPersonChartCompositorStyle" = "Přírodní oranžové / azurové kruhy";
+
+/* (No Comment) */
+"_StyleNames_OrganicSimpleCircleChartCompositorStyle" = "Přírodní kruhy";
+
+/* (No Comment) */
+"_StyleNames_PedigreeBoxedBarChartCompositorStyle" = "Objekty původu s pruhy";
+
+/* (No Comment) */
+"_StyleNames_PedigreePennantChartCompositorStyle" = "Praporky podle původu";
+
+/* (No Comment) */
+"_StyleNames_PedigreeSideBarChartCompositorStyle" = "Zabarvení původu s pruhy vpravo";
+
+/* (No Comment) */
+"_StyleNames_RainbowBoxedBarChartCompositorStyle" = "Duhové objekty s pruhem";
+
+/* (No Comment) */
+"_StyleNames_RainbowPennantChartCompositorStyle" = "Duhové praporky";
+
+/* (No Comment) */
+"_StyleNames_RainbowTextChartCompositorStyle" = "Duhový text";
+
+/* (No Comment) */
+"_StyleNames_RedTextChartCompositorStyle" = "Červený text";
+
+/* (No Comment) */
+"_StyleNames_SunsetBoxedBarChartCompositorStyle" = "Západosluneční objekty s pruhem";
+
+/* (No Comment) */
+"_StyleNames_SunsetBoxedChartCompositorStyle" = "Západosluneční objekty";
+
+/* (No Comment) */
+"_StyleNames_SunsetCardChartCompositorStyle" = "Západosluneční karty";
+
+/* (No Comment) */
+"_StyleNames_SunsetCircularPersonChartCompositorStyle" = "Západosluneční kruhy";
+
+/* (No Comment) */
+"_StyleNames_SunsetDistributionChartCompositorStyle" = "Západ slunce";
+
+/* (No Comment) */
+"_StyleNames_SunsetFanChartCompositorStyle" = "Západosluneční vějíř";
+
+/* (No Comment) */
+"_StyleNames_SunsetFlatBarStatisticsChartCompositorStyle" = "Západosluneční ploché pruhy";
+
+/* (No Comment) */
+"_StyleNames_TraditionalFanChartCompositorStyle" = "Tradiční";
+
+/* (No Comment) */
+"_StyleNames_TraditionalGradientFanChartCompositorStyle" = "Tradiční přechody";
+
+/* (No Comment) */
+"_StyleNames_TypewriterTextChartCompositorStyle" = "Psací stroj";
+
+/* (No Comment) */
+"_StyleNames_TypewriterTimelineBarChartCompositorStyle" = "Psací stroj";
+
+/* (No Comment) */
+"_StyleNames_VeryLightPedigreeGradientFanChartCompositorStyle" = "Vějíř původů ve světlých přechodech";
+
+/* (No Comment) */
+"_StyleNames_VioletCardChartCompositorStyle" = "Fialové karty";
+
+/* (No Comment) */
+"_StyleNames_WhiteBoxedChartCompositorStyle" = "Bílé objekty";
+
+/* (No Comment) */
+"_StyleNames_WhiteCardChartCompositorStyle" = "Bílé karty";
+
+/* (No Comment) */
+"_StyleNamesBlueDiagonalSegmentedPortraitChartCompositorStyle" = "Modře stylizované objekty";
+
+/* (No Comment) */
+"_StyleNamesBluePolaroidChartCompositorStyle" = "Modré polaroidy";
+
+/* (No Comment) */
+"_StyleNamesBottomSideBarChartCompositorStyle" = "Spodní pruhy";
+
+/* (No Comment) */
+"_StyleNamesDarkBarPortraitCompositorStyle" = "Portrétní tmavé pruhy";
+
+/* (No Comment) */
+"_StyleNamesDarkPolaroidChartCompositorStyle" = "Tmavé polaroidy";
+
+/* (No Comment) */
+"_StyleNamesFloatingRainbowSideBarChartCompositorStyle" = "Duhové plovoucí pruhy";
+
+/* (No Comment) */
+"_StyleNamesGenderBarPortraitCompositorStyle" = "Portrétní pruhy pohlaví";
+
+/* (No Comment) */
+"_StyleNamesLargeBarPortraitCompositorStyle" = "Portrétní velké pruhy";
+
+/* (No Comment) */
+"_StyleNamesLightBlueBarPortraitCompositorStyle" = "Portrétní světle modré pruhy";
+
+/* (No Comment) */
+"_StyleNamesLightWaveSegmentedPortraitChartCompositorStyle" = "Světle stylizované objekty";
+
+/* (No Comment) */
+"_StyleNamesPedigreeBarPortraitCompositorStyle" = "Portréty původu s pruhy";
+
+/* (No Comment) */
+"_StyleNamesPedigreeRoundSegmentedPortraitChartCompositorStyle" = "Stylizované zaoblené objekty podle původu";
+
+/* (No Comment) */
+"_StyleNamesPedigreeSegmentedPortraitChartCompositorStyle" = "Stylizované objekty podle původu";
+
+/* (No Comment) */
+"_StyleNamesRainbowSegmentedPortraitChartCompositorStyle" = "Duhově stylizované objekty";
+
+/* (No Comment) */
+"_StyleNamesRainbowSideBarChartCompositorStyle" = "Duhové pruhy";
+
+/* (No Comment) */
+"_StyleNamesSimplePolaroidChartCompositorStyle" = "Polaroidy";
+
+/* (No Comment) */
+"_StyleNamesSunsetPolaroidChartCompositorStyle" = "Polaroidový západ slunce";
+
+/* (No Comment) */
+"_StyleNamesSunsetSideBarChartCompositorStyle" = "Západosluneční pruhy";
+
+/* (No Comment) */
+"_Timeline_GroupingMode_GroupByBirthCountry_SortByDate" = "Seskupit podle země narození, řadit podle data";
+
+/* (No Comment) */
+"_Timeline_GroupingMode_GroupByBirthPlace_SortByDate" = "Seskupit podle místa narození, řadit podle data";
+
+/* (No Comment) */
+"_Timeline_GroupingMode_GroupByDeathCountry_SortByDate" = "Seskupit podle země úmrtí, řadit podle data";
+
+/* (No Comment) */
+"_Timeline_GroupingMode_GroupByDeathPlace_SortByDate" = "Seskupit podle místa úmrtí, řadit podle data";
+
+/* (No Comment) */
+"_Timeline_GroupingMode_GroupByGender_SortByDate" = "Seskupit podle pohlaví, řadit podle data";
+
+/* (No Comment) */
+"_Timeline_GroupingMode_GroupByLastName_SortByDate" = "Seskupit podle příjmení, řadit podle data";
+
+/* Timeline */
+"_Timeline_GroupingMode_SortByDate" = "Řadit podle data";
+
+/* (No Comment) */
+"_TimelineChartBuilder_CollapseAllGroupsForBestFit" = "Sbalit skupiny pro lepší využití prostoru";
+
+/* (No Comment) */
+"_TimelineChartBuilder_CollapseAllGroupsForBestFitExplanation" = "Je-li vybráno, budou skupiny umístěny tak, aby bylo dosaženo co nejlepšího využití místa, ale abecední pořadí není zaručeno.";
+
+/* (No Comment) */
+"_TimelineChartBuilder_GroupByBirthCountry_NoPlace" = "Neznámá země narození";
+
+/* (No Comment) */
+"_TimelineChartBuilder_GroupByBirthPlace_NoPlace" = "Neznámé místo narození";
+
+/* (No Comment) */
+"_TimelineChartBuilder_GroupByDeathCountry_NoPlace" = "Neznámá země úmrtí";
+
+/* (No Comment) */
+"_TimelineChartBuilder_GroupByDeathPlace_NoPlace" = "Neznámé místo úmrtí";
+
+/* (No Comment) */
+"_TimelineChartBuilder_GroupByLastName_NoLastName" = "Neznámé příjmení";
+
+/* (No Comment) */
+"_TimelineChartBuilder_HistoryPersons_Key" = "Historie: známé osobnosti";
+
+/* (No Comment) */
+"_TitleGeneratorChartCompositorObjectConfiguration_TitleImageMode_FamilyCrest" = "Rodinný erb";
+
+/* (No Comment) */
+"_TitleGeneratorChartCompositorObjectConfiguration_TitleImageMode_None" = "Žádný";
+
+/* (No Comment) */
+"_TitleGeneratorChartCompositorObjectConfiguration_TitleImageMode_SelectedEntryImage" = "Vybraný vstupní obrázek";
+
+/* TreeChartBuilder */
+"_TreeChartBuilder_MainTreePrefix" = "Hlavní strom";
+
+/* (No Comment) */
+"_TreeChartBuilder_SubTreeAlignment" = "Zarovnání rozdělených stromů";
+
+/* (No Comment) */
+"_TreeChartBuilder_SubTreeAlignment_ByGeneration" = "Podle generace";
+
+/* (No Comment) */
+"_TreeChartBuilder_SubTreeAlignment_ShortestDistanceToOrigin" = "Nejkratší vzdálenost od počátku";
+
+/* (No Comment) */
+"_TreeChartBuilder_SubTreeAlignmentExplanation" = "Ve složitých situacích musí být rodokmen zobrazen jako samostatný mimo hlavní rodokmen. Zde zvolte, jak tyto rozdělené stromy rozložit.";
+
+/* (No Comment) */
+"_TreeChartBuilder_SubTreePrefix" = "Oddělený strom";
+

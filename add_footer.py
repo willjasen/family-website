@@ -9,6 +9,11 @@ def add_footer_with_gtag_to_all_html(directory, gtag_file):
         for file in files:
             if file.endswith(".html"):
                 file_path = os.path.join(root, file)
+                
+                # Skip the gtag.html file itself
+                if os.path.abspath(file_path) == os.path.abspath(gtag_file):
+                    continue
+                
                 with open(file_path, 'r') as f:
                     content = f.readlines()
 
@@ -20,11 +25,12 @@ def add_footer_with_gtag_to_all_html(directory, gtag_file):
                 # Find the closing </body> tag and insert the footer before it
                 for i, line in enumerate(content):
                     if "</body>" in line:
-                        content.insert(i, footer_tag + "\n")
+                        content[i] = line.replace("</body>", footer_tag + "\n</body>")
                         break
 
                 with open(file_path, 'w') as f:
                     f.writelines(content)
+                print(f"Added footer to {file_path}")
 
 # Directory containing the .html files
 directory = "."

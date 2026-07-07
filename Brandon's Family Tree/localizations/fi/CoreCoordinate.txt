@@ -1,0 +1,15 @@
+﻿/* (No Comment) */
+"_Coordinate_East" = "Itä";
+
+/* (No Comment) */
+"_Coordinate_North" = "Pohjoinen";
+
+/* (No Comment) */
+"_Coordinate_South" = "Etelä";
+
+/* User Readable Coordinate */
+"_Coordinate_UserReadableDegree" = "%@° %@' %@\" %@";
+
+/* (No Comment) */
+"_Coordinate_West" = "Länsi";
+

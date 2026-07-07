@@ -1,0 +1,24 @@
+﻿/* (No Comment) */
+"_PersonNumberingSystemController_Type_Ancestors_KekuleSosa" = "Kekulé / Sosa (Antepasados)";
+
+/* (No Comment) */
+"_PersonNumberingSystemController_Type_Ancestors_KekuleSosa_Short" = "Kekulé";
+
+/* (No Comment) */
+"_PersonNumberingSystemController_Type_Descendants_dAboville" = "d'Aboville (descendientes)";
+
+/* (No Comment) */
+"_PersonNumberingSystemController_Type_Descendants_dAboville_Short" = "d'Aboville";
+
+/* (No Comment) */
+"_PersonNumberingSystemController_Type_Descendants_Henry" = "Henry (descendientes)";
+
+/* (No Comment) */
+"_PersonNumberingSystemController_Type_Descendants_Henry_Short" = "Henry";
+
+/* Types */
+"_PersonNumberingSystemController_Type_None" = "Ninguno";
+
+/* (No Comment) */
+"_PersonNumberingSystemController_Type_None_Short" = "Ninguno";
+

@@ -1,0 +1,42 @@
+﻿/* Evidence */
+"_SourceRelation_Evidence" = "Bevis";
+
+/* (No Comment) */
+"_SourceRelation_Evidence_Direct" = "Direkte";
+
+/* (No Comment) */
+"_SourceRelation_Evidence_DontKnow" = "Vet ikke";
+
+/* (No Comment) */
+"_SourceRelation_Evidence_Indirect" = "Indirekte";
+
+/* (No Comment) */
+"_SourceRelation_Evidence_Negative" = "Negativ";
+
+/* Information */
+"_SourceRelation_Information" = "Informasjon";
+
+/* (No Comment) */
+"_SourceRelation_Information_DontKnow" = "Vet ikke";
+
+/* (No Comment) */
+"_SourceRelation_Information_Primary" = "Primær";
+
+/* (No Comment) */
+"_SourceRelation_Information_Secondary" = "Sekundær";
+
+/* Certainty string */
+"_SourceRelation_NoCertaintyInformation" = "Ikke spesifisert";
+
+/* Quality */
+"_SourceRelation_Quality" = "Kvalitet";
+
+/* (No Comment) */
+"_SourceRelation_Quality_Derivative" = "Sekundær";
+
+/* (No Comment) */
+"_SourceRelation_Quality_DontKnow" = "Vet ikke";
+
+/* (No Comment) */
+"_SourceRelation_Quality_Original" = "Original";
+

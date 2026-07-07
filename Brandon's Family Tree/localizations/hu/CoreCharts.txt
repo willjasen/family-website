@@ -1,0 +1,2202 @@
+﻿/* Background Image Mode */
+"_BackgroundGeneratorChartCompositorObject_BackgroundImageMode" = "Háttérkép stílus";
+
+/* (No Comment) */
+"_BackgroundGeneratorChartCompositorObject_BackgroundImageMode_BlurryEdges" = "Homályos élek";
+
+/* (No Comment) */
+"_BackgroundGeneratorChartCompositorObject_BackgroundImageMode_Radial" = "Sugárirányú";
+
+/* (No Comment) */
+"_BackgroundGeneratorChartCompositorObject_BackgroundImageMode_Rectangle" = "Téglalap";
+
+/* (No Comment) */
+"_BackgroundGeneratorChartCompositorObject_BlurryEdgesSize" = "Homályos élek mérete";
+
+/* (No Comment) */
+"_BarHistoryEventTimelineGeneratorChartCompositorObjectConfiguration_CustomTextColor" = "Saját szövegszín történelmi eseményekre";
+
+/* (No Comment) */
+"_BarHistoryEventTimelineGeneratorChartCompositorObjectConfiguration_Font" = "Történelmi események betűtípusa";
+
+/* (No Comment) */
+"_BarHistoryEventTimelineGeneratorChartCompositorObjectConfiguration_TextColoringMode" = "Szövegszínezés történelmi eseményekre";
+
+/* (No Comment) */
+"_BarPersonTimelineGeneratorChartCompositorObjectConfiguration_EventMarkerMode" = "Esemény jelzők";
+
+/* (No Comment) */
+"_BarPersonTimelineGeneratorChartCompositorObjectConfiguration_EventMarkerMode_Circles" = "Körök";
+
+/* (No Comment) */
+"_BarPersonTimelineGeneratorChartCompositorObjectConfiguration_EventMarkerMode_Lines" = "Vonalak";
+
+/* BaseChartBuilder */
+"_BaseChartBuilderConfiguration_PlaceFormat_CompleteLocationString" = "Teljes helynév";
+
+/* (No Comment) */
+"_BaseChartBuilderConfiguration_PlaceFormat_OnlyPlaceName" = "Rövidített helynév";
+
+/* LineColorModes */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineColorMode" = "Vonalszín-mód";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineColorMode_ContrastToBackground" = "Kontraszt a háttérrel";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineColorMode_Custom" = "Saját";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration" = "Vonalvég díszítése";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_Bar" = "Sáv";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_LargeCircle" = "Nagy körök";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_LargeDot" = "Nagy pont";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_None" = "Nincs";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_SmallCircle" = "Kis körök";
+
+/* (No Comment) */
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_SmallDot" = "Kicsi pont";
+
+/* BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration */
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_MediaPictureAssignmentMode" = "Kép médium mód";
+
+/* (No Comment) */
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_MediaPictureAssignmentMode_FullPictureWithoutAssignment" = "Teljes kép vágás nélkül";
+
+/* (No Comment) */
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_MediaPictureAssignmentMode_OnlyUserProvidedAssignment" = "Kép kivágása, ha pontosan megadta";
+
+/* (No Comment) */
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_MediaPictureAssignmentMode_UserProvidedOrVision" = "Kép kivágása, ha megadja, és ha a rendszer arcot észlel";
+
+/* (No Comment) */
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_MediaPictureAssignmentModeExplanation" = "Adja meg, hogyan jelenjen meg a média. Válassza ki, hogy a teljes képek jelenjenek-e meg, vagy a képeket arcokra vágja-e le a mesterséges intelligencia segítségével.";
+
+/* (No Comment) */
+"_BasePersonBuilderItemGeneratorChartCompositorObjectConfiguration_OutsetForMediaPictureAssignmentModeForVision" = "Térköz az észlelt arcokhoz";
+
+/* (No Comment) */
+"_ChartCompositorObjectsContainer_RealignmentMode_DistributeObjectsEvenlyOnPageFromBorderToBorder" = "Objektumok kiterjesztése az összes oldalra";
+
+/* ChartCompositorObjectsContainer_RealignmentMode */
+"_ChartCompositorObjectsContainer_RealignmentMode_MoveObjectsAwayFromPageCuts" = "Mozgassa el az objektumokat az oldalszakadásoktól";
+
+/* (No Comment) */
+"_ChartFillSettings_FillType_LinearGradient" = "Színátmenet";
+
+/* ChartFillSettings */
+"_ChartFillSettings_FillType_None" = "Nincs";
+
+/* (No Comment) */
+"_ChartFillSettings_FillType_None_Explanation" = "Nem választott ki kitöltéstípust";
+
+/* (No Comment) */
+"_ChartFillSettings_FillType_RadialGradient" = "Sugárirányú színátmenet";
+
+/* (No Comment) */
+"_ChartFillSettings_FillType_RadialGradient_Abbreviation" = "Sugárirányú";
+
+/* (No Comment) */
+"_ChartFillSettings_FillType_SolidColor" = "Szín";
+
+/* (No Comment) */
+"_ChartObjectType_BezierConnectionBuilderItemGeneratorChartCompositorObject" = "Bezier kapcsolatok";
+
+/* (No Comment) */
+"_ChartObjectType_BlobConnectionBuilderItemGeneratorChartCompositorObject" = "Szerves kapcsolatok";
+
+/* Chart object types */
+"_ChartObjectType_DirectStraightConnectionBuilderItemGeneratorChartCompositorObject" = "Egyenes kapcsolatok";
+
+/* (No Comment) */
+"_ChartObjectType_HConnectionBuilderItemGeneratorChartCompositorObject" = "H kapcsolatok";
+
+/* (No Comment) */
+"_ChartObjectType_YStraightConnectionBuilderItemGeneratorChartCompositorObject" = "Y egyenes kapcsolatok";
+
+/* (No Comment) */
+"_Charts_XAlignment_Center" = "Középső";
+
+/* Alignment */
+"_Charts_XAlignment_Left" = "Balra";
+
+/* (No Comment) */
+"_Charts_XAlignment_Right" = "Jobbra";
+
+/* (No Comment) */
+"_Charts_YAlignment_Bottom" = "Alsó";
+
+/* (No Comment) */
+"_Charts_YAlignment_Middle" = "Középső";
+
+/* (No Comment) */
+"_Charts_YAlignment_Top" = "Top";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_ExportAsSeparatePages" = "Külön oldalak";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_ExportAsSeparatePages_Explanation" = "Ha kiválasztja, öbb oldalt használ a diagramhoz.";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_ExportBackground" = "Háttér megmutatása";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_ExportBackground_Explanation" = "Ha kiválasztja, a háttér látható lesz a képen.";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_Margins" = "Margók";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_Margins_Explanation" = "Ezzel az opcióval megadhatja a diagram körüli margókat a kép szegélyéhez.";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_Margins_ExplanationForPrinting" = "Beállítja a diagram margóit az egyes oldalak szegélyéhez.";
+
+/* (No Comment) */
+"_ChartsBaseCGContextViewerConfiguration_PrintingTitle" = "Nyomtatási beállítások";
+
+/* ChartsBaseCGContextViewerConfiguration */
+"_ChartsBaseCGContextViewerConfiguration_Title" = "Beállítások exportálása";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewer_JPEGToLarge_Description" = "Ez a diagram túl nagy ahhoz, hogy JPEG fájlként exportálhassa. Kérjük, állítsa be a skála beállítást alacsonyabb skálára, vagy exportálja a diagramot PNG vagy PDF fájlként.";
+
+/* ChartsBitmapCGContextViewerConfiguration */
+"_ChartsBitmapCGContextViewerConfiguration_ExportFormat" = "Exportálás formátuma";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_ExportFormat_Explanation" = "Kérjük, válassza ki a használni kívánt képformátumot. A PNG-fájlok átlátszó hátterérrel rendelkezhetnek, a JPEG fájlok azonban jobb tömörítést és kisebb fájlméretet kínálnak.";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_ExportFormat_JPEG" = "Exportálás JPEG képként";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_ExportFormat_PNG" = "Exportálás PNG képként";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_JPEGQuality" = "JPEG minőség";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_JPEGQuality_Explanation" = "A JPEG minőség meghatározza, hogy a kép mennyire legyen tömörítve. Az alacsonyabb minőség kisebb fájlméreteket eredményez, de tömörítési hibákhoz vezethet.";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_Scaling" = "Méretezés";
+
+/* (No Comment) */
+"_ChartsBitmapCGContextViewerConfiguration_Scaling_Explanation" = "Állítsa be itt a végső kép méretezését. A nagyobb mértek növelik a fájl méretét, de további részleteket kínálnak, mielőtt bármilyen pixelláció látható lenne.";
+
+/* (No Comment) */
+"_ChartsEditor_AlignMode_BottomY" = "Beigazítás alúl, függőlegesen";
+
+/* ChartEditor */
+"_ChartsEditor_AlignMode_LeftX" = "Beigazítás balra, vízszintesen";
+
+/* (No Comment) */
+"_ChartsEditor_AlignMode_MiddleX" = "Beigazítás középen, vízszintesen";
+
+/* (No Comment) */
+"_ChartsEditor_AlignMode_MiddleY" = "Beigazítás középen, függőlegesen";
+
+/* (No Comment) */
+"_ChartsEditor_AlignMode_RightX" = "Beigazítás jobbra, vízszintesen";
+
+/* (No Comment) */
+"_ChartsEditor_AlignMode_TopY" = "Beigazítás felűl, függőlegesen";
+
+/* (No Comment) */
+"_Common_AdditionalNameFormat" = "További nevek";
+
+/* (No Comment) */
+"_Common_AdditionalNameFormatExplanation" = "Állítsa be itt, hogy melyik további neveket kell kijelezni a diagramban.";
+
+/* (No Comment) */
+"_Common_Alignment" = "Beigazítás";
+
+/* (No Comment) */
+"_Common_Alignment_BottomToTop" = "Alultól felfele";
+
+/* (No Comment) */
+"_Common_Alignment_FathersBottomMothersTop" = "Apák alúl, anyák felűl";
+
+/* (No Comment) */
+"_Common_Alignment_FathersLeftMothersRight" = "Apák balra, anyák jobbra";
+
+/* (No Comment) */
+"_Common_Alignment_FathersLeftMothersRightCondensed" = "Apák balra, anyák jobbra (sűrítve)";
+
+/* (No Comment) */
+"_Common_Alignment_FathersRightMothersLeft" = "Apák jobbra, anyák balra";
+
+/* (No Comment) */
+"_Common_Alignment_FathersRightMothersLeftCondensed" = "Apák jobbra, anyák balra (sűrítve)";
+
+/* (No Comment) */
+"_Common_Alignment_FathersTopMothersBottom" = "Apák felűl, anyák alúl";
+
+/* (No Comment) */
+"_Common_Alignment_LeftToRight" = "Balról jobbra";
+
+/* (No Comment) */
+"_Common_Alignment_LeftToRightCondensed" = "Balról jobbra (sűrített)";
+
+/* (No Comment) */
+"_Common_Alignment_RightToLeft" = "Jobbról balra";
+
+/* (No Comment) */
+"_Common_Alignment_RightToLeftCondensed" = "Jobbról balra (sűrített)";
+
+/* (No Comment) */
+"_Common_Alignment_TopToBottom" = "Fentről lefelé";
+
+/* (No Comment) */
+"_Common_AlignmentExplanation" = "Megadja a diagramban szereplő személyek általános elrendezését";
+
+/* (No Comment) */
+"_Common_AlignOnGrid" = "Igazítsa be a statikus rácson";
+
+/* (No Comment) */
+"_Common_AlignOnGridExplanation" = "Elrendezi az összes személyt, a legnagyobb személybox méretéhez viszonyítva, hogy egységesebben nézzen ki, de így több helyet használ.";
+
+/* (No Comment) */
+"_Common_AncestorGenerationsOfPartnerSlider" = "Partnerekgenerációk ősei";
+
+/* (No Comment) */
+"_Common_AncestorGenerationsSlider" = "Ősök generációi";
+
+/* (No Comment) */
+"_Common_AnestorGenerationsForPartnersSlider" = "Az ősgenerációk a partnerek számára";
+
+/* (No Comment) */
+"_Common_AnglesGroupName" = "Szögek";
+
+/* (No Comment) */
+"_Common_AngleSlider" = "Szög";
+
+/* (No Comment) */
+"_Common_ArrowsGroupName" = "Nyilak";
+
+/* (No Comment) */
+"_Common_AssociatedPersonsGroupName" = "Befolyásos személyek";
+
+/* (No Comment) */
+"_Common_AssociateRelationLines" = "Befolyásos kapcsolattípus";
+
+/* (No Comment) */
+"_Common_Author" = "Szerző";
+
+/* (No Comment) */
+"_Common_AuthorColor" = "Szerzőszín";
+
+/* (No Comment) */
+"_Common_AuthorCustomTextColor" = "Saját szerzőszín";
+
+/* (No Comment) */
+"_Common_AuthorEnabledCheckbox" = "Szerző megmutatása";
+
+/* (No Comment) */
+"_Common_AuthorFont" = "Szerző betűtípus";
+
+/* (No Comment) */
+"_Common_AuthorGroupName" = "Szerző";
+
+/* (No Comment) */
+"_Common_AuthorTextColoringMode" = "Szerző színezése";
+
+/* (No Comment) */
+"_Common_BackgroundColor" = "Háttérszín";
+
+/* (No Comment) */
+"_Common_BackgroundEdgeRadius" = "Háttér szél rádiusz";
+
+/* (No Comment) */
+"_Common_BackgroundEnabledCheckbox" = "Háttér megmutatása";
+
+/* (No Comment) */
+"_Common_BackgroundEnabledCheckboxExplanation" = "Ha tud, válasszon ki színt, színátmenetet vagy képet, amelyet a diagramháttérként jelenít meg.";
+
+/* (No Comment) */
+"_Common_BackgroundFill" = "Háttér kitöltése";
+
+/* (No Comment) */
+"_Common_BackgroundGroupName" = "Háttér";
+
+/* (No Comment) */
+"_Common_BackgroundImageOpacity" = "Háttérkép átláthatóság";
+
+/* (No Comment) */
+"_Common_BackgroundTintFactor" = "Háttér színárnyalat";
+
+/* (No Comment) */
+"_Common_BarAndTextColor" = "Sáv- és szövegszín";
+
+/* (No Comment) */
+"_Common_BarColor" = "Sávszín";
+
+/* (No Comment) */
+"_Common_BarEdgeRadius" = "Sáv szél rádiusz";
+
+/* (No Comment) */
+"_Common_BarGroupName" = "Sáv";
+
+/* (No Comment) */
+"_Common_BarHeight" = "Sávmagasság";
+
+/* (No Comment) */
+"_Common_BarsGroupName" = "Sávok";
+
+/* (No Comment) */
+"_Common_BarsSpacing" = "Sávok távolsága";
+
+/* (No Comment) */
+"_Common_BarStyle" = "Sávstílus";
+
+/* (No Comment) */
+"_Common_BarsWidth" = "Sávszélesség";
+
+/* (No Comment) */
+"_Common_BorderColor" = "Szegélyszín";
+
+/* (No Comment) */
+"_Common_BorderGroupName" = "Szegély";
+
+/* (No Comment) */
+"_Common_BorderWidth" = "Szegélyszélesség";
+
+/* (No Comment) */
+"_Common_BottomDarkeningFactor" = "Háttér gradiens faktor";
+
+/* (No Comment) */
+"_Common_BottomLineColor" = "Alsó vonalszín";
+
+/* (No Comment) */
+"_Common_BottomLineWidth" = "Alsó vonalszélesség";
+
+/* (No Comment) */
+"_Common_BottomMarginSlider" = "Alsó margó";
+
+/* (No Comment) */
+"_Common_BoundsHeight" = "Nagyság";
+
+/* (No Comment) */
+"_Common_BoundsWidth" = "Szélesség";
+
+/* (No Comment) */
+"_Common_BranchesToTraverse" = "Követendő ágak";
+
+/* (No Comment) */
+"_Common_BranchesToTraverse_MaternalAndPaternal" = "Anyai és apai oldal";
+
+/* (No Comment) */
+"_Common_BranchesToTraverse_MaternalOfStartPerson" = "Kezdő személy anyai oldala";
+
+/* (No Comment) */
+"_Common_BranchesToTraverse_OnlyMaternal" = "Csak anyai";
+
+/* (No Comment) */
+"_Common_BranchesToTraverse_OnlyPaternal" = "Csak apai";
+
+/* (No Comment) */
+"_Common_BranchesToTraverse_PaternalOfStartPerson" = "Kezdő személy apai oldala";
+
+/* (No Comment) */
+"_Common_BranchesToTraverseExplanation" = "Válassza ki, hogy melyik ágakat kell áthaladnia a diagram kijelzésekor. Például az „Csak apai oldal” kiválasztásakor a diagramban csak a kiválasztott személy apját, nagyapját értékeli ki.";
+
+/* (No Comment) */
+"_Common_BranchItemSpacingSlider" = "Ág-elemek távolsága";
+
+/* (No Comment) */
+"_Common_BranchItemSpacingSliderExplanation" = "Ellenőrzi, hogy a legközelebbi közös rokonhoz viszonyítva, milyen messzire kerülnek a személyek";
+
+/* (No Comment) */
+"_Common_BrothersAndSistersGroupName" = "Fiú és lánytestvérek";
+
+/* (No Comment) */
+"_Common_ChildrenGenerationsSlider" = "Gyermek generációk";
+
+/* (No Comment) */
+"_Common_ColoringMode" = "Színezésmód";
+
+/* (No Comment) */
+"_Common_ColoringMode_Alternating" = "Váltakozó";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByAge" = "Kor szerint";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByGender" = "Nemek szerint";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByGenerationGreenBlue" = "Generációk szerint (zöld/kék)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByGenerationOrangeCyan" = "Generációk szerint (narancssárga/cián)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByGenerationRainbow" = "Generációk szerint (szivárvány)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByGenerationSunset" = "Generációk szerint (napnyugta)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByLabel" = "Címke szerint";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByPedigreeDark" = "Rokonsági fokozat szerint (sötét)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByPedigreeLight" = "Rokonsági fokozat szerint (világos)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByPersonGroup" = "Szeménycsoport szerint";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByYear" = "Év szerint";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByYearRainbow" = "Év szerint (szivárvány)";
+
+/* (No Comment) */
+"_Common_ColoringMode_ByYearRainbowSubdued" = "Év szerint (szivárvány, visszafogott)";
+
+/* (No Comment) */
+"_Common_ColoringMode_Custom" = "Egyenletes szín";
+
+/* (No Comment) */
+"_Common_ColoringMode_Rainbow" = "Szivárvány";
+
+/* (No Comment) */
+"_Common_ColoringMode_Uniform" = "Egyenletes";
+
+/* (No Comment) */
+"_Common_ColoringMode_White" = "Fehér";
+
+/* (No Comment) */
+"_Common_ColoringModeExplanation" = "Válassza ki a ebben a diagramban a személyek különböző színsémáit.";
+
+/* (No Comment) */
+"_Common_ColorsGroupName" = "Színek";
+
+/* (No Comment) */
+"_Common_ConnectionLineType" = "Kapcsolati vonal típusa";
+
+/* (No Comment) */
+"_Common_ContentGroupName" = "Tartalom";
+
+/* (No Comment) */
+"_Common_CurveFactor" = "Görbe";
+
+/* (No Comment) */
+"_Common_CustomColor" = "Saját szín";
+
+/* (No Comment) */
+"_Common_CustomTextColor" = "Saját szövegszín";
+
+/* (No Comment) */
+"_Common_Date" = "Dátum";
+
+/* (No Comment) */
+"_Common_DateColor" = "Dátumszín";
+
+/* (No Comment) */
+"_Common_DateCustomTextColor" = "Saját dátumszín";
+
+/* (No Comment) */
+"_Common_DateEnabledCheckbox" = "Dátum megmutatása";
+
+/* (No Comment) */
+"_Common_DateFont" = "Dátum betűtípusa";
+
+/* (No Comment) */
+"_Common_DateFormatGroupName" = "Dátumformátumok";
+
+/* (No Comment) */
+"_Common_DateFormatStyle" = "Dátumformátum stílusa";
+
+/* (No Comment) */
+"_Common_DateFormatStyle_Full" = "Teljes (Hétfő, 2014 november 17)";
+
+/* (No Comment) */
+"_Common_DateFormatStyle_Long" = "Hosszú (2014 november 17)";
+
+/* (No Comment) */
+"_Common_DateFormatStyle_Medium" = "Médium (2014 Nov 17)";
+
+/* (No Comment) */
+"_Common_DateFormatStyle_Short" = "Rövid (2014/11/17)";
+
+/* (No Comment) */
+"_Common_DateFormatStyleExplanation" = "Adja meg itt, hogy melyik dátumformátum típust akarja használni a dátum átformázásához";
+
+/* (No Comment) */
+"_Common_DateGroupName" = "Dátum";
+
+/* (No Comment) */
+"_Common_DatesGroupName" = "Dátumok";
+
+/* (No Comment) */
+"_Common_DateTextColor" = "Dátum szövegszín";
+
+/* (No Comment) */
+"_Common_DateTextColoringMode" = "Dátumszínezés";
+
+/* (No Comment) */
+"_Common_DescendantGenerationsSlider" = "Utódgenerációk";
+
+/* (No Comment) */
+"_Common_DisplayValuesGroupName" = "Értékek";
+
+/* (No Comment) */
+"_Common_DistributeToAllPagesButton" = "Méretezze az objektumokat úgy, hogy minden oladlra passzoljanak";
+
+/* (No Comment) */
+"_Common_EdgeHeight" = "Él magasság";
+
+/* (No Comment) */
+"_Common_EdgeRadius" = "Él rádiusz";
+
+/* (No Comment) */
+"_Common_EmphasizedGroupBackgroundFill" = "Kiemelt csoport háttérszíne";
+
+/* (No Comment) */
+"_Common_EnabledPersonGroupIdentifiers" = "Személycsoportok";
+
+/* (No Comment) */
+"_Common_EndGenerationScale" = "Generációs vég skála";
+
+/* (No Comment) */
+"_Common_EndGenerationScaleExplanation" = "Megadja, hogyan kell méretezni a véggenerciót a kezdő generációhoz képest";
+
+/* (No Comment) */
+"_Common_EvaluateDataFromDate" = "Dátumtól";
+
+/* (No Comment) */
+"_Common_EvaluateDataToDate" = "Dátumig";
+
+/* (No Comment) */
+"_Common_EventsFactsAndAssociateRelationsGroupName" = "Események, tények, és befolyásos kapcsolattípusok";
+
+/* (No Comment) */
+"_Common_EventsGroupName" = "Események";
+
+/* (No Comment) */
+"_Common_FatherGenerationsSlider" = "Apai generációk";
+
+/* (No Comment) */
+"_Common_FillMode" = "Kitöltés mód";
+
+/* (No Comment) */
+"_Common_FillMode_BarAtBottom" = "Alsó sáv";
+
+/* (No Comment) */
+"_Common_FillMode_BarAtTop" = "Felső sáv";
+
+/* (No Comment) */
+"_Common_FillMode_BarAtTopAndBottom" = "Alsó és felső sáv";
+
+/* (No Comment) */
+"_Common_FillMode_DarkBarAtBottom" = "Sötét sáv alúl";
+
+/* (No Comment) */
+"_Common_FillMode_DarkBarAtTop" = "Sötét sáv felűl";
+
+/* (No Comment) */
+"_Common_FillMode_DarkBarAtTopAndBottom" = "Sötét sáv felűl és alúl";
+
+/* (No Comment) */
+"_Common_FillMode_DarkGradientAtBottom" = "Sötét színátmenet alul";
+
+/* (No Comment) */
+"_Common_FillMode_DarkGradientAtRight" = "Sötét színátmenet jobbra";
+
+/* (No Comment) */
+"_Common_FillMode_DarkGradientAtTop" = "Sötét színátmenet felűl";
+
+/* (No Comment) */
+"_Common_FillMode_Flat" = "Lapos";
+
+/* (No Comment) */
+"_Common_FillMode_Glossy" = "Fényes";
+
+/* (No Comment) */
+"_Common_FillMode_LightBarAtBottom" = "Alsó világos sáv";
+
+/* (No Comment) */
+"_Common_FillMode_LightBarAtTop" = "Felső világos sáv";
+
+/* (No Comment) */
+"_Common_FillMode_LightBarAtTopAndBottom" = "Alsó és felső világos sáv";
+
+/* (No Comment) */
+"_Common_FillMode_LightGradientAtBottom" = "Világos színátmenet alul";
+
+/* (No Comment) */
+"_Common_FillMode_LightGradientAtLeft" = "Világos színátmenet balra";
+
+/* (No Comment) */
+"_Common_FillMode_LightGradientAtTop" = "Világos színátmenet felűl";
+
+/* (No Comment) */
+"_Common_FillMode_LightShineAtCenter" = "Világos fény a központban";
+
+/* (No Comment) */
+"_Common_FillMode_None" = "Nincs";
+
+/* (No Comment) */
+"_Common_FillMode_VeryDarkGradientAtBottom" = "Nagyon sötét színátmenet az alsó részen";
+
+/* (No Comment) */
+"_Common_FillMode_VeryDarkGradientAtTop" = "Nagyon sötét színátmenet a felső részen";
+
+/* (No Comment) */
+"_Common_FillMode_VeryLightGradientAtBottom" = "Nagyon világos színátmenet az alsó részen";
+
+/* (No Comment) */
+"_Common_FillMode_VeryLightGradientAtTop" = "Nagyon világos színátmenet a felső részen";
+
+/* (No Comment) */
+"_Common_FloatingSideBar" = "Lebegő oldalsáv";
+
+/* (No Comment) */
+"_Common_Font" = "Betűtípus";
+
+/* (No Comment) */
+"_Common_FontsGroupName" = "Betűtípusok";
+
+/* (No Comment) */
+"_Common_FromDate" = "Dátumtól";
+
+/* (No Comment) */
+"_Common_FullName" = "Teljes név";
+
+/* Group Names */
+"_Common_GeneralGroupName" = "Általános";
+
+/* (No Comment) */
+"_Common_GenerationMarginsSlier" = "Generációs margók";
+
+/* (No Comment) */
+"_Common_GenerationScaleSubGroupName" = "Generációs skála";
+
+/* Control Names */
+"_Common_GenerationsSlider" = "Generációk";
+
+/* (No Comment) */
+"_Common_GenerationsSpacingSlider" = "Generációtávolság";
+
+/* (No Comment) */
+"_Common_GenerationsSpacingSliderExplanation" = "Szabályozza minden generáció személyei közötti távolságot";
+
+/* (No Comment) */
+"_Common_GeometryGroupName" = "Geometria";
+
+/* (No Comment) */
+"_Common_GraphSegmentWidth" = "Grafikonrész szélessége";
+
+/* (No Comment) */
+"_Common_GraphType" = "Grafikon típus";
+
+/* (No Comment) */
+"_Common_GraphType_Bars" = "Sávok";
+
+/* (No Comment) */
+"_Common_GraphType_Lines" = "Vonalak";
+
+/* (No Comment) */
+"_Common_GridGroupName" = "Rács";
+
+/* (No Comment) */
+"_Common_GroupColoringMode" = "Színezésmód csoportosítása";
+
+/* (No Comment) */
+"_Common_GroupingMode" = "Csoportosítási mód";
+
+/* (No Comment) */
+"_Common_GroupInnerPadding" = "Belső kitöltés";
+
+/* (No Comment) */
+"_Common_GroupsGroupName" = "Csoportok";
+
+/* (No Comment) */
+"_Common_HasArrowAtEnd" = "Nyíl a végén";
+
+/* (No Comment) */
+"_Common_HasArrowAtStart" = "Nyíl a kezdetén";
+
+/* (No Comment) */
+"_Common_HasProjectedBirthDate" = "Megjósolt születési dátum";
+
+/* (No Comment) */
+"_Common_HasProjectedDeathDate" = "Megjósolt elhalálozási dátum";
+
+/* (No Comment) */
+"_Common_HidePrivateInformation" = "Privatként kijelölt információk elrejtése";
+
+/* (No Comment) */
+"_Common_HidePrivateInformationExplanation" = "Ezzel az opcióval elrejt a diagramban minden információt, amit a szerkesztési módban privátként jelölt ki";
+
+/* (No Comment) */
+"_Common_HighlightLivingPersons" = "Élő személyek kiemelése";
+
+/* (No Comment) */
+"_Common_HistoryGroupName" = "Világtörténelem";
+
+/* (No Comment) */
+"_Common_HorizontalSpacing" = "Vízszintes távolság";
+
+/* (No Comment) */
+"_Common_IDs" = "Hivatkozási számok";
+
+/* (No Comment) */
+"_Common_ImageAlignment" = "Kép beigazítása";
+
+/* (No Comment) */
+"_Common_ImageHeightFactorSlider" = "Képmagasság";
+
+/* (No Comment) */
+"_Common_ImageMargins" = "Képmargók";
+
+/* (No Comment) */
+"_Common_ImageSpacing" = "Képtávolság";
+
+/* (No Comment) */
+"_Common_IncludePlaceDetail" = "Helyadatok bevonása a helynévbe";
+
+/* (No Comment) */
+"_Common_IndentPartners" = "Partnerek bekezdéssel";
+
+/* Privacy */
+"_Common_InformationHiddenDueToPrivacySettings" = "Adatvédelem miatt elrejtett információ";
+
+/* (No Comment) */
+"_Common_InnerBarMarginsSlider" = "Belső sávmargók";
+
+/* (No Comment) */
+"_Common_InnerBoxMarginsSlider" = "Belső margók";
+
+/* (No Comment) */
+"_Common_ItemMarginsSlider" = "Elem margók";
+
+/* (No Comment) */
+"_Common_ItemSpacingSlider" = "Feladattávolság";
+
+/* (No Comment) */
+"_Common_ItemSpacingSliderExplanation" = "Megadja az egy generációbeli személyek közötti távolságot";
+
+/* (No Comment) */
+"_Common_LabelsGroupName" = "Címkék";
+
+/* (No Comment) */
+"_Common_LeftLineColor" = "Bal vonal színe";
+
+/* (No Comment) */
+"_Common_LeftLineWidth" = "Bal vonal szélessége";
+
+/* (No Comment) */
+"_Common_LineColor" = "Vonalszín";
+
+/* ChartLineDashPatternTypes */
+"_Common_LineDashPatternType" = "Szaggatott vonal";
+
+/* (No Comment) */
+"_Common_LineDashPatternType_Long" = "Hosszú";
+
+/* (No Comment) */
+"_Common_LineDashPatternType_Short" = "Rövid";
+
+/* (No Comment) */
+"_Common_LineDashPatternType_ShortGaps" = "Rövid rések";
+
+/* (No Comment) */
+"_Common_LineDashPatternType_Solid" = "Tömör";
+
+/* (No Comment) */
+"_Common_LineDashPatternType_VeryShort" = "Nagyon rövid";
+
+/* (No Comment) */
+"_Common_LineDistanceFromDestinationObjects" = "Vonal távolság az eredettől a céltól";
+
+/* (No Comment) */
+"_Common_LineDistanceFromOriginObjects" = "Vonal távolság az eredettől";
+
+/* (No Comment) */
+"_Common_LineEndingName" = "Vonalvégek";
+
+/* (No Comment) */
+"_Common_LineGroupName" = "Vonal";
+
+/* (No Comment) */
+"_Common_LinesGroupName" = "Vonalak";
+
+/* (No Comment) */
+"_Common_LineWidth" = "Vonalszélesség";
+
+/* (No Comment) */
+"_Common_Localization" = "Lokalizáció";
+
+/* (No Comment) */
+"_Common_LocalizationAndFormatsGroupName" = "Lokalizáció és formátumok";
+
+/* (No Comment) */
+"_Common_LocalizationExplanation" = "Adja meg ehhez a diagramhoz használni kívánt lokalizációt. Minden személy eseményt, személy tényt vagy családi eseményt és egyéb szöveget a megadott nyelven lokalizál.";
+
+/* (No Comment) */
+"_Common_MarginsGroupName" = "Margók";
+
+/* (No Comment) */
+"_Common_MarkDeadPersons" = "Elhúnyt személyek kijelölése";
+
+/* (No Comment) */
+"_Common_MaximumRecursionDepth" = "Maximális rekurziós mélység";
+
+/* (No Comment) */
+"_Common_MaximumRecursionDepthExplanation" = "Határozza meg, hogy ugyanaz a személy hányszor jelenjen meg a diagramban, mielőtt a kiértékelés véget ér. Ez beírási hibáknál, unokatestvér-házasságnál vagy az incesztuózus kapcsolatnál fordulhat elő.";
+
+/* (No Comment) */
+"_Common_MaximumResults" = "Maximális eredmények";
+
+/* (No Comment) */
+"_Common_MediaGroupName" = "Médium";
+
+/* (No Comment) */
+"_Common_MotherGenerationsSlider" = "Anyai generációk";
+
+/* (No Comment) */
+"_Common_NameAlignment" = "Név beigazítása";
+
+/* (No Comment) */
+"_Common_NameBarColor" = "Névsáv színe";
+
+/* (No Comment) */
+"_Common_NameFont" = "Név betűtípusa";
+
+/* (No Comment) */
+"_Common_NameFormat" = "Személy névformátuma";
+
+/* (No Comment) */
+"_Common_NameFormatExplanation" = "Válassza ki a névformátumot, amelyet minden személy számára használni kíván az adott diagramban.";
+
+/* (No Comment) */
+"_Common_NamesFormatGroupName" = "Névformátumok";
+
+/* (No Comment) */
+"_Common_NameTextColor" = "Név szövegszín";
+
+/* (No Comment) */
+"_Common_NoBackground" = "Nincs háttér";
+
+/* (No Comment) */
+"_Common_NormalGroupBackgroundFill" = "Normál csoport háttérszíne";
+
+/* (No Comment) */
+"_Common_NotesGroupName" = "Jegyzetek";
+
+/* (No Comment) */
+"_Common_OmitEmptyPagesWhenPrintingOrExporting" = "A nyomtatáskor rejtse el az üres oldalakat";
+
+/* Date Ranges */
+"_Common_OnlyEvalulateEntriesInDateRange" = "Csak a dátumtartományban lévő beírásokat értékelje ki";
+
+/* (No Comment) */
+"_Common_OnlyEvalulateEntriesInDateRangeExplanation" = "Ha ezt megadja, akkor csak az ebben a dátumtartományban lévő dátumokat értékeli ki - az összes többi beírást eldobja.";
+
+/* (No Comment) */
+"_Common_OtherFont" = "Más betűtípus";
+
+/* (No Comment) */
+"_Common_OtherTextColor" = "Más szövegszín";
+
+/* (No Comment) */
+"_Common_OverviewGroupName" = "Áttekintés";
+
+/* (No Comment) */
+"_Common_PageOverlapPoints" = "Oldal átfedése";
+
+/* (No Comment) */
+"_Common_PagesCountX" = "Vízszintes oldalak";
+
+/* (No Comment) */
+"_Common_PagesCountY" = "Függőleges oldalak";
+
+/* (No Comment) */
+"_Common_ParentGenerationsSlider" = "Szülőgenerációk";
+
+/* (No Comment) */
+"_Common_PartnerIndentionSlider" = "Partnerképzés";
+
+/* (No Comment) */
+"_Common_PartnerIndentionSliderExplanation" = "Megadja a gyermek és a gyermek partnere közötti távolságot.";
+
+/* (No Comment) */
+"_Common_PartnersGroupName" = "Partnerek";
+
+/* (No Comment) */
+"_Common_PersonGroupsName" = "Személycsoportok";
+
+/* (No Comment) */
+"_Common_PersonsGroupName" = "Személyek";
+
+/* (No Comment) */
+"_Common_PersonWidthSlider" = "Személyek szélessége";
+
+/* (No Comment) */
+"_Common_PlaceFormat" = "Helyformátum";
+
+/* (No Comment) */
+"_Common_PlaceFormatExplanation" = "Adja meg itt, hogy a teljes helynevet vagy csak egy rövidítést jelezzen ki.";
+
+/* (No Comment) */
+"_Common_PlaceholderImageOpacity" = "Helytartó képátlátszatlanság";
+
+/* (No Comment) */
+"_Common_PlacesFormatGroupName" = "Helyformátumok";
+
+/* (No Comment) */
+"_Common_PrintCutMarks" = "Vágójelek nyomtatása";
+
+/* (No Comment) */
+"_Common_PrintPageNumbers" = "Oldalszámok nyomtatása";
+
+/* (No Comment) */
+"_Common_ReformatDatesToSelectedLocale" = "Dátum átformázása";
+
+/* (No Comment) */
+"_Common_ReformatDatesToSelectedLocaleExplanation" = "Ha megengedi, az összes dátum átformázódik, hogy megfeleljen a megadott lokalizációnak";
+
+/* (No Comment) */
+"_Common_ResultsToCollapse" = "Összevonás eredménye";
+
+/* (No Comment) */
+"_Common_RightLineColor" = "Jobb vonal színe";
+
+/* (No Comment) */
+"_Common_RightLineWidth" = "Jobb vonal szélessége";
+
+/* (No Comment) */
+"_Common_Rotation" = "Forgás";
+
+/* (No Comment) */
+"_Common_ScaleAllValuesToRelativeValues" = "Megmutatás relatív értékként";
+
+/* (No Comment) */
+"_Common_ScaleAllValuesToRelativeValuesExplanation" = "Abszolút értékek helyett mutasson relatív értékeket minden adott évre.";
+
+/* (No Comment) */
+"_Common_ScaleBrothersAndSisters" = "Testvérek méretezése";
+
+/* (No Comment) */
+"_Common_ScaleBrothersAndSistersExplanation" = "Ha megengedi, a kezdő személy közvetlen őseinek vagy leszármazottainak testvérei 50% -kal lesznek méretezve";
+
+/* (No Comment) */
+"_Common_ScalingOfBrothersAndSistersSlider" = "Testvérek (fiú és lány) méretezése";
+
+/* (No Comment) */
+"_Common_ShadowAngle" = "Árnyékszög";
+
+/* (No Comment) */
+"_Common_ShadowBlur" = "Árnyékhomály";
+
+/* (No Comment) */
+"_Common_ShadowColor" = "Árnyékszín";
+
+/* (No Comment) */
+"_Common_ShadowColoringFactor" = "Árnyékszínezés";
+
+/* (No Comment) */
+"_Common_ShadowDistance" = "Árnyéktávolság";
+
+/* (No Comment) */
+"_Common_ShadowGroupName" = "Árnyékok";
+
+/* (No Comment) */
+"_Common_ShadowLength" = "Árnyékhosszúság";
+
+/* (No Comment) */
+"_Common_ShadowMode" = "Árnyékmód";
+
+/* (No Comment) */
+"_Common_ShadowMode_Blurry" = "Homályos";
+
+/* (No Comment) */
+"_Common_ShadowMode_Flat" = "Lapos";
+
+/* (No Comment) */
+"_Common_ShadowMode_None" = "Nincs";
+
+/* (No Comment) */
+"_Common_ShadowOpacity" = "Árnyékátláthatóság";
+
+/* (No Comment) */
+"_Common_ShowAncestorsOfPartners" = "A partnerek őseinek megmutatása";
+
+/* (No Comment) */
+"_Common_ShowAncestorsOfPartnersExplanation" = "Ezzel az opciónak az engedélyezésével nem csak a kiválasztott kezdő személy őseit mutatja be, hanem a kezdő személy partnereinek őseit is.";
+
+/* (No Comment) */
+"_Common_ShowAncestralFileNumberID" = "Az ős fájlszám azonosítójának megmutatása";
+
+/* (No Comment) */
+"_Common_ShowBrothersAndSisters" = "Testvérek megmutatása";
+
+/* (No Comment) */
+"_Common_ShowBrothersAndSistersOfAncestors" = "Ősök testvéreinek megmutatása";
+
+/* (No Comment) */
+"_Common_ShowBrothersAndSistersOfStartPerson" = "Kiválasztott személy testvéreinek megmutatása";
+
+/* (No Comment) */
+"_Common_ShowBrothersAndSistersOfStartPersonExplanation" = "Ezzel az opcióval az aktuálisan kiválasztott személy testvéreit is bevonhatja ebbe a diagramba.";
+
+/* (No Comment) */
+"_Common_ShowDisplayValuesOnBars" = "Értékek megmutatása sávokon";
+
+/* (No Comment) */
+"_Common_ShowFamilySearchID" = "FamilySearch ID megmutatása";
+
+/* (No Comment) */
+"_Common_ShowGedcomID" = "GEDCOM ID megmutatása";
+
+/* (No Comment) */
+"_Common_ShowGroupsForPartnerItems" = "Csoportok megmutatása a partnerek számára";
+
+/* (No Comment) */
+"_Common_ShowKinships" = "Rokonságok megmutatása";
+
+/* (No Comment) */
+"_Common_ShowKinshipsExplanation" = "Adja meg, hogy megmutassa-e a kiválasztott kezdő személyhez viszonyított rokonságot minden egyes ebben a diagramban lévő személy számára.";
+
+/* (No Comment) */
+"_Common_ShowLabels" = "Címkék megmutatása";
+
+/* (No Comment) */
+"_Common_ShowNotes" = "Jegyzetek megmutatása";
+
+/* (No Comment) */
+"_Common_ShowNumberingSystem" = "Számozási rendszer megmutatása";
+
+/* (No Comment) */
+"_Common_ShowOnlyBloodlines" = "Csak a közvetlen vérvonalakat kövesse";
+
+/* (No Comment) */
+"_Common_ShowOnlySpecificPersonGroups" = "Csak meghatározott személycsoportok megmutatása";
+
+/* (No Comment) */
+"_Common_ShowOnlySpecificPersonGroupsExplanation" = "Ha megengedi, akkor csak az ezekben a személycsoportokban lévő személyeket lehet látni. Az ezekben a csoportokban nem szereplő személyek a kezdő személy kivételével nem jelennek meg.";
+
+/* (No Comment) */
+"_Common_ShowPartnersOfStartItem" = "Kiválasztott személy partnereinek megmutatása";
+
+/* (No Comment) */
+"_Common_ShowPersonAgeAtEvent" = "Megutatja az személyek életkorát az esemény időpontjában";
+
+/* (No Comment) */
+"_Common_ShowPersonBirthDate" = "Személy születési dátumának megmutatása";
+
+/* (No Comment) */
+"_Common_ShowPersonDeathDate" = "Személy elhalálozási dátumának megmutatása";
+
+/* (No Comment) */
+"_Common_ShowPersonEventCause" = "Személyeseményok megmutatása";
+
+/* (No Comment) */
+"_Common_ShowPersonEventDescription" = "Személyeseményleírás megmutatása";
+
+/* (No Comment) */
+"_Common_ShowPersonEventIcons" = "Személyesemény-icon megmutatása";
+
+/* (No Comment) */
+"_Common_ShowPersonEventLocation" = "Személyesemény földrajzi fekvésének megmutatása";
+
+/* (No Comment) */
+"_Common_ShowPersonImages" = "Személy képének megmutatása";
+
+/* (No Comment) */
+"_Common_ShowReferenceNumber" = "Hivatkozási szám megmutatása";
+
+/* (No Comment) */
+"_Common_SideBarWidthSlider" = "Oldalsávszélesség";
+
+/* (No Comment) */
+"_Common_SpacingGroupName" = "Távolság";
+
+/* (No Comment) */
+"_Common_SpacingSlider" = "Távolság";
+
+/* (No Comment) */
+"_Common_StartAngleSlider" = "Szög megkezdése";
+
+/* (No Comment) */
+"_Common_StartGenerationScale" = "Generációs kezdő skála";
+
+/* (No Comment) */
+"_Common_StartGenerationScaleExpanation" = "Megadja, hogyan kell méretezni a kezdő generációt a véggenerációhoz képest";
+
+/* (No Comment) */
+"_Common_StrokeGroupName" = "Váz";
+
+/* (No Comment) */
+"_Common_StyleGroupName" = "Stílus";
+
+/* (No Comment) */
+"_Common_SubTitle" = "Alcím";
+
+/* (No Comment) */
+"_Common_SubTitleColor" = "Alcím színe";
+
+/* (No Comment) */
+"_Common_SubTitleCustomTextColor" = "Saját alcím-szín";
+
+/* (No Comment) */
+"_Common_SubTitleEnabledCheckbox" = "Alcím megmutatása";
+
+/* (No Comment) */
+"_Common_SubTitleFont" = "Alcím betűtípusa";
+
+/* (No Comment) */
+"_Common_SubTitleGroupName" = "Alcím";
+
+/* (No Comment) */
+"_Common_SubTitleTextColoringMode" = "Alcím szénezés";
+
+/* (No Comment) */
+"_Common_TextColor" = "Szövegszín";
+
+/* (No Comment) */
+"_Common_TextColoringMode" = "Szövegszínezés";
+
+/* (No Comment) */
+"_Common_TextColoringMode_ByGenerationRainbow" = "Generációk szerint (szivárvány)";
+
+/* (No Comment) */
+"_Common_TextColoringMode_ContrastToBackgroundColor" = "Kontraszt a háttérrel";
+
+/* (No Comment) */
+"_Common_TextColoringMode_ContrastToBackgroundColorTinted" = "Színezett kontraszt a háttérrel";
+
+/* (No Comment) */
+"_Common_TextColoringMode_Custom" = "Saját";
+
+/* (No Comment) */
+"_Common_TextColoringMode_Gender" = "Nemek szerint";
+
+/* (No Comment) */
+"_Common_TextGroupName" = "Szöveg";
+
+/* (No Comment) */
+"_Common_ThemeGroupName" = "Sablonok";
+
+/* (No Comment) */
+"_Common_Title" = "Titulus";
+
+/* (No Comment) */
+"_Common_TitleColor" = "Címszín";
+
+/* (No Comment) */
+"_Common_TitleCustomTextColor" = "Saját cím-szín";
+
+/* (No Comment) */
+"_Common_TitleEnabledCheckbox" = "Cím megmutatása";
+
+/* (No Comment) */
+"_Common_TitleFont" = "Cím betűtípusa";
+
+/* (No Comment) */
+"_Common_TitleGroupName" = "Titulus";
+
+/* (No Comment) */
+"_Common_TitleImageMode" = "Címkép";
+
+/* (No Comment) */
+"_Common_TitleTextColoringMode" = "Címszínezés";
+
+/* (No Comment) */
+"_Common_ToDate" = "Dátumig";
+
+/* (No Comment) */
+"_Common_TopImageHeight" = "Felső képmagasság";
+
+/* (No Comment) */
+"_Common_TopLineColor" = "Felső vonal színe";
+
+/* (No Comment) */
+"_Common_TopLineWidth" = "Felső vonal szélessége";
+
+/* (No Comment) */
+"_Common_TopMarginSlider" = "Felső margó";
+
+/* (No Comment) */
+"_Common_TotalAngleSlider" = "Teljes szög";
+
+/* (No Comment) */
+"_Common_TypeFont" = "Típus betűtípusa";
+
+/* (No Comment) */
+"_Common_TypeTextColor" = "Típus szövegszín";
+
+/* (No Comment) */
+"_Common_UniformColor" = "Egyenletes szín";
+
+/* (No Comment) */
+"_Common_UniformColorForColoringModeExplanation" = "Ha a színezés mód beállitásból az \"Egyenletes szín\"-t választja ki, egyenletes színt adhat meg minden személynek.";
+
+/* (No Comment) */
+"_Common_VerticalSpacing" = "Függőleges távolság";
+
+/* (No Comment) */
+"_Common_WidthPerYearSlider" = "Éves szélesség";
+
+/* (No Comment) */
+"_Common_XAxisLabel" = "X tengely címke";
+
+/* (No Comment) */
+"_Common_XAxisLabelColor" = "X tengely címkeszín";
+
+/* (No Comment) */
+"_Common_XAxisLabelFont" = "X tengely címke betűtípusa";
+
+/* (No Comment) */
+"_Common_XAxisLineColor" = "X tengely vonalszín";
+
+/* (No Comment) */
+"_Common_XLineLabelColor" = "X vonal címkeszín";
+
+/* (No Comment) */
+"_Common_XLineLabelFont" = "X vonal címke betűtípusa";
+
+/* (No Comment) */
+"_Common_XLinesWidth" = "X vonalszélesség";
+
+/* (No Comment) */
+"_Common_XScale" = "Szélesség méretezése";
+
+/* (No Comment) */
+"_Common_YAxisLabel" = "X tengely címke";
+
+/* (No Comment) */
+"_Common_YAxisLabelColor" = "X tengely címkeszín";
+
+/* (No Comment) */
+"_Common_YAxisLabelFont" = "Y tengely címke betűtípusaa";
+
+/* (No Comment) */
+"_Common_YAxisLineColor" = "Y tengely címkeszín";
+
+/* (No Comment) */
+"_Common_YLineLabelColor" = "Y vonal címke színe";
+
+/* (No Comment) */
+"_Common_YLineLabelFont" = "Y vonal címke betűtípusa";
+
+/* (No Comment) */
+"_Common_YLinesWidth" = "Y vonal szélessége";
+
+/* (No Comment) */
+"_Common_YScale" = "Magasság méretezése";
+
+/* DistributionChartBuilder */
+"_DistributionChartBuilder_DistributionType" = "Eloszlástípus";
+
+/* (No Comment) */
+"_DistributionChartBuilder_DistributionTypeExplanation" = "Adja meg, hogy milyen típusú eloszlási diagramot szeretne létrehozni a családfája adataiból.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_BirthCountry" = "Születési országok eloszlása";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_BirthCountry_Description" = "A születési országok a családfájában megmutatják, hol születtek a személyek.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_BirthPlace" = "Születési helyek eloszlása";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_BirthPlace_Description" = "A születési helyek a családfájában megmutatják, hol születtek a személyek.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_DeathCountry" = "Az elhalálozási országok eloszlása";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_DeathCountry_Description" = "A elhalálozási országok az Ön családfájában megmutatják, hogy hol haltak meg a személyek.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_DeathPlace" = "Az elhalálozási helyek eloszlása";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_DeathPlace_Description" = "Az elhalálozási helyek az Ön családfájában megmutatják, hogy hol haltak meg személyek.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_EventValues_Illnesses" = "Betegségek eloszlása";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_EventValues_Illnesses_Description" = "Nézze meg, milyen betegségeket írtak be a családfa személyeihez.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_EventValues_Occupations" = "Foglalkozások eloszlása";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_EventValues_Occupations_Description" = "Melyik években milyen munkát végeztek az Ön családjába tartozó személyek?";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_CasteName" = "Kasztnevek eloszlása";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_CasteName_Description" = "Általánosan használt kasztnevek évek szerint.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_EyeColor" = "Szemszínek eloszlása";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_EyeColor_Description" = "Melyik évben milyen szemszín volt a legelterjedtebb a családfájában?";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_NationalOrTribalOrigin" = "Nemzeti vagy törzsi származás eloszlása";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_NationalOrTribalOrigin_Description" = "Nemzeti vagy törzsi származás eloszlása, személytény, évek szerint";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_Race" = "Etnikai származás eloszlása";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_Race_Description" = "Etnikai származás eloszlása a családfában évek szerint";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_SkinColor" = "Bőrszínek eloszlása";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Facts_SkinColor_Description" = "Melyik volt a gyakori bőrszín a családfájában a múltban?";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_FirstName" = "Keresztnevek eloszlása";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_FirstName_Description" = "Keresztnevek használata a családfában évente.";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Gender" = "Nemek eloszlása";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_Gender_Description" = "Nemek eloszlása a családfában évek szerint";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_LastName" = "Vezetéknevek eloszlása";
+
+/* (No Comment) */
+"_DistributionChartBuilder_Type_LastName_Description" = "Vezetéknevek használata a családfában évente.";
+
+/* (No Comment) */
+"_DistributionValuesBarGeneratorChartCompositorObject_ColoringMode_Custom" = "Saját szín";
+
+/* (No Comment) */
+"_DistributionValuesBarGeneratorChartCompositorObject_ColoringMode_Rainbow" = "Szivárvány";
+
+/* EditorTextGeneratorChartCompositorObject */
+"_EditorTextGeneratorChartCompositorObject_NewTextTitle" = "Új szöveg";
+
+/* (No Comment) */
+"_Error_NoParentsForPersonFoundInFamilyTreeError" = "Nem talált szülőket a kiválasztott személy számára.";
+
+/* Errors */
+"_Error_NoPersonFoundInFamilyTreeError" = "Ebbe a családfába eddig még nem írt be személyeket. Használja a szerkesztés részt a személyek és a családok megadásához a diagram kijelzésére.";
+
+/* (No Comment) */
+"_Error_NoSelectedPersonSetError" = "Nem választott ki személyt ebből a diagramból.";
+
+/* (No Comment) */
+"_Error_NotEnoughDataPresentError" = "A családfában nincs elegendő adat a diagram kijelzéséhez.";
+
+/* (No Comment) */
+"_FanChartBuilder_ExpandVerySmallFanItemsIfPossible" = "Ha lehet, nagyítsa ki a kis legyezőrészeket";
+
+/* (No Comment) */
+"_FanChartBuilder_ExpandVerySmallFanItemsIfPossibleExplanation" = "Ha egy legyező-diagramrész nagyon kicsi, akkor ez bővíthető a felérendelt legyező-diagram szegmens határain túl, ha van erre elég hely.";
+
+/* FanChartBuilder */
+"_FanChartBuilder_Mode" = "Mód";
+
+/* (No Comment) */
+"_FanChartBuilder_Mode_Ancestors" = "Ősök";
+
+/* (No Comment) */
+"_FanChartBuilder_Mode_Descendants" = "Utódok";
+
+/* (No Comment) */
+"_FanChartBuilder_ModeExplanation" = "Adja meg itt, hogy a legyeződiagram a kiválasztott személy őseit vagy leszármazottjait jelezze ki";
+
+/* Genogram */
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventPosition" = "Események és tények pozíciója";
+
+/* (No Comment) */
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventPosition_Right" = "Jobbra";
+
+/* (No Comment) */
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventsBackground" = "Események és tények háttere";
+
+/* (No Comment) */
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventsBackground_Filled" = "Kitöltött";
+
+/* (No Comment) */
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventsBackground_None" = "Nincs";
+
+/* (No Comment) */
+"_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventsPosition_Below" = "Alúl";
+
+/* GridChartObject */
+"_GridGeneratorChartCompositorObjectConfiguration_ColorMode" = "Színezésmód";
+
+/* (No Comment) */
+"_GridGeneratorChartCompositorObjectConfiguration_ColorMode_ContrastToBackground" = "Kontraszt a háttérrel";
+
+/* (No Comment) */
+"_GridGeneratorChartCompositorObjectConfiguration_ColorMode_Custom" = "Saját";
+
+/* (No Comment) */
+"_RelationshipChartBuilder_NoRelationError" = "A kiválasztott személyek között nem lehetett rokonságot megállapítani";
+
+/* (No Comment) */
+"_RelationshipChartBuilder_PathIsBloodline" = "Vérvonal";
+
+/* (No Comment) */
+"_RelationshipChartBuilder_PathIsNotBloodline" = "Nincs vérvonal";
+
+/* (No Comment) */
+"_RelationshipChartBuilder_PathWithNStepsIsIsNotBloodline" = "Útvonal %ld lépéssel (%@)";
+
+/* RelationshipChartBuilder */
+"_RelationshipChartBuilder_SelectDifferentPersonsError" = "Válasszon ki két különböző személyt a rokonság-diagram létrehoozásához";
+
+/* (No Comment) */
+"_RelationshipChartBuilder_SelectedRelationshipPath" = "Rendelkezésre álló rokonsági útvonlak";
+
+/* (No Comment) */
+"_RelationshipChartBuilder_SelectedRelationshipPathExplanation" = "Ha több út van a kezdő és a célszemély között a családfájában, akkor itt kiválaszthatja a különböző lehetséges utakat.";
+
+/* SegmentedPortraitPersonBuilderItemGeneratorChartCompositorObjectConfiguration_BarStyle */
+"_SegmentedPortraitPersonBuilderItemGeneratorChartCompositorObjectConfiguration_BarStyle_Arrow" = "Nyíl";
+
+/* (No Comment) */
+"_SegmentedPortraitPersonBuilderItemGeneratorChartCompositorObjectConfiguration_BarStyle_Diagonal" = "Átlós";
+
+/* (No Comment) */
+"_SegmentedPortraitPersonBuilderItemGeneratorChartCompositorObjectConfiguration_BarStyle_Round" = "Kerek";
+
+/* (No Comment) */
+"_SegmentedPortraitPersonBuilderItemGeneratorChartCompositorObjectConfiguration_BarStyle_Wave" = "Hullám";
+
+/* _SideBarPersonBuilderItemGeneratorChartCompositorObject */
+"_SideBarPersonBuilderItemGeneratorChartCompositorObject_SideBarPosition" = "Oldalsávpozíció";
+
+/* (No Comment) */
+"_SideBarPersonBuilderItemGeneratorChartCompositorObject_SideBarPosition_Bottom" = "Alsó";
+
+/* (No Comment) */
+"_SideBarPersonBuilderItemGeneratorChartCompositorObject_SideBarPosition_Left" = "Balra";
+
+/* (No Comment) */
+"_SideBarPersonBuilderItemGeneratorChartCompositorObject_SideBarPosition_Right" = "Jobbra";
+
+/* (No Comment) */
+"_SideBarPersonBuilderItemGeneratorChartCompositorObject_SideBarPosition_Top" = "Top";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_AssociatedPersonsSpacing" = "Befolyásos személyek távolsága";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_AssociatedPersonsSpacingExplanation" = "Adja meg itt a személyek és a befolyásos személyek közötti távolságot.";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowAssociateRelationsOfChildren" = "Gyermekek befolyásos személyeinek megmutatása";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowAssociateRelationsOfParents" = "Szülők befolyásos személyeinek megmutatása";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowAssociateRelationsOfPartners" = "Partnerek befolyásos személyeinek megmutatása";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowAssociateRelationsOfStartPerson" = "Kezdő személy befolyásos személyeinek megmutatása";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowChildren" = "Gyermekek megmutatása";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowGrandparents" = "Nagyszülők mutatása";
+
+/* SociogramChartBuilderConfiguration */
+"_SociogramChartBuilderConfiguration_ShowParents" = "Szülők megmutatása";
+
+/* (No Comment) */
+"_SociogramChartBuilderConfiguration_ShowPartners" = "Partnerek megmutatása";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_AgeAxisLabel" = "Kor";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_ChildsAxisLabel" = "Gyermekek";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_CountAxisLabel" = "Szám";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_CountryAxisLabel" = "Ország";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_DivorcesAxisLabel" = "Válások";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_EventOrFactAxisLabel" = "Esemény vagy tény";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_FactValueAxisLabel" = "Tényérték";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_FamiliesAxisLabel" = "Családok";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_GenderAxisLabel" = "Neme";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_MarriagesAxisLabel" = "Házasságok";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_MonthAxisLabel" = "Hónap";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_PersonFirstNamesAxisLabel" = "Személy keresztnevei";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_PersonLastNamesAxisLabel" = "Személy vezetéknevei";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_PersonsAxisLabel" = "Személyek";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_PersonTitleAxisLabel" = "Személytitulusok";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_PlaceAxisLabel" = "Hely";
+
+/* StatisticsChartBuilder */
+"_StatisticsChartBuilder_StatisticsType" = "Statisztikatípus";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_StatisticsTypeExplanation" = "Adja meg itt, hogy milyen típusú statisztikát szeretne létrehozni a családfa adataiból.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtChristening" = "Kor a kereszteléskor";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtChristening_Description" = "Személyek életkora a keresztelőjük időpontjában.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtDeath" = "Elhalálozási kor";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtDeath_Description" = "Megmutatja, hogy mennyi ideig éltek a családfában lévő személyek";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtDivorce" = "Kor a váláskor";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtDivorce_Description" = "Kijelzi azt a diagramot, amiben a személyek életkora látható válásuk időpontjában.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtMarriage" = "Kor házasságkötéskor";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtMarriage_Description" = "Statisztika arról, hány évesen kötöttek házasságot a családfában lévő személyek.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtRetirement" = "Kor nyugdíjazáskor";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeAtRetirement_Description" = "Megmutatja, hogy milyen korban mentek nyugdíjba a családfájában levő személyek.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeOfChildAtParentsDeath" = "Gyermek kora szülők elhalálozásakor";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeOfChildAtParentsDeath_Description" = "Hány évesek voltak a gyermekek a családfájában, amikor elvesztették az anyjukat vagy az apjukat?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeOfParentsAtBirthOfChild" = "Szülők életkora a gyermek születésekor";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeOfParentsAtBirthOfChild_Description" = "Kiszámítja a szülők korát, amikor a gyermekeik születtek.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeOfPersonAtDeathOfPartner" = "Személy kora partner elhalálozásakor";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_AgeOfPersonAtDeathOfPartner_Description" = "Statisztika arról, hány évesek volt a családfában lévő személyek, amikor meghalt a partnerük.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_BirthMonth" = "Születési hónap";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_BirthMonth_Description" = "Melyik hónapban született a legtöbb személy?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_ChildsPerFamily" = "Gyermekek családonként";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_ChildsPerFamily_Description" = "Gyermekek száma családonként a családfájában.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_ConclusionTypes" = "Esemény- vagy ténytípus";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_ConclusionTypes_Description" = "A leggyakoribb eseménytípusok vagy tények statisztikája.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_DeathMonth" = "Elhalálozási hónap";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_DeathMonth_Description" = "Azok a hónapok, amelyekben elhúnytak a családfájában lévő személyek.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_DivorceMonth" = "Válási hónap";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_DivorceMonth_Description" = "Azok a hónapok, amelyekben elváltak a családfájában lévő személyek.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_CasteName" = "Tények: kasztnév";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_CasteName_Description" = "Melyik a leggyakoribb kaszt a családfájában?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_EyeColor" = "Tények: szemszín";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_EyeColor_Description" = "Statisztikák a családfában lévő személyek szemszínéről.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_NationalOrTribalOrigin" = "Tények: Nemzeti vagy törzsi származás";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_NationalOrTribalOrigin_Description" = "A családfájában lévő személyek leggyakoribb nemzeti vagy törzsi származása.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_Race" = "Tények: etnikai származás";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_Race_Description" = "Statisztikák a családfában lévő személyek etnikai származásától.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_SkinColor" = "Tény: bőrszín";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Facts;_PersonFact_SkinColor_Description" = "Statisztikák a családfában lévő személyek bőrszínéről.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_FirstNames" = "Keresztnév elosztása";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_FirstNames_Description" = "A családfában általánosan használt összes keresztnév.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Gender" = "Neme";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Gender_Description" = "Nemek eloszlása a családfájában";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_LastNames" = "Vezetéknéveloszlás";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_LastNames_Description" = "A családfájában használt leggyakoribb vezetéknevek.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_MarriageMonth" = "Házasságkötési hónap";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_MarriageMonth_Description" = "Melyik hónapot választották az emberek általában házasságkötésre?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_FamilyEvent_Marriage;topLevelGroupingLocationString" = "Házasságkötési ország";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_FamilyEvent_Marriage;topLevelGroupingLocationString_Description" = "Az országok, ahol a rokonai házasságot kötöttek.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_FamilyEvent_Marriage;veryShortLocationString" = "Házasságkötési hely";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_FamilyEvent_Marriage;veryShortLocationString_Description" = "Melyik városban vagy helyen kötöttek házasságot a családfájában szereplő személyek?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Birth;topLevelGroupingLocationString" = "Születési ország";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Birth;topLevelGroupingLocationString_Description" = "Minden személy származási országa.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Birth;veryShortLocationString" = "Születési hely";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Birth;veryShortLocationString_Description" = "Melyik városból származik a legtöbb személy a családfáján?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Burial;topLevelGroupingLocationString" = "Temetkezési ország";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Burial;topLevelGroupingLocationString_Description" = "Melyik országban temették el a legtöbb rokonát?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Burial;veryShortLocationString" = "Temetési hely";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Burial;veryShortLocationString_Description" = "A leggyakoribb temetkezési hely a családfájában.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Christening;topLevelGroupingLocationString" = "Keresztelési ország";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Christening;topLevelGroupingLocationString_Description" = "Az ország, ahol a legtöbb rokonát megkeresztelték.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Christening;veryShortLocationString" = "Keresztelési hely";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Christening;veryShortLocationString_Description" = "Melyik városban keresztelték meg a családfájában szereplő személyeket?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Death;topLevelGroupingLocationString" = "Elhalálozási ország";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Death;topLevelGroupingLocationString_Description" = "Statisztikák arról az országról, ahol a családfájában szereplő legtöbb személy meghalt.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Death;veryShortLocationString" = "Elhalálozási hely";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Places;_PersonEvent_Death;veryShortLocationString_Description" = "Város vagy hely, ahol a családfájában szereplő legtöbb személy meghalt.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_TimeBetweenMarriageAndBirthOfChild" = "A házasságkötés és a gyermek születése közötti idő";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_TimeBetweenMarriageAndBirthOfChild_Description" = "Mennyi idő telt el a házasságkötés és a gyermek születése között? A negatív értékek azt jelentik, hogy a gyermek a házasságkötés előtt született.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Titles" = "Címelosztás";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Titles_Description" = "Az összes személy titulusának statisztikája.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Birth" = "Születési év";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Birth_Description" = "Kijelzi, hogy melyik években született meg a legtöbb személy acsaládfájában.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Burial" = "Temetkezési év";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Burial_Description" = "Statisztika arról, hogy mikor temették el a családfában lévő személyeket";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Christening" = "Keresztelési év";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Christening_Description" = "Statisztika arról, melyik évben keresztelték meg a családfában lévő személyeket.";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Death" = "Elhalálozás éve";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_Type_Year;_PersonEvent_Death_Description" = "Melyik évben halálozik el a legtöbb személy a családfájában?";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_YearAxisLabel" = "Év";
+
+/* (No Comment) */
+"_StatisticsChartBuilder_YearsAxisLabel" = "Évek";
+
+/* (No Comment) */
+"_StyleNames_AgeFanChartCompositorStyle" = "Életkor legyező";
+
+/* (No Comment) */
+"_StyleNames_BlackBorderBoxedChartCompositorStyle" = "Fekete szegély";
+
+/* (No Comment) */
+"_StyleNames_BlackBoxedChartCompositorStyle" = "Fekete boxok";
+
+/* (No Comment) */
+"_StyleNames_BlackWhiteFanChartCompositorStyle" = "Fekete/fehér legyező";
+
+/* (No Comment) */
+"_StyleNames_BlueTextChartCompositorStyle" = "Kék szöveg";
+
+/* (No Comment) */
+"_StyleNames_BlueWhiteBoxedChartCompositorStyle" = "Kék fehér boxok";
+
+/* (No Comment) */
+"_StyleNames_ByAgeBoxedChartCompositorStyle" = "Életkor box szerint";
+
+/* (No Comment) */
+"_StyleNames_ByYearFanChartCompositorStyle" = "Év-legyező szerint";
+
+/* (No Comment) */
+"_StyleNames_ByYearGradientFanChartCompositorStyle" = "Év szerinti színátmenet-legyező";
+
+/* (No Comment) */
+"_StyleNames_ComicWhiteBoxedChartCompositorStyle" = "Képregény box";
+
+/* (No Comment) */
+"_StyleNames_DarkBlueSideBarChartCompositorStyle" = "Sötétkék";
+
+/* (No Comment) */
+"_StyleNames_DarkBoxedChartCompositorStyle" = "Éjszaka-boxok";
+
+/* (No Comment) */
+"_StyleNames_DarkBoxedChartCompositorStyle2" = "Éjszaka-boxok 2";
+
+/* (No Comment) */
+"_StyleNames_DarkCardChartCompositorStyle" = "Éjszaka kártyák";
+
+/* (No Comment) */
+"_StyleNames_DarkCircularPersonChartCompositorStyle" = "Sötét kör alakú";
+
+/* (No Comment) */
+"_StyleNames_DarkDistributionChartCompositorStyle" = "Sötét";
+
+/* (No Comment) */
+"_StyleNames_DarkFanChartCompositorStyle" = "Éjszaka legyező";
+
+/* (No Comment) */
+"_StyleNames_DarkFlatBarStatisticsChartCompositorStyle" = "Sötét lapos sávok";
+
+/* (No Comment) */
+"_StyleNames_DarkLinesStatisticsChartCompositorStyle" = "Sötét vonalak";
+
+/* (No Comment) */
+"_StyleNames_DarkNameBarChartCompositorStyle" = "Sötét névsáv";
+
+/* (No Comment) */
+"_StyleNames_DarkPortraitBoxChartCompositorStyle" = "Sötét  portrék";
+
+/* (No Comment) */
+"_StyleNames_DarkTextChartCompositorStyle" = "Sötét szöveg";
+
+/* (No Comment) */
+"_StyleNames_DarkTimelineBarChartCompositorStyle" = "Sötét sávok";
+
+/* (No Comment) */
+"_StyleNames_GenderPennantChartCompositorStyle" = "Nem-jelzőzászló";
+
+/* (No Comment) */
+"_StyleNames_GenderTextChartCompositorStyle" = "Nem-szöveg";
+
+/* (No Comment) */
+"_StyleNames_GreenBlueCardChartCompositorStyle" = "Zöld/kék kártyák";
+
+/* (No Comment) */
+"_StyleNames_GreenBoxedBarChartCompositorStyle" = "Zöld sáv boxok";
+
+/* (No Comment) */
+"_StyleNames_GreenBoxedChartCompositorStyle" = "Zöld boxok";
+
+/* (No Comment) */
+"_StyleNames_LightBarsFanChartCompositorStyle" = "Világos legyezősávok";
+
+/* (No Comment) */
+"_StyleNames_LightBarsFanChartCompositorStyle2" = "Világos legyezősávok 2";
+
+/* Style Names */
+"_StyleNames_LightBoxedChartCompositorStyle" = "Világos boxok";
+
+/* (No Comment) */
+"_StyleNames_LightBoxedChartCompositorStyle2" = "Kerek világos boxok";
+
+/* (No Comment) */
+"_StyleNames_LightBoxedChartCompositorStyle3" = "Nemi boxok";
+
+/* (No Comment) */
+"_StyleNames_LightCardChartCompositorStyle" = "Világos kártyák";
+
+/* (No Comment) */
+"_StyleNames_LightCardChartCompositorStyle2" = "Világos kártyák 2";
+
+/* (No Comment) */
+"_StyleNames_LightCircularPersonChartCompositorStyle" = "Világos kör alakú";
+
+/* (No Comment) */
+"_StyleNames_LightDistributionChartCompositorStyle" = "Színátmenetek";
+
+/* (No Comment) */
+"_StyleNames_LightFanChartCompositorStyle" = "Világos legyező";
+
+/* (No Comment) */
+"_StyleNames_LightFlatBarStatisticsChartCompositorStyle" = "Világos lapos sávok";
+
+/* (No Comment) */
+"_StyleNames_LightGenderFanChartCompositorStyle" = "Világos nemi legyező";
+
+/* (No Comment) */
+"_StyleNames_LightGenderFanChartCompositorStyle2" = "Világos nemi legyező 2";
+
+/* (No Comment) */
+"_StyleNames_LightGenogramChartCompositorStyle" = "Világos genogram";
+
+/* (No Comment) */
+"_StyleNames_LightGenogramChartCompositorStyle2" = "Világos genogram 2";
+
+/* (No Comment) */
+"_StyleNames_LightGenogramChartCompositorStyle3" = "Világos genogram 3";
+
+/* (No Comment) */
+"_StyleNames_LightGenogramChartCompositorStyle4" = "Világos genogram 4";
+
+/* (No Comment) */
+"_StyleNames_LightLinesStatisticsChartCompositorStyle" = "Világos vonalak";
+
+/* (No Comment) */
+"_StyleNames_LightNameBarChartCompositorStyle" = "Világos névsávok";
+
+/* (No Comment) */
+"_StyleNames_LightPortraitBoxChartCompositorStyle" = "Világos portrék";
+
+/* (No Comment) */
+"_StyleNames_LightPortraitBoxOnDarkBackgroundChartCompositorStyle" = "Sötét  portrék 2";
+
+/* (No Comment) */
+"_StyleNames_LightTextChartCompositorStyle" = "Fekete és fehér";
+
+/* (No Comment) */
+"_StyleNames_LightTimelineBackgroundBarChartCompositorStyle" = "Világos háttérsávok";
+
+/* (No Comment) */
+"_StyleNames_LightTimelineBarChartCompositorStyle" = "Világos sávok";
+
+/* (No Comment) */
+"_StyleNames_LightTimelineFromToChartCompositorStyle" = "Világos egyszerű sávok";
+
+/* (No Comment) */
+"_StyleNames_LightTimelineFromToChartCompositorStyle2" = "Világos egyszerű sávok 2";
+
+/* (No Comment) */
+"_StyleNames_MagentaBoxedBarChartCompositorStyle" = "Magenta sáv boxok";
+
+/* (No Comment) */
+"_StyleNames_MagentaSimpleCircleOnDarkBackgroundChartCompositorStyle" = "Magenta körök";
+
+/* (No Comment) */
+"_StyleNames_OrangeCyanCardChartCompositorStyle" = "Narancs/cián kártyák";
+
+/* (No Comment) */
+"_StyleNames_OrangeCyanSimpleCircleOnDarkBackgroundChartCompositorStyle" = "Narancs/cián körök";
+
+/* (No Comment) */
+"_StyleNames_OrganicCircularPersonChartCompositorStyle" = "Szerves kör";
+
+/* (No Comment) */
+"_StyleNames_OrganicOrangeCyanCircularPersonChartCompositorStyle" = "Szerves narancs/cián körök";
+
+/* (No Comment) */
+"_StyleNames_OrganicSimpleCircleChartCompositorStyle" = "Szerves körök";
+
+/* (No Comment) */
+"_StyleNames_PedigreeBoxedBarChartCompositorStyle" = "Rokonsági fokozat sáv boxok";
+
+/* (No Comment) */
+"_StyleNames_PedigreePennantChartCompositorStyle" = "Rokonsági fokozat jelzőzászló";
+
+/* (No Comment) */
+"_StyleNames_PedigreeSideBarChartCompositorStyle" = "Származás színezése a jobb oldali sávval";
+
+/* (No Comment) */
+"_StyleNames_RainbowBoxedBarChartCompositorStyle" = "Szivárvány sáv boxok";
+
+/* (No Comment) */
+"_StyleNames_RainbowPennantChartCompositorStyle" = "Szivárvány jelzőzászló";
+
+/* (No Comment) */
+"_StyleNames_RainbowTextChartCompositorStyle" = "Szivárvány szöveg";
+
+/* (No Comment) */
+"_StyleNames_RedTextChartCompositorStyle" = "Piros szöveg";
+
+/* (No Comment) */
+"_StyleNames_SunsetBoxedBarChartCompositorStyle" = "Napnyugta sáv boxok";
+
+/* (No Comment) */
+"_StyleNames_SunsetBoxedChartCompositorStyle" = "Napnyugta boxok";
+
+/* (No Comment) */
+"_StyleNames_SunsetCardChartCompositorStyle" = "Napnyugta kártyák";
+
+/* (No Comment) */
+"_StyleNames_SunsetCircularPersonChartCompositorStyle" = "Napnyugta kör";
+
+/* (No Comment) */
+"_StyleNames_SunsetDistributionChartCompositorStyle" = "Napnyugta";
+
+/* (No Comment) */
+"_StyleNames_SunsetFanChartCompositorStyle" = "Napnyugta legyező";
+
+/* (No Comment) */
+"_StyleNames_SunsetFlatBarStatisticsChartCompositorStyle" = "Napnyugta lapos sáv";
+
+/* (No Comment) */
+"_StyleNames_TraditionalFanChartCompositorStyle" = "Hagyományos";
+
+/* (No Comment) */
+"_StyleNames_TraditionalGradientFanChartCompositorStyle" = "Hagyományos színátmenetek";
+
+/* (No Comment) */
+"_StyleNames_TypewriterTextChartCompositorStyle" = "Írógép";
+
+/* (No Comment) */
+"_StyleNames_TypewriterTimelineBarChartCompositorStyle" = "Írógép";
+
+/* (No Comment) */
+"_StyleNames_VeryLightPedigreeGradientFanChartCompositorStyle" = "Világos árnyalatok származási legyező";
+
+/* (No Comment) */
+"_StyleNames_VioletCardChartCompositorStyle" = "Lila kártyák";
+
+/* (No Comment) */
+"_StyleNames_WhiteBoxedChartCompositorStyle" = "Fehér boxok";
+
+/* (No Comment) */
+"_StyleNames_WhiteCardChartCompositorStyle" = "Fehér kártyák";
+
+/* (No Comment) */
+"_StyleNamesBlueDiagonalSegmentedPortraitChartCompositorStyle" = "Kék stilizált boxok";
+
+/* (No Comment) */
+"_StyleNamesBluePolaroidChartCompositorStyle" = "Kék polaroidok";
+
+/* (No Comment) */
+"_StyleNamesBottomSideBarChartCompositorStyle" = "Alsó sáv";
+
+/* (No Comment) */
+"_StyleNamesDarkBarPortraitCompositorStyle" = "Leválasztás";
+
+/* (No Comment) */
+"_StyleNamesDarkPolaroidChartCompositorStyle" = "Sötét polaroidok";
+
+/* (No Comment) */
+"_StyleNamesFloatingRainbowSideBarChartCompositorStyle" = "Szivárvány lebegő sáv";
+
+/* (No Comment) */
+"_StyleNamesGenderBarPortraitCompositorStyle" = "Portrék a gender sávban";
+
+/* (No Comment) */
+"_StyleNamesLargeBarPortraitCompositorStyle" = "Nagy sávos portré";
+
+/* (No Comment) */
+"_StyleNamesLightBlueBarPortraitCompositorStyle" = "Világoskéksávos porrék";
+
+/* (No Comment) */
+"_StyleNamesLightWaveSegmentedPortraitChartCompositorStyle" = "Világos stilizált boxok";
+
+/* (No Comment) */
+"_StyleNamesPedigreeBarPortraitCompositorStyle" = "Rokonsági fokozat sáv portré";
+
+/* (No Comment) */
+"_StyleNamesPedigreeRoundSegmentedPortraitChartCompositorStyle" = "Származási kerek stilizált dobozok";
+
+/* (No Comment) */
+"_StyleNamesPedigreeSegmentedPortraitChartCompositorStyle" = "Származási stilizált dobozok";
+
+/* (No Comment) */
+"_StyleNamesRainbowSegmentedPortraitChartCompositorStyle" = "Szivárvány stilizált dobozok";
+
+/* (No Comment) */
+"_StyleNamesRainbowSideBarChartCompositorStyle" = "Szivárvány sávok";
+
+/* (No Comment) */
+"_StyleNamesSimplePolaroidChartCompositorStyle" = "Polaroidok";
+
+/* (No Comment) */
+"_StyleNamesSunsetPolaroidChartCompositorStyle" = "Polaroid napnyugta";
+
+/* (No Comment) */
+"_StyleNamesSunsetSideBarChartCompositorStyle" = "Napnyugta sávok";
+
+/* (No Comment) */
+"_Timeline_GroupingMode_GroupByBirthCountry_SortByDate" = "Csoportosítás születési ország szerint, válogatás dátum szerint";
+
+/* (No Comment) */
+"_Timeline_GroupingMode_GroupByBirthPlace_SortByDate" = "Csoportosítás születési hely szerint, válogatás dátum szerint";
+
+/* (No Comment) */
+"_Timeline_GroupingMode_GroupByDeathCountry_SortByDate" = "Csoportosítás elhalalálozási ország szerint, válogatás dátum szerint";
+
+/* (No Comment) */
+"_Timeline_GroupingMode_GroupByDeathPlace_SortByDate" = "Csoportosítás elhalálozási hely szerint, válogatás dátum szerint";
+
+/* (No Comment) */
+"_Timeline_GroupingMode_GroupByGender_SortByDate" = "Csoportosítás nemek szerint, válogatás dátum szerint";
+
+/* (No Comment) */
+"_Timeline_GroupingMode_GroupByLastName_SortByDate" = "Csoportosítás utónév szerint, válogatás dátum szerint";
+
+/* Timeline */
+"_Timeline_GroupingMode_SortByDate" = "Válogatás dátum szerint";
+
+/* (No Comment) */
+"_TimelineChartBuilder_CollapseAllGroupsForBestFit" = "Csoportok összetolása a jobb helyhasználat érdekében";
+
+/* (No Comment) */
+"_TimelineChartBuilder_CollapseAllGroupsForBestFitExplanation" = "Ha megadja, akkor a csoportokat a legjobb helykihasználással helyezik el, de az ábécé sorrend nem garantált.";
+
+/* (No Comment) */
+"_TimelineChartBuilder_GroupByBirthCountry_NoPlace" = "Ismeretlen születési ország";
+
+/* (No Comment) */
+"_TimelineChartBuilder_GroupByBirthPlace_NoPlace" = "Ismeretlen születési hely";
+
+/* (No Comment) */
+"_TimelineChartBuilder_GroupByDeathCountry_NoPlace" = "Ismeretlen elhalálozási ország";
+
+/* (No Comment) */
+"_TimelineChartBuilder_GroupByDeathPlace_NoPlace" = "Ismeretlen elhalálozási hely";
+
+/* (No Comment) */
+"_TimelineChartBuilder_GroupByLastName_NoLastName" = "Ismeretlen vezetéknév";
+
+/* (No Comment) */
+"_TimelineChartBuilder_HistoryPersons_Key" = "Történelem: híres személyek";
+
+/* (No Comment) */
+"_TitleGeneratorChartCompositorObjectConfiguration_TitleImageMode_FamilyCrest" = "Családi címer";
+
+/* (No Comment) */
+"_TitleGeneratorChartCompositorObjectConfiguration_TitleImageMode_None" = "Nincs";
+
+/* (No Comment) */
+"_TitleGeneratorChartCompositorObjectConfiguration_TitleImageMode_SelectedEntryImage" = "Kiválasztott beírási kép";
+
+/* TreeChartBuilder */
+"_TreeChartBuilder_MainTreePrefix" = "Fő fa";
+
+/* (No Comment) */
+"_TreeChartBuilder_SubTreeAlignment" = "Elkülönített fa igazítása";
+
+/* (No Comment) */
+"_TreeChartBuilder_SubTreeAlignment_ByGeneration" = "Generációk szerint";
+
+/* (No Comment) */
+"_TreeChartBuilder_SubTreeAlignment_ShortestDistanceToOrigin" = "A legrövidebb távolság a származási helyhez";
+
+/* (No Comment) */
+"_TreeChartBuilder_SubTreeAlignmentExplanation" = "Bonyolult helyzetekben egy fát a főfától külön faként kell megjeleníteni. Adja meg itt, hogyan kell elrendezni ezeket az elkülönített fákat.";
+
+/* (No Comment) */
+"_TreeChartBuilder_SubTreePrefix" = "Elkülönített fa";
+

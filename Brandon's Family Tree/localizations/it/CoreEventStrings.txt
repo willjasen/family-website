@@ -1,0 +1,357 @@
+﻿/* (No Comment) */
+"_ConclusionType_AssociateRelations" = "Relazioni influenti";
+
+/* Duplicate Conclusion GEDCOM Tag */
+"_ConclusionType_DuplicateGedcomTag" = "Questa etichetta GEDCOM è già in uso. Scegline una diversa perché le etichette GEDCOM duplicate, possono causare problemi durante l'esportazione di documenti GEDCOM.";
+
+/* (No Comment) */
+"_ConclusionType_FamilyEvents" = "Eventi familiari";
+
+/* (No Comment) */
+"_ConclusionType_IsNotUserCreatedFlag" = "Tipo incorporato";
+
+/* (No Comment) */
+"_ConclusionType_IsUserCreatedFlag" = "Tipo di utente creato";
+
+/* (No Comment) */
+"_ConclusionType_PersonEvents" = "Eventi della persona";
+
+/* (No Comment) */
+"_ConclusionType_PersonEventsFamilyEvents" = "Eventi";
+
+/* (No Comment) */
+"_ConclusionType_PersonEventsFamilyEventsPersonFacts" = "Eventi e fatti";
+
+/* (No Comment) */
+"_ConclusionType_PersonEventsFamilyEventsPersonFactsAssociateRelations" = "Eventi, fatti e relazioni influenti";
+
+/* (No Comment) */
+"_ConclusionType_PersonFacts" = "Fatti della persona";
+
+/* LDS */
+"_Event_LDSNoTemple" = "Nessun tempio";
+
+/* (No Comment) */
+"_FamilyEvent_Annuled" = "Annullamento";
+
+/* (No Comment) */
+"_FamilyEvent_Bann" = "Pubblicazione di matrimonio";
+
+/* (No Comment) */
+"_FamilyEvent_Census" = "Censimento";
+
+/* (No Comment) */
+"_FamilyEvent_Contract" = "Contratto di matrimonio";
+
+/* (No Comment) */
+"_FamilyEvent_Divorce_Filing" = "Archiviazione divorzio";
+
+/* (No Comment) */
+"_FamilyEvent_Divorced" = "Divorzio";
+
+/* (No Comment) */
+"_FamilyEvent_Engagement" = "Fidanzamento";
+
+/* (No Comment) */
+"_FamilyEvent_LDSSpouseSealing" = "Suggellamento LDS al coniuge";
+
+/* (No Comment) */
+"_FamilyEvent_License" = "Attestato di matrimonio";
+
+/* FamilyEvents */
+"_FamilyEvent_Marriage" = "Matrimonio";
+
+/* (No Comment) */
+"_FamilyEvent_MarriageCivil" = "Matrimonio civile";
+
+/* (No Comment) */
+"_FamilyEvent_MarriageReligion" = "Matrimonio religioso";
+
+/* (No Comment) */
+"_FamilyEvent_OtherEvent" = "Altro evento familiare";
+
+/* (No Comment) */
+"_FamilyEvent_Partnership" = "Unione civile";
+
+/* (No Comment) */
+"_FamilyEvent_Separation" = "Separazione";
+
+/* (No Comment) */
+"_FamilyEvent_Settlement" = "Accordo prematrimoniale";
+
+/* (No Comment) */
+"_LDSEventStatus_BIC" = "BIC";
+
+/* LDS Event Status */
+"_LDSEventStatus_Canceled" = "Annullato";
+
+/* (No Comment) */
+"_LDSEventStatus_Child" = "Figlio/a";
+
+/* (No Comment) */
+"_LDSEventStatus_Cleared" = "Pulito";
+
+/* (No Comment) */
+"_LDSEventStatus_Completed" = "Completato";
+
+/* (No Comment) */
+"_LDSEventStatus_DNS" = "Non si qualifica";
+
+/* (No Comment) */
+"_LDSEventStatus_DNS/CAN" = "Non qualificato (CAN)";
+
+/* (No Comment) */
+"_LDSEventStatus_Infant" = "Infante";
+
+/* (No Comment) */
+"_LDSEventStatus_Pre1970" = "Prima del 1970";
+
+/* (No Comment) */
+"_LDSEventStatus_Qualified" = "Qualifica";
+
+/* (No Comment) */
+"_LDSEventStatus_Stillborn" = "Nato morto";
+
+/* (No Comment) */
+"_LDSEventStatus_Submitted" = "Inviato";
+
+/* (No Comment) */
+"_LDSEventStatus_Uncleared" = "Non pulito";
+
+/* PersonEvents */
+"_PersonEvent_Adoption" = "Adozione";
+
+/* (No Comment) */
+"_PersonEvent_AdultChristening" = "Battesimo adulto";
+
+/* (No Comment) */
+"_PersonEvent_Apprenticeship" = "Apprendistato";
+
+/* (No Comment) */
+"_PersonEvent_Baptism" = "Battesimo infantile";
+
+/* (No Comment) */
+"_PersonEvent_BarMitzvah" = "Bar Mitzvah (maturità ebraica maschio)";
+
+/* (No Comment) */
+"_PersonEvent_BasMitzvah" = "Bas Mitzvah (maturità ebraica femmina)";
+
+/* (No Comment) */
+"_PersonEvent_Birth" = "Nascita";
+
+/* (No Comment) */
+"_PersonEvent_Blessing" = "Benedizione";
+
+/* (No Comment) */
+"_PersonEvent_Burial" = "Sepoltura";
+
+/* (No Comment) */
+"_PersonEvent_Census" = "Censimento";
+
+/* (No Comment) */
+"_PersonEvent_Christening" = "Battesimo";
+
+/* (No Comment) */
+"_PersonEvent_Circumcision" = "Circoncisione";
+
+/* (No Comment) */
+"_PersonEvent_Confirmation" = "Cresima";
+
+/* (No Comment) */
+"_PersonEvent_Cremation" = "Cremazione";
+
+/* (No Comment) */
+"_PersonEvent_Death" = "Decesso";
+
+/* (No Comment) */
+"_PersonEvent_Deed" = "Documento/Attestato";
+
+/* (No Comment) */
+"_PersonEvent_Education" = "Educazione formale ed addestramento";
+
+/* (No Comment) */
+"_PersonEvent_Emigration" = "Emigrazione";
+
+/* (No Comment) */
+"_PersonEvent_Excommunication" = "Scomunicazione";
+
+/* (No Comment) */
+"_PersonEvent_FirstCommunion" = "Prima comunione";
+
+/* (No Comment) */
+"_PersonEvent_FosterChild" = "Figlio/a adottivo/a";
+
+/* (No Comment) */
+"_PersonEvent_Funeral" = "Funerale";
+
+/* (No Comment) */
+"_PersonEvent_GenericEvent" = "Altro evento personale";
+
+/* (No Comment) */
+"_PersonEvent_Graduation" = "Diploma";
+
+/* (No Comment) */
+"_PersonEvent_Illness" = "Malattia";
+
+/* (No Comment) */
+"_PersonEvent_Immigration" = "Immigrazione";
+
+/* (No Comment) */
+"_PersonEvent_LandTransaction" = "Transazione fondiaria";
+
+/* (No Comment) */
+"_PersonEvent_LDSBaptism" = "Battesimo LDS";
+
+/* (No Comment) */
+"_PersonEvent_LDSChildSealing" = "Suggellamento LDS ai genitori";
+
+/* (No Comment) */
+"_PersonEvent_LDSConfirmation" = "Confermazione (LDS)";
+
+/* (No Comment) */
+"_PersonEvent_LDSEndowment" = "Investitura (LDS)";
+
+/* (No Comment) */
+"_PersonEvent_LDSInitiatory" = "Iniziazione mormonica";
+
+/* (No Comment) */
+"_PersonEvent_MilitaryAward" = "Premio militare";
+
+/* (No Comment) */
+"_PersonEvent_MilitaryDischarge" = "Congedo militare";
+
+/* (No Comment) */
+"_PersonEvent_MilitaryInduction" = "Induzione militare";
+
+/* (No Comment) */
+"_PersonEvent_MilitaryService" = "Servizio militare";
+
+/* (No Comment) */
+"_PersonEvent_Miscarriage" = "Aborto";
+
+/* (No Comment) */
+"_PersonEvent_Mission" = "Missione";
+
+/* (No Comment) */
+"_PersonEvent_Nationality" = "Nazionalità";
+
+/* (No Comment) */
+"_PersonEvent_Naturalization" = "Naturalizzazione";
+
+/* (No Comment) */
+"_PersonEvent_NickName" = "Nomignolo/Soprannome";
+
+/* (No Comment) */
+"_PersonEvent_NobilityTypeTitle" = "Titolo nobiliare";
+
+/* (No Comment) */
+"_PersonEvent_Occupation" = "Occupazione";
+
+/* (No Comment) */
+"_PersonEvent_Ordination" = "Ordinazione";
+
+/* (No Comment) */
+"_PersonEvent_Probate" = "Cessione dell'eredità";
+
+/* (No Comment) */
+"_PersonEvent_Religion" = "Religione";
+
+/* (No Comment) */
+"_PersonEvent_Residence" = "Luogo di residenza";
+
+/* (No Comment) */
+"_PersonEvent_Retirement" = "Pensionamento";
+
+/* (No Comment) */
+"_PersonEvent_Will" = "Testamento";
+
+/* (No Comment) */
+"_PersonFact_BloodType" = "Tipo del sangue";
+
+/* (No Comment) */
+"_PersonFact_CasteName" = "Casta";
+
+/* (No Comment) */
+"_PersonFact_Clan" = "Clan";
+
+/* (No Comment) */
+"_PersonFact_CustomFamilySearchFactTitle" = "Fatto personalizzato: %@";
+
+/* (No Comment) */
+"_PersonFact_Email" = "Email";
+
+/* (No Comment) */
+"_PersonFact_EyeColor" = "Colore degli occhi";
+
+/* (No Comment) */
+"_PersonFact_HairColor" = "Colore dei capelli";
+
+/* (No Comment) */
+"_PersonFact_Height" = "Altezza";
+
+/* (No Comment) */
+"_PersonFact_Hobby" = "Svago";
+
+/* (No Comment) */
+"_PersonFact_Honors" = "Onorificenze";
+
+/* (No Comment) */
+"_PersonFact_NationalID" = "Numero della carta d'identità";
+
+/* (No Comment) */
+"_PersonFact_NationalOrTribalOrigin" = "Origine tribale o nazionale";
+
+/* (No Comment) */
+"_PersonFact_NoChildren" = "Niente figli";
+
+/* (No Comment) */
+"_PersonFact_NoCoupleRelationships" = "Nessuna relazione di coppia";
+
+/* (No Comment) */
+"_PersonFact_Phone" = "Numero del telefono";
+
+/* (No Comment) */
+"_PersonFact_PhysicalDescription" = "Descrizione fisica";
+
+/* (No Comment) */
+"_PersonFact_Possession" = "Possedimento";
+
+/* (No Comment) */
+"_PersonFact_Race" = "Origine etnica";
+
+/* (No Comment) */
+"_PersonFact_SkinColor" = "Colore della pelle";
+
+/* Facts */
+"_PersonFact_SocialSecurityNumber" = "Codice fiscale";
+
+/* (No Comment) */
+"_PersonFact_TribeName" = "Tribù";
+
+/* (No Comment) */
+"_PersonFact_Weight" = "Peso";
+
+/* (No Comment) */
+"ConclusionAdditionalNameType_Unnamed" = "Tipo del nome aggiuntivo senza nome";
+
+/* (No Comment) */
+"ConclusionAssociateRelationType_Unnamed" = "Tipo di relazione influente senza nome";
+
+/* (No Comment) */
+"ConclusionFamilyEventType_Unnamed" = "Tipo dell'evento della famiglia senza nome";
+
+/* Conclusion Types */
+"ConclusionPersonEventType_Unnamed" = "Tipo dell'evento della persona senza nome";
+
+/* (No Comment) */
+"ConclusionPersonFactType_Unnamed" = "Tipo del fatto della persona senza nome";
+
+/* (No Comment) */
+"ConclusionToDoPriorityType_Unnamed" = "Tipo di priorità dell'attività senza nome";
+
+/* (No Comment) */
+"ConclusionToDoStatusType_Unnamed" = "Tipo di status dell'attività senza nome";
+
+/* (No Comment) */
+"ConclusionToDoTypeType_Unnamed" = "Tipo di attività senza nome";
+

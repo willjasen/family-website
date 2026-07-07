@@ -1,0 +1,318 @@
+﻿/* (No Comment) */
+"_EditPlaceTemplateKeysController_MergeTemplateKeysConflictInformative" = "Você está prestes a mesclar o campo de local '%@' com o campo de local '%@', mas em alguns locais da sua árvore genealógica, ambos os campos de local estão presentes em um único local. Escolha como proceder para esses locais:";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_MergeTemplateKeysConflictKeepBoth" = "Manter ambos os valores";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_MergeTemplateKeysConflictKeepSingle" = "Manter o valor de %@";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_MergeTemplateKeysConflictMessage" = "Mesclar campos de local";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_MergeTemplateKeysDoneInformative" = "O campo de local '%@' foi mesclado com o campo de local '%@'";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_MergeTemplateKeysDoneMessage" = "Campos de local mesclados";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_ReallyMergeTemplateKeysInformative" = "Você realmente deseja mesclar os campos de modelo '%@' e '%@'? Depois disso, eles se tornam um único campo de modelo.";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_ReallyMergeTemplateKeysMessage" = "Realmente mesclar campos de modelo?";
+
+/* (No Comment) */
+"_EditPlaceTemplateKeysController_RemoveTemplateKeyInformative" = "Você realmente deseja apagar o campo de modelo selecionado? Ainda há informações inseridas para este campo de modelo que serão permanentemente apagadas.";
+
+/* EditPlaceTemplateKeysController */
+"_EditPlaceTemplateKeysController_RemoveTemplateKeyMessage" = "Realmente apagar o campo de modelo? Todos os campos de locais serão apagados permanentemente.";
+
+/* (No Comment) */
+"_EditPlaceTemplatesController_MergeTemplateDoneMessage" = "Modelos de local mesclados";
+
+/* (No Comment) */
+"_EditPlaceTemplatesController_MergeTemplatesDoneInformative" = "Os modelos de local '%@' e '%@' foram mesclados com sucesso.";
+
+/* (No Comment) */
+"_EditPlaceTemplatesController_ReallyMergeTemplateInformative" = "Você realmente deseja mesclar os modelos '%@' e '%@'? Depois disso, eles se tornam um único modelo.";
+
+/* (No Comment) */
+"_EditPlaceTemplatesController_ReallyMergeTemplateMessage" = "Realmente mesclar modelos?";
+
+/* (No Comment) */
+"_EditPlaceTemplatesController_RemoveTemplateInformative" = "Você deseja realmente apagar este modelo de local? Há locais anexados a este modelo que também serão apagados permanentemente se você apagar este modelo de local.";
+
+/* EditPlaceTemplatesController */
+"_EditPlaceTemplatesController_RemoveTemplateMessage" = "Realmente apagar modelo de local? Todos os locais anexados serão apagados permanentemente.";
+
+/* (No Comment) */
+"_PlaceTemplate_PlacesCount" = "%d Locais";
+
+/* Counts */
+"_PlaceTemplate_PlacesCountSingular" = "%d Local";
+
+/* Relation Usage */
+"_RelationUsage_AdministrativeDivision1" = "Divisão administrativa 1";
+
+/* (No Comment) */
+"_RelationUsage_AdministrativeDivision2" = "Divisão administrativa 2";
+
+/* (No Comment) */
+"_RelationUsage_AdministrativeDivision3" = "Divisão administrativa 3";
+
+/* (No Comment) */
+"_RelationUsage_AdministrativeDivision4" = "Divisão administrativa 4";
+
+/* (No Comment) */
+"_RelationUsage_AdministrativeDivision5" = "Divisão administrativa 5";
+
+/* (No Comment) */
+"_RelationUsage_AdministrativeDivisionOther" = "Outra divisão administrativa";
+
+/* (No Comment) */
+"_RelationUsage_CountryName" = "Nome do país";
+
+/* (No Comment) */
+"_RelationUsage_PlaceName" = "Nome do local";
+
+/* (No Comment) */
+"PlaceTemplate_Australia" = "Austrália";
+
+/* (No Comment) */
+"PlaceTemplate_Austria" = "Áustria";
+
+/* (No Comment) */
+"PlaceTemplate_Belgium" = "Bélgica";
+
+/* (No Comment) */
+"PlaceTemplate_Bosnia and Herzegovina" = "Bósnia e Herzegovina";
+
+/* (No Comment) */
+"PlaceTemplate_Brazil" = "Brasil";
+
+/* (No Comment) */
+"PlaceTemplate_Bulgaria" = "Bulgária";
+
+/* (No Comment) */
+"PlaceTemplate_Canada (Province)" = "Canadá (Província)";
+
+/* (No Comment) */
+"PlaceTemplate_Canada (Territory)" = "Canadá (Território)";
+
+/* (No Comment) */
+"PlaceTemplate_China" = "China";
+
+/* (No Comment) */
+"PlaceTemplate_Croatia" = "Croácia";
+
+/* (No Comment) */
+"PlaceTemplate_Czechia" = "República Checa";
+
+/* (No Comment) */
+"PlaceTemplate_Denmark" = "Dinamarca";
+
+/* (No Comment) */
+"PlaceTemplate_England (Borough)" = "Inglaterra (Bairro)";
+
+/* (No Comment) */
+"PlaceTemplate_England (Parish)" = "Inglaterra (Freguesia)";
+
+/* (No Comment) */
+"PlaceTemplate_Finland" = "Finlândia";
+
+/* (No Comment) */
+"PlaceTemplate_France" = "França";
+
+/* Templates */
+"PlaceTemplate_Generic" = "Genérico";
+
+/* (No Comment) */
+"PlaceTemplate_Generic_Level" = "Genérico (%d níveis)";
+
+/* (No Comment) */
+"PlaceTemplate_Generic_OneComponent" = "Genérico (um nível)";
+
+/* (No Comment) */
+"PlaceTemplate_Generic_ThreeComponents" = "Genérico (três níveis)";
+
+/* (No Comment) */
+"PlaceTemplate_Generic_TwoComponents" = "Genérico (dois níveis)";
+
+/* (No Comment) */
+"PlaceTemplate_Germany" = "Alemanha";
+
+/* (No Comment) */
+"PlaceTemplate_Greece" = "Grécia";
+
+/* (No Comment) */
+"PlaceTemplate_Hungary" = "Hungria";
+
+/* (No Comment) */
+"PlaceTemplate_Ireland" = "Irlanda";
+
+/* (No Comment) */
+"PlaceTemplate_Italy" = "Itália";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Administrative Divison" = "Divisão administrativa";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Administrative Unit" = "Unidade administrativa";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Autonomos Region" = "Região autônoma";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Borough" = "Bairro";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Canton" = "Vilarejo";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Commune" = "Comunidade";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Country" = "País";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_County" = "Município";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Decentralized Administration" = "Administração descentralizada";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Department" = "Departamento";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_District" = "Distrito";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Federal District" = "Distrito federal";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Federal Subject" = "Assunto federal";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Kray" = "Kray";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Level" = "Nível %d";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Municipality" = "Municipalidade";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Oblast" = "Observação";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Parish" = "Paróquia";
+
+/* Template Keys */
+"PlaceTemplate_KeyName_Place" = "Local";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Province" = "Província";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Region" = "Região";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Republic" = "República";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_State" = "Estado";
+
+/* (No Comment) */
+"PlaceTemplate_KeyName_Territory" = "Território";
+
+/* (No Comment) */
+"PlaceTemplate_Mexico" = "México";
+
+/* (No Comment) */
+"PlaceTemplate_Netherlands" = "Holanda";
+
+/* (No Comment) */
+"PlaceTemplate_Norway" = "Noruega";
+
+/* (No Comment) */
+"PlaceTemplate_Poland" = "Polônia";
+
+/* (No Comment) */
+"PlaceTemplate_Portugal" = "Portugal";
+
+/* (No Comment) */
+"PlaceTemplate_Romania" = "Romênia";
+
+/* (No Comment) */
+"PlaceTemplate_Russia" = "Rússia";
+
+/* (No Comment) */
+"PlaceTemplate_Serbia" = "Sérvia";
+
+/* (No Comment) */
+"PlaceTemplate_Slovakia" = "Eslováquia";
+
+/* (No Comment) */
+"PlaceTemplate_Slovenia" = "Eslovênia";
+
+/* (No Comment) */
+"PlaceTemplate_Spain" = "Espanha";
+
+/* (No Comment) */
+"PlaceTemplate_Sweden" = "Suécia";
+
+/* (No Comment) */
+"PlaceTemplate_Switzerland" = "Suíça";
+
+/* (No Comment) */
+"PlaceTemplate_United Kingdom" = "Reino Unido";
+
+/* (No Comment) */
+"PlaceTemplate_United States of America" = "Estados Unidos da América";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationBracketMode_AngleBrackets" = "Colchetes angulares";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationBracketMode_Brackets" = "Colchetes redondos";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationBracketMode_CurlyBrackets" = "Colchetes";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationBracketMode_DoubleQuotes" = "Aspas duplas";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationBracketMode_None" = "Nenhum";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationBracketMode_SingleQuotes" = "Aspas simples";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationMode_Normal" = "Normal";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationMode_Short" = "Curto";
+
+/* Enums */
+"PlaceTemplateKeyRelation_CitationMode_VeryShort" = "Muito curto";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationTrailingMode_Colon" = "Dois pontos";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationTrailingMode_Comma" = "Vírgula";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationTrailingMode_Hyphen" = "Hífen";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationTrailingMode_Period" = "Ponto";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationTrailingMode_Semicolon" = "Ponto e vírgula";
+
+/* (No Comment) */
+"PlaceTemplateKeyRelation_CitationTrailingMode_Space" = "Espaço em branco";
+

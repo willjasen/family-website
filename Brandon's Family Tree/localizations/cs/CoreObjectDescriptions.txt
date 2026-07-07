@@ -1,0 +1,1704 @@
+﻿/* (No Comment) */
+"_AdditionalName_ChangeLog_Added" = "Další jméno '%@' bylo přidáno";
+
+/* (No Comment) */
+"_AdditionalName_ChangeLog_ConflictResolved" = "Konflikt vlastnictví '%@' byl vyřešen na '%@'";
+
+/* (No Comment) */
+"_AdditionalName_ChangeLog_Deleted" = "Další jméno '%@' bylo smazáno";
+
+/* (No Comment) */
+"_AdditionalName_ChangeLogPropertyKey_FirstName" = "Křestní jméno osoby '%@' bylo změněno z '%@' na '%@'";
+
+/* (No Comment) */
+"_AdditionalName_ChangeLogPropertyKey_LastName" = "Příjmení osoby '%@' bylo změněno z '%@' na '%@'";
+
+/* (No Comment) */
+"_AdditionalName_ChangeLogPropertyKey_Type" = "Typ dalšího jména byl změněn z '%@' na '%@'";
+
+/* (No Comment) */
+"_BaseMedia_ChangeLog_Added" = "Médium bylo přidánno";
+
+/* (No Comment) */
+"_BaseMedia_ChangeLog_Deleted" = "Médium '%@' bylo smazáno";
+
+/* (No Comment) */
+"_BaseMedia_ChangeLogKey" = "Médium %@";
+
+/* (No Comment) */
+"_BaseMedia_ChangeLogPropertyKey_Date" = "Datum bylo změněno z '%@' na '%@'";
+
+/* (No Comment) */
+"_BaseMedia_ChangeLogPropertyKey_PDFFileIdentifier" = "PDF upraveno";
+
+/* (No Comment) */
+"_BaseMedia_ChangeLogPropertyKey_PictureFileIdentifier" = "Obrázek byl upraven";
+
+/* (No Comment) */
+"_BaseMedia_ChangeLogPropertyKey_Title" = "Nadpis byl změněn z '%@' na '%@'";
+
+/* Base Object Composite Images Modes */
+"_BaseObject_CompositeImages_Mode_None" = "Vždy zobrazit zástupnou ikonu";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_PrimaryImageFromPrimaryMediaContainer" = "Zobrazit hlavní obrázek";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_PrimaryImageFromPrimaryMediaContainerAndConnectedMediaContainers" = "Zobrazit hlavní obrázek získaný také z připojených záznamů";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_UpToSixImagesFromPrimaryMediaContainer" = "Zobrazit až šest obrázků";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_UpToSixImagesFromPrimaryMediaContainerAndConnectedMediaContainers" = "Zobrazit až šest obrázků získaných také z připojených záznamů";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_UpToTenImagesFromPrimaryMediaContainer" = "Zobrazit až deset obrázků";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_UpToTenImagesFromPrimaryMediaContainerAndConnectedMediaContainers" = "Zobrazit až deset obrázků získaných také z připojených záznamů";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_UpToThreeImagesFromPrimaryMediaContainer" = "Zobrazit až tři obrázky";
+
+/* (No Comment) */
+"_BaseObject_CompositeImages_Mode_UpToThreeImagesFromPrimaryMediaContainerAndConnectedMediaContainers" = "Zobrazit až tři obrázky získaných také z připojených záznamů";
+
+/* (No Comment) */
+"_ChangeLog_NoValuePlaceholder" = "Žádná hodnota";
+
+/* Change Log */
+"_ChangeLogEntry_ObjectIsStillPresentTooltip" = "Tento záznam je stále v databázi";
+
+/* (No Comment) */
+"_ChangeLogEntry_ObjectNoLongerPresentTooltip" = "Tento záznam byl z databáze odstraněn a již není k dispozici";
+
+/* (No Comment) */
+"_ChildRelation_ChangeLog_Deleted" = "Potomek '%@' byl odstraněn z rodiny";
+
+/* (No Comment) */
+"_ChildRelation_ChangeLog_Deleted_Child" = "Odebrán jako potomek z rodiny '%@'";
+
+/* (No Comment) */
+"_ChildRelation_ChangeLogPropertyKey_Child" = "Potomek '%@' byl přidán";
+
+/* (No Comment) */
+"_ChildRelation_ChangeLogPropertyKey_Family" = "Přidáno jako potomek do rodiny '%@'";
+
+/* (No Comment) */
+"_ChildRelation_ChangeLogPropertyKey_RelationTypeToManInFamily" = "Typ vztahu dítěte k otci dítěte '%@' změněn z '%@' na  '%@'";
+
+/* (No Comment) */
+"_ChildRelation_ChangeLogPropertyKey_RelationTypeToWomanInFamily" = "Typ vztahu dítěte k matce dítěte '%@' změněn z '%@' na  '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLog_Added" = "Událost '%@' byla přidána";
+
+/* (No Comment) */
+"_Event_ChangeLog_ConflictResolvedForAssignedPlace" = "Konflikt místa události '%@' byl vyřešen na '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLog_ConflictResolvedForAssignedPlaceDetail" = "Konflikt místa události '%@' vyřešen na '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLog_ConflictResolvedForCoordinate" = "Konflikt souřadnic události '%@' byl vyřešen na '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLog_ConflictResolvedForGenericProperty" = "Konflikt vlastnictví '%@' události '%@' byl vyřešen na '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLog_Deleted" = "Událost '%@' byla smazána";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_Address" = "Adresa události '%@' byla změněna z '%@' na '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_Agency" = "Agentura události '%@' byla změněna z '%@' na '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_AssignedPlace" = "Místo události '%@' bylo změněno na '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_AssignedPlaceDetail" = "Detail místa události '%@' změněn na '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_Cause" = "Příčína události '%@' byla změněna z '%@' na '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_Coordinate" = "Souřadnice události '%@' byly změněny na '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_Date" = "Datum události '%@' byl změněn z '%@' na '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_Time" = "Čas události '%@' byl změněn z '%@' na '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_Type" = "Typ události byl změněn z  '%@' na '%@'";
+
+/* (No Comment) */
+"_Event_ChangeLogPropertyKey_UserDescription" = "Popis události '%@' byl změněn z '%@' na '%@'";
+
+/* (No Comment) */
+"_Fact_ChangeLog_Added" = "Fakt '%@' byl přidán";
+
+/* (No Comment) */
+"_Fact_ChangeLog_ConflictResolvedForValue" = "Konflik faktu '%@' byl vyřešen na '%@'";
+
+/* (No Comment) */
+"_Fact_ChangeLog_Deleted" = "Fakt '%@' byl smazán";
+
+/* (No Comment) */
+"_Fact_ChangeLogPropertyKey_Type" = "Typ faktu byl změněn z '%@' na '%@'";
+
+/* (No Comment) */
+"_Fact_ChangeLogPropertyKey_Value" = "Fakt '%@' byl změněn z '%@' na '%@'";
+
+/* (No Comment) */
+"_Family_ChangeLog_Added" = "Rodina byla vytvořena";
+
+/* (No Comment) */
+"_Family_ChangeLog_ConflictResolvedForMan" = "Konflikt přiřazeného muže vyřešen na '%@'";
+
+/* (No Comment) */
+"_Family_ChangeLog_ConflictResolvedForWoman" = "Konflikt přiřazené ženy vyřešen na '%@'";
+
+/* (No Comment) */
+"_Family_ChangeLog_Deleted" = "Rodina byla smazána";
+
+/* (No Comment) */
+"_Family_ChangeLogKey" = "Rodina %@";
+
+/* (No Comment) */
+"_Family_ChangeLogPropertyKey_Man" = "Přidána osoba '%@' jako muž";
+
+/* (No Comment) */
+"_Family_ChangeLogPropertyKey_Woman" = "Přidána osoba '%@' jako žena";
+
+/* (No Comment) */
+"_MediaRelation_ChangeLog_BaseMediaDeleted" = "Médium '%@' bylo odstraněno";
+
+/* (No Comment) */
+"_MediaRelation_ChangeLog_MediaContainerDeleted" = "Položka '%@' byla odstraněna z médií";
+
+/* (No Comment) */
+"_MediaRelation_ChangeLogPropertyKey_BaseMedia" = "Médium '%@' bylo přidáno";
+
+/* (No Comment) */
+"_MediaRelation_ChangeLogPropertyKey_MediaContainer" = "Přidáno jako médium do '%@'";
+
+/* (No Comment) */
+"_ObjectDescription_AdditionalName" = "Další jméno %@ z %@";
+
+/* (No Comment) */
+"_ObjectDescription_AssociateRelation" = "Vztah vlivné osoby %@";
+
+/* (No Comment) */
+"_ObjectDescription_Book" = "Kniha %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookBaseObjectsBasedReportBuilderObject" = "Objekt sekce výkazu %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookBaseObjectsBasedReportBuilderSection" = "Sekce výkazu %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookChapter" = "Kapitola knihy %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookDiagramBaseObject" = "Objekt sekce diagramu";
+
+/* (No Comment) */
+"_ObjectDescription_BookDiagramReportBuilderSection" = "Sekce diagramu %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookFamilyBasedReportBuilderSection" = "Sekce výkazu %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookFamilySection" = "Sekce rodiny %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookGenericReportBuilderSection" = "Sekce výkazu %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookPersonBasedReportBuilderSection" = "Sekce výkazu %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookPersonSection" = "Sekce osoby %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookReportBuilderFamily" = "Rodinná sekce výkazu %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookReportBuilderPerson" = "Osobní sekce výkazu %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookSerializedBaseObjectReportBuilder" = "Konfigurace pro sekci %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookSerializedBaseReportBuilder" = "Konfigurace pro sekci %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookSerializedChapterReportBuilder" = "Konfigurace pro sekci %@";
+
+/* (No Comment) */
+"_ObjectDescription_BookSerializedEditedReportBuilder" = "Konfigurace pro upravenou sekci %@";
+
+/* (No Comment) */
+"_ObjectDescription_ChildRelation" = "Vztah potomka %@ - %@";
+
+/* (No Comment) */
+"_ObjectDescription_ConclusionAdditionalNameType" = "Typ dalšího jména %@";
+
+/* (No Comment) */
+"_ObjectDescription_ConclusionAssociateRelationType" = "Typ vlivného vztahu %@";
+
+/* (No Comment) */
+"_ObjectDescription_ConclusionFamilyEventType" = "Typ události rodiny %@";
+
+/* (No Comment) */
+"_ObjectDescription_ConclusionPersonEventType" = "Typ události osoby %@";
+
+/* (No Comment) */
+"_ObjectDescription_ConclusionPersonFactType" = "Typ faktu osoby %@";
+
+/* (No Comment) */
+"_ObjectDescription_Coordinate" = "Souřadnice místa %@";
+
+/* (No Comment) */
+"_ObjectDescription_DNATestATDNASubResult" = "Výsledek testu atDNA – %@";
+
+/* (No Comment) */
+"_ObjectDescription_DNATestMTDNASubResult" = "Výsledek testu mtDNA – %@";
+
+/* (No Comment) */
+"_ObjectDescription_DNATestMTDNASubResultSNPDifference" = "DNA mtDNA SNP rozdíl %@";
+
+/* (No Comment) */
+"_ObjectDescription_DNATestResult" = "Výsledek testu DNA %@";
+
+/* (No Comment) */
+"_ObjectDescription_DNATestYDNASubResult" = "Výsledek testu Y-DNA – %@";
+
+/* (No Comment) */
+"_ObjectDescription_DNATestYDNASubResultYSTRMarker" = "DNA Y-DNA STR Marker %@";
+
+/* (No Comment) */
+"_ObjectDescription_Family" = "Rodina %@";
+
+/* (No Comment) */
+"_ObjectDescription_FamilyEvent" = "Rodinná událost %@ z %@";
+
+/* (No Comment) */
+"_ObjectDescription_FamilyEvent_PlaceExtension" = "v %@";
+
+/* (No Comment) */
+"_ObjectDescription_FamilySearchKnownBadFurtherInformationMatch" = "Informace FamilySearch %@";
+
+/* (No Comment) */
+"_ObjectDescription_FamilySearchKnownBadPersonMatch" = "Informace FamilySearch %@";
+
+/* (No Comment) */
+"_ObjectDescription_FamilyTreeInformation" = "Informace o autorovi rodokmenu";
+
+/* (No Comment) */
+"_ObjectDescription_Label" = "Štítek %@";
+
+/* (No Comment) */
+"_ObjectDescription_MediaAudio" = "Audio %@ z %@";
+
+/* (No Comment) */
+"_ObjectDescription_MediaPDF" = "PDF %@ z %@";
+
+/* (No Comment) */
+"_ObjectDescription_MediaPicture" = "Fotografie %@ z %@";
+
+/* (No Comment) */
+"_ObjectDescription_MediaRelation" = "Vztah média %@";
+
+/* (No Comment) */
+"_ObjectDescription_MediaRelationAssignment" = "Přiřazení vztahu médií %@";
+
+/* (No Comment) */
+"_ObjectDescription_MediaURL" = "Webová stránka %@ z %@";
+
+/* (No Comment) */
+"_ObjectDescription_MediaVideo" = "Video %@ z %@";
+
+/* (No Comment) */
+"_ObjectDescription_Note" = "Poznámka o %@";
+
+/* Object Descriptions */
+"_ObjectDescription_Person" = "Osoba %@";
+
+/* (No Comment) */
+"_ObjectDescription_PersonEvent" = "Událost %@ z %@";
+
+/* (No Comment) */
+"_ObjectDescription_PersonEvent_PlaceExtension" = "v %@";
+
+/* (No Comment) */
+"_ObjectDescription_PersonFact" = "Fakt %@ z %@";
+
+/* (No Comment) */
+"_ObjectDescription_PersonGroup" = "Skupina osob %@";
+
+/* (No Comment) */
+"_ObjectDescription_Place" = "Místo %@";
+
+/* (No Comment) */
+"_ObjectDescription_PlaceDetail" = "Detail místa %@";
+
+/* (No Comment) */
+"_ObjectDescription_PlaceKeyValue" = "Hodnota místa – %@: %@";
+
+/* (No Comment) */
+"_ObjectDescription_PlaceTemplate" = "Šablona místa %@";
+
+/* (No Comment) */
+"_ObjectDescription_PlaceTemplateKey" = "Pole šablony místa %@";
+
+/* (No Comment) */
+"_ObjectDescription_PlaceTemplateKeyRelation" = "Vztah pole šablony místa %@ – %@";
+
+/* (No Comment) */
+"_ObjectDescription_Scope" = "Dynamický filtr %@";
+
+/* (No Comment) */
+"_ObjectDescription_Source" = "Zdroj %@";
+
+/* (No Comment) */
+"_ObjectDescription_SourceKeyValue" = "Hodnota zdroje – %@: %@";
+
+/* (No Comment) */
+"_ObjectDescription_SourceRelation" = "Citace zdroje - %@ - %@";
+
+/* (No Comment) */
+"_ObjectDescription_SourceTemplate" = "Šablona zdroje %@";
+
+/* (No Comment) */
+"_ObjectDescription_SourceTemplateKey" = "Pole šablony zdroje %@";
+
+/* (No Comment) */
+"_ObjectDescription_SourceTemplateKeyRelation" = "Vztah pole šablony zdroje %@ – %@";
+
+/* (No Comment) */
+"_ObjectDescription_Story" = "Příběh %@";
+
+/* (No Comment) */
+"_ObjectDescription_StorySection" = "Sekce příběhu %@";
+
+/* (No Comment) */
+"_ObjectDescription_ToDo" = "Úkol %@";
+
+/* (No Comment) */
+"_ObjectProperty_AdditionalName_conclusionType" = "Typ";
+
+/* AdditionalName */
+"_ObjectProperty_AdditionalName_firstName" = "Křestní jméno";
+
+/* (No Comment) */
+"_ObjectProperty_AdditionalName_lastName" = "Příjmení";
+
+/* (No Comment) */
+"_ObjectProperty_AdditionalName_nameMiddle" = "Prostřední jméno";
+
+/* (No Comment) */
+"_ObjectProperty_AdditionalName_namePrefix" = "Titul";
+
+/* (No Comment) */
+"_ObjectProperty_AdditionalName_nameSuffix" = "Titul za";
+
+/* (No Comment) */
+"_ObjectProperty_AdditionalName_person" = "Osoba";
+
+/* (No Comment) */
+"_ObjectProperty_AssociateRelation_conclusionType" = "Typ";
+
+/* AssociateRelation */
+"_ObjectProperty_AssociateRelation_date" = "Datum";
+
+/* (No Comment) */
+"_ObjectProperty_BaseMedia_canShowAsMediaForMediaContainer" = "Použít jako úvodní obrázek";
+
+/* (No Comment) */
+"_ObjectProperty_BaseMedia_date" = "Datum";
+
+/* (No Comment) */
+"_ObjectProperty_BaseMedia_isBookmarked" = "Uloženo do záložek";
+
+/* BaseMedia */
+"_ObjectProperty_BaseMedia_title" = "Nadpis";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_ancestralFileNumberID" = "Číslo souboru předka";
+
+/* BaseObject */
+"_ObjectProperty_BaseObject_changeDate" = "Datum změny";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_cloudKitChangeTag" = "Informace změny CloudTree";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_creationDate" = "Datum vytvoření";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_excludedPlausibilityAnalyzerClassNames" = "Informace o analyzátoru nesrovnalostí";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_familySearchID" = "FamilySearch ID";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_gedcomID" = "Gedcom ID";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_isPrivate" = "Označeno jako soukromé";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_referenceNumberID" = "Vlastní referenční číslo";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_researchAssistantCompletedQuestionsMask" = "Informace asistenta výzkumu";
+
+/* (No Comment) */
+"_ObjectProperty_BaseObject_uniqueID" = "Interní unikátní ID";
+
+/* (No Comment) */
+"_ObjectProperty_Book_author" = "Autor";
+
+/* (No Comment) */
+"_ObjectProperty_Book_chapterNumeralType" = "Čísla kapitol";
+
+/* (No Comment) */
+"_ObjectProperty_Book_chaptersOnSeparatePage" = "Kapitoly na samostatných stránkách";
+
+/* (No Comment) */
+"_ObjectProperty_Book_date" = "Datum";
+
+/* (No Comment) */
+"_ObjectProperty_Book_includeCitationsAsDefault" = "Zahrnout citace pro nové výkazy";
+
+/* (No Comment) */
+"_ObjectProperty_Book_languageShouldReformatDates" = "Lokalizované formáty data";
+
+/* (No Comment) */
+"_ObjectProperty_Book_localizationIdentifier" = "Jazyk";
+
+/* (No Comment) */
+"_ObjectProperty_Book_onlyColorizeChapterPages" = "Barvit pouze stránky kapitol";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundChapterNumberColor" = "Barva čísla kapitoly";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundChapterTitleColor" = "Barva nadpisu kapitoly";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundPageNumberAlignment" = "Zarovnání čísla stránky";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundPageNumberColor" = "Barva čísla stránky";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundPageNumberEnabled" = "Čísla stránek povolena";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundPageNumberPosition" = "Umístění čísel stránek";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundRendererStyle" = "Styl hlavičky stránky";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundSectionNumberColor" = "Barva čísla sekce";
+
+/* (No Comment) */
+"_ObjectProperty_Book_pageBackgroundSectionTitleColor" = "Barva nadpisu sekce";
+
+/* (No Comment) */
+"_ObjectProperty_Book_style" = "Styl knihy";
+
+/* (No Comment) */
+"_ObjectProperty_Book_styleFontScaling" = "Měřítko písma";
+
+/* (No Comment) */
+"_ObjectProperty_Book_templateClassName" = "Šablona";
+
+/* (No Comment) */
+"_ObjectProperty_Book_title" = "Nadpis";
+
+/* (No Comment) */
+"_ObjectProperty_Book_useTextualStyleAsDefault" = "Použít textový styl pro nové sestavy";
+
+/* Book */
+"_ObjectProperty_BookBaseItem_order" = "Rejstřík";
+
+/* (No Comment) */
+"_ObjectProperty_BookBaseObjectReportBuilder_baseObjectSection" = "Obsahuje sekci";
+
+/* (No Comment) */
+"_ObjectProperty_BookBaseObjectsBasedReportBuilderObject_baseObject" = "Položka";
+
+/* (No Comment) */
+"_ObjectProperty_BookBaseObjectsBasedReportBuilderObject_baseObjectsBasedReportBuilderSection" = "Sekce";
+
+/* (No Comment) */
+"_ObjectProperty_BookBaseObjectsBasedReportBuilderObject_order" = "Index";
+
+/* (No Comment) */
+"_ObjectProperty_BookBaseSection_alwaysWantsNewPageForItems" = "Pododdíly na nové stránce";
+
+/* (No Comment) */
+"_ObjectProperty_BookBaseSection_bookChapter" = "Obsahuje kapitolu";
+
+/* (No Comment) */
+"_ObjectProperty_BookBaseSection_name" = "Název";
+
+/* (No Comment) */
+"_ObjectProperty_BookChapter_chapterHighlightColor" = "Barva zvýraznění kapitoly";
+
+/* (No Comment) */
+"_ObjectProperty_BookChapter_chapterPageColor" = "Barva stránky kapitoly";
+
+/* (No Comment) */
+"_ObjectProperty_BookChapter_chapterType" = "Typ kapitoly";
+
+/* (No Comment) */
+"_ObjectProperty_BookChapter_name" = "Název kapitoly";
+
+/* (No Comment) */
+"_ObjectProperty_BookDiagramBaseObject_baseObject" = "Položka";
+
+/* (No Comment) */
+"_ObjectProperty_BookDiagramBaseObject_diagramReportBuilderSection" = "Sekce";
+
+/* (No Comment) */
+"_ObjectProperty_BookPersonSection_person" = "Osoba";
+
+/* (No Comment) */
+"_ObjectProperty_BookReportBuilderFamily_family" = "Rodina";
+
+/* (No Comment) */
+"_ObjectProperty_BookReportBuilderFamily_familyBasedReportBuilderSection" = "Sekce";
+
+/* (No Comment) */
+"_ObjectProperty_BookReportBuilderPerson_person" = "Osoba";
+
+/* (No Comment) */
+"_ObjectProperty_BookReportBuilderPerson_personBasedReportBuilderSection" = "Sekce";
+
+/* (No Comment) */
+"_ObjectProperty_BookSerializedBaseReportBuilder_baseItem" = "Sekce výkazu";
+
+/* (No Comment) */
+"_ObjectProperty_BookSerializedReportBuilder_serializedReportBuilderData" = "Konfigurace výkazu";
+
+/* (No Comment) */
+"_ObjectProperty_ChildRelation_child" = "Potomek";
+
+/* (No Comment) */
+"_ObjectProperty_ChildRelation_family" = "Rodina";
+
+/* (No Comment) */
+"_ObjectProperty_ChildRelation_relationTypeToManInFamily" = "Typ vztahu k otci";
+
+/* (No Comment) */
+"_ObjectProperty_ChildRelation_relationTypeToWomanInFamily" = "Typ vztahu k matce";
+
+/* ChildRelation */
+"_ObjectProperty_ChildRelation_type" = "Typ vzahu potomka";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionAssociateRelationType_compatibleAssociatedContainerClassName" = "Typ přiřazení";
+
+/* ConclusionAssociateRelationType */
+"_ObjectProperty_ConclusionAssociateRelationType_invertedTypeName" = "Obrácený název typu";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionAssociateRelationType_invertedTypeName_ForFamily" = "Název typu z pohledu osoby";
+
+/* ConclusionToDoPriorityType */
+"_ObjectProperty_ConclusionToDoPriorityType_isDefault" = "Výchozí";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionToDoStatusType_isDefault" = "Výchozí";
+
+/* ConclusionToDoStatusType */
+"_ObjectProperty_ConclusionToDoStatusType_typeShouldBeConsideredAsDone" = "Mělo by být považováno za „vyřízené\"";
+
+/* ConclusionToDoTypeType */
+"_ObjectProperty_ConclusionToDoTypeType_isDefault" = "Výchozí";
+
+/* ConclusionType */
+"_ObjectProperty_ConclusionType_gedcomTag" = "Značka GEDCOM";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_iconPNGData" = "Ikona";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_identifier" = "Identifikátor";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_isEnabled" = "Povoleno";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_isUserCreated" = "Vytvořeno uživatelem";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_showAsPlaceholder" = "Zobrazit jako zástupce";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_typeName" = "Název typu";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_typeName_ForFamily" = "Název typu z pohledu rodiny";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionType_typeNameLocalizationKey" = "Název lokalizačního klíče";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_generated_coordinate_string" = "Souřadnice";
+
+/* Coordinate */
+"_ObjectProperty_Coordinate_latitude" = "Zeměpisná šířka";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_latitudeDegrees" = "Stupně zeměpisné šířky";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_latitudeIsSouth" = "Orientace zeměpisné šířky";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_latitudeMinutes" = "Minuty zeměpisné šířky";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_latitudeSeconds" = "Vteřiny zeměpisné šířky";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_longitude" = "Zeměpisná délka";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_longitudeDegrees" = "Stupně zeměpisné délky";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_longitudeIsWest" = "Orientace zeměpisné délky";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_longitudeMinutes" = "Minuty zeměpisné délky";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_longitudeSeconds" = "Vteřiny zeměpisné délky";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_place" = "Místo";
+
+/* (No Comment) */
+"_ObjectProperty_Coordinate_placeDetail" = "Detail místa";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestMTDNASubResult_haplogroupString" = "Haploskupina mtDNA";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestMTDNASubResultSNPDifference_differenceString" = "SNP rozdíl";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestMTDNASubResultSNPDifference_order" = "Pořadí";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestResult_dateString" = "Datum";
+
+/* DNATestResult */
+"_ObjectProperty_DNATestResult_name" = "Název testu";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestResult_person" = "Osoba";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestResult_templateIdentifier" = "Šablona";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestResult_urlToVendor" = "Odkaz";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestYDNASubResult_haplogroupString" = "Haploskupina Y-DNA";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestYDNASubResultYSTRMarker_order" = "Pořadí";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestYDNASubResultYSTRMarker_strName" = "Název markeru STR";
+
+/* (No Comment) */
+"_ObjectProperty_DNATestYDNASubResultYSTRMarker_strValueString" = "Hodnota STR";
+
+/* (No Comment) */
+"_ObjectProperty_Event_address" = "Adresa";
+
+/* (No Comment) */
+"_ObjectProperty_Event_agency" = "Úřad";
+
+/* (No Comment) */
+"_ObjectProperty_Event_assignedPlace" = "Místo";
+
+/* (No Comment) */
+"_ObjectProperty_Event_assignedPlaceDetail" = "Detail místa";
+
+/* (No Comment) */
+"_ObjectProperty_Event_cause" = "Příčina";
+
+/* Event */
+"_ObjectProperty_Event_date" = "Datum";
+
+/* (No Comment) */
+"_ObjectProperty_Event_ldsStatus" = "Stav LDS";
+
+/* (No Comment) */
+"_ObjectProperty_Event_ldsTempleCode" = "Kód chrámu LDS";
+
+/* (No Comment) */
+"_ObjectProperty_Event_time" = "Čas";
+
+/* (No Comment) */
+"_ObjectProperty_Event_userDescription" = "Popis";
+
+/* Fact */
+"_ObjectProperty_Fact_value" = "Hodnota";
+
+/* Family */
+"_ObjectProperty_Family_cached_marriageDate" = "Datum sňatku";
+
+/* (No Comment) */
+"_ObjectProperty_Family_cached_marriageDateAsDate" = "Datum sňatku";
+
+/* (No Comment) */
+"_ObjectProperty_Family_childRelations" = "Vztahy potomků";
+
+/* (No Comment) */
+"_ObjectProperty_Family_events" = "Rodinné události";
+
+/* (No Comment) */
+"_ObjectProperty_Family_isBookmarked" = "Uloženo do záložek";
+
+/* (No Comment) */
+"_ObjectProperty_Family_man" = "Muž";
+
+/* (No Comment) */
+"_ObjectProperty_Family_woman" = "Žena";
+
+/* FamilyEvent */
+"_ObjectProperty_FamilyEvent_conclusionType" = "Typ události";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyEvent_family" = "Rodina";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressCity" = "Město";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressCountry" = "Země";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressLine" = "1. řádek adresy";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressLine1" = "2. řádek adresy";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressLine2" = "3. řádek adresy";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressLine3" = "4. řádek adresy";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressPostalCode" = "PSČ";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorAddressState" = "Kraj";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorEmail" = "E-mail";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorFax" = "Fax";
+
+/* FamilyTreeInformation */
+"_ObjectProperty_FamilyTreeInformation_authorName" = "Jméno autora";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorPhoneNumber" = "Telefonní číslo";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_authorWebAddress" = "URL webu";
+
+/* (No Comment) */
+"_ObjectProperty_FamilyTreeInformation_mediaThumbnailsStyle" = "Styl náhledu médií";
+
+/* Label */
+"_ObjectProperty_Label_colorComponentsString" = "Barva";
+
+/* (No Comment) */
+"_ObjectProperty_Label_title" = "Nadpis";
+
+/* MediaAudio */
+"_ObjectProperty_MediaAudio_audioFileIdentifier" = "Audio";
+
+/* MediaPDF */
+"_ObjectProperty_MediaPDF_pdfFileIdentifier" = "PDF";
+
+/* (No Comment) */
+"_ObjectProperty_MediaPDF_thumbnailFileIdentifier" = "Náhled";
+
+/* MediaPicture */
+"_ObjectProperty_MediaPicture_pictureFileIdentifier" = "Obrázek";
+
+/* (No Comment) */
+"_ObjectProperty_MediaPicture_thumbnailFileIdentifier" = "Náhled";
+
+/* MediaRelation */
+"_ObjectProperty_MediaRelation_hasMediaRelationAssignment" = "Má oblast přidělení";
+
+/* MediaURL */
+"_ObjectProperty_MediaURL_url" = "Adresa webu";
+
+/* (No Comment) */
+"_ObjectProperty_MediaVideo_thumbnailFileIdentifier" = "Náhled";
+
+/* MediaVideo */
+"_ObjectProperty_MediaVideo_videoFileIdentifier" = "Video";
+
+/* Note */
+"_ObjectProperty_Note_text" = "Text";
+
+/* NoteContainer */
+"_ObjectProperty_NoteContainer_notes" = "Poznámky";
+
+/* OrderedConclusionType */
+"_ObjectProperty_OrderedConclusionType_order" = "Pořadí";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_birthDate" = "Datum narození";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_birthDateAsDate" = "Datum narození";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_christeningDate" = "Datum křtu";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_christeningDateAsDate" = "Datum křtu";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_deathDate" = "Datum úmrtí";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_deathDateAsDate" = "Datum úmrtí";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_fullName" = "Celé jméno";
+
+/* (No Comment) */
+"_ObjectProperty_Person_cached_fullNameForSorting" = "Celé jméno použito pro řazení";
+
+/* Person */
+"_ObjectProperty_Person_firstName" = "Křestní jméno";
+
+/* (No Comment) */
+"_ObjectProperty_Person_firstNameSoundex" = "Výslovnost křestního jména";
+
+/* (No Comment) */
+"_ObjectProperty_Person_gender" = "Pohlaví";
+
+/* (No Comment) */
+"_ObjectProperty_Person_isBookmarked" = "Uloženo do záložek";
+
+/* (No Comment) */
+"_ObjectProperty_Person_isStartPerson" = "Vybráno jako výchozí osoba";
+
+/* (No Comment) */
+"_ObjectProperty_Person_lastName" = "Příjmení";
+
+/* (No Comment) */
+"_ObjectProperty_Person_lastNameSoundex" = "Výslovnost příjmení";
+
+/* (No Comment) */
+"_ObjectProperty_Person_marriedName" = "Jméno po sňatku";
+
+/* (No Comment) */
+"_ObjectProperty_Person_nameMiddle" = "Prostřední jméno";
+
+/* (No Comment) */
+"_ObjectProperty_Person_nameMiddleSoundex" = "Výslovnost prostředního jména";
+
+/* (No Comment) */
+"_ObjectProperty_Person_namePrefix" = "Titul";
+
+/* (No Comment) */
+"_ObjectProperty_Person_namePrefixSoundex" = "Výslovnost nadpisu";
+
+/* (No Comment) */
+"_ObjectProperty_Person_nameSuffix" = "Titul za";
+
+/* (No Comment) */
+"_ObjectProperty_Person_nameSuffixSoundex" = "Výslovnost titulu";
+
+/* PersonEvent */
+"_ObjectProperty_PersonEvent_conclusionType" = "Typ události";
+
+/* (No Comment) */
+"_ObjectProperty_PersonEvent_person" = "Osoba";
+
+/* PersonFact */
+"_ObjectProperty_PersonFact_conclusionType" = "Typ faktu";
+
+/* (No Comment) */
+"_ObjectProperty_PersonFact_person" = "Osoba";
+
+/* PersonGroup */
+"_ObjectProperty_PersonGroup_name" = "Název";
+
+/* (No Comment) */
+"_ObjectProperty_PersonGroup_personGroupColor" = "Barva";
+
+/* (No Comment) */
+"_ObjectProperty_PersonGroup_userDescription" = "Popis";
+
+/* (No Comment) */
+"_ObjectProperty_Place_alternatePlaceNames" = "Alternativní jména";
+
+/* (No Comment) */
+"_ObjectProperty_Place_coordinate" = "Souřadnice";
+
+/* (No Comment) */
+"_ObjectProperty_Place_country" = "Země";
+
+/* (No Comment) */
+"_ObjectProperty_Place_county" = "Okres";
+
+/* (No Comment) */
+"_ObjectProperty_Place_geoNameID" = "GeoName ID";
+
+/* (No Comment) */
+"_ObjectProperty_Place_isBookmarked" = "Je uloženo do záložek";
+
+/* (No Comment) */
+"_ObjectProperty_Place_place" = "Místo";
+
+/* (No Comment) */
+"_ObjectProperty_Place_state" = "Stát";
+
+/* Place */
+"_ObjectProperty_Place_template" = "Šablona místa";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceDetail_geoNameID" = "GeoName ID";
+
+/* PlaceDetail */
+"_ObjectProperty_PlaceDetail_name" = "Název";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceDetail_place" = "Místo";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceKeyValue_place" = "Místo";
+
+/* PlaceKeyValue */
+"_ObjectProperty_PlaceKeyValue_templateKey" = "Pole šablony";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceKeyValue_value" = "Hodnota";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplate_countryIdentifier" = "Země";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplate_isDefaultTemplate" = "Výchozí šablona";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplate_isFavoriteTemplate" = "Oblíbená šablona";
+
+/* PlaceTemplate */
+"_ObjectProperty_PlaceTemplate_name" = "Název";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKey_gedcomTag" = "Značka FORM místa GEDCOM";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKey_internationalName" = "Mezinárodní název";
+
+/* PlaceTemplateKey */
+"_ObjectProperty_PlaceTemplateKey_localName" = "Místní název";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKey_order" = "Pořadí";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_normalCitationBracketMode" = "Závorky normální citace";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_normalCitationEnabled" = "Povoleno pro normální citace";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_normalCitationOrder" = "Pořadí normální citace";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_normalCitationTrailingMode" = "Oddělovač normální citace";
+
+/* PlaceTemplateKeyRelation */
+"_ObjectProperty_PlaceTemplateKeyRelation_order" = "Pořadí";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_shortCitationBracketMode" = "Závorky krátké citace";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_shortCitationEnabled" = "Povoleno pro krátké citace";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_shortCitationOrder" = "Pořadí krátké citace";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_shortCitationTrailingMode" = "Oddělovač krátké citace";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_veryShortCitationBracketMode" = "Závorky velmi krátké citace";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_veryShortCitationEnabled" = "Povoleno pro velmi krátké citace";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_veryShortCitationOrder" = "Pořadí velmi krátké citace";
+
+/* (No Comment) */
+"_ObjectProperty_PlaceTemplateKeyRelation_veryShortCitationTrailingMode" = "Velmi krátký oddělovač citací";
+
+/* (No Comment) */
+"_ObjectProperty_SavedBook_author" = "Autor";
+
+/* SavedBook */
+"_ObjectProperty_SavedBook_bookData" = "Kniha";
+
+/* (No Comment) */
+"_ObjectProperty_SavedBook_subTitle" = "Podtitul";
+
+/* (No Comment) */
+"_ObjectProperty_SavedBook_thumbnailData" = "Náhled";
+
+/* SavedChart */
+"_ObjectProperty_SavedChart_chartObjectsContainerData" = "Graf";
+
+/* (No Comment) */
+"_ObjectProperty_SavedChart_thumbnailData" = "Náhled";
+
+/* SavedReport */
+"_ObjectProperty_SavedReport_reportControllerData" = "Výkaz";
+
+/* (No Comment) */
+"_ObjectProperty_SavedReport_thumbnailData" = "Náhled";
+
+/* (No Comment) */
+"_ObjectProperty_SavedView_date" = "Datum";
+
+/* SavedView */
+"_ObjectProperty_SavedView_title" = "Nadpis";
+
+/* (No Comment) */
+"_ObjectProperty_SavedWebsite_changeDate" = "Datum změny";
+
+/* SavedWebsite */
+"_ObjectProperty_SavedWebsite_fileIdentifier" = "Data";
+
+/* (No Comment) */
+"_ObjectProperty_Scope_archivedFiltersContainerData" = "Popis dynamického filtru";
+
+/* Scope */
+"_ObjectProperty_Scope_scopeEntity" = "Typ dynamického filtru";
+
+/* (No Comment) */
+"_ObjectProperty_Scope_scopeName" = "Název dynamického filtru";
+
+/* (No Comment) */
+"_ObjectProperty_Source_isBookmarked" = "Uloženo do záložek";
+
+/* (No Comment) */
+"_ObjectProperty_Source_sourceRepository" = "Repozitář zdrojů";
+
+/* Source */
+"_ObjectProperty_Source_template" = "Šablona zdroje";
+
+/* (No Comment) */
+"_ObjectProperty_Source_text" = "Text";
+
+/* SourceContainer */
+"_ObjectProperty_SourceContainer_sourceRelations" = "Zdroje citací";
+
+/* (No Comment) */
+"_ObjectProperty_SourceKeyValue_source" = "Zdroj";
+
+/* SourceKeyValue */
+"_ObjectProperty_SourceKeyValue_templateKey" = "Pole šablony";
+
+/* (No Comment) */
+"_ObjectProperty_SourceKeyValue_value" = "Hodnota";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRelation_certainty" = "Jistota";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRelation_page" = "Stránka";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRelation_qualityEvidence" = "Kvalita evidence";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRelation_qualityInformation" = "Kvalita informace";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRelation_qualitySource" = "Kvalita zdroje";
+
+/* SourceRelation */
+"_ObjectProperty_SourceRelation_source" = "Zdroj";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRelation_sourceContainer" = "Odkazovaná položka";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_address" = "Adresa";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_addressLine1" = "Adresní řádek č. 1";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_addressLine2" = "Adresní řádek č. 2";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_addressLine3" = "Adresní řádek č. 3";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_city" = "Město";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_country" = "Země";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_email" = "E-mail";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_fax" = "Fax";
+
+/* SourceRepository */
+"_ObjectProperty_SourceRepository_name" = "Název";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_phone" = "Telefon";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_postalCode" = "PSČ";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_state" = "Adresa";
+
+/* (No Comment) */
+"_ObjectProperty_SourceRepository_www" = "WWW";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplate_isDefaultTemplate" = "Výchozí šablona";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplate_isFavoriteTemplate" = "Oblíbená šablona";
+
+/* SourceTemplate */
+"_ObjectProperty_SourceTemplate_name" = "Název";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKey_gedcomTag" = "Značka GEDCOM";
+
+/* SourceTemplateKey */
+"_ObjectProperty_SourceTemplateKey_name" = "Název pole";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKey_order" = "Pořadí";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKey_type" = "Typ pole";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_isDateForDisplayComponent" = "Zahrnuto v datu zdroje";
+
+/* SourceTemplateKeyRelation */
+"_ObjectProperty_SourceTemplateKeyRelation_isTitleComponent" = "Zahrnuto v názvu zdroje";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_longCitationBracketMode" = "Závorky dlouhé citace";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_longCitationEnabled" = "Povoleno pro dlouhou citaci";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_longCitationFontMode" = "Písmo dlouhé citace";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_longCitationOrder" = "Pořadí dlouhé citace";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_longCitationTrailingMode" = "Oddělovač dlouhé citace";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_order" = "Pořadí";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_shortCitationBracketMode" = "Závorky krátké citace";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_shortCitationEnabled" = "Povoleno pro krátkou citaci";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_shortCitationFontMode" = "Písmo krátké citace";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_shortCitationOrder" = "Pořadí krátké citace";
+
+/* (No Comment) */
+"_ObjectProperty_SourceTemplateKeyRelation_shortCitationTrailingMode" = "Oddělovač krátké citace";
+
+/* (No Comment) */
+"_ObjectProperty_Story_fromDate" = "Od data";
+
+/* Story */
+"_ObjectProperty_Story_title" = "Název";
+
+/* (No Comment) */
+"_ObjectProperty_Story_toDate" = "K datu";
+
+/* (No Comment) */
+"_ObjectProperty_Story_userDescription" = "Popis";
+
+/* (No Comment) */
+"_ObjectProperty_StorySection_order" = "Pořadí";
+
+/* StorySection */
+"_ObjectProperty_StorySection_subtitle" = "Název sekce";
+
+/* (No Comment) */
+"_ObjectProperty_StorySection_text" = "Text";
+
+/* ToDo */
+"_ObjectProperty_ToDo_dueDate" = "Datum splnění";
+
+/* (No Comment) */
+"_ObjectProperty_ToDo_priorityConclusionType" = "Priorita";
+
+/* (No Comment) */
+"_ObjectProperty_ToDo_statusConclusionType" = "Stav";
+
+/* (No Comment) */
+"_ObjectProperty_ToDo_text" = "Text";
+
+/* (No Comment) */
+"_ObjectProperty_ToDo_title" = "Název";
+
+/* (No Comment) */
+"_ObjectProperty_ToDo_typeConclusionType" = "Typ";
+
+/* (No Comment) */
+"_ObjectType_AdditionalName" = "Další jméno";
+
+/* (No Comment) */
+"_ObjectType_AssociateRelation" = "Vztah vlivné osoby";
+
+/* (No Comment) */
+"_ObjectType_BaseMedia" = "Médium";
+
+/* (No Comment) */
+"_ObjectType_BaseObjectFamilySearchProperties" = "Informace o FamilySearch";
+
+/* (No Comment) */
+"_ObjectType_Book" = "Kniha";
+
+/* (No Comment) */
+"_ObjectType_BookBaseObjectReportBuilder" = "Osobní / rodinný výkaz";
+
+/* (No Comment) */
+"_ObjectType_BookBaseObjectsBasedReportBuilderObject" = "Objekt sekce výkazu";
+
+/* (No Comment) */
+"_ObjectType_BookBaseObjectsBasedReportBuilderSection" = "Sekce výkazu";
+
+/* (No Comment) */
+"_ObjectType_BookChapter" = "Kapitola knihy";
+
+/* (No Comment) */
+"_ObjectType_BookDiagramBaseObject" = "Objekt sekce diagramu";
+
+/* (No Comment) */
+"_ObjectType_BookDiagramReportBuilderSection" = "Sekce diagramu %@";
+
+/* (No Comment) */
+"_ObjectType_BookFamilyBasedReportBuilderSection" = "Sekce výkazu";
+
+/* (No Comment) */
+"_ObjectType_BookFamilySection" = "Sekce rodiny";
+
+/* (No Comment) */
+"_ObjectType_BookGenericReportBuilderSection" = "Sekce výkazu";
+
+/* (No Comment) */
+"_ObjectType_BookPersonBasedReportBuilderSection" = "Sekce výkazu";
+
+/* (No Comment) */
+"_ObjectType_BookPersonSection" = "Sekce osoby";
+
+/* (No Comment) */
+"_ObjectType_BookReportBuilderFamily" = "Rodinná sekce výkazu";
+
+/* (No Comment) */
+"_ObjectType_BookReportBuilderPerson" = "Osobní sekce výkazu";
+
+/* (No Comment) */
+"_ObjectType_BookSerializedBaseObjectReportBuilder" = "Konfigurace výkazu";
+
+/* (No Comment) */
+"_ObjectType_BookSerializedBaseReportBuilder" = "Konfigurace sekce výkazu";
+
+/* (No Comment) */
+"_ObjectType_BookSerializedChapterReportBuilder" = "Konfigurace kapitoly výkazu";
+
+/* (No Comment) */
+"_ObjectType_BookSerializedEditedReportBuilder" = "Upravená konfigurace výkazu";
+
+/* (No Comment) */
+"_ObjectType_ChangeLogEntry" = "Seznam změn";
+
+/* (No Comment) */
+"_ObjectType_ChangeLogSubEntry" = "Záznam seznamu změn";
+
+/* (No Comment) */
+"_ObjectType_ChildRelation" = "Vztah potomka";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerCloudKitChangesWorklist" = "Informace o synchronizaci CloudTree";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerCloudKitChangesWorklistAddVerifyListItem" = "Informace o synchronizaci CloudTree";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerCloudKitChangesWorklistForRecordType" = "Informace o synchronizaci CloudTree";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerCloudKitChangesWorklistForRecordTypeEntry" = "Informace o synchronizaci CloudTree";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerCloudKitChangesWorklistZoneNameServerChangeToken" = "Informace o synchronizaci CloudTree";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerLocalChangesWorklist" = "Informace o synchronizaci CloudTree";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerLocalChangesWorklistDanglingReferenceEntry" = "Informace o synchronizaci CloudTree";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerLocalChangesWorklistFinalDeleteEntry" = "Informace o synchronizaci CloudTree";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerLocalChangesWorklistForEntity" = "Informace o synchronizaci CloudTree";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerLocalChangesWorklistForEntityEntry" = "Informace o synchronizaci CloudTree";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerLocalChangesWorklistPostponedEntry" = "Informace o synchronizaci CloudTree";
+
+/* (No Comment) */
+"_ObjectType_CloudKitCoordinatorDatabaseHandlerSpecialPostDownloadStep" = "Informace o synchronizaci CloudTree";
+
+/* (No Comment) */
+"_ObjectType_ConclusionAdditionalNameType" = "Typ dalšího jména";
+
+/* (No Comment) */
+"_ObjectType_ConclusionAssociateRelationType" = "Typ vlivného vztahu";
+
+/* (No Comment) */
+"_ObjectType_ConclusionFamilyEventType" = "Typ události rodiny";
+
+/* (No Comment) */
+"_ObjectType_ConclusionPersonEventType" = "Typ události osoby";
+
+/* (No Comment) */
+"_ObjectType_ConclusionPersonFactType" = "Typ faktu osoby";
+
+/* (No Comment) */
+"_ObjectType_Coordinate" = "Souřadnice";
+
+/* (No Comment) */
+"_ObjectType_DNATestATDNASubResult" = "Informace o výsledku autosomální DNA";
+
+/* (No Comment) */
+"_ObjectType_DNATestBaseSubResultRawDataFile" = "Soubor surových DNA dat";
+
+/* (No Comment) */
+"_ObjectType_DNATestMTDNASubResult" = "Informace výsledku mtDNA";
+
+/* (No Comment) */
+"_ObjectType_DNATestMTDNASubResultSNPDifference" = "mtDNA SNP rozdíl";
+
+/* (No Comment) */
+"_ObjectType_DNATestResult" = "Výsledek testu DNA";
+
+/* (No Comment) */
+"_ObjectType_DNATestYDNASubResult" = "Informace výsledku Y-DNA";
+
+/* (No Comment) */
+"_ObjectType_DNATestYDNASubResultYSTRMarker" = "Y-DNA STR marker";
+
+/* (No Comment) */
+"_ObjectType_Event" = "Událost";
+
+/* (No Comment) */
+"_ObjectType_Fact" = "Fakt";
+
+/* (No Comment) */
+"_ObjectType_Family" = "Rodina";
+
+/* (No Comment) */
+"_ObjectType_FamilyEvent" = "Událost rodiny";
+
+/* (No Comment) */
+"_ObjectType_FamilySearchKnownBadFurtherInformationMatch" = "Informace FamilySearch";
+
+/* (No Comment) */
+"_ObjectType_FamilySearchKnownBadPersonMatch" = "Informace FamilySearch";
+
+/* (No Comment) */
+"_ObjectType_FamilyTreeInformation" = "Informace o rodokmenu";
+
+/* (No Comment) */
+"_ObjectType_Label" = "Štítek";
+
+/* (No Comment) */
+"_ObjectType_LabelRelation" = "Vztah štítků";
+
+/* (No Comment) */
+"_ObjectType_MediaAudio" = "Audio";
+
+/* (No Comment) */
+"_ObjectType_MediaPDF" = "PDF";
+
+/* (No Comment) */
+"_ObjectType_MediaPicture" = "Obrázek";
+
+/* (No Comment) */
+"_ObjectType_MediaRelation" = "Vztah médií";
+
+/* (No Comment) */
+"_ObjectType_MediaRelationAssignment" = "Přiřazení vztahu médií";
+
+/* (No Comment) */
+"_ObjectType_MediaRelationAssignmentPicture" = "Vztah média přiřazení obrázku";
+
+/* (No Comment) */
+"_ObjectType_MediaURL" = "Odkaz";
+
+/* (No Comment) */
+"_ObjectType_MediaVideo" = "Video";
+
+/* (No Comment) */
+"_ObjectType_Note" = "Poznámka";
+
+/* Object Types */
+"_ObjectType_Person" = "Osoba";
+
+/* (No Comment) */
+"_ObjectType_PersonEvent" = "Událost osoby";
+
+/* (No Comment) */
+"_ObjectType_PersonFact" = "Osobní fakt";
+
+/* (No Comment) */
+"_ObjectType_PersonGroup" = "Skupina osob";
+
+/* (No Comment) */
+"_ObjectType_PersonGroupRelation" = "Vztah skupiny osob";
+
+/* (No Comment) */
+"_ObjectType_Place" = "Místo";
+
+/* (No Comment) */
+"_ObjectType_PlaceDetail" = "Detail místa";
+
+/* (No Comment) */
+"_ObjectType_PlaceKeyValue" = "Hodnota místa";
+
+/* (No Comment) */
+"_ObjectType_PlaceTemplate" = "Šablona místa";
+
+/* (No Comment) */
+"_ObjectType_PlaceTemplateKey" = "Pole šablony místa";
+
+/* (No Comment) */
+"_ObjectType_PlaceTemplateKeyRelation" = "Vztah pole šablony místa";
+
+/* (No Comment) */
+"_ObjectType_ResearchAssistantQuestionInfo" = "Informace asistenta výzkumu";
+
+/* (No Comment) */
+"_ObjectType_SavedBook" = "Uložená kniha";
+
+/* (No Comment) */
+"_ObjectType_SavedChart" = "Uložený graf";
+
+/* (No Comment) */
+"_ObjectType_SavedReport" = "Uložený výkaz";
+
+/* (No Comment) */
+"_ObjectType_SavedWebsite" = "Uložený web";
+
+/* (No Comment) */
+"_ObjectType_Scope" = "Dynamický filtr";
+
+/* (No Comment) */
+"_ObjectType_Source" = "Zdroj";
+
+/* (No Comment) */
+"_ObjectType_SourceKeyValue" = "Hodnota zdroje";
+
+/* (No Comment) */
+"_ObjectType_SourceRelation" = "Citace zdroje";
+
+/* (No Comment) */
+"_ObjectType_SourceRepository" = "Repozitář zdrojů";
+
+/* (No Comment) */
+"_ObjectType_SourceTemplate" = "Šablona zdroje";
+
+/* (No Comment) */
+"_ObjectType_SourceTemplateKey" = "Pole šablony zdroje";
+
+/* (No Comment) */
+"_ObjectType_SourceTemplateKeyRelation" = "Vztah pole šablony zdroje";
+
+/* (No Comment) */
+"_ObjectType_Story" = "Příběh";
+
+/* (No Comment) */
+"_ObjectType_StoryRelation" = "Vztah příběhu";
+
+/* (No Comment) */
+"_ObjectType_StorySection" = "Sekce příběhu";
+
+/* (No Comment) */
+"_ObjectType_StorySectionRelation" = "Vztah příběhové sekce";
+
+/* (No Comment) */
+"_ObjectType_ToDo" = "Úkol";
+
+/* (No Comment) */
+"_ObjectType_ToDoRelation" = "Vztah úkolů";
+
+/* (No Comment) */
+"_Person_ChangeLog_Added" = "Osoba byla přidána";
+
+/* (No Comment) */
+"_Person_ChangeLog_ConflictResolved" = "Konflikt vlastnictví '%@' byl vyřešen na '%@'";
+
+/* (No Comment) */
+"_Person_ChangeLog_Deleted" = "Smazána osoba '%@'";
+
+/* (No Comment) */
+"_Person_ChangeLogKey" = "Osoba %@";
+
+/* (No Comment) */
+"_Person_ChangeLogPropertyKey_FirstName" = "Křestní jméno bylo změněno z '%@' na '%@'";
+
+/* (No Comment) */
+"_Person_ChangeLogPropertyKey_Gender" = "Pohlaví bylo změněno z '%@' na '%@'";
+
+/* (No Comment) */
+"_Person_ChangeLogPropertyKey_LastName" = "Příjmení bylo změněno z '%@' na '%@'";
+
+/* (No Comment) */
+"_Person_ChangeLogPropertyKey_NameMiddle" = "Přostřední jméno bylo změněno z '%@' na '%@'";
+
+/* (No Comment) */
+"_Person_ChangeLogPropertyKey_NamePrefix" = "Před jménem bylo změněno z '%@' na '%@'";
+
+/* (No Comment) */
+"_Person_ChangeLogPropertyKey_NameSuffix" = "Za jménem bylo změněno z '%@' na '%@'";
+
+/* (No Comment) */
+"_PlaceTemplateKeyRelation_relationUsage" = "Použití";
+
+/* (No Comment) */
+"_Source_ChangeLog_Added" = "Zdroj byl přidán";
+
+/* (No Comment) */
+"_Source_ChangeLog_ConflictResolved" = "Konflikt vlastnictví '%@' zdroje byl vyřešen na '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLog_Deleted" = "Zdroj '%@' byl smazán";
+
+/* (No Comment) */
+"_Source_ChangeLogKey" = "Zdroj %@";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Abbreviation" = "Zkratka změněna z '%@' na '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Agency" = "Úřad byl změněn z '%@' na '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Author" = "Autor změněn z '%@' na '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Date" = "Datum změněno z '%@' na '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Place" = "Místo změněno z '%@' na '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Publication" = "Publikace změněna z '%@' na '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_ReferenceNumber" = "Referenční číslo bylo změněno z '%@' na '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_ReferenceType" = "Typ reference byl změněn z '%@' na '%@'";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Text" = "Text byl změněn";
+
+/* (No Comment) */
+"_Source_ChangeLogPropertyKey_Title" = "Nadpis byl změněn z '%@' na '%@'";
+
+/* (No Comment) */
+"_SourceKeyValue_ChangeLog_Added" = "Hodnota '%@' byla přidána";
+
+/* (No Comment) */
+"_SourceKeyValue_ChangeLog_ConflictResolvedForValueProperty" = "Konflikt hodnoty '%@' byl vyřešen na '%@'";
+
+/* (No Comment) */
+"_SourceKeyValue_ChangeLog_Deleted" = "Hodnota '%@' byla smazána";
+
+/* (No Comment) */
+"_SourceKeyValue_ChangeLogPropertyKey_Value" = "Hodnota '%@' byla změněna z '%@' na '%@'";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLog_SourceContainerDelete" = "Zdroj citace '%@' byl odstraněn";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLog_SourceDelete" = "Zdroj citace '%@' byl odstraněn";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLogPropertyKey_Page" = "Stránka citace zdroje '%@' byla změněna z '%@' na '%@'";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLogPropertyKey_QualityEvidence" = "Důkaz kvality zdroje citace zdroje '%@' byl změně z '%@' na '%@'";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLogPropertyKey_QualityInformation" = "Informace kvality zdroje citace zdroje '%@' byla změněna z '%@' na '%@'";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLogPropertyKey_QualitySource" = "Kvalita zdroje citace pro zdroj '%@' byla změněna z '%@' na '%@'";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLogPropertyKey_Source" = "Přidáno jako zdroj citace do '%@'";
+
+/* (No Comment) */
+"_SourceRelation_ChangeLogPropertyKey_SourceContainer" = "Zdroj citace  '%@' byl přidán";
+
