@@ -3,5 +3,17 @@
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', 'G-VGJ94LX338');
+  gtag('config', 'G-VGJ94LX338', { send_page_view: false });
+
+  // MacFamilyTree's export is a hash-based single-page app. Record each
+  // in-app navigation, including the initial route, as its own page view.
+  function trackPageView() {
+    gtag('event', 'page_view', {
+      page_location: window.location.href,
+      page_path: window.location.pathname + window.location.hash
+    });
+  }
+
+  trackPageView();
+  window.addEventListener('hashchange', trackPageView);
 </script>

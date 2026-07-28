@@ -1,42 +1,55 @@
-import os
+"""Add or refresh the Google Analytics snippet after a MacFamilyTree export.
 
-def add_footer_with_gtag_to_all_html(directory, gtag_file):
-    # Read the content of gtag.html and wrap it in <footer> tags
-    with open(gtag_file, 'r') as gtag:
-        footer_tag = f"<footer>\n{gtag.read()}\n</footer>"
+Run this from the repository root after exporting MacFamilyTree into ``tree/``:
 
-    for root, _, files in os.walk(directory):
-        for file in files:
-            if file.endswith(".html"):
-                file_path = os.path.join(root, file)
-                
-                # Skip the gtag.html file itself
-                if os.path.abspath(file_path) == os.path.abspath(gtag_file):
-                    continue
-                
-                with open(file_path, 'r') as f:
-                    content = f.readlines()
+    python3 add_footer.py
+"""
 
-                # Check if the file already contains a footer
-                if any("<footer>" in line for line in content):
-                    print(f"Skipping {file_path}, footer already exists.")
-                    continue
+from pathlib import Path
+import re
 
-                # Find the closing </body> tag and insert the footer before it
-                for i, line in enumerate(content):
-                    if "</body>" in line:
-                        content[i] = line.replace("</body>", footer_tag + "\n</body>")
-                        break
 
-                with open(file_path, 'w') as f:
-                    f.writelines(content)
-                print(f"Added footer to {file_path}")
+EXPORT_DIRECTORY = Path("tree")
+GTAG_FILE = Path("gtag.html")
+START_MARKER = "<!-- family-tree-gtag:start -->"
+END_MARKER = "<!-- family-tree-gtag:end -->"
 
-# Directory containing the .html files
-directory = "."
 
-# Path to the gtag.html file
-gtag_file = os.path.join(directory, "gtag.html")
+def managed_footer(gtag_content: str) -> str:
+    return f"<footer>\n{START_MARKER}\n{gtag_content.strip()}\n{END_MARKER}\n</footer>"
 
-# Call the function to add the footer to all .html files
-add_footer_with_gtag_to_all_html(directory, gtag_file)
+
+def replace_existing_analytics(content: str) -> str:
+    """Remove a previously injected managed block or the legacy analytics footer."""
+    managed_pattern = re.compile(
+        rf"\s*<footer>\s*{re.escape(START_MARKER)}.*?{re.escape(END_MARKER)}\s*</footer>",
+        re.DOTALL,
+    )
+    legacy_pattern = re.compile(
+        r"\s*<footer>\s*<script async src=\"https://www\.googletagmanager\.com/gtag/js\?id=[^\"]+\"></script>"
+        r".*?</script>\s*</footer>",
+        re.DOTALL,
+    )
+    return legacy_pattern.sub("", managed_pattern.sub("", content))
+
+
+def update_export() -> None:
+    if not EXPORT_DIRECTORY.is_dir():
+        raise SystemExit(f"Export directory not found: {EXPORT_DIRECTORY}")
+
+    gtag_content = GTAG_FILE.read_text(encoding="utf-8")
+    footer = managed_footer(gtag_content)
+
+    for html_file in EXPORT_DIRECTORY.rglob("*.html"):
+        content = replace_existing_analytics(html_file.read_text(encoding="utf-8"))
+        if "</body>" not in content:
+            print(f"Skipping {html_file}: no closing </body> tag.")
+            continue
+
+        updated_content = content.replace("</body>", f"{footer}\n</body>", 1)
+        html_file.write_text(updated_content, encoding="utf-8")
+        print(f"Updated analytics in {html_file}")
+
+
+if __name__ == "__main__":
+    update_export()

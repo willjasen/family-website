@@ -1,10 +1,25 @@
-<!doctype html><html lang="en"><head><link rel="apple-touch-icon" href="./apple-touch-icon.png"/><link rel="icon" sizes="32x32" href="./favicon.ico"/><meta charset="utf-8"/><link rel="icon" sizes="32x32" href="./favicon.ico"/><link rel="apple-touch-icon" href="./apple-touch-icon.png"/><meta name="viewport" content="width=device-width,initial-scale=1"/><meta name="theme-color" content="#000000"/><meta name="description" content="Web site created using MacFamilyTree"/><link rel="manifest" href="./manifest.json"/><title>Brandon's Family Tree</title><script defer="defer" src="./static/js/main.666c438b.js"></script><link href="./static/css/main.072d4b6b.css" rel="stylesheet"></head><body><noscript>You need to enable JavaScript to run this app.</noscript><div id="root"></div><footer>
+<!doctype html><html lang="en"><head><link rel="apple-touch-icon" href="./apple-touch-icon.png"/><link rel="icon" sizes="32x32" href="./favicon.ico"/><meta charset="utf-8"/><link rel="icon" sizes="32x32" href="./favicon.ico"/><link rel="apple-touch-icon" href="./apple-touch-icon.png"/><meta name="viewport" content="width=device-width,initial-scale=1"/><meta name="theme-color" content="#000000"/><meta name="description" content="Web site created using MacFamilyTree"/><link rel="manifest" href="./manifest.json"/><title>Brandon's Family Tree</title><script defer="defer" src="./static/js/main.666c438b.js"></script><link href="./static/css/main.072d4b6b.css" rel="stylesheet"></head><body><noscript>You need to enable JavaScript to run this app.</noscript><div id="root"></div>
+<footer>
+<!-- family-tree-gtag:start -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-VGJ94LX338"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', 'G-VGJ94LX338');
+  gtag('config', 'G-VGJ94LX338', { send_page_view: false });
+
+  // MacFamilyTree's export is a hash-based single-page app. Record each
+  // in-app navigation, including the initial route, as its own page view.
+  function trackPageView() {
+    gtag('event', 'page_view', {
+      page_location: window.location.href,
+      page_path: window.location.pathname + window.location.hash
+    });
+  }
+
+  trackPageView();
+  window.addEventListener('hashchange', trackPageView);
 </script>
+<!-- family-tree-gtag:end -->
 </footer>
 </body></html>
