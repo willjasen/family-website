@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="refresh" content="10; url=./tree/index.html">
+    <title>Brandon's Family Tree</title>
+    <style>
+      :root { color-scheme: light dark; }
+      body {
+        align-items: center;
+        background: #f6f3ed;
+        color: #2b3328;
+        display: flex;
+        font-family: Georgia, "Times New Roman", serif;
+        justify-content: center;
+        margin: 0;
+        min-height: 100vh;
+        text-align: center;
+      }
+      main { max-width: 34rem; padding: 2rem; }
+      h1 { font-size: clamp(2rem, 6vw, 3.5rem); margin: 0; }
+      p { font-family: system-ui, sans-serif; font-size: 1.1rem; line-height: 1.6; }
+      a { color: #315b3b; font-weight: 700; }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>Brandon's Family Tree</h1>
+      <p>I have made this website for my family tree!</p>
+      <p>The family tree will open in <span id="countdown">10</span> seconds.</p>
+      <p><a href="./tree/index.html">Open the family tree now</a></p>
+    </main>
+    <script>
+      const destination = "./tree/index.html";
+      const countdown = document.getElementById("countdown");
+      let secondsRemaining = 10;
+
+      const timer = window.setInterval(() => {
+        secondsRemaining -= 1;
+        countdown.textContent = secondsRemaining;
+        if (secondsRemaining === 0) {
+          window.clearInterval(timer);
+          window.location.assign(destination);
+        }
+      }, 1000);
+    </script>
+  </body>
+</html>
